@@ -1,26 +1,21 @@
 # nrk-rss
 
-**Podcast RSS feeds for every podcast on NRK Radio.**
+Podcast RSS feeds for every podcast on NRK Radio.
 
-NRK Radio doesn't give you RSS feeds you can paste into a normal podcast app.
-This makes them — one standard feed per podcast, updated daily, free to use.
+NRK Radio doesn't publish RSS feeds you can paste into a normal podcast app, so
+this makes them: one standard feed per podcast, regenerated daily.
 
-## Use it
+**https://demoniskk.github.io/nrk-rss/**
 
-### https://demoniskk.github.io/nrk-rss/
+Search that page for a podcast, copy its feed link, and paste it into your
+podcast app. No account, nothing to install. The feeds work in Apple Podcasts,
+Pocket Casts, Overcast, AntennaPod, or anything else that takes an RSS URL.
 
-Search for a podcast, copy its feed link, paste it into your podcast app.
-That's it — no account, no app to install.
+Each feed carries the podcast's artwork and description, plus every episode with
+its own title, description, publication date and audio. The audio links point
+straight at the files NRK already publishes — nothing is re-hosted.
 
-The feeds work in Apple Podcasts, Pocket Casts, Overcast, AntennaPod, gPodder,
-or anything else that accepts an RSS URL. Each feed carries the podcast's
-artwork, description, and every episode with its title, description, publication
-date and audio.
-
-Feeds link straight to the audio files NRK already publishes. Nothing is
-re-hosted, and nothing is downloaded to serve you.
-
-## What it actually does
+## What it does
 
 A small Go program that, once a day:
 

@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mellom oss</title>
+    <link>https://radio.nrk.no/podkast/mellom_oss</link>
+    <description>Her får du serier som tar deg tett på det fineste og vondeste i livet. Hør andres historier og bli klokere på deg selv.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Mon, 24 Nov 2025 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/mellom_oss.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Her får du serier som tar deg tett på det fineste og vondeste i livet. Hør andres historier og bli klokere på deg selv.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/uPuBV9TWKrJUJE699NEnGg4IoDGzkgCgRCTkWuXV534w"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/uPuBV9TWKrJUJE699NEnGg4IoDGzkgCgRCTkWuXV534w</url>
+      <title>Mellom oss</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss</link>
+    </image>
+    <item>
+      <title>Rakels siste ord</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_7e6db13e-0bae-4ab0-adb1-3e0bae3ab08f</link>
+      <description>Da 18 år gamle Rakel dør, oppdager foreldrene et hemmelig opptak på telefonen hennes. Verdien det skal få, kan de ikke ane.</description>
+      <guid isPermaLink="false">l_7e6db13e-0bae-4ab0-adb1-3e0bae3ab08f</guid>
+      <pubDate>Mon, 24 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/7e6db13e-0bae-4ab0-adb1-3e0bae3ab08f_ID192MP3.mp3" type="audio/mpeg" length="56043692"></enclosure>
+      <itunes:title>Rakels siste ord</itunes:title>
+      <itunes:summary>Da 18 år gamle Rakel dør, oppdager foreldrene et hemmelig opptak på telefonen hennes. Verdien det skal få, kan de ikke ane.</itunes:summary>
+      <itunes:duration>2335</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BKn10Q2jSTifn1TRqRCeCggDdHDtLe924Pq1D7YIBGLg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Livet (5:5)</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_657b57e6-558c-436e-bb57-e6558c836e0f</link>
+      <description>Liv har strukket seg langt med tanke på hva hun synes er riktig og etisk. Men valget er tatt. Nå er det om å gjøre at ingenting galt skjer underveis.</description>
+      <guid isPermaLink="false">l_657b57e6-558c-436e-bb57-e6558c836e0f</guid>
+      <pubDate>Wed, 09 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/6d3bdc68-ddf0-4bab-95f3-608ce4c77819_0_ID192MP3.mp3" type="audio/mpeg" length="42848685"></enclosure>
+      <itunes:title>Livet (5:5)</itunes:title>
+      <itunes:summary>Liv har strukket seg langt med tanke på hva hun synes er riktig og etisk. Men valget er tatt. Nå er det om å gjøre at ingenting galt skjer underveis.</itunes:summary>
+      <itunes:duration>1785</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R9KaJ_ZkdxUyAmgvowePoQcrca8y3CwETpFIHP4Mf3aw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valget (4:5)</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_d05e591f-a483-4112-9e59-1fa483b112e0</link>
+      <description>Liv er langt nede, men nekter å gi opp drømmen om å få barn. En dag oppdager hun noe på nettet som hun tror kan bli en løsning.</description>
+      <guid isPermaLink="false">l_d05e591f-a483-4112-9e59-1fa483b112e0</guid>
+      <pubDate>Wed, 02 Nov 2022 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/e15fe3d9-161d-491b-b792-d08b0cc275a9_0_ID192MP3.mp3" type="audio/mpeg" length="38490669"></enclosure>
+      <itunes:title>Valget (4:5)</itunes:title>
+      <itunes:summary>Liv er langt nede, men nekter å gi opp drømmen om å få barn. En dag oppdager hun noe på nettet som hun tror kan bli en løsning.</itunes:summary>
+      <itunes:duration>1603</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R9KaJ_ZkdxUyAmgvowePoQcrca8y3CwETpFIHP4Mf3aw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Håpet (3:5)</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_643d7ea8-2fee-4158-bd7e-a82fee7158c2</link>
+      <description>Liv blir mamma, men mister barnet. Sorgen etter Sebastian lever sterkt inni henne, men hun bestemmer seg for at hun skal videre.</description>
+      <guid isPermaLink="false">l_643d7ea8-2fee-4158-bd7e-a82fee7158c2</guid>
+      <pubDate>Wed, 02 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/b34fa8f9-8471-4e2e-8d10-579c46023673_0_ID192MP3.mp3" type="audio/mpeg" length="48695661"></enclosure>
+      <itunes:title>Håpet (3:5)</itunes:title>
+      <itunes:summary>Liv blir mamma, men mister barnet. Sorgen etter Sebastian lever sterkt inni henne, men hun bestemmer seg for at hun skal videre.</itunes:summary>
+      <itunes:duration>2028</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R9KaJ_ZkdxUyAmgvowePoQcrca8y3CwETpFIHP4Mf3aw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Døden (2:5) </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_05a30ebf-1628-46b1-a30e-bf162816b1f4</link>
+      <description>Å bli gravid alene ble løsningen for Liv. Men hvordan skal det gå framover? Hun blir utsatt for noe som kommer til å kreve alt hun har av styrke.</description>
+      <guid isPermaLink="false">l_05a30ebf-1628-46b1-a30e-bf162816b1f4</guid>
+      <pubDate>Wed, 26 Oct 2022 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/b261c644-7b47-4369-9055-28928a71388c_0_ID192MP3.mp3" type="audio/mpeg" length="49736493"></enclosure>
+      <itunes:title>Døden (2:5) </itunes:title>
+      <itunes:summary>Å bli gravid alene ble løsningen for Liv. Men hvordan skal det gå framover? Hun blir utsatt for noe som kommer til å kreve alt hun har av styrke.</itunes:summary>
+      <itunes:duration>2072</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R9KaJ_ZkdxUyAmgvowePoQcrca8y3CwETpFIHP4Mf3aw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kjærligheten (1:5) </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_448b476e-349c-45bb-8b47-6e349c65bb5f</link>
+      <description>Liv har alltid tenkt at hun skal bli mamma til en hel skokk, men nå har hun blitt 42. Tiden renner ut, og nå må hun handle raskt.</description>
+      <guid isPermaLink="false">l_448b476e-349c-45bb-8b47-6e349c65bb5f</guid>
+      <pubDate>Wed, 26 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/c59cc737-5fac-49f5-903f-9fa1b8c562f8_0_ID192MP3.mp3" type="audio/mpeg" length="41754861"></enclosure>
+      <itunes:title>Kjærligheten (1:5) </itunes:title>
+      <itunes:summary>Liv har alltid tenkt at hun skal bli mamma til en hel skokk, men nå har hun blitt 42. Tiden renner ut, og nå må hun handle raskt.</itunes:summary>
+      <itunes:duration>1739</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R9KaJ_ZkdxUyAmgvowePoQcrca8y3CwETpFIHP4Mf3aw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Er du her for meg?</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_1ed17b45-e1e4-48e8-917b-45e1e498e819</link>
+      <description>Ulikhetene mellom Jan Henrik og Marius blir etter hvert veldig tydelige. Hva gjør man når den ene blir hekta på sunnhet og trening, mens den andre bare vil ligge på sofaen? Er det mulig å finne hverandre igjen når man har begynt å leve parallelle liv? Og hva gjør du når du føler seg ensom i forholdet? &#xA;&#xA;I kommisjonen: Catrin Sagen og Sindre Kvithyld Aasli.&#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Lisbeth Fauske Løland, Karoline Møller og Maia Østerud.&#xA;Vignettmusikk: Cloroform.</description>
+      <guid isPermaLink="false">l_1ed17b45-e1e4-48e8-917b-45e1e498e819</guid>
+      <pubDate>Wed, 19 Oct 2022 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/ff31ab91-6752-40ec-a7ae-6318970c29ec_0_ID192MP3.mp3" type="audio/mpeg" length="61621677"></enclosure>
+      <itunes:title>Havarikommisjonen: Er du her for meg?</itunes:title>
+      <itunes:summary>Ulikhetene mellom Jan Henrik og Marius blir etter hvert veldig tydelige. Hva gjør man når den ene blir hekta på sunnhet og trening, mens den andre bare vil ligge på sofaen? Er det mulig å finne hverandre igjen når man har begynt å leve parallelle liv? Og hva gjør du når du føler seg ensom i forholdet? &#xA;&#xA;I kommisjonen: Catrin Sagen og Sindre Kvithyld Aasli.&#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Lisbeth Fauske Løland, Karoline Møller og Maia Østerud.&#xA;Vignettmusikk: Cloroform.</itunes:summary>
+      <itunes:duration>2567</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ovPZVFS1EUnXxVhKUJW5Lg1oTiMlr3IAz1Oc3S8XUSPA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Når orden møter kaos</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_09f6d257-a80c-4fde-b6d2-57a80cafde70</link>
+      <description>Aslak og Camilla misforstår hverandre ofte. Den ene er spontan og den andre er planlegger. Hvordan takle ulikhetene? For Camilla og Aslak faller mange brikker på plass da han etter mange år får en diagnose. &#xA;&#xA;I kommisjonen: Sissel Gran og Dimitrij Kielland Samoilow&#xA;Programleder: Eivind Sæther&#xA;Produsenter: Karoline Møller og Maia Østerud&#xA;Vignettmusikk: Cloroform</description>
+      <guid isPermaLink="false">l_09f6d257-a80c-4fde-b6d2-57a80cafde70</guid>
+      <pubDate>Wed, 12 Oct 2022 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/8b78a64d-10ad-43ad-938a-748f8b85860b_0_ID192MP3.mp3" type="audio/mpeg" length="79718445"></enclosure>
+      <itunes:title>Havarikommisjonen: Når orden møter kaos</itunes:title>
+      <itunes:summary>Aslak og Camilla misforstår hverandre ofte. Den ene er spontan og den andre er planlegger. Hvordan takle ulikhetene? For Camilla og Aslak faller mange brikker på plass da han etter mange år får en diagnose. &#xA;&#xA;I kommisjonen: Sissel Gran og Dimitrij Kielland Samoilow&#xA;Programleder: Eivind Sæther&#xA;Produsenter: Karoline Møller og Maia Østerud&#xA;Vignettmusikk: Cloroform</itunes:summary>
+      <itunes:duration>3321</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ovPZVFS1EUnXxVhKUJW5Lg1oTiMlr3IAz1Oc3S8XUSPA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Hemmeligheten </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_57543687-05a5-43cc-9436-8705a5b3ccc5</link>
+      <description>Arne og Åshild har vært kjærester i 20 år når Arne plutselig kommer med en stor avsløring. Hvordan bygger man opp igjen tilliten når den er brutt? Og er det egentlig mulig å leve sammen når alt plutselig forandrer seg? &#xA;&#xA;I kommisjonen: Catrin Sagen og Sindre Kvithyld Aasli. &#xA;Programleder: Eivind Sæther. &#xA;Produsenter: Maia Østerud og Karoline Møller .&#xA;Vignettmusikk: Cloroform. &#xA;</description>
+      <guid isPermaLink="false">l_57543687-05a5-43cc-9436-8705a5b3ccc5</guid>
+      <pubDate>Wed, 05 Oct 2022 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/467ee411-6dcb-4e5b-9e93-115d14dfe9e0_0_ID192MP3.mp3" type="audio/mpeg" length="73160685"></enclosure>
+      <itunes:title>Havarikommisjonen: Hemmeligheten </itunes:title>
+      <itunes:summary>Arne og Åshild har vært kjærester i 20 år når Arne plutselig kommer med en stor avsløring. Hvordan bygger man opp igjen tilliten når den er brutt? Og er det egentlig mulig å leve sammen når alt plutselig forandrer seg? &#xA;&#xA;I kommisjonen: Catrin Sagen og Sindre Kvithyld Aasli. &#xA;Programleder: Eivind Sæther. &#xA;Produsenter: Maia Østerud og Karoline Møller .&#xA;Vignettmusikk: Cloroform. &#xA;</itunes:summary>
+      <itunes:duration>3048</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ovPZVFS1EUnXxVhKUJW5Lg1oTiMlr3IAz1Oc3S8XUSPA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Sextrøbbel</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_1261776b-c1f1-468e-a177-6bc1f1968e1e</link>
+      <description>Tom og Mari sluttet etter hvert å ha sex. Hva gjør man for å vekke lysten igjen? Hva er egentlig oppskriften på et langt og lykkelig sexliv? Og hvor mye plass kan jobben ta i et parforhold?&#xA;&#xA;I kommisjonen: Catrin Sagen og Sindre Kvithyld Aasli&#xA;Programleder: Eivind Sæther&#xA;Produsenter: Maia Østerud og Karoline Møller&#xA;Vignettmusikk: Cloroform&#xA;</description>
+      <guid isPermaLink="false">l_1261776b-c1f1-468e-a177-6bc1f1968e1e</guid>
+      <pubDate>Wed, 28 Sep 2022 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/2e66b880-aeff-4320-b98f-214eab99fbc5_0_ID192MP3.mp3" type="audio/mpeg" length="78488109"></enclosure>
+      <itunes:title>Havarikommisjonen: Sextrøbbel</itunes:title>
+      <itunes:summary>Tom og Mari sluttet etter hvert å ha sex. Hva gjør man for å vekke lysten igjen? Hva er egentlig oppskriften på et langt og lykkelig sexliv? Og hvor mye plass kan jobben ta i et parforhold?&#xA;&#xA;I kommisjonen: Catrin Sagen og Sindre Kvithyld Aasli&#xA;Programleder: Eivind Sæther&#xA;Produsenter: Maia Østerud og Karoline Møller&#xA;Vignettmusikk: Cloroform&#xA;</itunes:summary>
+      <itunes:duration>3270</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ovPZVFS1EUnXxVhKUJW5Lg1oTiMlr3IAz1Oc3S8XUSPA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Misunnelig på kjæresten</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_3764c9c3-f9ee-4512-a4c9-c3f9ee1512d5</link>
+      <description>Tore var kjendis og Joakim ble fascinert. Men så snudde beundringen til misunnelse. Hva gjør sjalusi og sinne med et parforhold?&#xA;I kommisjonen: Sissel Gran og Dimitrij Kielland Samoilow&#xA;Programleder: Eivind Sæther&#xA;&#xA;Produsenter: Karoline Møller, Stig Kalsæg Sulland og Maia Østerud&#xA;Vignettmusikk: Cloroform</description>
+      <guid isPermaLink="false">l_3764c9c3-f9ee-4512-a4c9-c3f9ee1512d5</guid>
+      <pubDate>Wed, 21 Sep 2022 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/f6f14b5d-ed4f-4ed7-864a-60195ac5ac72_0_ID192MP3.mp3" type="audio/mpeg" length="71872749"></enclosure>
+      <itunes:title>Havarikommisjonen: Misunnelig på kjæresten</itunes:title>
+      <itunes:summary>Tore var kjendis og Joakim ble fascinert. Men så snudde beundringen til misunnelse. Hva gjør sjalusi og sinne med et parforhold?&#xA;I kommisjonen: Sissel Gran og Dimitrij Kielland Samoilow&#xA;Programleder: Eivind Sæther&#xA;&#xA;Produsenter: Karoline Møller, Stig Kalsæg Sulland og Maia Østerud&#xA;Vignettmusikk: Cloroform</itunes:summary>
+      <itunes:duration>2994</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wUFIdN2_SM6X0izvcm9CWgOKM7XQCzxErqrpwS2CT8YA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Slik redder du parforholdet!</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_e1003aeb-0683-44a5-803a-eb0683a4a522</link>
+      <description>Reidun ville skilles fra Christian, men forandret mening. Hva skal til for å reparere kjærligheten? Og hvordan takle dårlig økonomi og livskriser i et forhold?&#xA;Havarikommisjonens parterapeuter har de gode rådene.&#xA;&#xA;I kommisjonen: Sissel Gran og Dimitrij Kielland Samoilow. &#xA;Programleder: Eivind Sæther. &#xA;Produsenter: Lisbeth Fauske Løland, Karoline Møller og Maia Østerud. &#xA;Vignettmusikk: Cloroform.</description>
+      <guid isPermaLink="false">l_e1003aeb-0683-44a5-803a-eb0683a4a522</guid>
+      <pubDate>Wed, 14 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/a3a59258-061a-44fa-b1b7-99559bb98ca0_0_ID192MP3.mp3" type="audio/mpeg" length="77112621"></enclosure>
+      <itunes:title>Havarikommisjonen: Slik redder du parforholdet!</itunes:title>
+      <itunes:summary>Reidun ville skilles fra Christian, men forandret mening. Hva skal til for å reparere kjærligheten? Og hvordan takle dårlig økonomi og livskriser i et forhold?&#xA;Havarikommisjonens parterapeuter har de gode rådene.&#xA;&#xA;I kommisjonen: Sissel Gran og Dimitrij Kielland Samoilow. &#xA;Programleder: Eivind Sæther. &#xA;Produsenter: Lisbeth Fauske Løland, Karoline Møller og Maia Østerud. &#xA;Vignettmusikk: Cloroform.</itunes:summary>
+      <itunes:duration>3212</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ovPZVFS1EUnXxVhKUJW5Lg1oTiMlr3IAz1Oc3S8XUSPA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kjærlighetssorg (5:5): Troen på kjærligheten</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_3ba87f60-c94c-46fa-a87f-60c94c56fa90</link>
+      <description>Vi møter Julie, Henriette og Martin igjen. Hvordan har det gått med dem, og hvordan er det med troen på kjærligheten?</description>
+      <guid isPermaLink="false">l_3ba87f60-c94c-46fa-a87f-60c94c56fa90</guid>
+      <pubDate>Wed, 08 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/7e1934c1-4b04-4fc1-ae32-15abdf41aa7f_0_ID192MP3.mp3" type="audio/mpeg" length="39566637"></enclosure>
+      <itunes:title>Kjærlighetssorg (5:5): Troen på kjærligheten</itunes:title>
+      <itunes:summary>Vi møter Julie, Henriette og Martin igjen. Hvordan har det gått med dem, og hvordan er det med troen på kjærligheten?</itunes:summary>
+      <itunes:duration>1648</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WLhfXxHJaa5ay4n1fx7cbgTAOfTVnK4H_z7Il_ufFe8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kjærlighetssorg (4:5): Når du sitter helt fast</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_24bb2c91-39a5-4aa6-bb2c-9139a55aa6e3</link>
+      <description>Et brudd kan utløse voldsomme krefter i oss, det kan bli komplisert og for noen velter det lasset. Hvorfor kan det skje, og hva kan vi gjøre med det?</description>
+      <guid isPermaLink="false">l_24bb2c91-39a5-4aa6-bb2c-9139a55aa6e3</guid>
+      <pubDate>Wed, 01 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/812acfba-fe17-4aad-8353-00468a4450de_0_ID192MP3.mp3" type="audio/mpeg" length="45080109"></enclosure>
+      <itunes:title>Kjærlighetssorg (4:5): Når du sitter helt fast</itunes:title>
+      <itunes:summary>Et brudd kan utløse voldsomme krefter i oss, det kan bli komplisert og for noen velter det lasset. Hvorfor kan det skje, og hva kan vi gjøre med det?</itunes:summary>
+      <itunes:duration>1878</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WLhfXxHJaa5ay4n1fx7cbgTAOfTVnK4H_z7Il_ufFe8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kjærlighetssorg (3:5): Hva hjelper?</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_16aa8bf5-b5c2-4553-aa8b-f5b5c2755354</link>
+      <description>Martin gjør det slutt med samboeren sin og må fylle tomrommet med noe. Hva kan man gjøre når man går gjennom et brudd, og hva er det som faktisk hjelper?</description>
+      <guid isPermaLink="false">l_16aa8bf5-b5c2-4553-aa8b-f5b5c2755354</guid>
+      <pubDate>Wed, 25 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/eec87cbc-ca56-49e6-a7bb-86826617bbcc_0_ID192MP3.mp3" type="audio/mpeg" length="43132077"></enclosure>
+      <itunes:title>Kjærlighetssorg (3:5): Hva hjelper?</itunes:title>
+      <itunes:summary>Martin gjør det slutt med samboeren sin og må fylle tomrommet med noe. Hva kan man gjøre når man går gjennom et brudd, og hva er det som faktisk hjelper?</itunes:summary>
+      <itunes:duration>1797</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WLhfXxHJaa5ay4n1fx7cbgTAOfTVnK4H_z7Il_ufFe8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kjærlighetssorg (2:5): Livet blir snudd på hodet</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_e23f1b49-0563-43b8-bf1b-490563e3b8fc</link>
+      <description>Henriette og kjæresten blir enige om å gjøre det slutt, men likevel gjør det veldig vondt. Hvorfor kan et brudd bli helt altoppslukende, og hva har hjernen med det å gjøre?</description>
+      <guid isPermaLink="false">l_e23f1b49-0563-43b8-bf1b-490563e3b8fc</guid>
+      <pubDate>Wed, 18 May 2022 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/a7c030f4-3255-493e-a845-f6d3950e5c83_0_ID192MP3.mp3" type="audio/mpeg" length="42982893"></enclosure>
+      <itunes:title>Kjærlighetssorg (2:5): Livet blir snudd på hodet</itunes:title>
+      <itunes:summary>Henriette og kjæresten blir enige om å gjøre det slutt, men likevel gjør det veldig vondt. Hvorfor kan et brudd bli helt altoppslukende, og hva har hjernen med det å gjøre?</itunes:summary>
+      <itunes:duration>1790</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WLhfXxHJaa5ay4n1fx7cbgTAOfTVnK4H_z7Il_ufFe8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kjærlighetssorg (1:5): Det er slutt </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_3530ef87-7cfc-4a02-b0ef-877cfc8a0289</link>
+      <description>Julie blir dumpa og mister sin beste venn. Hvorfor gjør det vondt i brystet, og hvorfor sies det at man kan dø av kjærlighetssorg?</description>
+      <guid isPermaLink="false">l_3530ef87-7cfc-4a02-b0ef-877cfc8a0289</guid>
+      <pubDate>Wed, 18 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/a6ebab65-127f-4e47-8a69-3edd38a4d71b_0_ID192MP3.mp3" type="audio/mpeg" length="38963565"></enclosure>
+      <itunes:title>Kjærlighetssorg (1:5): Det er slutt </itunes:title>
+      <itunes:summary>Julie blir dumpa og mister sin beste venn. Hvorfor gjør det vondt i brystet, og hvorfor sies det at man kan dø av kjærlighetssorg?</itunes:summary>
+      <itunes:duration>1623</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WLhfXxHJaa5ay4n1fx7cbgTAOfTVnK4H_z7Il_ufFe8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Harald og Marion</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_b596410a-eff0-4227-9641-0aeff0422752</link>
+      <description>Er utroskap spikeren i kista for et parforhold?  Og er det mulig å bli lykkelig sammen igjen, etter å ha vært skilt i mange år?&#xA;&#xA;I kommisjonen: psykologene  Catrin Sagen og Sindre Kvithyld Aasli.&#xA;Programleder: Eivind Sæther&#xA;Produsenter: Maia Østerud og Karoline Møller&#xA;Vignettmusikk: Cloroform</description>
+      <guid isPermaLink="false">l_b596410a-eff0-4227-9641-0aeff0422752</guid>
+      <pubDate>Wed, 15 Dec 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/5d362094-dfd5-438f-a29f-34cc426cc105_0_ID192MP3.mp3" type="audio/mpeg" length="66409389"></enclosure>
+      <itunes:title>Havarikommisjonen: Harald og Marion</itunes:title>
+      <itunes:summary>Er utroskap spikeren i kista for et parforhold?  Og er det mulig å bli lykkelig sammen igjen, etter å ha vært skilt i mange år?&#xA;&#xA;I kommisjonen: psykologene  Catrin Sagen og Sindre Kvithyld Aasli.&#xA;Programleder: Eivind Sæther&#xA;Produsenter: Maia Østerud og Karoline Møller&#xA;Vignettmusikk: Cloroform</itunes:summary>
+      <itunes:duration>2767</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ovPZVFS1EUnXxVhKUJW5Lg1oTiMlr3IAz1Oc3S8XUSPA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Even og Ida</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_57fa9c31-81f8-4d1f-ba9c-3181f8ad1f09</link>
+      <description>Er det mulig å unngå brudd når  den ene slutter å elske den andre? Og hva skjer når parforholdet havner nederst på prioriteringslista?&#xA;&#xA;I kommisjonen: psykologene Catrin Sagen og Sindre Kvithyld Aasli&#xA;Produsenter: Karoline Møller, Stig Kalsæg Sulland og Maia Østerud&#xA;Vignettmusikk: Cloroform</description>
+      <guid isPermaLink="false">l_57fa9c31-81f8-4d1f-ba9c-3181f8ad1f09</guid>
+      <pubDate>Wed, 08 Dec 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/751c2b71-0ab1-47a2-8ca5-8905c9d3347c_0_ID192MP3.mp3" type="audio/mpeg" length="66174957"></enclosure>
+      <itunes:title>Havarikommisjonen: Even og Ida</itunes:title>
+      <itunes:summary>Er det mulig å unngå brudd når  den ene slutter å elske den andre? Og hva skjer når parforholdet havner nederst på prioriteringslista?&#xA;&#xA;I kommisjonen: psykologene Catrin Sagen og Sindre Kvithyld Aasli&#xA;Produsenter: Karoline Møller, Stig Kalsæg Sulland og Maia Østerud&#xA;Vignettmusikk: Cloroform</itunes:summary>
+      <itunes:duration>2757</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ovPZVFS1EUnXxVhKUJW5Lg1oTiMlr3IAz1Oc3S8XUSPA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Jon og Hilde</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_5bf34cec-e2dd-42a7-b34c-ece2ddd2a785</link>
+      <description>Kan en pause i forholdet være en god  idé?  Og hva skjer når man slutter å snakke sammen?&#xA;&#xA;I kommisjonen: psykologene Catrin Sagen og Sindre Kvithyld Aasli.&#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Karoline Møller,  Stig Kalsæg Sulland og Maia Østerud.&#xA;Vignettmusikk: Cloroform</description>
+      <guid isPermaLink="false">l_5bf34cec-e2dd-42a7-b34c-ece2ddd2a785</guid>
+      <pubDate>Wed, 01 Dec 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/d51f4fa3-2951-405d-8e02-849d57a1c085_0_ID192MP3.mp3" type="audio/mpeg" length="63316269"></enclosure>
+      <itunes:title>Havarikommisjonen: Jon og Hilde</itunes:title>
+      <itunes:summary>Kan en pause i forholdet være en god  idé?  Og hva skjer når man slutter å snakke sammen?&#xA;&#xA;I kommisjonen: psykologene Catrin Sagen og Sindre Kvithyld Aasli.&#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Karoline Møller,  Stig Kalsæg Sulland og Maia Østerud.&#xA;Vignettmusikk: Cloroform</itunes:summary>
+      <itunes:duration>2638</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AMi7HRy2b_X4jL2cKAdjWgSbtPX901DSU27srzNnr6Kg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Karl og Kristina </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_bd37b0e5-8530-4b0b-b7b0-e585305b0b76</link>
+      <description>Kan løsningen på et skrantende parforhold være å ha sex med andre?&#xA;Og hva gjør man hvis bare den ene i forholdet vil ha barn?&#xA;&#xA;I kommisjonen: psykologene Sissel Gran og Dimitrij Kielland Samoilow.&#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Karoline Møller og Maia Østerud.&#xA;Vignettmusikk: Cloroform.</description>
+      <guid isPermaLink="false">l_bd37b0e5-8530-4b0b-b7b0-e585305b0b76</guid>
+      <pubDate>Wed, 24 Nov 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/219c80b7-6057-4f37-97c4-951dbabc6dee_0_ID192MP3.mp3" type="audio/mpeg" length="69918381"></enclosure>
+      <itunes:title>Havarikommisjonen: Karl og Kristina </itunes:title>
+      <itunes:summary>Kan løsningen på et skrantende parforhold være å ha sex med andre?&#xA;Og hva gjør man hvis bare den ene i forholdet vil ha barn?&#xA;&#xA;I kommisjonen: psykologene Sissel Gran og Dimitrij Kielland Samoilow.&#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Karoline Møller og Maia Østerud.&#xA;Vignettmusikk: Cloroform.</itunes:summary>
+      <itunes:duration>2913</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ovPZVFS1EUnXxVhKUJW5Lg1oTiMlr3IAz1Oc3S8XUSPA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Andy og Agnete </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_2319da22-382c-412c-99da-22382c712c83</link>
+      <description>Hva gjør du når drømmekjæresten forvandles til en irriterende partner? Og hva skjer med parforholdet når den ene tvinger gjennom et huskjøp? &#xA;&#xA;Havarikommisjonens parterapeuter dykker ned i det som en gang var en lykkelig kjærlighetshistorie for å finne ut hvorfor forholdet havarerte.&#xA;&#xA;I kommisjonen: Psykologene Sissel Gran og Dimitrij Kielland Samoilow.&#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Maia Østerud og  Karoline Møller.&#xA;Vignettmusikk: Cloroform.</description>
+      <guid isPermaLink="false">l_2319da22-382c-412c-99da-22382c712c83</guid>
+      <pubDate>Wed, 17 Nov 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/620290fa-2e49-4397-853e-6ab56566045a_0_ID192MP3.mp3" type="audio/mpeg" length="71571501"></enclosure>
+      <itunes:title>Havarikommisjonen: Andy og Agnete </itunes:title>
+      <itunes:summary>Hva gjør du når drømmekjæresten forvandles til en irriterende partner? Og hva skjer med parforholdet når den ene tvinger gjennom et huskjøp? &#xA;&#xA;Havarikommisjonens parterapeuter dykker ned i det som en gang var en lykkelig kjærlighetshistorie for å finne ut hvorfor forholdet havarerte.&#xA;&#xA;I kommisjonen: Psykologene Sissel Gran og Dimitrij Kielland Samoilow.&#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Maia Østerud og  Karoline Møller.&#xA;Vignettmusikk: Cloroform.</itunes:summary>
+      <itunes:duration>2982</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AMi7HRy2b_X4jL2cKAdjWgSbtPX901DSU27srzNnr6Kg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ny sesong: Havarikommisjonen </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_e27928f4-97bf-49fc-b928-f497bf29fc6e</link>
+      <description>Hva skjer når et par går fra forelskelse til forakt? Er det mulig å reparere et forhold etter utroskap? Og hvordan kan man takle helt ulike behov for sex? &#xA;&#xA;Havarikommisjonens parterapeuter dykker ned i det som en gang var lykkelige kjærlighetshistorier for å finne ut hvorfor forholdene havarerte. &#xA;Du hører serien først i appen NRK Radio.&#xA;&#xA;Med psykologene Sissel Gran, Catrin Sagen, Sindre Kvithyld Aasli og Dimitrij Samoilow.&#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Karoline Møller og Maia Østerud&#xA;</description>
+      <guid isPermaLink="false">l_e27928f4-97bf-49fc-b928-f497bf29fc6e</guid>
+      <pubDate>Thu, 11 Nov 2021 23:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/de32708d-0389-4e2f-88dd-abfd553cf71d_0_ID192MP3.mp3" type="audio/mpeg" length="4850541"></enclosure>
+      <itunes:title>Ny sesong: Havarikommisjonen </itunes:title>
+      <itunes:summary>Hva skjer når et par går fra forelskelse til forakt? Er det mulig å reparere et forhold etter utroskap? Og hvordan kan man takle helt ulike behov for sex? &#xA;&#xA;Havarikommisjonens parterapeuter dykker ned i det som en gang var lykkelige kjærlighetshistorier for å finne ut hvorfor forholdene havarerte. &#xA;Du hører serien først i appen NRK Radio.&#xA;&#xA;Med psykologene Sissel Gran, Catrin Sagen, Sindre Kvithyld Aasli og Dimitrij Samoilow.&#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Karoline Møller og Maia Østerud&#xA;</itunes:summary>
+      <itunes:duration>202</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wUFIdN2_SM6X0izvcm9CWgOKM7XQCzxErqrpwS2CT8YA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Espen Olafsen</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_0b220b73-e836-4e0f-a20b-73e8361e0ff9</link>
+      <description>For 17 år siden mista Espen Olafsen kona Elfrid og dattera Frøya under tsunamien i Thailand. Espen og sønnen Balder kom hjem nyttårsaften 2004 med kofferten full av sjokk og sorg. Hjemme ventet et sikkerhetsnett av venner, familie og nabolag som hjalp til når sorgen ikke klarte å holde Espen på beina. En av de var Espens gode venn, prest og sjelesørger Per Arne Dahl.</description>
+      <guid isPermaLink="false">l_0b220b73-e836-4e0f-a20b-73e8361e0ff9</guid>
+      <pubDate>Wed, 03 Nov 2021 12:45:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/aa6b45c5-72c9-469a-9bbd-b69c9b61f029_0_ID192MP3.mp3" type="audio/mpeg" length="89172333"></enclosure>
+      <itunes:title>Espen Olafsen</itunes:title>
+      <itunes:summary>For 17 år siden mista Espen Olafsen kona Elfrid og dattera Frøya under tsunamien i Thailand. Espen og sønnen Balder kom hjem nyttårsaften 2004 med kofferten full av sjokk og sorg. Hjemme ventet et sikkerhetsnett av venner, familie og nabolag som hjalp til når sorgen ikke klarte å holde Espen på beina. En av de var Espens gode venn, prest og sjelesørger Per Arne Dahl.</itunes:summary>
+      <itunes:duration>3715</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6beVtQLoH1zyvPGHVwENvAMUqHhvWF_2-46CxOO9SCxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vanessa Rudjord</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_e00c09cb-d0b9-40dc-8c09-cbd0b930dc08</link>
+      <description>Den verste sorgen er alt det Øyvind går glipp av. Barna som vokser til uten pappaen sin, og kona som skal håndtere hverdagene uten ham. Broren til Vanessa Rudjord døde av kreft bare 46 år gammel. Det går ikke en dag uten at hun tenker på ham. </description>
+      <guid isPermaLink="false">l_e00c09cb-d0b9-40dc-8c09-cbd0b930dc08</guid>
+      <pubDate>Wed, 27 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/2f10d5e3-8184-4601-adf9-0758cae4afde_0_ID192MP3.mp3" type="audio/mpeg" length="92997549"></enclosure>
+      <itunes:title>Vanessa Rudjord</itunes:title>
+      <itunes:summary>Den verste sorgen er alt det Øyvind går glipp av. Barna som vokser til uten pappaen sin, og kona som skal håndtere hverdagene uten ham. Broren til Vanessa Rudjord døde av kreft bare 46 år gammel. Det går ikke en dag uten at hun tenker på ham. </itunes:summary>
+      <itunes:duration>3874</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6beVtQLoH1zyvPGHVwENvAMUqHhvWF_2-46CxOO9SCxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sunniva Gylver</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_e337d67f-9677-418e-b7d6-7f9677418e93</link>
+      <description>Hun kunne få hjertebank av å se på mannen sin igjennom 35 år. I sommer døde han fra henne. Lars Kristian var den råeste, kjekkeste mann og far til hennes barn. Sunniva Gylver har fått bruk for sitt lyse sinn og kjærlighet til hverdager og rutiner. Det kommer godt med i sorgen over mannen.</description>
+      <guid isPermaLink="false">l_e337d67f-9677-418e-b7d6-7f9677418e93</guid>
+      <pubDate>Wed, 20 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/c37415c5-1fc4-43ba-8302-405a4e5d62fd_0_ID192MP3.mp3" type="audio/mpeg" length="82926765"></enclosure>
+      <itunes:title>Sunniva Gylver</itunes:title>
+      <itunes:summary>Hun kunne få hjertebank av å se på mannen sin igjennom 35 år. I sommer døde han fra henne. Lars Kristian var den råeste, kjekkeste mann og far til hennes barn. Sunniva Gylver har fått bruk for sitt lyse sinn og kjærlighet til hverdager og rutiner. Det kommer godt med i sorgen over mannen.</itunes:summary>
+      <itunes:duration>3455</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6beVtQLoH1zyvPGHVwENvAMUqHhvWF_2-46CxOO9SCxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Egon Holstad</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_cb8f0fe3-96ce-43c2-8f0f-e396ce43c272</link>
+      <description>Han har levd hele sitt voksne liv uten pappa Arve, men for Egon Holstad blir savnet aldri borte. Pappaen var Egons forbilde, en bauta både i nærmiljøet og i familien. Så begikk han selvmord. Frustrasjonen over svak politisk handlekraft får aldri faren tilbake, men Egons engasjement rundt mental helse stilner aldri.&#xA;&#xA;Trenger du noen å snakke med om selvmordstanker kan du ringe Mental Helses hjelpetelefon: 116 123&#xA;Hjelpetelefonen er et døgnåpent telefontilbud. Hjelpetelefonen har også skrivetjenesten sidetmedord.no og chat som er åpen fra kl. 8-23.</description>
+      <guid isPermaLink="false">l_cb8f0fe3-96ce-43c2-8f0f-e396ce43c272</guid>
+      <pubDate>Wed, 13 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/9ee2fd88-9da4-4bcb-9229-c6c150bad80f_0_ID192MP3.mp3" type="audio/mpeg" length="78394797"></enclosure>
+      <itunes:title>Egon Holstad</itunes:title>
+      <itunes:summary>Han har levd hele sitt voksne liv uten pappa Arve, men for Egon Holstad blir savnet aldri borte. Pappaen var Egons forbilde, en bauta både i nærmiljøet og i familien. Så begikk han selvmord. Frustrasjonen over svak politisk handlekraft får aldri faren tilbake, men Egons engasjement rundt mental helse stilner aldri.&#xA;&#xA;Trenger du noen å snakke med om selvmordstanker kan du ringe Mental Helses hjelpetelefon: 116 123&#xA;Hjelpetelefonen er et døgnåpent telefontilbud. Hjelpetelefonen har også skrivetjenesten sidetmedord.no og chat som er åpen fra kl. 8-23.</itunes:summary>
+      <itunes:duration>3266</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6beVtQLoH1zyvPGHVwENvAMUqHhvWF_2-46CxOO9SCxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Odd Eidner</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_be0d8b43-763a-4ca4-8d8b-43763a1ca42f</link>
+      <description>Da han mistet sitt andre barn, mistet Odd også troen på livet og Gud. Odd ble forbannet på Gud og det skulle kloke og gode venner til for å få ham til å ta på seg prestekjolen igjen.</description>
+      <guid isPermaLink="false">l_be0d8b43-763a-4ca4-8d8b-43763a1ca42f</guid>
+      <pubDate>Wed, 06 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/fdbc094f-d7e1-4a47-8626-d308eae810ef_0_ID192MP3.mp3" type="audio/mpeg" length="75109869"></enclosure>
+      <itunes:title>Odd Eidner</itunes:title>
+      <itunes:summary>Da han mistet sitt andre barn, mistet Odd også troen på livet og Gud. Odd ble forbannet på Gud og det skulle kloke og gode venner til for å få ham til å ta på seg prestekjolen igjen.</itunes:summary>
+      <itunes:duration>3129</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6beVtQLoH1zyvPGHVwENvAMUqHhvWF_2-46CxOO9SCxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Lara Rashid </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_89377473-23cf-4290-b774-7323cf029025</link>
+      <description>Lara mistet storesøster Bano på Utøya. I årene etterpå prøvde hun så hardt å fylle storesøsters sko, at hun holdt på å gå til grunne. Lara har brukt tid på å finne ut av hvem hun er uten Bano, og nå føler hun seg nærmere storesøster enn noensinne. </description>
+      <guid isPermaLink="false">l_89377473-23cf-4290-b774-7323cf029025</guid>
+      <pubDate>Wed, 29 Sep 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/a59bf46b-ed08-47c4-8e7a-f27a8c3fc06f_0_ID192MP3.mp3" type="audio/mpeg" length="80745453"></enclosure>
+      <itunes:title>Lara Rashid </itunes:title>
+      <itunes:summary>Lara mistet storesøster Bano på Utøya. I årene etterpå prøvde hun så hardt å fylle storesøsters sko, at hun holdt på å gå til grunne. Lara har brukt tid på å finne ut av hvem hun er uten Bano, og nå føler hun seg nærmere storesøster enn noensinne. </itunes:summary>
+      <itunes:duration>3364</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6beVtQLoH1zyvPGHVwENvAMUqHhvWF_2-46CxOO9SCxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ny sesong: Sorgens kapittel</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_8c537ae8-a1b8-4ca1-937a-e8a1b81ca15d</link>
+      <description>Premiere 29. september.&#xA;Sorg kommer i tusen nyanser av trist. Denne gangen møter Karen Marie Berg mennesker som også har mistet noen, men som har fått tapet litt på avstand. Hvordan går det med dem nå? Slipper sorgen taket?</description>
+      <guid isPermaLink="false">l_8c537ae8-a1b8-4ca1-937a-e8a1b81ca15d</guid>
+      <pubDate>Wed, 22 Sep 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/de6dea1b-a3c7-4f79-baf7-d5ee618c9920_0_ID192MP3.mp3" type="audio/mpeg" length="2522349"></enclosure>
+      <itunes:title>Ny sesong: Sorgens kapittel</itunes:title>
+      <itunes:summary>Premiere 29. september.&#xA;Sorg kommer i tusen nyanser av trist. Denne gangen møter Karen Marie Berg mennesker som også har mistet noen, men som har fått tapet litt på avstand. Hvordan går det med dem nå? Slipper sorgen taket?</itunes:summary>
+      <itunes:duration>105</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6beVtQLoH1zyvPGHVwENvAMUqHhvWF_2-46CxOO9SCxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Usagt: Tormod</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_1abd6d5b-52c4-4387-bd6d-5b52c4738717</link>
+      <description>I 2019 var det ti år siden psykiater Tormod Huseby ble brevvenn med den verdensberømte forfatteren - og sitt store idol - Siri Hustvedt. Tormod skrev e-post etter e-post, men plutselig sluttet hun å svare. Hva skjedde? Fornærmet han henne? Var han ikke intellektuell nok? Eller var det rett og slett feil e-postadresse? Episoden har gnaget Tormod i mange år. Tør han å be sitt store idol om et ærlig svar? &#xA;Episoden ble først publisert i desember 2019. &#xA;Programskaper er Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Siril Heyerdahl.&#xA;&#xA;  </description>
+      <guid isPermaLink="false">l_1abd6d5b-52c4-4387-bd6d-5b52c4738717</guid>
+      <pubDate>Wed, 04 Aug 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/51e3e318-5154-40c4-a4ed-488f51c47a71_0_ID192MP3.mp3" type="audio/mpeg" length="51298029"></enclosure>
+      <itunes:title>Usagt: Tormod</itunes:title>
+      <itunes:summary>I 2019 var det ti år siden psykiater Tormod Huseby ble brevvenn med den verdensberømte forfatteren - og sitt store idol - Siri Hustvedt. Tormod skrev e-post etter e-post, men plutselig sluttet hun å svare. Hva skjedde? Fornærmet han henne? Var han ikke intellektuell nok? Eller var det rett og slett feil e-postadresse? Episoden har gnaget Tormod i mange år. Tør han å be sitt store idol om et ærlig svar? &#xA;Episoden ble først publisert i desember 2019. &#xA;Programskaper er Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Siril Heyerdahl.&#xA;&#xA;  </itunes:summary>
+      <itunes:duration>2137</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xu4pAqo-9aUw3VEfBka7sw0YvtobsQPqmxET95_5JRXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Usagt: Grethe </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_367cc859-6eea-4f58-bcc8-596eea9f5862</link>
+      <description>På slutten av 90-tallet møtte filmregissør Grethe Bøe en ukjent – som uten å vite det reddet livet hennes.  20 år etter, i 2018,  ønsket hun å spore henne opp, fortelle historien sin – og endelig få takke. &#xA; &#xA;Episoden ble først publisert 03.09.2018.&#xA;Programskaper er Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Solveig Husøy</description>
+      <guid isPermaLink="false">l_367cc859-6eea-4f58-bcc8-596eea9f5862</guid>
+      <pubDate>Wed, 28 Jul 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/d348a54e-bef0-4844-bf2c-e8401de94a60_0_ID192MP3.mp3" type="audio/mpeg" length="48274605"></enclosure>
+      <itunes:title>Usagt: Grethe </itunes:title>
+      <itunes:summary>På slutten av 90-tallet møtte filmregissør Grethe Bøe en ukjent – som uten å vite det reddet livet hennes.  20 år etter, i 2018,  ønsket hun å spore henne opp, fortelle historien sin – og endelig få takke. &#xA; &#xA;Episoden ble først publisert 03.09.2018.&#xA;Programskaper er Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Solveig Husøy</itunes:summary>
+      <itunes:duration>2011</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xu4pAqo-9aUw3VEfBka7sw0YvtobsQPqmxET95_5JRXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Usagt: Gry </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_250ab944-a57d-4f18-8ab9-44a57d2f1814</link>
+      <description>Arven av et hundre år gammelt skap, har gjort at Gry sin pappa ikke har snakket med sin søster på over 15 år. I testamentet etter bestemoren ble hver lille koppeskål fordelt, men hva betyr det, når loven sier at et veggfast skap er veggfast? I 2019 er Gry drittlei hele diskusjonen og reiser hjem til familiegården for å snakke med faren. Men vil han overhode diskutere saken? Og hva med tanten? Og vil de to søsknene noen gang kunne bli venner igjen? &#xA;Episoden ble først publisert i november 2019. &#xA;Programskaper er Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Siril Heyerdahl </description>
+      <guid isPermaLink="false">l_250ab944-a57d-4f18-8ab9-44a57d2f1814</guid>
+      <pubDate>Wed, 21 Jul 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/420b9228-1558-4944-a093-c32bc4299bd9_0_ID192MP3.mp3" type="audio/mpeg" length="67686957"></enclosure>
+      <itunes:title>Usagt: Gry </itunes:title>
+      <itunes:summary>Arven av et hundre år gammelt skap, har gjort at Gry sin pappa ikke har snakket med sin søster på over 15 år. I testamentet etter bestemoren ble hver lille koppeskål fordelt, men hva betyr det, når loven sier at et veggfast skap er veggfast? I 2019 er Gry drittlei hele diskusjonen og reiser hjem til familiegården for å snakke med faren. Men vil han overhode diskutere saken? Og hva med tanten? Og vil de to søsknene noen gang kunne bli venner igjen? &#xA;Episoden ble først publisert i november 2019. &#xA;Programskaper er Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Siril Heyerdahl </itunes:summary>
+      <itunes:duration>2820</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xu4pAqo-9aUw3VEfBka7sw0YvtobsQPqmxET95_5JRXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Usagt: Trond </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_355eac9c-5089-4c9d-9eac-9c50893c9de3</link>
+      <description>På det første møtet på ungdomsskolen ble mobbeofferet Trond ydmyket for livet. Som voksen har han fortsatt å leve i skjul for plageåndene. I 2018 ville han slutte å gjemme seg og konfrontere dem. Og kanskje var han ikke så alene som han alltid har trodd. &#xA;Episoden ble først publisert i september 2018.&#xA;Programmet er laget av Hege-Haug Omre. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Solveig Husøy</description>
+      <guid isPermaLink="false">l_355eac9c-5089-4c9d-9eac-9c50893c9de3</guid>
+      <pubDate>Wed, 14 Jul 2021 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/7f5e9957-ea6c-40ed-8846-cbe611a88f17_0_ID192MP3.mp3" type="audio/mpeg" length="69766893"></enclosure>
+      <itunes:title>Usagt: Trond </itunes:title>
+      <itunes:summary>På det første møtet på ungdomsskolen ble mobbeofferet Trond ydmyket for livet. Som voksen har han fortsatt å leve i skjul for plageåndene. I 2018 ville han slutte å gjemme seg og konfrontere dem. Og kanskje var han ikke så alene som han alltid har trodd. &#xA;Episoden ble først publisert i september 2018.&#xA;Programmet er laget av Hege-Haug Omre. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Solveig Husøy</itunes:summary>
+      <itunes:duration>2906</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xu4pAqo-9aUw3VEfBka7sw0YvtobsQPqmxET95_5JRXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Usagt: Flavia </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_a73c8155-d302-43f3-bc81-55d302d3f3cd</link>
+      <description>I et familieselskap kommer det fram at faren til Flavia kanskje ikke var jagerflypilot, slik barna i alle år har trodd. Men ingen våger å ta opp spørsmålet. Flavias far lever ikke i dag, men i 2018 la Flavia ut på en reise, der hun ville finne ut mer om sin far, før det var for sent.&#xA; &#xA;Episoden ble først publisert i september 2018.&#xA;Programskaper er Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Solveig Husøy&#xA;</description>
+      <guid isPermaLink="false">l_a73c8155-d302-43f3-bc81-55d302d3f3cd</guid>
+      <pubDate>Wed, 07 Jul 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/bb0a884a-b718-49ef-814b-3171138e0bd5_0_ID192MP3.mp3" type="audio/mpeg" length="67831533"></enclosure>
+      <itunes:title>Usagt: Flavia </itunes:title>
+      <itunes:summary>I et familieselskap kommer det fram at faren til Flavia kanskje ikke var jagerflypilot, slik barna i alle år har trodd. Men ingen våger å ta opp spørsmålet. Flavias far lever ikke i dag, men i 2018 la Flavia ut på en reise, der hun ville finne ut mer om sin far, før det var for sent.&#xA; &#xA;Episoden ble først publisert i september 2018.&#xA;Programskaper er Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Solveig Husøy&#xA;</itunes:summary>
+      <itunes:duration>2826</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xu4pAqo-9aUw3VEfBka7sw0YvtobsQPqmxET95_5JRXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Usagt: Maria </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_eed8cf93-a48e-4d7a-98cf-93a48eed7aa4</link>
+      <description>Da Maria var 11 år gammel så hun moren ta sitt eget liv. Maria hadde ingen søsken eller pappa, og ble sendt for å bo hos onkelens familie på et helt nytt sted.  Ingen i familien snakket noen gang om selvmordet med henne. I 2019 er Maria 35 år, og lurer på om hun skal våge å ta opp det familien aldri har snakket om. &#xA;Episoden ble først publisert i november 2019. &#xA;Programskaper er Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Siril Heyerdahl </description>
+      <guid isPermaLink="false">l_eed8cf93-a48e-4d7a-98cf-93a48eed7aa4</guid>
+      <pubDate>Wed, 30 Jun 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/d292d490-9e72-40ee-97f3-e0e42400e66b_0_ID192MP3.mp3" type="audio/mpeg" length="51326253"></enclosure>
+      <itunes:title>Usagt: Maria </itunes:title>
+      <itunes:summary>Da Maria var 11 år gammel så hun moren ta sitt eget liv. Maria hadde ingen søsken eller pappa, og ble sendt for å bo hos onkelens familie på et helt nytt sted.  Ingen i familien snakket noen gang om selvmordet med henne. I 2019 er Maria 35 år, og lurer på om hun skal våge å ta opp det familien aldri har snakket om. &#xA;Episoden ble først publisert i november 2019. &#xA;Programskaper er Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Siril Heyerdahl </itunes:summary>
+      <itunes:duration>2138</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xu4pAqo-9aUw3VEfBka7sw0YvtobsQPqmxET95_5JRXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rauand Ismail </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_850e417f-1403-4f2f-8e41-7f1403ef2f2b</link>
+      <description>Han var 14 år og sto på et lasteplan i Kurdistan. I det øyeblikket bestemte Rauand Ismail seg for å bli politiker. </description>
+      <guid isPermaLink="false">l_850e417f-1403-4f2f-8e41-7f1403ef2f2b</guid>
+      <pubDate>Wed, 12 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/acb4883c-eb0b-4502-8601-d3ff6f178b20_0_ID192MP3.mp3" type="audio/mpeg" length="18156141"></enclosure>
+      <itunes:title>Rauand Ismail </itunes:title>
+      <itunes:summary>Han var 14 år og sto på et lasteplan i Kurdistan. I det øyeblikket bestemte Rauand Ismail seg for å bli politiker. </itunes:summary>
+      <itunes:duration>756</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uS_K6jZuN7QlBXyYkThYxAc_A1_3y9H86yzEStNXJj-A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Aminah Amith</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_38b6c2d5-0ea1-4ebf-b6c2-d50ea1febfbb</link>
+      <description>Hun var ikke vant til å ta egne valg, men på en flyplassdo gjorde Aminah noe som ga både mot og selvtillit. </description>
+      <guid isPermaLink="false">l_38b6c2d5-0ea1-4ebf-b6c2-d50ea1febfbb</guid>
+      <pubDate>Wed, 05 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/d9402f98-f70c-40d9-8513-08c59676b0df_0_ID192MP3.mp3" type="audio/mpeg" length="15698925"></enclosure>
+      <itunes:title>Aminah Amith</itunes:title>
+      <itunes:summary>Hun var ikke vant til å ta egne valg, men på en flyplassdo gjorde Aminah noe som ga både mot og selvtillit. </itunes:summary>
+      <itunes:duration>654</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uS_K6jZuN7QlBXyYkThYxAc_A1_3y9H86yzEStNXJj-A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Seher Kaya</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_37931b64-ef07-4da3-931b-64ef070da3ed</link>
+      <description>En samtale med bestefaren fikk Seher Kaya fra Norges tøffeste til å finne ut mer om bakgrunnen sin, for å være et forbilde for småsøsknene.</description>
+      <guid isPermaLink="false">l_37931b64-ef07-4da3-931b-64ef070da3ed</guid>
+      <pubDate>Wed, 28 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/ed8a1942-cad9-4e31-870e-49c295b0aaee_0_ID192MP3.mp3" type="audio/mpeg" length="15988077"></enclosure>
+      <itunes:title>Seher Kaya</itunes:title>
+      <itunes:summary>En samtale med bestefaren fikk Seher Kaya fra Norges tøffeste til å finne ut mer om bakgrunnen sin, for å være et forbilde for småsøsknene.</itunes:summary>
+      <itunes:duration>666</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uS_K6jZuN7QlBXyYkThYxAc_A1_3y9H86yzEStNXJj-A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Iman Meskini</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_f578532c-494c-4fc1-b853-2c494cefc170</link>
+      <description>Iman Meskini var klar for ny kamp i idretten hun elsket. Så nektet dommeren henne å spille. </description>
+      <guid isPermaLink="false">l_f578532c-494c-4fc1-b853-2c494cefc170</guid>
+      <pubDate>Wed, 21 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/502d2b1e-ea7f-49f0-9ad7-a88fcb5b6f25_0_ID192MP3.mp3" type="audio/mpeg" length="17907885"></enclosure>
+      <itunes:title>Iman Meskini</itunes:title>
+      <itunes:summary>Iman Meskini var klar for ny kamp i idretten hun elsket. Så nektet dommeren henne å spille. </itunes:summary>
+      <itunes:duration>746</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uS_K6jZuN7QlBXyYkThYxAc_A1_3y9H86yzEStNXJj-A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Adam Ezzari </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_a13c96e0-a86e-4635-bc96-e0a86e1635f8</link>
+      <description>Adam Ezzari stod i et vanskelig valg som 17-åring, men så skrev han gjennombruddslåta. &#xA;&#xA;</description>
+      <guid isPermaLink="false">l_a13c96e0-a86e-4635-bc96-e0a86e1635f8</guid>
+      <pubDate>Wed, 14 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/fe51f671-ccdc-4b2c-a73c-ead6a6b49138_0_ID192MP3.mp3" type="audio/mpeg" length="16149707"></enclosure>
+      <itunes:title>Adam Ezzari </itunes:title>
+      <itunes:summary>Adam Ezzari stod i et vanskelig valg som 17-åring, men så skrev han gjennombruddslåta. &#xA;&#xA;</itunes:summary>
+      <itunes:duration>672</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uS_K6jZuN7QlBXyYkThYxAc_A1_3y9H86yzEStNXJj-A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Jonis Josef</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_2456cc98-ce65-498f-96cc-98ce65f98f39</link>
+      <description>Som 13-åring drømte komiker Jonis Josef om en grå Adidas-genser. En dag fikk han en gave fra moren sin som førte til at han ser på livet med nye øyne.</description>
+      <guid isPermaLink="false">l_2456cc98-ce65-498f-96cc-98ce65f98f39</guid>
+      <pubDate>Wed, 07 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/4bfabf54-d0a5-4ac8-a9f7-5847538ce64c_0_ID192MP3.mp3" type="audio/mpeg" length="16957252"></enclosure>
+      <itunes:title>Jonis Josef</itunes:title>
+      <itunes:summary>Som 13-åring drømte komiker Jonis Josef om en grå Adidas-genser. En dag fikk han en gave fra moren sin som førte til at han ser på livet med nye øyne.</itunes:summary>
+      <itunes:duration>706</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uS_K6jZuN7QlBXyYkThYxAc_A1_3y9H86yzEStNXJj-A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fatima Almanea</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_62d1955b-225f-4834-9195-5b225f28346b</link>
+      <description>Samfunnsdebattant Fatima Almanea jobbet hardt for å komme inn på legestudiet. Men da hun skulle fylle ut søknaden, tok hun et uventet valg. </description>
+      <guid isPermaLink="false">l_62d1955b-225f-4834-9195-5b225f28346b</guid>
+      <pubDate>Wed, 07 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/20003ba9-2b39-4fe9-abab-84285884497a_0_ID192MP3.mp3" type="audio/mpeg" length="17039577"></enclosure>
+      <itunes:title>Fatima Almanea</itunes:title>
+      <itunes:summary>Samfunnsdebattant Fatima Almanea jobbet hardt for å komme inn på legestudiet. Men da hun skulle fylle ut søknaden, tok hun et uventet valg. </itunes:summary>
+      <itunes:duration>709</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uS_K6jZuN7QlBXyYkThYxAc_A1_3y9H86yzEStNXJj-A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Usagt: Ester </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_a8c4fe3e-660a-4d6a-84fe-3e660acd6ab7</link>
+      <description>Ester gjorde det slutt med kjæresten i redsel for at han skulle dumpe henne. Det har hun brukt mye tid på å angre på. Hun ender stadig opp med å sammenligne nye kjærester med eksen. Ti år etter vil hun kontakte ham for å komme seg videre.&#xA;&#xA;Episoden ble først publisert i 2018. Episoden er laget av Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Solveig Husøy.&#xA;</description>
+      <guid isPermaLink="false">l_a8c4fe3e-660a-4d6a-84fe-3e660acd6ab7</guid>
+      <pubDate>Wed, 31 Mar 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/f3c55932-96f1-4c73-9337-416e4906356c_0_ID192MP3.mp3" type="audio/mpeg" length="49166017"></enclosure>
+      <itunes:title>Usagt: Ester </itunes:title>
+      <itunes:summary>Ester gjorde det slutt med kjæresten i redsel for at han skulle dumpe henne. Det har hun brukt mye tid på å angre på. Hun ender stadig opp med å sammenligne nye kjærester med eksen. Ti år etter vil hun kontakte ham for å komme seg videre.&#xA;&#xA;Episoden ble først publisert i 2018. Episoden er laget av Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Solveig Husøy.&#xA;</itunes:summary>
+      <itunes:duration>2048</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xu4pAqo-9aUw3VEfBka7sw0YvtobsQPqmxET95_5JRXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Usagt: Martin</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_15eebb5f-90d9-4d75-aebb-5f90d92d7536</link>
+      <description>Utad var Martin sønnen til den kule, rocka presten som viet Sky Channel-stjerna Pat Sharp. Hjemme var livet med faren et helvete. Martin fikk aldri tatt et oppgjør mens faren hans var i live, han aner ikke en gang hvor graven hans er. Nå bestemmer han seg for å lete etter svar og å snakke ordentlig med moren om oppveksten for første gang.&#xA;&#xA;Episoden er laget av Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Siril Heyerdahl.</description>
+      <guid isPermaLink="false">l_15eebb5f-90d9-4d75-aebb-5f90d92d7536</guid>
+      <pubDate>Wed, 24 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/9c466488-6509-425a-b9e8-6637a79a0c4f_0_ID192MP3.mp3" type="audio/mpeg" length="65515195"></enclosure>
+      <itunes:title>Usagt: Martin</itunes:title>
+      <itunes:summary>Utad var Martin sønnen til den kule, rocka presten som viet Sky Channel-stjerna Pat Sharp. Hjemme var livet med faren et helvete. Martin fikk aldri tatt et oppgjør mens faren hans var i live, han aner ikke en gang hvor graven hans er. Nå bestemmer han seg for å lete etter svar og å snakke ordentlig med moren om oppveksten for første gang.&#xA;&#xA;Episoden er laget av Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Siril Heyerdahl.</itunes:summary>
+      <itunes:duration>2729</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xu4pAqo-9aUw3VEfBka7sw0YvtobsQPqmxET95_5JRXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Usagt: Maria M</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_e2ffc44a-4ba1-46f4-bfc4-4a4ba1d6f4bf</link>
+      <description>Maria Mena slo gjennom som artist som 15-åring. Uten at hun visste det, gjorde han som i alle disse årene&#xA;har vært manager for henne, noen grep som skulle påvirke hele livet hennes.&#xA;&#xA;Episoden er laget av Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Solveig Husøy.</description>
+      <guid isPermaLink="false">l_e2ffc44a-4ba1-46f4-bfc4-4a4ba1d6f4bf</guid>
+      <pubDate>Wed, 17 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/abb037f3-efa2-4fc8-8749-7ed2af9f2736_0_ID192MP3.mp3" type="audio/mpeg" length="55500864"></enclosure>
+      <itunes:title>Usagt: Maria M</itunes:title>
+      <itunes:summary>Maria Mena slo gjennom som artist som 15-åring. Uten at hun visste det, gjorde han som i alle disse årene&#xA;har vært manager for henne, noen grep som skulle påvirke hele livet hennes.&#xA;&#xA;Episoden er laget av Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Solveig Husøy.</itunes:summary>
+      <itunes:duration>2312</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xu4pAqo-9aUw3VEfBka7sw0YvtobsQPqmxET95_5JRXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Usagt: Ylva </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_9ac8841e-d8aa-45da-8884-1ed8aaa5dae2</link>
+      <description>I 2018 ble livet helt annerledes for 18 år gamle Ylva da moren Vera Micaelsen ble alvorlig syk. Familien lovet hverandre at de kunne snakke om alt, men frykten for å miste en av sine aller nærmeste, var det vanskelig å sette ord på. Denne episoden ble først publisert 1. oktober 2018. Vera Micaelsen døde av kreft 28. oktober 2018.&#xA;&#xA;Episoden er laget av Hege Haug-Omre. Produsent Kari Hesthamar. Klipp og lyddesign ved Nils Jakob Langvik og Richard Sveen. Research Ellen Wisløff. Musikken er laget av Geir Sundstøl. Redaktører Solveig Husøy og Siril Heyerdahl.</description>
+      <guid isPermaLink="false">l_9ac8841e-d8aa-45da-8884-1ed8aaa5dae2</guid>
+      <pubDate>Wed, 10 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/9b7b3510-3b23-4bc6-9028-f316089df106_0_ID192MP3.mp3" type="audio/mpeg" length="59766721"></enclosure>
+      <itunes:title>Usagt: Ylva </itunes:title>
+      <itunes:summary>I 2018 ble livet helt annerledes for 18 år gamle Ylva da moren Vera Micaelsen ble alvorlig syk. Familien lovet hverandre at de kunne snakke om alt, men frykten for å miste en av sine aller nærmeste, var det vanskelig å sette ord på. Denne episoden ble først publisert 1. oktober 2018. Vera Micaelsen døde av kreft 28. oktober 2018.&#xA;&#xA;Episoden er laget av Hege Haug-Omre. Produsent Kari Hesthamar. Klipp og lyddesign ved Nils Jakob Langvik og Richard Sveen. Research Ellen Wisløff. Musikken er laget av Geir Sundstøl. Redaktører Solveig Husøy og Siril Heyerdahl.</itunes:summary>
+      <itunes:duration>2490</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xu4pAqo-9aUw3VEfBka7sw0YvtobsQPqmxET95_5JRXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Usagt: Alexander</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_a061bd71-6e9d-4baa-a1bd-716e9d8baa5c</link>
+      <description>Da Alexander ikke trodde han orket mer av mobbingen på ungdomsskolen, dumpet en anonym e-post ned i innboksen hans. «Jeg vil bare si at jeg ser deg, og at jeg synes du er modig», sto det. E-posten snudde alt. Det fantes ett menneske der ute som likte ham. I dag er Alexander førsteamanuensis i kjemi, forfatter og åpent homofil. Men hvem sendte e-posten som snudde livet hans den gangen?&#xA;&#xA;Episoden er laget av Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Siril Heyerdahl.</description>
+      <guid isPermaLink="false">l_a061bd71-6e9d-4baa-a1bd-716e9d8baa5c</guid>
+      <pubDate>Wed, 03 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/b18cc2c1-a603-40c3-a8ee-0dcd557a7496_0_ID192MP3.mp3" type="audio/mpeg" length="70638499"></enclosure>
+      <itunes:title>Usagt: Alexander</itunes:title>
+      <itunes:summary>Da Alexander ikke trodde han orket mer av mobbingen på ungdomsskolen, dumpet en anonym e-post ned i innboksen hans. «Jeg vil bare si at jeg ser deg, og at jeg synes du er modig», sto det. E-posten snudde alt. Det fantes ett menneske der ute som likte ham. I dag er Alexander førsteamanuensis i kjemi, forfatter og åpent homofil. Men hvem sendte e-posten som snudde livet hans den gangen?&#xA;&#xA;Episoden er laget av Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Siril Heyerdahl.</itunes:summary>
+      <itunes:duration>2943</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xu4pAqo-9aUw3VEfBka7sw0YvtobsQPqmxET95_5JRXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Usagt: Fredrik</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_d702704c-c21d-492a-8270-4cc21d292a61</link>
+      <description>Som 4-åring ble Fredrik sendt alene til astma-institusjonen Tomtebo, et opphold som for alltid har stått som et svart minne i livet hans. I voksen alder hører han tilfeldigvis et radioprogram om Tomtebo, hvor andre står fram med grusomme historier. Hva skjedde egentlig på barnesykehuset på 70-tallet? Finnes en journal - og hva vet foreldrene hans?&#xA;&#xA;Episoden er laget av Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Siril Heyerdahl.&#xA;&#xA; &#xA;&#xA; &#xA;&#xA; </description>
+      <guid isPermaLink="false">l_d702704c-c21d-492a-8270-4cc21d292a61</guid>
+      <pubDate>Wed, 24 Feb 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/129b73ca-8033-49c3-ab6f-534735952b60_0_ID192MP3.mp3" type="audio/mpeg" length="66140184"></enclosure>
+      <itunes:title>Usagt: Fredrik</itunes:title>
+      <itunes:summary>Som 4-åring ble Fredrik sendt alene til astma-institusjonen Tomtebo, et opphold som for alltid har stått som et svart minne i livet hans. I voksen alder hører han tilfeldigvis et radioprogram om Tomtebo, hvor andre står fram med grusomme historier. Hva skjedde egentlig på barnesykehuset på 70-tallet? Finnes en journal - og hva vet foreldrene hans?&#xA;&#xA;Episoden er laget av Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Siril Heyerdahl.&#xA;&#xA; &#xA;&#xA; &#xA;&#xA; </itunes:summary>
+      <itunes:duration>2755</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xu4pAqo-9aUw3VEfBka7sw0YvtobsQPqmxET95_5JRXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Usagt: Silje </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_57208af8-8aa4-4afd-a08a-f88aa48afdc2</link>
+      <description>Sommeren da Silje Nordnes var 15 år jobbet hun i lokalbutikken på Hamarøy, da en langt eldre kvinne dukket opp foran kjøttdisken - og Silje ble akutt forelsket. Følelsene ga seg ikke, men skammen vokste. Ingen måtte få vite at Silje likte jenter. Nå vil hun reise hjem og møte kvinnen igjen.&#xA;&#xA;Episoden er laget av Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Siril Heyerdahl.</description>
+      <guid isPermaLink="false">l_57208af8-8aa4-4afd-a08a-f88aa48afdc2</guid>
+      <pubDate>Wed, 17 Feb 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/6e38a4f3-accd-4526-8333-9a49fbf457a1_0_ID192MP3.mp3" type="audio/mpeg" length="67441932"></enclosure>
+      <itunes:title>Usagt: Silje </itunes:title>
+      <itunes:summary>Sommeren da Silje Nordnes var 15 år jobbet hun i lokalbutikken på Hamarøy, da en langt eldre kvinne dukket opp foran kjøttdisken - og Silje ble akutt forelsket. Følelsene ga seg ikke, men skammen vokste. Ingen måtte få vite at Silje likte jenter. Nå vil hun reise hjem og møte kvinnen igjen.&#xA;&#xA;Episoden er laget av Kari Hesthamar. Klipp og lyddesign Nils Jakob Langvik. Research Ellen Wisløff. Musikk av Geir Sundstøl. Redaktør Siril Heyerdahl.</itunes:summary>
+      <itunes:duration>2810</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xu4pAqo-9aUw3VEfBka7sw0YvtobsQPqmxET95_5JRXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Solveig Kloppen og Kjartan Brügger Bjånesøy</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_86d908e8-bc59-4505-9908-e8bc59450563</link>
+      <description>Da Solveig Kloppen mista både søsteren og moren i løpet av samme sommer tok sorgen fullstendig overhånd. Ekteskapet med Kjartan Brügger Bjånesøy ble satt på en solid prøve. Fordi sorgen gjorde henne til en annen utgave av seg selv. Solveig var redd for at søsteren Katrines død skulle forandre henne for alltid.</description>
+      <guid isPermaLink="false">l_86d908e8-bc59-4505-9908-e8bc59450563</guid>
+      <pubDate>Wed, 10 Feb 2021 07:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/4cc59600-172b-4d4f-a06b-d68d0dea0993_0_ID192MP3.mp3" type="audio/mpeg" length="82336156"></enclosure>
+      <itunes:title>Solveig Kloppen og Kjartan Brügger Bjånesøy</itunes:title>
+      <itunes:summary>Da Solveig Kloppen mista både søsteren og moren i løpet av samme sommer tok sorgen fullstendig overhånd. Ekteskapet med Kjartan Brügger Bjånesøy ble satt på en solid prøve. Fordi sorgen gjorde henne til en annen utgave av seg selv. Solveig var redd for at søsteren Katrines død skulle forandre henne for alltid.</itunes:summary>
+      <itunes:duration>3430</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6beVtQLoH1zyvPGHVwENvAMUqHhvWF_2-46CxOO9SCxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Elisabeth Andreassen</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_994f7dd2-ceb2-4c11-8f7d-d2ceb2dc11db</link>
+      <description>Sorgen over at jentene mine ikke har en pappa lenger, den slipper aldri. Døtrene til Elisabeth Andreassen mistet faren sin, og hun mistet sin store kjærlighet etter 22 års ekteskap. Sorgen stenger en dør, men så åpnes en annen. Elisabeth har klart å åpne opp hjertet sitt for en annen og oppleve kjærlighet igjen.</description>
+      <guid isPermaLink="false">l_994f7dd2-ceb2-4c11-8f7d-d2ceb2dc11db</guid>
+      <pubDate>Wed, 03 Feb 2021 07:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/95f17d01-9d2a-40b7-97dc-8ca2e30302ee_0_ID192MP3.mp3" type="audio/mpeg" length="82685213"></enclosure>
+      <itunes:title>Elisabeth Andreassen</itunes:title>
+      <itunes:summary>Sorgen over at jentene mine ikke har en pappa lenger, den slipper aldri. Døtrene til Elisabeth Andreassen mistet faren sin, og hun mistet sin store kjærlighet etter 22 års ekteskap. Sorgen stenger en dør, men så åpnes en annen. Elisabeth har klart å åpne opp hjertet sitt for en annen og oppleve kjærlighet igjen.</itunes:summary>
+      <itunes:duration>3445</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6beVtQLoH1zyvPGHVwENvAMUqHhvWF_2-46CxOO9SCxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Espen Rostrup Nakstad</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_b64312ca-4b1a-4317-8312-ca4b1a331767</link>
+      <description>Espen Rostrup Nakstad og tvillingbroren Anders gjorde alt sammen. De to var ett. Så døde Anders fra Espen, og livet ble aldri det samme igjen. Det tok fem år for Espen å venne seg til at tryggheten han hadde hatt hele livet var borte, og at han ikke var tvilling lengre.</description>
+      <guid isPermaLink="false">l_b64312ca-4b1a-4317-8312-ca4b1a331767</guid>
+      <pubDate>Wed, 27 Jan 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/d78df8ef-c018-4f0d-8356-307423e3efda_0_ID192MP3.mp3" type="audio/mpeg" length="75858451"></enclosure>
+      <itunes:title>Espen Rostrup Nakstad</itunes:title>
+      <itunes:summary>Espen Rostrup Nakstad og tvillingbroren Anders gjorde alt sammen. De to var ett. Så døde Anders fra Espen, og livet ble aldri det samme igjen. Det tok fem år for Espen å venne seg til at tryggheten han hadde hatt hele livet var borte, og at han ikke var tvilling lengre.</itunes:summary>
+      <itunes:duration>3160</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6beVtQLoH1zyvPGHVwENvAMUqHhvWF_2-46CxOO9SCxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Nils-Ingar Aadne</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_1f25bb9a-d49d-4aea-a5bb-9ad49d9aea38</link>
+      <description>Komiker Nils Ingar Aadne var på sitt lykkeligste da han oppleve det aller verste i livet. Samboeren Ida døde under et treningsløp og livet til Nils Ingar blir aldri det samme. </description>
+      <guid isPermaLink="false">l_1f25bb9a-d49d-4aea-a5bb-9ad49d9aea38</guid>
+      <pubDate>Wed, 20 Jan 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/df7ed877-45f5-4f56-beaa-905d2d5460c5_0_ID192MP3.mp3" type="audio/mpeg" length="68368136"></enclosure>
+      <itunes:title>Nils-Ingar Aadne</itunes:title>
+      <itunes:summary>Komiker Nils Ingar Aadne var på sitt lykkeligste da han oppleve det aller verste i livet. Samboeren Ida døde under et treningsløp og livet til Nils Ingar blir aldri det samme. </itunes:summary>
+      <itunes:duration>2848</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6beVtQLoH1zyvPGHVwENvAMUqHhvWF_2-46CxOO9SCxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Nina Jensen</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_66df5f10-1cdf-457e-9f5f-101cdf157e69</link>
+      <description>Miljøforkjemper Nina Jensen trodde det var jordkloden hun skulle redde, men så tok livet en helt annen vending da mannen Nicolai Roan ble alvorlig syk. I over ett år håpet de at kreften skulle slippe taket, men i slutten av juli 2019 dør Nicolai fra henne.&#xA;I denne podkasten snakker Nina om hvordan livet brått forandret seg fra himmel til helvete, og hvordan hun har taklet dagene etter at Nicolai døde.</description>
+      <guid isPermaLink="false">l_66df5f10-1cdf-457e-9f5f-101cdf157e69</guid>
+      <pubDate>Wed, 13 Jan 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/9aef5b77-f5af-4688-a38a-a1a6d2304048_0_ID192MP3.mp3" type="audio/mpeg" length="59146968"></enclosure>
+      <itunes:title>Nina Jensen</itunes:title>
+      <itunes:summary>Miljøforkjemper Nina Jensen trodde det var jordkloden hun skulle redde, men så tok livet en helt annen vending da mannen Nicolai Roan ble alvorlig syk. I over ett år håpet de at kreften skulle slippe taket, men i slutten av juli 2019 dør Nicolai fra henne.&#xA;I denne podkasten snakker Nina om hvordan livet brått forandret seg fra himmel til helvete, og hvordan hun har taklet dagene etter at Nicolai døde.</itunes:summary>
+      <itunes:duration>2464</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6beVtQLoH1zyvPGHVwENvAMUqHhvWF_2-46CxOO9SCxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dag Erik Pedersen</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_775d08c2-9bec-476d-9d08-c29bec976d1c</link>
+      <description>Mottoet &#34;aldri god alene&#34; har aldri hatt større betydning for programleder og tidligere proffsyklist, Dag Erik Pedersen, enn nå.&#xA;Sommeren 2019 tok sønnen Simen livet sitt. Han ville ikke leve mer. Å være pappa og oppleve at sønnen din velger døden fremfor livet er nesten ikke til å bære. I denne podkasten snakker Dag Erik om hvordan han har tatt imot sorgen som brått kom forbi, og hvordan han henter energi og glede til dagene som kommer.</description>
+      <guid isPermaLink="false">l_775d08c2-9bec-476d-9d08-c29bec976d1c</guid>
+      <pubDate>Wed, 06 Jan 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/e3f91276-9eb8-410f-b608-d42aae064a68_0_ID192MP3.mp3" type="audio/mpeg" length="85300239"></enclosure>
+      <itunes:title>Dag Erik Pedersen</itunes:title>
+      <itunes:summary>Mottoet &#34;aldri god alene&#34; har aldri hatt større betydning for programleder og tidligere proffsyklist, Dag Erik Pedersen, enn nå.&#xA;Sommeren 2019 tok sønnen Simen livet sitt. Han ville ikke leve mer. Å være pappa og oppleve at sønnen din velger døden fremfor livet er nesten ikke til å bære. I denne podkasten snakker Dag Erik om hvordan han har tatt imot sorgen som brått kom forbi, og hvordan han henter energi og glede til dagene som kommer.</itunes:summary>
+      <itunes:duration>3554</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6beVtQLoH1zyvPGHVwENvAMUqHhvWF_2-46CxOO9SCxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En helt vanlig familie (1:3)</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_f0b9c3ad-f2c2-4942-b9c3-adf2c2c942c7</link>
+      <description>Podkasten om noe som skjer i helt vanlige familier. Som barn kunne «Ingvild» lukte farens raseri med én gang hun kom hjem. Nå har hun bestemt seg for å snakke med ham om volden – for aller første gang.&#xA;&#xA;Serien er laget av Anne Dorte Lunås for P3 Dokumentar.</description>
+      <guid isPermaLink="false">l_f0b9c3ad-f2c2-4942-b9c3-adf2c2c942c7</guid>
+      <pubDate>Wed, 09 Dec 2020 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/ccf303a9-97d3-42a9-97d7-21c93388952b_0_ID192MP3.mp3" type="audio/mpeg" length="54466957"></enclosure>
+      <itunes:title>En helt vanlig familie (1:3)</itunes:title>
+      <itunes:summary>Podkasten om noe som skjer i helt vanlige familier. Som barn kunne «Ingvild» lukte farens raseri med én gang hun kom hjem. Nå har hun bestemt seg for å snakke med ham om volden – for aller første gang.&#xA;&#xA;Serien er laget av Anne Dorte Lunås for P3 Dokumentar.</itunes:summary>
+      <itunes:duration>2269</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_JT_A0v1pLoWVSrmH2omvADizP1tLhYIMUbPVy7CYmFQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En helt vanlig familie (2:3)</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_6dfef619-658c-4c0c-bef6-19658c3c0c90</link>
+      <description>Moren til «Ingvild» gjorde alt for å holde familiens fasade ved like. Men klarte hun egentlig det?</description>
+      <guid isPermaLink="false">l_6dfef619-658c-4c0c-bef6-19658c3c0c90</guid>
+      <pubDate>Wed, 09 Dec 2020 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/f3026da2-b35d-46cc-af8d-d9f57a843d98_0_ID192MP3.mp3" type="audio/mpeg" length="37974349"></enclosure>
+      <itunes:title>En helt vanlig familie (2:3)</itunes:title>
+      <itunes:summary>Moren til «Ingvild» gjorde alt for å holde familiens fasade ved like. Men klarte hun egentlig det?</itunes:summary>
+      <itunes:duration>1582</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_JT_A0v1pLoWVSrmH2omvADizP1tLhYIMUbPVy7CYmFQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En helt vanlig familie (3:3)</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_7a237099-5cd2-4a2f-a370-995cd22a2fc1</link>
+      <description>«Ingvild» skal endelig snakke med foreldrene sine. Det ender med tårer.</description>
+      <guid isPermaLink="false">l_7a237099-5cd2-4a2f-a370-995cd22a2fc1</guid>
+      <pubDate>Wed, 09 Dec 2020 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/557affd7-8dc3-4618-a7f4-9707a6f3c285_0_ID192MP3.mp3" type="audio/mpeg" length="51214861"></enclosure>
+      <itunes:title>En helt vanlig familie (3:3)</itunes:title>
+      <itunes:summary>«Ingvild» skal endelig snakke med foreldrene sine. Det ender med tårer.</itunes:summary>
+      <itunes:duration>2133</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_JT_A0v1pLoWVSrmH2omvADizP1tLhYIMUbPVy7CYmFQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Marius og Eva </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_d84b6606-9b4e-4b6e-8b66-069b4e9b6ecf</link>
+      <description>Er det smart for forholdet å kjøpe et oppussingsprosjekt?&#xA;Og hva skjer når hun vil bli tatt med storm, men han er redd for å bli avvist?&#xA;Havarikommisjonens psykologer dykker ned i det som en gang var en lykkelig kjærlighetshistorie for å finne ut hvorfor forholdet havarerte. &#xA;&#xA;I kommisjonen: psykologene Sissel Gran og Sindre Kvithyld Aasli. &#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Karoline Møller, Maia Østerud og Ragna Nordenborg.&#xA;Vignettmusikk: Cloroform.</description>
+      <guid isPermaLink="false">l_d84b6606-9b4e-4b6e-8b66-069b4e9b6ecf</guid>
+      <pubDate>Wed, 02 Dec 2020 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/ebd2237c-2ed0-429d-b96e-b36cf83a4e72_0_ID192MP3.mp3" type="audio/mpeg" length="55535884"></enclosure>
+      <itunes:title>Havarikommisjonen: Marius og Eva </itunes:title>
+      <itunes:summary>Er det smart for forholdet å kjøpe et oppussingsprosjekt?&#xA;Og hva skjer når hun vil bli tatt med storm, men han er redd for å bli avvist?&#xA;Havarikommisjonens psykologer dykker ned i det som en gang var en lykkelig kjærlighetshistorie for å finne ut hvorfor forholdet havarerte. &#xA;&#xA;I kommisjonen: psykologene Sissel Gran og Sindre Kvithyld Aasli. &#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Karoline Møller, Maia Østerud og Ragna Nordenborg.&#xA;Vignettmusikk: Cloroform.</itunes:summary>
+      <itunes:duration>2313</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gAGcMn0KYR93QxStDRiv8AFIx7Gmi4QI9jDhHn2s1dcg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Lars og Solfrid </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_0e0c7680-fc5b-415c-8c76-80fc5bb15c0d</link>
+      <description>Hva skjer når den ene vil gjøre karriere og den andre må ta ansvaret hjemme?  Og hvorfor er det så vanskelig å si hvordan man egentlig har det? Havarikommisjonens psykologer dykker ned i det som en gang var en lykkelig kjærlighetshistorie for å finne ut hvorfor forholdet havarerte.&#xA;&#xA;I kommisjonen: psykologene Sissel Gran og Dimitrij Samoilow. &#xA;Programleder: Eivind Sæther. &#xA;Produsenter: Karoline Møller og Maia Østerud .&#xA;Vignettmusikk: Cloroform</description>
+      <guid isPermaLink="false">l_0e0c7680-fc5b-415c-8c76-80fc5bb15c0d</guid>
+      <pubDate>Wed, 25 Nov 2020 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/073eb4aa-1aee-44cf-bee3-4a0ee86fcaaa_0_ID192MP3.mp3" type="audio/mpeg" length="63299235"></enclosure>
+      <itunes:title>Havarikommisjonen: Lars og Solfrid </itunes:title>
+      <itunes:summary>Hva skjer når den ene vil gjøre karriere og den andre må ta ansvaret hjemme?  Og hvorfor er det så vanskelig å si hvordan man egentlig har det? Havarikommisjonens psykologer dykker ned i det som en gang var en lykkelig kjærlighetshistorie for å finne ut hvorfor forholdet havarerte.&#xA;&#xA;I kommisjonen: psykologene Sissel Gran og Dimitrij Samoilow. &#xA;Programleder: Eivind Sæther. &#xA;Produsenter: Karoline Møller og Maia Østerud .&#xA;Vignettmusikk: Cloroform</itunes:summary>
+      <itunes:duration>2637</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gAGcMn0KYR93QxStDRiv8AFIx7Gmi4QI9jDhHn2s1dcg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Alexandra og Christina </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_ad7f8ef8-5af1-42d5-bf8e-f85af192d589</link>
+      <description>Hva skjer når et par slutter å ha sex? Og hvordan skal de finne tilbake til nærheten når livet er fylt av jobb og unger?&#xA;I Havarikommisjonen dykker parterapeuter ned i det som en gang  var en lykkelig kjærlighetshistorie for å finne ut hvorfor forholdet havarerte. &#xA;&#xA;I kommisjonen:  psykologene Catrin Sagen og Sindre Kvithyld Aasli. &#xA;Programleder: Eivind Sæther. &#xA;Produsenter: Karoline Møller og Maia Østerud.&#xA;Vignettmusikk: Cloroform</description>
+      <guid isPermaLink="false">l_ad7f8ef8-5af1-42d5-bf8e-f85af192d589</guid>
+      <pubDate>Wed, 18 Nov 2020 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/5bfa8056-6f65-4035-bb15-6564d9996519_0_ID192MP3.mp3" type="audio/mpeg" length="62360828"></enclosure>
+      <itunes:title>Havarikommisjonen: Alexandra og Christina </itunes:title>
+      <itunes:summary>Hva skjer når et par slutter å ha sex? Og hvordan skal de finne tilbake til nærheten når livet er fylt av jobb og unger?&#xA;I Havarikommisjonen dykker parterapeuter ned i det som en gang  var en lykkelig kjærlighetshistorie for å finne ut hvorfor forholdet havarerte. &#xA;&#xA;I kommisjonen:  psykologene Catrin Sagen og Sindre Kvithyld Aasli. &#xA;Programleder: Eivind Sæther. &#xA;Produsenter: Karoline Møller og Maia Østerud.&#xA;Vignettmusikk: Cloroform</itunes:summary>
+      <itunes:duration>2598</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gAGcMn0KYR93QxStDRiv8AFIx7Gmi4QI9jDhHn2s1dcg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Ole og Ellen </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_ea0b8da8-6075-42e9-8b8d-a8607572e9c0</link>
+      <description>Hva skjer når den festglade kjæresten føler seg innesperret i det slitsomme småbarnslivet? Og hvordan få forholdet til å funke når begge vil forandre den andre? Havarikommisjonens parterapeuter dykker ned i det som en gang var en lykkelig kjærlighetshistorie for å finne ut hvorfor forholdet havarerte.&#xA;&#xA;I kommisjonen: psykologene Catrin Sagen og Sindre Kvithyld Aasli.&#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Karoline Møller og Maia Østerud.&#xA;Vignettmusikk: Cloroform</description>
+      <guid isPermaLink="false">l_ea0b8da8-6075-42e9-8b8d-a8607572e9c0</guid>
+      <pubDate>Wed, 11 Nov 2020 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/92d37ab1-4b22-4e64-94de-9599dd0c8273_0_ID192MP3.mp3" type="audio/mpeg" length="61798749"></enclosure>
+      <itunes:title>Havarikommisjonen: Ole og Ellen </itunes:title>
+      <itunes:summary>Hva skjer når den festglade kjæresten føler seg innesperret i det slitsomme småbarnslivet? Og hvordan få forholdet til å funke når begge vil forandre den andre? Havarikommisjonens parterapeuter dykker ned i det som en gang var en lykkelig kjærlighetshistorie for å finne ut hvorfor forholdet havarerte.&#xA;&#xA;I kommisjonen: psykologene Catrin Sagen og Sindre Kvithyld Aasli.&#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Karoline Møller og Maia Østerud.&#xA;Vignettmusikk: Cloroform</itunes:summary>
+      <itunes:duration>2574</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gAGcMn0KYR93QxStDRiv8AFIx7Gmi4QI9jDhHn2s1dcg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Halvard og Kristin </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_c06c5b83-1ec1-41b4-ac5b-831ec141b471</link>
+      <description>Er det innafor å være i tvil på bryllupsdagen? Og kan et excel-skjema være redningen når forholdet skranter? &#xA;Havarikommisjonens parterapeuter dykker ned i det som en gang var en lykkelig kjærlighetshistorie for å finne ut hvorfor forholdet havarerte.&#xA;&#xA;I kommisjonen: psykologene Sissel Gran og Dimitrij Samoilow. &#xA;Programleder: Eivind Sæther. &#xA;Produsenter: Karoline Møller og Maia Østerud&#xA;Vignettmusikk: Cloroform&#xA;</description>
+      <guid isPermaLink="false">l_c06c5b83-1ec1-41b4-ac5b-831ec141b471</guid>
+      <pubDate>Wed, 04 Nov 2020 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/88b80ef6-b340-46d3-9604-96b9e18b6293_0_ID192MP3.mp3" type="audio/mpeg" length="59715913"></enclosure>
+      <itunes:title>Havarikommisjonen: Halvard og Kristin </itunes:title>
+      <itunes:summary>Er det innafor å være i tvil på bryllupsdagen? Og kan et excel-skjema være redningen når forholdet skranter? &#xA;Havarikommisjonens parterapeuter dykker ned i det som en gang var en lykkelig kjærlighetshistorie for å finne ut hvorfor forholdet havarerte.&#xA;&#xA;I kommisjonen: psykologene Sissel Gran og Dimitrij Samoilow. &#xA;Programleder: Eivind Sæther. &#xA;Produsenter: Karoline Møller og Maia Østerud&#xA;Vignettmusikk: Cloroform&#xA;</itunes:summary>
+      <itunes:duration>2488</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gAGcMn0KYR93QxStDRiv8AFIx7Gmi4QI9jDhHn2s1dcg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Havarikommisjonen: Tobias og Lilly </title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_697aa91b-8573-4f7c-baa9-1b8573bf7c3b</link>
+      <description>Podkasten som kan redde samlivet: Hva har vasking av badet med sex å gjøre? Og hvordan reparere etter en krangel? Havarikommisjonens parterapeuter dykker ned i det som en gang var en lykkelig kjærlighetshistorie for å finne ut hvorfor forholdet havarerte.&#xA;&#xA;I kommisjonen: psykologene Catrin Sagen og Sindre Kvithyld Aasli.&#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Karoline Møller og Maia Østerud.&#xA;Vignettmusikk: Cloroform</description>
+      <guid isPermaLink="false">l_697aa91b-8573-4f7c-baa9-1b8573bf7c3b</guid>
+      <pubDate>Wed, 28 Oct 2020 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/506c26d6-eb63-4d9b-b1f5-c6e0865418c5_0_ID192MP3.mp3" type="audio/mpeg" length="62248611"></enclosure>
+      <itunes:title>Havarikommisjonen: Tobias og Lilly </itunes:title>
+      <itunes:summary>Podkasten som kan redde samlivet: Hva har vasking av badet med sex å gjøre? Og hvordan reparere etter en krangel? Havarikommisjonens parterapeuter dykker ned i det som en gang var en lykkelig kjærlighetshistorie for å finne ut hvorfor forholdet havarerte.&#xA;&#xA;I kommisjonen: psykologene Catrin Sagen og Sindre Kvithyld Aasli.&#xA;Programleder: Eivind Sæther.&#xA;Produsenter: Karoline Møller og Maia Østerud.&#xA;Vignettmusikk: Cloroform</itunes:summary>
+      <itunes:duration>2593</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gAGcMn0KYR93QxStDRiv8AFIx7Gmi4QI9jDhHn2s1dcg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Trailer: Havarikommisjonen</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_7fa12a9b-cb93-4680-a12a-9bcb93a68099</link>
+      <description>Hvordan kan et par gå fra å være sykt lykkelig til å forakte hverandre? Hvordan skaper man trygghet i et forhold? Og er det egentlig en sammenheng mellom husvask og sex? I Havarikommisjonen dykker programleder Eivind Sæther og erfarne parterapeuter ned i historien til skilte par for å finne ut hvorfor det gikk galt, og hvordan det kanskje kunne vært unngått.&#xA;&#xA;Med psykologene Sissel Gran, Catrin Sagen, Sindre Kvithyld Aasli og Dimitrij Samoilow&#xA;Produsenter: Karoline Møller og Maia Østerud</description>
+      <guid isPermaLink="false">l_7fa12a9b-cb93-4680-a12a-9bcb93a68099</guid>
+      <pubDate>Wed, 21 Oct 2020 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/7ae05e2c-3ac5-4a9a-9d97-dff971d10a34_0_ID192MP3.mp3" type="audio/mpeg" length="3949904"></enclosure>
+      <itunes:title>Trailer: Havarikommisjonen</itunes:title>
+      <itunes:summary>Hvordan kan et par gå fra å være sykt lykkelig til å forakte hverandre? Hvordan skaper man trygghet i et forhold? Og er det egentlig en sammenheng mellom husvask og sex? I Havarikommisjonen dykker programleder Eivind Sæther og erfarne parterapeuter ned i historien til skilte par for å finne ut hvorfor det gikk galt, og hvordan det kanskje kunne vært unngått.&#xA;&#xA;Med psykologene Sissel Gran, Catrin Sagen, Sindre Kvithyld Aasli og Dimitrij Samoilow&#xA;Produsenter: Karoline Møller og Maia Østerud</itunes:summary>
+      <itunes:duration>164</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gAGcMn0KYR93QxStDRiv8AFIx7Gmi4QI9jDhHn2s1dcg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Overmot</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_d4796c51-8bf0-40d5-b96c-518bf030d596</link>
+      <description>Pernille Rygg merker ofte at kona Christine Koht er fylt av overmot. Noen ganger kan det virke som det er Kanye West hun er gift med. - Hadde aldri trodd at jeg skulle kjenne meg igjen i Kim Kardashian, sier hun og ler. &#xA;Men det blir også en kjærlighetshistorie fra da Thomas Numme var en ung fyr med overmot. Og gründer Johan Brand setter veldig pris på overmotet og alt det kan tilby.</description>
+      <guid isPermaLink="false">l_d4796c51-8bf0-40d5-b96c-518bf030d596</guid>
+      <pubDate>Thu, 15 Oct 2020 04:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/6a437cf2-8f71-450b-8e7b-936431d92faa_0_ID192MP3.mp3" type="audio/mpeg" length="61905988"></enclosure>
+      <itunes:title>Overmot</itunes:title>
+      <itunes:summary>Pernille Rygg merker ofte at kona Christine Koht er fylt av overmot. Noen ganger kan det virke som det er Kanye West hun er gift med. - Hadde aldri trodd at jeg skulle kjenne meg igjen i Kim Kardashian, sier hun og ler. &#xA;Men det blir også en kjærlighetshistorie fra da Thomas Numme var en ung fyr med overmot. Og gründer Johan Brand setter veldig pris på overmotet og alt det kan tilby.</itunes:summary>
+      <itunes:duration>2579</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rc1zj1CFwLUPPgI7hUpoiAeDzHDawloc6WKIjeW-allg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Avsky</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_e42314cb-4e7d-4eed-a314-cb4e7d1eed0a</link>
+      <description>Camara har blitt slått av eldre kvinner, blitt nektet å leie leilighet og sett på som sex-arbeider. Alt på grunn av hennes avskyelige hudfarge. &#xA;</description>
+      <guid isPermaLink="false">l_e42314cb-4e7d-4eed-a314-cb4e7d1eed0a</guid>
+      <pubDate>Thu, 08 Oct 2020 04:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/dbd4d9c0-5c79-4706-853b-ea633b1486fe_0_ID192MP3.mp3" type="audio/mpeg" length="58324418"></enclosure>
+      <itunes:title>Avsky</itunes:title>
+      <itunes:summary>Camara har blitt slått av eldre kvinner, blitt nektet å leie leilighet og sett på som sex-arbeider. Alt på grunn av hennes avskyelige hudfarge. &#xA;</itunes:summary>
+      <itunes:duration>2430</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rc1zj1CFwLUPPgI7hUpoiAeDzHDawloc6WKIjeW-allg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ærefrykt</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_2430164b-434c-4c96-b016-4b434cec9682</link>
+      <description>Tenk på at alle bæsjer! Programleder Harald Eia mener det er gammeldags å ha ærefrykt for andre mennesker. Men hva mister vi da?&#xA;</description>
+      <guid isPermaLink="false">l_2430164b-434c-4c96-b016-4b434cec9682</guid>
+      <pubDate>Thu, 01 Oct 2020 04:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/432f91c2-9356-4514-954f-5ffb27c43a1f_0_ID192MP3.mp3" type="audio/mpeg" length="54399557"></enclosure>
+      <itunes:title>Ærefrykt</itunes:title>
+      <itunes:summary>Tenk på at alle bæsjer! Programleder Harald Eia mener det er gammeldags å ha ærefrykt for andre mennesker. Men hva mister vi da?&#xA;</itunes:summary>
+      <itunes:duration>2266</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rc1zj1CFwLUPPgI7hUpoiAeDzHDawloc6WKIjeW-allg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bitterhet</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_d39a6c10-7d8b-4347-9a6c-107d8bb34767</link>
+      <description>Nettroll, unge sinte menn og i verste fall: terrorister.  Hva kan vi gjøre for å stoppe den farlige bitterheten?</description>
+      <guid isPermaLink="false">l_d39a6c10-7d8b-4347-9a6c-107d8bb34767</guid>
+      <pubDate>Thu, 24 Sep 2020 04:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/e54060a4-1f6d-48ce-b2a4-0cf53aaba4f5_0_ID192MP3.mp3" type="audio/mpeg" length="59743110"></enclosure>
+      <itunes:title>Bitterhet</itunes:title>
+      <itunes:summary>Nettroll, unge sinte menn og i verste fall: terrorister.  Hva kan vi gjøre for å stoppe den farlige bitterheten?</itunes:summary>
+      <itunes:duration>2489</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rc1zj1CFwLUPPgI7hUpoiAeDzHDawloc6WKIjeW-allg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Lojalitet</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_a4793a51-2dc2-4406-b93a-512dc2e4069e</link>
+      <description>Utro ektemann, lojal kone tilgir. Er de naive og dumme eller er det en lojalitet du bør bli inspirert av? «Den lojale kona» er en karakter som flere ganger har endret amerikansk politikk. </description>
+      <guid isPermaLink="false">l_a4793a51-2dc2-4406-b93a-512dc2e4069e</guid>
+      <pubDate>Thu, 17 Sep 2020 04:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/a03b50b0-0412-4043-946d-418aa1651dbf_0_ID192MP3.mp3" type="audio/mpeg" length="58169478"></enclosure>
+      <itunes:title>Lojalitet</itunes:title>
+      <itunes:summary>Utro ektemann, lojal kone tilgir. Er de naive og dumme eller er det en lojalitet du bør bli inspirert av? «Den lojale kona» er en karakter som flere ganger har endret amerikansk politikk. </itunes:summary>
+      <itunes:duration>2423</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rc1zj1CFwLUPPgI7hUpoiAeDzHDawloc6WKIjeW-allg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hevn</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_5c2b4b3c-c3c8-42d1-ab4b-3cc3c8b2d159</link>
+      <description> «Det føles som at alle har hatt sex med meg», sier Kaja. Eksen delte sexvideoer på pornonettsteder som hevn, men det verste var da Kajas egne tankeløse venner spredde bildene til alle hun kjente.  Er det nysgjerrigheten vår som gjør at digitale seksuelle krenkelser kalles den verste hevnen av dem alle? </description>
+      <guid isPermaLink="false">l_5c2b4b3c-c3c8-42d1-ab4b-3cc3c8b2d159</guid>
+      <pubDate>Thu, 10 Sep 2020 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/b5f773b9-be4a-46a0-b431-0169b5559432_0_ID192MP3.mp3" type="audio/mpeg" length="60095041"></enclosure>
+      <itunes:title>Hevn</itunes:title>
+      <itunes:summary> «Det føles som at alle har hatt sex med meg», sier Kaja. Eksen delte sexvideoer på pornonettsteder som hevn, men det verste var da Kajas egne tankeløse venner spredde bildene til alle hun kjente.  Er det nysgjerrigheten vår som gjør at digitale seksuelle krenkelser kalles den verste hevnen av dem alle? </itunes:summary>
+      <itunes:duration>2503</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rc1zj1CFwLUPPgI7hUpoiAeDzHDawloc6WKIjeW-allg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ydmykelse</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_8622b733-dbe9-4802-a2b7-33dbe93802d0</link>
+      <description>Følelsenes atombombe! Så sterk at den kan starte kriger, få Trump til å rasere Obamas politiske arv, og deg til å elske romantiske komedier.</description>
+      <guid isPermaLink="false">l_8622b733-dbe9-4802-a2b7-33dbe93802d0</guid>
+      <pubDate>Thu, 03 Sep 2020 06:26:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/c250bd0e-f9da-4fc0-a908-b41b9722ba86_0_ID192MP3.mp3" type="audio/mpeg" length="58185030"></enclosure>
+      <itunes:title>Ydmykelse</itunes:title>
+      <itunes:summary>Følelsenes atombombe! Så sterk at den kan starte kriger, få Trump til å rasere Obamas politiske arv, og deg til å elske romantiske komedier.</itunes:summary>
+      <itunes:duration>2424</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TPbDJJc7duFEd3ajEG39IwVMKn0Pi5ohMmeYKpUNgeVw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Skadefryd</title>
+      <link>https://radio.nrk.no/podkast/mellom_oss/l_a8de3ca1-53ef-4211-9e3c-a153eff21133</link>
+      <description>Er det først og fremst skadefryd som holder liv i norsk fotball? Og hvorfor var «Morna Jens»- talen til Siv Jensen en genistrek? Og hva er egentlig den korona-gossingen mot svenskene?</description>
+      <guid isPermaLink="false">l_a8de3ca1-53ef-4211-9e3c-a153eff21133</guid>
+      <pubDate>Thu, 27 Aug 2020 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mellom_oss/59009746-e28f-43a4-9b92-d6184fc2ca4d_0_ID192MP3.mp3" type="audio/mpeg" length="59320324"></enclosure>
+      <itunes:title>Skadefryd</itunes:title>
+      <itunes:summary>Er det først og fremst skadefryd som holder liv i norsk fotball? Og hvorfor var «Morna Jens»- talen til Siv Jensen en genistrek? Og hva er egentlig den korona-gossingen mot svenskene?</itunes:summary>
+      <itunes:duration>2471</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TPbDJJc7duFEd3ajEG39IwVMKn0Pi5ohMmeYKpUNgeVw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

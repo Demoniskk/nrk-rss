@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verdens ekleste podkast</title>
+    <link>https://radio.nrk.no/podkast/verdens_ekleste_podkast</link>
+    <description>Er du nysgjerrig på alt som er ekkelt? Bli med bæsjemonstret inn i det stinkende laboratoriet til kjemiker Alexander Sandtorv.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 16 Sep 2022 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdens_ekleste_podkast.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Er du nysgjerrig på alt som er ekkelt? Bli med bæsjemonstret inn i det stinkende laboratoriet til kjemiker Alexander Sandtorv.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ</url>
+      <title>Verdens ekleste podkast</title>
+      <link>https://radio.nrk.no/podkast/verdens_ekleste_podkast</link>
+    </image>
+    <item>
+      <title>12. Kan man spise ørevoks?</title>
+      <link>https://radio.nrk.no/podkast/verdens_ekleste_podkast/l_d087984d-568f-4972-8798-4d568f8972dd</link>
+      <description>Vi møter et ekte øre og Alexander forteller om en gang han måtte spyle ut en ørevoksklump hos legen!</description>
+      <guid isPermaLink="false">l_d087984d-568f-4972-8798-4d568f8972dd</guid>
+      <pubDate>Fri, 16 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdens_ekleste_podkast/016698bf-f664-4839-b524-5ee08750319b_0_ID192MP3.mp3" type="audio/mpeg" length="17709741"></enclosure>
+      <itunes:title>12. Kan man spise ørevoks?</itunes:title>
+      <itunes:summary>Vi møter et ekte øre og Alexander forteller om en gang han måtte spyle ut en ørevoksklump hos legen!</itunes:summary>
+      <itunes:duration>737</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>11. Hva er spy?</title>
+      <link>https://radio.nrk.no/podkast/verdens_ekleste_podkast/l_5e1838c5-e79b-410c-9838-c5e79ba10c6b</link>
+      <description>Hvorfor lukter spy så vondt? Alexander og Bæsjemonsteret legger en knekkebrødbit i magesyre for å se hva som skjer!</description>
+      <guid isPermaLink="false">l_5e1838c5-e79b-410c-9838-c5e79ba10c6b</guid>
+      <pubDate>Fri, 09 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdens_ekleste_podkast/24d97e98-b4e3-4b3d-9ea4-79b0aa0cdde5_0_ID192MP3.mp3" type="audio/mpeg" length="18679725"></enclosure>
+      <itunes:title>11. Hva er spy?</itunes:title>
+      <itunes:summary>Hvorfor lukter spy så vondt? Alexander og Bæsjemonsteret legger en knekkebrødbit i magesyre for å se hva som skjer!</itunes:summary>
+      <itunes:duration>778</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>10. Hvorfor er tiss gult? </title>
+      <link>https://radio.nrk.no/podkast/verdens_ekleste_podkast/l_b9a65a59-efdc-434e-a65a-59efdc934ed2</link>
+      <description>Hvorfor er tiss ekstra tjukt om morgenen? Alexander og Bæsjemonsteret dykker ned i doen og inn i tisset i det stinkende laboratoriet. </description>
+      <guid isPermaLink="false">l_b9a65a59-efdc-434e-a65a-59efdc934ed2</guid>
+      <pubDate>Fri, 02 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdens_ekleste_podkast/8ca30374-583b-4cd1-aa04-f8470fb1fd3e_0_ID192MP3.mp3" type="audio/mpeg" length="17511597"></enclosure>
+      <itunes:title>10. Hvorfor er tiss gult? </itunes:title>
+      <itunes:summary>Hvorfor er tiss ekstra tjukt om morgenen? Alexander og Bæsjemonsteret dykker ned i doen og inn i tisset i det stinkende laboratoriet. </itunes:summary>
+      <itunes:duration>729</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>9. Hva er flass? </title>
+      <link>https://radio.nrk.no/podkast/verdens_ekleste_podkast/l_a8718597-d594-4293-b185-97d594c29368</link>
+      <description>Hvorfor flasser vi? I dag er hudflass under lupen på laboratoriet, og vi hilser på flassflaket, Flossy! </description>
+      <guid isPermaLink="false">l_a8718597-d594-4293-b185-97d594c29368</guid>
+      <pubDate>Fri, 26 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdens_ekleste_podkast/d5b873f1-9496-4c21-9c48-836752b10355_0_ID192MP3.mp3" type="audio/mpeg" length="14339565"></enclosure>
+      <itunes:title>9. Hva er flass? </itunes:title>
+      <itunes:summary>Hvorfor flasser vi? I dag er hudflass under lupen på laboratoriet, og vi hilser på flassflaket, Flossy! </itunes:summary>
+      <itunes:duration>597</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>8. Er det farlig å spise snørr?</title>
+      <link>https://radio.nrk.no/podkast/verdens_ekleste_podkast/l_307ef421-f591-4647-bef4-21f591864777</link>
+      <description>Hvorfor har snørr så mange forskjellige farger? Alexander og Bæsjemonsteret spør en buse om hvordan snørr blir til busemenn. </description>
+      <guid isPermaLink="false">l_307ef421-f591-4647-bef4-21f591864777</guid>
+      <pubDate>Fri, 19 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdens_ekleste_podkast/3685de08-9a1a-4bdc-a667-21c2b9a95157_0_ID192MP3.mp3" type="audio/mpeg" length="16163181"></enclosure>
+      <itunes:title>8. Er det farlig å spise snørr?</itunes:title>
+      <itunes:summary>Hvorfor har snørr så mange forskjellige farger? Alexander og Bæsjemonsteret spør en buse om hvordan snørr blir til busemenn. </itunes:summary>
+      <itunes:duration>673</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>7. Hvor mye spytt lager vi? </title>
+      <link>https://radio.nrk.no/podkast/verdens_ekleste_podkast/l_497aca2b-2669-4cf6-baca-2b26698cf624</link>
+      <description>Det handler om det nyttige spyttet i verdens ekleste laboratorium. Noen dyr bruker faktisk spyttet til å forsvare seg!   </description>
+      <guid isPermaLink="false">l_497aca2b-2669-4cf6-baca-2b26698cf624</guid>
+      <pubDate>Fri, 01 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdens_ekleste_podkast/5c4148e2-3a3e-4214-bcfb-1bb43c65db02_0_ID192MP3.mp3" type="audio/mpeg" length="16400493"></enclosure>
+      <itunes:title>7. Hvor mye spytt lager vi? </itunes:title>
+      <itunes:summary>Det handler om det nyttige spyttet i verdens ekleste laboratorium. Noen dyr bruker faktisk spyttet til å forsvare seg!   </itunes:summary>
+      <itunes:duration>683</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>6. Hvorfor får man dårlig ånde?</title>
+      <link>https://radio.nrk.no/podkast/verdens_ekleste_podkast/l_d780f855-146c-4b8f-80f8-55146cbb8f5a</link>
+      <description>Alexander og Bæsjemonsteret finner oppskriften på verdens dårligste ånde. Bakteriene kommer på besøk. </description>
+      <guid isPermaLink="false">l_d780f855-146c-4b8f-80f8-55146cbb8f5a</guid>
+      <pubDate>Fri, 10 Jun 2022 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdens_ekleste_podkast/ce380374-d53c-4e68-b34a-fbe0df77f1dd_0_ID192MP3.mp3" type="audio/mpeg" length="20567853"></enclosure>
+      <itunes:title>6. Hvorfor får man dårlig ånde?</itunes:title>
+      <itunes:summary>Alexander og Bæsjemonsteret finner oppskriften på verdens dårligste ånde. Bakteriene kommer på besøk. </itunes:summary>
+      <itunes:duration>856</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>5. Hva er diare?</title>
+      <link>https://radio.nrk.no/podkast/verdens_ekleste_podkast/l_e7ae4769-7965-49d2-ae47-69796599d2db</link>
+      <description>Frida ringer og lurer på hva diare er. Alexander og Bæsjemonsteret tar deg med inn i tarmene våre! </description>
+      <guid isPermaLink="false">l_e7ae4769-7965-49d2-ae47-69796599d2db</guid>
+      <pubDate>Fri, 10 Jun 2022 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdens_ekleste_podkast/ca42e3ac-25b4-4c3e-8fa7-a6713aa9b9fa_0_ID192MP3.mp3" type="audio/mpeg" length="19103085"></enclosure>
+      <itunes:title>5. Hva er diare?</itunes:title>
+      <itunes:summary>Frida ringer og lurer på hva diare er. Alexander og Bæsjemonsteret tar deg med inn i tarmene våre! </itunes:summary>
+      <itunes:duration>795</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>4. Hva er slim?</title>
+      <link>https://radio.nrk.no/podkast/verdens_ekleste_podkast/l_f3b8d592-7339-4213-b8d5-927339b2137c</link>
+      <description>Naturen er et slimete sted. Sneglis er på besøk i laboratoriet og forteller hvordan det er å være en slimete snegle. Hvordan kan man lage slim hjemme?</description>
+      <guid isPermaLink="false">l_f3b8d592-7339-4213-b8d5-927339b2137c</guid>
+      <pubDate>Fri, 10 Jun 2022 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdens_ekleste_podkast/55e06ad0-96c1-47f4-bd21-daaf9c918f1c_0_ID192MP3.mp3" type="audio/mpeg" length="17377965"></enclosure>
+      <itunes:title>4. Hva er slim?</itunes:title>
+      <itunes:summary>Naturen er et slimete sted. Sneglis er på besøk i laboratoriet og forteller hvordan det er å være en slimete snegle. Hvordan kan man lage slim hjemme?</itunes:summary>
+      <itunes:duration>724</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>3. Hvorfor får man tåfis?</title>
+      <link>https://radio.nrk.no/podkast/verdens_ekleste_podkast/l_65fe0eac-64af-4880-be0e-ac64afd88036</link>
+      <description>Alexander går med en plastpose på foten, og det blir det tåfis av. Men hvorfor får man så stinkende føtter? </description>
+      <guid isPermaLink="false">l_65fe0eac-64af-4880-be0e-ac64afd88036</guid>
+      <pubDate>Fri, 10 Jun 2022 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdens_ekleste_podkast/51ec4891-fcf4-4e59-9a94-710d2e5d38df_0_ID192MP3.mp3" type="audio/mpeg" length="17093997"></enclosure>
+      <itunes:title>3. Hvorfor får man tåfis?</itunes:title>
+      <itunes:summary>Alexander går med en plastpose på foten, og det blir det tåfis av. Men hvorfor får man så stinkende føtter? </itunes:summary>
+      <itunes:duration>712</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>2. Hvorfor er bæsj brunt? </title>
+      <link>https://radio.nrk.no/podkast/verdens_ekleste_podkast/l_a6f9a66b-d520-4b79-b9a6-6bd520eb797d</link>
+      <description>Verdens største bæsj ble laget av en viking og er utstilt på museum. Men hvorfor bæsjer vi? Det vil Alexander og Bæsjemonsteret finne ut! </description>
+      <guid isPermaLink="false">l_a6f9a66b-d520-4b79-b9a6-6bd520eb797d</guid>
+      <pubDate>Fri, 10 Jun 2022 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdens_ekleste_podkast/85b000fd-83bf-4339-b887-783d23ca4bd7_0_ID192MP3.mp3" type="audio/mpeg" length="18639981"></enclosure>
+      <itunes:title>2. Hvorfor er bæsj brunt? </itunes:title>
+      <itunes:summary>Verdens største bæsj ble laget av en viking og er utstilt på museum. Men hvorfor bæsjer vi? Det vil Alexander og Bæsjemonsteret finne ut! </itunes:summary>
+      <itunes:duration>776</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>1. Hvorfor lukter promp vondt?</title>
+      <link>https://radio.nrk.no/podkast/verdens_ekleste_podkast/l_1e6bc793-9ad3-44f8-abc7-939ad374f843</link>
+      <description>Alle mennesker promper nesten 20 ganger om dagen, men hva er promp egentlig? Alexander og Bæsjemonsteret tar saken!</description>
+      <guid isPermaLink="false">l_1e6bc793-9ad3-44f8-abc7-939ad374f843</guid>
+      <pubDate>Fri, 10 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdens_ekleste_podkast/c945fa6b-fe32-42bc-ae26-13c6f619bd2f_0_ID192MP3.mp3" type="audio/mpeg" length="22218669"></enclosure>
+      <itunes:title>1. Hvorfor lukter promp vondt?</itunes:title>
+      <itunes:summary>Alle mennesker promper nesten 20 ganger om dagen, men hva er promp egentlig? Alexander og Bæsjemonsteret tar saken!</itunes:summary>
+      <itunes:duration>925</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kongerekka</title>
+    <link>https://radio.nrk.no/podkast/kongerekka</link>
+    <description>Intriger, sex, brodermord, trolldom og store slag: Dette er vår Game of Thrones, fra virkeligheten! &#xA;Are Sende Osen forteller historien om de norske kongene. &#xA;</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 05:10:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kongerekka.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Intriger, sex, brodermord, trolldom og store slag: Dette er vår Game of Thrones, fra virkeligheten! &#xA;Are Sende Osen forteller historien om de norske kongene. &#xA;</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/QKbzUYrIjnIB0MvVWatFKAUCAStJSqELTCsggzjyyXfg"></itunes:image>
+    <itunes:category text="History"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/QKbzUYrIjnIB0MvVWatFKAUCAStJSqELTCsggzjyyXfg</url>
+      <title>Kongerekka</title>
+      <link>https://radio.nrk.no/podkast/kongerekka</link>
+    </image>
+    <item>
+      <title>Ny podkast med Are Sende Osen</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_da3d5f40-aac8-4439-bd5f-40aac8d439b0</link>
+      <description>Hør Bibelen med Are Sende Osen i appen NRK Radio</description>
+      <guid isPermaLink="false">l_da3d5f40-aac8-4439-bd5f-40aac8d439b0</guid>
+      <pubDate>Wed, 01 Jan 2025 06:10:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/4e4caff1-a8ba-48f9-a81b-5cee800d33e1_0_ID192MP3.mp3" type="audio/mpeg" length="1108845"></enclosure>
+      <itunes:title>Ny podkast med Are Sende Osen</itunes:title>
+      <itunes:summary>Hør Bibelen med Are Sende Osen i appen NRK Radio</itunes:summary>
+      <itunes:duration>46</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Haakon VII, Olav V og Harald V - Kongen som samla Norge med ord (42:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_a2c1afc2-33b4-4279-81af-c233b422799b</link>
+      <description>«Alt for Norge» er de norske kongenes motto. Det kunne også vært «All you need is love».&#xA;(År 1905 - )</description>
+      <guid isPermaLink="false">l_a2c1afc2-33b4-4279-81af-c233b422799b</guid>
+      <pubDate>Tue, 21 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/73531f8a-afbf-416d-8dad-cc9b7c1f3fad_0_ID192MP3.mp3" type="audio/mpeg" length="63685485"></enclosure>
+      <itunes:title>Haakon VII, Olav V og Harald V - Kongen som samla Norge med ord (42:42)</itunes:title>
+      <itunes:summary>«Alt for Norge» er de norske kongenes motto. Det kunne også vært «All you need is love».&#xA;(År 1905 - )</itunes:summary>
+      <itunes:duration>2653</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EaZU_rF2YFEFhX3r5zTzcg3zkDKMWggMuMwzFWE0QF_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Oscar I, Carl IV og Oscar II - Kongen Norge slo opp med (41:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_da408a9d-bb6d-4358-808a-9dbb6dd358f0</link>
+      <description>Svenske tilstander! Og det fikk Norge nok av.&#xA;(År 1844-1905)</description>
+      <guid isPermaLink="false">l_da408a9d-bb6d-4358-808a-9dbb6dd358f0</guid>
+      <pubDate>Tue, 14 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/de0aaeef-874b-4b2b-9876-3691f6f29ff8_0_ID192MP3.mp3" type="audio/mpeg" length="43409709"></enclosure>
+      <itunes:title>Oscar I, Carl IV og Oscar II - Kongen Norge slo opp med (41:42)</itunes:title>
+      <itunes:summary>Svenske tilstander! Og det fikk Norge nok av.&#xA;(År 1844-1905)</itunes:summary>
+      <itunes:duration>1808</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Lf-elnDLAQFz6YnDDj-qJwNnQMFOp1XV8LgWV6AuO0PA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Carl II og Karl Johan - Soldaten som ble konge (40:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_c3568896-0d36-437f-9688-960d36137fc7</link>
+      <description>Hvordan en fransk 17. mai-hater ble midtpunktet for 17.mai-feiringa. Og fremdeles er det. &#xA;(År 1814-1844)</description>
+      <guid isPermaLink="false">l_c3568896-0d36-437f-9688-960d36137fc7</guid>
+      <pubDate>Tue, 07 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/ad49b6b0-da83-4e0c-b43e-2c9a7fbafc04_0_ID192MP3.mp3" type="audio/mpeg" length="36668205"></enclosure>
+      <itunes:title>Carl II og Karl Johan - Soldaten som ble konge (40:42)</itunes:title>
+      <itunes:summary>Hvordan en fransk 17. mai-hater ble midtpunktet for 17.mai-feiringa. Og fremdeles er det. &#xA;(År 1814-1844)</itunes:summary>
+      <itunes:duration>1527</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FjfEOmePH2Dh7avt8KVOsQbz_0CMZvfEaqVvFVj5NPDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Christian Frederik - Kongen som tenkte på folkets beste (39:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_84e11c6f-1ab6-41d6-a11c-6f1ab6d1d610</link>
+      <description>Sommerjobben hans endra Norge for alltid!&#xA;(År 1814)</description>
+      <guid isPermaLink="false">l_84e11c6f-1ab6-41d6-a11c-6f1ab6d1d610</guid>
+      <pubDate>Tue, 31 Oct 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/68ecd428-72df-4c80-922c-70d34bd3ddc3_0_ID192MP3.mp3" type="audio/mpeg" length="54934893"></enclosure>
+      <itunes:title>Christian Frederik - Kongen som tenkte på folkets beste (39:42)</itunes:title>
+      <itunes:summary>Sommerjobben hans endra Norge for alltid!&#xA;(År 1814)</itunes:summary>
+      <itunes:duration>2288</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-qy96q3tL3GLqUOp0XvPTQnA8ziuQPG9sQ3mgzEcUKIA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Christian VII og Frederik VI - Kongen som skrev under på alt (38:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_47de4e5b-80fa-4976-9e4e-5b80fab97685</link>
+      <description>Helt crazy episode: Tre statskupp og overdreven onani.&#xA;(År 1766-1814)</description>
+      <guid isPermaLink="false">l_47de4e5b-80fa-4976-9e4e-5b80fab97685</guid>
+      <pubDate>Tue, 24 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/85f203d5-0193-46c6-b90c-9ba0e55762ee_0_ID192MP3.mp3" type="audio/mpeg" length="68877549"></enclosure>
+      <itunes:title>Christian VII og Frederik VI - Kongen som skrev under på alt (38:42)</itunes:title>
+      <itunes:summary>Helt crazy episode: Tre statskupp og overdreven onani.&#xA;(År 1766-1814)</itunes:summary>
+      <itunes:duration>2869</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Y5gvVqGBvEka0KPLrf-7ugXJprcdq0eOf8CxC6EDE11w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Christian VI og Frederik V - Kongen som viste faren fingeren (37:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_48455383-7794-4759-8553-83779477596d</link>
+      <description>Porno og pietisme. Slottet var enten kloster eller bordell.&#xA;(År 1730-1766)</description>
+      <guid isPermaLink="false">l_48455383-7794-4759-8553-83779477596d</guid>
+      <pubDate>Tue, 17 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/ba80b5c7-47ac-497d-8bd7-67d57619b502_0_ID192MP3.mp3" type="audio/mpeg" length="48994029"></enclosure>
+      <itunes:title>Christian VI og Frederik V - Kongen som viste faren fingeren (37:42)</itunes:title>
+      <itunes:summary>Porno og pietisme. Slottet var enten kloster eller bordell.&#xA;(År 1730-1766)</itunes:summary>
+      <itunes:duration>2041</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-DWtRGItDeXIGTemTu6h5QuPQc4EIPJ_DRY2mEsBOJTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Frederik III, Christian V og Frederik IV - Kongene som ikke fikk opplæring (36:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_84df0957-003d-4493-9f09-57003da49381</link>
+      <description>Pudder, parykk og krone var visst det som krevdes for å være eneveldig konge. &#xA;(År 1648-1730)</description>
+      <guid isPermaLink="false">l_84df0957-003d-4493-9f09-57003da49381</guid>
+      <pubDate>Tue, 10 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/3464873f-bca2-403b-8d40-fea41c03685a_0_ID192MP3.mp3" type="audio/mpeg" length="52128045"></enclosure>
+      <itunes:title>Frederik III, Christian V og Frederik IV - Kongene som ikke fikk opplæring (36:42)</itunes:title>
+      <itunes:summary>Pudder, parykk og krone var visst det som krevdes for å være eneveldig konge. &#xA;(År 1648-1730)</itunes:summary>
+      <itunes:duration>2171</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/748VtILkjF8TNRCnII0d7QS5k409EQW1nMxgYzMMqF5Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Frederik II og Christian IV - Kongen som var alt for mye (35:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_82a93f28-644e-4867-a93f-28644ec86743</link>
+      <description>Fontener med vin, 35 000 vinglass og mynter drysset i gatene: Party like it`s 1596!   &#xA;(År 1559-1648)</description>
+      <guid isPermaLink="false">l_82a93f28-644e-4867-a93f-28644ec86743</guid>
+      <pubDate>Tue, 03 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/7eb41788-a624-44ac-8b45-a04d83d01f3f_0_ID192MP3.mp3" type="audio/mpeg" length="69778413"></enclosure>
+      <itunes:title>Frederik II og Christian IV - Kongen som var alt for mye (35:42)</itunes:title>
+      <itunes:summary>Fontener med vin, 35 000 vinglass og mynter drysset i gatene: Party like it`s 1596!   &#xA;(År 1559-1648)</itunes:summary>
+      <itunes:duration>2907</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8ldWCrFu2oOwPXoctdHUgAD0Rra86thCtmgA1gRjhfPg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Christian III - Kongen som brukte Gud til å betale gjeld (34:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_c35f5a8c-b624-4d3d-9f5a-8cb624fd3d5f</link>
+      <description>Norge når bunnen. Og reformasjonen når Norge.&#xA;(År 1537-1559)</description>
+      <guid isPermaLink="false">l_c35f5a8c-b624-4d3d-9f5a-8cb624fd3d5f</guid>
+      <pubDate>Tue, 26 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/d37ee67d-f892-42ad-bace-89b6be16bfb8_0_ID192MP3.mp3" type="audio/mpeg" length="43120557"></enclosure>
+      <itunes:title>Christian III - Kongen som brukte Gud til å betale gjeld (34:42)</itunes:title>
+      <itunes:summary>Norge når bunnen. Og reformasjonen når Norge.&#xA;(År 1537-1559)</itunes:summary>
+      <itunes:duration>1796</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wvsp9fW-1g9zl2BsTh4mrQHwCCtMIkM8sxIbz2AyFyUw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Christian II og Frederik I - Kongen som ble et monster av kjærlighetssorg (33:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_b0d536e3-1f13-40e6-9536-e31f1320e6a1</link>
+      <description>Forsiktig! Denne episoden inneholder blodbad og forgiftede kirsebær.&#xA;(År 1513-1533)</description>
+      <guid isPermaLink="false">l_b0d536e3-1f13-40e6-9536-e31f1320e6a1</guid>
+      <pubDate>Tue, 19 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/e0f592dc-1b89-44e6-8f60-7fbcddbbdb63_0_ID192MP3.mp3" type="audio/mpeg" length="67196205"></enclosure>
+      <itunes:title>Christian II og Frederik I - Kongen som ble et monster av kjærlighetssorg (33:42)</itunes:title>
+      <itunes:summary>Forsiktig! Denne episoden inneholder blodbad og forgiftede kirsebær.&#xA;(År 1513-1533)</itunes:summary>
+      <itunes:duration>2799</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5op0H0Q_XC2K4LgsIZhEUAIptBNJRF9OpEpmkw669gZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Flere konger - mere søl. Og en sjørøver (32:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_48a491ee-a998-42f2-a491-eea99822f241</link>
+      <description>Unionen knaker i sammenføyningene. Stakkars lille Norge under Erik av Pommern, Christoffer av Bayern, Carl Bonde, Christian I og kong Hans.&#xA;(År 1389-1513)</description>
+      <guid isPermaLink="false">l_48a491ee-a998-42f2-a491-eea99822f241</guid>
+      <pubDate>Tue, 12 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/29894d08-b554-4d3d-a815-3f6f0208b2fa_0_ID192MP3.mp3" type="audio/mpeg" length="59957613"></enclosure>
+      <itunes:title>Flere konger - mere søl. Og en sjørøver (32:42)</itunes:title>
+      <itunes:summary>Unionen knaker i sammenføyningene. Stakkars lille Norge under Erik av Pommern, Christoffer av Bayern, Carl Bonde, Christian I og kong Hans.&#xA;(År 1389-1513)</itunes:summary>
+      <itunes:duration>2498</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ge7PPtjGP8IHekb6fgWytAJANiMI3u9RQtMnhIjqrtxA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Margrete Valdemarsdatter - Dronninga som faktisk var konge (31:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_c171c53e-491e-4859-b1c5-3e491e0859cf</link>
+      <description>Alle elsker Margrete! Trass i at kvinner egentlig ikke fikk regjere, styrte hun Norge, Sverige og Danmark. &#xA;(År 1388-1412)</description>
+      <guid isPermaLink="false">l_c171c53e-491e-4859-b1c5-3e491e0859cf</guid>
+      <pubDate>Tue, 05 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/d89d02bf-907e-443a-8409-66843ff5f3f1_0_ID192MP3.mp3" type="audio/mpeg" length="47889261"></enclosure>
+      <itunes:title>Margrete Valdemarsdatter - Dronninga som faktisk var konge (31:42)</itunes:title>
+      <itunes:summary>Alle elsker Margrete! Trass i at kvinner egentlig ikke fikk regjere, styrte hun Norge, Sverige og Danmark. &#xA;(År 1388-1412)</itunes:summary>
+      <itunes:duration>1995</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8XwzF9-RyNo_MnXbkbpksA_XkqO5r3lIt5qplx4yJTcA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>17. mai-spesial: Hvem er hvem i Ja, vi elsker?</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_a0f697fa-0abc-4099-b697-fa0abc3099df</link>
+      <description>Hvilke konger er nevnt i nasjonalsangen vår? Det vet du når du har hørt denne festen av en episode!   &#xA;         &#xA;Musikk: SyncPoint, Kaare og Partiet, Det Norske Jentekor + KORK + Kajsa Balto</description>
+      <guid isPermaLink="false">l_a0f697fa-0abc-4099-b697-fa0abc3099df</guid>
+      <pubDate>Fri, 12 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/c2cba974-6f09-4b8e-8757-c4ea364e9453_0_ID192MP3.mp3" type="audio/mpeg" length="27490797"></enclosure>
+      <itunes:title>17. mai-spesial: Hvem er hvem i Ja, vi elsker?</itunes:title>
+      <itunes:summary>Hvilke konger er nevnt i nasjonalsangen vår? Det vet du når du har hørt denne festen av en episode!   &#xA;         &#xA;Musikk: SyncPoint, Kaare og Partiet, Det Norske Jentekor + KORK + Kajsa Balto</itunes:summary>
+      <itunes:duration>1145</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/f6cEp-YKjjfiEBHpBslWsAy3kcSH0MHuuEV_ZIGb-5Ew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Olav Håkonsson - Kongen som satt på mammas fang (30:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_47fb3e84-9e1b-476b-bb3e-849e1b076bcd</link>
+      <description>Dronning Margrete styrte den unge kong Olav. Lett. Men hvordan manøvrerte hun da en falsk kong Olav dukket opp? &#xA;(År 1381-1387)</description>
+      <guid isPermaLink="false">l_47fb3e84-9e1b-476b-bb3e-849e1b076bcd</guid>
+      <pubDate>Mon, 07 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/ab5c70a9-be5b-4262-80c8-a3feb8ae5d66_0_ID192MP3.mp3" type="audio/mpeg" length="42735213"></enclosure>
+      <itunes:title>Olav Håkonsson - Kongen som satt på mammas fang (30:42)</itunes:title>
+      <itunes:summary>Dronning Margrete styrte den unge kong Olav. Lett. Men hvordan manøvrerte hun da en falsk kong Olav dukket opp? &#xA;(År 1381-1387)</itunes:summary>
+      <itunes:duration>1780</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/a3Z1IsKVm9mDy9G0HFWUpQnYZXNRvAk6Q5xQJXMFSY1A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Magnus Eriksson og Håkon VI Magnusson - Kongen som ble satt i fengsel av kongen (29:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_16ca001c-4682-400a-8a00-1c4682500a60</link>
+      <description>Homorykter, tvangsbarbering, pest og løsepenger. Nok å henge fingrene i for Kose-Magnus og sønner. &#xA;(År 1319-1380)</description>
+      <guid isPermaLink="false">l_16ca001c-4682-400a-8a00-1c4682500a60</guid>
+      <pubDate>Mon, 31 Oct 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/86811af1-a8f0-4a7c-b832-30b6cef56260_0_ID192MP3.mp3" type="audio/mpeg" length="47458989"></enclosure>
+      <itunes:title>Magnus Eriksson og Håkon VI Magnusson - Kongen som ble satt i fengsel av kongen (29:42)</itunes:title>
+      <itunes:summary>Homorykter, tvangsbarbering, pest og løsepenger. Nok å henge fingrene i for Kose-Magnus og sønner. &#xA;(År 1319-1380)</itunes:summary>
+      <itunes:duration>1977</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/azsP-QZ0_r6TIl1bx3cDOAbZjq4PJw1zAJwmfoQc7K2w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Håkon V Magnusson - Kongen som spilte høyt med døtrene sine (28:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_cce7ac20-952d-48f0-a7ac-20952d78f0b3</link>
+      <description>Han ble kalt Langbein, men han var verken klumsete eller tomsete. En streng ekteskapsarrangør var han. Og er det Vinteren som kommer? &#xA;(År 1299-1319)</description>
+      <guid isPermaLink="false">l_cce7ac20-952d-48f0-a7ac-20952d78f0b3</guid>
+      <pubDate>Mon, 24 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/699bd5dc-7335-4fa2-8f01-4f2573b9ca47_0_ID192MP3.mp3" type="audio/mpeg" length="45619821"></enclosure>
+      <itunes:title>Håkon V Magnusson - Kongen som spilte høyt med døtrene sine (28:42)</itunes:title>
+      <itunes:summary>Han ble kalt Langbein, men han var verken klumsete eller tomsete. En streng ekteskapsarrangør var han. Og er det Vinteren som kommer? &#xA;(År 1299-1319)</itunes:summary>
+      <itunes:duration>1900</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VUYylygbItDKc_v6iBc9pQX4vQR7DiiCVpAnPzB4J4DQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Eirik Magnusson - Kongen som ikke skjønte noen ting (27:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_9cec9e8f-7584-4ee6-ac9e-8f75848ee696</link>
+      <description>De kalte han Eirik Prestehater. Hestehater hadde vært mer riktig, stakkars .&#xA;(År 1280-1299)</description>
+      <guid isPermaLink="false">l_9cec9e8f-7584-4ee6-ac9e-8f75848ee696</guid>
+      <pubDate>Mon, 17 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/fc44b379-82c7-4785-9424-1f4ca148e1b2_0_ID192MP3.mp3" type="audio/mpeg" length="44121645"></enclosure>
+      <itunes:title>Eirik Magnusson - Kongen som ikke skjønte noen ting (27:42)</itunes:title>
+      <itunes:summary>De kalte han Eirik Prestehater. Hestehater hadde vært mer riktig, stakkars .&#xA;(År 1280-1299)</itunes:summary>
+      <itunes:duration>1838</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8RyfykmtGGWv6j_izCkznAwAT6mvjgvvCkgktxRDLI-Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Magnus Lagabøte - Kongen som avskaffet Hunger Games (26:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_1c323377-755b-43cc-b233-77755b63cc3a</link>
+      <description>Han kom inn som reserve, men la grunnen for det som er Norges superkraft den dag i dag! &#xA;(År 1263-1280)</description>
+      <guid isPermaLink="false">l_1c323377-755b-43cc-b233-77755b63cc3a</guid>
+      <pubDate>Mon, 10 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/e58cff01-1b50-4def-9307-24e0aa9fee62_0_ID192MP3.mp3" type="audio/mpeg" length="59814189"></enclosure>
+      <itunes:title>Magnus Lagabøte - Kongen som avskaffet Hunger Games (26:42)</itunes:title>
+      <itunes:summary>Han kom inn som reserve, men la grunnen for det som er Norges superkraft den dag i dag! &#xA;(År 1263-1280)</itunes:summary>
+      <itunes:duration>2492</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/c-MeoMZ2LPA6D1FWhTy3wAJuiDjRbzhN0Up1Z76Me8Fg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Snorre Sturlasson - Mannen som gjorde kongene udødelige (25:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_e6b4eb5c-6064-4f49-b4eb-5c60647f497d</link>
+      <description>Denne kjendisforfatteren elsket piker, mjød og boblebadet sitt. Men hvorfor ville Norges konge ha Snorre drept?</description>
+      <guid isPermaLink="false">l_e6b4eb5c-6064-4f49-b4eb-5c60647f497d</guid>
+      <pubDate>Mon, 03 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/bf634fe1-2962-4682-bd2d-df45ed0e1fd9_0_ID192MP3.mp3" type="audio/mpeg" length="58607469"></enclosure>
+      <itunes:title>Snorre Sturlasson - Mannen som gjorde kongene udødelige (25:42)</itunes:title>
+      <itunes:summary>Denne kjendisforfatteren elsket piker, mjød og boblebadet sitt. Men hvorfor ville Norges konge ha Snorre drept?</itunes:summary>
+      <itunes:duration>2441</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AImPc155CB5abNCtrWpU6gsK7CN9q0gJ7x-w68RIFt7Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Håkon Håkonsson - Kongen som tok Norge til toppen (24:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_e07e587a-48b9-4c66-be58-7a48b9dc660d</link>
+      <description>Først ble han holdt hemmelig, så ble han den mest storslagne norske kongen noensinne! Men stress at svigerfar stadig ville ha jobben hans. &#xA;(År 1217-1263)</description>
+      <guid isPermaLink="false">l_e07e587a-48b9-4c66-be58-7a48b9dc660d</guid>
+      <pubDate>Mon, 26 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/585c0b65-6c1a-483b-b44f-37c60937b9c9_0_ID192MP3.mp3" type="audio/mpeg" length="77531373"></enclosure>
+      <itunes:title>Håkon Håkonsson - Kongen som tok Norge til toppen (24:42)</itunes:title>
+      <itunes:summary>Først ble han holdt hemmelig, så ble han den mest storslagne norske kongen noensinne! Men stress at svigerfar stadig ville ha jobben hans. &#xA;(År 1217-1263)</itunes:summary>
+      <itunes:duration>3230</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aqUYRvzMETAjmD-aK9RqCQvBTj93QrRXrrFp541YMjFg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Inge Bårdsson - Kongen som ble undervurdert (23:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_2fe08fa7-79f1-4bbf-a08f-a779f1bbbff9</link>
+      <description>Han fikk kongejobb og borgerkrig lempet i fanget, og Norge skal være glad for at kong Inge var sånn en grei fyr! Men han kom aldri helt til hektene igjen etter et blodig bryllup.&#xA;(År 1204-1217)</description>
+      <guid isPermaLink="false">l_2fe08fa7-79f1-4bbf-a08f-a779f1bbbff9</guid>
+      <pubDate>Mon, 19 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/b245d949-2799-40af-a132-061110e1aca5_0_ID192MP3.mp3" type="audio/mpeg" length="49498029"></enclosure>
+      <itunes:title>Inge Bårdsson - Kongen som ble undervurdert (23:42)</itunes:title>
+      <itunes:summary>Han fikk kongejobb og borgerkrig lempet i fanget, og Norge skal være glad for at kong Inge var sånn en grei fyr! Men han kom aldri helt til hektene igjen etter et blodig bryllup.&#xA;(År 1204-1217)</itunes:summary>
+      <itunes:duration>2062</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AYrCbArqH671itX9X6SfMwIw30vCujH-V9_jZz5vE9XQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Håkon Sverresson - Kongen med juleselskapet fra helvete (22:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_2db988b6-92c2-4d8c-b988-b692c27d8c71</link>
+      <description>Det gjør noe med stemningen i familien når du kidnapper din egen søster.&#xA;(År 1202-1204)</description>
+      <guid isPermaLink="false">l_2db988b6-92c2-4d8c-b988-b692c27d8c71</guid>
+      <pubDate>Mon, 12 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/048f67f6-cdfa-48a5-b7d8-be5392ef5ebb_0_ID192MP3.mp3" type="audio/mpeg" length="49554477"></enclosure>
+      <itunes:title>Håkon Sverresson - Kongen med juleselskapet fra helvete (22:42)</itunes:title>
+      <itunes:summary>Det gjør noe med stemningen i familien når du kidnapper din egen søster.&#xA;(År 1202-1204)</itunes:summary>
+      <itunes:duration>2064</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YXQakz5b1SSkytItkEHqYAKopNHbKThFfNcdN5J0O4ag"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sverre Sigurdsson - Kongen som løy så han trodde det selv (21:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_d49fdb6c-d1d5-4637-9fdb-6cd1d5a63767</link>
+      <description>En hemmelig tronarving seiler inn. Eller en bedrager? Uansett var han vill som en løve og mild som et lam. Og utstyrsfrik. &#xA;(År 1177-1202)</description>
+      <guid isPermaLink="false">l_d49fdb6c-d1d5-4637-9fdb-6cd1d5a63767</guid>
+      <pubDate>Mon, 05 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/b162931c-9397-4124-8fe9-820dc246a134_0_ID192MP3.mp3" type="audio/mpeg" length="62335917"></enclosure>
+      <itunes:title>Sverre Sigurdsson - Kongen som løy så han trodde det selv (21:42)</itunes:title>
+      <itunes:summary>En hemmelig tronarving seiler inn. Eller en bedrager? Uansett var han vill som en løve og mild som et lam. Og utstyrsfrik. &#xA;(År 1177-1202)</itunes:summary>
+      <itunes:duration>2597</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/DxYcxZyrvYrxaI8KNiyDEAvyS8X0MHa3ay4vuALPAY2w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Magnus Erlingsson - Kongen som stod i pappas skygge (20:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_c42ab4b9-462e-449d-aab4-b9462e649d49</link>
+      <description>Egentlig er det taktikker og mafiaboss Don Erling Skakke som styrer. &#xA;(År 1161-1184)</description>
+      <guid isPermaLink="false">l_c42ab4b9-462e-449d-aab4-b9462e649d49</guid>
+      <pubDate>Mon, 08 Nov 2021 05:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/9d460e3f-3652-4039-b65f-e5d6a1c3ba1e_0_ID192MP3.mp3" type="audio/mpeg" length="54808749"></enclosure>
+      <itunes:title>Magnus Erlingsson - Kongen som stod i pappas skygge (20:42)</itunes:title>
+      <itunes:summary>Egentlig er det taktikker og mafiaboss Don Erling Skakke som styrer. &#xA;(År 1161-1184)</itunes:summary>
+      <itunes:duration>2283</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3Bty8OLzLVqJxfkvpYpYkgSH_Y0yGu-KgF1P8wiovleA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Håkon Herdebrei - Kongen som kun var en brikke i spillet (19:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_877fed4a-8b75-44e1-bfed-4a8b7554e13d</link>
+      <description>Skuldre som en kar, men hodet til et barn. Som han jo faktisk var. &#xA;(År 1157-1162)</description>
+      <guid isPermaLink="false">l_877fed4a-8b75-44e1-bfed-4a8b7554e13d</guid>
+      <pubDate>Mon, 01 Nov 2021 05:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/d14c87a8-c1cb-4aef-aeeb-50b7225bd74f_0_ID192MP3.mp3" type="audio/mpeg" length="48108141"></enclosure>
+      <itunes:title>Håkon Herdebrei - Kongen som kun var en brikke i spillet (19:42)</itunes:title>
+      <itunes:summary>Skuldre som en kar, men hodet til et barn. Som han jo faktisk var. &#xA;(År 1157-1162)</itunes:summary>
+      <itunes:duration>2004</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ArpPl4N7RPbS3nYvuD_61gmQ3xQHW-UqvuykoXDDqzOg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sigurd Munn, Inge Krokrygg og Øystein Haraldsson - Kongene som begynte tidlig (18:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_b60a5276-7a9b-4a79-8a52-767a9bfa7995</link>
+      <description>Tre er en for mye. Minst! Og jævelskapen fortsetter &#xA;(År 1136-1161)</description>
+      <guid isPermaLink="false">l_b60a5276-7a9b-4a79-8a52-767a9bfa7995</guid>
+      <pubDate>Mon, 25 Oct 2021 05:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/1ba79240-1403-4854-8967-ac56f800808f_0_ID192MP3.mp3" type="audio/mpeg" length="43168941"></enclosure>
+      <itunes:title>Sigurd Munn, Inge Krokrygg og Øystein Haraldsson - Kongene som begynte tidlig (18:42)</itunes:title>
+      <itunes:summary>Tre er en for mye. Minst! Og jævelskapen fortsetter &#xA;(År 1136-1161)</itunes:summary>
+      <itunes:duration>1798</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3p05lfeXeDcTGqyE3-f4ng064j8dOSIQviOHV7ZeqCzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Magnus den blinde og Harald Gille - Kongen som mangla baller, og kongen som tok dem (17:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_aaca51d4-b719-44be-8a51-d4b719c4be82</link>
+      <description>Det brygger opp til borgerkrig i Norge: 110 stygge år venter. Advarsel: Sterke scener.&#xA; (År 1130-1136)</description>
+      <guid isPermaLink="false">l_aaca51d4-b719-44be-8a51-d4b719c4be82</guid>
+      <pubDate>Mon, 18 Oct 2021 05:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/4ad27946-a1da-4638-8caf-4189036eecee_0_ID192MP3.mp3" type="audio/mpeg" length="52964397"></enclosure>
+      <itunes:title>Magnus den blinde og Harald Gille - Kongen som mangla baller, og kongen som tok dem (17:42)</itunes:title>
+      <itunes:summary>Det brygger opp til borgerkrig i Norge: 110 stygge år venter. Advarsel: Sterke scener.&#xA; (År 1130-1136)</itunes:summary>
+      <itunes:duration>2206</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/U2YYc1woXPVb_71rZHo0JAbgKMTHQbLjlzI7oG_ioQzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Øystein Magnusson - Kongen som stelte hjemme (16:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_17f325eb-82a7-4405-b325-eb82a734057d</link>
+      <description>Mens lillebror var på heisatur, tok storebror på seg flanellskjorta og bygde landet. Men hvordan gikk gjenforeningen? &#xA;(År 1103-1123)</description>
+      <guid isPermaLink="false">l_17f325eb-82a7-4405-b325-eb82a734057d</guid>
+      <pubDate>Mon, 11 Oct 2021 05:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/cca632f5-5c90-48da-8ea7-d89c8987c6df_0_ID192MP3.mp3" type="audio/mpeg" length="38502189"></enclosure>
+      <itunes:title>Øystein Magnusson - Kongen som stelte hjemme (16:42)</itunes:title>
+      <itunes:summary>Mens lillebror var på heisatur, tok storebror på seg flanellskjorta og bygde landet. Men hvordan gikk gjenforeningen? &#xA;(År 1103-1123)</itunes:summary>
+      <itunes:duration>1604</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_vJ9V9cqZoEID8lO3lc4rwGj9fGpN30LZyeSbtlSB1Aw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sigurd Jorsalfare - Kongen som dro på tidenes backpackertur - i Guds navn (15:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_1896a8a9-0526-499b-96a8-a90526c99b92</link>
+      <description>Interrail, russetur, øyloffing, sydentur, cruise og kristning i en salig blanding for verdens første konge på korstog. &#xA;(År 1103-1130)</description>
+      <guid isPermaLink="false">l_1896a8a9-0526-499b-96a8-a90526c99b92</guid>
+      <pubDate>Mon, 04 Oct 2021 05:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/a4207841-e308-4236-a282-6aeade601b6e_0_ID192MP3.mp3" type="audio/mpeg" length="41841261"></enclosure>
+      <itunes:title>Sigurd Jorsalfare - Kongen som dro på tidenes backpackertur - i Guds navn (15:42)</itunes:title>
+      <itunes:summary>Interrail, russetur, øyloffing, sydentur, cruise og kristning i en salig blanding for verdens første konge på korstog. &#xA;(År 1103-1130)</itunes:summary>
+      <itunes:duration>1743</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YiHwkzUQ8xeYXWbCD4uVugNSsBuQld3CuNEA4vJRuKOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Magnus Berrføtt - Kongen som ikke hadde skjønt at vikingtida var over (14:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_0ea9fbe4-f28e-4304-a9fb-e4f28e830405</link>
+      <description>Han syntes pappa var fredelig og døll, og ville bli som farfar: En krigersk vikingkonge! (År 1093-1103)</description>
+      <guid isPermaLink="false">l_0ea9fbe4-f28e-4304-a9fb-e4f28e830405</guid>
+      <pubDate>Mon, 27 Sep 2021 05:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/bf552ddf-b17d-48c4-88e2-dc7295464295_0_ID192MP3.mp3" type="audio/mpeg" length="41557869"></enclosure>
+      <itunes:title>Magnus Berrføtt - Kongen som ikke hadde skjønt at vikingtida var over (14:42)</itunes:title>
+      <itunes:summary>Han syntes pappa var fredelig og døll, og ville bli som farfar: En krigersk vikingkonge! (År 1093-1103)</itunes:summary>
+      <itunes:duration>1731</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LSbSiDGtaXkHNwLy7LD-JQ_8I6-2Wh4OPw-WHNPcJpeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Olav Kyrre - Kongen som holdt fred, og tok seg en øl (13:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_510b8fe6-099b-418f-8b8f-e6099bd18faf</link>
+      <description>Som tenåring var han med på en brutalt mislykka krigsferd. Var det derfor han ble så opptatt av interiør, mote og bygging av landet? &#xA;(År 1067-1093)</description>
+      <guid isPermaLink="false">l_510b8fe6-099b-418f-8b8f-e6099bd18faf</guid>
+      <pubDate>Mon, 20 Sep 2021 05:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/ff183cd6-eff0-47b3-8ffa-b4112d9ec548_0_ID192MP3.mp3" type="audio/mpeg" length="38060973"></enclosure>
+      <itunes:title>Olav Kyrre - Kongen som holdt fred, og tok seg en øl (13:42)</itunes:title>
+      <itunes:summary>Som tenåring var han med på en brutalt mislykka krigsferd. Var det derfor han ble så opptatt av interiør, mote og bygging av landet? &#xA;(År 1067-1093)</itunes:summary>
+      <itunes:duration>1585</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xoW2k2SjHcdgJ7HZod2_BQuGLVuoHgYnZd5DQiR9mQ1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Harald Hardråde - Kongen som brøyt alle spillereglene (12:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_719a8649-39d0-417e-9a86-4939d0d17ed5</link>
+      <description>Norges siste skikkelige vikingkonge. Kanskje. &#xA;(År 1045-1066)</description>
+      <guid isPermaLink="false">l_719a8649-39d0-417e-9a86-4939d0d17ed5</guid>
+      <pubDate>Mon, 13 Sep 2021 05:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/970a8a75-ddf8-49b6-b503-b0a6e4429722_0_ID192MP3.mp3" type="audio/mpeg" length="68138541"></enclosure>
+      <itunes:title>Harald Hardråde - Kongen som brøyt alle spillereglene (12:42)</itunes:title>
+      <itunes:summary>Norges siste skikkelige vikingkonge. Kanskje. &#xA;(År 1045-1066)</itunes:summary>
+      <itunes:duration>2839</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/r1OAxH7ZXIqcptFfvw7ObwwUOKo-IJ2q5yeUmylFGX4Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Magnus den gode - Kongen som trengte en medarbeidersamtale (11:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_a7ef4bcb-163e-487e-af4b-cb163e887e28</link>
+      <description>Olav den Helliges sønn hentes hjem fra utlandet for å redde Norge fra en udugelig dansk barnerumpe. Men hvor god var nå Magnus den gode? &#xA;(År 1035-1047)</description>
+      <guid isPermaLink="false">l_a7ef4bcb-163e-487e-af4b-cb163e887e28</guid>
+      <pubDate>Mon, 06 Sep 2021 05:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/7c14e9a3-c883-4289-9fad-a1f239cddc0e_0_ID192MP3.mp3" type="audio/mpeg" length="53948781"></enclosure>
+      <itunes:title>Magnus den gode - Kongen som trengte en medarbeidersamtale (11:42)</itunes:title>
+      <itunes:summary>Olav den Helliges sønn hentes hjem fra utlandet for å redde Norge fra en udugelig dansk barnerumpe. Men hvor god var nå Magnus den gode? &#xA;(År 1035-1047)</itunes:summary>
+      <itunes:duration>2247</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xcajCtav8UQvbinN0OGLdw1epgdlCq6FK4khI1hUBX8w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tre konger og en bueskytter (10:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_469233c5-9f58-49c7-9233-c59f58f9c78d</link>
+      <description>Med en dansk barnerumpe på tronen og hans griske mor i førersetet, ser det mørkt ut for Norge. &#xA;Men bueskytteren Einar Tambarskjelve lurer i kulissene.&#xA;Siste episode i sesong 1 handler om Håkon Jarl (1028- 1029), Knut den mektige (1029- 1030) og Svein Alfivason (1030-1035)   &#xA;&#xA;</description>
+      <guid isPermaLink="false">l_469233c5-9f58-49c7-9233-c59f58f9c78d</guid>
+      <pubDate>Mon, 07 Sep 2020 04:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/35e36321-0718-41bc-b78f-7e21a84fa63f_0_ID192MP3.mp3" type="audio/mpeg" length="36041241"></enclosure>
+      <itunes:title>Tre konger og en bueskytter (10:42)</itunes:title>
+      <itunes:summary>Med en dansk barnerumpe på tronen og hans griske mor i førersetet, ser det mørkt ut for Norge. &#xA;Men bueskytteren Einar Tambarskjelve lurer i kulissene.&#xA;Siste episode i sesong 1 handler om Håkon Jarl (1028- 1029), Knut den mektige (1029- 1030) og Svein Alfivason (1030-1035)   &#xA;&#xA;</itunes:summary>
+      <itunes:duration>1501</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vkVO7m2E18pt0bTgfmplfAMrZAoa8dN5cnr1d4gw_G4A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Olav den Hellige - Norges evige konge (9:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_99db602c-e1b8-405d-9b60-2ce1b8905dda</link>
+      <description>Først het han Olav Digre, enten fordi han var feit eller sterk. Uansett var det ulovlig å si navnet hans høyt i Sverige. Hvem skulle trodd at han var hellig? &#xA;(År 1015-1028)&#xA;</description>
+      <guid isPermaLink="false">l_99db602c-e1b8-405d-9b60-2ce1b8905dda</guid>
+      <pubDate>Mon, 07 Sep 2020 04:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/a3d7ec5f-006d-4bc2-a3e0-7a7485104bc0_0_ID192MP3.mp3" type="audio/mpeg" length="53968145"></enclosure>
+      <itunes:title>Olav den Hellige - Norges evige konge (9:42)</itunes:title>
+      <itunes:summary>Først het han Olav Digre, enten fordi han var feit eller sterk. Uansett var det ulovlig å si navnet hans høyt i Sverige. Hvem skulle trodd at han var hellig? &#xA;(År 1015-1028)&#xA;</itunes:summary>
+      <itunes:duration>2248</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vVyL1s8NHw2SOkTawvyw7AbjqK_qYwjt6eUVgmVQGSag"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Eirik Jarl - Den kuleste kongen du aldri har hørt om (8:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_ab1b5ff3-7db9-4d56-9b5f-f37db91d569c</link>
+      <description>Problembarn som slo i hjel sin første mann som 11-åring. Så skifta han stil, og ble en stødig helt, god leder og noe så sjeldent som en konge du kunne stole på.&#xA;(År 1000-1015)&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_ab1b5ff3-7db9-4d56-9b5f-f37db91d569c</guid>
+      <pubDate>Mon, 07 Sep 2020 04:35:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/a66014bc-f9d3-41b2-a2cc-98e5365f7650_0_ID192MP3.mp3" type="audio/mpeg" length="46561952"></enclosure>
+      <itunes:title>Eirik Jarl - Den kuleste kongen du aldri har hørt om (8:42)</itunes:title>
+      <itunes:summary>Problembarn som slo i hjel sin første mann som 11-åring. Så skifta han stil, og ble en stødig helt, god leder og noe så sjeldent som en konge du kunne stole på.&#xA;(År 1000-1015)&#xA;&#xA;</itunes:summary>
+      <itunes:duration>1939</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7uXKm5uerxHm3q7mbWxGEAwK-EGs5Ih4pEdsNhqGqxBQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Olav Tryggvason - Kongen som trodde på Gud, og skjebnen (7:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_96955c4f-fee0-4e01-955c-4ffee0de0150</link>
+      <description>Ikke gla-kristen, men sinna-kristen. Superhelt og rockestjerne, men uheldig med damene. &#xA;Heldigvis hadde han en trofast hund.&#xA;(År 995-1000)&#xA;</description>
+      <guid isPermaLink="false">l_96955c4f-fee0-4e01-955c-4ffee0de0150</guid>
+      <pubDate>Mon, 07 Sep 2020 04:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/7d91d44a-0097-4042-a2bc-775b00394722_0_ID192MP3.mp3" type="audio/mpeg" length="61972835"></enclosure>
+      <itunes:title>Olav Tryggvason - Kongen som trodde på Gud, og skjebnen (7:42)</itunes:title>
+      <itunes:summary>Ikke gla-kristen, men sinna-kristen. Superhelt og rockestjerne, men uheldig med damene. &#xA;Heldigvis hadde han en trofast hund.&#xA;(År 995-1000)&#xA;</itunes:summary>
+      <itunes:duration>2582</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wo0wpQECIE-Cksr7n8tl0Qu7lYETf9tPqtDh9-31ekdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Håkon Jarl - Kongen som ofra for mye, og mista hodet (6:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_5abfeaf9-63be-4db9-bfea-f963beedb943</link>
+      <description>Han var den siste herskeren av Norge som blotet til de gamle gudene, men han var langt framme  innen metoo.&#xA;(Rundt år 970 – 995)&#xA;</description>
+      <guid isPermaLink="false">l_5abfeaf9-63be-4db9-bfea-f963beedb943</guid>
+      <pubDate>Mon, 07 Sep 2020 04:25:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/ca7c0c92-1cf2-4c21-858e-704911fd87d9_0_ID192MP3.mp3" type="audio/mpeg" length="60268448"></enclosure>
+      <itunes:title>Håkon Jarl - Kongen som ofra for mye, og mista hodet (6:42)</itunes:title>
+      <itunes:summary>Han var den siste herskeren av Norge som blotet til de gamle gudene, men han var langt framme  innen metoo.&#xA;(Rundt år 970 – 995)&#xA;</itunes:summary>
+      <itunes:duration>2511</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ghNUDLgwAumSsSSv2ZHthAp8k3H0MdPtl0IyOpHpIdkA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gunnhild Kongemor - Dronninga som burde vært konge (5:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_ad93655f-ea60-4afe-9365-5fea60cafebb</link>
+      <description>Hun var ambisiøs, smart og en god strateg.  MILF og cougar. Og ble hun forbanna, gikk hun ikke av veien for å forhekse en penis.</description>
+      <guid isPermaLink="false">l_ad93655f-ea60-4afe-9365-5fea60cafebb</guid>
+      <pubDate>Mon, 07 Sep 2020 04:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/94f22996-aa90-4da4-a0a9-487c14e68f6d_0_ID192MP3.mp3" type="audio/mpeg" length="58878558"></enclosure>
+      <itunes:title>Gunnhild Kongemor - Dronninga som burde vært konge (5:42)</itunes:title>
+      <itunes:summary>Hun var ambisiøs, smart og en god strateg.  MILF og cougar. Og ble hun forbanna, gikk hun ikke av veien for å forhekse en penis.</itunes:summary>
+      <itunes:duration>2453</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LlbCd_3qwug9_unYDje2UQI6BtVehwDrvxGlRnQJa41g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Harald Gråfell - Kongen som tjente seg selv, og ikke landet (4:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_79508c6f-5ef9-4921-908c-6f5ef9c92153</link>
+      <description>Han var mammadalt og dustemikkel, men han kunne å kle seg. &#xA;Er dette Norges første influenser?&#xA;(Rundt år 960 – 970)&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_79508c6f-5ef9-4921-908c-6f5ef9c92153</guid>
+      <pubDate>Mon, 07 Sep 2020 04:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/dc531699-0aed-4b9d-9490-22999d7b0840_0_ID192MP3.mp3" type="audio/mpeg" length="48260583"></enclosure>
+      <itunes:title>Harald Gråfell - Kongen som tjente seg selv, og ikke landet (4:42)</itunes:title>
+      <itunes:summary>Han var mammadalt og dustemikkel, men han kunne å kle seg. &#xA;Er dette Norges første influenser?&#xA;(Rundt år 960 – 970)&#xA;&#xA;</itunes:summary>
+      <itunes:duration>2010</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VXSYR6HmNTNbdLFqrTvkyQGw8MHftKEoHjIE_kaTEl_Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Håkon den gode - Kongen som var helt konge, for alle utenom seg selv (3:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_e98eeaf5-7f08-4353-8eea-f57f080353c0</link>
+      <description>Dette er Tarzan i revers: Etter å ha vokst opp på et kultivert engelsk slott, dro Håkon tilbake og ble fjellapenes konge i Norge.&#xA;(Rundt år 933- 960)&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_e98eeaf5-7f08-4353-8eea-f57f080353c0</guid>
+      <pubDate>Mon, 07 Sep 2020 04:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/04a3e811-bf67-432b-b190-1fcdb76bfd1e_0_ID192MP3.mp3" type="audio/mpeg" length="72821232"></enclosure>
+      <itunes:title>Håkon den gode - Kongen som var helt konge, for alle utenom seg selv (3:42)</itunes:title>
+      <itunes:summary>Dette er Tarzan i revers: Etter å ha vokst opp på et kultivert engelsk slott, dro Håkon tilbake og ble fjellapenes konge i Norge.&#xA;(Rundt år 933- 960)&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3034</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3N8WM4-tdLaRJVutm-CeTgkChxWQVLP1scOeNSeAftVQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Eirik Blodøks - Kongen som ville være kriger (2:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_19858b29-b651-4e18-858b-29b6511e18eb</link>
+      <description>Hvor mange brødre må du drepe for å få tilnavnet Blodøks? &#xA;Selv vikingene syntes at Eirik var en drøy type!&#xA;(Rundt år 931 - 933)&#xA;</description>
+      <guid isPermaLink="false">l_19858b29-b651-4e18-858b-29b6511e18eb</guid>
+      <pubDate>Mon, 07 Sep 2020 04:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/90b88da6-f452-416d-b243-7cb86137a5e0_0_ID192MP3.mp3" type="audio/mpeg" length="66850392"></enclosure>
+      <itunes:title>Eirik Blodøks - Kongen som ville være kriger (2:42)</itunes:title>
+      <itunes:summary>Hvor mange brødre må du drepe for å få tilnavnet Blodøks? &#xA;Selv vikingene syntes at Eirik var en drøy type!&#xA;(Rundt år 931 - 933)&#xA;</itunes:summary>
+      <itunes:duration>2785</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lIETrqdPBJMmC83jUV3SpA1X5yFj3I1SSgmK3wP97J1Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Harald Hårfagre - Kongen som samla Norge, på grunn av ei dame (1:42)</title>
+      <link>https://radio.nrk.no/podkast/kongerekka/l_c2ecbdb3-3beb-4f83-acbd-b33beb1f837a</link>
+      <description>En 15 år gammel småkonge prøver seg på smellvakre Gyda. -Kom tilbake når du er konge over hele landet, smeller det fra henne. Og dermed er vi i gang!&#xA;(Rundt år 865 – 931)&#xA;</description>
+      <guid isPermaLink="false">l_c2ecbdb3-3beb-4f83-acbd-b33beb1f837a</guid>
+      <pubDate>Mon, 07 Sep 2020 04:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kongerekka/d399e988-9180-4166-9660-7a98e4f8f7a7_0_ID192MP3.mp3" type="audio/mpeg" length="42883631"></enclosure>
+      <itunes:title>Harald Hårfagre - Kongen som samla Norge, på grunn av ei dame (1:42)</itunes:title>
+      <itunes:summary>En 15 år gammel småkonge prøver seg på smellvakre Gyda. -Kom tilbake når du er konge over hele landet, smeller det fra henne. Og dermed er vi i gang!&#xA;(Rundt år 865 – 931)&#xA;</itunes:summary>
+      <itunes:duration>1786</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fVO-bEjA9GLL1OdIdLhcrQ3YbnPax_TfGHXr1Sug14uA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

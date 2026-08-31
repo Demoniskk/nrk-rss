@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monsens univers</title>
+    <link>https://radio.nrk.no/podkast/monsens_univers</link>
+    <description>Lars Monsen møter mennesker som deler hans sterke kjærlighet til naturen og villmarka til en prat om opp-, ned- og toppturer, dyremøter og hjertesaker. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Sat, 11 Apr 2026 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/monsens_univers.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Lars Monsen møter mennesker som deler hans sterke kjærlighet til naturen og villmarka til en prat om opp-, ned- og toppturer, dyremøter og hjertesaker. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/_DTOqwZfBqNlyUS8uAh_mguznPt3l9Jkzfb-tcgFoKCQ"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/_DTOqwZfBqNlyUS8uAh_mguznPt3l9Jkzfb-tcgFoKCQ</url>
+      <title>Monsens univers</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers</link>
+    </image>
+    <item>
+      <title>Opp i lufta med fugleforsker Martin</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_bddb18c3-ee18-40da-9b18-c3ee1820dabd</link>
+      <description>Lars vil helst hoppe, hyle og skrike. Men Martin Eggen kan fortelle om de viktigste grepene som kan redde fuglene våre. Pluss hvor smart en skjære er.</description>
+      <guid isPermaLink="false">l_bddb18c3-ee18-40da-9b18-c3ee1820dabd</guid>
+      <pubDate>Sat, 11 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/bddb18c3-ee18-40da-9b18-c3ee1820dabd_1_ID192MP3.mp3" type="audio/mpeg" length="64863980"></enclosure>
+      <itunes:title>Opp i lufta med fugleforsker Martin</itunes:title>
+      <itunes:summary>Lars vil helst hoppe, hyle og skrike. Men Martin Eggen kan fortelle om de viktigste grepene som kan redde fuglene våre. Pluss hvor smart en skjære er.</itunes:summary>
+      <itunes:duration>2702</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/f3P8heF9Ln_FPA--FcscPwTtfBtekelgnFsMd3mLj3gg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>&#34;Lost&#34; på vidda med naturforkjemper Marit</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_5ac63506-219c-444e-8635-06219c344ee2</link>
+      <description>Låst inne en frossen Toyota Hi-Ace! Hundekjøring er definitivt ikke som andre sporter. Men Marit Beate Kasin er mest opptatt av hva hyttebygging gjør med norsk natur.</description>
+      <guid isPermaLink="false">l_5ac63506-219c-444e-8635-06219c344ee2</guid>
+      <pubDate>Sat, 04 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/5ac63506-219c-444e-8635-06219c344ee2_2_ID192MP3.mp3" type="audio/mpeg" length="66190508"></enclosure>
+      <itunes:title>&#34;Lost&#34; på vidda med naturforkjemper Marit</itunes:title>
+      <itunes:summary>Låst inne en frossen Toyota Hi-Ace! Hundekjøring er definitivt ikke som andre sporter. Men Marit Beate Kasin er mest opptatt av hva hyttebygging gjør med norsk natur.</itunes:summary>
+      <itunes:duration>2757</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3QNIgLj862CQF5IiOnL9XQ1PWN354t2RckUeZfgbY6_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Spør Monsen #2: Spøkelser og flammer i teltet</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_910527bb-6d24-4244-8527-bb6d24d2446a</link>
+      <description>Blir det øks eller sag, om Lars må velge én? Lytter Hans-Inge spør også om spøkelser i naturen, og Kristian får et grundig krasjkurs i det å varme opp et telt.</description>
+      <guid isPermaLink="false">l_910527bb-6d24-4244-8527-bb6d24d2446a</guid>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/910527bb-6d24-4244-8527-bb6d24d2446a_1_ID192MP3.mp3" type="audio/mpeg" length="55619756"></enclosure>
+      <itunes:title>Spør Monsen #2: Spøkelser og flammer i teltet</itunes:title>
+      <itunes:summary>Blir det øks eller sag, om Lars må velge én? Lytter Hans-Inge spør også om spøkelser i naturen, og Kristian får et grundig krasjkurs i det å varme opp et telt.</itunes:summary>
+      <itunes:duration>2317</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_DTOqwZfBqNlyUS8uAh_mguznPt3l9Jkzfb-tcgFoKCQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nærmere dyra med fotograf Arne</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_1aac5c1d-5a58-41d9-ac5c-1d5a58f1d99c</link>
+      <description>– Det var en katastrofe, sier naturfotografen Arne Nævra om den ene gangen han ikke slo på kamera.</description>
+      <guid isPermaLink="false">l_1aac5c1d-5a58-41d9-ac5c-1d5a58f1d99c</guid>
+      <pubDate>Sat, 21 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/1aac5c1d-5a58-41d9-ac5c-1d5a58f1d99c_1_ID192MP3.mp3" type="audio/mpeg" length="59699564"></enclosure>
+      <itunes:title>Nærmere dyra med fotograf Arne</itunes:title>
+      <itunes:summary>– Det var en katastrofe, sier naturfotografen Arne Nævra om den ene gangen han ikke slo på kamera.</itunes:summary>
+      <itunes:duration>2487</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/A9hxWsBaQCv2TdjjuGv_AgMVYXa8hP2OyKe80rWgpccA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>I krigen med soldat Jørgen</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_5214aba0-78eb-4c7f-94ab-a078eb5c7f28</link>
+      <description>Da han skulle rydde noen afghanske huler for Taliban, endte Jørgen Bull sin avdeling i et bakhold. Hva kan han lære Lars om stress?</description>
+      <guid isPermaLink="false">l_5214aba0-78eb-4c7f-94ab-a078eb5c7f28</guid>
+      <pubDate>Sat, 14 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/5214aba0-78eb-4c7f-94ab-a078eb5c7f28_1_ID192MP3.mp3" type="audio/mpeg" length="56391596"></enclosure>
+      <itunes:title>I krigen med soldat Jørgen</itunes:title>
+      <itunes:summary>Da han skulle rydde noen afghanske huler for Taliban, endte Jørgen Bull sin avdeling i et bakhold. Hva kan han lære Lars om stress?</itunes:summary>
+      <itunes:duration>2349</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MbJ9Mvz4F1WOusDVyqFEHAWRemEQdEarq86UlDZPy5BQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Under snøen med frikjører Nikolai</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_6f3ee51f-9b67-4a57-bee5-1f9b677a579f</link>
+      <description>– Du vet du kan dø? Lars konfronterer skistjerne og filmskaper Nikolai Schirmer. En episode om skred, livsglede og de aller fineste fjellene i Norge.</description>
+      <guid isPermaLink="false">l_6f3ee51f-9b67-4a57-bee5-1f9b677a579f</guid>
+      <pubDate>Sat, 07 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/6f3ee51f-9b67-4a57-bee5-1f9b677a579f_2_ID192MP3.mp3" type="audio/mpeg" length="72619820"></enclosure>
+      <itunes:title>Under snøen med frikjører Nikolai</itunes:title>
+      <itunes:summary>– Du vet du kan dø? Lars konfronterer skistjerne og filmskaper Nikolai Schirmer. En episode om skred, livsglede og de aller fineste fjellene i Norge.</itunes:summary>
+      <itunes:duration>3025</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kxjIz2XvtO1_Lu7MEy26QwZ-JkkNzUDb_4Na3nh1ahvA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>–ALDRI gi opp!</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_bf0b6779-298f-402a-8b67-79298f202a04</link>
+      <description>Erik Amundsen Normann er han som sjanglet seg over Nordkalotten sammen med Lars, i TVprogrammet «Ingen grenser» (2009). Balanseproblemer, skjev rygg og deformerte hender har lært ham mye. &#xA;&#xA;Dette er siste episode i denne omgang, Monsens Univers er tilbake i 2026. Stjernemarkér oss i appen, så får du beskjed!</description>
+      <guid isPermaLink="false">l_bf0b6779-298f-402a-8b67-79298f202a04</guid>
+      <pubDate>Sat, 19 Jul 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/36905ecb-d1b3-45f2-9c05-aededd5ec71a_0_ID192MP3.mp3" type="audio/mpeg" length="85339629"></enclosure>
+      <itunes:title>–ALDRI gi opp!</itunes:title>
+      <itunes:summary>Erik Amundsen Normann er han som sjanglet seg over Nordkalotten sammen med Lars, i TVprogrammet «Ingen grenser» (2009). Balanseproblemer, skjev rygg og deformerte hender har lært ham mye. &#xA;&#xA;Dette er siste episode i denne omgang, Monsens Univers er tilbake i 2026. Stjernemarkér oss i appen, så får du beskjed!</itunes:summary>
+      <itunes:duration>3555</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/q4ILu26xQqu2RxOL18brZwr47rfiuWkUTzEe2yQLfzmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>En milliard granplanter i norsk jord</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_2e17204e-4d73-43b1-9720-4e4d7353b11b</link>
+      <description>Biolog Anne Sverdrup Thygeson om hva som er«ekte skog» i Norge. Lars forteller om den gangen han var omringa av kanadisk skogbrann.</description>
+      <guid isPermaLink="false">l_2e17204e-4d73-43b1-9720-4e4d7353b11b</guid>
+      <pubDate>Sat, 12 Jul 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/5c3e4c55-ddd1-4bf1-9ef0-92384fe058cf_0_ID192MP3.mp3" type="audio/mpeg" length="69290541"></enclosure>
+      <itunes:title>En milliard granplanter i norsk jord</itunes:title>
+      <itunes:summary>Biolog Anne Sverdrup Thygeson om hva som er«ekte skog» i Norge. Lars forteller om den gangen han var omringa av kanadisk skogbrann.</itunes:summary>
+      <itunes:duration>2887</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_A4Colzm015nJzS8exutbwF40VHCfm8Ab94Pmff7vfJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Den store jakt-episoden</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_8b5e676f-084c-4a92-9e67-6f084cfa92d9</link>
+      <description>Lars mener Dag Kjelsaas er den beste &#34;allround jegeren OG fiskeren i Norge&#34;. Men hvordan gikk det da han serverte gaupe på fest?</description>
+      <guid isPermaLink="false">l_8b5e676f-084c-4a92-9e67-6f084cfa92d9</guid>
+      <pubDate>Sat, 05 Jul 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/aa864db4-f963-4001-a8f1-85466b971677_0_ID192MP3.mp3" type="audio/mpeg" length="71302509"></enclosure>
+      <itunes:title>Den store jakt-episoden</itunes:title>
+      <itunes:summary>Lars mener Dag Kjelsaas er den beste &#34;allround jegeren OG fiskeren i Norge&#34;. Men hvordan gikk det da han serverte gaupe på fest?</itunes:summary>
+      <itunes:duration>2970</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PNQh39PzaOVKs3d88QvGZw9MK493sAXSneDFpdxJuqsQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Spør Monsen #1: Turkonflikter og Norges-tips</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_4b155f5c-c958-4ee5-955f-5cc9588ee5e8</link>
+      <description>Lytter Sivert (13) trenger konfliktløsning til sin første ukestur med kompiser. Lars forteller hva han savner når han er lenge alene.</description>
+      <guid isPermaLink="false">l_4b155f5c-c958-4ee5-955f-5cc9588ee5e8</guid>
+      <pubDate>Sat, 28 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/b05fde79-d841-4c54-a78e-ad8fc7ca4271_0_ID192MP3.mp3" type="audio/mpeg" length="49773357"></enclosure>
+      <itunes:title>Spør Monsen #1: Turkonflikter og Norges-tips</itunes:title>
+      <itunes:summary>Lytter Sivert (13) trenger konfliktløsning til sin første ukestur med kompiser. Lars forteller hva han savner når han er lenge alene.</itunes:summary>
+      <itunes:duration>2073</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_DTOqwZfBqNlyUS8uAh_mguznPt3l9Jkzfb-tcgFoKCQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>– Den natta holdt jeg på å daue</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_989a9ae8-600f-4a46-9a9a-e8600f0a4602</link>
+      <description>«Psykolog med sovepose» Johanne Refseth om det nye livet etter første natta ute alene. Lars om hvorfor han hoppa fra femtenmeteren.</description>
+      <guid isPermaLink="false">l_989a9ae8-600f-4a46-9a9a-e8600f0a4602</guid>
+      <pubDate>Sat, 21 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/2fe97c36-603d-45cb-9cb3-0e00baf1b2ef_0_ID192MP3.mp3" type="audio/mpeg" length="63345069"></enclosure>
+      <itunes:title>– Den natta holdt jeg på å daue</itunes:title>
+      <itunes:summary>«Psykolog med sovepose» Johanne Refseth om det nye livet etter første natta ute alene. Lars om hvorfor han hoppa fra femtenmeteren.</itunes:summary>
+      <itunes:duration>2639</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/o1KVcEaqhi6wnovQYSZGYQd9ACLRPj9F9__r1PgpXBmQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fosterstilling i villmarka</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_b62d30ef-f155-4dd2-ad30-eff155fdd2fc</link>
+      <description>Programleder og influenser Jørgine Vasstrand er bekymra for psykose på Canada-ekspedisjonen. Lars forteller om sin tøffeste tur.</description>
+      <guid isPermaLink="false">l_b62d30ef-f155-4dd2-ad30-eff155fdd2fc</guid>
+      <pubDate>Sat, 14 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/f2c76450-15b9-4981-8556-34412f7a0cf4_0_ID192MP3.mp3" type="audio/mpeg" length="69918381"></enclosure>
+      <itunes:title>Fosterstilling i villmarka</itunes:title>
+      <itunes:summary>Programleder og influenser Jørgine Vasstrand er bekymra for psykose på Canada-ekspedisjonen. Lars forteller om sin tøffeste tur.</itunes:summary>
+      <itunes:duration>2913</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VXrsyaIyp0KgCIDeaX95FgSwONhVAESUgfYsIfLkTh1A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ekle, sinte, snille og ville hunder</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_c136694d-b336-47e4-b669-4db33617e4e7</link>
+      <description>Maren Teien Rørvik (&#34;Fra bølle til bestevenn&#34;) gir råd om hvordan bli kompis med bikkja. Lars forteller om hundeflokkene i Alaska.</description>
+      <guid isPermaLink="false">l_c136694d-b336-47e4-b669-4db33617e4e7</guid>
+      <pubDate>Sat, 15 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/ca167464-6287-405b-9f61-634906f9f8d9_0_ID192MP3.mp3" type="audio/mpeg" length="69328557"></enclosure>
+      <itunes:title>Ekle, sinte, snille og ville hunder</itunes:title>
+      <itunes:summary>Maren Teien Rørvik (&#34;Fra bølle til bestevenn&#34;) gir råd om hvordan bli kompis med bikkja. Lars forteller om hundeflokkene i Alaska.</itunes:summary>
+      <itunes:duration>2888</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Rx4Wf0VsqHwuGVSMo7mHrA7RYy6Nwb4VLk6mi2Ya5zIg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Rabalder med reindrift</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_7581da5a-6c2c-4d0f-81da-5a6c2c0d0f39</link>
+      <description>Artist og filmskaper Elle Márjá Eira forteller om oppveksten som reindriftsame. Lars forteller om den gangen i Kautokeino da brøytebilen kom mens han sov utafor puben. (Tips: for the full joik experience, hør heelt til slutten!)</description>
+      <guid isPermaLink="false">l_7581da5a-6c2c-4d0f-81da-5a6c2c0d0f39</guid>
+      <pubDate>Sat, 08 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/5002f9f1-f588-495b-9b1e-5cdcb82ee812_0_ID192MP3.mp3" type="audio/mpeg" length="68969709"></enclosure>
+      <itunes:title>Rabalder med reindrift</itunes:title>
+      <itunes:summary>Artist og filmskaper Elle Márjá Eira forteller om oppveksten som reindriftsame. Lars forteller om den gangen i Kautokeino da brøytebilen kom mens han sov utafor puben. (Tips: for the full joik experience, hør heelt til slutten!)</itunes:summary>
+      <itunes:duration>2873</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VWrEXd6YPqG8Ad35-0CaJAxPzuQMmzL_eB42FN5csMrQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>– Ingen vet vi har selvlysende hai!</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_3831f508-88c6-42ee-b1f5-0888c612eead</link>
+      <description>Dykker og marinbiolog Pia Ve Dahlen om hvorfor hun liker Norge bedre enn Hawaii. Lars forteller hvordan Canada mistet all torsken.</description>
+      <guid isPermaLink="false">l_3831f508-88c6-42ee-b1f5-0888c612eead</guid>
+      <pubDate>Sat, 01 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/37c8864e-7b48-4783-885f-1a613040b29c_0_ID192MP3.mp3" type="audio/mpeg" length="93548781"></enclosure>
+      <itunes:title>– Ingen vet vi har selvlysende hai!</itunes:title>
+      <itunes:summary>Dykker og marinbiolog Pia Ve Dahlen om hvorfor hun liker Norge bedre enn Hawaii. Lars forteller hvordan Canada mistet all torsken.</itunes:summary>
+      <itunes:duration>3897</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NbfNUMH4eI_kDOaKE8PrkQKSwa-c8N75OClnrZUULJnA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Blikkontakt med bjørn</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_6854588b-c4c3-4ee4-9458-8bc4c35ee4c2</link>
+      <description>Biolog Paul Eric Aspholm kjenner alle bjørnens irriterte ansiktsuttrykk. Lars forteller om isbjørnen han helst ikke ville drepe.</description>
+      <guid isPermaLink="false">l_6854588b-c4c3-4ee4-9458-8bc4c35ee4c2</guid>
+      <pubDate>Sat, 25 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/cc4e7207-96bf-49b8-8229-44a010e10f03_0_ID192MP3.mp3" type="audio/mpeg" length="76305069"></enclosure>
+      <itunes:title>Blikkontakt med bjørn</itunes:title>
+      <itunes:summary>Biolog Paul Eric Aspholm kjenner alle bjørnens irriterte ansiktsuttrykk. Lars forteller om isbjørnen han helst ikke ville drepe.</itunes:summary>
+      <itunes:duration>3179</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tdy9Orsp1nqMxWWk5xw3YwrZTnyPRIarhRdEP6a9ppog"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hallusinasjoner i Himalaya</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_976145e7-4a07-4a5c-a145-e74a07aa5c29</link>
+      <description>– Du kaster bort livet ditt, sa de sykeste pasientene til sykepleieren Jannicke. Da dro hun til verdens vakreste fjell.&#xA;&#xA;(NRK opplyser: Jannicke Øien har jobbet/jobber for tiden som villmarks-guide, også med Lars Monsens firma som oppdragsgiver.)</description>
+      <guid isPermaLink="false">l_976145e7-4a07-4a5c-a145-e74a07aa5c29</guid>
+      <pubDate>Sat, 18 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/2dae21e6-f290-40ca-a73e-8a587a10ea48_0_ID192MP3.mp3" type="audio/mpeg" length="86243949"></enclosure>
+      <itunes:title>Hallusinasjoner i Himalaya</itunes:title>
+      <itunes:summary>– Du kaster bort livet ditt, sa de sykeste pasientene til sykepleieren Jannicke. Da dro hun til verdens vakreste fjell.&#xA;&#xA;(NRK opplyser: Jannicke Øien har jobbet/jobber for tiden som villmarks-guide, også med Lars Monsens firma som oppdragsgiver.)</itunes:summary>
+      <itunes:duration>3593</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vErzrt7SkIq2QCbufkUGowHZbwCnYPq4yen0wYhgMA4A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Med fiskestang i synkesand</title>
+      <link>https://radio.nrk.no/podkast/monsens_univers/l_5f6a319f-2645-4c5c-aa31-9f26457c5cd1</link>
+      <description>Bård Tufte Johansen er ikke først og fremst morsom. Han er fluefisker. Men hva skjedde da han sank i sanda, midt ute i elva?</description>
+      <guid isPermaLink="false">l_5f6a319f-2645-4c5c-aa31-9f26457c5cd1</guid>
+      <pubDate>Sat, 11 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/monsens_univers/5dee436a-355f-41f9-afa1-9d2eafb65f43_0_ID192MP3.mp3" type="audio/mpeg" length="76096557"></enclosure>
+      <itunes:title>Med fiskestang i synkesand</itunes:title>
+      <itunes:summary>Bård Tufte Johansen er ikke først og fremst morsom. Han er fluefisker. Men hva skjedde da han sank i sanda, midt ute i elva?</itunes:summary>
+      <itunes:duration>3170</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/07_pWsmsQrpEM9KUn4ecAQ7XR2Oht44NYSDOafsjjOew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

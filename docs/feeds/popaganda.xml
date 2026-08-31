@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Popaganda</title>
+    <link>https://radio.nrk.no/podkast/popaganda</link>
+    <description>Bård Vegar Solhjell og Nina Stensrud Martin forteller om politikken i musikken vi ofte hører uten å tenke over hva den handler om. Gjennom åtte episoder dykker Popaganda ned i musikken som sier noe om oss som mennesker og tida vi lever i. Her er de store hittene du ikke visste at var politiske, og de små uoppdaga perlene som beskriver en sak best.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Tue, 26 Mar 2019 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/popaganda.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Bård Vegar Solhjell og Nina Stensrud Martin forteller om politikken i musikken vi ofte hører uten å tenke over hva den handler om. Gjennom åtte episoder dykker Popaganda ned i musikken som sier noe om oss som mennesker og tida vi lever i. Her er de store hittene du ikke visste at var politiske, og de små uoppdaga perlene som beskriver en sak best.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/zn_oOObDgdgSU7lNA3JURgdNPiym6iXNSlWWvuj25A7w"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/zn_oOObDgdgSU7lNA3JURgdNPiym6iXNSlWWvuj25A7w</url>
+      <title>Popaganda</title>
+      <link>https://radio.nrk.no/podkast/popaganda</link>
+    </image>
+    <item>
+      <title>Krig (8:8)</title>
+      <link>https://radio.nrk.no/podkast/popaganda/l_66b3156d-f11d-45db-b315-6df11d05db9c</link>
+      <description>Episode 8 handler om krig. Om Vietnamkrigen, Falklandskrigen, den spanske borgerkrigen, Gulf-krigen, krigene i Irak og Afghanistan, krigen i Bosnia og Syria og mot amerikanske urfolk. Uansett hvor væpna konflikt har revet samfunn og folk i filler, har musikken speila og kommentert det. Rekka av store artister som har laga svære hitter om krig er nesten endeløs. I siste episode av Popaganda løfter Nina og Bård Vegar fram musikken vi elsker fra krigene vi hater.</description>
+      <guid isPermaLink="false">l_66b3156d-f11d-45db-b315-6df11d05db9c</guid>
+      <pubDate>Tue, 26 Mar 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popaganda/popaganda_2019-04-02_0400_1642.MP3" type="audio/mpeg" length="63148179"></enclosure>
+      <itunes:title>Krig (8:8)</itunes:title>
+      <itunes:summary>Episode 8 handler om krig. Om Vietnamkrigen, Falklandskrigen, den spanske borgerkrigen, Gulf-krigen, krigene i Irak og Afghanistan, krigen i Bosnia og Syria og mot amerikanske urfolk. Uansett hvor væpna konflikt har revet samfunn og folk i filler, har musikken speila og kommentert det. Rekka av store artister som har laga svære hitter om krig er nesten endeløs. I siste episode av Popaganda løfter Nina og Bård Vegar fram musikken vi elsker fra krigene vi hater.</itunes:summary>
+      <itunes:duration>2627</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zn_oOObDgdgSU7lNA3JURgdNPiym6iXNSlWWvuj25A7w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Psykisk (7:8)</title>
+      <link>https://radio.nrk.no/podkast/popaganda/l_bde34d07-1d34-4e9c-a34d-071d343e9ce0</link>
+      <description>Popaganda er en podkast om musikken vi elsker, den som endrer våre liv, samler folk og påvirker verden. Episode sju er laget foran publikum på musikkfestivalen by:Larm! Det handler om hvordan psykiske problemer alltid har prega populærmusikken, både hjemme og ute. Nina og Bård Vegar får besøk av Highasakite&#39;s Kristoffer Lo som forteller om hvordan hans angst er knytta til musikken. Psykiater Trude Fixdal snakker om båndet mellom kunst og psykisk trøbbel. Alexander Lindbäck forteller om hvordan det var å spille med avdøde St. Thomas, og hyller sin gamle venn med en liveversjon av en av hans låter. Popaganda &#34;Psykisk&#34; finner du også som spilleliste i Spotify.</description>
+      <guid isPermaLink="false">l_bde34d07-1d34-4e9c-a34d-071d343e9ce0</guid>
+      <pubDate>Tue, 19 Mar 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popaganda/popaganda_2019-03-26_0500_504.MP3" type="audio/mpeg" length="64945626"></enclosure>
+      <itunes:title>Psykisk (7:8)</itunes:title>
+      <itunes:summary>Popaganda er en podkast om musikken vi elsker, den som endrer våre liv, samler folk og påvirker verden. Episode sju er laget foran publikum på musikkfestivalen by:Larm! Det handler om hvordan psykiske problemer alltid har prega populærmusikken, både hjemme og ute. Nina og Bård Vegar får besøk av Highasakite&#39;s Kristoffer Lo som forteller om hvordan hans angst er knytta til musikken. Psykiater Trude Fixdal snakker om båndet mellom kunst og psykisk trøbbel. Alexander Lindbäck forteller om hvordan det var å spille med avdøde St. Thomas, og hyller sin gamle venn med en liveversjon av en av hans låter. Popaganda &#34;Psykisk&#34; finner du også som spilleliste i Spotify.</itunes:summary>
+      <itunes:duration>2702</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zn_oOObDgdgSU7lNA3JURgdNPiym6iXNSlWWvuj25A7w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Damer (4:8)</title>
+      <link>https://radio.nrk.no/podkast/popaganda/l_35df9fa6-74ea-490f-9f9f-a674ead90f86</link>
+      <description>Popaganda er en podkast om musikken vi elsker, den som endrer våre liv, samler folk og påvirker verden. Femte episode handler om damer. Kulturen er stappfull med kule kvinnfolk som lager musikk, men hvor mye makt har de egentlig i bransjen? Musikken har alltid speila kvinnekampen, direkte og indirekte, så hva sier musikken oss egentlig om det å være dame? Nina og Bård Vegar får ei lita lekse av musikkekspert og Stjernekamp-dommer Mona B. Riise.</description>
+      <guid isPermaLink="false">l_35df9fa6-74ea-490f-9f9f-a674ead90f86</guid>
+      <pubDate>Tue, 12 Mar 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popaganda/popaganda_2019-03-05_0500_1819.MP3" type="audio/mpeg" length="41192160"></enclosure>
+      <itunes:title>Damer (4:8)</itunes:title>
+      <itunes:summary>Popaganda er en podkast om musikken vi elsker, den som endrer våre liv, samler folk og påvirker verden. Femte episode handler om damer. Kulturen er stappfull med kule kvinnfolk som lager musikk, men hvor mye makt har de egentlig i bransjen? Musikken har alltid speila kvinnekampen, direkte og indirekte, så hva sier musikken oss egentlig om det å være dame? Nina og Bård Vegar får ei lita lekse av musikkekspert og Stjernekamp-dommer Mona B. Riise.</itunes:summary>
+      <itunes:duration>1712</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zn_oOObDgdgSU7lNA3JURgdNPiym6iXNSlWWvuj25A7w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Å redde verden (6:8)</title>
+      <link>https://radio.nrk.no/podkast/popaganda/l_82d4816e-6148-48f9-9481-6e614878f9dd</link>
+      <description>POPAGANDA er en podkast om musikken vi elsker, den som endrer våre liv, samler folk og påvirker verden. Sjette episode handler om artistene som bruker musikk i kampen mot sult, katastrofer, sykdom og nød. Nina og Bård Vegar får besøk av den meget musikkinteresserte generalsekretær i Røde Kors, Bernt G. Apeland, og spør: Hjelper det, egentlig - når halve verden synger med på &#34;We Are The World&#34;, &#34;Do They Know It&#39;s Christmas&#34; eller &#34;Vil du være en venn&#34;?</description>
+      <guid isPermaLink="false">l_82d4816e-6148-48f9-9481-6e614878f9dd</guid>
+      <pubDate>Tue, 05 Mar 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popaganda/popaganda_2019-03-19_0500_2768.MP3" type="audio/mpeg" length="39369670"></enclosure>
+      <itunes:title>Å redde verden (6:8)</itunes:title>
+      <itunes:summary>POPAGANDA er en podkast om musikken vi elsker, den som endrer våre liv, samler folk og påvirker verden. Sjette episode handler om artistene som bruker musikk i kampen mot sult, katastrofer, sykdom og nød. Nina og Bård Vegar får besøk av den meget musikkinteresserte generalsekretær i Røde Kors, Bernt G. Apeland, og spør: Hjelper det, egentlig - når halve verden synger med på &#34;We Are The World&#34;, &#34;Do They Know It&#39;s Christmas&#34; eller &#34;Vil du være en venn&#34;?</itunes:summary>
+      <itunes:duration>1636</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zn_oOObDgdgSU7lNA3JURgdNPiym6iXNSlWWvuj25A7w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kloden (5:8)</title>
+      <link>https://radio.nrk.no/podkast/popaganda/l_990f4065-329b-4e82-8f40-65329b9e8208</link>
+      <description>I fjerde episode spør vi: kan man redde kloden med musikk? Kampen for å redde klimaet har i flere tiår vært tilstede i noe av det beste den norske og internasjonale popen- og rocken har servert oss. Nina og Bård Vegar sjekker ut både den romantiske og aggressive miljøkampen i musikken, og spør: kan man lage musikk på en sånn måte at lytteren får lyst til å redde kloden? Gjest: Anneli Drecker.</description>
+      <guid isPermaLink="false">l_990f4065-329b-4e82-8f40-65329b9e8208</guid>
+      <pubDate>Tue, 26 Feb 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popaganda/popaganda_2019-03-12_0500_1039.MP3" type="audio/mpeg" length="48016392"></enclosure>
+      <itunes:title>Kloden (5:8)</itunes:title>
+      <itunes:summary>I fjerde episode spør vi: kan man redde kloden med musikk? Kampen for å redde klimaet har i flere tiår vært tilstede i noe av det beste den norske og internasjonale popen- og rocken har servert oss. Nina og Bård Vegar sjekker ut både den romantiske og aggressive miljøkampen i musikken, og spør: kan man lage musikk på en sånn måte at lytteren får lyst til å redde kloden? Gjest: Anneli Drecker.</itunes:summary>
+      <itunes:duration>1996</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zn_oOObDgdgSU7lNA3JURgdNPiym6iXNSlWWvuj25A7w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ulv (3:8)</title>
+      <link>https://radio.nrk.no/podkast/popaganda/l_785f314c-98cd-4ad7-9f31-4c98cd0ad74d</link>
+      <description>Tredje episode handler om ULV! Dyret folk elsker og hater, beundrer og frykter. I musikken finnes det utrolig mange sanger der ulven er symbol og metafor for sterke følelser, akkurat som i politikken. Nina og Bård Vegar har møtt ulven, både i naturen og i musikken, og i studio møter de SP-leder Trygve Slagsvold Vedum.</description>
+      <guid isPermaLink="false">l_785f314c-98cd-4ad7-9f31-4c98cd0ad74d</guid>
+      <pubDate>Tue, 19 Feb 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popaganda/popaganda_2019-02-26_0500_1448.MP3" type="audio/mpeg" length="41082444"></enclosure>
+      <itunes:title>Ulv (3:8)</itunes:title>
+      <itunes:summary>Tredje episode handler om ULV! Dyret folk elsker og hater, beundrer og frykter. I musikken finnes det utrolig mange sanger der ulven er symbol og metafor for sterke følelser, akkurat som i politikken. Nina og Bård Vegar har møtt ulven, både i naturen og i musikken, og i studio møter de SP-leder Trygve Slagsvold Vedum.</itunes:summary>
+      <itunes:duration>1707</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zn_oOObDgdgSU7lNA3JURgdNPiym6iXNSlWWvuj25A7w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Å være norsk (2:8)</title>
+      <link>https://radio.nrk.no/podkast/popaganda/l_4562ba03-e7d0-4cac-a2ba-03e7d0ecac8f</link>
+      <description>Popaganda er en podkast om musikken vi elsker, den som endrer våre liv, samler folk og påvirker verden. I andre episode spør vi: hva sier musikken om det å være norsk? Hvorfor samla vi oss i sang 22. juli, og hvilke sanger var det? Er musikk med dialekt «mer» norsk? Hvilke artister er «norskere» enn andre, og hvorfor oppfatter vi dem sånn? Gjest: Odd Nordstoga</description>
+      <guid isPermaLink="false">l_4562ba03-e7d0-4cac-a2ba-03e7d0ecac8f</guid>
+      <pubDate>Tue, 12 Feb 2019 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popaganda/popaganda_2019-02-19_0500_2582.MP3" type="audio/mpeg" length="46618973"></enclosure>
+      <itunes:title>Å være norsk (2:8)</itunes:title>
+      <itunes:summary>Popaganda er en podkast om musikken vi elsker, den som endrer våre liv, samler folk og påvirker verden. I andre episode spør vi: hva sier musikken om det å være norsk? Hvorfor samla vi oss i sang 22. juli, og hvilke sanger var det? Er musikk med dialekt «mer» norsk? Hvilke artister er «norskere» enn andre, og hvorfor oppfatter vi dem sånn? Gjest: Odd Nordstoga</itunes:summary>
+      <itunes:duration>1938</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zn_oOObDgdgSU7lNA3JURgdNPiym6iXNSlWWvuj25A7w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Politi (1:8)</title>
+      <link>https://radio.nrk.no/podkast/popaganda/l_253197af-ee2e-4c70-b197-afee2ebc707b</link>
+      <description>Gjennom åtte episoder dykker Popaganda ned i det å være norsk, om motstand mot politiet, kampen for- og mot ulv, om undertrykte kvinnfolk, om musikken som handler om krig og den som ble skapt av psykisk sykdom, om låtene som vil redde kloden og de som slåss for den gode sak. Første episode: Politi.</description>
+      <guid isPermaLink="false">l_253197af-ee2e-4c70-b197-afee2ebc707b</guid>
+      <pubDate>Tue, 12 Feb 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popaganda/popaganda_2019-02-12_0500_2066.MP3" type="audio/mpeg" length="50376205"></enclosure>
+      <itunes:title>Politi (1:8)</itunes:title>
+      <itunes:summary>Gjennom åtte episoder dykker Popaganda ned i det å være norsk, om motstand mot politiet, kampen for- og mot ulv, om undertrykte kvinnfolk, om musikken som handler om krig og den som ble skapt av psykisk sykdom, om låtene som vil redde kloden og de som slåss for den gode sak. Første episode: Politi.</itunes:summary>
+      <itunes:duration>2095</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zn_oOObDgdgSU7lNA3JURgdNPiym6iXNSlWWvuj25A7w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

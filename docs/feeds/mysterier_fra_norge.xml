@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mysterier fra Norge</title>
+    <link>https://radio.nrk.no/podkast/mysterier_fra_norge</link>
+    <description>Spøkelser, forbannelser og uforklarlige fenomener – landet vårt er fullt av uløste mysterier.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 27 Mar 2026 05:04:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/mysterier_fra_norge.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Spøkelser, forbannelser og uforklarlige fenomener – landet vårt er fullt av uløste mysterier.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g"></itunes:image>
+    <itunes:category text="History"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g</url>
+      <title>Mysterier fra Norge</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge</link>
+    </image>
+    <item>
+      <title>Bensinstasjonen i Ålen</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_69a0d7a6-2243-4f5c-a0d7-a62243af5cfe</link>
+      <description>Det skjer rare ting på Statoil. Hvem legger potetgull i fryseren, og skrur av sikringer? Overvåkningskameraene viser ingenting.</description>
+      <guid isPermaLink="false">l_69a0d7a6-2243-4f5c-a0d7-a62243af5cfe</guid>
+      <pubDate>Fri, 27 Mar 2026 06:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/69a0d7a6-2243-4f5c-a0d7-a62243af5cfe_3_ID192MP3.mp3" type="audio/mpeg" length="49655276"></enclosure>
+      <itunes:title>Bensinstasjonen i Ålen</itunes:title>
+      <itunes:summary>Det skjer rare ting på Statoil. Hvem legger potetgull i fryseren, og skrur av sikringer? Overvåkningskameraene viser ingenting.</itunes:summary>
+      <itunes:duration>2068</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AW4kp1xEh4dYFy5LTGxbzAhfq3POVv0Way06BrQm5ueA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Kvinnen som snakket med de døde</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_2a763a53-8045-4e75-b63a-538045ae7503</link>
+      <description>Ingeborg Køber er spiritismens superstjerne. Men når faren dør, vekkes mistanken: Drepte hun ham? Og er evnene hennes bare juks?</description>
+      <guid isPermaLink="false">l_2a763a53-8045-4e75-b63a-538045ae7503</guid>
+      <pubDate>Fri, 27 Mar 2026 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/2a763a53-8045-4e75-b63a-538045ae7503_2_ID192MP3.mp3" type="audio/mpeg" length="87204716"></enclosure>
+      <itunes:title>Kvinnen som snakket med de døde</itunes:title>
+      <itunes:summary>Ingeborg Køber er spiritismens superstjerne. Men når faren dør, vekkes mistanken: Drepte hun ham? Og er evnene hennes bare juks?</itunes:summary>
+      <itunes:duration>3633</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/McB9kC9a8jLile3vZdSO_QkfFm62DFNRO8Zdftqx06hA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Ormsteinen</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_3b55e352-edb4-4d04-95e3-52edb4ed040b</link>
+      <description>Når veiarbeidere skal fjerne en svær stein, blir det uro i bygda. Advarselen lyder: De som sprenger Ormsteinen, lever ikke lenge.</description>
+      <guid isPermaLink="false">l_3b55e352-edb4-4d04-95e3-52edb4ed040b</guid>
+      <pubDate>Fri, 27 Mar 2026 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/3b55e352-edb4-4d04-95e3-52edb4ed040b_3_ID192MP3.mp3" type="audio/mpeg" length="46650284"></enclosure>
+      <itunes:title>Ormsteinen</itunes:title>
+      <itunes:summary>Når veiarbeidere skal fjerne en svær stein, blir det uro i bygda. Advarselen lyder: De som sprenger Ormsteinen, lever ikke lenge.</itunes:summary>
+      <itunes:duration>1943</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/W17WaHxvXPU5oD3pdjJAcAioOpoYEUbToiq1MkQxPdkA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Forliset i mørket</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_bf70298a-f043-46b2-b029-8af043c6b2de</link>
+      <description>Fiskebåten «Jøviktind» forsvinner utenfor Hammerfest i 1970. Ingen vet hva som har skjedd, men flere har en mistanke.</description>
+      <guid isPermaLink="false">l_bf70298a-f043-46b2-b029-8af043c6b2de</guid>
+      <pubDate>Fri, 27 Mar 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/bf70298a-f043-46b2-b029-8af043c6b2de_2_ID192MP3.mp3" type="audio/mpeg" length="47363372"></enclosure>
+      <itunes:title>Forliset i mørket</itunes:title>
+      <itunes:summary>Fiskebåten «Jøviktind» forsvinner utenfor Hammerfest i 1970. Ingen vet hva som har skjedd, men flere har en mistanke.</itunes:summary>
+      <itunes:duration>1973</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ogYcwl-CccoBQO5zSH-jEQVwFQkXlvGXqBfHL0eYm2wQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Likene i myra</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_afe4f950-49b3-43b1-a4f9-5049b353b116</link>
+      <description>En mann graver i myra og finner ei død jente med rødt hår. Rundt henne ligger flere lik. Hvordan havnet de her?</description>
+      <guid isPermaLink="false">l_afe4f950-49b3-43b1-a4f9-5049b353b116</guid>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/afe4f950-49b3-43b1-a4f9-5049b353b116_3_ID192MP3.mp3" type="audio/mpeg" length="44416556"></enclosure>
+      <itunes:title>Likene i myra</itunes:title>
+      <itunes:summary>En mann graver i myra og finner ei død jente med rødt hår. Rundt henne ligger flere lik. Hvordan havnet de her?</itunes:summary>
+      <itunes:duration>1850</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/RntZ6I82QPTkak4minharQmgNQzIPZPJgYGlXAXLE6_g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Snåsamannens syn</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_9849094f-b49c-490e-8909-4fb49c290e10</link>
+      <description>I 1980 forliser en guttegjeng på båttur i Lofoten. Redningsmannskapene er nære ved å gi opp, men så ringer de Snåsamannen.</description>
+      <guid isPermaLink="false">l_9849094f-b49c-490e-8909-4fb49c290e10</guid>
+      <pubDate>Fri, 27 Sep 2024 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/f23de888-5b72-4c38-8bc3-9cd1e8050566_0_ID192MP3.mp3" type="audio/mpeg" length="43662573"></enclosure>
+      <itunes:title>Snåsamannens syn</itunes:title>
+      <itunes:summary>I 1980 forliser en guttegjeng på båttur i Lofoten. Redningsmannskapene er nære ved å gi opp, men så ringer de Snåsamannen.</itunes:summary>
+      <itunes:duration>1819</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gmzuIwymesgSW6Ct_nGf2ApwxkwSwcScfLa6Hiis9yEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Teaterspøkelset Octavia Sperati</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_373a296c-ecee-47f2-ba29-6ceceee7f2cb</link>
+      <description>Folk hører skritt og ser en skikkelse i gangene på Den Nationale Scene i Bergen. De ansatte tror at en skuespillerinne går igjen.</description>
+      <guid isPermaLink="false">l_373a296c-ecee-47f2-ba29-6ceceee7f2cb</guid>
+      <pubDate>Fri, 27 Sep 2024 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/1f343072-ee4f-4575-9fb5-43435493d740_0_ID192MP3.mp3" type="audio/mpeg" length="48366765"></enclosure>
+      <itunes:title>Teaterspøkelset Octavia Sperati</itunes:title>
+      <itunes:summary>Folk hører skritt og ser en skikkelse i gangene på Den Nationale Scene i Bergen. De ansatte tror at en skuespillerinne går igjen.</itunes:summary>
+      <itunes:duration>2015</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Cs_pxe08HffJE_gnvuAb-A5hagCARkFfbfQ0d-KA_1kg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Agenten som forsvant</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_4bf420a7-3f42-4c47-b420-a73f425c478f</link>
+      <description>Under 2. verdenskrig forsvinner fallskjermsoldaten Lyder Hassel under et oppdrag i Trøndelag. En familie skjuler noe om saken.</description>
+      <guid isPermaLink="false">l_4bf420a7-3f42-4c47-b420-a73f425c478f</guid>
+      <pubDate>Fri, 27 Sep 2024 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/463fdfea-c712-4756-a61f-d981aef76e57_0_ID192MP3.mp3" type="audio/mpeg" length="48413997"></enclosure>
+      <itunes:title>Agenten som forsvant</itunes:title>
+      <itunes:summary>Under 2. verdenskrig forsvinner fallskjermsoldaten Lyder Hassel under et oppdrag i Trøndelag. En familie skjuler noe om saken.</itunes:summary>
+      <itunes:duration>2017</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/a5tEVVTdwrT-2SEXNe5sqwhwVAa-3oSfoqw_Riafg1AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Romvesenet i Mosjøen</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_e708aacf-4d93-4ca0-88aa-cf4d93aca0b9</link>
+      <description>To kvinner på bærtur møter en vakker mann med en merkelig farkost. De mener han er et romvesen, men blir ikke trodd.</description>
+      <guid isPermaLink="false">l_e708aacf-4d93-4ca0-88aa-cf4d93aca0b9</guid>
+      <pubDate>Fri, 27 Sep 2024 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/50e69f63-b2a1-4f1f-a852-8ac42bd7cce8_0_ID192MP3.mp3" type="audio/mpeg" length="41979501"></enclosure>
+      <itunes:title>Romvesenet i Mosjøen</itunes:title>
+      <itunes:summary>To kvinner på bærtur møter en vakker mann med en merkelig farkost. De mener han er et romvesen, men blir ikke trodd.</itunes:summary>
+      <itunes:duration>1749</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Wq5KbwidHfsccwmqtU0kTwrmwnrhTqFLFdZ2-_N9NpUA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Djevelen i fossen</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_bbe0105e-3aef-46b8-a010-5e3aef06b85c</link>
+      <description>For 200 år siden gikk en mann inn til en foss i Finnskogen, for å selge sjela si til djevelen. Fortsatt skjer det rare ting der.</description>
+      <guid isPermaLink="false">l_bbe0105e-3aef-46b8-a010-5e3aef06b85c</guid>
+      <pubDate>Fri, 27 Sep 2024 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/7f9238e9-e1f7-40dc-a7a3-ea7f60fbf3b6_0_ID192MP3.mp3" type="audio/mpeg" length="35117613"></enclosure>
+      <itunes:title>Djevelen i fossen</itunes:title>
+      <itunes:summary>For 200 år siden gikk en mann inn til en foss i Finnskogen, for å selge sjela si til djevelen. Fortsatt skjer det rare ting der.</itunes:summary>
+      <itunes:duration>1463</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TH3LBcVRO25_1qY9P9iaWw7dyJqZOEl9qNSbDPtSnzUg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Det forsvunne VM-trofeet</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_ca9d7218-b0cf-4c86-9d72-18b0cf4c8682</link>
+      <description>I 1995 vinner de norske fotballkvinnene VM-gull. Men trofeet forsvinner sporløst - uten at noen får det med seg.</description>
+      <guid isPermaLink="false">l_ca9d7218-b0cf-4c86-9d72-18b0cf4c8682</guid>
+      <pubDate>Fri, 27 Sep 2024 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/406d04a3-fda2-48ec-bd7b-549c52358142_0_ID192MP3.mp3" type="audio/mpeg" length="45730413"></enclosure>
+      <itunes:title>Det forsvunne VM-trofeet</itunes:title>
+      <itunes:summary>I 1995 vinner de norske fotballkvinnene VM-gull. Men trofeet forsvinner sporløst - uten at noen får det med seg.</itunes:summary>
+      <itunes:duration>1905</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_4V2FnUmnIWen-BMVeom7wNPZDTlSWkf-qvEZMqQ1c4w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Ufo-styrten i Aure</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_69b3d745-7651-4f5b-b3d7-457651bf5b82</link>
+      <description>Et flyvende objekt lander i en innsjø, foran en familie på telttur. Så kommer Forsvaret og sperrer av området.</description>
+      <guid isPermaLink="false">l_69b3d745-7651-4f5b-b3d7-457651bf5b82</guid>
+      <pubDate>Fri, 27 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/f4e2a79b-3fed-4994-80d4-bdf809bb4edb_0_ID192MP3.mp3" type="audio/mpeg" length="44462637"></enclosure>
+      <itunes:title>Ufo-styrten i Aure</itunes:title>
+      <itunes:summary>Et flyvende objekt lander i en innsjø, foran en familie på telttur. Så kommer Forsvaret og sperrer av området.</itunes:summary>
+      <itunes:duration>1852</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-kd4AsBuLejz8BLHp4XUHAjxm0B3nqwVIe54pCZ6fioQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Seriemorderen fra Selbu</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_cbcf4eb8-8138-410a-8f4e-b88138a10a50</link>
+      <description>Belle Gunness var en av USAs verste kvinnelige seriemordere. Men hvor ble hun av? &#xA;Denne episoden inneholder sterke scener.</description>
+      <guid isPermaLink="false">l_cbcf4eb8-8138-410a-8f4e-b88138a10a50</guid>
+      <pubDate>Fri, 22 Mar 2024 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/ccfbe10b-af25-4b62-baf1-bcab9d3fc67d_0_ID192MP3.mp3" type="audio/mpeg" length="61700013"></enclosure>
+      <itunes:title>Seriemorderen fra Selbu</itunes:title>
+      <itunes:summary>Belle Gunness var en av USAs verste kvinnelige seriemordere. Men hvor ble hun av? &#xA;Denne episoden inneholder sterke scener.</itunes:summary>
+      <itunes:duration>2570</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/c20i8HGcmNyVZJPn-cfrVgromaDLj2obr3yovAZfsq2g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Skriket fra graven</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_223f2afb-f4d6-45f7-bf2a-fbf4d6b5f738</link>
+      <description>En høygravid kvinne dør like før fødsel. Etter begravelsen hører folk barnegråt fra graven. </description>
+      <guid isPermaLink="false">l_223f2afb-f4d6-45f7-bf2a-fbf4d6b5f738</guid>
+      <pubDate>Fri, 22 Mar 2024 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/6e39e9b9-671d-4516-9fcd-fa4d6767b377_0_ID192MP3.mp3" type="audio/mpeg" length="35662509"></enclosure>
+      <itunes:title>Skriket fra graven</itunes:title>
+      <itunes:summary>En høygravid kvinne dør like før fødsel. Etter begravelsen hører folk barnegråt fra graven. </itunes:summary>
+      <itunes:duration>1485</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xh9ZpsgQaJAGTDKif3NPTgVeoybXOZA7Mbgh_sTIMCdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Døden på rom 106</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_7669f733-e218-451e-a9f7-33e218c51ea8</link>
+      <description>En offiser blir funnet død på rommet sitt med kloremerker på halsen. Rundt ham er det blod, oppkast – og en mystisk «A». </description>
+      <guid isPermaLink="false">l_7669f733-e218-451e-a9f7-33e218c51ea8</guid>
+      <pubDate>Fri, 22 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/6a92b5e0-bfe0-4552-9e3b-c23fdf26a1a6_0_ID192MP3.mp3" type="audio/mpeg" length="52314093"></enclosure>
+      <itunes:title>Døden på rom 106</itunes:title>
+      <itunes:summary>En offiser blir funnet død på rommet sitt med kloremerker på halsen. Rundt ham er det blod, oppkast – og en mystisk «A». </itunes:summary>
+      <itunes:duration>2179</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OW5wrqF75-R9ezDsBoFbcg_LPyoM4xpWVvUVrjrdet6A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Den hjemsøkte barnehagen</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_cc2b201f-877a-4a48-ab20-1f877a8a484c</link>
+      <description>En prest settes til å rense en barnehage i Vågå som plages av et gjenferd.</description>
+      <guid isPermaLink="false">l_cc2b201f-877a-4a48-ab20-1f877a8a484c</guid>
+      <pubDate>Tue, 23 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/fa82cbce-5d1b-46ed-b2ed-6dfe65842b3c_0_ID192MP3.mp3" type="audio/mpeg" length="57025197"></enclosure>
+      <itunes:title>Den hjemsøkte barnehagen</itunes:title>
+      <itunes:summary>En prest settes til å rense en barnehage i Vågå som plages av et gjenferd.</itunes:summary>
+      <itunes:duration>2375</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yIVArelyWFqiQZWmOr_PlAU7Pmn7OKfoNgvGbiLoYqcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Huset som ikke ville brenne</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_f238daee-9897-47ff-b8da-ee989737ff87</link>
+      <description>Dagen før bybrannen i Ålesund får en mann et spesielt besøk, og han får en mystisk beskjed.</description>
+      <guid isPermaLink="false">l_f238daee-9897-47ff-b8da-ee989737ff87</guid>
+      <pubDate>Tue, 16 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/cb72c89a-df53-4a0c-9e03-3d91190f81d7_0_ID192MP3.mp3" type="audio/mpeg" length="40878189"></enclosure>
+      <itunes:title>Huset som ikke ville brenne</itunes:title>
+      <itunes:summary>Dagen før bybrannen i Ålesund får en mann et spesielt besøk, og han får en mystisk beskjed.</itunes:summary>
+      <itunes:duration>1703</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/j315-9QGp7LNZzh06dgEfAtzx5VgM-ZwVjM6xgRr3r0Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Demonveggen</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_19ccb192-ff00-4778-8cb1-92ff00a77834</link>
+      <description>En kirke er fylt opp av 2000 demoner. To forskere prøver å finne ut hvorfor.</description>
+      <guid isPermaLink="false">l_19ccb192-ff00-4778-8cb1-92ff00a77834</guid>
+      <pubDate>Tue, 09 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/565daa57-08a1-47cd-8058-237c75372097_0_ID192MP3.mp3" type="audio/mpeg" length="36992493"></enclosure>
+      <itunes:title>Demonveggen</itunes:title>
+      <itunes:summary>En kirke er fylt opp av 2000 demoner. To forskere prøver å finne ut hvorfor.</itunes:summary>
+      <itunes:duration>1541</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aD0HsbPiVOurBMn16Z44xw5rXkbfLL8PY5bWBZfAL8Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Lysene i Hessdalen (2:2)</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_2d57280d-1f35-4eec-9728-0d1f355eece4</link>
+      <description>Mediene går amok: Hessdals-mysteriet er løst. Eller er det?</description>
+      <guid isPermaLink="false">l_2d57280d-1f35-4eec-9728-0d1f355eece4</guid>
+      <pubDate>Tue, 02 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/7763c51f-6149-453a-90cf-8a732123eada_0_ID192MP3.mp3" type="audio/mpeg" length="33174765"></enclosure>
+      <itunes:title>Lysene i Hessdalen (2:2)</itunes:title>
+      <itunes:summary>Mediene går amok: Hessdals-mysteriet er løst. Eller er det?</itunes:summary>
+      <itunes:duration>1382</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EA3AwBqHCP4yaQ9yikWuHw-e9ejfUCanUpQJ5kkR14sA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Lysene i Hessdalen (1:2)</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_7cf31e92-9d50-4116-b31e-929d504116fb</link>
+      <description>Hele landet ler av trønderne som sier de har ufo-er i dalen.</description>
+      <guid isPermaLink="false">l_7cf31e92-9d50-4116-b31e-929d504116fb</guid>
+      <pubDate>Tue, 25 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/e4380329-fd33-445b-b86d-f4d714752dda_0_ID192MP3.mp3" type="audio/mpeg" length="39886893"></enclosure>
+      <itunes:title>Lysene i Hessdalen (1:2)</itunes:title>
+      <itunes:summary>Hele landet ler av trønderne som sier de har ufo-er i dalen.</itunes:summary>
+      <itunes:duration>1661</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EA3AwBqHCP4yaQ9yikWuHw-e9ejfUCanUpQJ5kkR14sA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Politiets synske hjelper</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_afd24719-eaec-40c8-9247-19eaec40c8ee</link>
+      <description>Anna Elisabeth Westerlund løste flere saker for politiet. Var hun synsk?</description>
+      <guid isPermaLink="false">l_afd24719-eaec-40c8-9247-19eaec40c8ee</guid>
+      <pubDate>Tue, 18 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/7d018957-c6c6-4c35-956a-e4283e16e425_0_ID192MP3.mp3" type="audio/mpeg" length="41970285"></enclosure>
+      <itunes:title>Politiets synske hjelper</itunes:title>
+      <itunes:summary>Anna Elisabeth Westerlund løste flere saker for politiet. Var hun synsk?</itunes:summary>
+      <itunes:duration>1748</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LfuyL50Q6IejH12Bapm4uQytvGg4fytYj7KOSlZALJFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Seljordsormen</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_cd919338-8644-4aa1-9193-3886445aa1b1</link>
+      <description>I 270 år har et ormeaktig vesen blitt observert i Seljordsvatnet.</description>
+      <guid isPermaLink="false">l_cd919338-8644-4aa1-9193-3886445aa1b1</guid>
+      <pubDate>Tue, 11 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/360455f9-7228-40dd-a422-4dfca1d06d11_0_ID192MP3.mp3" type="audio/mpeg" length="44611821"></enclosure>
+      <itunes:title>Seljordsormen</itunes:title>
+      <itunes:summary>I 270 år har et ormeaktig vesen blitt observert i Seljordsvatnet.</itunes:summary>
+      <itunes:duration>1858</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dA7QO1qOXP60OR-2OUJ-ugMfvLWsDjNydxO9tyT5__XQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Ørnerovet</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_b26485eb-fd9b-4c6c-a485-ebfd9b8c6c09</link>
+      <description>Ei tre år gammel jente forsvinner fra Leka i Trøndelag. Har hun blitt tatt av ørna?</description>
+      <guid isPermaLink="false">l_b26485eb-fd9b-4c6c-a485-ebfd9b8c6c09</guid>
+      <pubDate>Fri, 07 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/3f70748d-c3b0-4822-9807-bd98cfbb7ee7_0_ID192MP3.mp3" type="audio/mpeg" length="46657197"></enclosure>
+      <itunes:title>Ørnerovet</itunes:title>
+      <itunes:summary>Ei tre år gammel jente forsvinner fra Leka i Trøndelag. Har hun blitt tatt av ørna?</itunes:summary>
+      <itunes:duration>1944</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FK7QWA_NeK2XnP3yV3h1RwvH4rBV_EqOTLkmcE2AAXkA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Fotballforbannelsen (2:2)</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_b715b2f9-3234-4aae-95b2-f932349aae2a</link>
+      <description>En 20 år gammel, blodig hemmelighet kommer ut. Tåler den dagens lys?</description>
+      <guid isPermaLink="false">l_b715b2f9-3234-4aae-95b2-f932349aae2a</guid>
+      <pubDate>Tue, 04 Apr 2023 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/d8b87c94-66b3-450d-a346-fb83864807ed_0_ID192MP3.mp3" type="audio/mpeg" length="35698221"></enclosure>
+      <itunes:title>Fotballforbannelsen (2:2)</itunes:title>
+      <itunes:summary>En 20 år gammel, blodig hemmelighet kommer ut. Tåler den dagens lys?</itunes:summary>
+      <itunes:duration>1487</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9Md6UiGV_eLFMXKLrIHIRgXGw6YCwnnDyjfjpzr6KnZQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Fotballforbannelsen (1:2)</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_706c92e9-5fc2-4bdc-ac92-e95fc29bdc4e</link>
+      <description>En forbannelse kastes over Tromsø IL. Treneren må ta et umulig valg.</description>
+      <guid isPermaLink="false">l_706c92e9-5fc2-4bdc-ac92-e95fc29bdc4e</guid>
+      <pubDate>Tue, 04 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/74676063-f360-4e9f-a7eb-7356ea684651_0_ID192MP3.mp3" type="audio/mpeg" length="37579437"></enclosure>
+      <itunes:title>Fotballforbannelsen (1:2)</itunes:title>
+      <itunes:summary>En forbannelse kastes over Tromsø IL. Treneren må ta et umulig valg.</itunes:summary>
+      <itunes:duration>1565</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9Md6UiGV_eLFMXKLrIHIRgXGw6YCwnnDyjfjpzr6KnZQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Ufo-ringen</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_048204a6-df18-4adf-8204-a6df184adf79</link>
+      <description>Blinkende lys på himmelen. En knurrende hund. En dyp ring i landskapet. Flere er overbevist om at en ufo har landa på øya.</description>
+      <guid isPermaLink="false">l_048204a6-df18-4adf-8204-a6df184adf79</guid>
+      <pubDate>Tue, 17 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/2b117c14-17fe-47fb-a9de-f39721c4b86d_0_ID192MP3.mp3" type="audio/mpeg" length="43527789"></enclosure>
+      <itunes:title>Ufo-ringen</itunes:title>
+      <itunes:summary>Blinkende lys på himmelen. En knurrende hund. En dyp ring i landskapet. Flere er overbevist om at en ufo har landa på øya.</itunes:summary>
+      <itunes:duration>1813</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Den kongelige hodeskallen</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_b5c61979-aa93-40e6-8619-79aa9330e6e3</link>
+      <description>Hodet til kong Sigurd Jorsalfare viser seg å være noe annet enn hva man hadde trodd.</description>
+      <guid isPermaLink="false">l_b5c61979-aa93-40e6-8619-79aa9330e6e3</guid>
+      <pubDate>Tue, 10 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/678672cc-8ba6-4b50-8ea3-342266a575e4_0_ID192MP3.mp3" type="audio/mpeg" length="43652781"></enclosure>
+      <itunes:title>Den kongelige hodeskallen</itunes:title>
+      <itunes:summary>Hodet til kong Sigurd Jorsalfare viser seg å være noe annet enn hva man hadde trodd.</itunes:summary>
+      <itunes:duration>1818</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Dødsforliset</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_b09a7392-50e2-437b-9a73-9250e2437bae</link>
+      <description>I 1760 omkommer 120 russere i et blodig skipsforlis utenfor Trøndelagskysten. Eller - blir de brutalt drept av lokalbefolkningen, som så plyndrer vraket?</description>
+      <guid isPermaLink="false">l_b09a7392-50e2-437b-9a73-9250e2437bae</guid>
+      <pubDate>Tue, 03 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/72566f94-0914-47b0-9efa-9b5c6a0fcf14_0_ID192MP3.mp3" type="audio/mpeg" length="46687725"></enclosure>
+      <itunes:title>Dødsforliset</itunes:title>
+      <itunes:summary>I 1760 omkommer 120 russere i et blodig skipsforlis utenfor Trøndelagskysten. Eller - blir de brutalt drept av lokalbefolkningen, som så plyndrer vraket?</itunes:summary>
+      <itunes:duration>1945</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Mumien i nabohytta</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_0ea4ec17-9ff9-4272-a4ec-179ff9027274</link>
+      <description>Et mumifisert lik ligger urørt på et hyttegulv, men ingen er meldt savnet. Flere år senere titter noen inn døra, og får seg en overraskelse.</description>
+      <guid isPermaLink="false">l_0ea4ec17-9ff9-4272-a4ec-179ff9027274</guid>
+      <pubDate>Tue, 26 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/9d090072-f6d0-4c0c-8197-f7ec6b23e40d_0_ID192MP3.mp3" type="audio/mpeg" length="43742061"></enclosure>
+      <itunes:title>Mumien i nabohytta</itunes:title>
+      <itunes:summary>Et mumifisert lik ligger urørt på et hyttegulv, men ingen er meldt savnet. Flere år senere titter noen inn døra, og får seg en overraskelse.</itunes:summary>
+      <itunes:duration>1822</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Byheksa</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_3bdefec9-3729-4db2-9efe-c937295db2b7</link>
+      <description>Høsten 1981 terroriseres nordmøringer av “den grønne dame”. Den avskyelige skikkelsen skremmer vannet av folk i byen. Så forsvinner hun brått.</description>
+      <guid isPermaLink="false">l_3bdefec9-3729-4db2-9efe-c937295db2b7</guid>
+      <pubDate>Tue, 19 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/444bb153-77a8-4e80-9bae-9242d14e25c9_0_ID192MP3.mp3" type="audio/mpeg" length="41096493"></enclosure>
+      <itunes:title>Byheksa</itunes:title>
+      <itunes:summary>Høsten 1981 terroriseres nordmøringer av “den grønne dame”. Den avskyelige skikkelsen skremmer vannet av folk i byen. Så forsvinner hun brått.</itunes:summary>
+      <itunes:duration>1712</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Munken i Nidarosdomen</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_c7943003-d0f7-49d4-9430-03d0f789d459</link>
+      <description>Flere hevder de har sett et spøkelse gå igjen i Nidarosdomen. Men kan man tro på dem?</description>
+      <guid isPermaLink="false">l_c7943003-d0f7-49d4-9430-03d0f789d459</guid>
+      <pubDate>Tue, 12 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/710e01e1-eff7-42f6-b7dc-c21a95b7962f_0_ID192MP3.mp3" type="audio/mpeg" length="51625773"></enclosure>
+      <itunes:title>Munken i Nidarosdomen</itunes:title>
+      <itunes:summary>Flere hevder de har sett et spøkelse gå igjen i Nidarosdomen. Men kan man tro på dem?</itunes:summary>
+      <itunes:duration>2151</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Offersteinen</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_c4cc81bb-8b6f-450c-8c81-bb8b6fc50cb1</link>
+      <description>En hellig, samisk offerstein blir knust i forbindelse med veiarbeid. Så begynner uhellene å skje.</description>
+      <guid isPermaLink="false">l_c4cc81bb-8b6f-450c-8c81-bb8b6fc50cb1</guid>
+      <pubDate>Tue, 05 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/2e66a936-2800-4d70-a5e8-6775facb5fb3_0_ID192MP3.mp3" type="audio/mpeg" length="38385837"></enclosure>
+      <itunes:title>Offersteinen</itunes:title>
+      <itunes:summary>En hellig, samisk offerstein blir knust i forbindelse med veiarbeid. Så begynner uhellene å skje.</itunes:summary>
+      <itunes:duration>1599</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Mannbjørnen</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_f648194b-0744-4690-8819-4b074426906d</link>
+      <description>En morderisk bjørn herjer på Nordmøre. Mennesker spises levende. Men er historien sann, eller er det bare en skrøne?</description>
+      <guid isPermaLink="false">l_f648194b-0744-4690-8819-4b074426906d</guid>
+      <pubDate>Tue, 05 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/1ee3a817-e441-478e-85c3-43a2658f22a3_0_ID192MP3.mp3" type="audio/mpeg" length="43588269"></enclosure>
+      <itunes:title>Mannbjørnen</itunes:title>
+      <itunes:summary>En morderisk bjørn herjer på Nordmøre. Mennesker spises levende. Men er historien sann, eller er det bare en skrøne?</itunes:summary>
+      <itunes:duration>1816</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Smakebit: Mysterier fra Norge</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_c616779a-0c2a-4cb4-9677-9a0c2abcb4d6</link>
+      <description>En morderisk bjørn, et mumifisert lik, ei byheks og en ufo-landing. Landet vårt er fullt av uløste mysterier. Her får du noen av dem.</description>
+      <guid isPermaLink="false">l_c616779a-0c2a-4cb4-9677-9a0c2abcb4d6</guid>
+      <pubDate>Tue, 29 Mar 2022 09:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/c2c1be49-d901-4fad-a48b-c0c37928a29b_0_ID192MP3.mp3" type="audio/mpeg" length="1662381"></enclosure>
+      <itunes:title>Smakebit: Mysterier fra Norge</itunes:title>
+      <itunes:summary>En morderisk bjørn, et mumifisert lik, ei byheks og en ufo-landing. Landet vårt er fullt av uløste mysterier. Her får du noen av dem.</itunes:summary>
+      <itunes:duration>69</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+  </channel>
+</rss>

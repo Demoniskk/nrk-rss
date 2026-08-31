@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NRK-scenen</title>
+    <link>https://radio.nrk.no/podkast/nrkscenen</link>
+    <description>Norske musikere gir deg minikonserter på steder som betyr noe for dem. Også tilgjengelig i NRK TV: tv.nrk.no/serie/nrk-scenen </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 14 Feb 2025 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/nrkscenen.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Norske musikere gir deg minikonserter på steder som betyr noe for dem. Også tilgjengelig i NRK TV: tv.nrk.no/serie/nrk-scenen </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/U86Z3TYs6H3bOiF2to7jCwEsWEuNLytw9OAkEqh9PHyQ"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/U86Z3TYs6H3bOiF2to7jCwEsWEuNLytw9OAkEqh9PHyQ</url>
+      <title>NRK-scenen</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen</link>
+    </image>
+    <item>
+      <title>9 grader nord og Musti</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_e20ec5c1-66c7-4c82-8ec5-c166c73c8263</link>
+      <description>9 grader nord er et tamilsk folkrockband. Sammen med Musti spiller de en helt ny versjon av en låt fra albumet de vant Spellemannpris for i fjor.</description>
+      <guid isPermaLink="false">l_e20ec5c1-66c7-4c82-8ec5-c166c73c8263</guid>
+      <pubDate>Fri, 14 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/456803c5-3e1a-44c0-aa1a-70740606cb4e_0_ID192MP3.mp3" type="audio/mpeg" length="19134189"></enclosure>
+      <itunes:title>9 grader nord og Musti</itunes:title>
+      <itunes:summary>9 grader nord er et tamilsk folkrockband. Sammen med Musti spiller de en helt ny versjon av en låt fra albumet de vant Spellemannpris for i fjor.</itunes:summary>
+      <itunes:duration>797</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/U86Z3TYs6H3bOiF2to7jCwEsWEuNLytw9OAkEqh9PHyQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lávre, Hildá Länsman og Tuomas Norvio</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_2ffa5108-dc58-4c13-ba51-08dc582c13bd</link>
+      <description>Lávre, Hildá Länsman og Tuomas Norvio på Juhls Sølvsmie i Kautokeino. De blander joik med elektronisk musikk og gir deg lyst til å danse, le og gråte.</description>
+      <guid isPermaLink="false">l_2ffa5108-dc58-4c13-ba51-08dc582c13bd</guid>
+      <pubDate>Thu, 06 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/1fbfde2d-e18c-44ac-aa18-3ffbbbbb2511_0_ID192MP3.mp3" type="audio/mpeg" length="22901229"></enclosure>
+      <itunes:title>Lávre, Hildá Länsman og Tuomas Norvio</itunes:title>
+      <itunes:summary>Lávre, Hildá Länsman og Tuomas Norvio på Juhls Sølvsmie i Kautokeino. De blander joik med elektronisk musikk og gir deg lyst til å danse, le og gråte.</itunes:summary>
+      <itunes:duration>954</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0dVUvDiFhqlU9RW_LecWogWBAl7ocTwMuJGHAH-MCiwg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Goofy Geese</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_1a69ba02-e9bd-422c-a9ba-02e9bdf22c9c</link>
+      <description>Bergensduoen Goofy Geese blander indie-pop og bossa nova i musikken sin, og spiller en ny, norsk cover av en 60-tallshit.</description>
+      <guid isPermaLink="false">l_1a69ba02-e9bd-422c-a9ba-02e9bdf22c9c</guid>
+      <pubDate>Fri, 17 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/a66296b8-bfbc-4525-bc4f-90496d3c77de_0_ID192MP3.mp3" type="audio/mpeg" length="17403885"></enclosure>
+      <itunes:title>Goofy Geese</itunes:title>
+      <itunes:summary>Bergensduoen Goofy Geese blander indie-pop og bossa nova i musikken sin, og spiller en ny, norsk cover av en 60-tallshit.</itunes:summary>
+      <itunes:duration>725</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fSLtfEdoJ1tmiWikeeoHKwdgeDa3cU45u3jnlmlNe5eA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Magne Furuholmen</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_f889469a-f5c0-46c3-8946-9af5c026c340</link>
+      <description>Omgitt av sin egen billedkunst holder kunstner og musiker Magne Furuholmen en eksklusiv minikonsert i atelieret sitt.</description>
+      <guid isPermaLink="false">l_f889469a-f5c0-46c3-8946-9af5c026c340</guid>
+      <pubDate>Fri, 10 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/ea07edb9-49e6-45f1-939f-77545f4cab8c_0_ID192MP3.mp3" type="audio/mpeg" length="18400365"></enclosure>
+      <itunes:title>Magne Furuholmen</itunes:title>
+      <itunes:summary>Omgitt av sin egen billedkunst holder kunstner og musiker Magne Furuholmen en eksklusiv minikonsert i atelieret sitt.</itunes:summary>
+      <itunes:duration>766</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ncIayC1oetnNL4bbDSa93QwacAVvZqQGjhO_ni5HCUbw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Emma Steinbakken</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_83698152-cabf-409a-a981-52cabf809a5a</link>
+      <description>Det blir god, gammeldags julestemning når Emma Steinbakken drar til hjemstedet Jessheim og synger en moderne, norsk juleklassiker.</description>
+      <guid isPermaLink="false">l_83698152-cabf-409a-a981-52cabf809a5a</guid>
+      <pubDate>Fri, 20 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/6f62059a-dde2-47b5-801c-4143072c202b_0_ID192MP3.mp3" type="audio/mpeg" length="10597293"></enclosure>
+      <itunes:title>Emma Steinbakken</itunes:title>
+      <itunes:summary>Det blir god, gammeldags julestemning når Emma Steinbakken drar til hjemstedet Jessheim og synger en moderne, norsk juleklassiker.</itunes:summary>
+      <itunes:duration>441</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WTnBZCMKR0v2sLApmU5dXA6MCBhgEvJ-jPNu6IO3IL7g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tord Gustavsen Trio</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_f3d4bbae-8829-4a85-94bb-ae8829fa856c</link>
+      <description>Tord Gustavsen Trio, verdenskjent for sin dype og melodiske jazzmusikk, skaper julestemning i unike Tanum kirke. Kim Rysstad er gjestevokalist.</description>
+      <guid isPermaLink="false">l_f3d4bbae-8829-4a85-94bb-ae8829fa856c</guid>
+      <pubDate>Fri, 13 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/62c2cd34-4149-4f6a-91bb-f4c7cf558ab0_0_ID192MP3.mp3" type="audio/mpeg" length="21443949"></enclosure>
+      <itunes:title>Tord Gustavsen Trio</itunes:title>
+      <itunes:summary>Tord Gustavsen Trio, verdenskjent for sin dype og melodiske jazzmusikk, skaper julestemning i unike Tanum kirke. Kim Rysstad er gjestevokalist.</itunes:summary>
+      <itunes:duration>893</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8hNSTHYOAyFzAwYoNAjn6gBaNd30X7KGXNVyloINNmkg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>P3 Gull 2024 – Fay Wildhagen, Chris Holsten, HILLARI, Ruben, Anna Lille</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_6b8dd1b9-358f-4208-8dd1-b9358fa20876</link>
+      <description>En feiring av musikken. En låt, ett band, fem artister. Gåsehud!</description>
+      <guid isPermaLink="false">l_6b8dd1b9-358f-4208-8dd1-b9358fa20876</guid>
+      <pubDate>Fri, 29 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/0f43dfa7-e841-407c-977e-e3c25e008758_0_ID192MP3.mp3" type="audio/mpeg" length="5821101"></enclosure>
+      <itunes:title>P3 Gull 2024 – Fay Wildhagen, Chris Holsten, HILLARI, Ruben, Anna Lille</itunes:title>
+      <itunes:summary>En feiring av musikken. En låt, ett band, fem artister. Gåsehud!</itunes:summary>
+      <itunes:duration>242</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1cWGqN98uuXwrQeaF05phgjqFjpfEPLKW5TMVedZ3eWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gabrielle og Lars Vaular</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_c4b4fe44-cc0b-44e5-b4fe-44cc0bd4e50d</link>
+      <description>Gabrielle og Lars Vaular faller inn i rommet for еn dans.</description>
+      <guid isPermaLink="false">l_c4b4fe44-cc0b-44e5-b4fe-44cc0bd4e50d</guid>
+      <pubDate>Fri, 22 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/c60fd19e-959b-43a2-aaa9-e569863ec2cc_0_ID192MP3.mp3" type="audio/mpeg" length="6625773"></enclosure>
+      <itunes:title>Gabrielle og Lars Vaular</itunes:title>
+      <itunes:summary>Gabrielle og Lars Vaular faller inn i rommet for еn dans.</itunes:summary>
+      <itunes:duration>276</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/w6SdzDJ-3PYyBNG_pnvFFQL6X8Xrw_RtPSZz6NwCEs7g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>P3 Gull 2024 – Tyr med Stig Brenner</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_5bdf6b33-6b5a-4749-9f6b-336b5ab74931</link>
+      <description>Rapperen Tyr har hatt et stort år som kan krones med prisen &#34;Årets artist&#34; under P3 Gull. Her er han live sammen med Stig Brenner på Ellingsrudåsen.</description>
+      <guid isPermaLink="false">l_5bdf6b33-6b5a-4749-9f6b-336b5ab74931</guid>
+      <pubDate>Fri, 15 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/6cf1d9d6-a45c-4f5a-8f12-b109831659c9_0_ID192MP3.mp3" type="audio/mpeg" length="9846189"></enclosure>
+      <itunes:title>P3 Gull 2024 – Tyr med Stig Brenner</itunes:title>
+      <itunes:summary>Rapperen Tyr har hatt et stort år som kan krones med prisen &#34;Årets artist&#34; under P3 Gull. Her er han live sammen med Stig Brenner på Ellingsrudåsen.</itunes:summary>
+      <itunes:duration>410</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NjkQDg3G3ID2saYracpTdArHDk8BzmCGqQWUcQqBww1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Urørt 2024 – Anakin Justin</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_b13899dd-f23d-4198-b899-ddf23da198a5</link>
+      <description>Det har blitt sagt om Årets Urørt 2024, rapperen Anakin Justin, at han får trøndersk til å høres sexy ut. Se han live med B-Boy Myhre og bli forført.</description>
+      <guid isPermaLink="false">l_b13899dd-f23d-4198-b899-ddf23da198a5</guid>
+      <pubDate>Mon, 11 Nov 2024 06:08:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/a2b1c71b-c51d-497c-b256-37ceca675789_0_ID192MP3.mp3" type="audio/mpeg" length="9611181"></enclosure>
+      <itunes:title>Urørt 2024 – Anakin Justin</itunes:title>
+      <itunes:summary>Det har blitt sagt om Årets Urørt 2024, rapperen Anakin Justin, at han får trøndersk til å høres sexy ut. Se han live med B-Boy Myhre og bli forført.</itunes:summary>
+      <itunes:duration>400</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nwVfhqtel820IJ-hjHYISQR7uCwHRSbZc8Rog-xwsyJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ora The Molecule</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_49bf37d1-a56c-4ad2-bf37-d1a56cdad276</link>
+      <description>Bli med tilbake til fremtiden og ut i verdensrommet med disko-kometen Nora Schjelderup, alias Ora The Molecule.</description>
+      <guid isPermaLink="false">l_49bf37d1-a56c-4ad2-bf37-d1a56cdad276</guid>
+      <pubDate>Mon, 11 Nov 2024 06:07:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/a3f6aace-0274-4951-aa8d-dc7aa1ad49aa_0_ID192MP3.mp3" type="audio/mpeg" length="19076013"></enclosure>
+      <itunes:title>Ora The Molecule</itunes:title>
+      <itunes:summary>Bli med tilbake til fremtiden og ut i verdensrommet med disko-kometen Nora Schjelderup, alias Ora The Molecule.</itunes:summary>
+      <itunes:duration>794</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ga_IhPkimXh4IdIKi0Iu6ARIwP1rGBN4rfcitgOgD42Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Veslemøy Narvesen</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_2334a058-d189-4576-b4a0-58d189a57684</link>
+      <description>Veslemøy Narvesen er trommisen «alle» norske artister vil jobbe med. Her er hun med sitt eget superband, som elegant kombinerer jazz og pop.</description>
+      <guid isPermaLink="false">l_2334a058-d189-4576-b4a0-58d189a57684</guid>
+      <pubDate>Mon, 11 Nov 2024 06:06:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/1f4caf92-da97-4611-935a-233d49cc1c37_0_ID192MP3.mp3" type="audio/mpeg" length="26411373"></enclosure>
+      <itunes:title>Veslemøy Narvesen</itunes:title>
+      <itunes:summary>Veslemøy Narvesen er trommisen «alle» norske artister vil jobbe med. Her er hun med sitt eget superband, som elegant kombinerer jazz og pop.</itunes:summary>
+      <itunes:duration>1100</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9rjsFTNIn1yfAL6DbihDegG5qsxcnpTDN5-0DFze6Cwg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Thea &amp; The Wild</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_ae1b83e8-08df-4fb4-9b83-e808df3fb4ed</link>
+      <description>Thea &amp; The Wild har latt seg inspirere av historien til gamle Dikemark psykiatriske sykehus der kunstnerisk utfoldelse var en del av behandlingen.</description>
+      <guid isPermaLink="false">l_ae1b83e8-08df-4fb4-9b83-e808df3fb4ed</guid>
+      <pubDate>Mon, 11 Nov 2024 06:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/91c5c166-96e5-49ec-8da9-75c1fd9ede5c_0_ID192MP3.mp3" type="audio/mpeg" length="21532653"></enclosure>
+      <itunes:title>Thea &amp; The Wild</itunes:title>
+      <itunes:summary>Thea &amp; The Wild har latt seg inspirere av historien til gamle Dikemark psykiatriske sykehus der kunstnerisk utfoldelse var en del av behandlingen.</itunes:summary>
+      <itunes:duration>897</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1Nz1Vtu4XF4y_8Gmd-_z9wMSkp_qlFD_EQreNGlzwl9w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hudkreft</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_e24d907a-f83c-40c4-8d90-7af83c20c42c</link>
+      <description>Hudkreft, et ungt, hardtslående punkband spiller live på kultur- og aktivisthuset Blitz i Oslo sentrum. Edvard fra Honningbarna er gjestevokalist.</description>
+      <guid isPermaLink="false">l_e24d907a-f83c-40c4-8d90-7af83c20c42c</guid>
+      <pubDate>Mon, 11 Nov 2024 06:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/08b1cce6-f03f-40c1-b549-33b411ae1058_0_ID192MP3.mp3" type="audio/mpeg" length="16312941"></enclosure>
+      <itunes:title>Hudkreft</itunes:title>
+      <itunes:summary>Hudkreft, et ungt, hardtslående punkband spiller live på kultur- og aktivisthuset Blitz i Oslo sentrum. Edvard fra Honningbarna er gjestevokalist.</itunes:summary>
+      <itunes:duration>679</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mmGCz4hzG7Hux1b-vES5FwM8VJn41plC5sn2ljuPxxrw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Chris Abolade</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_549a2f93-ed44-4070-9a2f-93ed44b070be</link>
+      <description>For Chris Abolade har kunstnerkollektivet på Fornebu vært et hjem. - Første jeg tenker på når jeg står opp er at jeg vil hit. Også vil jeg ikke hjem.</description>
+      <guid isPermaLink="false">l_549a2f93-ed44-4070-9a2f-93ed44b070be</guid>
+      <pubDate>Mon, 11 Nov 2024 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/097d6d90-c4b8-4290-b079-22c277d505f7_0_ID192MP3.mp3" type="audio/mpeg" length="19952685"></enclosure>
+      <itunes:title>Chris Abolade</itunes:title>
+      <itunes:summary>For Chris Abolade har kunstnerkollektivet på Fornebu vært et hjem. - Første jeg tenker på når jeg står opp er at jeg vil hit. Også vil jeg ikke hjem.</itunes:summary>
+      <itunes:duration>831</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TH_UgYhOrnZtl1a2VHzZ8wjeuhlx9EP20PNHQIOVQ_6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Liv Andrea Hauge Trio</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_79e50a00-8627-4eef-a50a-008627beefc3</link>
+      <description>Jazz-stjerneskuddet Liv Andrea Hauge har Keith Jarrett som sitt store forbilde. Hun besøker stedet hvor Jarrett spilte sin første Norges-konsert.</description>
+      <guid isPermaLink="false">l_79e50a00-8627-4eef-a50a-008627beefc3</guid>
+      <pubDate>Mon, 11 Nov 2024 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/cff92699-dd2d-4b8e-843f-578e1a506ca1_0_ID192MP3.mp3" type="audio/mpeg" length="18637101"></enclosure>
+      <itunes:title>Liv Andrea Hauge Trio</itunes:title>
+      <itunes:summary>Jazz-stjerneskuddet Liv Andrea Hauge har Keith Jarrett som sitt store forbilde. Hun besøker stedet hvor Jarrett spilte sin første Norges-konsert.</itunes:summary>
+      <itunes:duration>776</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2a-qI3vIONmES4rDXyTu5gYE26NNz8kblGNc4_sSdLAg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Aslag Haugen &amp; Martin Hagfors</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_c7086cf1-1163-4c88-886c-f111635c8810</link>
+      <description>I en lite glamorøs bygning i Nydalen lager to av Norges fremste låtskrivere vakker musikk sammen.</description>
+      <guid isPermaLink="false">l_c7086cf1-1163-4c88-886c-f111635c8810</guid>
+      <pubDate>Mon, 11 Nov 2024 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/57f94e43-746b-41e2-86e4-2dc35f70d4c6_0_ID192MP3.mp3" type="audio/mpeg" length="21486573"></enclosure>
+      <itunes:title>Aslag Haugen &amp; Martin Hagfors</itunes:title>
+      <itunes:summary>I en lite glamorøs bygning i Nydalen lager to av Norges fremste låtskrivere vakker musikk sammen.</itunes:summary>
+      <itunes:duration>895</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4v3gInAbbQ-_EiuSJQvAjwYrcaL1rYjCy_f7QtGmcBqw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Musikk fra «Her lukter det fesk»</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_313f555d-b015-4a79-bf55-5db015ca79e7</link>
+      <description>I NRK-serien Her lukter det fesk tar Bilal Saab med seg artister på fisketur og en duett. Her er smakebiter med Ida Maria, Kurt Nilsen og Agnete Saba.</description>
+      <guid isPermaLink="false">l_313f555d-b015-4a79-bf55-5db015ca79e7</guid>
+      <pubDate>Mon, 11 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/e8f8af7e-4afe-4e1f-9b25-770fac69b169_0_ID192MP3.mp3" type="audio/mpeg" length="15843501"></enclosure>
+      <itunes:title>Musikk fra «Her lukter det fesk»</itunes:title>
+      <itunes:summary>I NRK-serien Her lukter det fesk tar Bilal Saab med seg artister på fisketur og en duett. Her er smakebiter med Ida Maria, Kurt Nilsen og Agnete Saba.</itunes:summary>
+      <itunes:duration>660</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TkNKlzldnF1I64LuSs8fWgXyr1j2qQCifgRp5cpLGgLg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Frøkedal &amp; Familien</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_cbb9ba76-2fed-472f-b9ba-762fed772f52</link>
+      <description>Kritikerroste Anne Lise Frøkedal spiller en unik miks av folkemusikk og indiepop sammen med bandet sitt, Familien.</description>
+      <guid isPermaLink="false">l_cbb9ba76-2fed-472f-b9ba-762fed772f52</guid>
+      <pubDate>Fri, 13 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/a82b4cce-0d74-40bb-908c-e04d2ad5455f_0_ID192MP3.mp3" type="audio/mpeg" length="19984941"></enclosure>
+      <itunes:title>Frøkedal &amp; Familien</itunes:title>
+      <itunes:summary>Kritikerroste Anne Lise Frøkedal spiller en unik miks av folkemusikk og indiepop sammen med bandet sitt, Familien.</itunes:summary>
+      <itunes:duration>832</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7vXT6Ayxc9pDZebpadPv6Achlf2Rx-nx-BWxGAfsmsFw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gjenfødt Kultur</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_ac00c30d-b000-42e8-80c3-0db000b2e82e</link>
+      <description>Vi inviterte 100 fans med mobilkamera til å filme rapgruppa Gjenfødt Kultur på Øyafestivalen. Og selveste Ravi gjør en uforglemmelig gjesteopptreden!</description>
+      <guid isPermaLink="false">l_ac00c30d-b000-42e8-80c3-0db000b2e82e</guid>
+      <pubDate>Fri, 06 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/5c64e933-04dd-44d6-b1bf-b6e69ce994fa_0_ID192MP3.mp3" type="audio/mpeg" length="17491437"></enclosure>
+      <itunes:title>Gjenfødt Kultur</itunes:title>
+      <itunes:summary>Vi inviterte 100 fans med mobilkamera til å filme rapgruppa Gjenfødt Kultur på Øyafestivalen. Og selveste Ravi gjør en uforglemmelig gjesteopptreden!</itunes:summary>
+      <itunes:duration>728</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SUhI7qiY47uu66-aybp3JQPoEO7SUnPahctTTWorPPtQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Les Imprimés</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_b30c4164-b57c-4065-8c41-64b57ce06543</link>
+      <description>Les Imprimés skaper unik musikk med inspirasjon fra 60-70-tallets soul, doo wop og hip-hop. De har vunnet hjerter verden over med albumet “Rêverie”.</description>
+      <guid isPermaLink="false">l_b30c4164-b57c-4065-8c41-64b57ce06543</guid>
+      <pubDate>Fri, 07 Jun 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/55183691-7299-4b92-96e8-a9834bf8b982_0_ID192MP3.mp3" type="audio/mpeg" length="19782189"></enclosure>
+      <itunes:title>Les Imprimés</itunes:title>
+      <itunes:summary>Les Imprimés skaper unik musikk med inspirasjon fra 60-70-tallets soul, doo wop og hip-hop. De har vunnet hjerter verden over med albumet “Rêverie”.</itunes:summary>
+      <itunes:duration>824</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GPU05W_udipVfcEN5hSoSA6ELR_GJ9vbolitO-jryFyA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Michelle Ullestad</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_1fa46cff-3b54-4377-a46c-ff3b5453772b</link>
+      <description>Michelle Ullestad skriver fengende og brutalt ærlige poplåter om livet. Her får du historien om det stormfulle forholdet mellom henne og kjæresten.</description>
+      <guid isPermaLink="false">l_1fa46cff-3b54-4377-a46c-ff3b5453772b</guid>
+      <pubDate>Fri, 31 May 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/fc41aa81-0709-4baf-993e-3dcd87e0d7c7_0_ID192MP3.mp3" type="audio/mpeg" length="19002861"></enclosure>
+      <itunes:title>Michelle Ullestad</itunes:title>
+      <itunes:summary>Michelle Ullestad skriver fengende og brutalt ærlige poplåter om livet. Her får du historien om det stormfulle forholdet mellom henne og kjæresten.</itunes:summary>
+      <itunes:duration>791</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/H9X4tXTQnv_8GyrFxVGOqgMrJTcGCWZtSQS5j6w-o-Jg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fieh</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_026ea31d-58d9-49bc-aea3-1d58d989bcf1</link>
+      <description>Mjøsfunk-bandet Fieh fra Oppland, med tre albumutgivelser, internasjonal turnévirksomhet og flere nominasjoner til Spellemann, feirer 10 år sammen.</description>
+      <guid isPermaLink="false">l_026ea31d-58d9-49bc-aea3-1d58d989bcf1</guid>
+      <pubDate>Fri, 24 May 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/302eca65-f9fc-4349-8399-139cc99c2c4b_0_ID192MP3.mp3" type="audio/mpeg" length="19632429"></enclosure>
+      <itunes:title>Fieh</itunes:title>
+      <itunes:summary>Mjøsfunk-bandet Fieh fra Oppland, med tre albumutgivelser, internasjonal turnévirksomhet og flere nominasjoner til Spellemann, feirer 10 år sammen.</itunes:summary>
+      <itunes:duration>817</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FrflmAumguMNe7Zf8NK2Tw_btolDE4_oKVkaJ8aJVaVA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>17. mai på Slottet</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_2eac4093-de2c-403c-ac40-93de2c903c6d</link>
+      <description>Slottet åpner dørene og inviterer popstjernene Arif og Gabrielle, og cellisten Amalie Stalheim.</description>
+      <guid isPermaLink="false">l_2eac4093-de2c-403c-ac40-93de2c903c6d</guid>
+      <pubDate>Fri, 17 May 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/bd5daee4-3435-4a97-995e-919b1640e2e7_0_ID192MP3.mp3" type="audio/mpeg" length="18172269"></enclosure>
+      <itunes:title>17. mai på Slottet</itunes:title>
+      <itunes:summary>Slottet åpner dørene og inviterer popstjernene Arif og Gabrielle, og cellisten Amalie Stalheim.</itunes:summary>
+      <itunes:duration>757</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JgXpzn2wGqy4-HLk8fT5OAMs9AaHINDFiE2cxI8NimBQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mayhem</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_ff5308bd-49d3-4551-9308-bd49d33551fa</link>
+      <description>I 2024 markerer Norges mest beryktede band 40 år. Svartmetallpionerene i Mayhem regjerer fremdeles i skyggenes rike.</description>
+      <guid isPermaLink="false">l_ff5308bd-49d3-4551-9308-bd49d33551fa</guid>
+      <pubDate>Fri, 03 May 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/f62046fb-2245-460f-8d96-7ac8f7e2ea11_0_ID192MP3.mp3" type="audio/mpeg" length="25716141"></enclosure>
+      <itunes:title>Mayhem</itunes:title>
+      <itunes:summary>I 2024 markerer Norges mest beryktede band 40 år. Svartmetallpionerene i Mayhem regjerer fremdeles i skyggenes rike.</itunes:summary>
+      <itunes:duration>1071</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/67JyNyEGdtYSrfINuLrheAmXCkm9z1466on4MkGqOjHA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gabba</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_3b2b84bd-2f7e-495f-ab84-bd2f7ea95f1f</link>
+      <description>Bli med på fest i kollektivet til Gabba! Her blandes joik, americana og afrikanske rytmer til en helt egen viddeblues.</description>
+      <guid isPermaLink="false">l_3b2b84bd-2f7e-495f-ab84-bd2f7ea95f1f</guid>
+      <pubDate>Fri, 05 Apr 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/49e37c5f-2143-4f09-8385-2e689add929a_0_ID192MP3.mp3" type="audio/mpeg" length="30482541"></enclosure>
+      <itunes:title>Gabba</itunes:title>
+      <itunes:summary>Bli med på fest i kollektivet til Gabba! Her blandes joik, americana og afrikanske rytmer til en helt egen viddeblues.</itunes:summary>
+      <itunes:duration>1270</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EaImcrPooYkaq4L7s4rBugrrAeQCkLy6sK9gBN3oz2-A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jazzeventyret: Sessions</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_9d0a62a7-26a6-4bec-8a62-a726a65bec2e</link>
+      <description>I jazz er improvisasjon et bærende element. &#xA;Et norsk stjernelag av musikere spiller sammen for første gang i forbindelse med NRK-serien Jazzeventyret.</description>
+      <guid isPermaLink="false">l_9d0a62a7-26a6-4bec-8a62-a726a65bec2e</guid>
+      <pubDate>Fri, 15 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/17ccbf64-2eee-42ce-a2c0-9c1717a09c43_0_ID192MP3.mp3" type="audio/mpeg" length="29084013"></enclosure>
+      <itunes:title>Jazzeventyret: Sessions</itunes:title>
+      <itunes:summary>I jazz er improvisasjon et bærende element. &#xA;Et norsk stjernelag av musikere spiller sammen for første gang i forbindelse med NRK-serien Jazzeventyret.</itunes:summary>
+      <itunes:duration>1211</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2wclzLhZlTEDCrw5REHYNgcvN2Ygm67dQjl-6G6NB8eA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fay Wildhagen</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_b156f7db-639a-4796-96f7-db639a07968b</link>
+      <description>Fay Wildhagens nye album er et resultat av selvransakelse av egen oppvekst. &#xA;Besøk på Norsk folkemuseum med farmor er gode barndomsminner.</description>
+      <guid isPermaLink="false">l_b156f7db-639a-4796-96f7-db639a07968b</guid>
+      <pubDate>Fri, 08 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/9511f657-25b1-485a-8e61-5c4055719f43_0_ID192MP3.mp3" type="audio/mpeg" length="25994925"></enclosure>
+      <itunes:title>Fay Wildhagen</itunes:title>
+      <itunes:summary>Fay Wildhagens nye album er et resultat av selvransakelse av egen oppvekst. &#xA;Besøk på Norsk folkemuseum med farmor er gode barndomsminner.</itunes:summary>
+      <itunes:duration>1083</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CMjmWTltmu9fFS5WIv2wzgAMwpBDbE0TqNqBTrM8jT3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bertine Zetlitz &amp; Bugge Wesseltoft</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_48a59c21-84a8-44f9-a59c-2184a8d4f91f</link>
+      <description>Som frustrert elev på musikklinja på Foss VGS, drømte Bertine Zetlitz om å spille med Bugge Wesseltoft. 30 år senere har drømmen blitt virkelighet.</description>
+      <guid isPermaLink="false">l_48a59c21-84a8-44f9-a59c-2184a8d4f91f</guid>
+      <pubDate>Tue, 05 Mar 2024 10:15:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/fdc3ace4-b86e-4453-8897-c354ac053c8f_0_ID192MP3.mp3" type="audio/mpeg" length="26838189"></enclosure>
+      <itunes:title>Bertine Zetlitz &amp; Bugge Wesseltoft</itunes:title>
+      <itunes:summary>Som frustrert elev på musikklinja på Foss VGS, drømte Bertine Zetlitz om å spille med Bugge Wesseltoft. 30 år senere har drømmen blitt virkelighet.</itunes:summary>
+      <itunes:duration>1118</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EQGSrN6masN-u5XFnLgYQgk07hljeyODZsmvrdQyFUSQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Staut</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_7c40b2a8-7958-4f5d-80b2-a879587f5d97</link>
+      <description>Fra Valdres til stavkirka på Bygdøy. Staut er inspirert av folkemusikk, rock og country - men også Monty Python og Halldis Moren Vesaas.</description>
+      <guid isPermaLink="false">l_7c40b2a8-7958-4f5d-80b2-a879587f5d97</guid>
+      <pubDate>Tue, 05 Mar 2024 10:10:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/adf33b56-00f3-443c-985b-52fdcf883ad4_0_ID192MP3.mp3" type="audio/mpeg" length="22272237"></enclosure>
+      <itunes:title>Staut</itunes:title>
+      <itunes:summary>Fra Valdres til stavkirka på Bygdøy. Staut er inspirert av folkemusikk, rock og country - men også Monty Python og Halldis Moren Vesaas.</itunes:summary>
+      <itunes:duration>927</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fmI_BKx2c02qLqki6YrlpwXn7savMDu0g082OzVXP_kA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Marius Lien</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_baf86233-b241-4e3c-b862-33b2413e3ccc</link>
+      <description>Vi kommer nært på Norges nye bluesstjerne, Marius Lien, 24 år. Han tar med bandet sitt og holder konsert i sin og besteforeldrenes stue på Vormsund.</description>
+      <guid isPermaLink="false">l_baf86233-b241-4e3c-b862-33b2413e3ccc</guid>
+      <pubDate>Tue, 05 Mar 2024 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/e5b8c158-4dc0-4801-b36c-38a9c3af15af_0_ID192MP3.mp3" type="audio/mpeg" length="26227629"></enclosure>
+      <itunes:title>Marius Lien</itunes:title>
+      <itunes:summary>Vi kommer nært på Norges nye bluesstjerne, Marius Lien, 24 år. Han tar med bandet sitt og holder konsert i sin og besteforeldrenes stue på Vormsund.</itunes:summary>
+      <itunes:duration>1092</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xRTkZYRvEZkcUbrPcXguPgPEeyqDG84iZKt-_xnAM8dA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Beharie</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_36c01639-7b5a-43ab-8016-397b5ac3abf7</link>
+      <description>RnB/soul-artisten Beharie tar oss med inn i leiligheten sin på Bislett, der han også er vaktmester i bygården. &#xA;Her skriver han mange av låtene sine. </description>
+      <guid isPermaLink="false">l_36c01639-7b5a-43ab-8016-397b5ac3abf7</guid>
+      <pubDate>Fri, 09 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/1e54a6b3-2470-4a24-82e7-3e9c3257ea36_0_ID192MP3.mp3" type="audio/mpeg" length="21770541"></enclosure>
+      <itunes:title>Beharie</itunes:title>
+      <itunes:summary>RnB/soul-artisten Beharie tar oss med inn i leiligheten sin på Bislett, der han også er vaktmester i bygården. &#xA;Her skriver han mange av låtene sine. </itunes:summary>
+      <itunes:duration>907</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fYLbyXLzyrGiWxeYMNCeTgu2PawesJLIffXXM_1tlWWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Goylem Space Klezmer </title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_b51dd637-7262-478e-9dd6-377262278ea5</link>
+      <description>Fra Solobservatoriet på Harestua drømmer musikerne i Goylem Space Klezmer, sammen med dansere og kjemikere, om utvandring til verdensrommet.</description>
+      <guid isPermaLink="false">l_b51dd637-7262-478e-9dd6-377262278ea5</guid>
+      <pubDate>Fri, 02 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/9cba910d-71e2-4373-8073-380830962b9c_0_ID192MP3.mp3" type="audio/mpeg" length="25551405"></enclosure>
+      <itunes:title>Goylem Space Klezmer </itunes:title>
+      <itunes:summary>Fra Solobservatoriet på Harestua drømmer musikerne i Goylem Space Klezmer, sammen med dansere og kjemikere, om utvandring til verdensrommet.</itunes:summary>
+      <itunes:duration>1064</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5pr3JTn7DhSHaibvZWg19ASzgTXns8TukjKNO96DPwKg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nils Bech</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_89d0db19-6639-4b3e-90db-196639ab3ef5</link>
+      <description>På museet KODE synger Nils Bech om begjær og kjærlighet mellom menn, blant installasjonene til kunstneren Børre Sæthre.</description>
+      <guid isPermaLink="false">l_89d0db19-6639-4b3e-90db-196639ab3ef5</guid>
+      <pubDate>Fri, 26 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/c5976a15-7cde-43d8-a99c-7c479cd365ab_0_ID192MP3.mp3" type="audio/mpeg" length="19201581"></enclosure>
+      <itunes:title>Nils Bech</itunes:title>
+      <itunes:summary>På museet KODE synger Nils Bech om begjær og kjærlighet mellom menn, blant installasjonene til kunstneren Børre Sæthre.</itunes:summary>
+      <itunes:duration>799</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/A1JH3bQm9pZlxO8QdlvzkAeITZDfDBZsRp6JPgBXIXig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Selma French</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_ddbb9ffc-fc23-4802-bb9f-fcfc232802aa</link>
+      <description>Selma French har blitt kalt «musikk-Norges best bevarte hemmelighet». Sammen med bandet sitt spiller hun låter fra det kritikerroste debutalbumet.</description>
+      <guid isPermaLink="false">l_ddbb9ffc-fc23-4802-bb9f-fcfc232802aa</guid>
+      <pubDate>Fri, 19 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/6c694b4a-3a0a-4274-baca-4d78519e5e04_0_ID192MP3.mp3" type="audio/mpeg" length="21578733"></enclosure>
+      <itunes:title>Selma French</itunes:title>
+      <itunes:summary>Selma French har blitt kalt «musikk-Norges best bevarte hemmelighet». Sammen med bandet sitt spiller hun låter fra det kritikerroste debutalbumet.</itunes:summary>
+      <itunes:duration>899</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fjWEUXfawfzCNm_MhsdH6Qeg4bGa-TYoTJGUAR94x-QQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sudan Dudan</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_5eda3f7c-ce36-4866-9a3f-7cce36d86609</link>
+      <description>Et trekantdrama mellom ei jente, en baron og en zombie er ingrediensene i en av slåttene Sudan Dudan spiller på Oslo Maskinistforening i Vika i Oslo.</description>
+      <guid isPermaLink="false">l_5eda3f7c-ce36-4866-9a3f-7cce36d86609</guid>
+      <pubDate>Fri, 12 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/e2bcddc6-c706-4e9f-b493-089ed0e00562_0_ID192MP3.mp3" type="audio/mpeg" length="21972717"></enclosure>
+      <itunes:title>Sudan Dudan</itunes:title>
+      <itunes:summary>Et trekantdrama mellom ei jente, en baron og en zombie er ingrediensene i en av slåttene Sudan Dudan spiller på Oslo Maskinistforening i Vika i Oslo.</itunes:summary>
+      <itunes:duration>915</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ddFXMQftYxHLaFx_dhPZhA2WCKWADeNoEgQw_1JKMd7g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mall Girl</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_4d914f60-ff57-4a45-914f-60ff57fa456a</link>
+      <description>Endelig får Mall Girl spille på et kjøpesenter! Det blir en fargesprakende popeksplosjon, og en feiring av 90-tallets kjøpesenterestetikk.</description>
+      <guid isPermaLink="false">l_4d914f60-ff57-4a45-914f-60ff57fa456a</guid>
+      <pubDate>Fri, 05 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/a085ad00-5fca-4a6d-bf33-b8b3b5855bb4_0_ID192MP3.mp3" type="audio/mpeg" length="21788973"></enclosure>
+      <itunes:title>Mall Girl</itunes:title>
+      <itunes:summary>Endelig får Mall Girl spille på et kjøpesenter! Det blir en fargesprakende popeksplosjon, og en feiring av 90-tallets kjøpesenterestetikk.</itunes:summary>
+      <itunes:duration>907</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iJc6-pQMRr-8m7e4EIk3Iw3FhXC26wlGkJZXZXNsNm4A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jul 2023</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_6d826fed-5d6e-40bb-826f-ed5d6e90bbfb</link>
+      <description>Sivert Høyem, SKAAR og Fay Wildhagen serverer juleklassikere, og Inge Bremnes m/band spiller Snøfall-hiten &#34;Mot lys&#34; i ny drakt.</description>
+      <guid isPermaLink="false">l_6d826fed-5d6e-40bb-826f-ed5d6e90bbfb</guid>
+      <pubDate>Sat, 23 Dec 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/b0c0b6e7-7fb0-4434-8d0c-b7ee314d8bab_0_ID192MP3.mp3" type="audio/mpeg" length="15281325"></enclosure>
+      <itunes:title>Jul 2023</itunes:title>
+      <itunes:summary>Sivert Høyem, SKAAR og Fay Wildhagen serverer juleklassikere, og Inge Bremnes m/band spiller Snøfall-hiten &#34;Mot lys&#34; i ny drakt.</itunes:summary>
+      <itunes:duration>636</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/J-yYD4RLwlXSWIngIgnNvgVoyeDtRrYh5A2Rv-m7PPpA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Moddi</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_ff8f6b42-6b08-4caa-8f6b-426b08dcaa10</link>
+      <description>Moddi går fra hektisk juleshopping på Karl Johans gate og inn på puben Scotsman i Oslo. Der blir det nordnorsk jul.</description>
+      <guid isPermaLink="false">l_ff8f6b42-6b08-4caa-8f6b-426b08dcaa10</guid>
+      <pubDate>Fri, 15 Dec 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/25c3d683-bd26-4119-bd7c-e6139ae98c31_0_ID192MP3.mp3" type="audio/mpeg" length="17252397"></enclosure>
+      <itunes:title>Moddi</itunes:title>
+      <itunes:summary>Moddi går fra hektisk juleshopping på Karl Johans gate og inn på puben Scotsman i Oslo. Der blir det nordnorsk jul.</itunes:summary>
+      <itunes:duration>718</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Q-F9ADeGMF9zHROmbYfRiQ3u53jfsJpDKndbgYDdq35Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Makosir</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_efc22645-5745-4c9b-8226-455745dc9bab</link>
+      <description>Makosir tar oss med på en musikalsk reise fra ungdomstiden sin. Bli med på toget fra hjemstedet Holmlia, inn til Oslo S og til St. Sunniva skole.</description>
+      <guid isPermaLink="false">l_efc22645-5745-4c9b-8226-455745dc9bab</guid>
+      <pubDate>Fri, 08 Dec 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/a3fda193-7559-435b-bbdf-f080ab21a938_0_ID192MP3.mp3" type="audio/mpeg" length="17884845"></enclosure>
+      <itunes:title>Makosir</itunes:title>
+      <itunes:summary>Makosir tar oss med på en musikalsk reise fra ungdomstiden sin. Bli med på toget fra hjemstedet Holmlia, inn til Oslo S og til St. Sunniva skole.</itunes:summary>
+      <itunes:duration>745</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OjMVjT_Qgei5lO6I2d4EAQ3UhESf2KOUnZbZtm1O8Zvg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Oslo strykekvartett</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_f83ed460-37c5-4409-bed4-6037c56409e8</link>
+      <description>Internasjonalt anerkjente Oslo strykekvartett spiller norske klassikere, Beethoven og et av de vanskeligste stykkene de noensinne har fremført.</description>
+      <guid isPermaLink="false">l_f83ed460-37c5-4409-bed4-6037c56409e8</guid>
+      <pubDate>Fri, 01 Dec 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/fbbbadeb-768d-436d-8681-be4bc241845b_0_ID192MP3.mp3" type="audio/mpeg" length="21359277"></enclosure>
+      <itunes:title>Oslo strykekvartett</itunes:title>
+      <itunes:summary>Internasjonalt anerkjente Oslo strykekvartett spiller norske klassikere, Beethoven og et av de vanskeligste stykkene de noensinne har fremført.</itunes:summary>
+      <itunes:duration>889</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/W6Pe0CxDHaXQGwb79AOa2whKxGf_PanSAZDC6f5dIexg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kaizers Orchestra </title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_d2c56dd0-f477-460b-856d-d0f477260b7d</link>
+      <description>Kaizers Orchestra solgte ut 56 konserter i fire byer på 14 minutter. Halvveis i turnéen gir de 100 fans en overraskelse på Sentrum Scene i Oslo.</description>
+      <guid isPermaLink="false">l_d2c56dd0-f477-460b-856d-d0f477260b7d</guid>
+      <pubDate>Fri, 24 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/56d88d1a-0903-47ab-ad48-1900a3435957_0_ID192MP3.mp3" type="audio/mpeg" length="27471213"></enclosure>
+      <itunes:title>Kaizers Orchestra </itunes:title>
+      <itunes:summary>Kaizers Orchestra solgte ut 56 konserter i fire byer på 14 minutter. Halvveis i turnéen gir de 100 fans en overraskelse på Sentrum Scene i Oslo.</itunes:summary>
+      <itunes:duration>1144</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VMOYfN0pZTe0pfVm1e6oKwmMVS5KGybS_5pFXIw0g6ng"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title> han gaiden</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_28cbcaca-e425-46af-8bca-cae425c6afcc</link>
+      <description>Det unge trekløveret i han gaiden, tilhørende Oslos elektronikaundergrunn, byr på vokalharmonier, dansbare beats, improvisasjon og drømmende saksofon.</description>
+      <guid isPermaLink="false">l_28cbcaca-e425-46af-8bca-cae425c6afcc</guid>
+      <pubDate>Fri, 17 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/08202408-67b0-44bf-a7e9-d7ff25750a2d_0_ID192MP3.mp3" type="audio/mpeg" length="18985005"></enclosure>
+      <itunes:title> han gaiden</itunes:title>
+      <itunes:summary>Det unge trekløveret i han gaiden, tilhørende Oslos elektronikaundergrunn, byr på vokalharmonier, dansbare beats, improvisasjon og drømmende saksofon.</itunes:summary>
+      <itunes:duration>790</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/P7JFuQqcg_yJnTo8QgPjWQ3GzKuVwOrfK8pnBxehkreQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ricochets</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_d77476e6-1513-479b-b476-e61513f79b17</link>
+      <description>Kjærlighet til musikken er drivkraften når Ricochets igjen spiller sammen, i de nedlagte verkstedhallene på Kråkerøy, ikke det å være rockestjerner.</description>
+      <guid isPermaLink="false">l_d77476e6-1513-479b-b476-e61513f79b17</guid>
+      <pubDate>Fri, 10 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/10c3486e-0148-4d69-b98e-a15bf9c05f13_0_ID192MP3.mp3" type="audio/mpeg" length="24994989"></enclosure>
+      <itunes:title>Ricochets</itunes:title>
+      <itunes:summary>Kjærlighet til musikken er drivkraften når Ricochets igjen spiller sammen, i de nedlagte verkstedhallene på Kråkerøy, ikke det å være rockestjerner.</itunes:summary>
+      <itunes:duration>1041</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Pj_bPNYbIw84EOB640ZRtAPiOmqyQ9i64aMz3csa-PZA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tora Dahle Aagård</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_c2af13df-3ef7-4a93-af13-df3ef75a933b</link>
+      <description>Tora Dahle Aagård droppet ut av studiene for å satse alt på musikken. Hun tar oss med dit vendepunktet fant sted; Studentersamfundet i Trondheim.</description>
+      <guid isPermaLink="false">l_c2af13df-3ef7-4a93-af13-df3ef75a933b</guid>
+      <pubDate>Fri, 27 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/971e11ad-8073-456e-a7e4-a41950b7733c_0_ID192MP3.mp3" type="audio/mpeg" length="20836269"></enclosure>
+      <itunes:title>Tora Dahle Aagård</itunes:title>
+      <itunes:summary>Tora Dahle Aagård droppet ut av studiene for å satse alt på musikken. Hun tar oss med dit vendepunktet fant sted; Studentersamfundet i Trondheim.</itunes:summary>
+      <itunes:duration>868</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SriDkrtfwWRxNxyKc_wyEQLd7W8B-vj_LX7i8aZY0Hfg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Chris Holsten</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_e4dc0faf-d1bc-4525-9c0f-afd1bc1525a9</link>
+      <description>Fotballkamper på Åråsen var det som fikk hjertet til å slå hos Chris Holsten som ungdom. Chris og bandet inviterer til intim stadionkonsert.</description>
+      <guid isPermaLink="false">l_e4dc0faf-d1bc-4525-9c0f-afd1bc1525a9</guid>
+      <pubDate>Fri, 20 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/a961320d-bc2e-4d00-960b-ba01596d5200_0_ID192MP3.mp3" type="audio/mpeg" length="25554285"></enclosure>
+      <itunes:title>Chris Holsten</itunes:title>
+      <itunes:summary>Fotballkamper på Åråsen var det som fikk hjertet til å slå hos Chris Holsten som ungdom. Chris og bandet inviterer til intim stadionkonsert.</itunes:summary>
+      <itunes:duration>1064</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2ShsIRgA8KCeLNyFqSYpfAT1FBA4FIrwuWXWNnyTIJzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>NRK-scenen: Signe Marie Rustad</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_abb39a1d-dcae-43b8-b39a-1ddcae13b845</link>
+      <description>Avisene trillet seksere for Signe Marie Rustads siste album. Bli med til familiegården på Elverum der hun henter inspirasjon til sin tidløse folkrock</description>
+      <guid isPermaLink="false">l_abb39a1d-dcae-43b8-b39a-1ddcae13b845</guid>
+      <pubDate>Fri, 13 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/47c69f3b-6d00-47b6-a130-3663963de675_0_ID192MP3.mp3" type="audio/mpeg" length="23809581"></enclosure>
+      <itunes:title>NRK-scenen: Signe Marie Rustad</itunes:title>
+      <itunes:summary>Avisene trillet seksere for Signe Marie Rustads siste album. Bli med til familiegården på Elverum der hun henter inspirasjon til sin tidløse folkrock</itunes:summary>
+      <itunes:duration>991</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LYo_Z5DZyh5VG6HctDucJwS1fCF4z0szyxD1_0tl7Z3g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Beist </title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_5e594a73-9655-4c7e-994a-7396551c7e60</link>
+      <description>Spinnvill humor og hjerteskjærende ærlighet er stikkord for Beist. I hjembygda Fannrem byr de på hits både i snekkerbua og i garasjen.</description>
+      <guid isPermaLink="false">l_5e594a73-9655-4c7e-994a-7396551c7e60</guid>
+      <pubDate>Fri, 06 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/6c247dd0-676b-438c-9aae-7f890aa7dbe6_0_ID192MP3.mp3" type="audio/mpeg" length="20070189"></enclosure>
+      <itunes:title>Beist </itunes:title>
+      <itunes:summary>Spinnvill humor og hjerteskjærende ærlighet er stikkord for Beist. I hjembygda Fannrem byr de på hits både i snekkerbua og i garasjen.</itunes:summary>
+      <itunes:duration>836</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7zIcw4S1xntJevKLvn-LcADEhqsF6J-a6eMiZHsOXkHQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>NRK-scenen: Niilas</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_fd5223ba-3393-4a01-9223-ba33936a0135</link>
+      <description>Elektronikaartisten Niilas henter inspirasjon fra sin samiske bakgrunn. Han tar oss med til Kistefos museum der natur møter moderne kunst.</description>
+      <guid isPermaLink="false">l_fd5223ba-3393-4a01-9223-ba33936a0135</guid>
+      <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/fedfc0de-02a7-41af-b6f0-b7e2382e3094_0_ID192MP3.mp3" type="audio/mpeg" length="27341037"></enclosure>
+      <itunes:title>NRK-scenen: Niilas</itunes:title>
+      <itunes:summary>Elektronikaartisten Niilas henter inspirasjon fra sin samiske bakgrunn. Han tar oss med til Kistefos museum der natur møter moderne kunst.</itunes:summary>
+      <itunes:duration>1139</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VrlHnxB1_t2AhHxt7drNWgbpvB9qEdOM5RybMMgn8-rw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Urørtfinalister 2023</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_622d170f-8a3b-4916-ad17-0f8a3bc916f5</link>
+      <description>Opplev årets tre Urørtfinalister samlet for aller første gang. Han Herman, Hillari og the Milky Way.</description>
+      <guid isPermaLink="false">l_622d170f-8a3b-4916-ad17-0f8a3bc916f5</guid>
+      <pubDate>Fri, 22 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/3a8cff81-7250-46ac-9277-5a536c1e7572_0_ID192MP3.mp3" type="audio/mpeg" length="18027693"></enclosure>
+      <itunes:title>Urørtfinalister 2023</itunes:title>
+      <itunes:summary>Opplev årets tre Urørtfinalister samlet for aller første gang. Han Herman, Hillari og the Milky Way.</itunes:summary>
+      <itunes:duration>751</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fj_lPNNGERMUgZRslbqNig2eRPBYU2jeEiNocrMReS7w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Metteson</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_6d4e4744-25c0-4e90-8e47-4425c05e90dd</link>
+      <description>Metteson slipper sin helt nye låt, &#34;Naturally&#34;, her i NRK-scenen. Stjerneskuddet byr også på unike versjoner av gamle hit&#39;er, som &#34;Never Let Me Go&#34;.</description>
+      <guid isPermaLink="false">l_6d4e4744-25c0-4e90-8e47-4425c05e90dd</guid>
+      <pubDate>Fri, 30 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/2657958c-36eb-4a08-9707-93998676fcfc_0_ID192MP3.mp3" type="audio/mpeg" length="24884973"></enclosure>
+      <itunes:title>Metteson</itunes:title>
+      <itunes:summary>Metteson slipper sin helt nye låt, &#34;Naturally&#34;, her i NRK-scenen. Stjerneskuddet byr også på unike versjoner av gamle hit&#39;er, som &#34;Never Let Me Go&#34;.</itunes:summary>
+      <itunes:duration>1036</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VeLq6sIL_V96cs-kxqSegwS-bxSc7uRXf3hj00XmADnQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Åsbjørg Ryeng/Tango Concertino</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_c9dc5d3f-6a95-4a09-9c5d-3f6a955a093a</link>
+      <description>Åsbjørg Ryeng er virtuos på det argentinske trekkspillet bandoneon, og inviterer til forrykende tango i hjembyen Trondheim.</description>
+      <guid isPermaLink="false">l_c9dc5d3f-6a95-4a09-9c5d-3f6a955a093a</guid>
+      <pubDate>Fri, 23 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/3506184a-7074-4b15-bbd0-2658e66e2ec8_0_ID192MP3.mp3" type="audio/mpeg" length="20346093"></enclosure>
+      <itunes:title>Åsbjørg Ryeng/Tango Concertino</itunes:title>
+      <itunes:summary>Åsbjørg Ryeng er virtuos på det argentinske trekkspillet bandoneon, og inviterer til forrykende tango i hjembyen Trondheim.</itunes:summary>
+      <itunes:duration>847</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nrcnmCSbDiA0TNRSOtGWCgHtm9BNOhY0sB_MJ2UA1-6A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Matata</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_70996fc1-b037-4919-996f-c1b037091952</link>
+      <description>Full fart, dans og humor er oppskriften for Matata, som består av kenyanere som tilfeldigvis møttes i Oslo. Bli kjent med kenyansk gengeton.</description>
+      <guid isPermaLink="false">l_70996fc1-b037-4919-996f-c1b037091952</guid>
+      <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/9b0cb73c-b32b-4e63-8faf-a5321a07a12f_0_ID192MP3.mp3" type="audio/mpeg" length="24819309"></enclosure>
+      <itunes:title>Matata</itunes:title>
+      <itunes:summary>Full fart, dans og humor er oppskriften for Matata, som består av kenyanere som tilfeldigvis møttes i Oslo. Bli kjent med kenyansk gengeton.</itunes:summary>
+      <itunes:duration>1034</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MO8CGxhV9YS7UiXCSSZCvg1t2Fjr_c516FlJNObaEzpw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Solveig Slettahjell</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_d4733a68-b062-4d5f-b33a-68b062ed5f5d</link>
+      <description>Sangene på Solveig Slettahjells nye plate er inspirert av havet. Derfor ble vakre Hvalstrand bad et naturlig sted å holde konsert.</description>
+      <guid isPermaLink="false">l_d4733a68-b062-4d5f-b33a-68b062ed5f5d</guid>
+      <pubDate>Fri, 09 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/56daf398-cbc4-43cd-8112-6a04638b4d1d_0_ID192MP3.mp3" type="audio/mpeg" length="22443885"></enclosure>
+      <itunes:title>Solveig Slettahjell</itunes:title>
+      <itunes:summary>Sangene på Solveig Slettahjells nye plate er inspirert av havet. Derfor ble vakre Hvalstrand bad et naturlig sted å holde konsert.</itunes:summary>
+      <itunes:duration>935</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kiFsrmcmf1W-rWv6p6HlSQCT3orjDp3Vp3hlRNpZ1A2A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ingrid Jasmin</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_a00bea41-6b35-4a64-8bea-416b35ca645b</link>
+      <description>Med røtter i Norge og Costa Rica har Ingrid Jasmin skapt en musikkstil med elementer fra mange deler av verden. Det ga henne nylig en Spellemannpris.</description>
+      <guid isPermaLink="false">l_a00bea41-6b35-4a64-8bea-416b35ca645b</guid>
+      <pubDate>Fri, 02 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/9c797a6f-f575-48af-adc5-d8759cb62f9a_0_ID192MP3.mp3" type="audio/mpeg" length="23277357"></enclosure>
+      <itunes:title>Ingrid Jasmin</itunes:title>
+      <itunes:summary>Med røtter i Norge og Costa Rica har Ingrid Jasmin skapt en musikkstil med elementer fra mange deler av verden. Det ga henne nylig en Spellemannpris.</itunes:summary>
+      <itunes:duration>969</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZUdCUwpqG9zDlggeSvw5IAj2AqTd2cP72zH2l2VX2Kng"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bigbang</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_9fa9daf2-2d6e-437e-a9da-f22d6e037eb0</link>
+      <description>Øystein Greni og Bigbang inviterer til minikonsert i det de mener er et av verdens beste lydstudioer – Frelsesarmeen Templet i Oslo.</description>
+      <guid isPermaLink="false">l_9fa9daf2-2d6e-437e-a9da-f22d6e037eb0</guid>
+      <pubDate>Fri, 26 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/f352f275-ab31-45ed-a91d-e66a81d0d747_0_ID192MP3.mp3" type="audio/mpeg" length="27614061"></enclosure>
+      <itunes:title>Bigbang</itunes:title>
+      <itunes:summary>Øystein Greni og Bigbang inviterer til minikonsert i det de mener er et av verdens beste lydstudioer – Frelsesarmeen Templet i Oslo.</itunes:summary>
+      <itunes:duration>1150</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dO0yE3wZi2rTvOKCfH_GmQ-j14eHX8sEMpMXDZC1JbIw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tigerstate</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_e1b1a8a6-0e8e-43c3-b1a8-a60e8ed3c35d</link>
+      <description>Disco og retro-pop er stikkord for kollektivet Tigerstate. I sommer spiller de på Øya, men først skaper de jungelstemning i NRKs radioteater.</description>
+      <guid isPermaLink="false">l_e1b1a8a6-0e8e-43c3-b1a8-a60e8ed3c35d</guid>
+      <pubDate>Fri, 19 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/505fc319-52be-4dae-b95d-51ac260cb285_0_ID192MP3.mp3" type="audio/mpeg" length="26216109"></enclosure>
+      <itunes:title>Tigerstate</itunes:title>
+      <itunes:summary>Disco og retro-pop er stikkord for kollektivet Tigerstate. I sommer spiller de på Øya, men først skaper de jungelstemning i NRKs radioteater.</itunes:summary>
+      <itunes:duration>1092</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p-p45Y-03roUfu_swrorFgcL0vYCSlxU5_Np9GbCHlRg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kanaan</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_10c6533e-4c59-4fa9-8653-3e4c597fa9bd</link>
+      <description>Det blir hard improvisert rock i vakre omgivelser når Spellemannvinneren, Kanaan, fra 2021 inntar det nedlagte Museet for samtidskunst i Oslo.</description>
+      <guid isPermaLink="false">l_10c6533e-4c59-4fa9-8653-3e4c597fa9bd</guid>
+      <pubDate>Fri, 05 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/e30e177c-95f3-4a52-9d3a-3c6366a17e55_0_ID192MP3.mp3" type="audio/mpeg" length="22339053"></enclosure>
+      <itunes:title>Kanaan</itunes:title>
+      <itunes:summary>Det blir hard improvisert rock i vakre omgivelser når Spellemannvinneren, Kanaan, fra 2021 inntar det nedlagte Museet for samtidskunst i Oslo.</itunes:summary>
+      <itunes:duration>930</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/d2tWtFYTbU-47itNgkUHxQibdrS6-_rNcEKTLQahDAmg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ingrid Olava</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_c6a787cc-01c2-4412-a787-cc01c2f41268</link>
+      <description>Ingrid Olava tar oss med til skrivestua si i hagen, der hun har skrevet sitt første album på norsk. Hennes mest personlige til nå.</description>
+      <guid isPermaLink="false">l_c6a787cc-01c2-4412-a787-cc01c2f41268</guid>
+      <pubDate>Fri, 28 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/c77c33a4-3ccf-4cbc-ad43-fd82fb5500c0_0_ID192MP3.mp3" type="audio/mpeg" length="20049453"></enclosure>
+      <itunes:title>Ingrid Olava</itunes:title>
+      <itunes:summary>Ingrid Olava tar oss med til skrivestua si i hagen, der hun har skrevet sitt første album på norsk. Hennes mest personlige til nå.</itunes:summary>
+      <itunes:duration>835</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/q8XVLd-msSlOnx1I1TFY4wDI0cjeibG01KE64ErPr9VQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Marius Neset</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_8c5895a2-2bd3-43a4-9895-a22bd3f3a433</link>
+      <description>Saksofonisten fra Os har stor suksess på den internasjonale jazzscenen. Men rakk en spesial for NRK-scenen på Cosmopolite i Oslo.</description>
+      <guid isPermaLink="false">l_8c5895a2-2bd3-43a4-9895-a22bd3f3a433</guid>
+      <pubDate>Fri, 21 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/1f868cdc-40d6-465a-9bd0-f810ac49e3fd_0_ID192MP3.mp3" type="audio/mpeg" length="22909869"></enclosure>
+      <itunes:title>Marius Neset</itunes:title>
+      <itunes:summary>Saksofonisten fra Os har stor suksess på den internasjonale jazzscenen. Men rakk en spesial for NRK-scenen på Cosmopolite i Oslo.</itunes:summary>
+      <itunes:duration>954</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/twAUCERAEyz4cCGEZyJg4gTTIvOTtOfSFIMbHhUTSadg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Maja S.K. Ratkje og Stian Westerhus</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_056093d2-bf33-400b-a093-d2bf33d00b9e</link>
+      <description>Duoen Ratkje/Westerhus mener Det Gamle Steinhuset på Gran er perfekt for radikale Shakespeare-tekster og støvete instrumenter.</description>
+      <guid isPermaLink="false">l_056093d2-bf33-400b-a093-d2bf33d00b9e</guid>
+      <pubDate>Fri, 07 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/1aa7516f-0a91-4ed2-9077-ebc9478b7612_0_ID192MP3.mp3" type="audio/mpeg" length="24831981"></enclosure>
+      <itunes:title>Maja S.K. Ratkje og Stian Westerhus</itunes:title>
+      <itunes:summary>Duoen Ratkje/Westerhus mener Det Gamle Steinhuset på Gran er perfekt for radikale Shakespeare-tekster og støvete instrumenter.</itunes:summary>
+      <itunes:duration>1034</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bffN6YrjoFQmY1kChg3bCAQRSBAUPqfvNoL-KKcTQNUA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>brenn.</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_ce181e6a-c845-4a62-981e-6ac845ca6245</link>
+      <description>Den hardtslående duoen har tatt med bandet for å gjøre en konsert der det hele startet, nemlig på Lillestrøm videregående skole.</description>
+      <guid isPermaLink="false">l_ce181e6a-c845-4a62-981e-6ac845ca6245</guid>
+      <pubDate>Fri, 24 Mar 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/d9ec52a1-4034-407a-a046-a36a3e68468e_0_ID192MP3.mp3" type="audio/mpeg" length="24561837"></enclosure>
+      <itunes:title>brenn.</itunes:title>
+      <itunes:summary>Den hardtslående duoen har tatt med bandet for å gjøre en konsert der det hele startet, nemlig på Lillestrøm videregående skole.</itunes:summary>
+      <itunes:duration>1023</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tereoheFb9uadVur0Xrz0QZ6hfrLCvfZo-RqQM0U7RvQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Charlotte Dos Santos</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_3493ac62-927b-469c-93ac-62927b969c42</link>
+      <description>Musikk og kunst er to sider av samme sak for Spellemann-nominerte Charlotte Dos Santos. Derfor inviterer hun til konsert på Henie Onstad Kunstsenter.</description>
+      <guid isPermaLink="false">l_3493ac62-927b-469c-93ac-62927b969c42</guid>
+      <pubDate>Fri, 17 Mar 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/f3fac468-d11e-4152-913a-58e8a0106fd4_0_ID192MP3.mp3" type="audio/mpeg" length="25481133"></enclosure>
+      <itunes:title>Charlotte Dos Santos</itunes:title>
+      <itunes:summary>Musikk og kunst er to sider av samme sak for Spellemann-nominerte Charlotte Dos Santos. Derfor inviterer hun til konsert på Henie Onstad Kunstsenter.</itunes:summary>
+      <itunes:duration>1061</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SbxtWEVA_3UVYmxFbH-e3QaUzUinSQcIcxWVrHb7727A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hilde Louise Asbjørnsen</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_cfe940b2-1ce5-4a13-a940-b21ce5aa13d0</link>
+      <description>Det var her hun gjorde sin første plateinnspilling i 2004, og siden har Hilde Louise Asbjørnsen stadig vendt tilbake til Musikkloftet i Asker.</description>
+      <guid isPermaLink="false">l_cfe940b2-1ce5-4a13-a940-b21ce5aa13d0</guid>
+      <pubDate>Fri, 10 Mar 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/23f58ddf-bb21-4f0a-b838-62faf29c12b2_0_ID192MP3.mp3" type="audio/mpeg" length="23472621"></enclosure>
+      <itunes:title>Hilde Louise Asbjørnsen</itunes:title>
+      <itunes:summary>Det var her hun gjorde sin første plateinnspilling i 2004, og siden har Hilde Louise Asbjørnsen stadig vendt tilbake til Musikkloftet i Asker.</itunes:summary>
+      <itunes:duration>977</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NTR97eHr6TzKlVyAdcg7JgUmNs0zagu1s0xAhLWNhbvQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Miss Tati</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_d2d0f127-cf0d-422c-90f1-27cf0d922c6b</link>
+      <description>11. november 1996 kom Tatiana til Norge for første gang. Sammen med moren og søsteren tok de Englandsbåten til Skoltegrunnskaien. Nå er hun tilbake.</description>
+      <guid isPermaLink="false">l_d2d0f127-cf0d-422c-90f1-27cf0d922c6b</guid>
+      <pubDate>Fri, 03 Mar 2023 06:19:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/31b89fda-8cdf-4a5e-bdd7-3bdab1227a87_0_ID192MP3.mp3" type="audio/mpeg" length="22770477"></enclosure>
+      <itunes:title>Miss Tati</itunes:title>
+      <itunes:summary>11. november 1996 kom Tatiana til Norge for første gang. Sammen med moren og søsteren tok de Englandsbåten til Skoltegrunnskaien. Nå er hun tilbake.</itunes:summary>
+      <itunes:duration>948</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EsZITJ8FT0Q7mWkVRixilg9PsFV3p2IJ9gJRzoT3CcRQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lars Vaular</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_586d1897-2cde-4717-ad18-972cde97170c</link>
+      <description>Lars fikk øvingsrom på Bergen Kjøtt da det ble omgjort til et kunst- og musikkhus i 2010. Han tar med seg gode venner hit til en intim hiphopkonsert.</description>
+      <guid isPermaLink="false">l_586d1897-2cde-4717-ad18-972cde97170c</guid>
+      <pubDate>Fri, 03 Mar 2023 06:18:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/7194fcfc-1156-40ac-b3e9-2481ef1fe2c8_0_ID192MP3.mp3" type="audio/mpeg" length="22004397"></enclosure>
+      <itunes:title>Lars Vaular</itunes:title>
+      <itunes:summary>Lars fikk øvingsrom på Bergen Kjøtt da det ble omgjort til et kunst- og musikkhus i 2010. Han tar med seg gode venner hit til en intim hiphopkonsert.</itunes:summary>
+      <itunes:duration>916</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YDgglmDhZ-EutORwNRKKGAY_1GdjsX77tQ-RTZCfU0dQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Alexander Aga Røynstrand</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_04d6b294-7f16-4b53-96b2-947f162b537b</link>
+      <description>Han er tømmerbilsjåfør og hardingfelespellemann, og tar oss med til Granvin i Hardanger der hviletid blir brukt som spilletid.</description>
+      <guid isPermaLink="false">l_04d6b294-7f16-4b53-96b2-947f162b537b</guid>
+      <pubDate>Fri, 03 Mar 2023 06:17:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/23fd540b-34e8-4bf3-8b96-ef652933d444_0_ID192MP3.mp3" type="audio/mpeg" length="21510765"></enclosure>
+      <itunes:title>Alexander Aga Røynstrand</itunes:title>
+      <itunes:summary>Han er tømmerbilsjåfør og hardingfelespellemann, og tar oss med til Granvin i Hardanger der hviletid blir brukt som spilletid.</itunes:summary>
+      <itunes:duration>896</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hWqWdpXmw9t-UBaIUK7KRQhqZrxntH5qG68s_DoVDLfQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gundelach</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_224323d8-d651-4a80-8323-d8d651aa807f</link>
+      <description>Gundelach er nominert til Spellemann tre ganger. Bli med til gutterommet på Slependen i Bærum der han laget sin første musikk.</description>
+      <guid isPermaLink="false">l_224323d8-d651-4a80-8323-d8d651aa807f</guid>
+      <pubDate>Fri, 03 Mar 2023 06:16:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/82354c65-0183-4eb3-be0e-d529ecd6822a_0_ID192MP3.mp3" type="audio/mpeg" length="24991533"></enclosure>
+      <itunes:title>Gundelach</itunes:title>
+      <itunes:summary>Gundelach er nominert til Spellemann tre ganger. Bli med til gutterommet på Slependen i Bærum der han laget sin første musikk.</itunes:summary>
+      <itunes:duration>1041</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dGnVYJMwMFs7zxwcWOrWnQsfpDtF5Np8sWMd1yzlLeAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>The Northern Belle</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_477b532a-5676-487e-bb53-2a5676187e1a</link>
+      <description>The Northern Belle fikk i 2017 bruke Konserthusets Lille Sal til å spille inn plate. Her er en intimkonsert fra samme rom.</description>
+      <guid isPermaLink="false">l_477b532a-5676-487e-bb53-2a5676187e1a</guid>
+      <pubDate>Fri, 03 Mar 2023 06:15:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/c7954a72-1bb7-4ef5-bc03-d92a4a78e88a_0_ID192MP3.mp3" type="audio/mpeg" length="23947821"></enclosure>
+      <itunes:title>The Northern Belle</itunes:title>
+      <itunes:summary>The Northern Belle fikk i 2017 bruke Konserthusets Lille Sal til å spille inn plate. Her er en intimkonsert fra samme rom.</itunes:summary>
+      <itunes:duration>997</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/W-u2twDOHFUdqtCNa_kBNg2z41jUrg9PA9DXM5pvTDXg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>By:Larm sessions 2022 - del 2</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_9defce64-2853-48f5-afce-642853c8f5c7</link>
+      <description>I denne spesialsendingen fra NRK-scenen får du oppleve noen av Norges mest lovende artister fra by:Larm 2022: Katarina Barruk, Sei Selina og Slomosa.</description>
+      <guid isPermaLink="false">l_9defce64-2853-48f5-afce-642853c8f5c7</guid>
+      <pubDate>Fri, 03 Mar 2023 06:14:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/ab808770-d818-4e5f-b029-6862cadb3327_0_ID192MP3.mp3" type="audio/mpeg" length="16801965"></enclosure>
+      <itunes:title>By:Larm sessions 2022 - del 2</itunes:title>
+      <itunes:summary>I denne spesialsendingen fra NRK-scenen får du oppleve noen av Norges mest lovende artister fra by:Larm 2022: Katarina Barruk, Sei Selina og Slomosa.</itunes:summary>
+      <itunes:duration>700</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x0ug_GlI_W79paiiauj9FwpDfvKauMGCCmkmwZzcXiAg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>By:Larm sessions 2022 - del 1</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_badc50b3-517d-466e-9c50-b3517df66e1e</link>
+      <description>I denne spesialsendingen fra NRK-scenen får du oppleve noen av Norges mest lovende artister fra by:Larm 2022: Ævestaden, Makosir og Utflod.</description>
+      <guid isPermaLink="false">l_badc50b3-517d-466e-9c50-b3517df66e1e</guid>
+      <pubDate>Fri, 03 Mar 2023 06:13:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/01a38586-8b1d-4e78-ab77-e83a41f68c27_0_ID192MP3.mp3" type="audio/mpeg" length="19189485"></enclosure>
+      <itunes:title>By:Larm sessions 2022 - del 1</itunes:title>
+      <itunes:summary>I denne spesialsendingen fra NRK-scenen får du oppleve noen av Norges mest lovende artister fra by:Larm 2022: Ævestaden, Makosir og Utflod.</itunes:summary>
+      <itunes:duration>799</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R1AlQrbffx-ABoNR7IhjOgjsZisK8qDlFhkGbm8sUKUw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Thomas Dybdahl</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_f5f82414-3572-4999-b824-1435723999a0</link>
+      <description>Selv med mange store turneer bak seg, var det skummelt å entre scenen i Operaen for første gang, i 2014. Dybdahl gir oss en konsert i kulissene.</description>
+      <guid isPermaLink="false">l_f5f82414-3572-4999-b824-1435723999a0</guid>
+      <pubDate>Fri, 03 Mar 2023 06:12:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/51138482-0338-4afb-8409-dc6fcc086798_0_ID192MP3.mp3" type="audio/mpeg" length="23730093"></enclosure>
+      <itunes:title>Thomas Dybdahl</itunes:title>
+      <itunes:summary>Selv med mange store turneer bak seg, var det skummelt å entre scenen i Operaen for første gang, i 2014. Dybdahl gir oss en konsert i kulissene.</itunes:summary>
+      <itunes:duration>988</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qQOQl1gW5OmD55T3J4Tw6wtoC-KYe5Z1i2cdBVloDNgQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>ISÁK</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_2d2aa9a9-17b1-4792-aaa9-a917b127922a</link>
+      <description>Som barn lærte Ella Marie at man ikke skulle joike i kirken. Nå får hun endelig muligheten i Haslum Kirke.</description>
+      <guid isPermaLink="false">l_2d2aa9a9-17b1-4792-aaa9-a917b127922a</guid>
+      <pubDate>Fri, 03 Mar 2023 06:11:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/8c6a99b8-f528-4ba4-9318-b71beff25fad_0_ID192MP3.mp3" type="audio/mpeg" length="21685293"></enclosure>
+      <itunes:title>ISÁK</itunes:title>
+      <itunes:summary>Som barn lærte Ella Marie at man ikke skulle joike i kirken. Nå får hun endelig muligheten i Haslum Kirke.</itunes:summary>
+      <itunes:duration>903</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zWdfmU8KIlBi8CDbWV8y1wuTWJRvw3A4zt7PZQal6qXw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title> Sonoko Miriam Welde</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_e550e5cf-7cb0-43e5-90e5-cf7cb0a3e5d0</link>
+      <description>Sonoko Miriam Welde har norsk far og japansk mor. Når hun turnerer verden rundt med sin fiolin, er det sushi-restaurantene som føles som «hjemme».</description>
+      <guid isPermaLink="false">l_e550e5cf-7cb0-43e5-90e5-cf7cb0a3e5d0</guid>
+      <pubDate>Fri, 03 Mar 2023 06:10:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/2b196d40-fce9-4ad4-8e4d-28e5915262a9_0_ID192MP3.mp3" type="audio/mpeg" length="25980525"></enclosure>
+      <itunes:title> Sonoko Miriam Welde</itunes:title>
+      <itunes:summary>Sonoko Miriam Welde har norsk far og japansk mor. Når hun turnerer verden rundt med sin fiolin, er det sushi-restaurantene som føles som «hjemme».</itunes:summary>
+      <itunes:duration>1082</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1Ic2HjsSXaVuGOnrJ5rVgAUgviUtB652c-6TvloCvQ1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Små Grå</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_b7b069b8-8c9f-43a9-b069-b88c9fd3a96f</link>
+      <description>De snakker, danser og synger – om hverandre. Små Grå inviterer til en konsertopplevelse langt utenom det vanlige.</description>
+      <guid isPermaLink="false">l_b7b069b8-8c9f-43a9-b069-b88c9fd3a96f</guid>
+      <pubDate>Fri, 03 Mar 2023 06:09:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/73627e35-a09a-4c83-94ec-e76729fc66bb_0_ID192MP3.mp3" type="audio/mpeg" length="20467053"></enclosure>
+      <itunes:title>Små Grå</itunes:title>
+      <itunes:summary>De snakker, danser og synger – om hverandre. Små Grå inviterer til en konsertopplevelse langt utenom det vanlige.</itunes:summary>
+      <itunes:duration>852</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UHjWP0VwbaoqcJ6OzCPQKATqflZ_gJCNuso_WERK7vMQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ledfoot</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_1f89fc0e-bd50-46c2-89fc-0ebd50b6c283</link>
+      <description>Tim Scott McConnell skulle spille inn album på gården til Ronni Le Tekrø på Raufoss. Han ble boende i fire år. Nå er han tilbake.</description>
+      <guid isPermaLink="false">l_1f89fc0e-bd50-46c2-89fc-0ebd50b6c283</guid>
+      <pubDate>Fri, 03 Mar 2023 06:08:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/64ab6a4f-e5d4-4c84-a6bf-95140a485d19_0_ID192MP3.mp3" type="audio/mpeg" length="25762221"></enclosure>
+      <itunes:title>Ledfoot</itunes:title>
+      <itunes:summary>Tim Scott McConnell skulle spille inn album på gården til Ronni Le Tekrø på Raufoss. Han ble boende i fire år. Nå er han tilbake.</itunes:summary>
+      <itunes:duration>1073</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fixN3oGBkCilIFL2Hm7yXA2G20l_9yNpG8ZwHrql6dNw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bendik Brænne</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_c0b66e96-7c02-4103-b66e-967c02410301</link>
+      <description>Som barn var Bendik ofte med pappa, skuespiller Trond Brænne, på Nationaltheatret.&#xA;Han har mange gode minner, spesielt fra skuespillerfoajeen.  </description>
+      <guid isPermaLink="false">l_c0b66e96-7c02-4103-b66e-967c02410301</guid>
+      <pubDate>Fri, 03 Mar 2023 06:07:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/12b28dd2-8c6b-4b29-ad46-7ac18283c79b_0_ID192MP3.mp3" type="audio/mpeg" length="17602029"></enclosure>
+      <itunes:title>Bendik Brænne</itunes:title>
+      <itunes:summary>Som barn var Bendik ofte med pappa, skuespiller Trond Brænne, på Nationaltheatret.&#xA;Han har mange gode minner, spesielt fra skuespillerfoajeen.  </itunes:summary>
+      <itunes:duration>733</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h_5mzboEq5gonoEVjh2zCQPY9fpNex0rFrI-gKmA8afg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ellen Andrea Wang </title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_2cfcff23-292a-4536-bcff-23292a35369d</link>
+      <description>Hun er en stjerne i norsk jazz. Bli med Ellen Andrea Wang og bandet til hennes gamle øvingslokale; konfirmantsalen på Vålerenga.</description>
+      <guid isPermaLink="false">l_2cfcff23-292a-4536-bcff-23292a35369d</guid>
+      <pubDate>Fri, 03 Mar 2023 06:06:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/47983b45-a9e0-46d0-b260-6cfa9b531870_0_ID192MP3.mp3" type="audio/mpeg" length="21878253"></enclosure>
+      <itunes:title>Ellen Andrea Wang </itunes:title>
+      <itunes:summary>Hun er en stjerne i norsk jazz. Bli med Ellen Andrea Wang og bandet til hennes gamle øvingslokale; konfirmantsalen på Vålerenga.</itunes:summary>
+      <itunes:duration>911</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aeMO87W6-_GiSgVRnkz9hQucGET8sylMZP8XjL6nw4CQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Isah</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_0ab18810-afdf-4b1a-b188-10afdffb1a3c</link>
+      <description>Isah vokste opp i Stavanger, men nå både bor og jobber han på St. Hanshaugen i Oslo. Bli med til den særegne vakre parken over Oslo sentrum.</description>
+      <guid isPermaLink="false">l_0ab18810-afdf-4b1a-b188-10afdffb1a3c</guid>
+      <pubDate>Fri, 03 Mar 2023 06:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/2f162e8f-0958-4c56-baf2-1105ae9a61ba_0_ID192MP3.mp3" type="audio/mpeg" length="21171501"></enclosure>
+      <itunes:title>Isah</itunes:title>
+      <itunes:summary>Isah vokste opp i Stavanger, men nå både bor og jobber han på St. Hanshaugen i Oslo. Bli med til den særegne vakre parken over Oslo sentrum.</itunes:summary>
+      <itunes:duration>882</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4gHiDqdZGWI4dXYznQX_uA430JZG0mJtuQpn7Yl9DY1A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Daniela Reyes </title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_8dda21e8-4c39-4362-9a21-e84c39f36240</link>
+      <description>Hytta på Brønnøya har vært et viktig skrivested for Daniela, og hun har spilt inn mange av låtene sine der. Hun og bandet inviterer til utekonsert.</description>
+      <guid isPermaLink="false">l_8dda21e8-4c39-4362-9a21-e84c39f36240</guid>
+      <pubDate>Fri, 03 Mar 2023 06:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/535d2406-7f05-4093-ba82-c38739f7cea2_0_ID192MP3.mp3" type="audio/mpeg" length="18581229"></enclosure>
+      <itunes:title>Daniela Reyes </itunes:title>
+      <itunes:summary>Hytta på Brønnøya har vært et viktig skrivested for Daniela, og hun har spilt inn mange av låtene sine der. Hun og bandet inviterer til utekonsert.</itunes:summary>
+      <itunes:duration>774</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OrDxdD9Oy5t-oPfomJRpnQ9nuSgkf6ZaIN3vNccDV-bg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hedvig Mollestad Trio</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_b2794c35-47d0-4acf-b94c-3547d09acf54</link>
+      <description>Ålesunds råeste gitarist tar med seg sin hardtslående trio til de nye hjemtraktene på Nesodden. &#xA;De spiller selvsagt ved hennes favorittelement, sjøen! </description>
+      <guid isPermaLink="false">l_b2794c35-47d0-4acf-b94c-3547d09acf54</guid>
+      <pubDate>Fri, 03 Mar 2023 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/30ac085c-466e-426c-bd6e-587f1bdd6333_0_ID192MP3.mp3" type="audio/mpeg" length="21051693"></enclosure>
+      <itunes:title>Hedvig Mollestad Trio</itunes:title>
+      <itunes:summary>Ålesunds råeste gitarist tar med seg sin hardtslående trio til de nye hjemtraktene på Nesodden. &#xA;De spiller selvsagt ved hennes favorittelement, sjøen! </itunes:summary>
+      <itunes:duration>877</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fLsS8ReFhdLJhnCdsV89dQ91pP-F0SyfZ8EHJbqAjK8g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jonathan Floyd</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_122925c0-5cfe-41a1-a925-c05cfe11a1ec</link>
+      <description>Etter skilsmissen hadde ikke faren råd til ny leilighet, så fra Jonathan var 11, bodde han på farens snekkerverksted. Det var der han fant musikken.</description>
+      <guid isPermaLink="false">l_122925c0-5cfe-41a1-a925-c05cfe11a1ec</guid>
+      <pubDate>Fri, 03 Mar 2023 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/baad258d-9b3b-4c7f-9977-afb4e4107af3_0_ID192MP3.mp3" type="audio/mpeg" length="18981549"></enclosure>
+      <itunes:title>Jonathan Floyd</itunes:title>
+      <itunes:summary>Etter skilsmissen hadde ikke faren råd til ny leilighet, så fra Jonathan var 11, bodde han på farens snekkerverksted. Det var der han fant musikken.</itunes:summary>
+      <itunes:duration>790</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7EMNuHKf8IU0rosiprDsOAIGeNmwPxoBZC9poKIiXGIg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Odd Nordstoga </title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_08118487-2b89-4842-9184-872b89f8421e</link>
+      <description>Odd gjør en minikonsert på Kampen Bistro for å hylle Erik som booka ham første gang i Oslo, som nettopp Odd Nordstoga. Et viktig skritt i karrieren.</description>
+      <guid isPermaLink="false">l_08118487-2b89-4842-9184-872b89f8421e</guid>
+      <pubDate>Fri, 03 Mar 2023 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/248548f6-b4fd-4243-a676-77c229cd1032_0_ID192MP3.mp3" type="audio/mpeg" length="25239789"></enclosure>
+      <itunes:title>Odd Nordstoga </itunes:title>
+      <itunes:summary>Odd gjør en minikonsert på Kampen Bistro for å hylle Erik som booka ham første gang i Oslo, som nettopp Odd Nordstoga. Et viktig skritt i karrieren.</itunes:summary>
+      <itunes:duration>1051</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/IeSGkvJo2uMMuISiv_63oALyZIn3BerZljDkjyIIXlZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>SKAAR</title>
+      <link>https://radio.nrk.no/podkast/nrkscenen/l_a5aa5ad9-ec30-4b47-aa5a-d9ec304b4788</link>
+      <description>Hennes gode barndomsminner fra feriene ved Oslofjorden er grunnen til at Stords store popstjerne SKAAR ville ta med bandet sitt til Alværnbukta.</description>
+      <guid isPermaLink="false">l_a5aa5ad9-ec30-4b47-aa5a-d9ec304b4788</guid>
+      <pubDate>Fri, 03 Mar 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkscenen/5ff8a9a0-103c-497f-84e1-99ca87852e4e_0_ID192MP3.mp3" type="audio/mpeg" length="23768685"></enclosure>
+      <itunes:title>SKAAR</itunes:title>
+      <itunes:summary>Hennes gode barndomsminner fra feriene ved Oslofjorden er grunnen til at Stords store popstjerne SKAAR ville ta med bandet sitt til Alværnbukta.</itunes:summary>
+      <itunes:duration>990</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AAgLiKHuVid9Y9rs5nP90gy30azTqqWoL-eAdJo4QBuw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

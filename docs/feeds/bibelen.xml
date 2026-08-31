@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bibelen</title>
+    <link>https://radio.nrk.no/podkast/bibelen</link>
+    <description>Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller. &#xA;&#xA;</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 26 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bibelen.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller. &#xA;&#xA;</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw</url>
+      <title>Bibelen</title>
+      <link>https://radio.nrk.no/podkast/bibelen</link>
+    </image>
+    <item>
+      <title>Jesus blir født (32:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_9ad8c481-e5a3-4b4d-98c4-81e5a35b4d74</link>
+      <description>Fremmede som lukter sau og vise menn i ukjent antall. Lite fred å få i barseltida. Og bakom lurer morderkongen.</description>
+      <guid isPermaLink="false">l_9ad8c481-e5a3-4b4d-98c4-81e5a35b4d74</guid>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/9ad8c481-e5a3-4b4d-98c4-81e5a35b4d74_1_ID192MP3.mp3" type="audio/mpeg" length="26244908"></enclosure>
+      <itunes:title>Jesus blir født (32:40)</itunes:title>
+      <itunes:summary>Fremmede som lukter sau og vise menn i ukjent antall. Lite fred å få i barseltida. Og bakom lurer morderkongen.</itunes:summary>
+      <itunes:duration>1093</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/86fHkduMt53QmdVcNvbkLwD018XjS8KQ8wnmy-IVci9g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Døperen Johannes (31:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_dcf51776-1a30-406f-b517-761a30e06fac</link>
+      <description>Han gir folk en ny start, men ender selv med hodet på et fat.</description>
+      <guid isPermaLink="false">l_dcf51776-1a30-406f-b517-761a30e06fac</guid>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/dcf51776-1a30-406f-b517-761a30e06fac_1_ID192MP3.mp3" type="audio/mpeg" length="33780716"></enclosure>
+      <itunes:title>Døperen Johannes (31:40)</itunes:title>
+      <itunes:summary>Han gir folk en ny start, men ender selv med hodet på et fat.</itunes:summary>
+      <itunes:duration>1407</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hk3r3WohJKMbQk0p2Edm8QUZcuGFJ-IExdYuxqrhPYHg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Jona i fisken (30:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_b8619bd8-9a15-4f8a-a19b-d89a159f8afb</link>
+      <description>Jona prøver å stikke av fra Gud. Det blir en oppslukende opplevelse.</description>
+      <guid isPermaLink="false">l_b8619bd8-9a15-4f8a-a19b-d89a159f8afb</guid>
+      <pubDate>Wed, 04 Mar 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/b8619bd8-9a15-4f8a-a19b-d89a159f8afb_ID192MP3.mp3" type="audio/mpeg" length="23893676"></enclosure>
+      <itunes:title>Jona i fisken (30:40)</itunes:title>
+      <itunes:summary>Jona prøver å stikke av fra Gud. Det blir en oppslukende opplevelse.</itunes:summary>
+      <itunes:duration>995</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lR7gGSjX8pYgUfNhYrW_LQfg8kStVoRUUluzt5Jz5mLQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Daniel i løvens hule (29:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_f8655452-693c-45b4-a554-52693c25b49b</link>
+      <description>Ingenting biter på prakteksemplaret Daniel, ikke engang løver. Og i tillegg er han mesterdetektiv!</description>
+      <guid isPermaLink="false">l_f8655452-693c-45b4-a554-52693c25b49b</guid>
+      <pubDate>Wed, 25 Feb 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/f8655452-693c-45b4-a554-52693c25b49b_ID192MP3.mp3" type="audio/mpeg" length="41296364"></enclosure>
+      <itunes:title>Daniel i løvens hule (29:40)</itunes:title>
+      <itunes:summary>Ingenting biter på prakteksemplaret Daniel, ikke engang løver. Og i tillegg er han mesterdetektiv!</itunes:summary>
+      <itunes:duration>1720</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iqe0Fx0EaWKvy-ogLq8hSAFIy21Vy6V4mUn1n4qnFyuA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Profeter og zombier (28:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_ef2694b3-4655-47b7-a694-b3465577b788</link>
+      <description>Ufo, skjeletter og en nudist. Det kommer mange slags direktemeldinger fra Gud.</description>
+      <guid isPermaLink="false">l_ef2694b3-4655-47b7-a694-b3465577b788</guid>
+      <pubDate>Wed, 18 Feb 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/ef2694b3-4655-47b7-a694-b3465577b788_ID192MP3.mp3" type="audio/mpeg" length="27508076"></enclosure>
+      <itunes:title>Profeter og zombier (28:40)</itunes:title>
+      <itunes:summary>Ufo, skjeletter og en nudist. Det kommer mange slags direktemeldinger fra Gud.</itunes:summary>
+      <itunes:duration>1146</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Qfk20BHJW-wE2zZGOq_BlQPVY5CjrbESuDY73dHaapUg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Job – Satans veddemål (27:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_eac8fb87-ed33-4ca1-88fb-87ed335ca1fe</link>
+      <description>Hvorfor lar Gud vonde ting skje med gode mennesker?</description>
+      <guid isPermaLink="false">l_eac8fb87-ed33-4ca1-88fb-87ed335ca1fe</guid>
+      <pubDate>Wed, 11 Feb 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/eac8fb87-ed33-4ca1-88fb-87ed335ca1fe_ID192MP3.mp3" type="audio/mpeg" length="33148268"></enclosure>
+      <itunes:title>Job – Satans veddemål (27:40)</itunes:title>
+      <itunes:summary>Hvorfor lar Gud vonde ting skje med gode mennesker?</itunes:summary>
+      <itunes:duration>1381</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/i1AmHobxCRN0zybb-4hmqQmvgTLOS4Uzg4GZsn3q2ZVw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Ester redder dagen (26:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_df6df727-8ae8-4fbf-adf7-278ae84fbf71</link>
+      <description>En  dronning med hemmelig bakgrunn må redde folket sitt fra utryddelse. Hjelpemiddel: Fest.</description>
+      <guid isPermaLink="false">l_df6df727-8ae8-4fbf-adf7-278ae84fbf71</guid>
+      <pubDate>Wed, 04 Feb 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/df6df727-8ae8-4fbf-adf7-278ae84fbf71_ID192MP3.mp3" type="audio/mpeg" length="41936300"></enclosure>
+      <itunes:title>Ester redder dagen (26:40)</itunes:title>
+      <itunes:summary>En  dronning med hemmelig bakgrunn må redde folket sitt fra utryddelse. Hjelpemiddel: Fest.</itunes:summary>
+      <itunes:duration>1747</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eqJGAiLZAnBlZrJGhTRoDQbB-8IJ3fdFDHaXUsZTBS0A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Profeter og dronninga som jakta på dem (25:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_b0fadc93-687c-43ee-badc-93687ce3ee6b</link>
+      <description>En brødelsker kommer rett til himmelen – uten å dø!</description>
+      <guid isPermaLink="false">l_b0fadc93-687c-43ee-badc-93687ce3ee6b</guid>
+      <pubDate>Wed, 28 Jan 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/b0fadc93-687c-43ee-badc-93687ce3ee6b_ID192MP3.mp3" type="audio/mpeg" length="44805932"></enclosure>
+      <itunes:title>Profeter og dronninga som jakta på dem (25:40)</itunes:title>
+      <itunes:summary>En brødelsker kommer rett til himmelen – uten å dø!</itunes:summary>
+      <itunes:duration>1866</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZV1NhCFvj-e3pNZ7xL4IrQECCK4zjtmmbSWTM3lkILwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Kong Salomos nedtur (24:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_bb6ee977-f7d6-489a-aee9-77f7d6089a48</link>
+      <description>Hvordan er det å ha 1000 koner? Fort gjort å trå feil, selv for et universalgeni.</description>
+      <guid isPermaLink="false">l_bb6ee977-f7d6-489a-aee9-77f7d6089a48</guid>
+      <pubDate>Wed, 21 Jan 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/bb6ee977-f7d6-489a-aee9-77f7d6089a48_ID192MP3.mp3" type="audio/mpeg" length="31680044"></enclosure>
+      <itunes:title>Kong Salomos nedtur (24:40)</itunes:title>
+      <itunes:summary>Hvordan er det å ha 1000 koner? Fort gjort å trå feil, selv for et universalgeni.</itunes:summary>
+      <itunes:duration>1319</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QFCWuCvyZ8IrmaRgroThGA212qk9Gl8fRmCx7-tvMFKw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Kong Salomos opptur (23:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_723cc32c-db0c-4a92-bcc3-2cdb0caa9201</link>
+      <description>Gud sier at kong Salomo skal få akkurat det han ønsker seg. Salomo velger imponerende klokt!</description>
+      <guid isPermaLink="false">l_723cc32c-db0c-4a92-bcc3-2cdb0caa9201</guid>
+      <pubDate>Wed, 14 Jan 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/723cc32c-db0c-4a92-bcc3-2cdb0caa9201_ID192MP3.mp3" type="audio/mpeg" length="26801324"></enclosure>
+      <itunes:title>Kong Salomos opptur (23:40)</itunes:title>
+      <itunes:summary>Gud sier at kong Salomo skal få akkurat det han ønsker seg. Salomo velger imponerende klokt!</itunes:summary>
+      <itunes:duration>1116</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gS2GXJXAKCgDdgaQc9ta_AAvVAaIhNybKnjgiDaYdZwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Problemer i kongefamilien (22:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_ce66a4bf-64dd-4a86-a6a4-bf64ddba8618</link>
+      <description>Hvem skal overta etter kong David? Den ene sønnen verre enn den andre melder seg på.</description>
+      <guid isPermaLink="false">l_ce66a4bf-64dd-4a86-a6a4-bf64ddba8618</guid>
+      <pubDate>Wed, 07 Jan 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/ce66a4bf-64dd-4a86-a6a4-bf64ddba8618_ID192MP3.mp3" type="audio/mpeg" length="41366636"></enclosure>
+      <itunes:title>Problemer i kongefamilien (22:40)</itunes:title>
+      <itunes:summary>Hvem skal overta etter kong David? Den ene sønnen verre enn den andre melder seg på.</itunes:summary>
+      <itunes:duration>1723</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iGPy5YbZd2I3JINN0yzXMgrCVBrLb9Ic2krn-92bKKWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Kong David og Batseba (21:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_7faa0088-e7ae-404c-aa00-88e7aee04c47</link>
+      <description>Idealkongen vil skjule at han har gjort en gift kvinne gravid. Det blir livsfarlig for mannen hennes.</description>
+      <guid isPermaLink="false">l_7faa0088-e7ae-404c-aa00-88e7aee04c47</guid>
+      <pubDate>Thu, 01 Jan 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/7faa0088-e7ae-404c-aa00-88e7aee04c47_ID192MP3.mp3" type="audio/mpeg" length="32155820"></enclosure>
+      <itunes:title>Kong David og Batseba (21:40)</itunes:title>
+      <itunes:summary>Idealkongen vil skjule at han har gjort en gift kvinne gravid. Det blir livsfarlig for mannen hennes.</itunes:summary>
+      <itunes:duration>1339</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/U4CEg9Tlz1-mqXIIGOQ82Aj2nxdwEsM_njx3Th6fJmJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>David mot kong Saul (20:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_93db2150-8261-44ac-9b21-50826124ace7</link>
+      <description>Alle elsker David. Men kong Saul blir sjalu. Ikke engang musikkterapi hjelper nå.</description>
+      <guid isPermaLink="false">l_93db2150-8261-44ac-9b21-50826124ace7</guid>
+      <pubDate>Wed, 15 Oct 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/4167c1c4-7d45-4597-9843-28f21b5ef234_0_ID192MP3.mp3" type="audio/mpeg" length="37188909"></enclosure>
+      <itunes:title>David mot kong Saul (20:40)</itunes:title>
+      <itunes:summary>Alle elsker David. Men kong Saul blir sjalu. Ikke engang musikkterapi hjelper nå.</itunes:summary>
+      <itunes:duration>1549</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4KqJ8INE-SinnMEAXNKAXgTRWHRkk8JL8Zbe-a-s6gdg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>David mot Goliat (19:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_952c6d0a-9f50-4067-ac6d-0a9f502067de</link>
+      <description>Seier mot alle odds! En ung sauegjeter og musiker går fra underdog til selve drømmemannen.</description>
+      <guid isPermaLink="false">l_952c6d0a-9f50-4067-ac6d-0a9f502067de</guid>
+      <pubDate>Wed, 08 Oct 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/8eb7ba32-3b85-4fc3-a4fe-da8544974171_0_ID192MP3.mp3" type="audio/mpeg" length="30315501"></enclosure>
+      <itunes:title>David mot Goliat (19:40)</itunes:title>
+      <itunes:summary>Seier mot alle odds! En ung sauegjeter og musiker går fra underdog til selve drømmemannen.</itunes:summary>
+      <itunes:duration>1263</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZBKzdRd3dEaYXkaIkLV84gXsor22JMPC44edIOMRKL7w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Gullbyllene (18:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_6d109acd-6c03-4958-909a-cd6c0359585c</link>
+      <description>Noen stjeler de ti bud. Det skulle de ikke ha gjort! Hilsen Gud.</description>
+      <guid isPermaLink="false">l_6d109acd-6c03-4958-909a-cd6c0359585c</guid>
+      <pubDate>Wed, 01 Oct 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/0f3c29bb-ed2c-4129-aaef-76f8d1a644a5_0_ID192MP3.mp3" type="audio/mpeg" length="44005293"></enclosure>
+      <itunes:title>Gullbyllene (18:40)</itunes:title>
+      <itunes:summary>Noen stjeler de ti bud. Det skulle de ikke ha gjort! Hilsen Gud.</itunes:summary>
+      <itunes:duration>1833</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rr_qRppfnugVW40usT6uwgKZwlq2Qs6cNiKCW5kjqsbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Rut – svigermors drøm (17:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_360c6b63-2215-47c2-8c6b-63221567c215</link>
+      <description>Tidenes mest trofaste svigerdatter setter hele ryktet sitt på spill.</description>
+      <guid isPermaLink="false">l_360c6b63-2215-47c2-8c6b-63221567c215</guid>
+      <pubDate>Wed, 24 Sep 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/dcf59053-3576-49a3-b89f-d24dc643df4e_0_ID192MP3.mp3" type="audio/mpeg" length="28692333"></enclosure>
+      <itunes:title>Rut – svigermors drøm (17:40)</itunes:title>
+      <itunes:summary>Tidenes mest trofaste svigerdatter setter hele ryktet sitt på spill.</itunes:summary>
+      <itunes:duration>1195</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHErwyWMNs-Ir2GHvA081QLdfhtYHDUDVgFiK6ktlgdQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Samson og Dalila (16:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_c02094b1-af90-4df6-a094-b1af906df6d2</link>
+      <description>Bibelens sterkeste mann og hans svake punkt.</description>
+      <guid isPermaLink="false">l_c02094b1-af90-4df6-a094-b1af906df6d2</guid>
+      <pubDate>Wed, 17 Sep 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/c96cec82-b754-4d8d-9e40-5c94b554cbe5_0_ID192MP3.mp3" type="audio/mpeg" length="34132077"></enclosure>
+      <itunes:title>Samson og Dalila (16:40)</itunes:title>
+      <itunes:summary>Bibelens sterkeste mann og hans svake punkt.</itunes:summary>
+      <itunes:duration>1422</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Wqj13anHpKZSStp9JyaezQmhCSHiIKMWa5F7UzpgsYKA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Teltpluggdrapet (15:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_d290c126-a34c-44d1-90c1-26a34c14d1da</link>
+      <description>Verre blir det ikke å sove i telt!</description>
+      <guid isPermaLink="false">l_d290c126-a34c-44d1-90c1-26a34c14d1da</guid>
+      <pubDate>Wed, 10 Sep 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/b3672634-c713-45f6-885d-0596c20eb88d_0_ID192MP3.mp3" type="audio/mpeg" length="31168557"></enclosure>
+      <itunes:title>Teltpluggdrapet (15:40)</itunes:title>
+      <itunes:summary>Verre blir det ikke å sove i telt!</itunes:summary>
+      <itunes:duration>1298</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/735yxiQk5v_t_22ysHM64A5wIGkgUEy2-X2o1UXghuJQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Jerikos murer (14:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_e43d714d-2b01-4418-bd71-4d2b01d418ea</link>
+      <description>Omsider framme i Det lovede land. Men fillern, det bor jo folk der fra før! Israelfolket finner fram et supervåpen.</description>
+      <guid isPermaLink="false">l_e43d714d-2b01-4418-bd71-4d2b01d418ea</guid>
+      <pubDate>Wed, 03 Sep 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/7e6b6887-74e8-438e-a95c-5cca51bf6d13_0_ID192MP3.mp3" type="audio/mpeg" length="25921773"></enclosure>
+      <itunes:title>Jerikos murer (14:40)</itunes:title>
+      <itunes:summary>Omsider framme i Det lovede land. Men fillern, det bor jo folk der fra før! Israelfolket finner fram et supervåpen.</itunes:summary>
+      <itunes:duration>1080</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oLjRHbBPZ4T1N-z7ZXmn_whyoxhE_52lZPj1BxSr5FHw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Moses og De ti bud (13:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_c1f27bcc-52c4-4dc4-b27b-cc52c45dc49a</link>
+      <description>Moses laster ned retningslinjer fra skyen. Men hvorfor blir han så illsint at han knuser dem etterpå?</description>
+      <guid isPermaLink="false">l_c1f27bcc-52c4-4dc4-b27b-cc52c45dc49a</guid>
+      <pubDate>Wed, 27 Aug 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/cc7f70e2-21f4-4dbe-b7a6-63083dd88336_0_ID192MP3.mp3" type="audio/mpeg" length="41681709"></enclosure>
+      <itunes:title>Moses og De ti bud (13:40)</itunes:title>
+      <itunes:summary>Moses laster ned retningslinjer fra skyen. Men hvorfor blir han så illsint at han knuser dem etterpå?</itunes:summary>
+      <itunes:duration>1736</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EINJxfUm-YvBJhPUmfQEmAmU_i0krrR6p3ZT-Q7mYTPA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Moses og de ti plagene (12:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_241142ce-7409-42ae-9142-ce740962aec5</link>
+      <description>Fy farao så vanskelig det skulle være å komme seg av gårde fra Egypt, da!</description>
+      <guid isPermaLink="false">l_241142ce-7409-42ae-9142-ce740962aec5</guid>
+      <pubDate>Wed, 20 Aug 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/edc9df43-5f17-4721-af66-682f20402e13_0_ID192MP3.mp3" type="audio/mpeg" length="40138029"></enclosure>
+      <itunes:title>Moses og de ti plagene (12:40)</itunes:title>
+      <itunes:summary>Fy farao så vanskelig det skulle være å komme seg av gårde fra Egypt, da!</itunes:summary>
+      <itunes:duration>1672</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ACNAhy5cw_934CcGwgicigaVsJ-fVE3W7WzDzp69oYHQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Moses i sivet (11:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_a48b755d-07b2-4d33-8b75-5d07b2fd33c5</link>
+      <description>Moses redder livet i en kurv, men blir selv drapsmann. Så får han et viktig oppdrag.</description>
+      <guid isPermaLink="false">l_a48b755d-07b2-4d33-8b75-5d07b2fd33c5</guid>
+      <pubDate>Wed, 13 Aug 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/b39b2e3b-d686-4ae9-97a7-5445c669b989_0_ID192MP3.mp3" type="audio/mpeg" length="34296237"></enclosure>
+      <itunes:title>Moses i sivet (11:40)</itunes:title>
+      <itunes:summary>Moses redder livet i en kurv, men blir selv drapsmann. Så får han et viktig oppdrag.</itunes:summary>
+      <itunes:duration>1428</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/l4pLs4szBAXwbZ49O83EmQO138K2yn2B27YzZdx7Us2w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Josef i Egypt (10:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_ba73fbac-6650-49cb-b3fb-ac6650c9cb2e</link>
+      <description>Men lillebror var ikke død – Han redder alles liv! Likevel blir det etter hvert farlig dårlig stemning.&#xA;FLERE EPISODER KOMMER 13.08 2025.</description>
+      <guid isPermaLink="false">l_ba73fbac-6650-49cb-b3fb-ac6650c9cb2e</guid>
+      <pubDate>Wed, 26 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/f6554bf8-6a5b-45df-8186-3e64226ed844_0_ID192MP3.mp3" type="audio/mpeg" length="40112071"></enclosure>
+      <itunes:title>Josef i Egypt (10:40)</itunes:title>
+      <itunes:summary>Men lillebror var ikke død – Han redder alles liv! Likevel blir det etter hvert farlig dårlig stemning.&#xA;FLERE EPISODER KOMMER 13.08 2025.</itunes:summary>
+      <itunes:duration>1688</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4sWUvw9MwUOvDPZjt7hoTgRsKif0bpkn4YRHJU9WavXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Josef i brønnen (9:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_026c2c91-93d5-48ad-ac2c-9193d578adbf</link>
+      <description>En haug sjalu brødre kvitter seg med farens favorittsønn. Men han gjør hemmelig kometkarriere.</description>
+      <guid isPermaLink="false">l_026c2c91-93d5-48ad-ac2c-9193d578adbf</guid>
+      <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/39ef1989-0a49-43e2-9d1f-174f134605e2_0_ID192MP3.mp3" type="audio/mpeg" length="28187757"></enclosure>
+      <itunes:title>Josef i brønnen (9:40)</itunes:title>
+      <itunes:summary>En haug sjalu brødre kvitter seg med farens favorittsønn. Men han gjør hemmelig kometkarriere.</itunes:summary>
+      <itunes:duration>1174</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hCoxEV2tVNS9Zct7uEVYwQQSWYue3gHwh2WW74ocVjKA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Jakob (8:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_dc2a1ccc-822c-4e9a-aa1c-cc822c1e9ad7</link>
+      <description>Luring kler seg ut som sin egen bror, ligger med feil dame og slåss med en engel.</description>
+      <guid isPermaLink="false">l_dc2a1ccc-822c-4e9a-aa1c-cc822c1e9ad7</guid>
+      <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/0ad5312e-4464-4415-8c3d-e3676917cb61_0_ID192MP3.mp3" type="audio/mpeg" length="45338157"></enclosure>
+      <itunes:title>Jakob (8:40)</itunes:title>
+      <itunes:summary>Luring kler seg ut som sin egen bror, ligger med feil dame og slåss med en engel.</itunes:summary>
+      <itunes:duration>1889</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mGeZEymZSTLxIye7KM5qZwBQLYUwqsXnUKvhxp4o2yTQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Abraham og Isak (7:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_46fa44a5-728c-4f55-ba44-a5728c8f5519</link>
+      <description>Endelig blir Sara (90) en «milf». Men så kommer en grusom test fra Gud!</description>
+      <guid isPermaLink="false">l_46fa44a5-728c-4f55-ba44-a5728c8f5519</guid>
+      <pubDate>Wed, 05 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/d25e738e-59e5-4771-b7d8-6e63bb56de82_0_ID192MP3.mp3" type="audio/mpeg" length="26902125"></enclosure>
+      <itunes:title>Abraham og Isak (7:40)</itunes:title>
+      <itunes:summary>Endelig blir Sara (90) en «milf». Men så kommer en grusom test fra Gud!</itunes:summary>
+      <itunes:duration>1120</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kWAHjzdLMYUn88lPedqiJwbgh76EPbg5VG2ldZZu3i9w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Sodoma og Gomorra (6:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_975b0e76-ea94-400b-9b0e-76ea94500bb7</link>
+      <description>Ikke Sydens, men syndens hovedstad. Så lenge det varer.</description>
+      <guid isPermaLink="false">l_975b0e76-ea94-400b-9b0e-76ea94500bb7</guid>
+      <pubDate>Wed, 29 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/f287ba7f-ff3d-467d-ac04-8b6064bca251_0_ID192MP3.mp3" type="audio/mpeg" length="22767021"></enclosure>
+      <itunes:title>Sodoma og Gomorra (6:40)</itunes:title>
+      <itunes:summary>Ikke Sydens, men syndens hovedstad. Så lenge det varer.</itunes:summary>
+      <itunes:duration>948</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kkRlpiObdDx-aTThgGB_FwiIll8zocWIjGNnjFjtAeLw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Abraham og pakten (5:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_9cdfc8b6-c321-4185-9fc8-b6c3212185e8</link>
+      <description>Omskjæring kommer inn i Bibelen. Og språkforvirring.</description>
+      <guid isPermaLink="false">l_9cdfc8b6-c321-4185-9fc8-b6c3212185e8</guid>
+      <pubDate>Wed, 22 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/c4950ad6-e5ec-4871-8ea2-a3562b981312_0_ID192MP3.mp3" type="audio/mpeg" length="39202605"></enclosure>
+      <itunes:title>Abraham og pakten (5:40)</itunes:title>
+      <itunes:summary>Omskjæring kommer inn i Bibelen. Og språkforvirring.</itunes:summary>
+      <itunes:duration>1633</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/DFPzoy9tYF2lMXlCwDI75QzwOj2K77PFA6BTY0TQ4eLQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Noahs ark (4:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_828cc179-8c42-43a1-8cc1-798c4223a118</link>
+      <description>Gud angrer seg, og tar en omstart av jorda.</description>
+      <guid isPermaLink="false">l_828cc179-8c42-43a1-8cc1-798c4223a118</guid>
+      <pubDate>Wed, 15 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/5d7f2d2a-410e-4976-82b0-df40c57ac626_0_ID192MP3.mp3" type="audio/mpeg" length="31582125"></enclosure>
+      <itunes:title>Noahs ark (4:40)</itunes:title>
+      <itunes:summary>Gud angrer seg, og tar en omstart av jorda.</itunes:summary>
+      <itunes:duration>1315</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wD4s8JpiDXkfZ4y1gEsbGwklKVKtvr8S2ZuwNtgy7LhA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Kain og Abel (3:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_38973707-5100-436d-9737-075100036d14</link>
+      <description>Lillebror funnet død i blodig åker. Storebror mangler alibi.</description>
+      <guid isPermaLink="false">l_38973707-5100-436d-9737-075100036d14</guid>
+      <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/4e394e64-6968-4ad0-8aed-9030efc7dab3_0_ID192MP3.mp3" type="audio/mpeg" length="22819437"></enclosure>
+      <itunes:title>Kain og Abel (3:40)</itunes:title>
+      <itunes:summary>Lillebror funnet død i blodig åker. Storebror mangler alibi.</itunes:summary>
+      <itunes:duration>950</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YlY_t_JsD0lu9HoUMrqvfQrpNKnVt25jpqTTaRQgzoOQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Syndefallet (2:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_bdb856c2-3989-4c85-b856-c239899c85e0</link>
+      <description>Hvor lenge var Adam i paradis?</description>
+      <guid isPermaLink="false">l_bdb856c2-3989-4c85-b856-c239899c85e0</guid>
+      <pubDate>Wed, 01 Jan 2025 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/3d671549-6db9-4325-98da-0bd79f84c7b1_0_ID192MP3.mp3" type="audio/mpeg" length="23989869"></enclosure>
+      <itunes:title>Syndefallet (2:40)</itunes:title>
+      <itunes:summary>Hvor lenge var Adam i paradis?</itunes:summary>
+      <itunes:duration>999</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/E-uc252NwP8_dKw4ACuuHw0SAZZ8Vrx8ra4pXfE3fE9w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Skapelsen (1:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_7ba0602f-7ae4-4235-a060-2f7ae4d235f2</link>
+      <description>Tidenes mest kjente arbeidsuke!</description>
+      <guid isPermaLink="false">l_7ba0602f-7ae4-4235-a060-2f7ae4d235f2</guid>
+      <pubDate>Wed, 01 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/de6d1d4b-926e-45e4-829a-4f9d9b199e26_0_ID192MP3.mp3" type="audio/mpeg" length="21442221"></enclosure>
+      <itunes:title>Skapelsen (1:40)</itunes:title>
+      <itunes:summary>Tidenes mest kjente arbeidsuke!</itunes:summary>
+      <itunes:duration>893</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pOwKkH6b92nT2qyiWG3CpgpMi3nLd8fLlPNyJsoI1J2Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+  </channel>
+</rss>

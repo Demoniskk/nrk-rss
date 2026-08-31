@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaffipraatti</title>
+    <link>https://radio.nrk.no/podkast/kaffipraati</link>
+    <description>I verdens første kvenske podkast dykker programleder Tomi Vaara ned i kvensk kultur og språk sammen med spennende gjester. Kom og ta en kaffe med oss! </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Sat, 26 Apr 2025 04:05:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kaffipraati.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>I verdens første kvenske podkast dykker programleder Tomi Vaara ned i kvensk kultur og språk sammen med spennende gjester. Kom og ta en kaffe med oss! </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/3UWYhbqDOi-NuTyFWhae_QkSrB-ceQLSg_0eONVeSwNg"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/3UWYhbqDOi-NuTyFWhae_QkSrB-ceQLSg_0eONVeSwNg</url>
+      <title>Kaffipraatti</title>
+      <link>https://radio.nrk.no/podkast/kaffipraati</link>
+    </image>
+    <item>
+      <title>Den kvenske våren</title>
+      <link>https://radio.nrk.no/podkast/kaffipraati/l_ac9510c1-5bfa-4f2f-9510-c15bfa7f2f37</link>
+      <description>De siste årene har kvensk språk og kultur blomstret som et vakkert landskap etter vinteren. Men Aili Eriksen synes våren har vært lang.</description>
+      <guid isPermaLink="false">l_ac9510c1-5bfa-4f2f-9510-c15bfa7f2f37</guid>
+      <pubDate>Sat, 26 Apr 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kaffipraati/6f027335-86c4-4387-932d-159d13496be9_0_ID192MP3.mp3" type="audio/mpeg" length="24924717"></enclosure>
+      <itunes:title>Den kvenske våren</itunes:title>
+      <itunes:summary>De siste årene har kvensk språk og kultur blomstret som et vakkert landskap etter vinteren. Men Aili Eriksen synes våren har vært lang.</itunes:summary>
+      <itunes:duration>1038</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/cdO3meOweo5v9M7CiFltsg7ETUqqcvTu8PzJChULGlOg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hjertespråk</title>
+      <link>https://radio.nrk.no/podkast/kaffipraati/l_0d7e7bdc-fd8a-4b1d-be7b-dcfd8aab1d41</link>
+      <description>Kan et språk åpne hjertet til følelser som vi ikke klarer å forklare på annet vis? Merethe Eidstø forteller om hva hjertespråket har gjort for henne.</description>
+      <guid isPermaLink="false">l_0d7e7bdc-fd8a-4b1d-be7b-dcfd8aab1d41</guid>
+      <pubDate>Sat, 26 Apr 2025 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kaffipraati/b72aa280-9cca-4d65-a6e9-696ad1ec377a_0_ID192MP3.mp3" type="audio/mpeg" length="26391789"></enclosure>
+      <itunes:title>Hjertespråk</itunes:title>
+      <itunes:summary>Kan et språk åpne hjertet til følelser som vi ikke klarer å forklare på annet vis? Merethe Eidstø forteller om hva hjertespråket har gjort for henne.</itunes:summary>
+      <itunes:duration>1099</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Pbr7Fax8nARO81q15vHWjAPokiLyJRh5df7LzWWn1xNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Finn din indre kven</title>
+      <link>https://radio.nrk.no/podkast/kaffipraati/l_9d3d87e2-7ac7-4d14-bd87-e27ac7bd1415</link>
+      <description>«Sisu» beskriver kvener og finners indre utholdenhet og viljestyrke. Men er det bare de som har det? Vi spør Nils-Einar Ørnebakk.</description>
+      <guid isPermaLink="false">l_9d3d87e2-7ac7-4d14-bd87-e27ac7bd1415</guid>
+      <pubDate>Sat, 26 Apr 2025 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kaffipraati/e63f0732-1b06-416a-abb9-d5005ce0519b_0_ID192MP3.mp3" type="audio/mpeg" length="27118701"></enclosure>
+      <itunes:title>Finn din indre kven</itunes:title>
+      <itunes:summary>«Sisu» beskriver kvener og finners indre utholdenhet og viljestyrke. Men er det bare de som har det? Vi spør Nils-Einar Ørnebakk.</itunes:summary>
+      <itunes:duration>1129</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/K3AsYsMjzPsMKuDlPr3jngkmtmab7oVmGYkl4k5oik9w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vil du ha ost i kaffen?</title>
+      <link>https://radio.nrk.no/podkast/kaffipraati/l_6cb9665c-5130-4a58-b966-5c5130ea5894</link>
+      <description>Nå er det «trendy» å spise protein, særlig når du trener. Men Anna-Kaisa Räisänen kan fortelle at kvenene begynte med dette for flere hundre år siden.</description>
+      <guid isPermaLink="false">l_6cb9665c-5130-4a58-b966-5c5130ea5894</guid>
+      <pubDate>Sat, 26 Apr 2025 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kaffipraati/ffb85ada-9207-4df3-b0c5-bad98fabd8e7_0_ID192MP3.mp3" type="audio/mpeg" length="27053037"></enclosure>
+      <itunes:title>Vil du ha ost i kaffen?</itunes:title>
+      <itunes:summary>Nå er det «trendy» å spise protein, særlig når du trener. Men Anna-Kaisa Räisänen kan fortelle at kvenene begynte med dette for flere hundre år siden.</itunes:summary>
+      <itunes:duration>1127</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/T4Xyaf_Jvjg6wjUF9wPT1wJUn4vQ_wTvl6v4345ZFMnQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Badstudampens hemmeligheter</title>
+      <link>https://radio.nrk.no/podkast/kaffipraati/l_0d95f179-cf91-4262-95f1-79cf91a26273</link>
+      <description>«Löyly» er dampen fra badstueovnen når du kaster vann på den. Noora Marie Ollila Sandmo forklarer hvorfor det er så viktig i kvensk kultur.</description>
+      <guid isPermaLink="false">l_0d95f179-cf91-4262-95f1-79cf91a26273</guid>
+      <pubDate>Sat, 26 Apr 2025 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kaffipraati/b802142a-3d01-4035-a2c1-9437cea20f63_0_ID192MP3.mp3" type="audio/mpeg" length="24247341"></enclosure>
+      <itunes:title>Badstudampens hemmeligheter</itunes:title>
+      <itunes:summary>«Löyly» er dampen fra badstueovnen når du kaster vann på den. Noora Marie Ollila Sandmo forklarer hvorfor det er så viktig i kvensk kultur.</itunes:summary>
+      <itunes:duration>1010</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bpZiBsxlY4II4YyBYTcQ9wSxywlsI5XeCQQ8SiXNImdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Må ikke tildekkes</title>
+      <link>https://radio.nrk.no/podkast/kaffipraati/l_8e29b3db-7516-4546-a9b3-db751635461d</link>
+      <description>«Ei saa peittää» – eller «må ikke tildekkes», er noe mange har lest på ovnen på do. Katriina Pedersen forklarer hvorfor det betyr noe mer for kvenene.</description>
+      <guid isPermaLink="false">l_8e29b3db-7516-4546-a9b3-db751635461d</guid>
+      <pubDate>Sat, 26 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kaffipraati/10d6b762-a149-4869-9579-486809a365ea_0_ID192MP3.mp3" type="audio/mpeg" length="25109037"></enclosure>
+      <itunes:title>Må ikke tildekkes</itunes:title>
+      <itunes:summary>«Ei saa peittää» – eller «må ikke tildekkes», er noe mange har lest på ovnen på do. Katriina Pedersen forklarer hvorfor det betyr noe mer for kvenene.</itunes:summary>
+      <itunes:duration>1046</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eFowVcHBNOSHwZCwlaFiFwNdvBs1ajy_-MG8KqDuvGww"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

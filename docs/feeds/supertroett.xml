@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supertrøtt</title>
+    <link>https://radio.nrk.no/podkast/supertroett</link>
+    <description>Avslutt kveldsstellet med små, underfundige fortellinger som får barna i sovestemning før du sovner selv. &#xA;</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 19 Jun 2026 04:01:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/supertroett.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Avslutt kveldsstellet med små, underfundige fortellinger som får barna i sovestemning før du sovner selv. &#xA;</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/dhCz90zRlHrLO237nig6RQN9GLNPKvf8nQGrLjKWXCNw"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/dhCz90zRlHrLO237nig6RQN9GLNPKvf8nQGrLjKWXCNw</url>
+      <title>Supertrøtt</title>
+      <link>https://radio.nrk.no/podkast/supertroett</link>
+    </image>
+    <item>
+      <title>Jaff Sjiraff har en lang hals</title>
+      <link>https://radio.nrk.no/podkast/supertroett/l_efb6d452-1e2b-4ae6-b6d4-521e2beae675</link>
+      <description>Jaff Sjiraff får ikke sove. Han får med seg alt som skjer med den lange halsen sin. Fortalt av Viljar Natlandsmyr.</description>
+      <guid isPermaLink="false">l_efb6d452-1e2b-4ae6-b6d4-521e2beae675</guid>
+      <pubDate>Fri, 19 Jun 2026 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supertroett/efb6d452-1e2b-4ae6-b6d4-521e2beae675_1_ID192MP3.mp3" type="audio/mpeg" length="13773356"></enclosure>
+      <itunes:title>Jaff Sjiraff har en lang hals</itunes:title>
+      <itunes:summary>Jaff Sjiraff får ikke sove. Han får med seg alt som skjer med den lange halsen sin. Fortalt av Viljar Natlandsmyr.</itunes:summary>
+      <itunes:duration>573</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zfhetyJVoXd1bMMAqiWg9AZyXNlzsFn11gMD3xX4uaWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kaja Katt og sommerfuglen</title>
+      <link>https://radio.nrk.no/podkast/supertroett/l_b3b2bddc-0849-4979-b2bd-dc0849597986</link>
+      <description>Kaja Katt vil ikke legge seg, og hun vil i alle fall ikke vaske seg. Selv om hun har blitt skitten på nesen i sommerfugljakt. &#xA;&#xA;Fortalt av Tamanna Agnihotri.</description>
+      <guid isPermaLink="false">l_b3b2bddc-0849-4979-b2bd-dc0849597986</guid>
+      <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supertroett/b3b2bddc-0849-4979-b2bd-dc0849597986_1_ID192MP3.mp3" type="audio/mpeg" length="19808108"></enclosure>
+      <itunes:title>Kaja Katt og sommerfuglen</itunes:title>
+      <itunes:summary>Kaja Katt vil ikke legge seg, og hun vil i alle fall ikke vaske seg. Selv om hun har blitt skitten på nesen i sommerfugljakt. &#xA;&#xA;Fortalt av Tamanna Agnihotri.</itunes:summary>
+      <itunes:duration>825</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5BgHkoiuZSE_VmEikPFJ2QS55NlIY8-9_oM6C7GMihLw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dordi drage og regnbueridderen</title>
+      <link>https://radio.nrk.no/podkast/supertroett/l_12b371aa-5982-4e35-b371-aa59821e3505</link>
+      <description>Det er ikke lett å pusse tenner når man er en ildsprutende drage som heller vil være regnbueridder enn å legge seg.&#xA;&#xA;Fortalt av Ane Norum Kvistad.</description>
+      <guid isPermaLink="false">l_12b371aa-5982-4e35-b371-aa59821e3505</guid>
+      <pubDate>Fri, 22 Mar 2024 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supertroett/c3aac6b6-5f65-471d-8240-da59256b6e9e_0_ID192MP3.mp3" type="audio/mpeg" length="13873581"></enclosure>
+      <itunes:title>Dordi drage og regnbueridderen</itunes:title>
+      <itunes:summary>Det er ikke lett å pusse tenner når man er en ildsprutende drage som heller vil være regnbueridder enn å legge seg.&#xA;&#xA;Fortalt av Ane Norum Kvistad.</itunes:summary>
+      <itunes:duration>578</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PAm1X_9dQ__GaYSAnKy4VQ2bOaELuaM5tOwiVOeTc9zg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Henrik hyene har latterkrampe</title>
+      <link>https://radio.nrk.no/podkast/supertroett/l_102f86a6-ac7b-44d5-af86-a6ac7b54d5d3</link>
+      <description>Henrik Hyene skal sove, men nå har han latterkrampe – han klarer ikke slutte å le! Og hvorfor stikker pysjen sånn?&#xA;&#xA;Fortalt av Bjørn Alexander.</description>
+      <guid isPermaLink="false">l_102f86a6-ac7b-44d5-af86-a6ac7b54d5d3</guid>
+      <pubDate>Fri, 22 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supertroett/5cd1df23-8a92-49a5-b53e-6a41deb33ffe_0_ID192MP3.mp3" type="audio/mpeg" length="12160557"></enclosure>
+      <itunes:title>Henrik hyene har latterkrampe</itunes:title>
+      <itunes:summary>Henrik Hyene skal sove, men nå har han latterkrampe – han klarer ikke slutte å le! Og hvorfor stikker pysjen sånn?&#xA;&#xA;Fortalt av Bjørn Alexander.</itunes:summary>
+      <itunes:duration>506</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BDJ4GHYHpC1LaM0hlF04OwfXUt1S6BW3cvJJrB7sktcg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brannbamsen Bjørnis</title>
+    <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis</link>
+    <description>Livet på brannstasjonen er både morsomt og spennende. Bli med når Brannbamsen Bjørnis løser små og store oppdrag.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 27 Sep 2024 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/brannbamsen_bjoernis.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Livet på brannstasjonen er både morsomt og spennende. Bli med når Brannbamsen Bjørnis løser små og store oppdrag.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/spqLAshqn0sxTybs-zB5tgQq3uY3j0Lczo3lQ66xlHTg"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/spqLAshqn0sxTybs-zB5tgQq3uY3j0Lczo3lQ66xlHTg</url>
+      <title>Brannbamsen Bjørnis</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis</link>
+    </image>
+    <item>
+      <title>Den store brannkonstabeltesten</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_c9ce2f8e-bf8e-4ede-8e2f-8ebf8e4ededa</link>
+      <description>Bjørnis og vennene må redde en dukke i et røyklagt hus, og slukke en brann i årets store brannkonstabelprøve. Greier de det?</description>
+      <guid isPermaLink="false">l_c9ce2f8e-bf8e-4ede-8e2f-8ebf8e4ededa</guid>
+      <pubDate>Fri, 27 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/59610ae0-e869-4821-b139-1e4032babab4_0_ID192MP3.mp3" type="audio/mpeg" length="26299629"></enclosure>
+      <itunes:title>Den store brannkonstabeltesten</itunes:title>
+      <itunes:summary>Bjørnis og vennene må redde en dukke i et røyklagt hus, og slukke en brann i årets store brannkonstabelprøve. Greier de det?</itunes:summary>
+      <itunes:duration>1095</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kB6eEuoE5Fl3fuPcxdPreQdpLuYNEYf4IspPJfbXCxEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Det store sankthansbålet</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_0335109b-fc92-43d5-b510-9bfc92e3d50d</link>
+      <description>Mange folk samles til kveldens sankthansfeiring. Det store bålet tennes - men så går ikke ting helt etter planen...</description>
+      <guid isPermaLink="false">l_0335109b-fc92-43d5-b510-9bfc92e3d50d</guid>
+      <pubDate>Fri, 21 Jun 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/8a98df92-d477-482f-9ec5-a35a17e1a33b_0_ID192MP3.mp3" type="audio/mpeg" length="22743981"></enclosure>
+      <itunes:title>Det store sankthansbålet</itunes:title>
+      <itunes:summary>Mange folk samles til kveldens sankthansfeiring. Det store bålet tennes - men så går ikke ting helt etter planen...</itunes:summary>
+      <itunes:duration>947</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kB6eEuoE5Fl3fuPcxdPreQdpLuYNEYf4IspPJfbXCxEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Det beste gjemmestedet</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_ef2d7d55-517e-498c-ad7d-55517ef98cc6</link>
+      <description>Når hunden Reser blir sporløst borte i skogen, må Bjørnis og gjengen være med å lete. Hvor i alle dager kan han ha gjemt seg?</description>
+      <guid isPermaLink="false">l_ef2d7d55-517e-498c-ad7d-55517ef98cc6</guid>
+      <pubDate>Fri, 21 Jun 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/e59a0d6c-a799-4734-bee3-474ef6c0729a_0_ID192MP3.mp3" type="audio/mpeg" length="27078381"></enclosure>
+      <itunes:title>Det beste gjemmestedet</itunes:title>
+      <itunes:summary>Når hunden Reser blir sporløst borte i skogen, må Bjørnis og gjengen være med å lete. Hvor i alle dager kan han ha gjemt seg?</itunes:summary>
+      <itunes:duration>1128</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kB6eEuoE5Fl3fuPcxdPreQdpLuYNEYf4IspPJfbXCxEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title> Den store oversvømmelsen </title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_03201833-0942-4752-a018-330942c75206</link>
+      <description>Bjørnis og gjengen må rykke ut når huset til fru Eliassen er oversvømt. Hvordan skal de redde huset og alle de fine, gamle tingene? &#xA;&#xA;&#xA; </description>
+      <guid isPermaLink="false">l_03201833-0942-4752-a018-330942c75206</guid>
+      <pubDate>Fri, 22 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/27efb3fe-6a28-44b7-9b21-b8c8bb6a5b0e_0_ID192MP3.mp3" type="audio/mpeg" length="27126189"></enclosure>
+      <itunes:title> Den store oversvømmelsen </itunes:title>
+      <itunes:summary>Bjørnis og gjengen må rykke ut når huset til fru Eliassen er oversvømt. Hvordan skal de redde huset og alle de fine, gamle tingene? &#xA;&#xA;&#xA; </itunes:summary>
+      <itunes:duration>1130</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kB6eEuoE5Fl3fuPcxdPreQdpLuYNEYf4IspPJfbXCxEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Brennheite sokker </title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_1b41c33b-974c-43ee-81c3-3b974c13ee95</link>
+      <description>Jakob kommer tilbake fra tur med hunden da han hører røykvarsleren pipe høyt inne. Men hva gjør han når døra har låst seg, og nøklene er inne i huset?</description>
+      <guid isPermaLink="false">l_1b41c33b-974c-43ee-81c3-3b974c13ee95</guid>
+      <pubDate>Fri, 22 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/9aeae60a-0c2c-497a-82b8-84f113d9ee19_0_ID192MP3.mp3" type="audio/mpeg" length="23133933"></enclosure>
+      <itunes:title>Brennheite sokker </itunes:title>
+      <itunes:summary>Jakob kommer tilbake fra tur med hunden da han hører røykvarsleren pipe høyt inne. Men hva gjør han når døra har låst seg, og nøklene er inne i huset?</itunes:summary>
+      <itunes:duration>963</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kB6eEuoE5Fl3fuPcxdPreQdpLuYNEYf4IspPJfbXCxEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Brannøvelse i barnehagen </title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_943305b3-2bb5-48fc-b305-b32bb548fc94</link>
+      <description>Bjørnis og Josefine er på besøk i barnehagen til Nora for å gjennomføre en brannøvelse. Så lukter det plutselig røyk - brenner det på ekte? &#xA;&#xA; </description>
+      <guid isPermaLink="false">l_943305b3-2bb5-48fc-b305-b32bb548fc94</guid>
+      <pubDate>Fri, 22 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/2d4b6f80-8af0-4276-8b0e-a08ba5306fc5_0_ID192MP3.mp3" type="audio/mpeg" length="20153133"></enclosure>
+      <itunes:title>Brannøvelse i barnehagen </itunes:title>
+      <itunes:summary>Bjørnis og Josefine er på besøk i barnehagen til Nora for å gjennomføre en brannøvelse. Så lukter det plutselig røyk - brenner det på ekte? &#xA;&#xA; </itunes:summary>
+      <itunes:duration>839</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kB6eEuoE5Fl3fuPcxdPreQdpLuYNEYf4IspPJfbXCxEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Nye episoder kommer 22.mars</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_b3c4b8db-fe4d-4219-84b8-dbfe4df21986</link>
+      <description>Tips til små brannkonstabler</description>
+      <guid isPermaLink="false">l_b3c4b8db-fe4d-4219-84b8-dbfe4df21986</guid>
+      <pubDate>Wed, 13 Mar 2024 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/4cff402b-efd2-408b-9089-dec475ba7bd3_0_ID192MP3.mp3" type="audio/mpeg" length="2139309"></enclosure>
+      <itunes:title>Nye episoder kommer 22.mars</itunes:title>
+      <itunes:summary>Tips til små brannkonstabler</itunes:summary>
+      <itunes:duration>89</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kB6eEuoE5Fl3fuPcxdPreQdpLuYNEYf4IspPJfbXCxEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Apekatt på ville veier</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_580ab9b9-2d64-45ed-8ab9-b92d6485ed0c</link>
+      <description>Når den lille apebabyen Oliver havner på ville veier i dyrehagen, må Bjørnis trosse høydeskrekken sin og hjelpe til!</description>
+      <guid isPermaLink="false">l_580ab9b9-2d64-45ed-8ab9-b92d6485ed0c</guid>
+      <pubDate>Fri, 16 Feb 2024 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/e088685a-4962-44f8-992d-3e5ebeedc7fc_0_ID192MP3.mp3" type="audio/mpeg" length="23842413"></enclosure>
+      <itunes:title>Apekatt på ville veier</itunes:title>
+      <itunes:summary>Når den lille apebabyen Oliver havner på ville veier i dyrehagen, må Bjørnis trosse høydeskrekken sin og hjelpe til!</itunes:summary>
+      <itunes:duration>993</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kB6eEuoE5Fl3fuPcxdPreQdpLuYNEYf4IspPJfbXCxEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hund på tynn is</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_6976bb3f-f8a0-4072-b6bb-3ff8a0207283</link>
+      <description>Hunden Sofus forviller seg ut på tynn is og faller igjennom! Hvem kan hjelpe ham med å komme seg opp av det iskalde vannet? &#xA;&#xA;</description>
+      <guid isPermaLink="false">l_6976bb3f-f8a0-4072-b6bb-3ff8a0207283</guid>
+      <pubDate>Fri, 16 Feb 2024 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/7f036299-cf67-44c6-9c0f-4e2d5bb43dba_0_ID192MP3.mp3" type="audio/mpeg" length="22388013"></enclosure>
+      <itunes:title>Hund på tynn is</itunes:title>
+      <itunes:summary>Hunden Sofus forviller seg ut på tynn is og faller igjennom! Hvem kan hjelpe ham med å komme seg opp av det iskalde vannet? &#xA;&#xA;</itunes:summary>
+      <itunes:duration>932</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kB6eEuoE5Fl3fuPcxdPreQdpLuYNEYf4IspPJfbXCxEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Klokker i brann!</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_c595a0ea-6083-4b7a-95a0-ea60837b7a06</link>
+      <description>Mens Bjørnis og de andre øver på å være klare på 1-2-3, velter et stearinlys i klokkebutikken til urmaker Nilsen!</description>
+      <guid isPermaLink="false">l_c595a0ea-6083-4b7a-95a0-ea60837b7a06</guid>
+      <pubDate>Fri, 16 Feb 2024 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/a2dd2428-f8f0-4700-af9d-c170fc5f23e1_0_ID192MP3.mp3" type="audio/mpeg" length="21889773"></enclosure>
+      <itunes:title>Klokker i brann!</itunes:title>
+      <itunes:summary>Mens Bjørnis og de andre øver på å være klare på 1-2-3, velter et stearinlys i klokkebutikken til urmaker Nilsen!</itunes:summary>
+      <itunes:duration>912</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kB6eEuoE5Fl3fuPcxdPreQdpLuYNEYf4IspPJfbXCxEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kakebakekonkurransen</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_54ceadc0-8212-4ee5-8ead-c082128ee534</link>
+      <description>Bjørnis er på vei til den store kakebakekonkurransen i byen, men ser røykskyer på himmelen og forstår at noe er galt.</description>
+      <guid isPermaLink="false">l_54ceadc0-8212-4ee5-8ead-c082128ee534</guid>
+      <pubDate>Fri, 16 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/7a62ca13-7d2d-4eff-92b4-198745a161a2_0_ID192MP3.mp3" type="audio/mpeg" length="25422957"></enclosure>
+      <itunes:title>Kakebakekonkurransen</itunes:title>
+      <itunes:summary>Bjørnis er på vei til den store kakebakekonkurransen i byen, men ser røykskyer på himmelen og forstår at noe er galt.</itunes:summary>
+      <itunes:duration>1059</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kB6eEuoE5Fl3fuPcxdPreQdpLuYNEYf4IspPJfbXCxEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bjørnis 2023 - Jul på brannstasjonen - Episode 1</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_d6ca254a-8e1a-477a-8a25-4a8e1a377a11</link>
+      <description>Bjørnis og vaktlaget må feire julaften på brannstasjonen. Og da kan alt skje.  &#xA;Manusforfatter: Linn Sunniva Høglund &#xA;Lyddesign: Verdens Sterkeste Mann &#xA;Produsert av Aschehoug for NRK, i samarbeid med Stiftelsen Brannbamsen Bjørnis.  &#xA;&#xA; </description>
+      <guid isPermaLink="false">l_d6ca254a-8e1a-477a-8a25-4a8e1a377a11</guid>
+      <pubDate>Fri, 01 Dec 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/4ee24519-815a-4512-8fb4-3473e2504722_0_ID192MP3.mp3" type="audio/mpeg" length="27362349"></enclosure>
+      <itunes:title>Bjørnis 2023 - Jul på brannstasjonen - Episode 1</itunes:title>
+      <itunes:summary>Bjørnis og vaktlaget må feire julaften på brannstasjonen. Og da kan alt skje.  &#xA;Manusforfatter: Linn Sunniva Høglund &#xA;Lyddesign: Verdens Sterkeste Mann &#xA;Produsert av Aschehoug for NRK, i samarbeid med Stiftelsen Brannbamsen Bjørnis.  &#xA;&#xA; </itunes:summary>
+      <itunes:duration>1140</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lB18SImI4-MqB_v_Nt3DPA6dIpBKPXWwhbbQMqKW7Teg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hyttetur</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_8511131f-52ab-48f9-9113-1f52ab98f9d1</link>
+      <description>Bjørnis drømmer om snø, og under utrykning til en hyttebrann får han seg en overraskelse.  </description>
+      <guid isPermaLink="false">l_8511131f-52ab-48f9-9113-1f52ab98f9d1</guid>
+      <pubDate>Fri, 29 Sep 2023 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/214a9047-7a39-4991-b660-01a168f12653_0_ID192MP3.mp3" type="audio/mpeg" length="20471085"></enclosure>
+      <itunes:title>Hyttetur</itunes:title>
+      <itunes:summary>Bjørnis drømmer om snø, og under utrykning til en hyttebrann får han seg en overraskelse.  </itunes:summary>
+      <itunes:duration>852</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gUCHWVpmlIXUQhQ85OTSSAG8eNT130Iz160iBQyjY3dA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Halloween</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_4f4fcc2c-a132-404b-8fcc-2ca132104b76</link>
+      <description>Bjørnis går knask eller knep, men så skjer det noe dramatisk.  </description>
+      <guid isPermaLink="false">l_4f4fcc2c-a132-404b-8fcc-2ca132104b76</guid>
+      <pubDate>Fri, 29 Sep 2023 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/946ea7b9-de9d-4360-afa9-b4fded6181be_0_ID192MP3.mp3" type="audio/mpeg" length="20229741"></enclosure>
+      <itunes:title>Halloween</itunes:title>
+      <itunes:summary>Bjørnis går knask eller knep, men så skjer det noe dramatisk.  </itunes:summary>
+      <itunes:duration>842</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gUCHWVpmlIXUQhQ85OTSSAG8eNT130Iz160iBQyjY3dA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Høststorm</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_e4995b67-bb0b-4e76-995b-67bb0bee76e7</link>
+      <description>Et digert tre velter og sperrer veien. Her trengs det hjelp fra Bjørnis.  </description>
+      <guid isPermaLink="false">l_e4995b67-bb0b-4e76-995b-67bb0bee76e7</guid>
+      <pubDate>Fri, 29 Sep 2023 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/814dc0ee-18ec-4719-84de-46ab3bb09763_0_ID192MP3.mp3" type="audio/mpeg" length="24082605"></enclosure>
+      <itunes:title>Høststorm</itunes:title>
+      <itunes:summary>Et digert tre velter og sperrer veien. Her trengs det hjelp fra Bjørnis.  </itunes:summary>
+      <itunes:duration>1003</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gUCHWVpmlIXUQhQ85OTSSAG8eNT130Iz160iBQyjY3dA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Åpen brannstasjon</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_40f83350-24af-45a9-b833-5024af05a982</link>
+      <description>Rett før åpen dag går alarmen. En hest har sklidd og falt og kommer seg ikke opp.  </description>
+      <guid isPermaLink="false">l_40f83350-24af-45a9-b833-5024af05a982</guid>
+      <pubDate>Fri, 29 Sep 2023 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/500fea0c-a8cf-44eb-bd40-6e9480a39cd3_0_ID192MP3.mp3" type="audio/mpeg" length="23155821"></enclosure>
+      <itunes:title>Åpen brannstasjon</itunes:title>
+      <itunes:summary>Rett før åpen dag går alarmen. En hest har sklidd og falt og kommer seg ikke opp.  </itunes:summary>
+      <itunes:duration>964</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gUCHWVpmlIXUQhQ85OTSSAG8eNT130Iz160iBQyjY3dA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Brud i nød</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_a304454c-7e65-45ad-8445-4c7e6595ad3a</link>
+      <description>Et brudeslør blir tatt av vinden og havner i et tre. Greier Bjørnis å få det ned?  </description>
+      <guid isPermaLink="false">l_a304454c-7e65-45ad-8445-4c7e6595ad3a</guid>
+      <pubDate>Sat, 22 Jul 2023 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/372dd1db-a0f8-45ee-88b9-0f7941a84133_0_ID192MP3.mp3" type="audio/mpeg" length="23065389"></enclosure>
+      <itunes:title>Brud i nød</itunes:title>
+      <itunes:summary>Et brudeslør blir tatt av vinden og havner i et tre. Greier Bjørnis å få det ned?  </itunes:summary>
+      <itunes:duration>960</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1-VFVy0npcb5YzBxmwcAHgwHw8RQICR9B2--fIx-vGuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Båt i flammer</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_1a4e7700-d1f6-425e-8e77-00d1f6c25e0f</link>
+      <description>Bestefar og barnebarnet Signe er på fisketur, men plutselig begynner båten deres å brenne.</description>
+      <guid isPermaLink="false">l_1a4e7700-d1f6-425e-8e77-00d1f6c25e0f</guid>
+      <pubDate>Sat, 22 Jul 2023 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/6783f93d-8222-4279-89cb-7c1173e809d2_0_ID192MP3.mp3" type="audio/mpeg" length="21241197"></enclosure>
+      <itunes:title>Båt i flammer</itunes:title>
+      <itunes:summary>Bestefar og barnebarnet Signe er på fisketur, men plutselig begynner båten deres å brenne.</itunes:summary>
+      <itunes:duration>884</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1-VFVy0npcb5YzBxmwcAHgwHw8RQICR9B2--fIx-vGuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Krasjlanding</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_5b0fc6bf-186f-4332-8fc6-bf186f733251</link>
+      <description>En fallskjermhopper sitter fast i et tre. Heldigvis vet bestevennen hvem hun kan ringe.&#xA;</description>
+      <guid isPermaLink="false">l_5b0fc6bf-186f-4332-8fc6-bf186f733251</guid>
+      <pubDate>Sat, 22 Jul 2023 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/8e7b8c84-ce8e-4a6c-8628-a478a8dc0ec2_0_ID192MP3.mp3" type="audio/mpeg" length="21257901"></enclosure>
+      <itunes:title>Krasjlanding</itunes:title>
+      <itunes:summary>En fallskjermhopper sitter fast i et tre. Heldigvis vet bestevennen hvem hun kan ringe.&#xA;</itunes:summary>
+      <itunes:duration>885</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1-VFVy0npcb5YzBxmwcAHgwHw8RQICR9B2--fIx-vGuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vepsestikk </title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_d6cab2b7-5015-4c9d-8ab2-b75015bc9d74</link>
+      <description>Bestemor blir stukket av en veps i fingeren og hovner opp. Hvordan skal hun få av seg ringene?  </description>
+      <guid isPermaLink="false">l_d6cab2b7-5015-4c9d-8ab2-b75015bc9d74</guid>
+      <pubDate>Sat, 22 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/58f8abd6-55e4-4a40-bac1-f25f8b00c63f_0_ID192MP3.mp3" type="audio/mpeg" length="24193773"></enclosure>
+      <itunes:title>Vepsestikk </itunes:title>
+      <itunes:summary>Bestemor blir stukket av en veps i fingeren og hovner opp. Hvordan skal hun få av seg ringene?  </itunes:summary>
+      <itunes:duration>1008</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1-VFVy0npcb5YzBxmwcAHgwHw8RQICR9B2--fIx-vGuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Tatt av vinden</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_5dbd32ec-3cf2-45ee-bd32-ec3cf2f5ee8f</link>
+      <description>En gutt på et oppblåsbart flytedyr har blitt tatt av vinden. Nå haster det å få ut brannbåten! </description>
+      <guid isPermaLink="false">l_5dbd32ec-3cf2-45ee-bd32-ec3cf2f5ee8f</guid>
+      <pubDate>Fri, 16 Jun 2023 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/aee18ed5-4057-40b4-bed5-da89253ad59c_0_ID192MP3.mp3" type="audio/mpeg" length="24993261"></enclosure>
+      <itunes:title>Tatt av vinden</itunes:title>
+      <itunes:summary>En gutt på et oppblåsbart flytedyr har blitt tatt av vinden. Nå haster det å få ut brannbåten! </itunes:summary>
+      <itunes:duration>1041</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UXmXnGZXZl1Gg4qiYBWjWg6Wa2B2BE1UrOzsuTyXKenQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>På biblioteket</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_8f6f3340-973a-41bb-af33-40973a21bbe9</link>
+      <description>Bjørnis arrangerer overraskelsesbursdag, men så går brannalarmen på biblioteket. </description>
+      <guid isPermaLink="false">l_8f6f3340-973a-41bb-af33-40973a21bbe9</guid>
+      <pubDate>Fri, 16 Jun 2023 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/81f78e06-3fd9-4cce-b9b7-a477b3704931_0_ID192MP3.mp3" type="audio/mpeg" length="24515757"></enclosure>
+      <itunes:title>På biblioteket</itunes:title>
+      <itunes:summary>Bjørnis arrangerer overraskelsesbursdag, men så går brannalarmen på biblioteket. </itunes:summary>
+      <itunes:duration>1021</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UXmXnGZXZl1Gg4qiYBWjWg6Wa2B2BE1UrOzsuTyXKenQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hund i fare</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_2f4eac17-2cde-4e69-8eac-172cdece69ff</link>
+      <description>Hunden Voffs faller ned en skrent. Klarer Bjørnis og de andre å redde han opp?</description>
+      <guid isPermaLink="false">l_2f4eac17-2cde-4e69-8eac-172cdece69ff</guid>
+      <pubDate>Fri, 16 Jun 2023 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/142e5cb0-cb4f-4940-931a-139569492b46_0_ID192MP3.mp3" type="audio/mpeg" length="21209517"></enclosure>
+      <itunes:title>Hund i fare</itunes:title>
+      <itunes:summary>Hunden Voffs faller ned en skrent. Klarer Bjørnis og de andre å redde han opp?</itunes:summary>
+      <itunes:duration>883</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UXmXnGZXZl1Gg4qiYBWjWg6Wa2B2BE1UrOzsuTyXKenQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Tur på stranda </title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_e4c45fd4-f4d7-4588-845f-d4f4d7c5883f</link>
+      <description>En søppeldunk på stranda står i full fyr. Hva er det som har skjedd?  </description>
+      <guid isPermaLink="false">l_e4c45fd4-f4d7-4588-845f-d4f4d7c5883f</guid>
+      <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/192f7f86-b6eb-478b-aeae-be69b7e7df1b_0_ID192MP3.mp3" type="audio/mpeg" length="25058925"></enclosure>
+      <itunes:title>Tur på stranda </itunes:title>
+      <itunes:summary>En søppeldunk på stranda står i full fyr. Hva er det som har skjedd?  </itunes:summary>
+      <itunes:duration>1044</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UXmXnGZXZl1Gg4qiYBWjWg6Wa2B2BE1UrOzsuTyXKenQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>La humla suse</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_f4bb1337-f38a-48f0-bb13-37f38a98f08f</link>
+      <description>Bjørnis er helt oppslukt i en dronninghumle – så går alarmen. Det brenner i en søppelbil.</description>
+      <guid isPermaLink="false">l_f4bb1337-f38a-48f0-bb13-37f38a98f08f</guid>
+      <pubDate>Fri, 31 Mar 2023 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/d35bbcf4-10a2-4d57-ac5d-d918d92eb067_0_ID192MP3.mp3" type="audio/mpeg" length="24178797"></enclosure>
+      <itunes:title>La humla suse</itunes:title>
+      <itunes:summary>Bjørnis er helt oppslukt i en dronninghumle – så går alarmen. Det brenner i en søppelbil.</itunes:summary>
+      <itunes:duration>1007</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/spqLAshqn0sxTybs-zB5tgQq3uY3j0Lczo3lQ66xlHTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>17. mai</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_5a85de92-166e-40d6-85de-92166e90d644</link>
+      <description> Et bål kommer ut av kontroll og Bjørnis må ut med skogbrannpumpa på selveste 17. mai.</description>
+      <guid isPermaLink="false">l_5a85de92-166e-40d6-85de-92166e90d644</guid>
+      <pubDate>Fri, 31 Mar 2023 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/0d9a2056-89f8-42d5-be94-cdd6e51e693b_0_ID192MP3.mp3" type="audio/mpeg" length="24568173"></enclosure>
+      <itunes:title>17. mai</itunes:title>
+      <itunes:summary> Et bål kommer ut av kontroll og Bjørnis må ut med skogbrannpumpa på selveste 17. mai.</itunes:summary>
+      <itunes:duration>1023</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/spqLAshqn0sxTybs-zB5tgQq3uY3j0Lczo3lQ66xlHTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Id-fest </title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_62751ae4-8f05-404d-b51a-e48f05d04d1b</link>
+      <description>Midt i Id-feiringen går en gutt seg vill i skogen. Bjørnis og co må bruke drone for å lete etter han.  </description>
+      <guid isPermaLink="false">l_62751ae4-8f05-404d-b51a-e48f05d04d1b</guid>
+      <pubDate>Fri, 31 Mar 2023 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/e2d6355a-f65f-454e-a2c7-783d14b8a2ae_0_ID192MP3.mp3" type="audio/mpeg" length="21688749"></enclosure>
+      <itunes:title>Id-fest </itunes:title>
+      <itunes:summary>Midt i Id-feiringen går en gutt seg vill i skogen. Bjørnis og co må bruke drone for å lete etter han.  </itunes:summary>
+      <itunes:duration>903</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/spqLAshqn0sxTybs-zB5tgQq3uY3j0Lczo3lQ66xlHTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vårflom</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_bf30025c-a448-4064-b002-5ca44810640a</link>
+      <description>En mann har falt i elva, og Bjørnis må ut med brannbåten for å redde han.</description>
+      <guid isPermaLink="false">l_bf30025c-a448-4064-b002-5ca44810640a</guid>
+      <pubDate>Fri, 31 Mar 2023 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/870cd971-1cf6-4e8e-b097-46134c8a2b78_0_ID192MP3.mp3" type="audio/mpeg" length="20671533"></enclosure>
+      <itunes:title>Vårflom</itunes:title>
+      <itunes:summary>En mann har falt i elva, og Bjørnis må ut med brannbåten for å redde han.</itunes:summary>
+      <itunes:duration>861</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/spqLAshqn0sxTybs-zB5tgQq3uY3j0Lczo3lQ66xlHTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Påskeaften</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_e27f0ce5-8153-4286-bf0c-e58153c286ff</link>
+      <description> Midt i påskeeggjakten må Bjørnis rykke ut til en butikk i sentrum. En dekorasjon har tatt fyr. </description>
+      <guid isPermaLink="false">l_e27f0ce5-8153-4286-bf0c-e58153c286ff</guid>
+      <pubDate>Fri, 31 Mar 2023 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/96b3ca11-1499-4b79-95f4-88451e513c8c_0_ID192MP3.mp3" type="audio/mpeg" length="20617965"></enclosure>
+      <itunes:title>Påskeaften</itunes:title>
+      <itunes:summary> Midt i påskeeggjakten må Bjørnis rykke ut til en butikk i sentrum. En dekorasjon har tatt fyr. </itunes:summary>
+      <itunes:duration>859</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/spqLAshqn0sxTybs-zB5tgQq3uY3j0Lczo3lQ66xlHTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Den store akedagen (5:5)</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_ac397ff5-adfe-4d76-b97f-f5adfe5d760a</link>
+      <description>En gutt på akebrett mister kontrollen, og setter seg bom fast under en bil. Hvordan skal de få han løs? </description>
+      <guid isPermaLink="false">l_ac397ff5-adfe-4d76-b97f-f5adfe5d760a</guid>
+      <pubDate>Fri, 17 Feb 2023 06:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/8da87ef7-fcd7-4edc-ab46-8cbf2a3cd493_0_ID192MP3.mp3" type="audio/mpeg" length="22370733"></enclosure>
+      <itunes:title>Den store akedagen (5:5)</itunes:title>
+      <itunes:summary>En gutt på akebrett mister kontrollen, og setter seg bom fast under en bil. Hvordan skal de få han løs? </itunes:summary>
+      <itunes:duration>932</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ld8jTRcRJNLSHjJ4_HAeoAdAtKafkkz4tD9OIUgI2GjA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fyr i gardin (4:5)</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_a9241f17-84ef-4ed5-a41f-1784ef5ed58a</link>
+      <description>Et stearinlys setter fyr på gardina, og mamma får ikkje til å bruke brannslukkingsapparatet. Her trengs det hjelp frå Bjørnis! </description>
+      <guid isPermaLink="false">l_a9241f17-84ef-4ed5-a41f-1784ef5ed58a</guid>
+      <pubDate>Fri, 17 Feb 2023 06:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/019a098f-c9d0-494c-9aba-5c66014255e6_0_ID192MP3.mp3" type="audio/mpeg" length="22683501"></enclosure>
+      <itunes:title>Fyr i gardin (4:5)</itunes:title>
+      <itunes:summary>Et stearinlys setter fyr på gardina, og mamma får ikkje til å bruke brannslukkingsapparatet. Her trengs det hjelp frå Bjørnis! </itunes:summary>
+      <itunes:duration>945</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ld8jTRcRJNLSHjJ4_HAeoAdAtKafkkz4tD9OIUgI2GjA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Redd Valpen (3:5)</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_2d121725-6807-47e8-9217-25680767e85d</link>
+      <description>En bil krasjer inn i en annen, og valpen Falk blir sittende fast i bagasjerommet. Greier Bjørnis å få ham ut? </description>
+      <guid isPermaLink="false">l_2d121725-6807-47e8-9217-25680767e85d</guid>
+      <pubDate>Fri, 17 Feb 2023 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/433b8ffc-551a-469f-ab4e-ab5c64e481ae_0_ID192MP3.mp3" type="audio/mpeg" length="23204781"></enclosure>
+      <itunes:title>Redd Valpen (3:5)</itunes:title>
+      <itunes:summary>En bil krasjer inn i en annen, og valpen Falk blir sittende fast i bagasjerommet. Greier Bjørnis å få ham ut? </itunes:summary>
+      <itunes:duration>966</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ld8jTRcRJNLSHjJ4_HAeoAdAtKafkkz4tD9OIUgI2GjA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fast på fjellet (2:5)</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_413dce39-d53d-40b6-bdce-39d53d90b6dc</link>
+      <description>Et søskenpar på slalåmski setter seg fast på en fjellhylle, og Bjørnis må rykke ut med dronen.</description>
+      <guid isPermaLink="false">l_413dce39-d53d-40b6-bdce-39d53d90b6dc</guid>
+      <pubDate>Fri, 17 Feb 2023 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/a8a8ddbb-9cfe-4cec-ae3b-07c7933a5752_0_ID192MP3.mp3" type="audio/mpeg" length="22736493"></enclosure>
+      <itunes:title>Fast på fjellet (2:5)</itunes:title>
+      <itunes:summary>Et søskenpar på slalåmski setter seg fast på en fjellhylle, og Bjørnis må rykke ut med dronen.</itunes:summary>
+      <itunes:duration>947</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ld8jTRcRJNLSHjJ4_HAeoAdAtKafkkz4tD9OIUgI2GjA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Karneval (1:5)</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_83e71576-d36c-4d5d-a715-76d36cdd5d7f</link>
+      <description>Det er karneval i barnehagen, men så går brannalarmen. Nå har Bjørnis ingen tid å miste.</description>
+      <guid isPermaLink="false">l_83e71576-d36c-4d5d-a715-76d36cdd5d7f</guid>
+      <pubDate>Fri, 17 Feb 2023 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/b640ccd4-e85b-4713-88a7-a135d4788919_0_ID192MP3.mp3" type="audio/mpeg" length="22493997"></enclosure>
+      <itunes:title>Karneval (1:5)</itunes:title>
+      <itunes:summary>Det er karneval i barnehagen, men så går brannalarmen. Nå har Bjørnis ingen tid å miste.</itunes:summary>
+      <itunes:duration>937</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ld8jTRcRJNLSHjJ4_HAeoAdAtKafkkz4tD9OIUgI2GjA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Brannbamsen Bjørnis. Romjul på brannstasjonen.</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_3436911c-0d47-46d5-b691-1c0d4796d526</link>
+      <description>&#xA;Brannbamsen Bjørnis er i julestemning. &#xA;Hold deg fast og bli med Bjørnis på utrykning! </description>
+      <guid isPermaLink="false">l_3436911c-0d47-46d5-b691-1c0d4796d526</guid>
+      <pubDate>Thu, 08 Dec 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/03c625ad-6dc1-4c54-9b7b-bd9c38669381_0_ID192MP3.mp3" type="audio/mpeg" length="2055213"></enclosure>
+      <itunes:title>Brannbamsen Bjørnis. Romjul på brannstasjonen.</itunes:title>
+      <itunes:summary>&#xA;Brannbamsen Bjørnis er i julestemning. &#xA;Hold deg fast og bli med Bjørnis på utrykning! </itunes:summary>
+      <itunes:duration>85</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/C5i5RenpOOvTgwdC-unU0Qs_wbLNbPov5PODNwWTpVew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fjøs i flammer </title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_90dd478c-8373-4afd-9d47-8c8373cafdd1</link>
+      <description>&#xA;Et fjøs fullt av dyr tar fyr. &#xA;Heldigvis er ikke Bjørnis langt unna.  </description>
+      <guid isPermaLink="false">l_90dd478c-8373-4afd-9d47-8c8373cafdd1</guid>
+      <pubDate>Thu, 08 Dec 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/c973970c-e5bd-4f87-a3e3-4c7b8204b9a5_0_ID192MP3.mp3" type="audio/mpeg" length="25653933"></enclosure>
+      <itunes:title>Fjøs i flammer </itunes:title>
+      <itunes:summary>&#xA;Et fjøs fullt av dyr tar fyr. &#xA;Heldigvis er ikke Bjørnis langt unna.  </itunes:summary>
+      <itunes:duration>1068</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/C5i5RenpOOvTgwdC-unU0Qs_wbLNbPov5PODNwWTpVew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Forsvunnet på vidda</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_a9669dba-4c8f-425f-a69d-ba4c8f325f0a</link>
+      <description>En mann på snøscooter er savnet, &#xA;og Bjørnis og de andre må bruke drone for å lete. </description>
+      <guid isPermaLink="false">l_a9669dba-4c8f-425f-a69d-ba4c8f325f0a</guid>
+      <pubDate>Thu, 08 Dec 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/ddb951ee-aca1-480e-aab0-70651f66b68b_0_ID192MP3.mp3" type="audio/mpeg" length="26975277"></enclosure>
+      <itunes:title>Forsvunnet på vidda</itunes:title>
+      <itunes:summary>En mann på snøscooter er savnet, &#xA;og Bjørnis og de andre må bruke drone for å lete. </itunes:summary>
+      <itunes:duration>1123</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/C5i5RenpOOvTgwdC-unU0Qs_wbLNbPov5PODNwWTpVew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Det brenner i pipa!</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_d42ad398-48e5-4457-aad3-9848e57457e8</link>
+      <description>En pipe står i full brann. Våger Bjørnis seg opp i stigebilen for å være med og slukke?  </description>
+      <guid isPermaLink="false">l_d42ad398-48e5-4457-aad3-9848e57457e8</guid>
+      <pubDate>Thu, 08 Dec 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/020961d5-d845-4b7d-af2b-0db9b4640b85_0_ID192MP3.mp3" type="audio/mpeg" length="24961005"></enclosure>
+      <itunes:title>Det brenner i pipa!</itunes:title>
+      <itunes:summary>En pipe står i full brann. Våger Bjørnis seg opp i stigebilen for å være med og slukke?  </itunes:summary>
+      <itunes:duration>1039</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/C5i5RenpOOvTgwdC-unU0Qs_wbLNbPov5PODNwWTpVew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En uvanlig nyttårsaften </title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_e4487c72-6409-41d3-887c-72640911d395</link>
+      <description>Bjørnis må ut på et noe uvanlig oppdrag. Blir det nyttårsfest likevel? </description>
+      <guid isPermaLink="false">l_e4487c72-6409-41d3-887c-72640911d395</guid>
+      <pubDate>Thu, 08 Dec 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/881ad094-8b60-48ef-b12b-06692c43a820_0_ID192MP3.mp3" type="audio/mpeg" length="25191405"></enclosure>
+      <itunes:title>En uvanlig nyttårsaften </itunes:title>
+      <itunes:summary>Bjørnis må ut på et noe uvanlig oppdrag. Blir det nyttårsfest likevel? </itunes:summary>
+      <itunes:duration>1049</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/C5i5RenpOOvTgwdC-unU0Qs_wbLNbPov5PODNwWTpVew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bjørnis får besøk (5:5)</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_2a19e875-e9d2-4a38-99e8-75e9d29a387c</link>
+      <description>I dag får Bjørnis besøk på brannstasjonen, men ikke alt går som planlagt.  </description>
+      <guid isPermaLink="false">l_2a19e875-e9d2-4a38-99e8-75e9d29a387c</guid>
+      <pubDate>Thu, 01 Dec 2022 06:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/6ce835d3-3fb0-43c4-82a8-2aae5703c15c_0_ID192MP3.mp3" type="audio/mpeg" length="18438381"></enclosure>
+      <itunes:title>Bjørnis får besøk (5:5)</itunes:title>
+      <itunes:summary>I dag får Bjørnis besøk på brannstasjonen, men ikke alt går som planlagt.  </itunes:summary>
+      <itunes:duration>768</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/B2Pqw24tCGO-RBTKR6G1PgBGCrEQ1JFDZCUpz_3lixyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Papegøyen i treet (4:5)</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_9e232b77-2c83-4a75-a32b-772c834a75f7</link>
+      <description>Papegøyen Nico sitter fast i et høyt tre, og Bjørnis er med for å hjelpe han ned. </description>
+      <guid isPermaLink="false">l_9e232b77-2c83-4a75-a32b-772c834a75f7</guid>
+      <pubDate>Thu, 01 Dec 2022 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/55e14804-aa9e-483d-b69c-1264d8619478_0_ID192MP3.mp3" type="audio/mpeg" length="17727021"></enclosure>
+      <itunes:title>Papegøyen i treet (4:5)</itunes:title>
+      <itunes:summary>Papegøyen Nico sitter fast i et høyt tre, og Bjørnis er med for å hjelpe han ned. </itunes:summary>
+      <itunes:duration>738</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/B2Pqw24tCGO-RBTKR6G1PgBGCrEQ1JFDZCUpz_3lixyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Brann i bakerovnen (3:5)</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_29a3b80c-6a2c-4a98-a3b8-0c6a2c1a9807</link>
+      <description>Det brenner hos bakeren, og Bjørnis må bruke branndronen for å se oppi pipa. </description>
+      <guid isPermaLink="false">l_29a3b80c-6a2c-4a98-a3b8-0c6a2c1a9807</guid>
+      <pubDate>Thu, 01 Dec 2022 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/6c40633f-d83c-4a13-8e24-62fe54e0c06d_0_ID192MP3.mp3" type="audio/mpeg" length="18850221"></enclosure>
+      <itunes:title>Brann i bakerovnen (3:5)</itunes:title>
+      <itunes:summary>Det brenner hos bakeren, og Bjørnis må bruke branndronen for å se oppi pipa. </itunes:summary>
+      <itunes:duration>785</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/B2Pqw24tCGO-RBTKR6G1PgBGCrEQ1JFDZCUpz_3lixyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Utrygg is (2:5)</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_296a52ce-13eb-42e0-aa52-ce13ebf2e0af</link>
+      <description>Bjørnis må hjelpe to gutter som har gått ut på utrygg is. </description>
+      <guid isPermaLink="false">l_296a52ce-13eb-42e0-aa52-ce13ebf2e0af</guid>
+      <pubDate>Thu, 01 Dec 2022 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/e4e08756-84c8-45d9-9f12-126f3b433eed_0_ID192MP3.mp3" type="audio/mpeg" length="18904941"></enclosure>
+      <itunes:title>Utrygg is (2:5)</itunes:title>
+      <itunes:summary>Bjørnis må hjelpe to gutter som har gått ut på utrygg is. </itunes:summary>
+      <itunes:duration>787</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/B2Pqw24tCGO-RBTKR6G1PgBGCrEQ1JFDZCUpz_3lixyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fingeren sitter fast (1:5)</title>
+      <link>https://radio.nrk.no/podkast/brannbamsen_bjoernis/l_a860e8cf-d13d-4bd3-a0e8-cfd13d4bd3b1</link>
+      <description>En liten gutt har satt fast fingeren sin i et gjerde og kommer ikke løs. Bjørnis rykker ut. </description>
+      <guid isPermaLink="false">l_a860e8cf-d13d-4bd3-a0e8-cfd13d4bd3b1</guid>
+      <pubDate>Thu, 01 Dec 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brannbamsen_bjoernis/ae4f7cc4-ade9-4d0e-97b6-91ad70b20cb1_0_ID192MP3.mp3" type="audio/mpeg" length="23398317"></enclosure>
+      <itunes:title>Fingeren sitter fast (1:5)</itunes:title>
+      <itunes:summary>En liten gutt har satt fast fingeren sin i et gjerde og kommer ikke løs. Bjørnis rykker ut. </itunes:summary>
+      <itunes:duration>974</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/B2Pqw24tCGO-RBTKR6G1PgBGCrEQ1JFDZCUpz_3lixyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

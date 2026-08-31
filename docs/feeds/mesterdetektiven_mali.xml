@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mesterdetektiven Mali</title>
+    <link>https://radio.nrk.no/podkast/mesterdetektiven_mali</link>
+    <description>Når Mali ikke er i barnehagen er hun en ekte mesterdetektiv som løser mysterier i nabolaget sitt.&#xA;&#xA;En podkastserie for barn fra NRK Super.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Tue, 25 Sep 2018 14:27:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/mesterdetektiven_mali.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Når Mali ikke er i barnehagen er hun en ekte mesterdetektiv som løser mysterier i nabolaget sitt.&#xA;&#xA;En podkastserie for barn fra NRK Super.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/i1EPUYLRdfATLN0pBGUl1QIo2-cWmXA_mKkv67TZqUjg"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/i1EPUYLRdfATLN0pBGUl1QIo2-cWmXA_mKkv67TZqUjg</url>
+      <title>Mesterdetektiven Mali</title>
+      <link>https://radio.nrk.no/podkast/mesterdetektiven_mali</link>
+    </image>
+    <item>
+      <title>Den usynlige tyven (4:4)</title>
+      <link>https://radio.nrk.no/podkast/mesterdetektiven_mali/l_bdf40b9b-2059-44b2-b40b-9b2059a4b21e</link>
+      <description>En usynlig tyv stjeler det kjæreste Mali eier - kosekluten Knut Arild.</description>
+      <guid isPermaLink="false">l_bdf40b9b-2059-44b2-b40b-9b2059a4b21e</guid>
+      <pubDate>Tue, 25 Sep 2018 16:27:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mesterdetektiven_mali/mesterdetektiven_mali_2018-09-25_1420_2224.MP3" type="audio/mpeg" length="14046988"></enclosure>
+      <itunes:title>Den usynlige tyven (4:4)</itunes:title>
+      <itunes:summary>En usynlig tyv stjeler det kjæreste Mali eier - kosekluten Knut Arild.</itunes:summary>
+      <itunes:duration>581</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/i1EPUYLRdfATLN0pBGUl1QIo2-cWmXA_mKkv67TZqUjg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Konge for en dag (3:4)</title>
+      <link>https://radio.nrk.no/podkast/mesterdetektiven_mali/l_a2db8012-b187-49b6-9b80-12b18749b6d9</link>
+      <description>Mali får muligheten til å bli konge for en dag.</description>
+      <guid isPermaLink="false">l_a2db8012-b187-49b6-9b80-12b18749b6d9</guid>
+      <pubDate>Tue, 25 Sep 2018 16:24:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mesterdetektiven_mali/mesterdetektiven_mali_2018-09-25_1420_4012.MP3" type="audio/mpeg" length="15206822"></enclosure>
+      <itunes:title>Konge for en dag (3:4)</itunes:title>
+      <itunes:summary>Mali får muligheten til å bli konge for en dag.</itunes:summary>
+      <itunes:duration>629</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/i1EPUYLRdfATLN0pBGUl1QIo2-cWmXA_mKkv67TZqUjg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Den flygende kaninen (2:4)</title>
+      <link>https://radio.nrk.no/podkast/mesterdetektiven_mali/l_766f1aec-2c22-4b14-af1a-ec2c22ab1419</link>
+      <description>Mali må løse mysteriet med den flygende kaninen.</description>
+      <guid isPermaLink="false">l_766f1aec-2c22-4b14-af1a-ec2c22ab1419</guid>
+      <pubDate>Tue, 25 Sep 2018 16:21:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mesterdetektiven_mali/mesterdetektiven_mali_2018-09-25_1419_1085.MP3" type="audio/mpeg" length="21446121"></enclosure>
+      <itunes:title>Den flygende kaninen (2:4)</itunes:title>
+      <itunes:summary>Mali må løse mysteriet med den flygende kaninen.</itunes:summary>
+      <itunes:duration>889</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/i1EPUYLRdfATLN0pBGUl1QIo2-cWmXA_mKkv67TZqUjg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Får skylda (1:4)</title>
+      <link>https://radio.nrk.no/podkast/mesterdetektiven_mali/l_541fc3bf-c57a-4a7f-9fc3-bfc57ada7f04</link>
+      <description>Mali får skylda for noe hun ikke har gjort. Hun må bevise for de voksne at hun er uskyldig.</description>
+      <guid isPermaLink="false">l_541fc3bf-c57a-4a7f-9fc3-bfc57ada7f04</guid>
+      <pubDate>Tue, 25 Sep 2018 16:19:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mesterdetektiven_mali/mesterdetektiven_mali_2018-09-25_1419_1139.MP3" type="audio/mpeg" length="21439216"></enclosure>
+      <itunes:title>Får skylda (1:4)</itunes:title>
+      <itunes:summary>Mali får skylda for noe hun ikke har gjort. Hun må bevise for de voksne at hun er uskyldig.</itunes:summary>
+      <itunes:duration>889</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/i1EPUYLRdfATLN0pBGUl1QIo2-cWmXA_mKkv67TZqUjg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

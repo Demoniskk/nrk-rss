@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventyrstund med Morten og Saft</title>
+    <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft</link>
+    <description>Når Morten forteller folkeeventyrene blir det både skummelt og morsomt, synes hunden Saft.&#xA;&#xA;&#xA;Forteller: Morten Strand&#xA;Medvirkende: Saft Suse&#xA;Musikk av Magnus Stinnerbom&#xA;Lyddesign: Hilde Rolfsnes&#xA;Produsent: Hanne Vennemo&#xA;Redaktør NRK Super: Siril Heyerdahl&#xA;&#xA;&#xA;</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 22 Sep 2023 04:05:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/eventyrstund_med_morten_og_saft.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Når Morten forteller folkeeventyrene blir det både skummelt og morsomt, synes hunden Saft.&#xA;&#xA;&#xA;Forteller: Morten Strand&#xA;Medvirkende: Saft Suse&#xA;Musikk av Magnus Stinnerbom&#xA;Lyddesign: Hilde Rolfsnes&#xA;Produsent: Hanne Vennemo&#xA;Redaktør NRK Super: Siril Heyerdahl&#xA;&#xA;&#xA;</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg</url>
+      <title>Eventyrstund med Morten og Saft</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft</link>
+    </image>
+    <item>
+      <title>Bamse Brakar</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_fc4dd1d0-b612-4719-8dd1-d0b612c719ae</link>
+      <description>Bamse Brakar kjører villmann med sleden til mannen. Til slutt må han betale dyrt</description>
+      <guid isPermaLink="false">l_fc4dd1d0-b612-4719-8dd1-d0b612c719ae</guid>
+      <pubDate>Fri, 22 Sep 2023 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/cf712ea8-e4cd-4182-bbd3-dc9a5d5e03e1_0_ID192MP3.mp3" type="audio/mpeg" length="9536301"></enclosure>
+      <itunes:title>Bamse Brakar</itunes:title>
+      <itunes:summary>Bamse Brakar kjører villmann med sleden til mannen. Til slutt må han betale dyrt</itunes:summary>
+      <itunes:duration>397</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høna tripper i berget</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_3fe136f7-7f17-49b2-a136-f77f17f9b227</link>
+      <description>Langt inne i fjellet har trollet fanget to søstre. Vil den tredje søsteren klare å redde dem?</description>
+      <guid isPermaLink="false">l_3fe136f7-7f17-49b2-a136-f77f17f9b227</guid>
+      <pubDate>Fri, 22 Sep 2023 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/5d2ba328-f8ee-4fbb-9c89-4762acdee1ea_0_ID192MP3.mp3" type="audio/mpeg" length="21136941"></enclosure>
+      <itunes:title>Høna tripper i berget</itunes:title>
+      <itunes:summary>Langt inne i fjellet har trollet fanget to søstre. Vil den tredje søsteren klare å redde dem?</itunes:summary>
+      <itunes:duration>880</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Per, Pål og Espen Askeladd </title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_fcd375fa-90ea-4b86-9375-fa90ea0b8695</link>
+      <description>Hos kongen vokser det en diger eik som han gjerne vil ha hugget ned. Mange prøver seg, men bare Askeladden har det som skal til.</description>
+      <guid isPermaLink="false">l_fcd375fa-90ea-4b86-9375-fa90ea0b8695</guid>
+      <pubDate>Fri, 22 Sep 2023 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/983cd63b-a665-43d0-ab8a-a0fceafe818d_0_ID192MP3.mp3" type="audio/mpeg" length="17430957"></enclosure>
+      <itunes:title>Per, Pål og Espen Askeladd </itunes:title>
+      <itunes:summary>Hos kongen vokser det en diger eik som han gjerne vil ha hugget ned. Mange prøver seg, men bare Askeladden har det som skal til.</itunes:summary>
+      <itunes:duration>726</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tyrihans som fikk prinsessa til å le</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_4b661906-f8b8-497c-a619-06f8b8997c89</link>
+      <description>Prinsessa ler ikke uten videre. Men til slutt må hun likevel gapskratte av det merkelige følget som Tyrihans setter sammen.</description>
+      <guid isPermaLink="false">l_4b661906-f8b8-497c-a619-06f8b8997c89</guid>
+      <pubDate>Fri, 22 Sep 2023 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/51b072a6-1ac7-4518-8e78-e55c6e760e03_0_ID192MP3.mp3" type="audio/mpeg" length="15420717"></enclosure>
+      <itunes:title>Tyrihans som fikk prinsessa til å le</itunes:title>
+      <itunes:summary>Prinsessa ler ikke uten videre. Men til slutt må hun likevel gapskratte av det merkelige følget som Tyrihans setter sammen.</itunes:summary>
+      <itunes:duration>642</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Risen som ikke hadde hjerte på seg</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_41dab9e1-3863-4738-9ab9-e1386367388a</link>
+      <description>For at prinsessa skal bli fri, så må hun og Askeladden finne ut hvor trollet har gjemt hjertet sitt.</description>
+      <guid isPermaLink="false">l_41dab9e1-3863-4738-9ab9-e1386367388a</guid>
+      <pubDate>Fri, 22 Sep 2023 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/9dd03e7d-aa4a-4b24-bc2f-9c6a55d09287_0_ID192MP3.mp3" type="audio/mpeg" length="21208365"></enclosure>
+      <itunes:title>Risen som ikke hadde hjerte på seg</itunes:title>
+      <itunes:summary>For at prinsessa skal bli fri, så må hun og Askeladden finne ut hvor trollet har gjemt hjertet sitt.</itunes:summary>
+      <itunes:duration>883</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title> Tro og Utro</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_278290f0-69a5-4451-8290-f069a5545117</link>
+      <description>Den ene broren er så slem at han stikker ut øynene på den andre. Men ved hjelp av magisk dugg får den snille Tro synet tilbake, og alt ender så godt som det bare gjør i eventyr. </description>
+      <guid isPermaLink="false">l_278290f0-69a5-4451-8290-f069a5545117</guid>
+      <pubDate>Fri, 22 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/40fb208b-893f-43a5-bc31-55433e742915_0_ID192MP3.mp3" type="audio/mpeg" length="18191853"></enclosure>
+      <itunes:title> Tro og Utro</itunes:title>
+      <itunes:summary>Den ene broren er så slem at han stikker ut øynene på den andre. Men ved hjelp av magisk dugg får den snille Tro synet tilbake, og alt ender så godt som det bare gjør i eventyr. </itunes:summary>
+      <itunes:duration>757</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title> Smørbukk</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_43ae0042-604d-4900-ae00-42604df90060</link>
+      <description>Når Smørbukk blir tatt av en trollkjerring,  må han være både smart og lur for å komme seg hjem igjen.</description>
+      <guid isPermaLink="false">l_43ae0042-604d-4900-ae00-42604df90060</guid>
+      <pubDate>Fri, 14 Jul 2023 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/18dd1d1d-4b12-420d-85a4-99aa48f45ffe_0_ID192MP3.mp3" type="audio/mpeg" length="16512237"></enclosure>
+      <itunes:title> Smørbukk</itunes:title>
+      <itunes:summary>Når Smørbukk blir tatt av en trollkjerring,  må han være både smart og lur for å komme seg hjem igjen.</itunes:summary>
+      <itunes:duration>687</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Herreper</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_7edffa78-a320-4b31-9ffa-78a3209b3158</link>
+      <description>Katten blir til en magisk hjelper i dette eventyret.</description>
+      <guid isPermaLink="false">l_7edffa78-a320-4b31-9ffa-78a3209b3158</guid>
+      <pubDate>Fri, 14 Jul 2023 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/590e52f1-b73e-4e6f-8364-98ab3f845731_0_ID192MP3.mp3" type="audio/mpeg" length="21994605"></enclosure>
+      <itunes:title>Herreper</itunes:title>
+      <itunes:summary>Katten blir til en magisk hjelper i dette eventyret.</itunes:summary>
+      <itunes:duration>916</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Reven og Bjørnen</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_35336ff4-b50d-4682-b36f-f4b50de68264</link>
+      <description>Bjørnen blir nesten alltid lurt av reven. Men av og til byttes rollene om.</description>
+      <guid isPermaLink="false">l_35336ff4-b50d-4682-b36f-f4b50de68264</guid>
+      <pubDate>Fri, 14 Jul 2023 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/255b2584-1ee4-4962-92b3-8284a7b3099c_0_ID192MP3.mp3" type="audio/mpeg" length="13540653"></enclosure>
+      <itunes:title>Reven og Bjørnen</itunes:title>
+      <itunes:summary>Bjørnen blir nesten alltid lurt av reven. Men av og til byttes rollene om.</itunes:summary>
+      <itunes:duration>564</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gudbrand i Lia</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_72d3e3e0-ba33-450a-93e3-e0ba33b50a3b</link>
+      <description>Kona er alltid fornøyd, hun. Og det lønner seg for både henne og mannen til slutt.</description>
+      <guid isPermaLink="false">l_72d3e3e0-ba33-450a-93e3-e0ba33b50a3b</guid>
+      <pubDate>Fri, 14 Jul 2023 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/f4859d96-8f4a-4020-8ab6-73adb44c8794_0_ID192MP3.mp3" type="audio/mpeg" length="14325165"></enclosure>
+      <itunes:title>Gudbrand i Lia</itunes:title>
+      <itunes:summary>Kona er alltid fornøyd, hun. Og det lønner seg for både henne og mannen til slutt.</itunes:summary>
+      <itunes:duration>596</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title> Kvernen som står og maler på havets bunn</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_48216abf-b872-4b16-a16a-bfb8721b16de</link>
+      <description>Mannen  bytter en skinke mot en magisk kvern.</description>
+      <guid isPermaLink="false">l_48216abf-b872-4b16-a16a-bfb8721b16de</guid>
+      <pubDate>Fri, 14 Jul 2023 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/a116cf69-892a-445a-a1ac-8cef6072df6d_0_ID192MP3.mp3" type="audio/mpeg" length="17033517"></enclosure>
+      <itunes:title> Kvernen som står og maler på havets bunn</itunes:title>
+      <itunes:summary>Mannen  bytter en skinke mot en magisk kvern.</itunes:summary>
+      <itunes:duration>709</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Askeladden som kappåt med trollet</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_93ef108c-a5ab-4913-af10-8ca5abc913dd</link>
+      <description>Trollet blir lurt i spisekonkurranse med Askeladden</description>
+      <guid isPermaLink="false">l_93ef108c-a5ab-4913-af10-8ca5abc913dd</guid>
+      <pubDate>Fri, 14 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/10345872-dc75-43a6-9d11-6d881b28a727_0_ID192MP3.mp3" type="audio/mpeg" length="13966893"></enclosure>
+      <itunes:title>Askeladden som kappåt med trollet</itunes:title>
+      <itunes:summary>Trollet blir lurt i spisekonkurranse med Askeladden</itunes:summary>
+      <itunes:duration>581</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gutten som gjorde seg om til løve, falk og maur</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_0e874335-db59-4307-8743-35db59f30733</link>
+      <description>Ved hjelp av magi gjør vår helt seg om til enten løve, falk eller maur. Og det blir til god hjelp når han redder prinsessa fra trollet.</description>
+      <guid isPermaLink="false">l_0e874335-db59-4307-8743-35db59f30733</guid>
+      <pubDate>Fri, 16 Jun 2023 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/920cf035-1950-442e-9c2f-02a12856c1da_0_ID192MP3.mp3" type="audio/mpeg" length="18786285"></enclosure>
+      <itunes:title>Gutten som gjorde seg om til løve, falk og maur</itunes:title>
+      <itunes:summary>Ved hjelp av magi gjør vår helt seg om til enten løve, falk eller maur. Og det blir til god hjelp når han redder prinsessa fra trollet.</itunes:summary>
+      <itunes:duration>782</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title> Prinsessa som ingen kunne målbinde</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_9cdcc76d-0618-45f7-9cc7-6d061855f763</link>
+      <description>Prinsessa er både muggen og munnrapp, men Askeladden har alltid et godt svar.</description>
+      <guid isPermaLink="false">l_9cdcc76d-0618-45f7-9cc7-6d061855f763</guid>
+      <pubDate>Fri, 16 Jun 2023 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/16060a56-1033-4648-a1a7-b0cfb2efa509_0_ID192MP3.mp3" type="audio/mpeg" length="12575853"></enclosure>
+      <itunes:title> Prinsessa som ingen kunne målbinde</itunes:title>
+      <itunes:summary>Prinsessa er både muggen og munnrapp, men Askeladden har alltid et godt svar.</itunes:summary>
+      <itunes:duration>523</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Pannekaka</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_5a7a713f-e7b6-41d9-ba71-3fe7b6d1d9eb</link>
+      <description>Pannekaka har ikke lyst til å bli spist, og triller ut av pannen og vekk fra sju sultne unger. </description>
+      <guid isPermaLink="false">l_5a7a713f-e7b6-41d9-ba71-3fe7b6d1d9eb</guid>
+      <pubDate>Fri, 16 Jun 2023 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/741be1f5-9c33-4f4a-961e-acf6cc6958c6_0_ID192MP3.mp3" type="audio/mpeg" length="13369581"></enclosure>
+      <itunes:title>Pannekaka</itunes:title>
+      <itunes:summary>Pannekaka har ikke lyst til å bli spist, og triller ut av pannen og vekk fra sju sultne unger. </itunes:summary>
+      <itunes:duration>556</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kari Trestakk</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_975003f2-789b-4971-9003-f2789bf971cf</link>
+      <description>I denne norske varianten av Askepott er det en magisk okse som hjelper heltinnen.</description>
+      <guid isPermaLink="false">l_975003f2-789b-4971-9003-f2789bf971cf</guid>
+      <pubDate>Fri, 16 Jun 2023 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/7254fd03-8afd-40e4-8d35-f5c41ea1a52b_0_ID192MP3.mp3" type="audio/mpeg" length="24935085"></enclosure>
+      <itunes:title>Kari Trestakk</itunes:title>
+      <itunes:summary>I denne norske varianten av Askepott er det en magisk okse som hjelper heltinnen.</itunes:summary>
+      <itunes:duration>1038</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tommeliten</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_4f0263cc-594e-448f-8263-cc594eb48f9f</link>
+      <description>Prinsessa er uvøren mens hun spiser. Og det får katastrofale følger for bittelille Tommeliten.</description>
+      <guid isPermaLink="false">l_4f0263cc-594e-448f-8263-cc594eb48f9f</guid>
+      <pubDate>Fri, 16 Jun 2023 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/9ca43564-6356-4468-a585-3fbf85643309_0_ID192MP3.mp3" type="audio/mpeg" length="7375725"></enclosure>
+      <itunes:title>Tommeliten</itunes:title>
+      <itunes:summary>Prinsessa er uvøren mens hun spiser. Og det får katastrofale følger for bittelille Tommeliten.</itunes:summary>
+      <itunes:duration>307</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Husmusa og fjellmusa</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_3b8001ac-2569-4216-8001-ac2569a21699</link>
+      <description>Hvem lever egentlig best? Den frie, men fattige fjellmusa? Eller er det bymusa som jo har bedre mat, men som lever i samme hus som en katt?</description>
+      <guid isPermaLink="false">l_3b8001ac-2569-4216-8001-ac2569a21699</guid>
+      <pubDate>Fri, 16 Jun 2023 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/2a5579c9-cd28-4024-99f1-44587d8d3c57_0_ID192MP3.mp3" type="audio/mpeg" length="12164589"></enclosure>
+      <itunes:title>Husmusa og fjellmusa</itunes:title>
+      <itunes:summary>Hvem lever egentlig best? Den frie, men fattige fjellmusa? Eller er det bymusa som jo har bedre mat, men som lever i samme hus som en katt?</itunes:summary>
+      <itunes:duration>506</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Herremannsbrura</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_a07604cb-6150-41ed-b604-cb6150a1ed08</link>
+      <description>Den overlegne rikingen blir lurt. Bruden han har mast seg til blir nemlig bytta ut med en hest.</description>
+      <guid isPermaLink="false">l_a07604cb-6150-41ed-b604-cb6150a1ed08</guid>
+      <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/bf0d7119-935f-4a10-b729-251b3ad93caa_0_ID192MP3.mp3" type="audio/mpeg" length="11122029"></enclosure>
+      <itunes:title>Herremannsbrura</itunes:title>
+      <itunes:summary>Den overlegne rikingen blir lurt. Bruden han har mast seg til blir nemlig bytta ut med en hest.</itunes:summary>
+      <itunes:duration>463</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gutten som gikk til nordavinden og krevde igjen melet</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_c57294aa-863b-4123-b294-aa863bd1232d</link>
+      <description>Nordavinden blåser bort melet. I stedet får gutten fantastiske og magiske gaver.</description>
+      <guid isPermaLink="false">l_c57294aa-863b-4123-b294-aa863bd1232d</guid>
+      <pubDate>Fri, 31 Mar 2023 06:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/ce7b925b-e32c-425f-ac64-6a3aab827ee4_0_ID192MP3.mp3" type="audio/mpeg" length="16285293"></enclosure>
+      <itunes:title>Gutten som gikk til nordavinden og krevde igjen melet</itunes:title>
+      <itunes:summary>Nordavinden blåser bort melet. I stedet får gutten fantastiske og magiske gaver.</itunes:summary>
+      <itunes:duration>678</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ikke naken og ikke kledt</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_185bd203-e2a6-4b42-9bd2-03e2a6db42c9</link>
+      <description>Ved hjelp av oppfinnsomhet sørger jenta for at prinsen må gifte seg med henne, selv om han først sa nei.</description>
+      <guid isPermaLink="false">l_185bd203-e2a6-4b42-9bd2-03e2a6db42c9</guid>
+      <pubDate>Fri, 31 Mar 2023 06:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/1acf02bf-ca7a-4fb5-9556-81696aca7325_0_ID192MP3.mp3" type="audio/mpeg" length="4321197"></enclosure>
+      <itunes:title>Ikke naken og ikke kledt</itunes:title>
+      <itunes:summary>Ved hjelp av oppfinnsomhet sørger jenta for at prinsen må gifte seg med henne, selv om han først sa nei.</itunes:summary>
+      <itunes:duration>179</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Manndattera og kjerringdattera</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_88c0e042-b7aa-4c64-80e0-42b7aa8c64a8</link>
+      <description>Manndattera både lytter til råd og er vennlig mot dem hun møter. Det viser seg å være lønnsomt.</description>
+      <guid isPermaLink="false">l_88c0e042-b7aa-4c64-80e0-42b7aa8c64a8</guid>
+      <pubDate>Fri, 31 Mar 2023 06:07:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/00a3802d-e7f0-4912-bc62-a47c5590a2e3_0_ID192MP3.mp3" type="audio/mpeg" length="24871725"></enclosure>
+      <itunes:title>Manndattera og kjerringdattera</itunes:title>
+      <itunes:summary>Manndattera både lytter til råd og er vennlig mot dem hun møter. Det viser seg å være lønnsomt.</itunes:summary>
+      <itunes:duration>1036</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title> Mannen som skulle stelle hjemme</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_f2addeee-c66e-4204-adde-eec66e0204b8</link>
+      <description>Det blir vanskelig for mannen når han både skal koke grøt, kjerne smør, passe barn, passe ku og holde grisen utenfor stua.</description>
+      <guid isPermaLink="false">l_f2addeee-c66e-4204-adde-eec66e0204b8</guid>
+      <pubDate>Fri, 31 Mar 2023 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/8cfbc24c-bc00-4afb-ac29-dee775d87613_0_ID192MP3.mp3" type="audio/mpeg" length="8864685"></enclosure>
+      <itunes:title> Mannen som skulle stelle hjemme</itunes:title>
+      <itunes:summary>Det blir vanskelig for mannen når han både skal koke grøt, kjerne smør, passe barn, passe ku og holde grisen utenfor stua.</itunes:summary>
+      <itunes:duration>369</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title> Kjetta på Dovre</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_f564dfe6-2abb-48f0-a4df-e62abbd8f0f2</link>
+      <description>De plagsomme trollene tror bjørnen er en katt.  Og etter det får Halvor på Dovre være i fred.</description>
+      <guid isPermaLink="false">l_f564dfe6-2abb-48f0-a4df-e62abbd8f0f2</guid>
+      <pubDate>Fri, 31 Mar 2023 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/f23e923d-eef1-4979-bbb2-01a2604f38e1_0_ID192MP3.mp3" type="audio/mpeg" length="6413805"></enclosure>
+      <itunes:title> Kjetta på Dovre</itunes:title>
+      <itunes:summary>De plagsomme trollene tror bjørnen er en katt.  Og etter det får Halvor på Dovre være i fred.</itunes:summary>
+      <itunes:duration>267</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title> Kvitebjørn kong Valemon</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_d14061dd-cd55-48bc-8061-ddcd55c8bc97</link>
+      <description>Prinsessa settes på harde prøver. Får hun prinsen til slutt?</description>
+      <guid isPermaLink="false">l_d14061dd-cd55-48bc-8061-ddcd55c8bc97</guid>
+      <pubDate>Fri, 31 Mar 2023 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/7caccd1c-da22-4c40-abb8-415e9fd69d01_0_ID192MP3.mp3" type="audio/mpeg" length="23625837"></enclosure>
+      <itunes:title> Kvitebjørn kong Valemon</itunes:title>
+      <itunes:summary>Prinsessa settes på harde prøver. Får hun prinsen til slutt?</itunes:summary>
+      <itunes:duration>984</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sjuende far i huset</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_51202283-7dba-42ba-a022-837dba32bafc</link>
+      <description>Hvem er det egentlig som bestemmer, tro?</description>
+      <guid isPermaLink="false">l_51202283-7dba-42ba-a022-837dba32bafc</guid>
+      <pubDate>Fri, 31 Mar 2023 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/a0b704e6-c5ca-4162-8dd4-1fe8a9e5bc58_0_ID192MP3.mp3" type="audio/mpeg" length="9580077"></enclosure>
+      <itunes:title>Sjuende far i huset</itunes:title>
+      <itunes:summary>Hvem er det egentlig som bestemmer, tro?</itunes:summary>
+      <itunes:duration>399</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title> Veslefrikk med fela</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_7dba76b4-f9b9-4c17-ba76-b4f9b9fc174e</link>
+      <description>Veslefrikk kommer i trøbbel når lensmannen er etter ham. Heldigvis har han en magisk fele.&#xA;</description>
+      <guid isPermaLink="false">l_7dba76b4-f9b9-4c17-ba76-b4f9b9fc174e</guid>
+      <pubDate>Fri, 31 Mar 2023 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/cfb792f7-76bb-4d13-a886-16d6529b3407_0_ID192MP3.mp3" type="audio/mpeg" length="21519981"></enclosure>
+      <itunes:title> Veslefrikk med fela</itunes:title>
+      <itunes:summary>Veslefrikk kommer i trøbbel når lensmannen er etter ham. Heldigvis har han en magisk fele.&#xA;</itunes:summary>
+      <itunes:duration>896</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Askeladden og de gode hjelperne</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_02882e8d-1ba3-4f0f-882e-8d1ba35f0f43</link>
+      <description>Selv om kongen legger så mange feller han kan, så klarer Askeladden og hjelperne hans likevel å få det som de vil.&#xA;&#xA;Forteller: Morten Strand&#xA;Medvirkende: Saft Suse&#xA;Musikk av Magnus Stinnerbom&#xA;Lyddesign: Hilde Rolfsnes&#xA;Produsent: Hanne Vennemo&#xA;Redaktør NRK Super: Siril Heyerdahl&#xA;</description>
+      <guid isPermaLink="false">l_02882e8d-1ba3-4f0f-882e-8d1ba35f0f43</guid>
+      <pubDate>Fri, 31 Mar 2023 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/a38d11df-14a2-4405-9b89-dbd56701dae3_0_ID192MP3.mp3" type="audio/mpeg" length="23961069"></enclosure>
+      <itunes:title>Askeladden og de gode hjelperne</itunes:title>
+      <itunes:summary>Selv om kongen legger så mange feller han kan, så klarer Askeladden og hjelperne hans likevel å få det som de vil.&#xA;&#xA;Forteller: Morten Strand&#xA;Medvirkende: Saft Suse&#xA;Musikk av Magnus Stinnerbom&#xA;Lyddesign: Hilde Rolfsnes&#xA;Produsent: Hanne Vennemo&#xA;Redaktør NRK Super: Siril Heyerdahl&#xA;</itunes:summary>
+      <itunes:duration>998</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Reveenka</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_45fe91dc-708f-4ea4-be91-dc708feea491</link>
+      <description>Alle vil gifte seg med Reveenka, men hun tar ikke hvem som helst.</description>
+      <guid isPermaLink="false">l_45fe91dc-708f-4ea4-be91-dc708feea491</guid>
+      <pubDate>Fri, 31 Mar 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/17004da7-fbb0-4786-9c19-18031d6ad962_0_ID192MP3.mp3" type="audio/mpeg" length="10374957"></enclosure>
+      <itunes:title>Reveenka</itunes:title>
+      <itunes:summary>Alle vil gifte seg med Reveenka, men hun tar ikke hvem som helst.</itunes:summary>
+      <itunes:duration>432</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>En smakebit av Eventyrstund med Morten og Saft</title>
+      <link>https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft/l_f6e0514f-8391-484f-a051-4f8391784f95</link>
+      <description>Når Morten forteller folkeeventyrene blir det både skummelt og morsomt, synes Saft.&#xA;Eventyrstund med Morten og Saft kommer 16.juni i appen NRK Radio.</description>
+      <guid isPermaLink="false">l_f6e0514f-8391-484f-a051-4f8391784f95</guid>
+      <pubDate>Fri, 24 Mar 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrstund_med_morten_og_saft/ef4051a3-92df-4922-93d5-e9f4f6bf7153_0_ID192MP3.mp3" type="audio/mpeg" length="1705005"></enclosure>
+      <itunes:title>En smakebit av Eventyrstund med Morten og Saft</itunes:title>
+      <itunes:summary>Når Morten forteller folkeeventyrene blir det både skummelt og morsomt, synes Saft.&#xA;Eventyrstund med Morten og Saft kommer 16.juni i appen NRK Radio.</itunes:summary>
+      <itunes:duration>70</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

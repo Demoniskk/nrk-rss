@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hallo Bablo</title>
+    <link>https://radio.nrk.no/podkast/hallo_bablo</link>
+    <description>Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 19 Jun 2026 04:05:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/hallo_bablo.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw</url>
+      <title>Hallo Bablo</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo</link>
+    </image>
+    <item>
+      <title>Fantasibygging</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_6e7a2e2c-44f3-4660-ba2e-2c44f366607f</link>
+      <description>Tor sliter med å være med på Lottes fantasilek. Når han endelig får det til går det hardt utover en stakkars bokhylle.</description>
+      <guid isPermaLink="false">l_6e7a2e2c-44f3-4660-ba2e-2c44f366607f</guid>
+      <pubDate>Fri, 19 Jun 2026 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/6e7a2e2c-44f3-4660-ba2e-2c44f366607f_1_ID192MP3.mp3" type="audio/mpeg" length="16972460"></enclosure>
+      <itunes:title>Fantasibygging</itunes:title>
+      <itunes:summary>Tor sliter med å være med på Lottes fantasilek. Når han endelig får det til går det hardt utover en stakkars bokhylle.</itunes:summary>
+      <itunes:duration>707</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tE36oUaKkE8rBnWTdJpCvwGozZrPT58ydmwD70D2bztw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tømme ryggen, taco-hyggen</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_3b8541ba-1ed7-4aaf-8541-ba1ed75aafc6</link>
+      <description>Yared kunne ikke bli med på taco-hyggen, for han måtte hjem og tømme ryggen. Et gameshow om bæsj.</description>
+      <guid isPermaLink="false">l_3b8541ba-1ed7-4aaf-8541-ba1ed75aafc6</guid>
+      <pubDate>Fri, 19 Jun 2026 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/3b8541ba-1ed7-4aaf-8541-ba1ed75aafc6_1_ID192MP3.mp3" type="audio/mpeg" length="20013164"></enclosure>
+      <itunes:title>Tømme ryggen, taco-hyggen</itunes:title>
+      <itunes:summary>Yared kunne ikke bli med på taco-hyggen, for han måtte hjem og tømme ryggen. Et gameshow om bæsj.</itunes:summary>
+      <itunes:duration>833</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1w0UDvKEjKHoPZBWwOqA5Qbnx6ysN3KNm_IJHQZL3XKQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Stemme-skremme Even</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_bb1a49cf-083c-421c-9a49-cf083c921c0f</link>
+      <description>Pia og Yared tuller med en veldig overtrøtt Even.</description>
+      <guid isPermaLink="false">l_bb1a49cf-083c-421c-9a49-cf083c921c0f</guid>
+      <pubDate>Fri, 19 Jun 2026 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/bb1a49cf-083c-421c-9a49-cf083c921c0f_1_ID192MP3.mp3" type="audio/mpeg" length="19442924"></enclosure>
+      <itunes:title>Stemme-skremme Even</itunes:title>
+      <itunes:summary>Pia og Yared tuller med en veldig overtrøtt Even.</itunes:summary>
+      <itunes:duration>810</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8Z0IwxCLErsqPxR1vDkEkwkaNCvHnE_Tg9y0i2_6VJ9w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bremsespor-mysteriet</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_01e1ebbe-fe80-4e98-a1eb-befe804e98ba</link>
+      <description>Adil finner en mystisk underbukse på do. Hvem er det sin?!?</description>
+      <guid isPermaLink="false">l_01e1ebbe-fe80-4e98-a1eb-befe804e98ba</guid>
+      <pubDate>Fri, 19 Jun 2026 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/01e1ebbe-fe80-4e98-a1eb-befe804e98ba_1_ID192MP3.mp3" type="audio/mpeg" length="17866988"></enclosure>
+      <itunes:title>Bremsespor-mysteriet</itunes:title>
+      <itunes:summary>Adil finner en mystisk underbukse på do. Hvem er det sin?!?</itunes:summary>
+      <itunes:duration>744</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ivG7losnzMwXxtf77NXnJwNC58eCk5KmCjX9FyZfzr_g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Snekker Even</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_66eb086e-8fd0-41fb-ab08-6e8fd091fb13</link>
+      <description>Even tror han er god til å snekre. Gro og Tor vet bedre.</description>
+      <guid isPermaLink="false">l_66eb086e-8fd0-41fb-ab08-6e8fd091fb13</guid>
+      <pubDate>Fri, 19 Jun 2026 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/66eb086e-8fd0-41fb-ab08-6e8fd091fb13_1_ID192MP3.mp3" type="audio/mpeg" length="17233388"></enclosure>
+      <itunes:title>Snekker Even</itunes:title>
+      <itunes:summary>Even tror han er god til å snekre. Gro og Tor vet bedre.</itunes:summary>
+      <itunes:duration>717</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/X0fgYfvtXnGAAbLm0aI1Gwa2IqdnaRAvlC2ZEjIzjGfA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Godteri i taket</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_74ddd1ca-7f3a-41c1-9dd1-ca7f3a71c11a</link>
+      <description>Pia flyr i taket for å få fatt i Evens hemmelige godterilager.</description>
+      <guid isPermaLink="false">l_74ddd1ca-7f3a-41c1-9dd1-ca7f3a71c11a</guid>
+      <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/74ddd1ca-7f3a-41c1-9dd1-ca7f3a71c11a_2_ID192MP3.mp3" type="audio/mpeg" length="18506348"></enclosure>
+      <itunes:title>Godteri i taket</itunes:title>
+      <itunes:summary>Pia flyr i taket for å få fatt i Evens hemmelige godterilager.</itunes:summary>
+      <itunes:duration>771</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h2CDIr-cdjgFafSVZLVBjwtAALcIWi5AKf-2SQwPA6dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lotte leker død</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_02e63def-dabd-4f1e-a63d-efdabd5f1e26</link>
+      <description>Yared lager rocke-begravelse for en veldig levende Lotte.</description>
+      <guid isPermaLink="false">l_02e63def-dabd-4f1e-a63d-efdabd5f1e26</guid>
+      <pubDate>Fri, 27 Mar 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/02e63def-dabd-4f1e-a63d-efdabd5f1e26_1_ID192MP3.mp3" type="audio/mpeg" length="18766700"></enclosure>
+      <itunes:title>Lotte leker død</itunes:title>
+      <itunes:summary>Yared lager rocke-begravelse for en veldig levende Lotte.</itunes:summary>
+      <itunes:duration>781</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-HrWngNez73UFB60LfYbQwCMhB54NcJ8OuMR_3RlwzJw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva er inni det store egget?</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_af64b356-d05c-4cd6-a4b3-56d05cacd6b7</link>
+      <description>Et digert påskeegg har dukket opp i Bablo. Pia håper det er en valp inni der, Agate håper på godteri. Men det høres ut som Even.</description>
+      <guid isPermaLink="false">l_af64b356-d05c-4cd6-a4b3-56d05cacd6b7</guid>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/af64b356-d05c-4cd6-a4b3-56d05cacd6b7_1_ID192MP3.mp3" type="audio/mpeg" length="18143468"></enclosure>
+      <itunes:title>Hva er inni det store egget?</itunes:title>
+      <itunes:summary>Et digert påskeegg har dukket opp i Bablo. Pia håper det er en valp inni der, Agate håper på godteri. Men det høres ut som Even.</itunes:summary>
+      <itunes:duration>755</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5hvMZxisqfic8jyKkmRMPAHaVqd1ekgonEudGIbIoFvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dustelek</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_7049ca5e-47bc-4c18-89ca-5e47bc7c18f2</link>
+      <description>Agate og Pia får med Even på leken. Det blir morsomt, dustete, og ganske skummelt.</description>
+      <guid isPermaLink="false">l_7049ca5e-47bc-4c18-89ca-5e47bc7c18f2</guid>
+      <pubDate>Fri, 13 Feb 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/7049ca5e-47bc-4c18-89ca-5e47bc7c18f2_1_ID192MP3.mp3" type="audio/mpeg" length="19679660"></enclosure>
+      <itunes:title>Dustelek</itunes:title>
+      <itunes:summary>Agate og Pia får med Even på leken. Det blir morsomt, dustete, og ganske skummelt.</itunes:summary>
+      <itunes:duration>819</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rwO_af79td1jM8xrh92z-wTF-XxT_7uvwsI0rQJt2L5Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hest er best</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_277ec688-f2eb-40e2-bec6-88f2eb30e2fb</link>
+      <description>Alle barna vet at hester ikke kan være i Bablo, unntatt Lotte, hennes hest bruker Bablo som potte.</description>
+      <guid isPermaLink="false">l_277ec688-f2eb-40e2-bec6-88f2eb30e2fb</guid>
+      <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/277ec688-f2eb-40e2-bec6-88f2eb30e2fb_1_ID192MP3.mp3" type="audio/mpeg" length="21642668"></enclosure>
+      <itunes:title>Hest er best</itunes:title>
+      <itunes:summary>Alle barna vet at hester ikke kan være i Bablo, unntatt Lotte, hennes hest bruker Bablo som potte.</itunes:summary>
+      <itunes:duration>901</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7UVO4Q-QFI60eJUHoOoYWgVdl90FoHsUU8WQcGknKK0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Even Fiskebolle</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_20fdf5a1-7383-4c17-bdf5-a17383bc17f8</link>
+      <description>Agate og Yared prøver å få Even til å si fiskebolle. Even lover å spise hatten sin hvis de får det til.</description>
+      <guid isPermaLink="false">l_20fdf5a1-7383-4c17-bdf5-a17383bc17f8</guid>
+      <pubDate>Fri, 19 Dec 2025 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/20fdf5a1-7383-4c17-bdf5-a17383bc17f8_ID192MP3.mp3" type="audio/mpeg" length="19731500"></enclosure>
+      <itunes:title>Even Fiskebolle</itunes:title>
+      <itunes:summary>Agate og Yared prøver å få Even til å si fiskebolle. Even lover å spise hatten sin hvis de får det til.</itunes:summary>
+      <itunes:duration>822</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OL-5-AidlTHKpZ8zur5wVQjVERqEDTltuNBOQTvsNq-Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Det snør inne</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_e61edd4f-9d75-430e-9edd-4f9d75e30e50</link>
+      <description>Even har fått tak i en snøkanon til innebruk. Lotte og Yared gir Even tidenes julegave når de fyller hele Bablo med snø.</description>
+      <guid isPermaLink="false">l_e61edd4f-9d75-430e-9edd-4f9d75e30e50</guid>
+      <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/e61edd4f-9d75-430e-9edd-4f9d75e30e50_ID192MP3.mp3" type="audio/mpeg" length="18899180"></enclosure>
+      <itunes:title>Det snør inne</itunes:title>
+      <itunes:summary>Even har fått tak i en snøkanon til innebruk. Lotte og Yared gir Even tidenes julegave når de fyller hele Bablo med snø.</itunes:summary>
+      <itunes:duration>787</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MNtTC8P-5w2fNQWQjBEUagCLPeZOPYs3W8vhNJWx2p3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lottes banneshow</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_e6b980ce-8601-476a-b980-ce8601176a46</link>
+      <description>Obs! Det bannes ikke i denne episoden (i hvert fall ikke så det høres).</description>
+      <guid isPermaLink="false">l_e6b980ce-8601-476a-b980-ce8601176a46</guid>
+      <pubDate>Fri, 26 Sep 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/e6b980ce-8601-476a-b980-ce8601176a46_ID192MP3.mp3" type="audio/mpeg" length="18001772"></enclosure>
+      <itunes:title>Lottes banneshow</itunes:title>
+      <itunes:summary>Obs! Det bannes ikke i denne episoden (i hvert fall ikke så det høres).</itunes:summary>
+      <itunes:duration>750</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7UVO4Q-QFI60eJUHoOoYWgVdl90FoHsUU8WQcGknKK0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Superlimet</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_8172372d-510a-49d6-b237-2d510af9d6ac</link>
+      <description>Å ta feil av superlim og leppepomade er IKKE lurt, Even. Lila må være voksen mann og Tor har limt seg fast i taket.</description>
+      <guid isPermaLink="false">l_8172372d-510a-49d6-b237-2d510af9d6ac</guid>
+      <pubDate>Fri, 11 Jul 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/c2078400-4bbe-48cb-b85d-e0e685948d27_0_ID192MP3.mp3" type="audio/mpeg" length="18036909"></enclosure>
+      <itunes:title>Superlimet</itunes:title>
+      <itunes:summary>Å ta feil av superlim og leppepomade er IKKE lurt, Even. Lila må være voksen mann og Tor har limt seg fast i taket.</itunes:summary>
+      <itunes:duration>751</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fIgl2C30NF6-6eMwaFA2fg-ToY-JXEiJnrV1nFd2TWJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dinosaur-mysteriet</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_135ec467-a256-4053-9ec4-67a25660539d</link>
+      <description>Lotte og Yared kommer til et Bablo fullt av digre fotavtrykk. Er de laget av et monster? En dinosaur? Eller noe helt annet?</description>
+      <guid isPermaLink="false">l_135ec467-a256-4053-9ec4-67a25660539d</guid>
+      <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/1d502a62-a17b-46f0-aa15-bd3a5b1930bc_0_ID192MP3.mp3" type="audio/mpeg" length="14154093"></enclosure>
+      <itunes:title>Dinosaur-mysteriet</itunes:title>
+      <itunes:summary>Lotte og Yared kommer til et Bablo fullt av digre fotavtrykk. Er de laget av et monster? En dinosaur? Eller noe helt annet?</itunes:summary>
+      <itunes:duration>589</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Vb8N93e5lPzvDfC5VSw4GAOSekA3uMmKGTofQrluDFQw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fiskoteket</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_9a5246e8-8e2b-4966-9246-e88e2b1966ca</link>
+      <description>Det skal være hav-disko i Bablo og Gro og Yared gleder seg. Men har Even pynta med EKTE fisk?</description>
+      <guid isPermaLink="false">l_9a5246e8-8e2b-4966-9246-e88e2b1966ca</guid>
+      <pubDate>Fri, 27 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/43777d7c-06da-4109-a63c-99110b8895e7_0_ID192MP3.mp3" type="audio/mpeg" length="19464813"></enclosure>
+      <itunes:title>Fiskoteket</itunes:title>
+      <itunes:summary>Det skal være hav-disko i Bablo og Gro og Yared gleder seg. Men har Even pynta med EKTE fisk?</itunes:summary>
+      <itunes:duration>810</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ja-dag</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_fbd86653-d114-44a4-9866-53d11464a4ae</link>
+      <description>Even hikker så det høres ut som han sier «ja». For Lotte og Agate betyr det bare en ting: ja-dag!</description>
+      <guid isPermaLink="false">l_fbd86653-d114-44a4-9866-53d11464a4ae</guid>
+      <pubDate>Fri, 20 Jun 2025 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/020ead2a-0897-4cbb-af2f-a584ff41cdce_0_ID192MP3.mp3" type="audio/mpeg" length="18197613"></enclosure>
+      <itunes:title>Ja-dag</itunes:title>
+      <itunes:summary>Even hikker så det høres ut som han sier «ja». For Lotte og Agate betyr det bare en ting: ja-dag!</itunes:summary>
+      <itunes:duration>758</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pLvSGkVgiUE5AvCmokDeXwqJyaYRP3fLi9bICguspl1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gros chili-smakeri</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_c8fc5e93-b9ad-4aca-bc5e-93b9ad1aca7c</link>
+      <description>Gro lager hemmelig chili-smakeri på do. Flaks at Nils elsker chili. Eller, vent litt. </description>
+      <guid isPermaLink="false">l_c8fc5e93-b9ad-4aca-bc5e-93b9ad1aca7c</guid>
+      <pubDate>Fri, 20 Jun 2025 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/a593cc0d-aca2-4b19-93c1-b74c2861bf7c_0_ID192MP3.mp3" type="audio/mpeg" length="17489709"></enclosure>
+      <itunes:title>Gros chili-smakeri</itunes:title>
+      <itunes:summary>Gro lager hemmelig chili-smakeri på do. Flaks at Nils elsker chili. Eller, vent litt. </itunes:summary>
+      <itunes:duration>728</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uOq-XZ9DKdKuRL0R2DNSog7TSSXU-tq7Guae79CcmtWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Oversvømmelse</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_b9a1151b-f64b-4658-a115-1bf64ba658f9</link>
+      <description>Hvorfor fylles et basseng med vann midt i Bablo? Og er Even skylt ned i do? Tor og Agate jobber hardt for å unngå oversvømmelse.</description>
+      <guid isPermaLink="false">l_b9a1151b-f64b-4658-a115-1bf64ba658f9</guid>
+      <pubDate>Fri, 20 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/f429e845-a805-4bce-b3a3-9a14b93df8e5_0_ID192MP3.mp3" type="audio/mpeg" length="13241133"></enclosure>
+      <itunes:title>Oversvømmelse</itunes:title>
+      <itunes:summary>Hvorfor fylles et basseng med vann midt i Bablo? Og er Even skylt ned i do? Tor og Agate jobber hardt for å unngå oversvømmelse.</itunes:summary>
+      <itunes:duration>551</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/XwYPViUUjjdrkL9JEvkdvgcq3pBsGIMklbC6zZZgrkVw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

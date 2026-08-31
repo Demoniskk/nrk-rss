@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revolusjonen</title>
+    <link>https://radio.nrk.no/podkast/revolusjonen</link>
+    <description>Rullende hoder, vaiende flagg og en intens lengsel etter frihet. Hvordan så den franske revolusjonen ut fra innsiden?&#xA;</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 06 Jun 2018 04:18:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/revolusjonen.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Rullende hoder, vaiende flagg og en intens lengsel etter frihet. Hvordan så den franske revolusjonen ut fra innsiden?&#xA;</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw"></itunes:image>
+    <itunes:category text="History"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw</url>
+      <title>Revolusjonen</title>
+      <link>https://radio.nrk.no/podkast/revolusjonen</link>
+    </image>
+    <item>
+      <title>Revolusjonens keiser (6:6)</title>
+      <link>https://radio.nrk.no/podkast/revolusjonen/l_4e09e040-c7d2-4e69-89e0-40c7d27e69ac</link>
+      <description>Krigslykken snur, og general Napoleon Bonaparte utmerker seg med flere seire. Snart skal han erklære revolusjonen for over.</description>
+      <guid isPermaLink="false">l_4e09e040-c7d2-4e69-89e0-40c7d27e69ac</guid>
+      <pubDate>Wed, 06 Jun 2018 06:18:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_2767.MP3" type="audio/mpeg" length="25176439"></enclosure>
+      <itunes:title>Revolusjonens keiser (6:6)</itunes:title>
+      <itunes:summary>Krigslykken snur, og general Napoleon Bonaparte utmerker seg med flere seire. Snart skal han erklære revolusjonen for over.</itunes:summary>
+      <itunes:duration>1045</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Robespierre, helt eller monster? (5:6)</title>
+      <link>https://radio.nrk.no/podkast/revolusjonen/l_7190af56-8052-44ba-90af-56805274ba24</link>
+      <description>I 1793 herjes Frankrike fremdeles av borgerkrig og opprør. Terror blir et uttalt politisk virkemiddel.</description>
+      <guid isPermaLink="false">l_7190af56-8052-44ba-90af-56805274ba24</guid>
+      <pubDate>Wed, 06 Jun 2018 06:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_1821.MP3" type="audio/mpeg" length="24392129"></enclosure>
+      <itunes:title>Robespierre, helt eller monster? (5:6)</itunes:title>
+      <itunes:summary>I 1793 herjes Frankrike fremdeles av borgerkrig og opprør. Terror blir et uttalt politisk virkemiddel.</itunes:summary>
+      <itunes:duration>1012</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mordet på Marat (4:6)</title>
+      <link>https://radio.nrk.no/podkast/revolusjonen/l_3e805b52-bdab-4725-805b-52bdabb7257f</link>
+      <description>Våren 1793 bryter det ut nye opptøyer i Paris, moderate politikere blir forfulgt og mange henrettes. </description>
+      <guid isPermaLink="false">l_3e805b52-bdab-4725-805b-52bdabb7257f</guid>
+      <pubDate>Wed, 06 Jun 2018 06:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_1371.MP3" type="audio/mpeg" length="31562429"></enclosure>
+      <itunes:title>Mordet på Marat (4:6)</itunes:title>
+      <itunes:summary>Våren 1793 bryter det ut nye opptøyer i Paris, moderate politikere blir forfulgt og mange henrettes. </itunes:summary>
+      <itunes:duration>1311</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dronning Marie Antoinette flykter (3:6)</title>
+      <link>https://radio.nrk.no/podkast/revolusjonen/l_3e8779d8-411e-477f-8779-d8411ec77f95</link>
+      <description>I hemmelighet planlegger kong Ludvig den 16. og dronning Marie Antoinette å flykte ut av landet. </description>
+      <guid isPermaLink="false">l_3e8779d8-411e-477f-8779-d8411ec77f95</guid>
+      <pubDate>Wed, 06 Jun 2018 06:07:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_3592.MP3" type="audio/mpeg" length="27398946"></enclosure>
+      <itunes:title>Dronning Marie Antoinette flykter (3:6)</itunes:title>
+      <itunes:summary>I hemmelighet planlegger kong Ludvig den 16. og dronning Marie Antoinette å flykte ut av landet. </itunes:summary>
+      <itunes:duration>1137</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kvinnemarsjen til Versailles (2:6)</title>
+      <link>https://radio.nrk.no/podkast/revolusjonen/l_c313f448-db81-4a5b-93f4-48db815a5b33</link>
+      <description>Den franske menneskerettighetserklæringen skrives, men kongen nekter å signere. I Paris er folk fremdeles sultne og sinte.</description>
+      <guid isPermaLink="false">l_c313f448-db81-4a5b-93f4-48db815a5b33</guid>
+      <pubDate>Wed, 06 Jun 2018 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_135.MP3" type="audio/mpeg" length="31528585"></enclosure>
+      <itunes:title>Kvinnemarsjen til Versailles (2:6)</itunes:title>
+      <itunes:summary>Den franske menneskerettighetserklæringen skrives, men kongen nekter å signere. I Paris er folk fremdeles sultne og sinte.</itunes:summary>
+      <itunes:duration>1309</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Stormen på Bastillen (1:6)</title>
+      <link>https://radio.nrk.no/podkast/revolusjonen/l_168cc676-5d63-43c5-8cc6-765d63d3c573</link>
+      <description>Frankrike i år 1789 er Europas supermakt, men det ulmer under overflaten: Adelen lever i luksus, men folket sulter.</description>
+      <guid isPermaLink="false">l_168cc676-5d63-43c5-8cc6-765d63d3c573</guid>
+      <pubDate>Wed, 06 Jun 2018 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/revolusjonen/revolusjonen_2018-06-06_0400_1893.MP3" type="audio/mpeg" length="34992419"></enclosure>
+      <itunes:title>Stormen på Bastillen (1:6)</itunes:title>
+      <itunes:summary>Frankrike i år 1789 er Europas supermakt, men det ulmer under overflaten: Adelen lever i luksus, men folket sulter.</itunes:summary>
+      <itunes:duration>1454</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

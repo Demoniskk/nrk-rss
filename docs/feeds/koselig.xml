@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koselig</title>
+    <link>https://radio.nrk.no/podkast/koselig</link>
+    <description>Silje oppsummerer de hyggeligste tingene som har skjedd i løpet av uka.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Sun, 01 Nov 2020 17:30:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/koselig.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Silje oppsummerer de hyggeligste tingene som har skjedd i løpet av uka.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/oJquB__V7cTh61fET1N3GQLc-Fti7lLLQC9OFMSj5vEQ"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/oJquB__V7cTh61fET1N3GQLc-Fti7lLLQC9OFMSj5vEQ</url>
+      <title>Koselig</title>
+      <link>https://radio.nrk.no/podkast/koselig</link>
+    </image>
+    <item>
+      <title>Uke 44 - Smørbakst, gravemaskin og minihus</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_550a55d4-e6bf-4f90-8a55-d4e6bfff90c0</link>
+      <description>Det er klappet og klart for sesongens siste utgave av Koselig. Det blir det sedvanlige fokuset på det positive når vi får besøk av Frida, en forkjemper for kreativ bakst. Vi ringer også til Sarah, som har brukt korona-pausen på å bygge seg minihus! Det blir kattepreget dyrenytt og Silje ringer Brønnøysunds avis.</description>
+      <guid isPermaLink="false">l_550a55d4-e6bf-4f90-8a55-d4e6bfff90c0</guid>
+      <pubDate>Sun, 01 Nov 2020 18:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/39e6a79e-7df6-410c-b8d1-1d077bf767c6_0_ID192MP3.mp3" type="audio/mpeg" length="65572217"></enclosure>
+      <itunes:title>Uke 44 - Smørbakst, gravemaskin og minihus</itunes:title>
+      <itunes:summary>Det er klappet og klart for sesongens siste utgave av Koselig. Det blir det sedvanlige fokuset på det positive når vi får besøk av Frida, en forkjemper for kreativ bakst. Vi ringer også til Sarah, som har brukt korona-pausen på å bygge seg minihus! Det blir kattepreget dyrenytt og Silje ringer Brønnøysunds avis.</itunes:summary>
+      <itunes:duration>2732</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/De7MT9gjwxSO0NnuhjVzbQJTwuemjG1HCz-jqHwnWXhw.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2020">202011</podcast:season>
+    </item>
+    <item>
+      <title>Uke 43: Halloween, filmpoliti og Norges yngste ordfører</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_919d93c7-eb24-493d-9d93-c7eb24093d79</link>
+      <description>Halloween står på trappene, og da kan vi ikke gjøre annet enn å snakke med Helge Tverdal, bedre kjent som Halloween-mannen. Vi får også besøk av Ida, som jobber for å få unge til å føle seg &#34;bra nok, for faen!&#34;. Vi ringer Norges yngste ordfører, og skravler med Sigurd fra Filmpolitiet om filmer og serier man kan kose seg med mens høststormen raser utendørs.</description>
+      <guid isPermaLink="false">l_919d93c7-eb24-493d-9d93-c7eb24093d79</guid>
+      <pubDate>Sun, 25 Oct 2020 18:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/67ae22d9-a2cb-44bf-9b4f-2c4f62964eb1_0_ID192MP3.mp3" type="audio/mpeg" length="65978336"></enclosure>
+      <itunes:title>Uke 43: Halloween, filmpoliti og Norges yngste ordfører</itunes:title>
+      <itunes:summary>Halloween står på trappene, og da kan vi ikke gjøre annet enn å snakke med Helge Tverdal, bedre kjent som Halloween-mannen. Vi får også besøk av Ida, som jobber for å få unge til å føle seg &#34;bra nok, for faen!&#34;. Vi ringer Norges yngste ordfører, og skravler med Sigurd fra Filmpolitiet om filmer og serier man kan kose seg med mens høststormen raser utendørs.</itunes:summary>
+      <itunes:duration>2749</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/De7MT9gjwxSO0NnuhjVzbQJTwuemjG1HCz-jqHwnWXhw.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2020">202010</podcast:season>
+    </item>
+    <item>
+      <title>Uke 41 - Strikking, tatoveringsblemmer og imponerende katter</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_f9d1aea7-6a6a-476d-91ae-a76a6a476dc3</link>
+      <description>Det blir stadig kaldere, og da gjelder det å finne aktiviteter som funker innendørs! Vi får besøk av Julie Embrå, som har tatt turen fra Bodø for å snakke om strikking. Vi ringer også Emil, en over gjennomsnittet ihuga supporter som har gått på en aldri så liten tatoveringsblemme. Det blir selvfølgelig ukas overskrifter og Silje ringer lokalavisen Svelviksposten.</description>
+      <guid isPermaLink="false">l_f9d1aea7-6a6a-476d-91ae-a76a6a476dc3</guid>
+      <pubDate>Sun, 11 Oct 2020 20:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/f3876919-c541-439d-9187-8ca2689245b1_0_ID192MP3.mp3" type="audio/mpeg" length="63104635"></enclosure>
+      <itunes:title>Uke 41 - Strikking, tatoveringsblemmer og imponerende katter</itunes:title>
+      <itunes:summary>Det blir stadig kaldere, og da gjelder det å finne aktiviteter som funker innendørs! Vi får besøk av Julie Embrå, som har tatt turen fra Bodø for å snakke om strikking. Vi ringer også Emil, en over gjennomsnittet ihuga supporter som har gått på en aldri så liten tatoveringsblemme. Det blir selvfølgelig ukas overskrifter og Silje ringer lokalavisen Svelviksposten.</itunes:summary>
+      <itunes:duration>2629</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xxJFTF-dObNeEAszCko9oAcyO46j8BKmW4Nyn6Y00cQg.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2020">202010</podcast:season>
+    </item>
+    <item>
+      <title>Uke 40: Nordlys, papegøyer og bading for sykehusklovnene</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_08e9c7aa-a578-4cc6-a9c7-aaa5784cc6de</link>
+      <description>Nordlyset har levert varene denne uken, og Koselig snakker med en nordlysekspert og en østlending som har sett nordlyset for aller første gang. Vi ringer også en medaljevinner fra VM i dødsing som bruker talentene sine til fordel for en god sak. Ukas overskrifter og dyrenytt kommer som bestilt, og Silje ringer lokalavisen Steinkjer-Avisa.</description>
+      <guid isPermaLink="false">l_08e9c7aa-a578-4cc6-a9c7-aaa5784cc6de</guid>
+      <pubDate>Sun, 04 Oct 2020 18:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/ad6dbf16-129e-4b4f-97e7-4202258e1898_0_ID192MP3.mp3" type="audio/mpeg" length="64754299"></enclosure>
+      <itunes:title>Uke 40: Nordlys, papegøyer og bading for sykehusklovnene</itunes:title>
+      <itunes:summary>Nordlyset har levert varene denne uken, og Koselig snakker med en nordlysekspert og en østlending som har sett nordlyset for aller første gang. Vi ringer også en medaljevinner fra VM i dødsing som bruker talentene sine til fordel for en god sak. Ukas overskrifter og dyrenytt kommer som bestilt, og Silje ringer lokalavisen Steinkjer-Avisa.</itunes:summary>
+      <itunes:duration>2698</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xxJFTF-dObNeEAszCko9oAcxSgcta5uom4Nyn6Y00cQg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2020">202010</podcast:season>
+    </item>
+    <item>
+      <title>Uke 39: Vikingskip, hverdagshelter og David Attenborough på Instagram</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_1062bef1-d2b9-4756-a2be-f1d2b98756ba</link>
+      <description>Det blir viking-nerding i ukens episode når Koselig får besøk av arkeolog Margrethe Havgar. Vi ringer Kristin, som hyller en hverdagshelt i livet sitt. I tillegg blir det Ukas overskrifter og Silje ringer lokalavisa, og vi retter søkelyset mot dyr med musikalske talent. </description>
+      <guid isPermaLink="false">l_1062bef1-d2b9-4756-a2be-f1d2b98756ba</guid>
+      <pubDate>Sun, 27 Sep 2020 20:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/03edf225-b401-40a5-b84e-3692d47480cb_0_ID192MP3.mp3" type="audio/mpeg" length="78452731"></enclosure>
+      <itunes:title>Uke 39: Vikingskip, hverdagshelter og David Attenborough på Instagram</itunes:title>
+      <itunes:summary>Det blir viking-nerding i ukens episode når Koselig får besøk av arkeolog Margrethe Havgar. Vi ringer Kristin, som hyller en hverdagshelt i livet sitt. I tillegg blir det Ukas overskrifter og Silje ringer lokalavisa, og vi retter søkelyset mot dyr med musikalske talent. </itunes:summary>
+      <itunes:duration>3268</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WDlBx2WlZ_QuPTjWBmvb0wM_BOolBq-p3ofAUOyj9wag"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2020">202009</podcast:season>
+    </item>
+    <item>
+      <title>Uke 38: Elgbæsj, hårdonasjon og Verdens Beste Nyheter</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_80048763-e432-45cb-8487-63e43225cb71</link>
+      <description>Denne uken får Koselig besøk av noen som er i samme bransje som oss, nemlig Sunniva fra Verdens Beste Nyheter. Vi ringer også Ruben, en belgisk student som plukker elgbæsj i Norge og elsker det! Det blir selvfølgelig Ukas overskrifter og Silje ringer lokalavisen Laagendalsposten. </description>
+      <guid isPermaLink="false">l_80048763-e432-45cb-8487-63e43225cb71</guid>
+      <pubDate>Sun, 20 Sep 2020 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/7169e7a8-f4e6-40f3-8d19-c1edfd384350_0_ID192MP3.mp3" type="audio/mpeg" length="72520507"></enclosure>
+      <itunes:title>Uke 38: Elgbæsj, hårdonasjon og Verdens Beste Nyheter</itunes:title>
+      <itunes:summary>Denne uken får Koselig besøk av noen som er i samme bransje som oss, nemlig Sunniva fra Verdens Beste Nyheter. Vi ringer også Ruben, en belgisk student som plukker elgbæsj i Norge og elsker det! Det blir selvfølgelig Ukas overskrifter og Silje ringer lokalavisen Laagendalsposten. </itunes:summary>
+      <itunes:duration>3021</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/De7MT9gjwxSO0NnuhjVzbQ-11G1qXHhxCz-jqHwnWXhw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2020">202009</podcast:season>
+    </item>
+    <item>
+      <title>Uke 37: Vegetar-entusiasme, gullbilletter og norsk rekord i karantene</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_f025d194-761c-44cd-a5d1-94761c44cdd4</link>
+      <description>Høstens deiligste grønnsaker står på menyen i ukens episode av Koselig når vi får besøk av vegetar-entusiast Hanne-Lene Dahlgren. Vi ringer til William, som snart har vært i karantene i 52 dager uten å miste motet av den grunn! Vi oppdaterer deg også på de viktigste gladsakene fra dyrenes verden og Silje ringer lokalavisen iFinnmark.</description>
+      <guid isPermaLink="false">l_f025d194-761c-44cd-a5d1-94761c44cdd4</guid>
+      <pubDate>Sun, 13 Sep 2020 20:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/234e8372-901b-4c95-93fd-764776b70769_0_ID192MP3.mp3" type="audio/mpeg" length="61473983"></enclosure>
+      <itunes:title>Uke 37: Vegetar-entusiasme, gullbilletter og norsk rekord i karantene</itunes:title>
+      <itunes:summary>Høstens deiligste grønnsaker står på menyen i ukens episode av Koselig når vi får besøk av vegetar-entusiast Hanne-Lene Dahlgren. Vi ringer til William, som snart har vært i karantene i 52 dager uten å miste motet av den grunn! Vi oppdaterer deg også på de viktigste gladsakene fra dyrenes verden og Silje ringer lokalavisen iFinnmark.</itunes:summary>
+      <itunes:duration>2561</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wehWobts_PXEFh5RD2F5zANGB_GJarFe3fGMdj-KvkJQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2020">202009</podcast:season>
+    </item>
+    <item>
+      <title>Uke 36: Sopp, Norges hyggeligste håndverker og pumpkin spice latte</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_5d993bd4-6855-43eb-993b-d4685573eb1a</link>
+      <description>Koselig markerer at høsten er i gang med å invitere en sopp-ekspert på besøk. Vi snakker med Norges hyggeligste håndverker-lærling, elektriker Ingrid, og Jakob lager pumpkin spice latte helt fra bunnen av. I tillegg blir det ukas overskrifter og Silje ringer lokalavisen Fanaposten. </description>
+      <guid isPermaLink="false">l_5d993bd4-6855-43eb-993b-d4685573eb1a</guid>
+      <pubDate>Sun, 06 Sep 2020 20:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/39af9677-0bcb-4f81-93e7-46eeb1af5652_0_ID192MP3.mp3" type="audio/mpeg" length="76627962"></enclosure>
+      <itunes:title>Uke 36: Sopp, Norges hyggeligste håndverker og pumpkin spice latte</itunes:title>
+      <itunes:summary>Koselig markerer at høsten er i gang med å invitere en sopp-ekspert på besøk. Vi snakker med Norges hyggeligste håndverker-lærling, elektriker Ingrid, og Jakob lager pumpkin spice latte helt fra bunnen av. I tillegg blir det ukas overskrifter og Silje ringer lokalavisen Fanaposten. </itunes:summary>
+      <itunes:duration>3192</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wehWobts_PXEFh5RD2F5zANGB_GJarFe3fGMdj-KvkJQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2020">202009</podcast:season>
+    </item>
+    <item>
+      <title>Uke 35: Lyspunkt i boligmarkedet og kan hockeypulver brukes til alt?</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_c18a90dc-9eb0-44d3-8a90-dc9eb0c4d38e</link>
+      <description>Finnes det lyspunkt for unge på boligmarkedet i fremtiden? Silje og Tuva prøver å finne ut av det når sjefen i Eiendom Norge kommer på besøk. Vi prøver også ut nye kombinasjoner av klassisk godteri og hockeypulver. Og i Ukas overskrifter leveres det på både humor og positivitet, akkurat som bestilt. </description>
+      <guid isPermaLink="false">l_c18a90dc-9eb0-44d3-8a90-dc9eb0c4d38e</guid>
+      <pubDate>Sun, 30 Aug 2020 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/91c1b132-a074-43c5-be6f-fc675257925c_0_ID192MP3.mp3" type="audio/mpeg" length="67853847"></enclosure>
+      <itunes:title>Uke 35: Lyspunkt i boligmarkedet og kan hockeypulver brukes til alt?</itunes:title>
+      <itunes:summary>Finnes det lyspunkt for unge på boligmarkedet i fremtiden? Silje og Tuva prøver å finne ut av det når sjefen i Eiendom Norge kommer på besøk. Vi prøver også ut nye kombinasjoner av klassisk godteri og hockeypulver. Og i Ukas overskrifter leveres det på både humor og positivitet, akkurat som bestilt. </itunes:summary>
+      <itunes:duration>2827</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wehWobts_PXEFh5RD2F5zANGB_GJarFe3fGMdj-KvkJQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2020">202008</podcast:season>
+    </item>
+    <item>
+      <title>Koselig uke 34</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_8e37d619-c9f4-4e82-b7d6-19c9f4be8235</link>
+      <description>To timer i positivitetens tegn når Silje oppsumerer uka med fokus utelukkende på de fine tingene som har skjedd.  Silje har kommet over en sak om sjokoladesnø i Sveits og ringer til Freia Sjokoladefabrikk. Og vi skal smake på en trendy godterikombinasjon! Ukas overskrifter, dyrenytt og Silje ringer lokalavisa blir det også.</description>
+      <guid isPermaLink="false">l_8e37d619-c9f4-4e82-b7d6-19c9f4be8235</guid>
+      <pubDate>Sun, 23 Aug 2020 19:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/66a60774-dbaf-4f5c-b944-38d5f1362745_0_ID192MP3.mp3" type="audio/mpeg" length="70510269"></enclosure>
+      <itunes:title>Koselig uke 34</itunes:title>
+      <itunes:summary>To timer i positivitetens tegn når Silje oppsumerer uka med fokus utelukkende på de fine tingene som har skjedd.  Silje har kommet over en sak om sjokoladesnø i Sveits og ringer til Freia Sjokoladefabrikk. Og vi skal smake på en trendy godterikombinasjon! Ukas overskrifter, dyrenytt og Silje ringer lokalavisa blir det også.</itunes:summary>
+      <itunes:duration>2937</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/De7MT9gjwxSO0NnuhjVzbQ-11G1qXHhxCz-jqHwnWXhw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2020">202008</podcast:season>
+    </item>
+    <item>
+      <title>Uke 33: Hunder i studio, brevvenner og spontanbesøk</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_ba24dca4-3493-4ecc-a4dc-a434932eccef</link>
+      <description>Sesongpremiere! Silje får besøk av to hunder i studio og snakker med en som hadde et spesielt gaveønske til sin 25-årsdag. I tillegg er det Ukas overskrifter, Dyrenytt og Slije ringer lokalavisen. Og et overraskende besøk fra Martin Holmen. </description>
+      <guid isPermaLink="false">l_ba24dca4-3493-4ecc-a4dc-a434932eccef</guid>
+      <pubDate>Sun, 16 Aug 2020 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/25fee839-dc05-4ca9-9970-226d0afb237f_0_ID192MP3.mp3" type="audio/mpeg" length="65298618"></enclosure>
+      <itunes:title>Uke 33: Hunder i studio, brevvenner og spontanbesøk</itunes:title>
+      <itunes:summary>Sesongpremiere! Silje får besøk av to hunder i studio og snakker med en som hadde et spesielt gaveønske til sin 25-årsdag. I tillegg er det Ukas overskrifter, Dyrenytt og Slije ringer lokalavisen. Og et overraskende besøk fra Martin Holmen. </itunes:summary>
+      <itunes:duration>2720</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wehWobts_PXEFh5RD2F5zANGB_GJarFe3fGMdj-KvkJQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2020">202008</podcast:season>
+    </item>
+    <item>
+      <title>Uke 25: Reddikhøsting, dyrenytt og Norge på langs</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_27191cc5-400b-4825-991c-c5400b282582</link>
+      <description>To timer i positivitetens tegn når Silje gir deg både ukas overskrifter og dyrenytt. Vi ringer en som går Norge på langs. Og nå skal vi endelig se hvordan det går med reddikene Silje har dyrket.</description>
+      <guid isPermaLink="false">l_27191cc5-400b-4825-991c-c5400b282582</guid>
+      <pubDate>Sun, 21 Jun 2020 18:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/fa48b6cd-7083-4b05-b60f-55bb03bc9d59_0_ID192MP3.mp3" type="audio/mpeg" length="78367510"></enclosure>
+      <itunes:title>Uke 25: Reddikhøsting, dyrenytt og Norge på langs</itunes:title>
+      <itunes:summary>To timer i positivitetens tegn når Silje gir deg både ukas overskrifter og dyrenytt. Vi ringer en som går Norge på langs. Og nå skal vi endelig se hvordan det går med reddikene Silje har dyrket.</itunes:summary>
+      <itunes:duration>3265</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wehWobts_PXEFh5RD2F5zANGB_GJarFe3fGMdj-KvkJQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2020">202006</podcast:season>
+    </item>
+    <item>
+      <title>Koselig uke 24</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_8e5b5695-4f25-4cb2-9b56-954f25bcb2bc</link>
+      <description>Pangolin, yoghurtis og sommerdyne. Nå er sommeren her over hele landet og vi oppsummerer de bra tingene i som har skjedd. Utenriks, innenriks og direkte fra parken!</description>
+      <guid isPermaLink="false">l_8e5b5695-4f25-4cb2-9b56-954f25bcb2bc</guid>
+      <pubDate>Sun, 14 Jun 2020 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/bdf45dad-b029-4ae7-807b-9f78d364c1ea_0_ID192MP3.mp3" type="audio/mpeg" length="76506456"></enclosure>
+      <itunes:title>Koselig uke 24</itunes:title>
+      <itunes:summary>Pangolin, yoghurtis og sommerdyne. Nå er sommeren her over hele landet og vi oppsummerer de bra tingene i som har skjedd. Utenriks, innenriks og direkte fra parken!</itunes:summary>
+      <itunes:duration>3187</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wehWobts_PXEFh5RD2F5zANGB_GJarFe3fGMdj-KvkJQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2020">202006</podcast:season>
+    </item>
+    <item>
+      <title>Uke 23: Vakre brøytekanter, reddikspirer og valpefødsel</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_02546921-e15a-481b-9469-21e15a281b30</link>
+      <description>Silje oppsummerer det positive fra en uvanlig tung uke med blant annet dyrenytt og ukas overskrifter.</description>
+      <guid isPermaLink="false">l_02546921-e15a-481b-9469-21e15a281b30</guid>
+      <pubDate>Sun, 07 Jun 2020 19:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/c42aa837-2f65-4757-9ce6-92b915a425a9_0_ID192MP3.mp3" type="audio/mpeg" length="56151184"></enclosure>
+      <itunes:title>Uke 23: Vakre brøytekanter, reddikspirer og valpefødsel</itunes:title>
+      <itunes:summary>Silje oppsummerer det positive fra en uvanlig tung uke med blant annet dyrenytt og ukas overskrifter.</itunes:summary>
+      <itunes:duration>2339</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wehWobts_PXEFh5RD2F5zANGB_GJarFe3fGMdj-KvkJQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2020">202006</podcast:season>
+    </item>
+    <item>
+      <title>Koselig uke 22</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_f45455a4-b794-4ad0-9455-a4b7946ad04f</link>
+      <description>Koalafødsler, uglegjester og en fange som synger. </description>
+      <guid isPermaLink="false">l_f45455a4-b794-4ad0-9455-a4b7946ad04f</guid>
+      <pubDate>Sun, 31 May 2020 18:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/2a0f7c75-28c4-41cf-915f-5bae5a8dc595_0_ID192MP3.mp3" type="audio/mpeg" length="74059005"></enclosure>
+      <itunes:title>Koselig uke 22</itunes:title>
+      <itunes:summary>Koalafødsler, uglegjester og en fange som synger. </itunes:summary>
+      <itunes:duration>3085</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oJquB__V7cTh61fET1N3GQLc-Fti7lLLQC9OFMSj5vEQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2020">202005</podcast:season>
+    </item>
+    <item>
+      <title>Uke 21: Reddik, id og godt vær i nord</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_686f6033-bfac-4e28-af60-33bfac5e287f</link>
+      <description>Silje sår reddik, ringer en id-feiring og ringer Finnmarksposten. I tillegg får du både dyrenytt og ukas overskrifter.</description>
+      <guid isPermaLink="false">l_686f6033-bfac-4e28-af60-33bfac5e287f</guid>
+      <pubDate>Sun, 24 May 2020 19:35:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/ba67dc54-39b3-4631-ac46-e427dbbafc87_0_ID192MP3.mp3" type="audio/mpeg" length="54741130"></enclosure>
+      <itunes:title>Uke 21: Reddik, id og godt vær i nord</itunes:title>
+      <itunes:summary>Silje sår reddik, ringer en id-feiring og ringer Finnmarksposten. I tillegg får du både dyrenytt og ukas overskrifter.</itunes:summary>
+      <itunes:duration>2280</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wehWobts_PXEFh5RD2F5zANGB_GJarFe3fGMdj-KvkJQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2020">202005</podcast:season>
+    </item>
+    <item>
+      <title>Koselig uke 20</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_9a5a4735-a1db-4ba7-9a47-35a1db1ba734</link>
+      <description>Feiring,  bandittfis og rømt kenguru! Silje Nordnes oppsummerer de hyggelige og positive tingene som har skjedd i løpet av uka. </description>
+      <guid isPermaLink="false">l_9a5a4735-a1db-4ba7-9a47-35a1db1ba734</guid>
+      <pubDate>Sun, 17 May 2020 18:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/6564bf57-a40f-40fa-b781-76ca54e5e1ed_0_ID192MP3.mp3" type="audio/mpeg" length="64567677"></enclosure>
+      <itunes:title>Koselig uke 20</itunes:title>
+      <itunes:summary>Feiring,  bandittfis og rømt kenguru! Silje Nordnes oppsummerer de hyggelige og positive tingene som har skjedd i løpet av uka. </itunes:summary>
+      <itunes:duration>2690</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oJquB__V7cTh61fET1N3GQLc-Fti7lLLQC9OFMSj5vEQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2020">202005</podcast:season>
+    </item>
+    <item>
+      <title>Uke 19: Klemmer, syngende gorillaer og lojale supportere.</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_b1b9e763-9ac8-4f18-b9e7-639ac80f1814</link>
+      <description>Silje oppsummerer det koseligste fra uka med dyrenytt, hjemmelaget lemonade og rause fotballsupportere.</description>
+      <guid isPermaLink="false">l_b1b9e763-9ac8-4f18-b9e7-639ac80f1814</guid>
+      <pubDate>Sun, 10 May 2020 19:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/90503081-d982-44d7-a1d8-a002f2ad256b_0_ID192MP3.mp3" type="audio/mpeg" length="71931248"></enclosure>
+      <itunes:title>Uke 19: Klemmer, syngende gorillaer og lojale supportere.</itunes:title>
+      <itunes:summary>Silje oppsummerer det koseligste fra uka med dyrenytt, hjemmelaget lemonade og rause fotballsupportere.</itunes:summary>
+      <itunes:duration>2997</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/De7MT9gjwxSO0NnuhjVzbQ-11G1qXHhxCz-jqHwnWXhw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2020">202005</podcast:season>
+    </item>
+    <item>
+      <title>Uke 18: Russeknute, katteredningsaksjon og softis på direkten</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_964005de-b252-49e0-8005-deb25299e0ad</link>
+      <description>Hunkatten hadde testikler,  tidenes lengste overskrift og nipping til fett og sukker. Bli med mens Silje oppsummerer de hyggelige tingene som har skjedd denne uka.</description>
+      <guid isPermaLink="false">l_964005de-b252-49e0-8005-deb25299e0ad</guid>
+      <pubDate>Sun, 03 May 2020 19:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/43d6abc9-a6aa-4c69-a5ba-119b59a7b67d_0_ID192MP3.mp3" type="audio/mpeg" length="83116632"></enclosure>
+      <itunes:title>Uke 18: Russeknute, katteredningsaksjon og softis på direkten</itunes:title>
+      <itunes:summary>Hunkatten hadde testikler,  tidenes lengste overskrift og nipping til fett og sukker. Bli med mens Silje oppsummerer de hyggelige tingene som har skjedd denne uka.</itunes:summary>
+      <itunes:duration>3463</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oJquB__V7cTh61fET1N3GQLc-Fti7lLLQC9OFMSj5vEQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2020">202005</podcast:season>
+    </item>
+    <item>
+      <title>Uke 17: Ligging, pannekakelåt og radiobingo</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_b17fceb9-a79a-4ef5-bfce-b9a79acef5d0</link>
+      <description>Radiobingoen har blitt for populær, Maja har funnet en hun kan ligge med uten å bryte de offisielle smittevernslovene, og pannekakelåta går sin seiersgang. En glimrende uke med andre ord! Silje oppsummerer det fine som har skjedd.</description>
+      <guid isPermaLink="false">l_b17fceb9-a79a-4ef5-bfce-b9a79acef5d0</guid>
+      <pubDate>Sun, 26 Apr 2020 19:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/b764b5d1-f93b-4938-af8b-733f8d72befc_0_ID192MP3.mp3" type="audio/mpeg" length="75795096"></enclosure>
+      <itunes:title>Uke 17: Ligging, pannekakelåt og radiobingo</itunes:title>
+      <itunes:summary>Radiobingoen har blitt for populær, Maja har funnet en hun kan ligge med uten å bryte de offisielle smittevernslovene, og pannekakelåta går sin seiersgang. En glimrende uke med andre ord! Silje oppsummerer det fine som har skjedd.</itunes:summary>
+      <itunes:duration>3158</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wehWobts_PXEFh5RD2F5zANGB_GJarFe3fGMdj-KvkJQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2020">202004</podcast:season>
+    </item>
+    <item>
+      <title>Uke 16: Bilspill, brettspill og frislipp fra isolasjon</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_e3862cc2-d653-4559-862c-c2d653d55985</link>
+      <description>Mange har den siste tida tatt opp hobbyer de ikke har vært borti på flere år. Silje ser på tingene vi tar fram for litt ekstra hygge, og vi får brettspilltips, dyrenytt og koselige nyheter fra hele landet. Bli med å bas i pandaunger, gjensynsglede og visping av herlig kaffe.</description>
+      <guid isPermaLink="false">l_e3862cc2-d653-4559-862c-c2d653d55985</guid>
+      <pubDate>Sun, 19 Apr 2020 20:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/487e7d05-541d-43bf-9a9f-7cf2776406a8_0_ID192MP3.mp3" type="audio/mpeg" length="72074693"></enclosure>
+      <itunes:title>Uke 16: Bilspill, brettspill og frislipp fra isolasjon</itunes:title>
+      <itunes:summary>Mange har den siste tida tatt opp hobbyer de ikke har vært borti på flere år. Silje ser på tingene vi tar fram for litt ekstra hygge, og vi får brettspilltips, dyrenytt og koselige nyheter fra hele landet. Bli med å bas i pandaunger, gjensynsglede og visping av herlig kaffe.</itunes:summary>
+      <itunes:duration>3003</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WDlBx2WlZ_QuPTjWBmvb0wGJytQ9EIM3_ofAUOyj9wag"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2020">202004</podcast:season>
+    </item>
+    <item>
+      <title>Uke 14: Baking, champagne og rumpebok</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_d53ef7ff-b1ad-46cf-bef7-ffb1ad56cf3e</link>
+      <description>En god dose med kos får du gjennom baketips, tanker om hvordan man kan ha det fint i en rar verden og historien om en kommende rumpebok. </description>
+      <guid isPermaLink="false">l_d53ef7ff-b1ad-46cf-bef7-ffb1ad56cf3e</guid>
+      <pubDate>Sun, 05 Apr 2020 18:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/e1962bc6-a66d-47b9-84bb-5dc2a8db45e7_0_ID192MP3.mp3" type="audio/mpeg" length="63819444"></enclosure>
+      <itunes:title>Uke 14: Baking, champagne og rumpebok</itunes:title>
+      <itunes:summary>En god dose med kos får du gjennom baketips, tanker om hvordan man kan ha det fint i en rar verden og historien om en kommende rumpebok. </itunes:summary>
+      <itunes:duration>2659</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oJquB__V7cTh61fET1N3GQLc-Fti7lLLQC9OFMSj5vEQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2020">202004</podcast:season>
+    </item>
+    <item>
+      <title>Uke 13: Grønne planter, skogstur og Silje gir et puslespill til en koronasmittet sykepleier</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_3358eecc-aa03-4196-98ee-ccaa03e196be</link>
+      <description>Silje prøver å løse Hannes plante-problem. Hun har nemlig kjøpt en stikling som visner, men tør ikke spørre om tips på facebook i tilfelle hun som Hanne har kjøpt den av skal se at hun mishandler planten hennes. I tillegg hører vi om at alle plutselig skal ut på skogstur, og at Silje prøver å hjelpe en sykepleier i nød. </description>
+      <guid isPermaLink="false">l_3358eecc-aa03-4196-98ee-ccaa03e196be</guid>
+      <pubDate>Sun, 29 Mar 2020 18:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/c61f67d1-6f94-40ef-af17-98658d769dcd_0_ID192MP3.mp3" type="audio/mpeg" length="65415534"></enclosure>
+      <itunes:title>Uke 13: Grønne planter, skogstur og Silje gir et puslespill til en koronasmittet sykepleier</itunes:title>
+      <itunes:summary>Silje prøver å løse Hannes plante-problem. Hun har nemlig kjøpt en stikling som visner, men tør ikke spørre om tips på facebook i tilfelle hun som Hanne har kjøpt den av skal se at hun mishandler planten hennes. I tillegg hører vi om at alle plutselig skal ut på skogstur, og at Silje prøver å hjelpe en sykepleier i nød. </itunes:summary>
+      <itunes:duration>2725</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oJquB__V7cTh61fET1N3GQLc-Fti7lLLQC9OFMSj5vEQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2020">202003</podcast:season>
+    </item>
+    <item>
+      <title>Uke 12: Premiere</title>
+      <link>https://radio.nrk.no/podkast/koselig/l_618607b4-18d2-47fd-8607-b418d277fd4d</link>
+      <description>Koselig oppsummerer alt det fine som har skjedd denne uka. Vi ringer til Hans-Wilhelm som har feiret bursdag i karantene og følt seg som en konge på dass. Karoline forteller om koselig og innbringende dumpsterdiving. Silje ringer lokalavisen sin hjemmefra og ellers blir det ukas overskrifter, dyrenytt og generelt koselig stemning. </description>
+      <guid isPermaLink="false">l_618607b4-18d2-47fd-8607-b418d277fd4d</guid>
+      <pubDate>Sun, 22 Mar 2020 19:50:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/koselig/016d20c9-1914-4081-b85f-466598f11e8f_0_ID192MP3.mp3" type="audio/mpeg" length="58399317"></enclosure>
+      <itunes:title>Uke 12: Premiere</itunes:title>
+      <itunes:summary>Koselig oppsummerer alt det fine som har skjedd denne uka. Vi ringer til Hans-Wilhelm som har feiret bursdag i karantene og følt seg som en konge på dass. Karoline forteller om koselig og innbringende dumpsterdiving. Silje ringer lokalavisen sin hjemmefra og ellers blir det ukas overskrifter, dyrenytt og generelt koselig stemning. </itunes:summary>
+      <itunes:duration>2433</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/De7MT9gjwxSO0NnuhjVzbQ-11G1qXHhxCz-jqHwnWXhw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2020">202003</podcast:season>
+    </item>
+  </channel>
+</rss>

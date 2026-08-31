@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ding-dong, du er død!</title>
+    <link>https://radio.nrk.no/podkast/ding_dong_du_er_doed</link>
+    <description>Én dag – seks perspektiver. Hvem i alle dager ringte på hos Dyveke Astrup og skjøt henne – i hodet?  </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 11 Apr 2025 04:05:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ding_dong_du_er_doed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Én dag – seks perspektiver. Hvem i alle dager ringte på hos Dyveke Astrup og skjøt henne – i hodet?  </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/RwgwPthv3plOSQ5EolWSEAPIWEFAgR8A7CevqHRtYh9g"></itunes:image>
+    <itunes:category text="Fiction"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/RwgwPthv3plOSQ5EolWSEAPIWEFAgR8A7CevqHRtYh9g</url>
+      <title>Ding-dong, du er død!</title>
+      <link>https://radio.nrk.no/podkast/ding_dong_du_er_doed</link>
+    </image>
+    <item>
+      <title>Stian (6:6)</title>
+      <link>https://radio.nrk.no/podkast/ding_dong_du_er_doed/l_0d9360d6-0962-49ce-9360-d6096209ce99</link>
+      <description>Stian elsker kjæresten sin og er villig til å gjøre alt for henne. Alt.</description>
+      <guid isPermaLink="false">l_0d9360d6-0962-49ce-9360-d6096209ce99</guid>
+      <pubDate>Fri, 11 Apr 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ding_dong_du_er_doed/a3811c4a-3d56-4a02-83c5-ab4a18f331ea_0_ID192MP3.mp3" type="audio/mpeg" length="40053357"></enclosure>
+      <itunes:title>Stian (6:6)</itunes:title>
+      <itunes:summary>Stian elsker kjæresten sin og er villig til å gjøre alt for henne. Alt.</itunes:summary>
+      <itunes:duration>1668</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/k8_I-odP0gWts_w5tYpOVwNdsp-UPy73rcR1ObwHSDaQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Babe (5:6)</title>
+      <link>https://radio.nrk.no/podkast/ding_dong_du_er_doed/l_6344d435-7a26-4823-84d4-357a26d8235b</link>
+      <description>Babe drar på skolen, gråter på do, bryter trafikkreglene og drar på ball.</description>
+      <guid isPermaLink="false">l_6344d435-7a26-4823-84d4-357a26d8235b</guid>
+      <pubDate>Fri, 11 Apr 2025 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ding_dong_du_er_doed/903fd470-ef58-44ef-8502-f4d5f540e545_0_ID192MP3.mp3" type="audio/mpeg" length="26401005"></enclosure>
+      <itunes:title>Babe (5:6)</itunes:title>
+      <itunes:summary>Babe drar på skolen, gråter på do, bryter trafikkreglene og drar på ball.</itunes:summary>
+      <itunes:duration>1099</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/sw5BiQ2r5lnvf8cOiBY1rASI5tOrl8nVBTd71FU-BeUw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jack (4:6)</title>
+      <link>https://radio.nrk.no/podkast/ding_dong_du_er_doed/l_3fe097e8-6f2b-4ee9-a097-e86f2b3ee99c</link>
+      <description>Jack legger ut huset for salg, drikker champagne, ser en film og hopper ut av et vindu.</description>
+      <guid isPermaLink="false">l_3fe097e8-6f2b-4ee9-a097-e86f2b3ee99c</guid>
+      <pubDate>Fri, 11 Apr 2025 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ding_dong_du_er_doed/80985e33-96fc-4c2d-a9bf-521eee49a68f_0_ID192MP3.mp3" type="audio/mpeg" length="27345645"></enclosure>
+      <itunes:title>Jack (4:6)</itunes:title>
+      <itunes:summary>Jack legger ut huset for salg, drikker champagne, ser en film og hopper ut av et vindu.</itunes:summary>
+      <itunes:duration>1139</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Zhf549Q1oucuBBmxHImygggS-4v2KG89XhnFvULOQLZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Leo (3:6)</title>
+      <link>https://radio.nrk.no/podkast/ding_dong_du_er_doed/l_c8b9167f-86ec-437b-b916-7f86ec237b79</link>
+      <description>Leo Snellingen flyr til Norge, rømmer fra politiet, krasjer sykkelen sin og gjemmer seg i et skap.</description>
+      <guid isPermaLink="false">l_c8b9167f-86ec-437b-b916-7f86ec237b79</guid>
+      <pubDate>Fri, 11 Apr 2025 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ding_dong_du_er_doed/f1be23b2-f167-48f7-9d7e-85e234adbbe3_0_ID192MP3.mp3" type="audio/mpeg" length="34608429"></enclosure>
+      <itunes:title>Leo (3:6)</itunes:title>
+      <itunes:summary>Leo Snellingen flyr til Norge, rømmer fra politiet, krasjer sykkelen sin og gjemmer seg i et skap.</itunes:summary>
+      <itunes:duration>1441</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9elCXe5CfHaHcvP5qBSNEgjpx9oyt0TOQNjFUp21KzZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kloa (2:6)</title>
+      <link>https://radio.nrk.no/podkast/ding_dong_du_er_doed/l_c039366c-7a3b-428c-b936-6c7a3bd28c05</link>
+      <description>Kai Kloa Tufte lærer opp en nyansatt, møter en gammel kjenning og havner utpå igjen.</description>
+      <guid isPermaLink="false">l_c039366c-7a3b-428c-b936-6c7a3bd28c05</guid>
+      <pubDate>Fri, 11 Apr 2025 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ding_dong_du_er_doed/1ed59b50-c279-4c42-995a-98d71526872a_0_ID192MP3.mp3" type="audio/mpeg" length="29700909"></enclosure>
+      <itunes:title>Kloa (2:6)</itunes:title>
+      <itunes:summary>Kai Kloa Tufte lærer opp en nyansatt, møter en gammel kjenning og havner utpå igjen.</itunes:summary>
+      <itunes:duration>1237</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qwiyrfvhIm5qLctFNEk6hQZ77by0xnTcweIXcYv5A25w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dyveke (1:6)</title>
+      <link>https://radio.nrk.no/podkast/ding_dong_du_er_doed/l_9e093a6a-27db-46e6-893a-6a27dbc6e69d</link>
+      <description>Dyveke Astrup har første vakt på Europris, krasjer inn i en motorsyklist, raner en dame og blir skutt i hodet.</description>
+      <guid isPermaLink="false">l_9e093a6a-27db-46e6-893a-6a27dbc6e69d</guid>
+      <pubDate>Fri, 11 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ding_dong_du_er_doed/c04ae6b0-5d4a-4331-be2b-3ac1ff3f2c47_0_ID192MP3.mp3" type="audio/mpeg" length="33073389"></enclosure>
+      <itunes:title>Dyveke (1:6)</itunes:title>
+      <itunes:summary>Dyveke Astrup har første vakt på Europris, krasjer inn i en motorsyklist, raner en dame og blir skutt i hodet.</itunes:summary>
+      <itunes:duration>1378</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UMo_5zlbMcWdKliJXqH3xwO0WIH5o6G_oQC1o6mNp5uQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

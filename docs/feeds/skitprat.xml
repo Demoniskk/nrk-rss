@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skitprat med Jens og Isak</title>
+    <link>https://radio.nrk.no/podkast/skitprat</link>
+    <description>Villmarkas Jens Kvernmo og Norges tøffeste Isak Dreyer er to kompiser som elsker naturen, livet og skitprat. Send e-post til Skitprat@nrk.no!</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Sat, 29 Apr 2023 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/skitprat.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Villmarkas Jens Kvernmo og Norges tøffeste Isak Dreyer er to kompiser som elsker naturen, livet og skitprat. Send e-post til Skitprat@nrk.no!</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg</url>
+      <title>Skitprat med Jens og Isak</title>
+      <link>https://radio.nrk.no/podkast/skitprat</link>
+    </image>
+    <item>
+      <title>Selfangst, Mongolia og dametips</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_22d98977-fa83-4f0d-9989-77fa832f0d39</link>
+      <description>Isak er klar for selfangst i Vestisen, mens Jens skal tilbake til Mongolia og ri på rein.</description>
+      <guid isPermaLink="false">l_22d98977-fa83-4f0d-9989-77fa832f0d39</guid>
+      <pubDate>Sat, 29 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/28e8253c-07af-46c4-9efe-7b435c699179_0_ID192MP3.mp3" type="audio/mpeg" length="34425261"></enclosure>
+      <itunes:title>Selfangst, Mongolia og dametips</itunes:title>
+      <itunes:summary>Isak er klar for selfangst i Vestisen, mens Jens skal tilbake til Mongolia og ri på rein.</itunes:summary>
+      <itunes:duration>1434</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nordlys, stige-fiske og trugehat</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_219bdb30-7b46-43f0-9bdb-307b46a3f0e4</link>
+      <description>Isak har vært på stige-fiske, Jens har sett tidenes nordlys og begge er enige om at truger er helt håpløst på tur.</description>
+      <guid isPermaLink="false">l_219bdb30-7b46-43f0-9bdb-307b46a3f0e4</guid>
+      <pubDate>Sat, 22 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/50417e77-c67c-496b-9d64-db8db7c80d89_0_ID192MP3.mp3" type="audio/mpeg" length="43947693"></enclosure>
+      <itunes:title>Nordlys, stige-fiske og trugehat</itunes:title>
+      <itunes:summary>Isak har vært på stige-fiske, Jens har sett tidenes nordlys og begge er enige om at truger er helt håpløst på tur.</itunes:summary>
+      <itunes:duration>1831</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Finnmarksløpet, hallusinasjon og kjønnsdrift</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_7d80fa95-0e3d-44d8-80fa-950e3d44d894</link>
+      <description>Jens mimrer tilbake til Finnmarksløpet tidligere i vinter, hvor han hallusinerte i 35 minus og gutta lar seg imponere over kjønnsdriften.</description>
+      <guid isPermaLink="false">l_7d80fa95-0e3d-44d8-80fa-950e3d44d894</guid>
+      <pubDate>Sat, 15 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/ca7a705e-83da-4cd9-8cc9-8d7000e20c5b_0_ID192MP3.mp3" type="audio/mpeg" length="42866541"></enclosure>
+      <itunes:title>Finnmarksløpet, hallusinasjon og kjønnsdrift</itunes:title>
+      <itunes:summary>Jens mimrer tilbake til Finnmarksløpet tidligere i vinter, hvor han hallusinerte i 35 minus og gutta lar seg imponere over kjønnsdriften.</itunes:summary>
+      <itunes:duration>1786</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vårløsning, isfjell og hvalfangst</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_17ed793d-61e2-4752-ad79-3d61e2175235</link>
+      <description>Det er vår på Grønland, Isak syr isbjørnbukse og Jens får være med hvalfangst, men det er så vidt han kommer hjem igjen! </description>
+      <guid isPermaLink="false">l_17ed793d-61e2-4752-ad79-3d61e2175235</guid>
+      <pubDate>Sat, 08 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/7a14bea7-a6f7-4310-8c13-5a5ddf620133_0_ID192MP3.mp3" type="audio/mpeg" length="46145133"></enclosure>
+      <itunes:title>Vårløsning, isfjell og hvalfangst</itunes:title>
+      <itunes:summary>Det er vår på Grønland, Isak syr isbjørnbukse og Jens får være med hvalfangst, men det er så vidt han kommer hjem igjen! </itunes:summary>
+      <itunes:duration>1922</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Seljakt, mor Toku og urbefolkningen</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_c9159aa4-ff0f-464a-959a-a4ff0f164ae2</link>
+      <description>Jens og Isak får være med på seljakt og blir kjent med Toku, som blir som en mor for dem på Grønland. </description>
+      <guid isPermaLink="false">l_c9159aa4-ff0f-464a-959a-a4ff0f164ae2</guid>
+      <pubDate>Sat, 01 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/b1256d28-3187-4e78-bee5-82f2ba8c46ca_0_ID192MP3.mp3" type="audio/mpeg" length="40607469"></enclosure>
+      <itunes:title>Seljakt, mor Toku og urbefolkningen</itunes:title>
+      <itunes:summary>Jens og Isak får være med på seljakt og blir kjent med Toku, som blir som en mor for dem på Grønland. </itunes:summary>
+      <itunes:duration>1691</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Isak forsvinner i isødet</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_908b10dc-828f-4c3b-8b10-dc828fcc3b53</link>
+      <description>Jens og Isak mister hverandre i isødet på Grønland. Jens må følge sporene til Isak, som fører rett ut i utrygg is. &#xA;&#xA;</description>
+      <guid isPermaLink="false">l_908b10dc-828f-4c3b-8b10-dc828fcc3b53</guid>
+      <pubDate>Sat, 25 Mar 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/3c01dc2d-c7ea-4050-864d-ba665aa0daa6_0_ID192MP3.mp3" type="audio/mpeg" length="47421549"></enclosure>
+      <itunes:title>Isak forsvinner i isødet</itunes:title>
+      <itunes:summary>Jens og Isak mister hverandre i isødet på Grønland. Jens må følge sporene til Isak, som fører rett ut i utrygg is. &#xA;&#xA;</itunes:summary>
+      <itunes:duration>1975</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Grønlandshund, sledebygging og hvalkuk</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_f24df6dc-abcf-42de-8df6-dcabcfd2de52</link>
+      <description>Jens og Isak forteller hvordan det gikk da de skulle skaffe seg eget hundespann på Grønland. Det var enklere sagt enn gjort! </description>
+      <guid isPermaLink="false">l_f24df6dc-abcf-42de-8df6-dcabcfd2de52</guid>
+      <pubDate>Sat, 18 Mar 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/a2b64b65-99ba-4703-8a23-4bfd1b83073f_0_ID192MP3.mp3" type="audio/mpeg" length="41829741"></enclosure>
+      <itunes:title>Grønlandshund, sledebygging og hvalkuk</itunes:title>
+      <itunes:summary>Jens og Isak forteller hvordan det gikk da de skulle skaffe seg eget hundespann på Grønland. Det var enklere sagt enn gjort! </itunes:summary>
+      <itunes:duration>1742</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Grønland, hvalrossjakt og dopapir</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_a8d808f4-79b9-4bdb-9808-f479b9cbdb98</link>
+      <description>Jens og Isak forteller (nesten) alt om Grønlandseventyret og Jens har forsket seg frem til naturens beste dopapir.</description>
+      <guid isPermaLink="false">l_a8d808f4-79b9-4bdb-9808-f479b9cbdb98</guid>
+      <pubDate>Sat, 11 Mar 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/aab7e981-4d10-4d12-8d8f-3b255539464f_0_ID192MP3.mp3" type="audio/mpeg" length="40407597"></enclosure>
+      <itunes:title>Grønland, hvalrossjakt og dopapir</itunes:title>
+      <itunes:summary>Jens og Isak forteller (nesten) alt om Grønlandseventyret og Jens har forsket seg frem til naturens beste dopapir.</itunes:summary>
+      <itunes:duration>1683</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Spesial: Fangstlegenden John S. Opdahl</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_120e85cb-eb6c-4fd6-8e85-cbeb6c7fd61f</link>
+      <description>Jens og Isak har besøk av den legendariske fangstmannen John S. Opdahl, som forteller utrolige historier fra et langt jegerliv.</description>
+      <guid isPermaLink="false">l_120e85cb-eb6c-4fd6-8e85-cbeb6c7fd61f</guid>
+      <pubDate>Sat, 04 Mar 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/53e8c9d2-d051-45d3-ad74-2e88e7e86ea7_0_ID192MP3.mp3" type="audio/mpeg" length="37292013"></enclosure>
+      <itunes:title>Spesial: Fangstlegenden John S. Opdahl</itunes:title>
+      <itunes:summary>Jens og Isak har besøk av den legendariske fangstmannen John S. Opdahl, som forteller utrolige historier fra et langt jegerliv.</itunes:summary>
+      <itunes:duration>1553</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hundekjøring, polititrøbbel og «Funkygine»</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_87e75e5d-8715-4cc9-a75e-5d87150cc99c</link>
+      <description>Jens forbereder seg til Finnmarksløpet, mens Isak har vært på telttur med «Funkygine» og havnet i våpentrøbbel med politiet. </description>
+      <guid isPermaLink="false">l_87e75e5d-8715-4cc9-a75e-5d87150cc99c</guid>
+      <pubDate>Sat, 25 Feb 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/d82a0cc8-47c1-4aec-b7bd-0322d534fd77_0_ID192MP3.mp3" type="audio/mpeg" length="40332717"></enclosure>
+      <itunes:title>Hundekjøring, polititrøbbel og «Funkygine»</itunes:title>
+      <itunes:summary>Jens forbereder seg til Finnmarksløpet, mens Isak har vært på telttur med «Funkygine» og havnet i våpentrøbbel med politiet. </itunes:summary>
+      <itunes:duration>1680</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Rådyrjakt, skitne rekorder og lokke-quiz!</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_77979923-e919-4d4f-9799-23e919cd4fa5</link>
+      <description>Jens forteller hvorfor rådyrjakta betyr så mye, og gutta avslører noen skitne rekorder på tur. Jens tester hvor god Isak er på lokke-lyder.</description>
+      <guid isPermaLink="false">l_77979923-e919-4d4f-9799-23e919cd4fa5</guid>
+      <pubDate>Sat, 05 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/b68c7087-058a-45df-b534-b36c9ee69652_0_ID192MP3.mp3" type="audio/mpeg" length="41456493"></enclosure>
+      <itunes:title>Rådyrjakt, skitne rekorder og lokke-quiz!</itunes:title>
+      <itunes:summary>Jens forteller hvorfor rådyrjakta betyr så mye, og gutta avslører noen skitne rekorder på tur. Jens tester hvor god Isak er på lokke-lyder.</itunes:summary>
+      <itunes:duration>1727</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Brølejakt, Mongolia-tur og kullosforgiftning</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_ddda94ec-e7ea-4e23-9a94-ece7ea1e23e4</link>
+      <description>Jens har vært på brølejakt og levd ut guttedrømmen i Mongolia, mens Isak har hatt en nær døden-opplevelse.</description>
+      <guid isPermaLink="false">l_ddda94ec-e7ea-4e23-9a94-ece7ea1e23e4</guid>
+      <pubDate>Sat, 29 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/a96970cb-edab-4a72-a682-d6fe78f0da62_0_ID192MP3.mp3" type="audio/mpeg" length="56977965"></enclosure>
+      <itunes:title>Brølejakt, Mongolia-tur og kullosforgiftning</itunes:title>
+      <itunes:summary>Jens har vært på brølejakt og levd ut guttedrømmen i Mongolia, mens Isak har hatt en nær døden-opplevelse.</itunes:summary>
+      <itunes:duration>2374</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Norges tøffeste, skjerpa sanser og telttips</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_e6cbec70-9dab-46cb-8bec-709dab16cbef</link>
+      <description>Isak røper sin favoritt i Norges tøffeste og Jens forteller hvordan sansene reddet ham fra et skremmende møte med bjørn i Canada.</description>
+      <guid isPermaLink="false">l_e6cbec70-9dab-46cb-8bec-709dab16cbef</guid>
+      <pubDate>Sat, 22 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/90b9d6fb-4f54-484b-9802-8384c7cc772e_0_ID192MP3.mp3" type="audio/mpeg" length="29761965"></enclosure>
+      <itunes:title>Norges tøffeste, skjerpa sanser og telttips</itunes:title>
+      <itunes:summary>Isak røper sin favoritt i Norges tøffeste og Jens forteller hvordan sansene reddet ham fra et skremmende møte med bjørn i Canada.</itunes:summary>
+      <itunes:duration>1240</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Skogsfugljakt, hestesanking og cowboyliv</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_59d4f4e5-2886-45a5-94f4-e52886f5a5ba</link>
+      <description>Jens og Isak deler sine beste historier og flauser fra skogsfugl-jakta og gutta drømmer om et liv som cowboy og indianer. </description>
+      <guid isPermaLink="false">l_59d4f4e5-2886-45a5-94f4-e52886f5a5ba</guid>
+      <pubDate>Sat, 15 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/ba3f9c10-0898-4e9f-8745-85c8db00faed_0_ID192MP3.mp3" type="audio/mpeg" length="28483245"></enclosure>
+      <itunes:title>Skogsfugljakt, hestesanking og cowboyliv</itunes:title>
+      <itunes:summary>Jens og Isak deler sine beste historier og flauser fra skogsfugl-jakta og gutta drømmer om et liv som cowboy og indianer. </itunes:summary>
+      <itunes:duration>1186</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Leirplass, kokegrop og trofébilder på jakt</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_b5ce23f9-7e25-481b-8e23-f97e25881b31</link>
+      <description>Oktober er høytid fra å sove ute og Jens forteller om leirplassen fra helvete. Gutta diskuterer også om trofébilder på jakt er innafor.</description>
+      <guid isPermaLink="false">l_b5ce23f9-7e25-481b-8e23-f97e25881b31</guid>
+      <pubDate>Sat, 08 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/2aa253d1-3ee7-49e1-84fa-c0796f52f70c_0_ID192MP3.mp3" type="audio/mpeg" length="29575917"></enclosure>
+      <itunes:title>Leirplass, kokegrop og trofébilder på jakt</itunes:title>
+      <itunes:summary>Oktober er høytid fra å sove ute og Jens forteller om leirplassen fra helvete. Gutta diskuterer også om trofébilder på jakt er innafor.</itunes:summary>
+      <itunes:duration>1232</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Harejakt, byggekaos og praktiske tamponger</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_4458531c-3356-4a02-9853-1c33567a020c</link>
+      <description>Isak har vært på harejakt og klikker av byggesaksbyråkrati, mens Jens gir deg svaret på hvordan tamponger kan brukes som mår-felle! &#xA;</description>
+      <guid isPermaLink="false">l_4458531c-3356-4a02-9853-1c33567a020c</guid>
+      <pubDate>Sat, 01 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/fa91b1ca-13fe-48f1-b22c-840b98e6e0de_0_ID192MP3.mp3" type="audio/mpeg" length="26147565"></enclosure>
+      <itunes:title>Harejakt, byggekaos og praktiske tamponger</itunes:title>
+      <itunes:summary>Isak har vært på harejakt og klikker av byggesaksbyråkrati, mens Jens gir deg svaret på hvordan tamponger kan brukes som mår-felle! &#xA;</itunes:summary>
+      <itunes:duration>1089</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Rypejakt, Dagsnytt 18 og dårlig samvittighet</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_d8ff87ee-1bf8-46e4-bf87-ee1bf826e4a0</link>
+      <description>Jens og Isak har vært på rypejakt og deler sine beste tips for å lykkes. De innrømmer også at de kan få dårlig samvittighet på jakt.</description>
+      <guid isPermaLink="false">l_d8ff87ee-1bf8-46e4-bf87-ee1bf826e4a0</guid>
+      <pubDate>Sat, 24 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/15e9757e-8dbb-4cc1-a510-f5feedbe2bdf_0_ID192MP3.mp3" type="audio/mpeg" length="31136301"></enclosure>
+      <itunes:title>Rypejakt, Dagsnytt 18 og dårlig samvittighet</itunes:title>
+      <itunes:summary>Jens og Isak har vært på rypejakt og deler sine beste tips for å lykkes. De innrømmer også at de kan få dårlig samvittighet på jakt.</itunes:summary>
+      <itunes:duration>1297</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Villreinjakt, revelokking og ulvedilemma</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_24765802-3f40-488f-b658-023f40088f03</link>
+      <description>Jens og Isak har vært på villreinjakt, som ble mer komisk enn de hadde sett for seg. De deler også sine beste lokketips på revejakt.</description>
+      <guid isPermaLink="false">l_24765802-3f40-488f-b658-023f40088f03</guid>
+      <pubDate>Sat, 17 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/bcb3929d-f234-4240-b1ba-8bec0136fda0_0_ID192MP3.mp3" type="audio/mpeg" length="32503725"></enclosure>
+      <itunes:title>Villreinjakt, revelokking og ulvedilemma</itunes:title>
+      <itunes:summary>Jens og Isak har vært på villreinjakt, som ble mer komisk enn de hadde sett for seg. De deler også sine beste lokketips på revejakt.</itunes:summary>
+      <itunes:duration>1354</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Rypejakt, helikopter-sinne og hundespising</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_778c6764-f7fe-48f9-8c67-64f7fec8f9e3</link>
+      <description>Årets rypejakt er i gang og Jens og Isak deler sine beste tips for å lykkes. De hisser seg også opp over trenden med helikopter-jakt.</description>
+      <guid isPermaLink="false">l_778c6764-f7fe-48f9-8c67-64f7fec8f9e3</guid>
+      <pubDate>Sat, 10 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/f9897175-0bc5-4810-85ad-dcd0fac5eca2_0_ID192MP3.mp3" type="audio/mpeg" length="28225773"></enclosure>
+      <itunes:title>Rypejakt, helikopter-sinne og hundespising</itunes:title>
+      <itunes:summary>Årets rypejakt er i gang og Jens og Isak deler sine beste tips for å lykkes. De hisser seg også opp over trenden med helikopter-jakt.</itunes:summary>
+      <itunes:duration>1176</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hjem fra Grønland og klare for jakt</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_553c66cf-771c-464c-bc66-cf771c364c68</link>
+      <description>Jens og Isak er hjemme etter flere måneder på Grønland, og Jens forteller om nervepirrende hvaljakt med inuittene. </description>
+      <guid isPermaLink="false">l_553c66cf-771c-464c-bc66-cf771c364c68</guid>
+      <pubDate>Sat, 03 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/78c55acf-672c-4226-955a-ce51e3bf687b_0_ID192MP3.mp3" type="audio/mpeg" length="25538157"></enclosure>
+      <itunes:title>Hjem fra Grønland og klare for jakt</itunes:title>
+      <itunes:summary>Jens og Isak er hjemme etter flere måneder på Grønland, og Jens forteller om nervepirrende hvaljakt med inuittene. </itunes:summary>
+      <itunes:duration>1064</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kommer 3.september</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_8c5c3f63-a6d3-40f0-9c3f-63a6d390f0c5</link>
+      <description>Nye episoder av Skitprat med Jens og Isak kommer snart!</description>
+      <guid isPermaLink="false">l_8c5c3f63-a6d3-40f0-9c3f-63a6d390f0c5</guid>
+      <pubDate>Sat, 27 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/71aa822b-8ec9-4a45-9bb0-def1f944f51d_0_ID192MP3.mp3" type="audio/mpeg" length="1084653"></enclosure>
+      <itunes:title>Kommer 3.september</itunes:title>
+      <itunes:summary>Nye episoder av Skitprat med Jens og Isak kommer snart!</itunes:summary>
+      <itunes:duration>45</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Skyting, nachspiel og øde øy</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_a5139a9d-8a6f-40a8-939a-9d8a6f80a881</link>
+      <description>Jens og Isak forklarer hvordan du skal trene for å bli en god skytter. Jens avslører hvilken låt han dro på gitar etter festen. </description>
+      <guid isPermaLink="false">l_a5139a9d-8a6f-40a8-939a-9d8a6f80a881</guid>
+      <pubDate>Sun, 12 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/af2aebef-dbce-47ee-94a0-d483f5954f8b_0_ID192MP3.mp3" type="audio/mpeg" length="41391981"></enclosure>
+      <itunes:title>Skyting, nachspiel og øde øy</itunes:title>
+      <itunes:summary>Jens og Isak forklarer hvordan du skal trene for å bli en god skytter. Jens avslører hvilken låt han dro på gitar etter festen. </itunes:summary>
+      <itunes:duration>1724</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Legender, radio og jakttabbe </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_ad2cc374-5633-4e39-acc3-745633ce39b6</link>
+      <description>Jens og Isak elsker legender, og mener alle bør ha et forbilde. Gutta forteller om en lærerik jaktdag, Isak deler drøy historie fra Farmen.</description>
+      <guid isPermaLink="false">l_ad2cc374-5633-4e39-acc3-745633ce39b6</guid>
+      <pubDate>Sun, 05 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/bd926286-3474-4b00-8ce1-539c3d47fc99_0_ID192MP3.mp3" type="audio/mpeg" length="41325741"></enclosure>
+      <itunes:title>Legender, radio og jakttabbe </itunes:title>
+      <itunes:summary>Jens og Isak elsker legender, og mener alle bør ha et forbilde. Gutta forteller om en lærerik jaktdag, Isak deler drøy historie fra Farmen.</itunes:summary>
+      <itunes:duration>1721</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kano, kniv og polferd </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_f8cd007f-6c77-4fed-8d00-7f6c772fed26</link>
+      <description>Isak har begynt å gå med kniv i beltet på jobb etter at han traff Jens. Gutta prater om kanoturer og sin første langtur helt alene.  </description>
+      <guid isPermaLink="false">l_f8cd007f-6c77-4fed-8d00-7f6c772fed26</guid>
+      <pubDate>Sun, 29 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/b5ea2493-e97d-43a5-bc73-beac9359b247_0_ID192MP3.mp3" type="audio/mpeg" length="34001325"></enclosure>
+      <itunes:title>Kano, kniv og polferd </itunes:title>
+      <itunes:summary>Isak har begynt å gå med kniv i beltet på jobb etter at han traff Jens. Gutta prater om kanoturer og sin første langtur helt alene.  </itunes:summary>
+      <itunes:duration>1416</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fisketips, mark og flytrøbbel</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_5c460425-ca20-4584-8604-25ca20f5843d</link>
+      <description>Jens og Isak deler tips og historier om fisking i fjellvann. Isak har prøvd å fly med hund, og Jens må avsløre sin største guilty pleasure. </description>
+      <guid isPermaLink="false">l_5c460425-ca20-4584-8604-25ca20f5843d</guid>
+      <pubDate>Sun, 22 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/d28f8540-1215-48ac-92b5-a4adacbba1c4_0_ID192MP3.mp3" type="audio/mpeg" length="40677741"></enclosure>
+      <itunes:title>Fisketips, mark og flytrøbbel</itunes:title>
+      <itunes:summary>Jens og Isak deler tips og historier om fisking i fjellvann. Isak har prøvd å fly med hund, og Jens må avsløre sin største guilty pleasure. </itunes:summary>
+      <itunes:duration>1694</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Pakkeliste, fetthunger og MGP </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_c86ec878-1b29-447d-aec8-781b29e47d18</link>
+      <description>Jens gjør det til sport å pakke lite på tur,  Isak deler et smart triks han lærte av faren. Og hva mener de er den beste turegenskapen? </description>
+      <guid isPermaLink="false">l_c86ec878-1b29-447d-aec8-781b29e47d18</guid>
+      <pubDate>Sun, 15 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/df5f269e-81f9-43db-91d7-cc8de6cafc6f_0_ID192MP3.mp3" type="audio/mpeg" length="33944877"></enclosure>
+      <itunes:title>Pakkeliste, fetthunger og MGP </itunes:title>
+      <itunes:summary>Jens gjør det til sport å pakke lite på tur,  Isak deler et smart triks han lærte av faren. Og hva mener de er den beste turegenskapen? </itunes:summary>
+      <itunes:duration>1414</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tursko, kløv og serietips </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_2ca3c07a-e108-4c8c-a3c0-7ae1084c8c73</link>
+      <description>Isak sliter med gnagsår av turskoene, mens Jens mener han er herdet. Gutta har oppdaget en tv-serie de begge har klart å se ferdig.  </description>
+      <guid isPermaLink="false">l_2ca3c07a-e108-4c8c-a3c0-7ae1084c8c73</guid>
+      <pubDate>Sun, 08 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/7d98aeca-2fbe-4b61-a72b-755a9f0083a9_0_ID192MP3.mp3" type="audio/mpeg" length="35626797"></enclosure>
+      <itunes:title>Tursko, kløv og serietips </itunes:title>
+      <itunes:summary>Isak sliter med gnagsår av turskoene, mens Jens mener han er herdet. Gutta har oppdaget en tv-serie de begge har klart å se ferdig.  </itunes:summary>
+      <itunes:duration>1484</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tiurleik, barnevakt og tårer </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_f36f6a6c-8655-4036-af6a-6c8655903605</link>
+      <description>Jens ble livredd på sin første tiurleik, og Isak har lært seg hvorfor han alltid skal stole på hunden. Onkel Jens deler barnevakttips. </description>
+      <guid isPermaLink="false">l_f36f6a6c-8655-4036-af6a-6c8655903605</guid>
+      <pubDate>Sun, 01 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/ba0ebbc8-5ad8-4b25-a8aa-60f10cd86baa_0_ID192MP3.mp3" type="audio/mpeg" length="36542637"></enclosure>
+      <itunes:title>Tiurleik, barnevakt og tårer </itunes:title>
+      <itunes:summary>Jens ble livredd på sin første tiurleik, og Isak har lært seg hvorfor han alltid skal stole på hunden. Onkel Jens deler barnevakttips. </itunes:summary>
+      <itunes:duration>1522</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gåsetaco, valpetrening og viltloven </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_c6d61c67-97ed-495e-961c-6797edb95ea0</link>
+      <description>Isak har fryseren full av gås, og sliter med at han må spise opp alt. Jens om hvordan han trener opp valpen Mika til å bli klar for jakt.</description>
+      <guid isPermaLink="false">l_c6d61c67-97ed-495e-961c-6797edb95ea0</guid>
+      <pubDate>Sun, 24 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/8e1ac64e-7f2c-45cf-9cab-5cf26095feb0_0_ID192MP3.mp3" type="audio/mpeg" length="36037485"></enclosure>
+      <itunes:title>Gåsetaco, valpetrening og viltloven </itunes:title>
+      <itunes:summary>Isak har fryseren full av gås, og sliter med at han må spise opp alt. Jens om hvordan han trener opp valpen Mika til å bli klar for jakt.</itunes:summary>
+      <itunes:duration>1501</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Beverjakt, statsminister og nybegynnertips </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_54f0ad95-f5ce-4033-b0ad-95f5cef033c8</link>
+      <description>Jens og Isak prøver å snakke om beverjakt, men får latterkrampe. Isak utfordres: Hva ville han gjort om han var statsminister for en dag?  </description>
+      <guid isPermaLink="false">l_54f0ad95-f5ce-4033-b0ad-95f5cef033c8</guid>
+      <pubDate>Sun, 17 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/a39a9a2f-ef19-491a-a291-71b3e62cd3eb_0_ID192MP3.mp3" type="audio/mpeg" length="32324013"></enclosure>
+      <itunes:title>Beverjakt, statsminister og nybegynnertips </itunes:title>
+      <itunes:summary>Jens og Isak prøver å snakke om beverjakt, men får latterkrampe. Isak utfordres: Hva ville han gjort om han var statsminister for en dag?  </itunes:summary>
+      <itunes:duration>1346</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vårtur, telttips og gavehysteri </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_a35d3f5d-5d02-4b01-9d3f-5d5d026b0133</link>
+      <description>Jens og Isak mener «barflekktida» er årets høydepunkt og beste tida for telt. Gutta diskuterer feller, og hva man gir til en som har alt. </description>
+      <guid isPermaLink="false">l_a35d3f5d-5d02-4b01-9d3f-5d5d026b0133</guid>
+      <pubDate>Sun, 10 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/994e9d54-c226-4b91-89d1-bd61631b110a_0_ID192MP3.mp3" type="audio/mpeg" length="39345453"></enclosure>
+      <itunes:title>Vårtur, telttips og gavehysteri </itunes:title>
+      <itunes:summary>Jens og Isak mener «barflekktida» er årets høydepunkt og beste tida for telt. Gutta diskuterer feller, og hva man gir til en som har alt. </itunes:summary>
+      <itunes:duration>1639</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Båltips, jaktstart og hotellfrokost </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_b442d8fa-0536-4c9b-82d8-fa0536dc9b7e</link>
+      <description>Jens og Isak deler båltips, og historier om da det gikk galt. Jens hjelper en lytter som vil begynne med jakt, og Isak deler en vill drøm. </description>
+      <guid isPermaLink="false">l_b442d8fa-0536-4c9b-82d8-fa0536dc9b7e</guid>
+      <pubDate>Sun, 03 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/0141c8c2-6d6d-4e6d-91b3-c1ead5629212_0_ID192MP3.mp3" type="audio/mpeg" length="39106989"></enclosure>
+      <itunes:title>Båltips, jaktstart og hotellfrokost </itunes:title>
+      <itunes:summary>Jens og Isak deler båltips, og historier om da det gikk galt. Jens hjelper en lytter som vil begynne med jakt, og Isak deler en vill drøm. </itunes:summary>
+      <itunes:duration>1629</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Grønland, uvaner og dobbeldate</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_3a88b64a-8d11-4426-88b6-4a8d116426d9</link>
+      <description>Jens har endelig funnet en han vil dra på ekspedisjon med, men Isak er redd for hjemlengsel. Og valpen til Jens har fått en ny uvane.</description>
+      <guid isPermaLink="false">l_3a88b64a-8d11-4426-88b6-4a8d116426d9</guid>
+      <pubDate>Sun, 27 Mar 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/4c989cce-eb13-4910-a123-26ce9672f15e_0_ID192MP3.mp3" type="audio/mpeg" length="34986285"></enclosure>
+      <itunes:title>Grønland, uvaner og dobbeldate</itunes:title>
+      <itunes:summary>Jens har endelig funnet en han vil dra på ekspedisjon med, men Isak er redd for hjemlengsel. Og valpen til Jens har fått en ny uvane.</itunes:summary>
+      <itunes:duration>1457</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Strikking, bevervotter og flause </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_0e63a037-32bc-4b4b-a3a0-3732bcdb4b3c</link>
+      <description>Isak «Strikkeren» har med strikketøy på revejakt og Jens sydde bevervotter i Canada. Isak blir svett når han må dele sitt flaueste øyeblikk.</description>
+      <guid isPermaLink="false">l_0e63a037-32bc-4b4b-a3a0-3732bcdb4b3c</guid>
+      <pubDate>Sun, 20 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/e6077567-6674-4f47-9d65-382fe5131143_0_ID192MP3.mp3" type="audio/mpeg" length="37412397"></enclosure>
+      <itunes:title>Strikking, bevervotter og flause </itunes:title>
+      <itunes:summary>Isak «Strikkeren» har med strikketøy på revejakt og Jens sydde bevervotter i Canada. Isak blir svett når han må dele sitt flaueste øyeblikk.</itunes:summary>
+      <itunes:duration>1558</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kuldetips, panserpung og snus </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_7e870619-9cab-4de9-8706-199cab7de9f5</link>
+      <description>Jens er ferdig med å fryse, mens Isak nekter å bruke stillongs på tur. Gutta tar for seg tips mot dørstokkmila og hvordan lage snus på tur. </description>
+      <guid isPermaLink="false">l_7e870619-9cab-4de9-8706-199cab7de9f5</guid>
+      <pubDate>Sun, 13 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/3b66dadb-7685-400d-81a4-f46aaa9604a4_0_ID192MP3.mp3" type="audio/mpeg" length="33075117"></enclosure>
+      <itunes:title>Kuldetips, panserpung og snus </itunes:title>
+      <itunes:summary>Jens er ferdig med å fryse, mens Isak nekter å bruke stillongs på tur. Gutta tar for seg tips mot dørstokkmila og hvordan lage snus på tur. </itunes:summary>
+      <itunes:duration>1378</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Isfiske, glamping og gavetabbe </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_01e3d86d-d554-4731-a3d8-6dd554f73148</link>
+      <description>Jens og Isak deler sine beste isfisketips, og diskuterer fenomenet glamping. Begge hater å kjøre bil i Oslo, men har en genial løsning.  </description>
+      <guid isPermaLink="false">l_01e3d86d-d554-4731-a3d8-6dd554f73148</guid>
+      <pubDate>Sun, 06 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/21ded21e-5d2b-4035-8cd8-579a7200c5db_0_ID192MP3.mp3" type="audio/mpeg" length="32460525"></enclosure>
+      <itunes:title>Isfiske, glamping og gavetabbe </itunes:title>
+      <itunes:summary>Jens og Isak deler sine beste isfisketips, og diskuterer fenomenet glamping. Begge hater å kjøre bil i Oslo, men har en genial løsning.  </itunes:summary>
+      <itunes:duration>1352</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Penger, kjendis og skistaver </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_99a7ce71-632a-47dc-a7ce-71632ae7dcd2</link>
+      <description>Isak oppsummerer Farmen, og lærer Jens hva mining er. Gutta oppdager at de er uenig om lengde på staver, men helt enige om svart arbeid. </description>
+      <guid isPermaLink="false">l_99a7ce71-632a-47dc-a7ce-71632ae7dcd2</guid>
+      <pubDate>Sun, 27 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/9ce94b24-62e9-4dbe-b612-c592f2b9f193_0_ID192MP3.mp3" type="audio/mpeg" length="34933293"></enclosure>
+      <itunes:title>Penger, kjendis og skistaver </itunes:title>
+      <itunes:summary>Isak oppsummerer Farmen, og lærer Jens hva mining er. Gutta oppdager at de er uenig om lengde på staver, men helt enige om svart arbeid. </itunes:summary>
+      <itunes:duration>1455</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Farmen, vinterjakt og minneskap </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_0c450918-dea4-4bb7-8509-18dea4ebb7f1</link>
+      <description>Isak sammenligner &#34;Farmen kjendis&#34; med Ludo, og Jens overbeviser Isak om å ta med rifle på rypejakt og deler sin verste turopplevelse. </description>
+      <guid isPermaLink="false">l_0c450918-dea4-4bb7-8509-18dea4ebb7f1</guid>
+      <pubDate>Sun, 20 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/fe65771a-2949-4c1f-92e3-9d13b3f1432d_0_ID192MP3.mp3" type="audio/mpeg" length="33200685"></enclosure>
+      <itunes:title>Farmen, vinterjakt og minneskap </itunes:title>
+      <itunes:summary>Isak sammenligner &#34;Farmen kjendis&#34; med Ludo, og Jens overbeviser Isak om å ta med rifle på rypejakt og deler sin verste turopplevelse. </itunes:summary>
+      <itunes:duration>1383</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hårklipp, hundeløp og hockey</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_9b55e0bd-47f9-4927-95e0-bd47f9692778</link>
+      <description>Jens trenger en hårklipp og Isak drar fram kniven. Gutta forteller om Femundløpet og om den vakreste plassen å stå i hockey og tømme ryggen.</description>
+      <guid isPermaLink="false">l_9b55e0bd-47f9-4927-95e0-bd47f9692778</guid>
+      <pubDate>Fri, 11 Feb 2022 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/62b63169-f8b5-4d3b-a23a-52077049e90b_0_ID192MP3.mp3" type="audio/mpeg" length="29653101"></enclosure>
+      <itunes:title>Hårklipp, hundeløp og hockey</itunes:title>
+      <itunes:summary>Jens trenger en hårklipp og Isak drar fram kniven. Gutta forteller om Femundløpet og om den vakreste plassen å stå i hockey og tømme ryggen.</itunes:summary>
+      <itunes:duration>1235</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Revejakt, kallenavn og dritutfordring </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_ef8c9ea1-7fc4-4138-8c9e-a17fc4113838</link>
+      <description>Jens og Isak elsker revejakt, men ikke alle liker at de deler bilder fra jakta. Isak forteller drøy historie om en hund på biltur.</description>
+      <guid isPermaLink="false">l_ef8c9ea1-7fc4-4138-8c9e-a17fc4113838</guid>
+      <pubDate>Fri, 11 Feb 2022 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/d1cd107c-174b-4fd0-8ae7-caad3e7bcd26_0_ID192MP3.mp3" type="audio/mpeg" length="36002349"></enclosure>
+      <itunes:title>Revejakt, kallenavn og dritutfordring </itunes:title>
+      <itunes:summary>Jens og Isak elsker revejakt, men ikke alle liker at de deler bilder fra jakta. Isak forteller drøy historie om en hund på biltur.</itunes:summary>
+      <itunes:duration>1500</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hundeliv, interiørtips og drømmedame </title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_ed584e16-8d86-4f5c-984e-168d863f5c96</link>
+      <description>Jens har fått en ny valp, og forteller om da han ble anmeldt. Isak deler interiørtips, og svarer på hvilke egenskaper en kjæreste må ha. </description>
+      <guid isPermaLink="false">l_ed584e16-8d86-4f5c-984e-168d863f5c96</guid>
+      <pubDate>Fri, 11 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/c58d9cd4-63b7-409b-abd4-812ba295c17c_0_ID192MP3.mp3" type="audio/mpeg" length="36500013"></enclosure>
+      <itunes:title>Hundeliv, interiørtips og drømmedame </itunes:title>
+      <itunes:summary>Jens har fått en ny valp, og forteller om da han ble anmeldt. Isak deler interiørtips, og svarer på hvilke egenskaper en kjæreste må ha. </itunes:summary>
+      <itunes:duration>1520</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kommer 11. februar: Skitprat med Jens og Isak</title>
+      <link>https://radio.nrk.no/podkast/skitprat/l_452e0670-a456-4e75-ae06-70a4562e75fc</link>
+      <description>Hør en smakebit fra den kommende podkasten med Jens Kvernmo og Isak Dreyer.</description>
+      <guid isPermaLink="false">l_452e0670-a456-4e75-ae06-70a4562e75fc</guid>
+      <pubDate>Fri, 04 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skitprat/4b3462e6-03de-40ff-a8ae-23ff11703940_0_ID192MP3.mp3" type="audio/mpeg" length="2574189"></enclosure>
+      <itunes:title>Kommer 11. februar: Skitprat med Jens og Isak</itunes:title>
+      <itunes:summary>Hør en smakebit fra den kommende podkasten med Jens Kvernmo og Isak Dreyer.</itunes:summary>
+      <itunes:duration>107</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tore Sagens podkast</title>
+    <link>https://radio.nrk.no/podkast/tore_sagens_podkast</link>
+    <description>Tore snakker med folk som har noe interessant å fortelle, så slipper du å gjøre det.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Thu, 25 Mar 2021 04:55:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/tore_sagens_podkast.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Tore snakker med folk som har noe interessant å fortelle, så slipper du å gjøre det.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/qqEmemUxotZ-oX_hYAuigQD_gOQeg0i5Ej9mX6yr9R1w"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/qqEmemUxotZ-oX_hYAuigQD_gOQeg0i5Ej9mX6yr9R1w</url>
+      <title>Tore Sagens podkast</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast</link>
+    </image>
+    <item>
+      <title># 24 Fremtidsmennesket</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_9452472c-34cd-49e1-9247-2c34cd49e18f</link>
+      <description>I Hollywoodfilmen Junior fra 1994 bærer Arnold Scwarzenegger frem et barn etter å ha fått implantert et befruktet egg. Kunne det som var komedie da vært et sosialrealistisk drama i dag? Tore snakker med forfatter og molekylærbiolog Sigirid Bratlie om den bioteknologiske revolusjonen.</description>
+      <guid isPermaLink="false">l_9452472c-34cd-49e1-9247-2c34cd49e18f</guid>
+      <pubDate>Thu, 25 Mar 2021 05:55:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/18ea572b-c3fe-4a8f-85e6-cf917b4b29ba_0_ID192MP3.mp3" type="audio/mpeg" length="88071949"></enclosure>
+      <itunes:title># 24 Fremtidsmennesket</itunes:title>
+      <itunes:summary>I Hollywoodfilmen Junior fra 1994 bærer Arnold Scwarzenegger frem et barn etter å ha fått implantert et befruktet egg. Kunne det som var komedie da vært et sosialrealistisk drama i dag? Tore snakker med forfatter og molekylærbiolog Sigirid Bratlie om den bioteknologiske revolusjonen.</itunes:summary>
+      <itunes:duration>3669</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UnuxHkY_KMi5p0SC5Wt0DA7JcZHK7ZjkI8pNmFVY4RSA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>#23 Hvor bør vi få energien fra?</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_d3d4424e-e692-4ab8-9442-4ee6929ab82a</link>
+      <description>Avtroppende leder i Naturvernforbundet Silje Ask Lundberg evaluerer de forskjellige variantene av fornybar energi og reflekterer over farbare miljøvennlige veier videre.&#xA;</description>
+      <guid isPermaLink="false">l_d3d4424e-e692-4ab8-9442-4ee6929ab82a</guid>
+      <pubDate>Thu, 18 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/eb79b075-13df-4723-9b10-a43423492cd0_0_ID192MP3.mp3" type="audio/mpeg" length="80787280"></enclosure>
+      <itunes:title>#23 Hvor bør vi få energien fra?</itunes:title>
+      <itunes:summary>Avtroppende leder i Naturvernforbundet Silje Ask Lundberg evaluerer de forskjellige variantene av fornybar energi og reflekterer over farbare miljøvennlige veier videre.&#xA;</itunes:summary>
+      <itunes:duration>3366</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UnuxHkY_KMi5p0SC5Wt0DA7JcZHK7ZjkI8pNmFVY4RSA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title># 22 Er rusavhengighet et valg?</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_771ff2c8-0be0-43d7-9ff2-c80be083d747</link>
+      <description>Hva fører til rusavhengighet? Er det et valg eller er man dømt? Hva har avkriminalisering å si og vet ikke heroinister selv at de har knirkete narkisstemme? Tidligere rusmisbruker, samfunnsdebattant og eks-NRK-ansatt Sturla Haugsgjerd er på besøk og snakker om den mye omtalte rusreformen. </description>
+      <guid isPermaLink="false">l_771ff2c8-0be0-43d7-9ff2-c80be083d747</guid>
+      <pubDate>Thu, 11 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/bfce7a1d-1953-4f59-8bc2-851a323a02b8_0_ID192MP3.mp3" type="audio/mpeg" length="130052570"></enclosure>
+      <itunes:title># 22 Er rusavhengighet et valg?</itunes:title>
+      <itunes:summary>Hva fører til rusavhengighet? Er det et valg eller er man dømt? Hva har avkriminalisering å si og vet ikke heroinister selv at de har knirkete narkisstemme? Tidligere rusmisbruker, samfunnsdebattant og eks-NRK-ansatt Sturla Haugsgjerd er på besøk og snakker om den mye omtalte rusreformen. </itunes:summary>
+      <itunes:duration>5418</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UnuxHkY_KMi5p0SC5Wt0DA7JcZHK7ZjkI8pNmFVY4RSA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title># 21 Er høyreekstremismen i vekst?</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_6ac6fded-8534-402f-86fd-ed8534902fcd</link>
+      <description>Terrorforsker Jacob Aasland Ravndal gir en klar definisjon av hva høyreekstremisme er, om det blir mer eller mindre av den og om det faktisk er mest islamistisk eller høyreekstrem terror i Europa.</description>
+      <guid isPermaLink="false">l_6ac6fded-8534-402f-86fd-ed8534902fcd</guid>
+      <pubDate>Thu, 04 Mar 2021 05:55:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/f67f765d-1fb8-4c86-b1e7-f12d6edc086e_0_ID192MP3.mp3" type="audio/mpeg" length="111802585"></enclosure>
+      <itunes:title># 21 Er høyreekstremismen i vekst?</itunes:title>
+      <itunes:summary>Terrorforsker Jacob Aasland Ravndal gir en klar definisjon av hva høyreekstremisme er, om det blir mer eller mindre av den og om det faktisk er mest islamistisk eller høyreekstrem terror i Europa.</itunes:summary>
+      <itunes:duration>4658</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UnuxHkY_KMi5p0SC5Wt0DA7JcZHK7ZjkI8pNmFVY4RSA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title># 20 Hva er egentlig long covid?</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_4ab71810-4476-4dc0-b718-1044765dc0fe</link>
+      <description>I følge lege og forsker Henrik Vogt, vil såkalt long covid være den største medisinske utfordringen i kjølvannet av koronapandemien. Hva er det, hvem får det og hvordan blir man frisk? Dette og mer, blant annet hvor gammel man kan være og fortsatt være medlem i «Yngre legers forening» er tema i denne episoden.</description>
+      <guid isPermaLink="false">l_4ab71810-4476-4dc0-b718-1044765dc0fe</guid>
+      <pubDate>Thu, 25 Feb 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/01298999-17cf-443d-86ec-ef5829e7de22_0_ID192MP3.mp3" type="audio/mpeg" length="89497546"></enclosure>
+      <itunes:title># 20 Hva er egentlig long covid?</itunes:title>
+      <itunes:summary>I følge lege og forsker Henrik Vogt, vil såkalt long covid være den største medisinske utfordringen i kjølvannet av koronapandemien. Hva er det, hvem får det og hvordan blir man frisk? Dette og mer, blant annet hvor gammel man kan være og fortsatt være medlem i «Yngre legers forening» er tema i denne episoden.</itunes:summary>
+      <itunes:duration>3728</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UnuxHkY_KMi5p0SC5Wt0DA7JcZHK7ZjkI8pNmFVY4RSA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title># 19 Hva er New Public Management?</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_13d5bd4b-7c42-4322-95bd-4b7c42e32296</link>
+      <description>Hvordan skal vi organisere offentlig sektor slik at publikum får et best mulig tilbud samtidig som vi bruker minst mulig skattepenger? Politikerne er uenige. Linn Herning redegjør for fakta og for hva hun tror er den beste løsningen.</description>
+      <guid isPermaLink="false">l_13d5bd4b-7c42-4322-95bd-4b7c42e32296</guid>
+      <pubDate>Thu, 18 Feb 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/c7485f12-2ad3-44f0-8624-6ff73a247e36_0_ID192MP3.mp3" type="audio/mpeg" length="86365851"></enclosure>
+      <itunes:title># 19 Hva er New Public Management?</itunes:title>
+      <itunes:summary>Hvordan skal vi organisere offentlig sektor slik at publikum får et best mulig tilbud samtidig som vi bruker minst mulig skattepenger? Politikerne er uenige. Linn Herning redegjør for fakta og for hva hun tror er den beste løsningen.</itunes:summary>
+      <itunes:duration>3598</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UnuxHkY_KMi5p0SC5Wt0DA7JcZHK7ZjkI8pNmFVY4RSA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title># 18 «Er jeg rasist?»</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_c79e5c3e-adbe-4868-9e5c-3eadbef86895</link>
+      <description>Tore får besøk av lærer, spaltist og kulturkriger Mohamed Abdi fra den antirasistiske venstresiden. Av noen kalt woke. De snakker om rasisme, identitetspolitikk, ytringsfrihet, trykkokerteori, avkolonisering, blackface(som ikke må forveksles med brownface!), cancel culture, scenenekt og flere andre trendy temaer. </description>
+      <guid isPermaLink="false">l_c79e5c3e-adbe-4868-9e5c-3eadbef86895</guid>
+      <pubDate>Thu, 11 Feb 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/6f8a72c2-86b8-4145-9c3c-81a34f84b404_0_ID192MP3.mp3" type="audio/mpeg" length="133321936"></enclosure>
+      <itunes:title># 18 «Er jeg rasist?»</itunes:title>
+      <itunes:summary>Tore får besøk av lærer, spaltist og kulturkriger Mohamed Abdi fra den antirasistiske venstresiden. Av noen kalt woke. De snakker om rasisme, identitetspolitikk, ytringsfrihet, trykkokerteori, avkolonisering, blackface(som ikke må forveksles med brownface!), cancel culture, scenenekt og flere andre trendy temaer. </itunes:summary>
+      <itunes:duration>5555</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UnuxHkY_KMi5p0SC5Wt0DA7JcZHK7ZjkI8pNmFVY4RSA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title># 17 Antibiotikaresistens og krigen mot bakteriene.</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_0f0e8fdf-d8ac-487b-8e8f-dfd8ace87bcf</link>
+      <description>Antibiotikaresistens truer med å ødelegge det globale helsevesenet innenfra. Forfatter og journalist Erik Martiniussen har skrevet bok om en av vår tids største helseutfordringer.&#xA;</description>
+      <guid isPermaLink="false">l_0f0e8fdf-d8ac-487b-8e8f-dfd8ace87bcf</guid>
+      <pubDate>Thu, 04 Feb 2021 05:55:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/a7649588-58bd-451b-8d9e-239b45166d94_0_ID192MP3.mp3" type="audio/mpeg" length="77922246"></enclosure>
+      <itunes:title># 17 Antibiotikaresistens og krigen mot bakteriene.</itunes:title>
+      <itunes:summary>Antibiotikaresistens truer med å ødelegge det globale helsevesenet innenfra. Forfatter og journalist Erik Martiniussen har skrevet bok om en av vår tids største helseutfordringer.&#xA;</itunes:summary>
+      <itunes:duration>3246</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BcqCBExbKXzQf0T-RklTOAvCdwPDargMaZHvbafq_33A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Kommer 4. februar: Tore Sagens podkast er tilbake! </title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_9f6fa199-a657-4002-afa1-99a6573002bd</link>
+      <description>Hvis du har savnet den seriøse Tore. Den uten klovnenese. </description>
+      <guid isPermaLink="false">l_9f6fa199-a657-4002-afa1-99a6573002bd</guid>
+      <pubDate>Wed, 03 Feb 2021 15:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/60dda6d2-4f52-4ffc-b515-d24ef548d101_0_ID192MP3.mp3" type="audio/mpeg" length="843654"></enclosure>
+      <itunes:title>Kommer 4. februar: Tore Sagens podkast er tilbake! </itunes:title>
+      <itunes:summary>Hvis du har savnet den seriøse Tore. Den uten klovnenese. </itunes:summary>
+      <itunes:duration>35</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qqEmemUxotZ-oX_hYAuigQD_gOQeg0i5Ej9mX6yr9R1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title># 16 Veien til global jihad</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_579c05e8-05ee-476c-9c05-e805eed76c24</link>
+      <description>Abdallah Azzam regnes som den globale jihads ideologiske far. Hvem var han og hva har han betydd for al-Qaida. Osama bin Laden og IS? Azzam-biograf og Europas kanskje fremste forsker på jihadistisk terror, Thomas Hegghammer fra Forsvarets forskningsinstitutt, er på besøk.</description>
+      <guid isPermaLink="false">l_579c05e8-05ee-476c-9c05-e805eed76c24</guid>
+      <pubDate>Thu, 26 Mar 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/bb7321aa-7c30-454e-b22f-76a49e652d60_0_ID192MP3.mp3" type="audio/mpeg" length="145880472"></enclosure>
+      <itunes:title># 16 Veien til global jihad</itunes:title>
+      <itunes:summary>Abdallah Azzam regnes som den globale jihads ideologiske far. Hvem var han og hva har han betydd for al-Qaida. Osama bin Laden og IS? Azzam-biograf og Europas kanskje fremste forsker på jihadistisk terror, Thomas Hegghammer fra Forsvarets forskningsinstitutt, er på besøk.</itunes:summary>
+      <itunes:duration>6078</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BX-IGgXLZLT-SV_NBokQhQgbGcFhs4aVv7Vxz2gPrgvA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title># 15 Europa for dummies</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_e4a7def0-45e6-477b-a7de-f045e6377b5e</link>
+      <description>EU knaker i sammenføyningene. Hva er det egentlig som skjer nede i Europa? Hvem er Matteo Salvini, Beppe Grillo, Marine Le Pen og Victor Orbán? Og hva er det de vil? Forfatter og journalist Simen Ekern rydder opp. (Opptak gjort 11.februar.)</description>
+      <guid isPermaLink="false">l_e4a7def0-45e6-477b-a7de-f045e6377b5e</guid>
+      <pubDate>Thu, 19 Mar 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/7bebb14c-42cd-46ab-9112-5c2fa2071701_0_ID192MP3.mp3" type="audio/mpeg" length="138845178"></enclosure>
+      <itunes:title># 15 Europa for dummies</itunes:title>
+      <itunes:summary>EU knaker i sammenføyningene. Hva er det egentlig som skjer nede i Europa? Hvem er Matteo Salvini, Beppe Grillo, Marine Le Pen og Victor Orbán? Og hva er det de vil? Forfatter og journalist Simen Ekern rydder opp. (Opptak gjort 11.februar.)</itunes:summary>
+      <itunes:duration>5785</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eJTupiQTIvVOXBnUJhCJgQouvr-WYpUdFZQkpFp4JQxw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title># 14 Metoo oppsummert</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_c7bcfccd-ec10-404a-bcfc-cdec10504aee</link>
+      <description>Gikk metoo på presseetikken og rettssikkerheten løs? Er Norge et patriarkat? Og hvorfor heter det egentlig feminisme hvis likestilling er målet? Forsker og sosiolog Hannah Helseth kommer på besøk for å tegne og forklare.</description>
+      <guid isPermaLink="false">l_c7bcfccd-ec10-404a-bcfc-cdec10504aee</guid>
+      <pubDate>Thu, 12 Mar 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/f99e42e3-e8b9-4aa4-ba56-a04855473146_0_ID192MP3.mp3" type="audio/mpeg" length="141607105"></enclosure>
+      <itunes:title># 14 Metoo oppsummert</itunes:title>
+      <itunes:summary>Gikk metoo på presseetikken og rettssikkerheten løs? Er Norge et patriarkat? Og hvorfor heter det egentlig feminisme hvis likestilling er målet? Forsker og sosiolog Hannah Helseth kommer på besøk for å tegne og forklare.</itunes:summary>
+      <itunes:duration>5900</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/IBm3He4QNPqtEk-w-0UhZQwkGY9yGDn6BaYpjrgz1w0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title># 13 Venstresiden svikter seg selv</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_59acf8b0-8be7-411d-acf8-b08be7811d92</link>
+      <description>I saker om ytringsfrihet, kvinnesak og religion stikker venstresiden hodet i sanden. Kan det ha bidratt til høyredreiningen vi har sett i vesten de siste årene? Universitetslektor, vekter, forfatter og samfunnsdebattant Espen Goffeng har skrevet bok om temaet og kommer for å snakke om dette og om motebegrepet identitetspolitikk.</description>
+      <guid isPermaLink="false">l_59acf8b0-8be7-411d-acf8-b08be7811d92</guid>
+      <pubDate>Thu, 05 Mar 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/05a19293-64c6-40e3-bf26-37df81e49c35_0_ID192MP3.mp3" type="audio/mpeg" length="143010240"></enclosure>
+      <itunes:title># 13 Venstresiden svikter seg selv</itunes:title>
+      <itunes:summary>I saker om ytringsfrihet, kvinnesak og religion stikker venstresiden hodet i sanden. Kan det ha bidratt til høyredreiningen vi har sett i vesten de siste årene? Universitetslektor, vekter, forfatter og samfunnsdebattant Espen Goffeng har skrevet bok om temaet og kommer for å snakke om dette og om motebegrepet identitetspolitikk.</itunes:summary>
+      <itunes:duration>5958</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/345GyYqdWU29LOuRWvzF8AYISppMszhHkINXQFdYxXTA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title># 12 Kan Norge fungere uten olje?</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_c4f6dab0-76b7-4d5a-b6da-b076b79d5a5f</link>
+      <description>Kan fornybar energi og oljefondet sikre velferden? Hvor fort er det egentlig forsvarlig å kutte oljeproduksjonen? Sjefanalytiker Thina Saltvedt i Nordea svarer på om Norge står i fare for å bli det nye Litauen.&#xA;</description>
+      <guid isPermaLink="false">l_c4f6dab0-76b7-4d5a-b6da-b076b79d5a5f</guid>
+      <pubDate>Thu, 27 Feb 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/b6c3138e-5dc5-4f7a-86a2-63c9454c5d88_0_ID192MP3.mp3" type="audio/mpeg" length="85660225"></enclosure>
+      <itunes:title># 12 Kan Norge fungere uten olje?</itunes:title>
+      <itunes:summary>Kan fornybar energi og oljefondet sikre velferden? Hvor fort er det egentlig forsvarlig å kutte oljeproduksjonen? Sjefanalytiker Thina Saltvedt i Nordea svarer på om Norge står i fare for å bli det nye Litauen.&#xA;</itunes:summary>
+      <itunes:duration>3569</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/H_qDgE1CS5iUdcdLT9NKfwMoe6DxNGXyn8nyDHa4Q4xw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title># 11 Karbon - fra stjernestøv til menneskehetens undergang?</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_07caecee-8f23-4ec0-8aec-ee8f239ec0e7</link>
+      <description>Biologiprofessor Dag O. Hessen forteller oss hele historien om dette livets sentrale element og samtidig menneskehetens aller største trussel.</description>
+      <guid isPermaLink="false">l_07caecee-8f23-4ec0-8aec-ee8f239ec0e7</guid>
+      <pubDate>Thu, 20 Feb 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/b2af0b9e-89ef-40ce-bd6a-63beb6fb0820_0_ID192MP3.mp3" type="audio/mpeg" length="103727029"></enclosure>
+      <itunes:title># 11 Karbon - fra stjernestøv til menneskehetens undergang?</itunes:title>
+      <itunes:summary>Biologiprofessor Dag O. Hessen forteller oss hele historien om dette livets sentrale element og samtidig menneskehetens aller største trussel.</itunes:summary>
+      <itunes:duration>4321</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_chBlmKyMz_IhWIN5a17aQZAZ3VO5zHaIUj9i2c3CALQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>#10 Hva bør vi spise? Når bør vi spise?</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_81a66a37-853f-48c1-a66a-37853fa8c104</link>
+      <description>&#34;Den tradisjonelle ernæringsvitenskapen har gitt oss kunnskap som er tuftet på et feilaktig grunnlag&#34;. Hør hva ernæringsbiolog og høyskolelektor ved Bjørknes Høyskole, Marit Kolby Zinöcker mener med dette.</description>
+      <guid isPermaLink="false">l_81a66a37-853f-48c1-a66a-37853fa8c104</guid>
+      <pubDate>Thu, 13 Feb 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/a0febfd9-091b-4a75-86ac-ec5b89f69671_0_ID192MP3.mp3" type="audio/mpeg" length="146583745"></enclosure>
+      <itunes:title>#10 Hva bør vi spise? Når bør vi spise?</itunes:title>
+      <itunes:summary>&#34;Den tradisjonelle ernæringsvitenskapen har gitt oss kunnskap som er tuftet på et feilaktig grunnlag&#34;. Hør hva ernæringsbiolog og høyskolelektor ved Bjørknes Høyskole, Marit Kolby Zinöcker mener med dette.</itunes:summary>
+      <itunes:duration>6107</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YgLFYnfUL3V-Y4CITGOJAALpZinew2ipv23QrUU92wzQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>#9 Hvor farlig er kunstig intelligens?</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_b880d2c2-3e22-4fe7-80d2-c23e222fe7a7</link>
+      <description>Tar robotene over? Vil vi alle miste jobben? Vil vi alle miste livet? Hva er kunstig intelligens, hvordan fungerer det og hvilke konsekvenser kan det få? Dr. Morten Goodwin, førsteamanuensis ved universitetet i Agder og nestleder for Center for Artificial Research, svarer på alt jeg lurer på om kunstig intelligens.</description>
+      <guid isPermaLink="false">l_b880d2c2-3e22-4fe7-80d2-c23e222fe7a7</guid>
+      <pubDate>Thu, 06 Feb 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/9bf17ff9-aaee-4566-96b7-41602fb0500e_0_ID192MP3.mp3" type="audio/mpeg" length="107587411"></enclosure>
+      <itunes:title>#9 Hvor farlig er kunstig intelligens?</itunes:title>
+      <itunes:summary>Tar robotene over? Vil vi alle miste jobben? Vil vi alle miste livet? Hva er kunstig intelligens, hvordan fungerer det og hvilke konsekvenser kan det få? Dr. Morten Goodwin, førsteamanuensis ved universitetet i Agder og nestleder for Center for Artificial Research, svarer på alt jeg lurer på om kunstig intelligens.</itunes:summary>
+      <itunes:duration>4482</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fu7x6JSyTU8folMdZtfmngw-dyKBpHnsJklaOkUbduVw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>#8 Hvorfor ytre høyre vinner debatten</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_a753e96a-e94e-4c6e-93e9-6ae94e8c6e42</link>
+      <description>Eivind Trædal er og gjør mye. Han er bystyrerepresentant i Oslo for MDG. Han er samfunnsdebattant og en iherdig kranglefant på Twitter og Facebook. At han i tillegg har tid til å skrive bøker må man bare bli imponert av uavhengig av politisk ståsted. Nylig skrev han boken Hvorfor ytre høyre vinner debatten -og hvordan vi kan stoppe dem. Den snakkesalige Eivind er gjest denne uken og kommer for å svare på hvem ytre høyre er, om og hvorfor de vinner debatten. Hvorfor og hvordan &#34;vi&#34; skal stoppe dem og ikke minst hvor moraliserende han anser seg selv på en skal fra én til ti.</description>
+      <guid isPermaLink="false">l_a753e96a-e94e-4c6e-93e9-6ae94e8c6e42</guid>
+      <pubDate>Wed, 27 Feb 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/tore_sagens_podkast_2019-02-27_0500_3559.MP3" type="audio/mpeg" length="122084414"></enclosure>
+      <itunes:title>#8 Hvorfor ytre høyre vinner debatten</itunes:title>
+      <itunes:summary>Eivind Trædal er og gjør mye. Han er bystyrerepresentant i Oslo for MDG. Han er samfunnsdebattant og en iherdig kranglefant på Twitter og Facebook. At han i tillegg har tid til å skrive bøker må man bare bli imponert av uavhengig av politisk ståsted. Nylig skrev han boken Hvorfor ytre høyre vinner debatten -og hvordan vi kan stoppe dem. Den snakkesalige Eivind er gjest denne uken og kommer for å svare på hvem ytre høyre er, om og hvorfor de vinner debatten. Hvorfor og hvordan &#34;vi&#34; skal stoppe dem og ikke minst hvor moraliserende han anser seg selv på en skal fra én til ti.</itunes:summary>
+      <itunes:duration>5086</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qqEmemUxotZ-oX_hYAuigQD_gOQeg0i5Ej9mX6yr9R1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title># 7 Klima</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_98b032df-b444-40f4-b032-dfb44400f481</link>
+      <description>Klimanestor Bjørn Samset fra Cicero - Senter for klimaforskning kommer for å svare på det alle egentlig lurer på om de menneskeskapte klimaendringene: Hvordan kan man være så sikker på hva følgene av klimaendringene faktisk vil bli? Vil det bli en faktisk katastrofe? Hvor overrasket blir Bjørn hvis grafen over gjennomsnittstemperaturen på jorda plutselig flater ut? Hva skjer hvis vi gir fullstendig beng? Kan teknologien redde oss? Hvorfor er det så vanskelig å ta klimaendringene innover seg? Og hvorfor i alle dager lager man ikke CO2 piper ut i verdensrommet?</description>
+      <guid isPermaLink="false">l_98b032df-b444-40f4-b032-dfb44400f481</guid>
+      <pubDate>Wed, 20 Feb 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/tore_sagens_podkast_2019-02-20_0500_1100.MP3" type="audio/mpeg" length="128131720"></enclosure>
+      <itunes:title># 7 Klima</itunes:title>
+      <itunes:summary>Klimanestor Bjørn Samset fra Cicero - Senter for klimaforskning kommer for å svare på det alle egentlig lurer på om de menneskeskapte klimaendringene: Hvordan kan man være så sikker på hva følgene av klimaendringene faktisk vil bli? Vil det bli en faktisk katastrofe? Hvor overrasket blir Bjørn hvis grafen over gjennomsnittstemperaturen på jorda plutselig flater ut? Hva skjer hvis vi gir fullstendig beng? Kan teknologien redde oss? Hvorfor er det så vanskelig å ta klimaendringene innover seg? Og hvorfor i alle dager lager man ikke CO2 piper ut i verdensrommet?</itunes:summary>
+      <itunes:duration>5335</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qqEmemUxotZ-oX_hYAuigQD_gOQeg0i5Ej9mX6yr9R1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title># 6 Alt om 80-tallet</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_d863f666-4c54-4981-a3f6-664c54398118</link>
+      <description>Profesjonell åttitallsnostalgiker Ole-Martin Ihle er gjest denne uken. Han har skrevet boken Da He-Man kom til Norge - En fortelling om det å vokse opp på åttitallet. Amerikanisering, deregulering, Commodere 64, Van Halen, Gro, Kåre, Fun Factory, hvordan Reagan ble til Trump, jappetid og verdens raskeste gitarist. Det meste blir dekket når en mann ikke fremmed for grundig research besøker Tore i denne ukens avsnitt av Tore Sagens podkast. Ihle er også kjent for at han sammen med Harald Eia laget TV-programmet Hjernevask og skrev boken Født sånn eller blitt sånn.&#xA;</description>
+      <guid isPermaLink="false">l_d863f666-4c54-4981-a3f6-664c54398118</guid>
+      <pubDate>Wed, 13 Feb 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/tore_sagens_podkast_2019-02-20_0500_3818.MP3" type="audio/mpeg" length="108235814"></enclosure>
+      <itunes:title># 6 Alt om 80-tallet</itunes:title>
+      <itunes:summary>Profesjonell åttitallsnostalgiker Ole-Martin Ihle er gjest denne uken. Han har skrevet boken Da He-Man kom til Norge - En fortelling om det å vokse opp på åttitallet. Amerikanisering, deregulering, Commodere 64, Van Halen, Gro, Kåre, Fun Factory, hvordan Reagan ble til Trump, jappetid og verdens raskeste gitarist. Det meste blir dekket når en mann ikke fremmed for grundig research besøker Tore i denne ukens avsnitt av Tore Sagens podkast. Ihle er også kjent for at han sammen med Harald Eia laget TV-programmet Hjernevask og skrev boken Født sånn eller blitt sånn.&#xA;</itunes:summary>
+      <itunes:duration>4506</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qqEmemUxotZ-oX_hYAuigQD_gOQeg0i5Ej9mX6yr9R1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title># 5 SKAM - hvordan var det mulig?</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_5662d041-36d3-4d88-a2d0-4136d30d8836</link>
+      <description>Julie Andem, kvinnen bak SKAM, forteller hele historien. Hvordan klarte hun å lage et så til de grader vellykket TV drama når så mange feiler. Og hvorfor var det akkurat hun som klarte det?</description>
+      <guid isPermaLink="false">l_5662d041-36d3-4d88-a2d0-4136d30d8836</guid>
+      <pubDate>Wed, 06 Feb 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/tore_sagens_podkast_2019-02-06_0500_3457.MP3" type="audio/mpeg" length="92023189"></enclosure>
+      <itunes:title># 5 SKAM - hvordan var det mulig?</itunes:title>
+      <itunes:summary>Julie Andem, kvinnen bak SKAM, forteller hele historien. Hvordan klarte hun å lage et så til de grader vellykket TV drama når så mange feiler. Og hvorfor var det akkurat hun som klarte det?</itunes:summary>
+      <itunes:duration>3830</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qqEmemUxotZ-oX_hYAuigQD_gOQeg0i5Ej9mX6yr9R1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>#4 Norge - en multikulturalistisk og humanitærpolitisk stormakt?</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_7f604a1e-f58f-4195-a04a-1ef58fc195a7</link>
+      <description>Professor Terje Tvedt har skrevet boken Det internasjonale gjennombruddet. Med utgangspunkt i denne forklarer han hvordan Norge fra sekstitallet og frem til i dag har blitt en humanitærpolitisk stormakt. Han forteller også hvordan han mener det er en humanitærpolitisk elite som står bak dette og hvordan Norge har endret sitt ideal om å være en nasjonalstat til å bli multikulturalistisk.</description>
+      <guid isPermaLink="false">l_7f604a1e-f58f-4195-a04a-1ef58fc195a7</guid>
+      <pubDate>Wed, 30 Jan 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/tore_sagens_podkast_2019-01-30_0500_1193.MP3" type="audio/mpeg" length="134336574"></enclosure>
+      <itunes:title>#4 Norge - en multikulturalistisk og humanitærpolitisk stormakt?</itunes:title>
+      <itunes:summary>Professor Terje Tvedt har skrevet boken Det internasjonale gjennombruddet. Med utgangspunkt i denne forklarer han hvordan Norge fra sekstitallet og frem til i dag har blitt en humanitærpolitisk stormakt. Han forteller også hvordan han mener det er en humanitærpolitisk elite som står bak dette og hvordan Norge har endret sitt ideal om å være en nasjonalstat til å bli multikulturalistisk.</itunes:summary>
+      <itunes:duration>5593</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qqEmemUxotZ-oX_hYAuigQD_gOQeg0i5Ej9mX6yr9R1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>#3 Hjertespesial med Dr. Wasim Zahid</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_8dd7c9da-a1fc-4856-97c9-daa1fcc85614</link>
+      <description>Hvorfor er det egentlig dårlig for hjertet å røyke? Hvilket nivå må man opp på for at det skal bli farlig å trene? Kan man våkne til liv igjen som følge av hjerte-lunge-redning (sånn som i Baywatch?) og er kolesterol farlig eller hva?! Kjendiskardiologen Wasim Zahid svarer på alt Tore lurer på om kroppens iherdige motor: Hjertet.</description>
+      <guid isPermaLink="false">l_8dd7c9da-a1fc-4856-97c9-daa1fcc85614</guid>
+      <pubDate>Wed, 23 Jan 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/tore_sagens_podkast_2019-01-24_0945_2633.MP3" type="audio/mpeg" length="119117600"></enclosure>
+      <itunes:title>#3 Hjertespesial med Dr. Wasim Zahid</itunes:title>
+      <itunes:summary>Hvorfor er det egentlig dårlig for hjertet å røyke? Hvilket nivå må man opp på for at det skal bli farlig å trene? Kan man våkne til liv igjen som følge av hjerte-lunge-redning (sånn som i Baywatch?) og er kolesterol farlig eller hva?! Kjendiskardiologen Wasim Zahid svarer på alt Tore lurer på om kroppens iherdige motor: Hjertet.</itunes:summary>
+      <itunes:duration>4959</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qqEmemUxotZ-oX_hYAuigQD_gOQeg0i5Ej9mX6yr9R1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>#2 Gutter gjør det dårligere på skolen enn jenter. Camilla Stoltenberg er på saken</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_9a7d4291-38e9-405f-bd42-9138e9905f05</link>
+      <description> I den norske skolen er det store kjønnsforskjeller i jenters favør. Hvorfor er det sånn og hva farken skal vi gjøre med det? Camilla Stoltenberg - leder for Folkehelseinstituttet - har fått jobben med å lede et utvalg som skal prøve å finne svaret. I begynnelsen av februar skal hun legge frem resultatet av utvalgets arbeid i form av en såkalt NOU, Norges offentlige utredninger. Generalprøven tar hun i Tore Sagens podkast.</description>
+      <guid isPermaLink="false">l_9a7d4291-38e9-405f-bd42-9138e9905f05</guid>
+      <pubDate>Wed, 16 Jan 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/tore_sagens_podkast_2019-01-17_0500_1485.MP3" type="audio/mpeg" length="94020615"></enclosure>
+      <itunes:title>#2 Gutter gjør det dårligere på skolen enn jenter. Camilla Stoltenberg er på saken</itunes:title>
+      <itunes:summary> I den norske skolen er det store kjønnsforskjeller i jenters favør. Hvorfor er det sånn og hva farken skal vi gjøre med det? Camilla Stoltenberg - leder for Folkehelseinstituttet - har fått jobben med å lede et utvalg som skal prøve å finne svaret. I begynnelsen av februar skal hun legge frem resultatet av utvalgets arbeid i form av en såkalt NOU, Norges offentlige utredninger. Generalprøven tar hun i Tore Sagens podkast.</itunes:summary>
+      <itunes:duration>3913</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qqEmemUxotZ-oX_hYAuigQD_gOQeg0i5Ej9mX6yr9R1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>#1 Peshmergakrigeren og instagramkjendisen Mike</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_f41ebf08-78fd-4ec8-9ebf-0878fdbec80a</link>
+      <description>I boken sin &#34;Min krig mot kalifatet&#34; forteller &#34;Mike Peshmerganor&#34; om sine opplevelser som soldat i kampen mot IS i Nord-Irak. I samtale med Tore forteller Mike om oppveksten utenfor Hamar, forholdet til Telemark bataljon og hvordan han ble instagramkjendis under offensiven mot IS. Og at PST ikke er hans største fans</description>
+      <guid isPermaLink="false">l_f41ebf08-78fd-4ec8-9ebf-0878fdbec80a</guid>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/tore_sagens_podkast_2019-01-09_0500_3191.MP3" type="audio/mpeg" length="139336980"></enclosure>
+      <itunes:title>#1 Peshmergakrigeren og instagramkjendisen Mike</itunes:title>
+      <itunes:summary>I boken sin &#34;Min krig mot kalifatet&#34; forteller &#34;Mike Peshmerganor&#34; om sine opplevelser som soldat i kampen mot IS i Nord-Irak. I samtale med Tore forteller Mike om oppveksten utenfor Hamar, forholdet til Telemark bataljon og hvordan han ble instagramkjendis under offensiven mot IS. Og at PST ikke er hans største fans</itunes:summary>
+      <itunes:duration>5801</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qqEmemUxotZ-oX_hYAuigQD_gOQeg0i5Ej9mX6yr9R1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>&#34;Tore Sagens podkast&#34; kommer 10. januar</title>
+      <link>https://radio.nrk.no/podkast/tore_sagens_podkast/l_aa078c15-cebe-4511-878c-15cebee51199</link>
+      <description>Tore Sagen, kjent fra Radioresepsjonen og Side om Side, har nå fått sin egen podkast.&#xA;Podkasten har premiere 10. januar, og første sesong er på 8 episoder. En ny episode hver onsdag i 8 uker.&#xA;&#xA;I podkasten snakker Tore med folk han har lyst til å snakke med - så lenge han har lyst.&#xA;&#xA;- Jeg er en nysgjerrig fyr og det er mange jeg vil prate med. I stedet for å ringe dem eller snakke med dem på Lorry så tenkte jeg like greit at jeg kan invitere dem i podkaststudio. Kanskje noen andre kan få glede av praten også, sier Tore Sagen om bakgrunnen for sin podkast.&#xA;&#xA;- Det finnes et utall pratepodkaster der ute, men dette er den første med god lyd, sider en ydmyk Sagen.&#xA;</description>
+      <guid isPermaLink="false">l_aa078c15-cebe-4511-878c-15cebee51199</guid>
+      <pubDate>Thu, 03 Jan 2019 09:19:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tore_sagens_podkast/tore_sagens_podkast_2019-01-03_0819_1619.MP3" type="audio/mpeg" length="1065647"></enclosure>
+      <itunes:title>&#34;Tore Sagens podkast&#34; kommer 10. januar</itunes:title>
+      <itunes:summary>Tore Sagen, kjent fra Radioresepsjonen og Side om Side, har nå fått sin egen podkast.&#xA;Podkasten har premiere 10. januar, og første sesong er på 8 episoder. En ny episode hver onsdag i 8 uker.&#xA;&#xA;I podkasten snakker Tore med folk han har lyst til å snakke med - så lenge han har lyst.&#xA;&#xA;- Jeg er en nysgjerrig fyr og det er mange jeg vil prate med. I stedet for å ringe dem eller snakke med dem på Lorry så tenkte jeg like greit at jeg kan invitere dem i podkaststudio. Kanskje noen andre kan få glede av praten også, sier Tore Sagen om bakgrunnen for sin podkast.&#xA;&#xA;- Det finnes et utall pratepodkaster der ute, men dette er den første med god lyd, sider en ydmyk Sagen.&#xA;</itunes:summary>
+      <itunes:duration>40</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qqEmemUxotZ-oX_hYAuigQD_gOQeg0i5Ej9mX6yr9R1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+  </channel>
+</rss>

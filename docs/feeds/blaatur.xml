@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blåtur</title>
+    <link>https://radio.nrk.no/podkast/blaatur</link>
+    <description>En ukentlig flukt fra hverdagen! Sketsjer, hyss og spik med Christian Mikkelsen, Olav Svarstad Haugland og Emil Berntsen.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Tue, 25 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/blaatur.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>En ukentlig flukt fra hverdagen! Sketsjer, hyss og spik med Christian Mikkelsen, Olav Svarstad Haugland og Emil Berntsen.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA</url>
+      <title>Blåtur</title>
+      <link>https://radio.nrk.no/podkast/blaatur</link>
+    </image>
+    <item>
+      <title>Barnefotballens knallharde regime</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_e0be302a-f3aa-497a-be30-2af3aa297a3e</link>
+      <description>Barneidrett frister med damer. Emil har et nytt favorittprogram. Det anbefales ikke å bli forsker.</description>
+      <guid isPermaLink="false">l_e0be302a-f3aa-497a-be30-2af3aa297a3e</guid>
+      <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/e0be302a-f3aa-497a-be30-2af3aa297a3e_2_ID192MP3.mp3" type="audio/mpeg" length="53852012"></enclosure>
+      <itunes:title>Barnefotballens knallharde regime</itunes:title>
+      <itunes:summary>Barneidrett frister med damer. Emil har et nytt favorittprogram. Det anbefales ikke å bli forsker.</itunes:summary>
+      <itunes:duration>2243</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Konfirmasjonsartisten</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_cfaa19f1-9401-490e-aa19-f19401990e78</link>
+      <description>Christians greske vepseproblem. Olavs blodige brystvorter. Emils islandske anti-tips.</description>
+      <guid isPermaLink="false">l_cfaa19f1-9401-490e-aa19-f19401990e78</guid>
+      <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/cfaa19f1-9401-490e-aa19-f19401990e78_1_ID192MP3.mp3" type="audio/mpeg" length="51836588"></enclosure>
+      <itunes:title>Konfirmasjonsartisten</itunes:title>
+      <itunes:summary>Christians greske vepseproblem. Olavs blodige brystvorter. Emils islandske anti-tips.</itunes:summary>
+      <itunes:duration>2159</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fort nox, fox og rox</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_256df08d-177a-41a8-adf0-8d177aa1a833</link>
+      <description>Olav har vært hos tannlegen for første gang på 9 år. Vi blir kjent med en folkeskoleambassadør. Endelig blir det smakstest på fox, rox og nox.</description>
+      <guid isPermaLink="false">l_256df08d-177a-41a8-adf0-8d177aa1a833</guid>
+      <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/256df08d-177a-41a8-adf0-8d177aa1a833_2_ID192MP3.mp3" type="audio/mpeg" length="60227180"></enclosure>
+      <itunes:title>Fort nox, fox og rox</itunes:title>
+      <itunes:summary>Olav har vært hos tannlegen for første gang på 9 år. Vi blir kjent med en folkeskoleambassadør. Endelig blir det smakstest på fox, rox og nox.</itunes:summary>
+      <itunes:duration>2509</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Rudy Ibanez&#39; liv og levnet</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_ab672253-b74c-4568-a722-53b74c156840</link>
+      <description>Rudy Ibanez forteller historien om sitt liv. Sjokkerende håndkle- og dusjvaner kommer frem i lyset. Prisen på sommervarer gjettes.</description>
+      <guid isPermaLink="false">l_ab672253-b74c-4568-a722-53b74c156840</guid>
+      <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/ab672253-b74c-4568-a722-53b74c156840_1_ID192MP3.mp3" type="audio/mpeg" length="59747948"></enclosure>
+      <itunes:title>Rudy Ibanez&#39; liv og levnet</itunes:title>
+      <itunes:summary>Rudy Ibanez forteller historien om sitt liv. Sjokkerende håndkle- og dusjvaner kommer frem i lyset. Prisen på sommervarer gjettes.</itunes:summary>
+      <itunes:duration>2489</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Det gule liket i fjæra</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_bd28c30e-33d4-4e69-a8c3-0e33d49e6937</link>
+      <description>Astrofysiker Terje Triton er tilbake med nok et populærvitenskapelig foredrag. Filmens tid er muligens forbi. Olav reiser alene.</description>
+      <guid isPermaLink="false">l_bd28c30e-33d4-4e69-a8c3-0e33d49e6937</guid>
+      <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/bd28c30e-33d4-4e69-a8c3-0e33d49e6937_1_ID192MP3.mp3" type="audio/mpeg" length="56592044"></enclosure>
+      <itunes:title>Det gule liket i fjæra</itunes:title>
+      <itunes:summary>Astrofysiker Terje Triton er tilbake med nok et populærvitenskapelig foredrag. Filmens tid er muligens forbi. Olav reiser alene.</itunes:summary>
+      <itunes:duration>2357</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Velkommen til Toms rekelag</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_df7fc643-1921-42fd-bfc6-43192102fd90</link>
+      <description>Hvem kan improvisere den beste sommerhiten?  Christian og Emil tar oss med bak kulissene på audition til en norsk storfilm. Olav skal på blåtur.</description>
+      <guid isPermaLink="false">l_df7fc643-1921-42fd-bfc6-43192102fd90</guid>
+      <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/df7fc643-1921-42fd-bfc6-43192102fd90_1_ID192MP3.mp3" type="audio/mpeg" length="50585516"></enclosure>
+      <itunes:title>Velkommen til Toms rekelag</itunes:title>
+      <itunes:summary>Hvem kan improvisere den beste sommerhiten?  Christian og Emil tar oss med bak kulissene på audition til en norsk storfilm. Olav skal på blåtur.</itunes:summary>
+      <itunes:duration>2107</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nittitallsdubberen</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_9738c98d-8573-496c-b8c9-8d8573396c82</link>
+      <description>En konfirmasjon i Midgard. En filmdubber fra 90-tallet. En het krangel om å hevde seg i Masterchef.</description>
+      <guid isPermaLink="false">l_9738c98d-8573-496c-b8c9-8d8573396c82</guid>
+      <pubDate>Tue, 14 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/9738c98d-8573-496c-b8c9-8d8573396c82_1_ID192MP3.mp3" type="audio/mpeg" length="57767660"></enclosure>
+      <itunes:title>Nittitallsdubberen</itunes:title>
+      <itunes:summary>En konfirmasjon i Midgard. En filmdubber fra 90-tallet. En het krangel om å hevde seg i Masterchef.</itunes:summary>
+      <itunes:duration>2406</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Første regel i tisseklubben</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_3d5222e8-375f-43cf-9222-e8375fe3cfb6</link>
+      <description>En sjokkerende avsløring fra Christians tid i barnehagen. En rørende gjenforening i &#34;Bokbadet&#34;. En gruende fjellets mann.</description>
+      <guid isPermaLink="false">l_3d5222e8-375f-43cf-9222-e8375fe3cfb6</guid>
+      <pubDate>Tue, 07 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/3d5222e8-375f-43cf-9222-e8375fe3cfb6_1_ID192MP3.mp3" type="audio/mpeg" length="58471532"></enclosure>
+      <itunes:title>Første regel i tisseklubben</itunes:title>
+      <itunes:summary>En sjokkerende avsløring fra Christians tid i barnehagen. En rørende gjenforening i &#34;Bokbadet&#34;. En gruende fjellets mann.</itunes:summary>
+      <itunes:duration>2436</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Christian vs. amerikansk VM-Karen</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_9f3ca111-0bed-4c8f-bca1-110bed7c8f72</link>
+      <description>Christian møtte en ekte &#34;Karen&#34; under VM i USA. Olav blir invitert på utdrikningslag. Emil har på følelsen at noen følger etter ham.</description>
+      <guid isPermaLink="false">l_9f3ca111-0bed-4c8f-bca1-110bed7c8f72</guid>
+      <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/9f3ca111-0bed-4c8f-bca1-110bed7c8f72_1_ID192MP3.mp3" type="audio/mpeg" length="53261036"></enclosure>
+      <itunes:title>Christian vs. amerikansk VM-Karen</itunes:title>
+      <itunes:summary>Christian møtte en ekte &#34;Karen&#34; under VM i USA. Olav blir invitert på utdrikningslag. Emil har på følelsen at noen følger etter ham.</itunes:summary>
+      <itunes:duration>2219</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Viralt i Irak</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_8827a32d-60d5-40ad-a7a3-2d60d5b0ad07</link>
+      <description>Emil har lurt NRK. Olav har blitt rørt av seg selv. Christian har hissa på seg irakiske supportere.</description>
+      <guid isPermaLink="false">l_8827a32d-60d5-40ad-a7a3-2d60d5b0ad07</guid>
+      <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/8827a32d-60d5-40ad-a7a3-2d60d5b0ad07_1_ID192MP3.mp3" type="audio/mpeg" length="48678956"></enclosure>
+      <itunes:title>Viralt i Irak</itunes:title>
+      <itunes:summary>Emil har lurt NRK. Olav har blitt rørt av seg selv. Christian har hissa på seg irakiske supportere.</itunes:summary>
+      <itunes:duration>2028</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ulvesult på baderomsgulvet</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_97728765-8a79-4314-b287-658a799314b4</link>
+      <description>Bestemoren til Olav har ligget på baderomsgulvet siden påske. Emil har blitt gressenke. Vet vi hva ting egentlig koster?</description>
+      <guid isPermaLink="false">l_97728765-8a79-4314-b287-658a799314b4</guid>
+      <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/97728765-8a79-4314-b287-658a799314b4_1_ID192MP3.mp3" type="audio/mpeg" length="54023660"></enclosure>
+      <itunes:title>Ulvesult på baderomsgulvet</itunes:title>
+      <itunes:summary>Bestemoren til Olav har ligget på baderomsgulvet siden påske. Emil har blitt gressenke. Vet vi hva ting egentlig koster?</itunes:summary>
+      <itunes:duration>2250</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>VM i sløyd</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_7ebef123-19a1-49a1-bef1-2319a129a198</link>
+      <description>Emil har møtt en notorisk sniker. Olav nekter å la seg rive med. Christian vil befri salamien fra briens ekle klør.</description>
+      <guid isPermaLink="false">l_7ebef123-19a1-49a1-bef1-2319a129a198</guid>
+      <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/7ebef123-19a1-49a1-bef1-2319a129a198_1_ID192MP3.mp3" type="audio/mpeg" length="50877548"></enclosure>
+      <itunes:title>VM i sløyd</itunes:title>
+      <itunes:summary>Emil har møtt en notorisk sniker. Olav nekter å la seg rive med. Christian vil befri salamien fra briens ekle klør.</itunes:summary>
+      <itunes:duration>2119</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Stor i kjeften, pent brukt</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_ffe1c770-7aa8-49a6-a1c7-707aa8b9a681</link>
+      <description>En bajsgubbe ringer fra Göteborg. Christian får en overraskelse ved en urinal. Olav kritiserer Emil.</description>
+      <guid isPermaLink="false">l_ffe1c770-7aa8-49a6-a1c7-707aa8b9a681</guid>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/ffe1c770-7aa8-49a6-a1c7-707aa8b9a681_1_ID192MP3.mp3" type="audio/mpeg" length="62304236"></enclosure>
+      <itunes:title>Stor i kjeften, pent brukt</itunes:title>
+      <itunes:summary>En bajsgubbe ringer fra Göteborg. Christian får en overraskelse ved en urinal. Olav kritiserer Emil.</itunes:summary>
+      <itunes:duration>2595</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>En truende telefon fra nord</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_c1d81e53-e516-4864-981e-53e516e8645a</link>
+      <description>Olav er lei av å dra til byen. Helsedirektoratet er ute med nye råd. Christian har anklaget naboene.</description>
+      <guid isPermaLink="false">l_c1d81e53-e516-4864-981e-53e516e8645a</guid>
+      <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/c1d81e53-e516-4864-981e-53e516e8645a_1_ID192MP3.mp3" type="audio/mpeg" length="59610860"></enclosure>
+      <itunes:title>En truende telefon fra nord</itunes:title>
+      <itunes:summary>Olav er lei av å dra til byen. Helsedirektoratet er ute med nye råd. Christian har anklaget naboene.</itunes:summary>
+      <itunes:duration>2483</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Den eteriske oljekrisen</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_ece4efbc-70b1-4ba7-a4ef-bc70b14ba71e</link>
+      <description>Rudy Ibanez vender tilbake med nok en meditasjonstime. Olav har fått sin første ick. Vi står overfor en helt ny oljekrise.</description>
+      <guid isPermaLink="false">l_ece4efbc-70b1-4ba7-a4ef-bc70b14ba71e</guid>
+      <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/ece4efbc-70b1-4ba7-a4ef-bc70b14ba71e_1_ID192MP3.mp3" type="audio/mpeg" length="53274284"></enclosure>
+      <itunes:title>Den eteriske oljekrisen</itunes:title>
+      <itunes:summary>Rudy Ibanez vender tilbake med nok en meditasjonstime. Olav har fått sin første ick. Vi står overfor en helt ny oljekrise.</itunes:summary>
+      <itunes:duration>2219</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Åtte baconpølser og en gravferd</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_610ec53c-f8e7-451d-8ec5-3cf8e7451d2f</link>
+      <description>Olav har vært i bryllup. Christian gir bryllupstips. Emil har kjøpt solbriller.</description>
+      <guid isPermaLink="false">l_610ec53c-f8e7-451d-8ec5-3cf8e7451d2f</guid>
+      <pubDate>Tue, 12 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/610ec53c-f8e7-451d-8ec5-3cf8e7451d2f_1_ID192MP3.mp3" type="audio/mpeg" length="62542124"></enclosure>
+      <itunes:title>Åtte baconpølser og en gravferd</itunes:title>
+      <itunes:summary>Olav har vært i bryllup. Christian gir bryllupstips. Emil har kjøpt solbriller.</itunes:summary>
+      <itunes:duration>2605</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ut og stjæle pølser</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_31d624b9-757b-4a90-9624-b9757b6a904a</link>
+      <description>Hvem har mest rett til å snike i bilkø? Hvorfor finnes det ikke massasjesalonger for pjusking? Det i mye som skurrer i Jo Nesbøs &#34;Harry Hole&#34;.</description>
+      <guid isPermaLink="false">l_31d624b9-757b-4a90-9624-b9757b6a904a</guid>
+      <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/31d624b9-757b-4a90-9624-b9757b6a904a_1_ID192MP3.mp3" type="audio/mpeg" length="44944172"></enclosure>
+      <itunes:title>Ut og stjæle pølser</itunes:title>
+      <itunes:summary>Hvem har mest rett til å snike i bilkø? Hvorfor finnes det ikke massasjesalonger for pjusking? Det i mye som skurrer i Jo Nesbøs &#34;Harry Hole&#34;.</itunes:summary>
+      <itunes:duration>1872</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>To rasshøl i kosmisk symfoni</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_cdb70cfb-54b7-4f2b-b70c-fb54b76f2b6f</link>
+      <description>Drømmen om en bar. En astrofysiker med bagasje. Filmpitcheren vender tilbake.</description>
+      <guid isPermaLink="false">l_cdb70cfb-54b7-4f2b-b70c-fb54b76f2b6f</guid>
+      <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/cdb70cfb-54b7-4f2b-b70c-fb54b76f2b6f_2_ID192MP3.mp3" type="audio/mpeg" length="58863212"></enclosure>
+      <itunes:title>To rasshøl i kosmisk symfoni</itunes:title>
+      <itunes:summary>Drømmen om en bar. En astrofysiker med bagasje. Filmpitcheren vender tilbake.</itunes:summary>
+      <itunes:duration>2452</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jekselen er kroppens bremsekloss</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_d9c66b7a-6f2e-4b4c-866b-7a6f2e9b4ce9</link>
+      <description>Hvor ofte bør man dra til tannlegen? Hvordan integrere foreldreløs ungdom fra krigsherjede områder i russetida? Og hva gjør man når man ikke har flere klær å bruke?</description>
+      <guid isPermaLink="false">l_d9c66b7a-6f2e-4b4c-866b-7a6f2e9b4ce9</guid>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/d9c66b7a-6f2e-4b4c-866b-7a6f2e9b4ce9_1_ID192MP3.mp3" type="audio/mpeg" length="51207596"></enclosure>
+      <itunes:title>Jekselen er kroppens bremsekloss</itunes:title>
+      <itunes:summary>Hvor ofte bør man dra til tannlegen? Hvordan integrere foreldreløs ungdom fra krigsherjede områder i russetida? Og hva gjør man når man ikke har flere klær å bruke?</itunes:summary>
+      <itunes:duration>2133</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nesbø stjal barndommen min</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_ae91f012-f31c-4de5-91f0-12f31c2de5b5</link>
+      <description>Olav har satt ned foten. Vi får servert nyheter fra Peppes pizza. Velkommen til &#34;Tråsnasmartnan Veganske og Sexfestivalen&#34;.</description>
+      <guid isPermaLink="false">l_ae91f012-f31c-4de5-91f0-12f31c2de5b5</guid>
+      <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/ae91f012-f31c-4de5-91f0-12f31c2de5b5_1_ID192MP3.mp3" type="audio/mpeg" length="54036332"></enclosure>
+      <itunes:title>Nesbø stjal barndommen min</itunes:title>
+      <itunes:summary>Olav har satt ned foten. Vi får servert nyheter fra Peppes pizza. Velkommen til &#34;Tråsnasmartnan Veganske og Sexfestivalen&#34;.</itunes:summary>
+      <itunes:duration>2251</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Livet som tourettespårørende</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_dc2b08bc-fa73-4800-ab08-bcfa73b80082</link>
+      <description>En svært kort meditasjonstime. Verdens verste rørlegger. Den tristeste erkjennelsen en hvit 38-åring kan ha</description>
+      <guid isPermaLink="false">l_dc2b08bc-fa73-4800-ab08-bcfa73b80082</guid>
+      <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/dc2b08bc-fa73-4800-ab08-bcfa73b80082_1_ID192MP3.mp3" type="audio/mpeg" length="48346028"></enclosure>
+      <itunes:title>Livet som tourettespårørende</itunes:title>
+      <itunes:summary>En svært kort meditasjonstime. Verdens verste rørlegger. Den tristeste erkjennelsen en hvit 38-åring kan ha</itunes:summary>
+      <itunes:duration>2014</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mannen i jernlungen</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_589cae66-c462-4174-9cae-66c46221748b</link>
+      <description>En mann bor i en jernlunge på Garntangen veikro. Fredrik Seltzer tar saken i &#34;Åsted Granskning&#34;. Sangpedagog Biff Terje Landsing savner mangfold i musikalen.</description>
+      <guid isPermaLink="false">l_589cae66-c462-4174-9cae-66c46221748b</guid>
+      <pubDate>Tue, 31 Mar 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/589cae66-c462-4174-9cae-66c46221748b_1_ID192MP3.mp3" type="audio/mpeg" length="55233260"></enclosure>
+      <itunes:title>Mannen i jernlungen</itunes:title>
+      <itunes:summary>En mann bor i en jernlunge på Garntangen veikro. Fredrik Seltzer tar saken i &#34;Åsted Granskning&#34;. Sangpedagog Biff Terje Landsing savner mangfold i musikalen.</itunes:summary>
+      <itunes:duration>2301</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mette-Marit Uncut</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_4d6488bd-dfb3-4bac-a488-bddfb38bac91</link>
+      <description>Olav har blitt shamet på foreldremøte, vi har funnet det uredigerte intervjuet med Mette-Marit, og en mann med frokostblanding er klar for alt .</description>
+      <guid isPermaLink="false">l_4d6488bd-dfb3-4bac-a488-bddfb38bac91</guid>
+      <pubDate>Tue, 24 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/4d6488bd-dfb3-4bac-a488-bddfb38bac91_1_ID192MP3.mp3" type="audio/mpeg" length="57551660"></enclosure>
+      <itunes:title>Mette-Marit Uncut</itunes:title>
+      <itunes:summary>Olav har blitt shamet på foreldremøte, vi har funnet det uredigerte intervjuet med Mette-Marit, og en mann med frokostblanding er klar for alt .</itunes:summary>
+      <itunes:duration>2397</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Egnersk erotikk</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_2f403eb6-0a9e-41fc-803e-b60a9eb1fcc4</link>
+      <description>Olav har mistet sin krykke. En mann sliter med kjærligheten i Abra havn. Våren sparkes i gang med erotikk ved Halvdan Egner.</description>
+      <guid isPermaLink="false">l_2f403eb6-0a9e-41fc-803e-b60a9eb1fcc4</guid>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/2f403eb6-0a9e-41fc-803e-b60a9eb1fcc4_1_ID192MP3.mp3" type="audio/mpeg" length="53154476"></enclosure>
+      <itunes:title>Egnersk erotikk</itunes:title>
+      <itunes:summary>Olav har mistet sin krykke. En mann sliter med kjærligheten i Abra havn. Våren sparkes i gang med erotikk ved Halvdan Egner.</itunes:summary>
+      <itunes:duration>2214</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kongene av smalltalk</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_c14e594d-6b6e-44bb-8e59-4d6b6e94bbc7</link>
+      <description>Premiere! Gråting på vei hjem fra fest. En vinekspert med rasistiske undertoner. Idéer til filmer du aldri har sett.</description>
+      <guid isPermaLink="false">l_c14e594d-6b6e-44bb-8e59-4d6b6e94bbc7</guid>
+      <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/c14e594d-6b6e-44bb-8e59-4d6b6e94bbc7_1_ID192MP3.mp3" type="audio/mpeg" length="67343660"></enclosure>
+      <itunes:title>Kongene av smalltalk</itunes:title>
+      <itunes:summary>Premiere! Gråting på vei hjem fra fest. En vinekspert med rasistiske undertoner. Idéer til filmer du aldri har sett.</itunes:summary>
+      <itunes:duration>2805</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>&#34;Blåtur&#34; kommer 10. mars!</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_a131acb6-55ca-47fc-b1ac-b655ca77fc01</link>
+      <description>En ukentlig flukt fra ditt nitriste liv! Sketsjer, hyss og spik med Christian Mikkelsen, Olav Svarstad Haugland og Emil Berntsen. Premiere 10. mars.</description>
+      <guid isPermaLink="false">l_a131acb6-55ca-47fc-b1ac-b655ca77fc01</guid>
+      <pubDate>Thu, 05 Mar 2026 16:15:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/a131acb6-55ca-47fc-b1ac-b655ca77fc01_ID192MP3.mp3" type="audio/mpeg" length="5879852"></enclosure>
+      <itunes:title>&#34;Blåtur&#34; kommer 10. mars!</itunes:title>
+      <itunes:summary>En ukentlig flukt fra ditt nitriste liv! Sketsjer, hyss og spik med Christian Mikkelsen, Olav Svarstad Haugland og Emil Berntsen. Premiere 10. mars.</itunes:summary>
+      <itunes:duration>244</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

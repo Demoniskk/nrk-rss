@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rød løype</title>
+    <link>https://radio.nrk.no/podkast/roed_loeype</link>
+    <description>En preppemaskinfører kjører over en person i slalåmbakken. Innestengt i maskinen må han bevise sin uskyld før stormen letter.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 22 Mar 2024 05:05:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/roed_loeype.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>En preppemaskinfører kjører over en person i slalåmbakken. Innestengt i maskinen må han bevise sin uskyld før stormen letter.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q"></itunes:image>
+    <itunes:category text="Fiction"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q</url>
+      <title>Rød løype</title>
+      <link>https://radio.nrk.no/podkast/roed_loeype</link>
+    </image>
+    <item>
+      <title>På tynn is! (6:6)</title>
+      <link>https://radio.nrk.no/podkast/roed_loeype/l_3bbc4853-0c2d-4f6c-bc48-530c2d1f6c4f</link>
+      <description>Stormen letter.</description>
+      <guid isPermaLink="false">l_3bbc4853-0c2d-4f6c-bc48-530c2d1f6c4f</guid>
+      <pubDate>Fri, 22 Mar 2024 06:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/roed_loeype/862d617e-011c-4ae0-8af4-194a5761c2b5_0_ID192MP3.mp3" type="audio/mpeg" length="31517613"></enclosure>
+      <itunes:title>På tynn is! (6:6)</itunes:title>
+      <itunes:summary>Stormen letter.</itunes:summary>
+      <itunes:duration>1313</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jeg visste ikke at noen skulle dø (5:6)</title>
+      <link>https://radio.nrk.no/podkast/roed_loeype/l_87355bf2-9011-4599-b55b-f290114599dd</link>
+      <description>Ludvig utgir seg for å være en annen. Det gjør Astrid også. De finner en talemelding.</description>
+      <guid isPermaLink="false">l_87355bf2-9011-4599-b55b-f290114599dd</guid>
+      <pubDate>Fri, 22 Mar 2024 06:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/roed_loeype/6ee9d3e1-212c-48e1-8a19-ac11db8bee2c_0_ID192MP3.mp3" type="audio/mpeg" length="28243629"></enclosure>
+      <itunes:title>Jeg visste ikke at noen skulle dø (5:6)</itunes:title>
+      <itunes:summary>Ludvig utgir seg for å være en annen. Det gjør Astrid også. De finner en talemelding.</itunes:summary>
+      <itunes:duration>1176</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>En fattig mann med penger (4:6)</title>
+      <link>https://radio.nrk.no/podkast/roed_loeype/l_c655573c-f732-4a6a-9557-3cf732fa6acf</link>
+      <description>Astrid kontakter en rik svenske. Ludvig kjenner igjen en stemme fra tidligere.</description>
+      <guid isPermaLink="false">l_c655573c-f732-4a6a-9557-3cf732fa6acf</guid>
+      <pubDate>Fri, 22 Mar 2024 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/roed_loeype/6c2c2871-55f5-4f1b-bbb7-4822c249a30b_0_ID192MP3.mp3" type="audio/mpeg" length="28338093"></enclosure>
+      <itunes:title>En fattig mann med penger (4:6)</itunes:title>
+      <itunes:summary>Astrid kontakter en rik svenske. Ludvig kjenner igjen en stemme fra tidligere.</itunes:summary>
+      <itunes:duration>1180</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Han skal drepe meg, ha det! (3:6)</title>
+      <link>https://radio.nrk.no/podkast/roed_loeype/l_9b030718-e289-4a8c-8307-18e2894a8c80</link>
+      <description>Ludvig får Astrid til å ringe en gammel venninne på hotellet. Astrid kjøper dem mer tid.</description>
+      <guid isPermaLink="false">l_9b030718-e289-4a8c-8307-18e2894a8c80</guid>
+      <pubDate>Fri, 22 Mar 2024 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/roed_loeype/a69a47e6-505b-4e6f-abe3-991a91ba6fee_0_ID192MP3.mp3" type="audio/mpeg" length="29581101"></enclosure>
+      <itunes:title>Han skal drepe meg, ha det! (3:6)</itunes:title>
+      <itunes:summary>Ludvig får Astrid til å ringe en gammel venninne på hotellet. Astrid kjøper dem mer tid.</itunes:summary>
+      <itunes:duration>1232</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jeg stoler fortsatt ikke på deg (2:6)</title>
+      <link>https://radio.nrk.no/podkast/roed_loeype/l_9049491b-a24e-497f-8949-1ba24e997fc6</link>
+      <description>Ludvig prøver å finne ut av hvem som ansatte ham. Astrid graver i den rotete bygdemailen.</description>
+      <guid isPermaLink="false">l_9049491b-a24e-497f-8949-1ba24e997fc6</guid>
+      <pubDate>Fri, 22 Mar 2024 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/roed_loeype/4c9b0c30-0ab0-4d03-8c8b-ff957a723acc_0_ID192MP3.mp3" type="audio/mpeg" length="29237805"></enclosure>
+      <itunes:title>Jeg stoler fortsatt ikke på deg (2:6)</itunes:title>
+      <itunes:summary>Ludvig prøver å finne ut av hvem som ansatte ham. Astrid graver i den rotete bygdemailen.</itunes:summary>
+      <itunes:duration>1218</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Det blåser opp til storm (1:6)</title>
+      <link>https://radio.nrk.no/podkast/roed_loeype/l_6100f28c-a2e3-4eb7-80f2-8ca2e3feb7a1</link>
+      <description>Ludvig har første kveldsvakt i preppemaskinen når han mister kontakten med bakkesjefen. Så dukker ei jente opp på sambandet.&#xA;&#xA;Skuespillere: Nils Bendik Kvissel, Giulia Hellesdatter Roi m.fl.&#xA;Manus: Gustav Lie Gundersen og Erik Goplen &#xA;Regi: Gustav Lie Gundersen og Erik Goplen &#xA;Teknikk: Kirsten Uhnger &#xA;Lyddesign: Glenn Solheim&#xA;Produsent: Ingrid Torjesen&#xA;Eksekutiv produsent: Gunhild Nymoen&#xA;Redaktør: Marianne Furevold </description>
+      <guid isPermaLink="false">l_6100f28c-a2e3-4eb7-80f2-8ca2e3feb7a1</guid>
+      <pubDate>Fri, 22 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/roed_loeype/8d11905b-4c30-48d4-b2b5-67df358252a6_0_ID192MP3.mp3" type="audio/mpeg" length="26208621"></enclosure>
+      <itunes:title>Det blåser opp til storm (1:6)</itunes:title>
+      <itunes:summary>Ludvig har første kveldsvakt i preppemaskinen når han mister kontakten med bakkesjefen. Så dukker ei jente opp på sambandet.&#xA;&#xA;Skuespillere: Nils Bendik Kvissel, Giulia Hellesdatter Roi m.fl.&#xA;Manus: Gustav Lie Gundersen og Erik Goplen &#xA;Regi: Gustav Lie Gundersen og Erik Goplen &#xA;Teknikk: Kirsten Uhnger &#xA;Lyddesign: Glenn Solheim&#xA;Produsent: Ingrid Torjesen&#xA;Eksekutiv produsent: Gunhild Nymoen&#xA;Redaktør: Marianne Furevold </itunes:summary>
+      <itunes:duration>1091</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

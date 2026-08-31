@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fantorangens vitseshow</title>
+    <link>https://radio.nrk.no/podkast/fantorangens_vitseshow</link>
+    <description>Fantorangen og Pivi forteller rare og morsomme vitser hele familien kan le av.&#xA;&#xA;&#xA;</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 03 Jul 2026 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/fantorangens_vitseshow.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Fantorangen og Pivi forteller rare og morsomme vitser hele familien kan le av.&#xA;&#xA;&#xA;</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA</url>
+      <title>Fantorangens vitseshow</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow</link>
+    </image>
+    <item>
+      <title>Vi er kule og vi er rare</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_6c816775-1724-4835-8167-7517241835ba</link>
+      <description>Fantorangen og Pivi har laget en rap-sang du garantert vil få på hjernen.</description>
+      <guid isPermaLink="false">l_6c816775-1724-4835-8167-7517241835ba</guid>
+      <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/6c816775-1724-4835-8167-7517241835ba_1_ID192MP3.mp3" type="audio/mpeg" length="2996972"></enclosure>
+      <itunes:title>Vi er kule og vi er rare</itunes:title>
+      <itunes:summary>Fantorangen og Pivi har laget en rap-sang du garantert vil få på hjernen.</itunes:summary>
+      <itunes:duration>124</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Td0ZtVWLKURrGS56Yl_kQg99EwxyFsWLELt9FxPcrxxA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Brrr-ingebær, koko-løk og vitse-rap</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_f1fc9e30-fc84-4db1-bc9e-30fc84adb1b1</link>
+      <description>Fantorangen og Pivi lager tullete versjoner av kjente barnesanger. Da blir det ekstra god stemning.</description>
+      <guid isPermaLink="false">l_f1fc9e30-fc84-4db1-bc9e-30fc84adb1b1</guid>
+      <pubDate>Wed, 24 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/f1fc9e30-fc84-4db1-bc9e-30fc84adb1b1_1_ID192MP3.mp3" type="audio/mpeg" length="17866988"></enclosure>
+      <itunes:title>Brrr-ingebær, koko-løk og vitse-rap</itunes:title>
+      <itunes:summary>Fantorangen og Pivi lager tullete versjoner av kjente barnesanger. Da blir det ekstra god stemning.</itunes:summary>
+      <itunes:duration>744</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Skolepromp og superhelten Pantorangen</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_b2e72043-4557-4ac4-a720-434557dac4a3</link>
+      <description>Fantorangen drømmer om skolen og blir til en super-panter.</description>
+      <guid isPermaLink="false">l_b2e72043-4557-4ac4-a720-434557dac4a3</guid>
+      <pubDate>Fri, 19 Jun 2026 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/b2e72043-4557-4ac4-a720-434557dac4a3_1_ID192MP3.mp3" type="audio/mpeg" length="16829036"></enclosure>
+      <itunes:title>Skolepromp og superhelten Pantorangen</itunes:title>
+      <itunes:summary>Fantorangen drømmer om skolen og blir til en super-panter.</itunes:summary>
+      <itunes:duration>701</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Spøkelsesbæsj og tisseregn</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_19890236-0880-4f15-8902-360880df150a</link>
+      <description>Hva er en spøkelsesbæsj? Fantorangen lærer om et hemmelig bæsjekart.</description>
+      <guid isPermaLink="false">l_19890236-0880-4f15-8902-360880df150a</guid>
+      <pubDate>Fri, 19 Jun 2026 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/19890236-0880-4f15-8902-360880df150a_1_ID192MP3.mp3" type="audio/mpeg" length="12741164"></enclosure>
+      <itunes:title>Spøkelsesbæsj og tisseregn</itunes:title>
+      <itunes:summary>Hva er en spøkelsesbæsj? Fantorangen lærer om et hemmelig bæsjekart.</itunes:summary>
+      <itunes:duration>530</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Heisann og hoppsann!</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_76cb1cef-4017-40a8-8b1c-ef401750a804</link>
+      <description>To tomater, to sandkasser og en veldig rar lyd. Alt kan skje når man skal krysse veien.</description>
+      <guid isPermaLink="false">l_76cb1cef-4017-40a8-8b1c-ef401750a804</guid>
+      <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/76cb1cef-4017-40a8-8b1c-ef401750a804_1_ID192MP3.mp3" type="audio/mpeg" length="14212268"></enclosure>
+      <itunes:title>Heisann og hoppsann!</itunes:title>
+      <itunes:summary>To tomater, to sandkasser og en veldig rar lyd. Alt kan skje når man skal krysse veien.</itunes:summary>
+      <itunes:duration>592</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Prompefest</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_7a0a2eda-656d-49dd-8a2e-da656d29ddd8</link>
+      <description>Hvem lager alle prompelydene? Klarer du å gjette lyden før Pivi?</description>
+      <guid isPermaLink="false">l_7a0a2eda-656d-49dd-8a2e-da656d29ddd8</guid>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/7a0a2eda-656d-49dd-8a2e-da656d29ddd8_1_ID192MP3.mp3" type="audio/mpeg" length="17404460"></enclosure>
+      <itunes:title>Prompefest</itunes:title>
+      <itunes:summary>Hvem lager alle prompelydene? Klarer du å gjette lyden før Pivi?</itunes:summary>
+      <itunes:duration>725</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bæsj eller bilkræsj?</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_aadb55cf-c163-4fc9-9b55-cfc1630fc96a</link>
+      <description>Fantorangen og Pivi finner på «Alle barna»-vitser. Hvorfor lukter snømannen gulrot?</description>
+      <guid isPermaLink="false">l_aadb55cf-c163-4fc9-9b55-cfc1630fc96a</guid>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/aadb55cf-c163-4fc9-9b55-cfc1630fc96a_1_ID192MP3.mp3" type="audio/mpeg" length="13700780"></enclosure>
+      <itunes:title>Bæsj eller bilkræsj?</itunes:title>
+      <itunes:summary>Fantorangen og Pivi finner på «Alle barna»-vitser. Hvorfor lukter snømannen gulrot?</itunes:summary>
+      <itunes:duration>570</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dingdong og busemenn</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_3eb989ca-fc4b-48f3-b989-cafc4be8f351</link>
+      <description>Hvem er fru Kompe? Hvor gammel blir en stein?  Og enda flere «Alle barna»- vitser.</description>
+      <guid isPermaLink="false">l_3eb989ca-fc4b-48f3-b989-cafc4be8f351</guid>
+      <pubDate>Fri, 18 Jul 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/c4b9ca16-7fec-4268-98db-a0c42b3c1340_0_ID192MP3.mp3" type="audio/mpeg" length="15779565"></enclosure>
+      <itunes:title>Dingdong og busemenn</itunes:title>
+      <itunes:summary>Hvem er fru Kompe? Hvor gammel blir en stein?  Og enda flere «Alle barna»- vitser.</itunes:summary>
+      <itunes:duration>657</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>&#34;Klukkodille&#34; og biff</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_df806603-819d-4a11-8066-03819d5a1187</link>
+      <description>Har kameler pupper på ryggen? Kan man le av å bare si «vits», og hvorfor er katter gode i TV-spill?</description>
+      <guid isPermaLink="false">l_df806603-819d-4a11-8066-03819d5a1187</guid>
+      <pubDate>Fri, 11 Jul 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/a71ae9b0-526e-4042-8ac6-3101c7ab0864_0_ID192MP3.mp3" type="audio/mpeg" length="17573805"></enclosure>
+      <itunes:title>&#34;Klukkodille&#34; og biff</itunes:title>
+      <itunes:summary>Har kameler pupper på ryggen? Kan man le av å bare si «vits», og hvorfor er katter gode i TV-spill?</itunes:summary>
+      <itunes:duration>732</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sjøpølse og promp i klassen</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_39598a60-2576-42c7-998a-60257622c78e</link>
+      <description>Hvem i havet elsker ketchup og sennep? Og hvor mange «Alle barna»-vitser finnes det egentlig? Pivi prøver å ikke le i vitsehytta.</description>
+      <guid isPermaLink="false">l_39598a60-2576-42c7-998a-60257622c78e</guid>
+      <pubDate>Fri, 04 Jul 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/74fae31f-26a0-49f8-a900-b06650f10a41_0_ID192MP3.mp3" type="audio/mpeg" length="17321517"></enclosure>
+      <itunes:title>Sjøpølse og promp i klassen</itunes:title>
+      <itunes:summary>Hvem i havet elsker ketchup og sennep? Og hvor mange «Alle barna»-vitser finnes det egentlig? Pivi prøver å ikke le i vitsehytta.</itunes:summary>
+      <itunes:duration>721</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Humlemumle og vitsekonkurranse</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_175cda82-8eca-4e71-9cda-828eca5e71c3</link>
+      <description>Hva kaller du en sau uten bein? Hvem kan hoppe høyere enn målet? Og hva er kjeksegryte? Fantorangen vil alltid vinne, og Pivi ler.</description>
+      <guid isPermaLink="false">l_175cda82-8eca-4e71-9cda-828eca5e71c3</guid>
+      <pubDate>Fri, 27 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/ddf1d8f9-6de1-43a3-8002-0225848d6458_0_ID192MP3.mp3" type="audio/mpeg" length="16985133"></enclosure>
+      <itunes:title>Humlemumle og vitsekonkurranse</itunes:title>
+      <itunes:summary>Hva kaller du en sau uten bein? Hvem kan hoppe høyere enn målet? Og hva er kjeksegryte? Fantorangen vil alltid vinne, og Pivi ler.</itunes:summary>
+      <itunes:duration>707</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Våte løver, termos og Håkon</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_f10b35e6-87e7-4ec4-8b35-e687e77ec47b</link>
+      <description>Fantorangen er sjefete og Pivi prøver å komme på en vits. Burde Pivi si ja til termos? Og hvilken vits forteller «Gjør det sjøl»-Håkon?</description>
+      <guid isPermaLink="false">l_f10b35e6-87e7-4ec4-8b35-e687e77ec47b</guid>
+      <pubDate>Fri, 20 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/617b836d-d3b7-40c3-9b9a-da4632b4f78e_0_ID192MP3.mp3" type="audio/mpeg" length="14636781"></enclosure>
+      <itunes:title>Våte løver, termos og Håkon</itunes:title>
+      <itunes:summary>Fantorangen er sjefete og Pivi prøver å komme på en vits. Burde Pivi si ja til termos? Og hvilken vits forteller «Gjør det sjøl»-Håkon?</itunes:summary>
+      <itunes:duration>609</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bie, vannsklie og Bablo-Even</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_76d29d61-93b5-4ca3-929d-6193b5fca308</link>
+      <description>Pivi er redd for bier, mens Fantorangen lurer på hva de har på seg når de bader. Og Even fra Bablo ringer inn med en vits.</description>
+      <guid isPermaLink="false">l_76d29d61-93b5-4ca3-929d-6193b5fca308</guid>
+      <pubDate>Fri, 11 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/6f59b4ef-991b-4711-baaa-4595fb907755_0_ID192MP3.mp3" type="audio/mpeg" length="16706925"></enclosure>
+      <itunes:title>Bie, vannsklie og Bablo-Even</itunes:title>
+      <itunes:summary>Pivi er redd for bier, mens Fantorangen lurer på hva de har på seg når de bader. Og Even fra Bablo ringer inn med en vits.</itunes:summary>
+      <itunes:duration>696</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Flate krokodiller</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_c98d7771-cb9d-41f9-8d77-71cb9d31f900</link>
+      <description>Hvorfor er alle krokodiller flate? Og lever leverpostei? Pivi får vitser fra folk på stien.</description>
+      <guid isPermaLink="false">l_c98d7771-cb9d-41f9-8d77-71cb9d31f900</guid>
+      <pubDate>Fri, 11 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/b6d3e3fa-bcdf-4ae4-bc3d-3b25f7c5c864_0_ID192MP3.mp3" type="audio/mpeg" length="13609773"></enclosure>
+      <itunes:title>Flate krokodiller</itunes:title>
+      <itunes:summary>Hvorfor er alle krokodiller flate? Og lever leverpostei? Pivi får vitser fra folk på stien.</itunes:summary>
+      <itunes:duration>567</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Prompepute, Kruspersille og Maurora </title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_fde297cc-bf07-4350-a297-ccbf070350b7</link>
+      <description>Fantorangen lurer Pivi og en prompepute blir til prompesang.&#xA;I dag ringer de inn en vits fra Maurora.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Maurora: Tora Dietrichson&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl</description>
+      <guid isPermaLink="false">l_fde297cc-bf07-4350-a297-ccbf070350b7</guid>
+      <pubDate>Fri, 16 Jun 2023 12:25:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/e419830b-118e-4a8d-97eb-0fa013a2cb75_0_ID192MP3.mp3" type="audio/mpeg" length="22428909"></enclosure>
+      <itunes:title>Prompepute, Kruspersille og Maurora </itunes:title>
+      <itunes:summary>Fantorangen lurer Pivi og en prompepute blir til prompesang.&#xA;I dag ringer de inn en vits fra Maurora.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Maurora: Tora Dietrichson&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl</itunes:summary>
+      <itunes:duration>934</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sang, promp og Fantus</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_fb0aca3f-0f58-427c-8aca-3f0f58c27c97</link>
+      <description>Pivi synes ikke alt er så morsomt når Fantorangen synger.&#xA;I dag ringer de inn en vits fra Fantus som bare sier promp.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Fantus: Liv Gulbrandsen&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl</description>
+      <guid isPermaLink="false">l_fb0aca3f-0f58-427c-8aca-3f0f58c27c97</guid>
+      <pubDate>Fri, 16 Jun 2023 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/6a474d15-5bf4-4556-9b12-d2bb86d3c357_0_ID192MP3.mp3" type="audio/mpeg" length="18894573"></enclosure>
+      <itunes:title>Sang, promp og Fantus</itunes:title>
+      <itunes:summary>Pivi synes ikke alt er så morsomt når Fantorangen synger.&#xA;I dag ringer de inn en vits fra Fantus som bare sier promp.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Fantus: Liv Gulbrandsen&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl</itunes:summary>
+      <itunes:duration>787</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tull-ipan, tiss,  Morten og Saft </title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_b9375dbe-d650-4db3-b75d-bed650cdb3ae</link>
+      <description>Hvem tisser lengst av svenken, dansken og nordmannen? Fantorangen elsker sine egne vitser og lytter ikke til Pivi. I dag ringer de inn en vits fra Morten og Saft.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Gjest: Morten og Saft Suse&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl</description>
+      <guid isPermaLink="false">l_b9375dbe-d650-4db3-b75d-bed650cdb3ae</guid>
+      <pubDate>Fri, 16 Jun 2023 11:56:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/02e98c3b-777e-470a-8b04-2bb812c1407c_0_ID192MP3.mp3" type="audio/mpeg" length="18043821"></enclosure>
+      <itunes:title>Tull-ipan, tiss,  Morten og Saft </itunes:title>
+      <itunes:summary>Hvem tisser lengst av svenken, dansken og nordmannen? Fantorangen elsker sine egne vitser og lytter ikke til Pivi. I dag ringer de inn en vits fra Morten og Saft.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Gjest: Morten og Saft Suse&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl</itunes:summary>
+      <itunes:duration>751</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Slange,  poli10 og NinjaMatias </title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_2c0a14ff-5520-4cc3-8a14-ff5520ccc3af</link>
+      <description>Er slangen en hale eller hals? &#xA;Hvorfor kan ikke jeg se, når vit-ser?&#xA;I dag ringer Fantorangen og Pivi NinjaMatias.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;NinjaMatias: Matias Alegria&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl</description>
+      <guid isPermaLink="false">l_2c0a14ff-5520-4cc3-8a14-ff5520ccc3af</guid>
+      <pubDate>Fri, 16 Jun 2023 11:34:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/5b3304d4-0dc8-4e1e-a7e0-7c3dbaf5df30_0_ID192MP3.mp3" type="audio/mpeg" length="17011053"></enclosure>
+      <itunes:title>Slange,  poli10 og NinjaMatias </itunes:title>
+      <itunes:summary>Er slangen en hale eller hals? &#xA;Hvorfor kan ikke jeg se, når vit-ser?&#xA;I dag ringer Fantorangen og Pivi NinjaMatias.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;NinjaMatias: Matias Alegria&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl</itunes:summary>
+      <itunes:duration>708</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kelner kelner, boblebad og Zook </title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_eeb4bbb9-4804-4976-b4bb-b94804d976fd</link>
+      <description>Hvordan får du bobler i badekaret? Hva gjør fluer i suppa hele tiden? &#xA;Idag ringer Fantorangen og Pivi inn en vits fra Zook.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Zook: Thomas Hildebrand&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl</description>
+      <guid isPermaLink="false">l_eeb4bbb9-4804-4976-b4bb-b94804d976fd</guid>
+      <pubDate>Fri, 16 Jun 2023 11:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/6db86621-0073-4ab5-882b-73d96acf705a_0_ID192MP3.mp3" type="audio/mpeg" length="19869741"></enclosure>
+      <itunes:title>Kelner kelner, boblebad og Zook </itunes:title>
+      <itunes:summary>Hvordan får du bobler i badekaret? Hva gjør fluer i suppa hele tiden? &#xA;Idag ringer Fantorangen og Pivi inn en vits fra Zook.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Zook: Thomas Hildebrand&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl</itunes:summary>
+      <itunes:duration>827</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kom´an ketchup, dobørste og Daidalos</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_3f25f0e1-f15e-49d7-a5f0-e1f15ea9d75e</link>
+      <description>Hva skjer når to tomater og mange andre prøver å krysse en vei?&#xA;Fantorangen og Pivi lager sine egne vitser og&#xA;ringer inn en vits fra Daidalos.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Daidalos: håvard Lilleheie&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: siril Heyerdahl</description>
+      <guid isPermaLink="false">l_3f25f0e1-f15e-49d7-a5f0-e1f15ea9d75e</guid>
+      <pubDate>Fri, 16 Jun 2023 11:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/f7291382-4beb-4ff6-b67b-b663a1144d9e_0_ID192MP3.mp3" type="audio/mpeg" length="21395565"></enclosure>
+      <itunes:title>Kom´an ketchup, dobørste og Daidalos</itunes:title>
+      <itunes:summary>Hva skjer når to tomater og mange andre prøver å krysse en vei?&#xA;Fantorangen og Pivi lager sine egne vitser og&#xA;ringer inn en vits fra Daidalos.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Daidalos: håvard Lilleheie&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: siril Heyerdahl</itunes:summary>
+      <itunes:duration>891</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvorfor kan ikke jeg, melk og Trollet </title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_df54775a-eb89-4297-9477-5aeb89a297c4</link>
+      <description>Hvorfor kan ikke jeg si, når pizza?&#xA;Hvilket dyr promper mest?&#xA;Tør Pivi å ringe Trollet for å få en vits?&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Trollet: Stian Presthus&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl</description>
+      <guid isPermaLink="false">l_df54775a-eb89-4297-9477-5aeb89a297c4</guid>
+      <pubDate>Fri, 16 Jun 2023 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/bb7df1ad-ab87-4205-92bf-4ff416fb276a_0_ID192MP3.mp3" type="audio/mpeg" length="15137325"></enclosure>
+      <itunes:title>Hvorfor kan ikke jeg, melk og Trollet </itunes:title>
+      <itunes:summary>Hvorfor kan ikke jeg si, når pizza?&#xA;Hvilket dyr promper mest?&#xA;Tør Pivi å ringe Trollet for å få en vits?&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Trollet: Stian Presthus&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl</itunes:summary>
+      <itunes:duration>630</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Alle barna, lurevitser og Kongen </title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_96bc510e-6629-48c8-bc51-0e662948c8e3</link>
+      <description>Fantorangen og Pivi tøyser enda mer og lærer deg hvordan du kan lage egne vitser.&#xA;Dagens vitsegjest er Konglen...eh nei, Kongen.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi/Kongen:  Haakon Strøm&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl&#xA;</description>
+      <guid isPermaLink="false">l_96bc510e-6629-48c8-bc51-0e662948c8e3</guid>
+      <pubDate>Fri, 16 Jun 2023 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/74dce728-7ff5-423c-adc6-e4b58e143e0e_0_ID192MP3.mp3" type="audio/mpeg" length="18603117"></enclosure>
+      <itunes:title>Alle barna, lurevitser og Kongen </itunes:title>
+      <itunes:summary>Fantorangen og Pivi tøyser enda mer og lærer deg hvordan du kan lage egne vitser.&#xA;Dagens vitsegjest er Konglen...eh nei, Kongen.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi/Kongen:  Haakon Strøm&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl&#xA;</itunes:summary>
+      <itunes:duration>775</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Brødsmuler, sitron og Brillebjørn </title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_32932c08-e308-46d7-932c-08e30856d7b1</link>
+      <description>Hva skjer når Dum og Ingen går en tur?  Hvorfor er sitronen sur? &#xA;I dag ringer Fantorangen og Pivi inn en vits fra selveste Brillebjørn.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Brillebjørn: Thomas Hildebrand&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl</description>
+      <guid isPermaLink="false">l_32932c08-e308-46d7-932c-08e30856d7b1</guid>
+      <pubDate>Fri, 16 Jun 2023 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/120d098e-dfc0-46e5-b30a-08c7596ff874_0_ID192MP3.mp3" type="audio/mpeg" length="16612461"></enclosure>
+      <itunes:title>Brødsmuler, sitron og Brillebjørn </itunes:title>
+      <itunes:summary>Hva skjer når Dum og Ingen går en tur?  Hvorfor er sitronen sur? &#xA;I dag ringer Fantorangen og Pivi inn en vits fra selveste Brillebjørn.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Brillebjørn: Thomas Hildebrand&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl</itunes:summary>
+      <itunes:duration>692</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Første sending fra vitsehytta (1:10)</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_009053ab-291f-4a92-9053-ab291f7a92bf</link>
+      <description>Le sammen hele familien når Fantorangen og Pivi forteller rare vitser.&#xA;Pivi er lydeffekt-sjef,  men finner ikke alltid riktige lyder.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl&#xA; &#xA;&#xA;</description>
+      <guid isPermaLink="false">l_009053ab-291f-4a92-9053-ab291f7a92bf</guid>
+      <pubDate>Fri, 16 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/c0d132b0-b878-4df8-b30a-b2fcd92f0fe2_0_ID192MP3.mp3" type="audio/mpeg" length="16165485"></enclosure>
+      <itunes:title>Første sending fra vitsehytta (1:10)</itunes:title>
+      <itunes:summary>Le sammen hele familien når Fantorangen og Pivi forteller rare vitser.&#xA;Pivi er lydeffekt-sjef,  men finner ikke alltid riktige lyder.&#xA;&#xA;Fantorangen: Inger Lindheim Gundersen&#xA;Pivi: Haakon Strøm&#xA;Manus/regi: Margrethe Røed&#xA;Lyddesign: Lillian Grønning&#xA;Redaktør: Siril Heyerdahl&#xA; &#xA;&#xA;</itunes:summary>
+      <itunes:duration>673</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

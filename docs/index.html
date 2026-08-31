@@ -1,0 +1,2982 @@
+<!doctype html>
+<html lang="no">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NRK Podcast RSS</title>
+<meta name="description" content="Standard RSS-feeder for alle podkaster på NRK Radio.">
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #fbfbfd;
+    --surface: #ffffff;
+    --border: #e3e3ea;
+    --text: #16161d;
+    --muted: #6b6b7b;
+    --accent: #0b5fff;
+    --accent-soft: #eef3ff;
+    --radius: 12px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1014;
+      --surface: #17181e;
+      --border: #2a2b34;
+      --text: #ececf2;
+      --muted: #9a9aad;
+      --accent: #7aa2ff;
+      --accent-soft: #1b2233;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  .wrap { max-width: 940px; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+  header h1 { font-size: 1.9rem; margin: 0 0 .4rem; letter-spacing: -.02em; }
+  header p { margin: 0 0 .35rem; color: var(--muted); }
+  header p a { color: var(--accent); }
+  .stats { font-variant-numeric: tabular-nums; }
+  .search {
+    position: sticky; top: 0; z-index: 2;
+    padding: 1.25rem 0 1rem;
+    background: linear-gradient(var(--bg) 78%, transparent);
+  }
+  .search input {
+    width: 100%; padding: .7rem .9rem;
+    font: inherit; color: var(--text);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+  }
+  .search input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  #count { margin: .5rem 0 0; color: var(--muted); font-size: .87rem; }
+  ul { list-style: none; margin: 0; padding: 0; display: grid; gap: .6rem; }
+  li {
+    display: flex; gap: .9rem; align-items: center;
+    padding: .8rem .9rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+  }
+  li[hidden] { display: none; }
+  img {
+    width: 56px; height: 56px; flex: 0 0 56px;
+    border-radius: 8px; object-fit: cover; background: var(--accent-soft);
+  }
+  .meta { min-width: 0; flex: 1; }
+  .title { font-weight: 600; display: block; }
+  .sub {
+    color: var(--muted); font-size: .85rem;
+    display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .links { display: flex; gap: .4rem; flex-wrap: wrap; flex: 0 0 auto; }
+  .links a, .links button {
+    font: inherit; font-size: .85rem;
+    padding: .35rem .65rem;
+    border-radius: 8px; border: 1px solid var(--border);
+    background: transparent; color: var(--accent);
+    text-decoration: none; cursor: pointer;
+  }
+  .links a.primary { background: var(--accent-soft); border-color: transparent; }
+  .links a:hover, .links button:hover { border-color: var(--accent); }
+  footer { margin-top: 2.5rem; color: var(--muted); font-size: .85rem; }
+  footer a { color: var(--accent); }
+  .empty { padding: 2rem 0; color: var(--muted); }
+  .failures { margin-top: 2rem; font-size: .87rem; color: var(--muted); }
+  .failures summary { cursor: pointer; }
+  .failures code { word-break: break-all; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>NRK Podcast RSS</h1>
+  <p>Standard RSS-feeder for podkastene på NRK Radio — abonner i den podkastspilleren du vil.</p>
+  <p class="stats">234 podkaster · 59302 episoder · nyeste episode 2026-08-30T10:00:00Z</p>
+</header>
+
+<div class="search">
+  <label for="q" hidden>Søk etter podkast</label>
+  <input id="q" type="search" placeholder="Søk etter podkast…" autocomplete="off" spellcheck="false">
+  <p id="count" hidden></p>
+</div>
+
+<ul id="list">
+  <li data-search="22. JULI - Hvordan kunne det skje? 22_juli_-_hvordan_kunne_det_skje Lyddrama">
+    <img src="https://gfx.nrk.no/eGYtTeon_zJerCDeHobBDw2kVrCWPeG1GwtbjjGEPPCA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">22. JULI - Hvordan kunne det skje?</span>
+      <span class="sub">6 episoder · Lyddrama</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/22_juli_-_hvordan_kunne_det_skje.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/22_juli_-_hvordan_kunne_det_skje.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/22_juli_-_hvordan_kunne_det_skje" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="72 timer 72_timer Kultur og samfunn">
+    <img src="https://gfx.nrk.no/x-h0b22UBMw3HGra7EkASw0p6vDirbvlXH3V5SG-DRkg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">72 timer</span>
+      <span class="sub">5 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/72_timer.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/72_timer.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/72_timer" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Abels tårn abels_taarn Kultur og samfunn">
+    <img src="https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Abels tårn</span>
+      <span class="sub">811 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/abels_taarn.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/abels_taarn" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Andakten andakten Kultur og samfunn">
+    <img src="https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Andakten</span>
+      <span class="sub">3086 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/andakten.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/andakten" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Andregenerasjonen andregenerasjonen Humor og prateprogram">
+    <img src="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Andregenerasjonen</span>
+      <span class="sub">41 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/andregenerasjonen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/andregenerasjonen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/andregenerasjonen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Are og Odin are_og_odin Humor og prateprogram">
+    <img src="https://gfx.nrk.no/hErSm8fKqwcWAtVF7ordEQuaEJaHFroCpTGWCzAR-LVw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Are og Odin</span>
+      <span class="sub">312 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/are_og_odin.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/are_og_odin.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/are_og_odin" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Arena arena Kultur og samfunn">
+    <img src="https://gfx.nrk.no/uSWumQMVs2kU78epnR5J0g6KckGj5WLn-NB4E7uF80hw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Arena</span>
+      <span class="sub">59 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/arena.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/arena.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/arena" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Bakrommet bakrommet Sport">
+    <img src="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Bakrommet</span>
+      <span class="sub">97 episoder · Sport</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/bakrommet.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/bakrommet" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Baksnakk baksnakk Humor og prateprogram">
+    <img src="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Baksnakk</span>
+      <span class="sub">350 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/baksnakk.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/baksnakk" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Berrum &amp; Beyer snakker om greier berrum_beyer_snakker_om_greier Humor og prateprogram">
+    <img src="https://gfx.nrk.no/btE_-fPMpME3lqX5ad3mDw17HuE2XONz3hfyg3CH1v7Q" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Berrum &amp; Beyer snakker om greier</span>
+      <span class="sub">467 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/berrum_beyer_snakker_om_greier.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/berrum_beyer_snakker_om_greier.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/berrum_beyer_snakker_om_greier" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Bibelen bibelen Humor og prateprogram">
+    <img src="https://gfx.nrk.no/NDZGkQxdpwVfjC8BOjm0NQdScr2wpZe1hUjSMabQ15yw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Bibelen</span>
+      <span class="sub">32 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/bibelen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/bibelen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/bibelen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Billis og Bollos billis_og_bollos Barn">
+    <img src="https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Billis og Bollos</span>
+      <span class="sub">20 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/billis_og_bollos.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/billis_og_bollos.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/billis_og_bollos" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Bingen – historier fra bygda bingen Humor og prateprogram">
+    <img src="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Bingen – historier fra bygda</span>
+      <span class="sub">22 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/bingen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/bingen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/bingen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Binnabánnaš &amp; Ujujju binnabnna_ujujju Barn">
+    <img src="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Binnabánnaš &amp; Ujujju</span>
+      <span class="sub">27 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/binnabnna_ujujju.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/binnabnna_ujujju.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/binnabnna_ujujju" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Bjørnen lyver bjoernen_lyver Sport">
+    <img src="https://gfx.nrk.no/lTx98dvw9td5H6HaQLf2RANQqdGTS6OW0nL06ZwS098Q" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Bjørnen lyver</span>
+      <span class="sub">3 episoder · Sport</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/bjoernen_lyver.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/bjoernen_lyver.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/bjoernen_lyver" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Blåtur blaatur Humor og prateprogram">
+    <img src="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Blåtur</span>
+      <span class="sub">26 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/blaatur.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/blaatur.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/blaatur" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Brannbamsen Bjørnis brannbamsen_bjoernis Barn">
+    <img src="https://gfx.nrk.no/spqLAshqn0sxTybs-zB5tgQq3uY3j0Lczo3lQ66xlHTg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Brannbamsen Bjørnis</span>
+      <span class="sub">44 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/brannbamsen_bjoernis.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/brannbamsen_bjoernis.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/brannbamsen_bjoernis" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Brenner deler dikt brenner_deler_dikt Kultur og samfunn">
+    <img src="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Brenner deler dikt</span>
+      <span class="sub">153 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/brenner_deler_dikt.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/brenner_deler_dikt.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/brenner_deler_dikt" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Brillebjørns Kvissvas brillebjoerns_kvissvas Barn">
+    <img src="https://gfx.nrk.no/dh3CuuvrkD7Kh3UsxLbFZAYgqrwRZtHP275OqrO34ynA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Brillebjørns Kvissvas</span>
+      <span class="sub">10 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/brillebjoerns_kvissvas.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/brillebjoerns_kvissvas.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/brillebjoerns_kvissvas" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Burde vært pensum burde_vaert_pensum Kultur og samfunn">
+    <img src="https://gfx.nrk.no/GSKID4Mw_tgEpLBchg3xEwOVRBhOoiXwvRmmYVnqpdIA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Burde vært pensum</span>
+      <span class="sub">68 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/burde_vaert_pensum.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/burde_vaert_pensum.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/burde_vaert_pensum" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Både Erlend og Steinar  baade_erlend_og_steinar_ Humor og prateprogram">
+    <img src="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Både Erlend og Steinar </span>
+      <span class="sub">140 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/baade_erlend_og_steinar_.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/baade_erlend_og_steinar_.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/baade_erlend_og_steinar_" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="CLUE clue Barn">
+    <img src="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">CLUE</span>
+      <span class="sub">16 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/clue.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/clue.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/clue" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Cold Front – Skyggekrigen cold_front_skyggekrigen Dokumentar">
+    <img src="https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Cold Front – Skyggekrigen</span>
+      <span class="sub">6 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/cold_front_skyggekrigen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/cold_front_skyggekrigen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/cold_front_skyggekrigen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Dagsnytt 18 dagsnytt_atten Nyheter">
+    <img src="https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Dagsnytt 18</span>
+      <span class="sub">3637 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/dagsnytt_atten.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/dagsnytt_atten" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Death in Ice Valley p060ms2h Dokumentar">
+    <img src="https://gfx.nrk.no/dfe0TzUCGlxCr6gTNjb45AKTEMCCiPfe7HYfy2JT8Beg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Death in Ice Valley</span>
+      <span class="sub">14 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/p060ms2h.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/p060ms2h.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/p060ms2h" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Debatten debatten Nyheter">
+    <img src="https://gfx.nrk.no/hNvjv6irOoLzGUwoKUfPkgmhOBNW1Wa2qUslowwJ2UAg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Debatten</span>
+      <span class="sub">395 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/debatten.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/debatten" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Delfi og Dolfy delfi_og_dolfy Barn">
+    <img src="https://gfx.nrk.no/iCVaVG22Zj3LXBIgKw5vvgq9QwbOUXM3RsGPrThPZrGg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Delfi og Dolfy</span>
+      <span class="sub">8 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/delfi_og_dolfy.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/delfi_og_dolfy.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/delfi_og_dolfy" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Desken brenner desken_brenner Humor og prateprogram">
+    <img src="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Desken brenner</span>
+      <span class="sub">124 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/desken_brenner.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/desken_brenner.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/desken_brenner" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Dilemmaklemma dilemmaklemma Barn">
+    <img src="https://gfx.nrk.no/OMkIlMzAoX4VdYsJtAr64QmFyTMdwHnoDg9A1UWWgYiw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Dilemmaklemma</span>
+      <span class="sub">7 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/dilemmaklemma.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/dilemmaklemma.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/dilemmaklemma" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Din venn, Nora din_venn_nora Humor og prateprogram">
+    <img src="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Din venn, Nora</span>
+      <span class="sub">83 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/din_venn_nora.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/din_venn_nora.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/din_venn_nora" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Ding-dong, du er død! ding_dong_du_er_doed Lyddrama">
+    <img src="https://gfx.nrk.no/RwgwPthv3plOSQ5EolWSEAPIWEFAgR8A7CevqHRtYh9g" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Ding-dong, du er død!</span>
+      <span class="sub">6 episoder · Lyddrama</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/ding_dong_du_er_doed.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/ding_dong_du_er_doed.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/ding_dong_du_er_doed" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Drivkraft drivkraft Humor og prateprogram">
+    <img src="https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Drivkraft</span>
+      <span class="sub">955 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/drivkraft.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/drivkraft" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Dynga karakter Humor og prateprogram">
+    <img src="https://gfx.nrk.no/PNxNcmty8-IdPPlRMLDA9wlYI1Pr3mmH449hgy3UDyeA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Dynga</span>
+      <span class="sub">256 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/karakter.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/karakter.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/karakter" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Dálla ja dalloj dlla_ja_dalloj Humor og prateprogram">
+    <img src="https://gfx.nrk.no/R9v-zpiM4CbusgxB8A23gwmzgu5J429R5oit4kpu-g5A" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Dálla ja dalloj</span>
+      <span class="sub">23 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/dlla_ja_dalloj.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/dlla_ja_dalloj.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/dlla_ja_dalloj" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Dømt doemt Dokumentar">
+    <img src="https://gfx.nrk.no/9UOe39c9EgicdOou_MM9jACcqN2pCtgp8cIiGc1RRWeA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Dømt</span>
+      <span class="sub">7 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/doemt.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/doemt.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/doemt" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Eallima mohkit eallima_mohkit Nyheter">
+    <img src="https://gfx.nrk.no/xrGlZvB-A62cKEW5DxAhlA38YwBuQn-hyrgPB7-R5vpA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Eallima mohkit</span>
+      <span class="sub">5 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/eallima_mohkit.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/eallima_mohkit.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/eallima_mohkit" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Einstein – på sporet av den tøyde tid einstein__paa_sporet_av_den_toeyde_tid Dokumentar">
+    <img src="https://gfx.nrk.no/SSyAMiEhGEzPdypee1TMMQWpsjwUbidcKlRCXZSlCJHA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Einstein – på sporet av den tøyde tid</span>
+      <span class="sub">16 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/einstein__paa_sporet_av_den_toeyde_tid.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/einstein__paa_sporet_av_den_toeyde_tid.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/einstein__paa_sporet_av_den_toeyde_tid" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Ekko ekko_-_et_aktuelt_samfunnsprogram Nyheter">
+    <img src="https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Ekko</span>
+      <span class="sub">7654 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/ekko_-_et_aktuelt_samfunnsprogram.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Eventyrerne: Jakten på spektralsteinene eventyrerne Humor og prateprogram">
+    <img src="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Eventyrerne: Jakten på spektralsteinene</span>
+      <span class="sub">18 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/eventyrerne.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/eventyrerne.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/eventyrerne" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Eventyret om Vazelina Bilopphøggers eventyret_om_vazelina_bilopphoeggers Musikk">
+    <img src="https://gfx.nrk.no/r4b9sCMeA-FpEZVXP2DgWA6-Ysw4JyWZBH-nJC6RNeTw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Eventyret om Vazelina Bilopphøggers</span>
+      <span class="sub">6 episoder · Musikk</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/eventyret_om_vazelina_bilopphoeggers.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/eventyret_om_vazelina_bilopphoeggers.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/eventyret_om_vazelina_bilopphoeggers" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Eventyrstund med Morten og Saft eventyrstund_med_morten_og_saft Barn">
+    <img src="https://gfx.nrk.no/ne1AxurN5jgnVZeMR5XRMg-hhR4x11se8Ux3gp1gtbBg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Eventyrstund med Morten og Saft</span>
+      <span class="sub">30 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/eventyrstund_med_morten_og_saft.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/eventyrstund_med_morten_og_saft.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/eventyrstund_med_morten_og_saft" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Familiene på Orderud familiene_paa_orderud Dokumentar">
+    <img src="https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Familiene på Orderud</span>
+      <span class="sub">6 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/familiene_paa_orderud.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/familiene_paa_orderud.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/familiene_paa_orderud" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Fantorangenfortellinger fantorangenfortellinger Barn">
+    <img src="https://gfx.nrk.no/JPFqLy1raR2X9-xJSvn8XQ-O6BZayjCiISvzF6sGGiuQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Fantorangenfortellinger</span>
+      <span class="sub">36 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/fantorangenfortellinger.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/fantorangenfortellinger.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/fantorangenfortellinger" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Fantorangens lydmysterier fantorangens_lydmysterier Barn">
+    <img src="https://gfx.nrk.no/jFA1yaCi7B5JF_Dr6g0g9woEZGkkYsuDzJVipFqFGGlg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Fantorangens lydmysterier</span>
+      <span class="sub">32 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/fantorangens_lydmysterier.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/fantorangens_lydmysterier.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/fantorangens_lydmysterier" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Fantorangens vitseshow fantorangens_vitseshow Barn">
+    <img src="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Fantorangens vitseshow</span>
+      <span class="sub">24 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/fantorangens_vitseshow.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/fantorangens_vitseshow.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/fantorangens_vitseshow" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Fantus og lydene fantus_og_lydene Barn">
+    <img src="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Fantus og lydene</span>
+      <span class="sub">8 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/fantus_og_lydene.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/fantus_og_lydene.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/fantus_og_lydene" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Feriestemning feriestemning Humor og prateprogram">
+    <img src="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Feriestemning</span>
+      <span class="sub">113 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/feriestemning.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/feriestemning.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/feriestemning" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Filmpolitiets podkast  filmpolitiet Kultur og samfunn">
+    <img src="https://gfx.nrk.no/zsc9T95MW0C8PXLzZ5wEwAaWveum9n42UivuRALUOxyA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Filmpolitiets podkast </span>
+      <span class="sub">878 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/filmpolitiet.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/filmpolitiet.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/filmpolitiet" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Forstå Norge forstaa_norge Nyheter">
+    <img src="https://gfx.nrk.no/RsEDTdwe9obqojQp4_-BJgQJHiZUfzQD8X-TtU0ZZdRQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Forstå Norge</span>
+      <span class="sub">12 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/forstaa_norge.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/forstaa_norge.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/forstaa_norge" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Fredagspanelet fredagspanelet Kultur og samfunn">
+    <img src="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Fredagspanelet</span>
+      <span class="sub">516 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/fredagspanelet.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/fredagspanelet.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/fredagspanelet" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Friminutt med Herman og Mikkel friminutt_med_herman_og_mikkel Humor og prateprogram">
+    <img src="https://gfx.nrk.no/iCIhrZ7lqgwddbNMTv_RUgGkY0fxGAk943cvawMez5-Q" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Friminutt med Herman og Mikkel</span>
+      <span class="sub">119 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/friminutt_med_herman_og_mikkel.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/friminutt_med_herman_og_mikkel.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/friminutt_med_herman_og_mikkel" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Gal &amp; genial gal_og_genial Dokumentar">
+    <img src="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Gal &amp; genial</span>
+      <span class="sub">10 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/gal_og_genial.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/gal_og_genial.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/gal_og_genial" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Gamle greier gamle_greier Dokumentar">
+    <img src="https://gfx.nrk.no/YCIUE9XwW4D9n3lGq_RcUwuyzzcPqy_1tW2WISsraCVQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Gamle greier</span>
+      <span class="sub">79 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/gamle_greier.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/gamle_greier.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/gamle_greier" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="God bedring god_bedring Kultur og samfunn">
+    <img src="https://gfx.nrk.no/aPwPNNhYrjx3UsY9SJEc8A1lZsnzNGf1e41jNEf0Nvmg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">God bedring</span>
+      <span class="sub">120 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/god_bedring.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/god_bedring.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/god_bedring" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="God natt god_natt Lyddrama">
+    <img src="https://gfx.nrk.no/o9mQvqaN0wkwzHFIYkWGqwWxu_KsOzdpMU5wE5Vx3kKQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">God natt</span>
+      <span class="sub">154 episoder · Lyddrama</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/god_natt.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/god_natt.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/god_natt" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Googla med Synnøve Svabø googla_med_synnoeve_svaboe Humor og prateprogram">
+    <img src="https://gfx.nrk.no/Jpj1PgfmYEXta8vgs2N-jAcXMkcRbg1kW9bhP593OnjA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Googla med Synnøve Svabø</span>
+      <span class="sub">16 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/googla_med_synnoeve_svaboe.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/googla_med_synnoeve_svaboe.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/googla_med_synnoeve_svaboe" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Gozuid alde gozuid_alde Humor og prateprogram">
+    <img src="https://gfx.nrk.no/zKfP8OP_NhoCN6BhTFiLewDRg_j-nz0DoPijghqI_yEg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Gozuid alde</span>
+      <span class="sub">65 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/gozuid_alde.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/gozuid_alde.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/gozuid_alde" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Grøss og gru groess_og_gru Kultur og samfunn">
+    <img src="https://gfx.nrk.no/FeRssSr6SODQRKXKuS9FKAAu2ABEJZHAy7cVE0XQ6vSg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Grøss og gru</span>
+      <span class="sub">10 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/groess_og_gru.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/groess_og_gru.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/groess_og_gru" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Guttapassasjen guttapassasjen Lyddrama">
+    <img src="https://gfx.nrk.no/zNiiAJz-PW7g3KncoT9czg47yOXQq9w323Eyw3mhADOg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Guttapassasjen</span>
+      <span class="sub">6 episoder · Lyddrama</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/guttapassasjen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/guttapassasjen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/guttapassasjen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Gáfestallan Lisain gfestallan_lisain Kultur og samfunn">
+    <img src="https://gfx.nrk.no/ZX-NjBWCnZVVdJCpVmNtiw2NSu1eN9ET3AXrIyf1VwbA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Gáfestallan Lisain</span>
+      <span class="sub">26 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/gfestallan_lisain.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/gfestallan_lisain.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/gfestallan_lisain" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Gåten i Isdalen gaaten_i_isdalen Dokumentar">
+    <img src="https://gfx.nrk.no/uswUSTH38G3DRNF_rL14pAGHHOkJdqqmREgprlVcUUhQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Gåten i Isdalen</span>
+      <span class="sub">20 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/gaaten_i_isdalen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/gaaten_i_isdalen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/gaaten_i_isdalen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Hallo Bablo hallo_bablo Barn">
+    <img src="https://gfx.nrk.no/GWbZ_dg2XpQIJb2D1TC0IwowAyRIAS4bh1qPpfxlloNw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Hallo Bablo</span>
+      <span class="sub">19 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/hallo_bablo.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/hallo_bablo.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/hallo_bablo" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Harald V harald_v Nyheter">
+    <img src="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Harald V</span>
+      <span class="sub">27 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/harald_v.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/harald_v.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/harald_v" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Hei, nabo hei_nabo Barn">
+    <img src="https://gfx.nrk.no/PG6BkBqHwlrTWTDQ6biEWgjvbcO1PBDvS_41DUXXZOLQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Hei, nabo</span>
+      <span class="sub">4 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/hei_nabo.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/hei_nabo.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/hei_nabo" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Heia Fotball heia_fotball Sport">
+    <img src="https://gfx.nrk.no/UKjtcnrItRx47suoCyuF-AoappJGVMh8Sjew8PB-tfEg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Heia Fotball</span>
+      <span class="sub">688 episoder · Sport</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/heia_fotball.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/heia_fotball.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/heia_fotball" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Hele historien hele_historien Dokumentar">
+    <img src="https://gfx.nrk.no/9M66t7FWMl-2wjdM2dxeLwGpdNwEzz6GNbeWeecSLORw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Hele historien</span>
+      <span class="sub">243 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/hele_historien.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/hele_historien.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/hele_historien" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Herreavdelingen herreavdelingen Humor og prateprogram">
+    <img src="https://gfx.nrk.no/iqlPpEVB6aTY7j9RyllPLASaEHABZNfpy0zJPHIjOQYQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Herreavdelingen</span>
+      <span class="sub">320 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/herreavdelingen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/herreavdelingen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/herreavdelingen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Historier fra virkeligheten radiodokumentaren Dokumentar">
+    <img src="https://gfx.nrk.no/vHLmZEDQBRftGcSloLbN8Q5Y7GS29Ym38qScCBrSwoUA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Historier fra virkeligheten</span>
+      <span class="sub">413 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/radiodokumentaren.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/radiodokumentaren.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/radiodokumentaren" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Historiske kjendiser historiske_kjendiser Dokumentar">
+    <img src="https://gfx.nrk.no/WYq7iBYPcp4snbdu-aAWqA3RqEoKHHInmFfCXLwIIGNg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Historiske kjendiser</span>
+      <span class="sub">107 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/historiske_kjendiser.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/historiske_kjendiser.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/historiske_kjendiser" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Hvem skjøt Balder? hvem_skjoet_balder Lyddrama">
+    <img src="https://gfx.nrk.no/k9PMYG7M3FE06kOaOed-uwnfdBEgNedtEaT5HL4tMrQw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Hvem skjøt Balder?</span>
+      <span class="sub">7 episoder · Lyddrama</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/hvem_skjoet_balder.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/hvem_skjoet_balder.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/hvem_skjoet_balder" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Hvordan møttes dere?  hvordan_moettes_dere_ Kultur og samfunn">
+    <img src="https://gfx.nrk.no/OD3v6WqJ1GtvBmx6BvV_-Q7T5Wi8xtzlVb0I9PLhWb9w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Hvordan møttes dere? </span>
+      <span class="sub">28 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/hvordan_moettes_dere_.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/hvordan_moettes_dere_.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/hvordan_moettes_dere_" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Hævvi haevvi Humor og prateprogram">
+    <img src="https://gfx.nrk.no/izE-1iT-YL6tiM3JxJfbhQxSN5DDAkBKS3FTo1ras-UQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Hævvi</span>
+      <span class="sub">89 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/haevvi.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/haevvi.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/haevvi" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Hør&#39;a hoera Humor og prateprogram">
+    <img src="https://gfx.nrk.no/EjvH5FUE6kydVSbmrflipwW_5YInLm6Odf8jfMXMcRlA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Hør&#39;a</span>
+      <span class="sub">124 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/hoera.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/hoera.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/hoera" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="I det lange løp i_det_lange_loep Sport">
+    <img src="https://gfx.nrk.no/WoTNFSKFvwHbXe6DhR5xkAP9bLL5fMSPrNtGDl-bFJUw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">I det lange løp</span>
+      <span class="sub">198 episoder · Sport</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/i_det_lange_loep.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/i_det_lange_loep.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/i_det_lange_loep" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="I dødens spor i_doedens_spor Dokumentar">
+    <img src="https://gfx.nrk.no/_IeQsEfbvN-ylI68lf5ONwDEz8RIsjvnNmm4fyMD-cJQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">I dødens spor</span>
+      <span class="sub">16 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/i_doedens_spor.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/i_doedens_spor.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/i_doedens_spor" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="I Elsa Laulas fotspor i_elsa_laulas_fotspor Dokumentar">
+    <img src="https://gfx.nrk.no/ZTRwQma2nm6alSZZGeAg4ArSJ1LU6eO3xVMlj5s4NZIA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">I Elsa Laulas fotspor</span>
+      <span class="sub">4 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/i_elsa_laulas_fotspor.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/i_elsa_laulas_fotspor.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/i_elsa_laulas_fotspor" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="I karantene med Ronny og Tuva i_karantene_med_ronny_og_tuva Humor og prateprogram">
+    <img src="https://gfx.nrk.no/-oIvBKbT-iK6iROyC_huOAz4cvKL6MY2QKvuqFQ9TQWw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">I karantene med Ronny og Tuva</span>
+      <span class="sub">122 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/i_karantene_med_ronny_og_tuva.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/i_karantene_med_ronny_og_tuva.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/i_karantene_med_ronny_og_tuva" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Jan Olsen fra Lønsj jan_olsen_fra_loensj Humor og prateprogram">
+    <img src="https://gfx.nrk.no/FwIHDpIBVHvqxxWvxcJV1Ar-lIvkBF_VBk9skV1bQcEg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Jan Olsen fra Lønsj</span>
+      <span class="sub">184 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/jan_olsen_fra_loensj.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/jan_olsen_fra_loensj.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/jan_olsen_fra_loensj" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Jonas og Henrik jonas_og_henrik Humor og prateprogram">
+    <img src="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Jonas og Henrik</span>
+      <span class="sub">49 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/jonas_og_henrik.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/jonas_og_henrik.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/jonas_og_henrik" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Julestemning med Live og Ronny julestemning Humor og prateprogram">
+    <img src="https://gfx.nrk.no/34b1KUmJc5aYifefuP1PLgOiQQ3Z0KLdPF95YPf6PyGA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Julestemning med Live og Ronny</span>
+      <span class="sub">133 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/julestemning.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/julestemning.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/julestemning" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Juntafil juntafil Dokumentar">
+    <img src="https://gfx.nrk.no/zJMISHMpNZbPY00OitYCwQnRJcEqGbLx8PjzpGn7UQuQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Juntafil</span>
+      <span class="sub">226 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/juntafil.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/juntafil.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/juntafil" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Juorre juorre Kultur og samfunn">
+    <img src="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Juorre</span>
+      <span class="sub">20 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/juorre.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/juorre.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/juorre" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Kaffipraatti kaffipraati Kultur og samfunn">
+    <img src="https://gfx.nrk.no/3UWYhbqDOi-NuTyFWhae_QkSrB-ceQLSg_0eONVeSwNg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Kaffipraatti</span>
+      <span class="sub">6 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kaffipraati.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kaffipraati.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kaffipraati" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Karriereveilederen karriereveilederen Musikk">
+    <img src="https://gfx.nrk.no/HH-FZgFUj60OiaHNeV_KlADEU6hzbV7fIiqkCj53Xt8w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Karriereveilederen</span>
+      <span class="sub">7 episoder · Musikk</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/karriereveilederen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/karriereveilederen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/karriereveilederen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Katakombens hemmelighet  katakombens_hemmelighet_ Lyddrama">
+    <img src="https://gfx.nrk.no/zCamZM265YRIbw67oh9puAXarmdkGyEljO7CGpAJBpPQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Katakombens hemmelighet </span>
+      <span class="sub">8 episoder · Lyddrama</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/katakombens_hemmelighet_.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/katakombens_hemmelighet_.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/katakombens_hemmelighet_" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Kilder til begeistring kilder_til_begeistring Humor og prateprogram">
+    <img src="https://gfx.nrk.no/EoJT_rdzPpGdMqizVACGzAM8B8-ytYf6_dcK0t68D1UA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Kilder til begeistring</span>
+      <span class="sub">2 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kilder_til_begeistring.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kilder_til_begeistring.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kilder_til_begeistring" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Kjapt oppdatert kjapt_oppdatert Nyheter">
+    <img src="https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Kjapt oppdatert</span>
+      <span class="sub">373 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kjapt_oppdatert.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kjapt_oppdatert" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Kjente bøker på 4 minutter kjente_boeker_paa_4_minutter Kultur og samfunn">
+    <img src="https://gfx.nrk.no/IFnBEJgSCA_g2E4JkcSdeQSV5mfpMcjx8lix81DX60aA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Kjente bøker på 4 minutter</span>
+      <span class="sub">189 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kjente_boeker_paa_4_minutter.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kjente_boeker_paa_4_minutter.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kjente_boeker_paa_4_minutter" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Kladden har dævva kladden_har_daevva Humor og prateprogram">
+    <img src="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Kladden har dævva</span>
+      <span class="sub">95 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kladden_har_daevva.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kladden_har_daevva.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kladden_har_daevva" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Klassen-rådet klassenraadet Humor og prateprogram">
+    <img src="https://gfx.nrk.no/PUIB3ie7JLDzu012l1JyAANQ5uBJALSMY2rf9GzkY15A" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Klassen-rådet</span>
+      <span class="sub">25 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/klassenraadet.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/klassenraadet.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/klassenraadet" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Klassequizen klassequizen Barn">
+    <img src="https://gfx.nrk.no/-xE0f3eums0UHhKw7mS9dwYu1ham6iMo7Ra-8Yx_aKrw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Klassequizen</span>
+      <span class="sub">1021 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/klassequizen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/klassequizen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/klassequizen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Klassikere fra P3-arkivet klassikere_fra_p3-arkivet Humor og prateprogram">
+    <img src="https://gfx.nrk.no/o3TnEZSXmt6lDUZ4jTwEiw6VtahOeIWdQs4DYsGbALGg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Klassikere fra P3-arkivet</span>
+      <span class="sub">23 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/klassikere_fra_p3-arkivet.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/klassikere_fra_p3-arkivet.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/klassikere_fra_p3-arkivet" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Kokosbananas kokosbananas Barn">
+    <img src="https://gfx.nrk.no/zv44y6MbO7n8s23rqLa_ZAIz6096GCTQjxfwSZPCy6Wg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Kokosbananas</span>
+      <span class="sub">3 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kokosbananas.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kokosbananas.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kokosbananas" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Kommentert kommentert Nyheter">
+    <img src="https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Kommentert</span>
+      <span class="sub">186 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kommentert.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kommentert" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Kompass kompass Kultur og samfunn">
+    <img src="https://gfx.nrk.no/oRq5i_gA9ar2PEwFR5tG1QtpwR7B2D_eCu1qGi1vMgSw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Kompass</span>
+      <span class="sub">146 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kompass.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kompass.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kompass" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Kongerekka kongerekka Dokumentar">
+    <img src="https://gfx.nrk.no/QKbzUYrIjnIB0MvVWatFKAUCAStJSqELTCsggzjyyXfg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Kongerekka</span>
+      <span class="sub">44 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kongerekka.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kongerekka.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kongerekka" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Koselig koselig Humor og prateprogram">
+    <img src="https://gfx.nrk.no/oJquB__V7cTh61fET1N3GQLc-Fti7lLLQC9OFMSj5vEQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Koselig</span>
+      <span class="sub">24 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/koselig.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/koselig.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/koselig" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="KRAFT kraft Kultur og samfunn">
+    <img src="https://gfx.nrk.no/6Baz0-J9f_v9Dra8ZMvFhwbdYncQ7IutqcFSeGdt3iSQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">KRAFT</span>
+      <span class="sub">135 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kraft.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kraft.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kraft" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Krig og fred krig_og_fred Nyheter">
+    <img src="https://gfx.nrk.no/zasIl1SNcrzJKN5qOE2rugEI-QB1RTd-Jp2edfharf-w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Krig og fred</span>
+      <span class="sub">180 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/krig_og_fred.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/krig_og_fred.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/krig_og_fred" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Krig på 200 minutter krig_paa_200_minutter Dokumentar">
+    <img src="https://gfx.nrk.no/jNt2gpEHxW2tmQgAcE-rdQIthu6cj9ULgVHWmhn33URQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Krig på 200 minutter</span>
+      <span class="sub">3 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/krig_paa_200_minutter.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/krig_paa_200_minutter.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/krig_paa_200_minutter" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Krimrommet krimrommet Dokumentar">
+    <img src="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Krimrommet</span>
+      <span class="sub">50 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/krimrommet.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/krimrommet" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Kringkastingsorkestret  kringkastingsorkestret_ Musikk">
+    <img src="https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQW5fFXrNoL3STCVOAsJQaBg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Kringkastingsorkestret </span>
+      <span class="sub">72 episoder · Musikk</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kringkastingsorkestret_.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kringkastingsorkestret_.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kringkastingsorkestret_" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Kroppen kroppen Kultur og samfunn">
+    <img src="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Kroppen</span>
+      <span class="sub">49 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kroppen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kroppen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kroppen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Kunne vært meg kunne_vaert_meg Kultur og samfunn">
+    <img src="https://gfx.nrk.no/alv7qCj3dhOlB6hYnIRFigdYbTfYr4MVcC-hGp9cScTg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Kunne vært meg</span>
+      <span class="sub">18 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kunne_vaert_meg.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kunne_vaert_meg.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kunne_vaert_meg" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Kurer kurer Kultur og samfunn">
+    <img src="https://gfx.nrk.no/rof9obyBdoZzIcNSBX_jRw_Nh3KOmEF3oBnn4qqlakqg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Kurer</span>
+      <span class="sub">356 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kurer.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kurer.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kurer" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Kveldstanker kveldstanker Kultur og samfunn">
+    <img src="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Kveldstanker</span>
+      <span class="sub">290 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/kveldstanker.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/kveldstanker" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Labyrint om natten labyrint_om_natten Barn">
+    <img src="https://gfx.nrk.no/7Fyx-OuTaNc-W4fB_LG2eQzHGdknERLUhaFEnHfF-HVQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Labyrint om natten</span>
+      <span class="sub">17 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/labyrint_om_natten.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/labyrint_om_natten.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/labyrint_om_natten" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Labyrinthemmeligheter labyrinthemmeligheter Barn">
+    <img src="https://gfx.nrk.no/tAJWMY4teILS4tGcRjWMFQDZX0h6ckuA0RQ3aiZ1xOeA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Labyrinthemmeligheter</span>
+      <span class="sub">19 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/labyrinthemmeligheter.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/labyrinthemmeligheter.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/labyrinthemmeligheter" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Leseklubben leseklubben Kultur og samfunn">
+    <img src="https://gfx.nrk.no/I6w79w9PsXM6sOlj7ZQELAx2Ju-xLFrtIHyGh3nJVwrg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Leseklubben</span>
+      <span class="sub">74 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/leseklubben.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/leseklubben.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/leseklubben" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Lev vel lev_vel Kultur og samfunn">
+    <img src="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Lev vel</span>
+      <span class="sub">102 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/lev_vel.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/lev_vel.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/lev_vel" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Lindmo og Co lindmo_og_co Humor og prateprogram">
+    <img src="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Lindmo og Co</span>
+      <span class="sub">292 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/lindmo_og_co.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/lindmo_og_co.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/lindmo_og_co" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Luođis luohtái luois_luohti Musikk">
+    <img src="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Luođis luohtái</span>
+      <span class="sub">37 episoder · Musikk</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/luois_luohti.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/luois_luohti.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/luois_luohti" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Lyden av 17. mai lyden_av_17_mai Musikk">
+    <img src="https://gfx.nrk.no/aFPwiQkteVOKhP0m_NNSnAypBXI6-fmNjDL5aHSTNMzg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Lyden av 17. mai</span>
+      <span class="sub">10 episoder · Musikk</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/lyden_av_17_mai.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/lyden_av_17_mai.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/lyden_av_17_mai" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Lyden av Nytt på Nytt lyden_av_nytt_paa_nytt Humor og prateprogram">
+    <img src="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Lyden av Nytt på Nytt</span>
+      <span class="sub">15 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/lyden_av_nytt_paa_nytt.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/lyden_av_nytt_paa_nytt.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Lystad og Mathisens radioshow lystad_og_mathisens_radioshow Humor og prateprogram">
+    <img src="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Lystad og Mathisens radioshow</span>
+      <span class="sub">21 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/lystad_og_mathisens_radioshow.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/lystad_og_mathisens_radioshow.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Lønsj med Rune Nilson loensj_med_rune_nilson Humor og prateprogram">
+    <img src="https://gfx.nrk.no/XdrpoCEw6UR--KnAveb1eQjsHhGffkw0G8iivPssNOXQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Lønsj med Rune Nilson</span>
+      <span class="sub">1056 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/loensj_med_rune_nilson.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/loensj_med_rune_nilson.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/loensj_med_rune_nilson" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Lørdagsrådet loerdagsraadet Humor og prateprogram">
+    <img src="https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Lørdagsrådet</span>
+      <span class="sub">951 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/loerdagsraadet.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/loerdagsraadet" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Manin ja danin manin_ja_danin Humor og prateprogram">
+    <img src="https://gfx.nrk.no/xticSOo9hWGMeA1y6dMw5wK1Nzrsmm5fg4M5_57IvE0w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Manin ja danin</span>
+      <span class="sub">7 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/manin_ja_danin.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/manin_ja_danin.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/manin_ja_danin" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Markus &amp; Else markus_else Humor og prateprogram">
+    <img src="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Markus &amp; Else</span>
+      <span class="sub">51 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/markus_else.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/markus_else.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/markus_else" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Markus og Wolfgang snakker klassisk markus_og_wolfgang_snakker_klassisk Musikk">
+    <img src="https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Markus og Wolfgang snakker klassisk</span>
+      <span class="sub">19 episoder · Musikk</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/markus_og_wolfgang_snakker_klassisk.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/markus_og_wolfgang_snakker_klassisk.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Maskorama-podkasten maskoramapodkasten Humor og prateprogram">
+    <img src="https://gfx.nrk.no/Omy-SC7AViL6wyx9tTxDjwmGc1vC68f3pO7NscoqmBWA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Maskorama-podkasten</span>
+      <span class="sub">29 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/maskoramapodkasten.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/maskoramapodkasten.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/maskoramapodkasten" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Med all respekt med_all_respekt Humor og prateprogram">
+    <img src="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Med all respekt</span>
+      <span class="sub">1266 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/med_all_respekt.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/med_all_respekt" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Meininga med livet meininga_med_livet Humor og prateprogram">
+    <img src="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Meininga med livet</span>
+      <span class="sub">20 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/meininga_med_livet.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/meininga_med_livet.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/meininga_med_livet" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Mellom oss mellom_oss Kultur og samfunn">
+    <img src="https://gfx.nrk.no/uPuBV9TWKrJUJE699NEnGg4IoDGzkgCgRCTkWuXV534w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Mellom oss</span>
+      <span class="sub">74 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/mellom_oss.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/mellom_oss.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/mellom_oss" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Mesterdetektiven Mali mesterdetektiven_mali Barn">
+    <img src="https://gfx.nrk.no/i1EPUYLRdfATLN0pBGUl1QIo2-cWmXA_mKkv67TZqUjg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Mesterdetektiven Mali</span>
+      <span class="sub">4 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/mesterdetektiven_mali.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/mesterdetektiven_mali.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/mesterdetektiven_mali" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Mias gym mias_gym Humor og prateprogram">
+    <img src="https://gfx.nrk.no/RMDi9eEMjTwYH4O1hDe-ZgduwTtcn00CDQp8uxLpDVRA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Mias gym</span>
+      <span class="sub">10 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/mias_gym.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/mias_gym.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/mias_gym" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Millionærhjerne millionaerhjerne Kultur og samfunn">
+    <img src="https://gfx.nrk.no/PPFQXW-IGn-1oXetHQsrTgA5eNVSCaxV9FNaZaFi6QGg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Millionærhjerne</span>
+      <span class="sub">12 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/millionaerhjerne.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/millionaerhjerne.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/millionaerhjerne" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Min første gang min_foerste_gang Kultur og samfunn">
+    <img src="https://gfx.nrk.no/RxNpLnkkDhqE0E2_wr9TFwLbT936vQu2byNKU-HwgmfA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Min første gang</span>
+      <span class="sub">10 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/min_foerste_gang.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/min_foerste_gang.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/min_foerste_gang" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Min venn Marlon min_venn_marlon Barn">
+    <img src="https://gfx.nrk.no/gzX87YmrEzYW8rr9vd3b3QIBbEOXdioAZRE2kJQNZa_Q" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Min venn Marlon</span>
+      <span class="sub">13 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/min_venn_marlon.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/min_venn_marlon.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/min_venn_marlon" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Misforstå meg rett misforstaa_meg_rett Humor og prateprogram">
+    <img src="https://gfx.nrk.no/CP3PIYSxjVs2em6T_6GrygK_4IPA3uEu2sE0MXWtVdgg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Misforstå meg rett</span>
+      <span class="sub">53 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/misforstaa_meg_rett.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/misforstaa_meg_rett.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/misforstaa_meg_rett" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Mitt liv med hund mitt_liv_med_hund Humor og prateprogram">
+    <img src="https://gfx.nrk.no/zCPnGp533fo1Z78lMiKnTgfEXKMFetTtBR8sXCoNXZeg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Mitt liv med hund</span>
+      <span class="sub">20 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/mitt_liv_med_hund.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/mitt_liv_med_hund.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/mitt_liv_med_hund" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Monsens univers monsens_univers Humor og prateprogram">
+    <img src="https://gfx.nrk.no/_DTOqwZfBqNlyUS8uAh_mguznPt3l9Jkzfb-tcgFoKCQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Monsens univers</span>
+      <span class="sub">18 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/monsens_univers.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/monsens_univers.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/monsens_univers" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Museum - et program om norsk historie museum Dokumentar">
+    <img src="https://gfx.nrk.no/bKv7wuVH8n_zqpaAiccLSgcz--o2L-ZkWizAXt20qM2w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Museum - et program om norsk historie</span>
+      <span class="sub">593 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/museum.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/museum.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/museum" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Musikk fra NRK Super musikk_fra_nrk_super Barn">
+    <img src="https://gfx.nrk.no/MVL3ZhlYtM7CuXQ_giFXmAfd8TLVlIZ31mbz0Rj0KQ3Q" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Musikk fra NRK Super</span>
+      <span class="sub">104 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/musikk_fra_nrk_super.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/musikk_fra_nrk_super.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/musikk_fra_nrk_super" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Musikkhistorier musikkhistorier Musikk">
+    <img src="https://gfx.nrk.no/LJiZ3Tf30RzgEzvmJs8OWgkHbADPrVMPKVD4k8OOenWQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Musikkhistorier</span>
+      <span class="sub">12 episoder · Musikk</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/musikkhistorier.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/musikkhistorier.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/musikkhistorier" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Musikkrommet musikkrommet Musikk">
+    <img src="https://gfx.nrk.no/9RC0yu1YgUPSu7PdUdmFRA-mkjHjLiLi2-zNUvYGneLg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Musikkrommet</span>
+      <span class="sub">117 episoder · Musikk</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/musikkrommet.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/musikkrommet.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/musikkrommet" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Mysterier fra Norge mysterier_fra_norge Dokumentar">
+    <img src="https://gfx.nrk.no/PPk2YYlQ_o3ahc0UWq3oPA4twULL2rj4q7WcXB4-3r4g" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Mysterier fra Norge</span>
+      <span class="sub">34 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/mysterier_fra_norge.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/mysterier_fra_norge.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/mysterier_fra_norge" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Mørke fortellinger radioteatrets_paaskekrim Lyddrama">
+    <img src="https://gfx.nrk.no/UjRzlAbJHlzAaDrI_8WpuQKevBbh4rAGjtT1SKmuXPvQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Mørke fortellinger</span>
+      <span class="sub">24 episoder · Lyddrama</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/radioteatrets_paaskekrim.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/radioteatrets_paaskekrim.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/radioteatrets_paaskekrim" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Mørketid moerketid Nyheter">
+    <img src="https://gfx.nrk.no/1wyEriTrvSyIR5gSzwOArQz8UsqWfBbT9K57EFSPVbPg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Mørketid</span>
+      <span class="sub">6 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/moerketid.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/moerketid.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/moerketid" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Natt til lørdag natt_til_loerdag Lyddrama">
+    <img src="https://gfx.nrk.no/CdVY7_5tUVv9IiNlYHO3Ww1G96j-wxXGlE9EaPRMLGhg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Natt til lørdag</span>
+      <span class="sub">18 episoder · Lyddrama</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/natt_til_loerdag.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/natt_til_loerdag.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/natt_til_loerdag" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Nei nei nei nei_nei_nei Humor og prateprogram">
+    <img src="https://gfx.nrk.no/7UsuD0NwQXdSmNppm_JkPAp44uQcqKx4J2v5HCt9MKcg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Nei nei nei</span>
+      <span class="sub">27 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/nei_nei_nei.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/nei_nei_nei.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/nei_nei_nei" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Nesten helt sant  nesten_helt_sant_ Humor og prateprogram">
+    <img src="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Nesten helt sant </span>
+      <span class="sub">42 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/nesten_helt_sant_.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/nesten_helt_sant_.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/nesten_helt_sant_" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Nittiatten nittiatten Humor og prateprogram">
+    <img src="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Nittiatten</span>
+      <span class="sub">91 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/nittiatten.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/nittiatten.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/nittiatten" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Nokke for seg sjøl nokke_for_seg_sjoel Dokumentar">
+    <img src="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Nokke for seg sjøl</span>
+      <span class="sub">13 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/nokke_for_seg_sjoel.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/nokke_for_seg_sjoel.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/nokke_for_seg_sjoel" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Norsken, svensken og dansken norsken_svensken_og_dansken Nyheter">
+    <img src="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Norsken, svensken og dansken</span>
+      <span class="sub">285 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/norsken_svensken_og_dansken.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/norsken_svensken_og_dansken.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/norsken_svensken_og_dansken" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="NRK-scenen nrkscenen Musikk">
+    <img src="https://gfx.nrk.no/U86Z3TYs6H3bOiF2to7jCwEsWEuNLytw9OAkEqh9PHyQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">NRK-scenen</span>
+      <span class="sub">84 episoder · Musikk</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/nrkscenen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/nrkscenen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/nrkscenen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="NRKbeta nrkbeta Kultur og samfunn">
+    <img src="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">NRKbeta</span>
+      <span class="sub">25 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/nrkbeta.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/nrkbeta.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/nrkbeta" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Nyhetsblanding nyhetsblanding Nyheter">
+    <img src="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Nyhetsblanding</span>
+      <span class="sub">39 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/nyhetsblanding.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/nyhetsblanding.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/nyhetsblanding" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Nødsamtaler noedsamtaler Lyddrama">
+    <img src="https://gfx.nrk.no/0MSWD7b9o0xYmKjC7QG70gv58sih9Chio5MezUB6i-DQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Nødsamtaler</span>
+      <span class="sub">18 episoder · Lyddrama</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/noedsamtaler.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/noedsamtaler.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/noedsamtaler" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="O-fag o-fag Humor og prateprogram">
+    <img src="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">O-fag</span>
+      <span class="sub">55 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/o-fag.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/o-fag.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/o-fag" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="OL-gull olgull Sport">
+    <img src="https://gfx.nrk.no/y2an3qnykZd1Ck979G7TjQ5vRDXGBdF9g7btI9CaAdQQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">OL-gull</span>
+      <span class="sub">8 episoder · Sport</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/olgull.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/olgull.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/olgull" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Oppdatert oppdatert Nyheter">
+    <img src="https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Oppdatert</span>
+      <span class="sub">1322 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/oppdatert.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/oppdatert" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Ođaspodda odaspodda Nyheter">
+    <img src="https://gfx.nrk.no/-8dYL0mpxIZGlW0w6AiZNQuHrSmdIkhtx4y6V2uV8b5w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Ođaspodda</span>
+      <span class="sub">77 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/odaspodda.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/odaspodda.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/odaspodda" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="P3 Dokumentar p3_dokumentar Dokumentar">
+    <img src="https://gfx.nrk.no/CE-0E49OPfrXjWyydOh8TAlHz1quNKTEo0xPaaujDilw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">P3 Dokumentar</span>
+      <span class="sub">174 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/p3_dokumentar.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/p3_dokumentar.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/p3_dokumentar" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="P3morgen for B-mennesker p3morgen Humor og prateprogram">
+    <img src="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">P3morgen for B-mennesker</span>
+      <span class="sub">3615 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/p3morgen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/p3morgen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Politisk kvarter politisk_kvarter Nyheter">
+    <img src="https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Politisk kvarter</span>
+      <span class="sub">3502 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/politisk_kvarter.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/politisk_kvarter" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Popaganda popaganda Musikk">
+    <img src="https://gfx.nrk.no/zn_oOObDgdgSU7lNA3JURgdNPiym6iXNSlWWvuj25A7w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Popaganda</span>
+      <span class="sub">8 episoder · Musikk</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/popaganda.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/popaganda.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/popaganda" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Popkorn og politikk popkorn_og_politikk Nyheter">
+    <img src="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Popkorn og politikk</span>
+      <span class="sub">68 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/popkorn_og_politikk.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/popkorn_og_politikk.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/popkorn_og_politikk" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Psykologen psykologen Kultur og samfunn">
+    <img src="https://gfx.nrk.no/4UnIolBn5gQiau9F-T0NTAdzdD-_TiwnSB7M0Khd0-wQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Psykologen</span>
+      <span class="sub">261 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/psykologen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/psykologen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/psykologen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Purk eller skurk? purk_eller_skurk Dokumentar">
+    <img src="https://gfx.nrk.no/Rc21lBglcSlWeJp2zJ8EygJmyKajuyugtAZk6-q55Njg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Purk eller skurk?</span>
+      <span class="sub">11 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/purk_eller_skurk.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/purk_eller_skurk.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/purk_eller_skurk" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="På audition paa_audition Humor og prateprogram">
+    <img src="https://gfx.nrk.no/qdw2cbwlMR6eRI6xn4FAJAND4QNAvLZ2cdm1qcXjv4fw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">På audition</span>
+      <span class="sub">25 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/paa_audition.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/paa_audition.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/paa_audition" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Pålogga paalogga Kultur og samfunn">
+    <img src="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Pålogga</span>
+      <span class="sub">45 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/paalogga.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/paalogga.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/paalogga" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Radio Mørch radio_moerch Humor og prateprogram">
+    <img src="https://gfx.nrk.no/0w5PO-iKGUgfZW2D0Kop5AvS3Y2fpiKPquBZacop8UBw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Radio Mørch</span>
+      <span class="sub">113 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/radio_moerch.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/radio_moerch.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/radio_moerch" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Radio Utslagsnes radio_utslagsnes Humor og prateprogram">
+    <img src="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Radio Utslagsnes</span>
+      <span class="sub">42 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/radio_utslagsnes.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/radio_utslagsnes.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/radio_utslagsnes" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Radiolegen radiolegen Kultur og samfunn">
+    <img src="https://gfx.nrk.no/W3gj7ZpIzBr74hD04cWGFwMSa9gb3uNdS7h6vJLK-GBQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Radiolegen</span>
+      <span class="sub">269 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/radiolegen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/radiolegen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/radiolegen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Radiomat radiomat Kultur og samfunn">
+    <img src="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Radiomat</span>
+      <span class="sub">16 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/radiomat.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/radiomat.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/radiomat" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Radioresepsjonen radioresepsjonen Humor og prateprogram">
+    <img src="https://gfx.nrk.no/3oCYl9_lCRqTeFOTdegKYQGuByAX2h1jJN-Z6MvBaHWQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Radioresepsjonen</span>
+      <span class="sub">1588 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/radioresepsjonen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/radioresepsjonen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/radioresepsjonen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Radioresepsjonens arkivpodkast radioresepsjonens_arkivpodkast Humor og prateprogram">
+    <img src="https://gfx.nrk.no/fvxxwMjw1aRGB0BC8OKbeQi4gbN5859L0MlQbulWGZlg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Radioresepsjonens arkivpodkast</span>
+      <span class="sub">761 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/radioresepsjonens_arkivpodkast.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/radioresepsjonens_arkivpodkast.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/radioresepsjonens_arkivpodkast" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Radioteatret radioteatret Lyddrama">
+    <img src="https://gfx.nrk.no/vfe2FoMuWueIstUS-4HvBwYI3GEhujWJ7Hfs1i6JxxRg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Radioteatret</span>
+      <span class="sub">32 episoder · Lyddrama</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/radioteatret.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/radioteatret.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/radioteatret" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Reiseradioens sommerleker reiseradioens_sommerleker Humor og prateprogram">
+    <img src="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Reiseradioens sommerleker</span>
+      <span class="sub">40 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/reiseradioens_sommerleker.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/reiseradioens_sommerleker.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/reiseradioens_sommerleker" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Revolusjonen revolusjonen Dokumentar">
+    <img src="https://gfx.nrk.no/8PVb0_fz1TiH6IJf8Yzezwt-o0IBhi3YeGr6Uk3iyIuw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Revolusjonen</span>
+      <span class="sub">6 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/revolusjonen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/revolusjonen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/revolusjonen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Rød løype roed_loeype Lyddrama">
+    <img src="https://gfx.nrk.no/hpokGwPzrH9g8yuPmIC1Qgpkkc_c3OFJ5ygXdURJJ37Q" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Rød løype</span>
+      <span class="sub">6 episoder · Lyddrama</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/roed_loeype.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/roed_loeype.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/roed_loeype" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Røverradion i NRK P2 roeverradion_i_nrk_p2 Kultur og samfunn">
+    <img src="https://gfx.nrk.no/91Pj2RdHyjXGqb1xoiSgWA1UQpTP1omhELPMwOSZaqPg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Røverradion i NRK P2</span>
+      <span class="sub">273 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/roeverradion_i_nrk_p2.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/roeverradion_i_nrk_p2.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/roeverradion_i_nrk_p2" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Salongens lesesirkel  salongen Kultur og samfunn">
+    <img src="https://gfx.nrk.no/T4lIq9T2z2iBebCqghq4WgU8c_GbKMdHA1giyEZWmgMg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Salongens lesesirkel </span>
+      <span class="sub">1086 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/salongen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/salongen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/salongen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Satiriks redaksjonsmøte satiriks_redaksjonsmoete Humor og prateprogram">
+    <img src="https://gfx.nrk.no/qvzQSou3aqkgxdbN0jml1wyeSAMSLan0-RkmG6WakyEg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Satiriks redaksjonsmøte</span>
+      <span class="sub">106 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/satiriks_redaksjonsmoete.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/satiriks_redaksjonsmoete.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/satiriks_redaksjonsmoete" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Sentralbordet på NRK sentralbordet Humor og prateprogram">
+    <img src="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Sentralbordet på NRK</span>
+      <span class="sub">3 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/sentralbordet.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/sentralbordet" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Seriesnakk seriesnakk Kultur og samfunn">
+    <img src="https://gfx.nrk.no/WW8_6pnuyWIY2Xwytxp_5Ari4Frwqqm4mxNwJnD5jFtw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Seriesnakk</span>
+      <span class="sub">53 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/seriesnakk.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/seriesnakk.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/seriesnakk" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Sex over 60 sex_over_60 Kultur og samfunn">
+    <img src="https://gfx.nrk.no/X-5h7oJdPF1K_OBNrReMCQVZN1VinyDvOK1fHIc3yhRw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Sex over 60</span>
+      <span class="sub">24 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/sex_over_60.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/sex_over_60.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/sex_over_60" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Siesta siesta Humor og prateprogram">
+    <img src="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Siesta</span>
+      <span class="sub">325 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/siesta.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/siesta" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Sjakksnakk sjakksnakk Sport">
+    <img src="https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Sjakksnakk</span>
+      <span class="sub">6 episoder · Sport</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/sjakksnakk.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/sjakksnakk.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/sjakksnakk" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Skampod skampod Kultur og samfunn">
+    <img src="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Skampod</span>
+      <span class="sub">23 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/skampod.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/skampod.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/skampod" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Skiklubben skiklubben Sport">
+    <img src="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Skiklubben</span>
+      <span class="sub">178 episoder · Sport</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/skiklubben.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/skiklubben.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/skiklubben" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Skitprat med Jens og Isak skitprat Humor og prateprogram">
+    <img src="https://gfx.nrk.no/VsIt2hj0vZ6E-QPhOOBxtALQhzD1mqkEqPKfU-m2MIDg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Skitprat med Jens og Isak</span>
+      <span class="sub">42 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/skitprat.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/skitprat.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/skitprat" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Smartere på 10 minutter smartere_paa_10_minutter Kultur og samfunn">
+    <img src="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Smartere på 10 minutter</span>
+      <span class="sub">30 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/smartere_paa_10_minutter.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/smartere_paa_10_minutter.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/smartere_paa_10_minutter" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Snøfall snoefall Barn">
+    <img src="https://gfx.nrk.no/n3D7kBdE2OnDtSnxwxQUmAvZOkpNd2P9WrBl2M2Hk2LA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Snøfall</span>
+      <span class="sub">25 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/snoefall.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/snoefall.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/snoefall" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Sommer i P2 sommer_i_p2 Kultur og samfunn">
+    <img src="https://gfx.nrk.no/IgSbqXT7VJToEEYnDU0lMQ7XsMO_KvwRgPjqhQXkJboQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Sommer i P2</span>
+      <span class="sub">839 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/sommer_i_p2.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/sommer_i_p2.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/sommer_i_p2" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Sophie og Fetisha sophie_og_fetisha Humor og prateprogram">
+    <img src="https://gfx.nrk.no/eVQMG1CQea_jminRrsq0UQTvJ6RfiAnRR0JDWkMy3Low" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Sophie og Fetisha</span>
+      <span class="sub">25 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/sophie_og_fetisha.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/sophie_og_fetisha.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/sophie_og_fetisha" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="SOS Nødtelefonen sos_noedtelefonen Dokumentar">
+    <img src="https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">SOS Nødtelefonen</span>
+      <span class="sub">20 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/sos_noedtelefonen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/sos_noedtelefonen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/sos_noedtelefonen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Sportsdesken brenner sportsdesken_brenner Humor og prateprogram">
+    <img src="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Sportsdesken brenner</span>
+      <span class="sub">29 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/sportsdesken_brenner.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/sportsdesken_brenner.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/sportsdesken_brenner" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Språksnakk spraakteigen Kultur og samfunn">
+    <img src="https://gfx.nrk.no/b9bKez1OlAfKkJDldbfx9AM-CrVqGYIxCXzhPj2eTZMw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Språksnakk</span>
+      <span class="sub">656 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/spraakteigen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/spraakteigen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/spraakteigen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Spør for en venn spoer_for_en_venn Kultur og samfunn">
+    <img src="https://gfx.nrk.no/4-8Naikv05eMzyik0j5ObQ522tN3q9uHRw6AQ_WPt-ew" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Spør for en venn</span>
+      <span class="sub">37 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/spoer_for_en_venn.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/spoer_for_en_venn.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/spoer_for_en_venn" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Stanghelle stanghelle Kultur og samfunn">
+    <img src="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Stanghelle</span>
+      <span class="sub">109 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/stanghelle.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/stanghelle.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/stanghelle" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Statens mal for medarbeidersamtale statens_mal_for_medarbeidersamtale Humor og prateprogram">
+    <img src="https://gfx.nrk.no/xRP5wKPnLQ0Y4dTN8bK6-Q6gCzxavVunu2v3PXhToQHQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Statens mal for medarbeidersamtale</span>
+      <span class="sub">16 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/statens_mal_for_medarbeidersamtale.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/statens_mal_for_medarbeidersamtale.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/statens_mal_for_medarbeidersamtale" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Steinar og Bjørns bærbare fredagsparty steinar_og_bjoerns_baerbare_fredagsparty Humor og prateprogram">
+    <img src="https://gfx.nrk.no/CyifjASO521xpoSlbfrU1wHNU4CTTxi2PHKWm89uwcxQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Steinar og Bjørns bærbare fredagsparty</span>
+      <span class="sub">17 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/steinar_og_bjoerns_baerbare_fredagsparty.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/steinar_og_bjoerns_baerbare_fredagsparty.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/steinar_og_bjoerns_baerbare_fredagsparty" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Strid – de norske borgerkrigene strid Dokumentar">
+    <img src="https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Strid – de norske borgerkrigene</span>
+      <span class="sub">35 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/strid.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/strid.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/strid" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Strøm/Wasenius stroemwasenius Humor og prateprogram">
+    <img src="https://gfx.nrk.no/-HNV0ZtDKZzl1id44BMV4AIU-3PdD5bE6ysWmeWt8uxQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Strøm/Wasenius</span>
+      <span class="sub">77 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/stroemwasenius.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/stroemwasenius.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/stroemwasenius" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Ståle Utslagsnes fra Lønsj staale_utslagsnes_fra_loensj Humor og prateprogram">
+    <img src="https://gfx.nrk.no/EBmu_RsFRMLeutiASuvvawHb4WxuXQm0nl_VM59S7b9w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Ståle Utslagsnes fra Lønsj</span>
+      <span class="sub">162 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/staale_utslagsnes_fra_loensj.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/staale_utslagsnes_fra_loensj.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/staale_utslagsnes_fra_loensj" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Supernytt forklarer supernytt_forklarer Barn">
+    <img src="https://gfx.nrk.no/McgGBvK8QsMThfw4naZDKQ-PYjjAI7OJkzWAeCuoeYzg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Supernytt forklarer</span>
+      <span class="sub">11 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/supernytt_forklarer.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/supernytt_forklarer.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/supernytt_forklarer" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Supertrøtt supertroett Barn">
+    <img src="https://gfx.nrk.no/dhCz90zRlHrLO237nig6RQN9GLNPKvf8nQGrLjKWXCNw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Supertrøtt</span>
+      <span class="sub">4 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/supertroett.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/supertroett.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/supertroett" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Sámi Horror smi_horror Kultur og samfunn">
+    <img src="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Sámi Horror</span>
+      <span class="sub">45 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/smi_horror.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/smi_horror.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/smi_horror" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Sånn er du saann_er_du Humor og prateprogram">
+    <img src="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Sånn er du</span>
+      <span class="sub">90 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/saann_er_du.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/saann_er_du.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/saann_er_du" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Tazte Priv tazte_priv Humor og prateprogram">
+    <img src="https://gfx.nrk.no/-eh0jav1s7tlxCO1KsMpnAAmU17H1VlMc763wA80cP_w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Tazte Priv</span>
+      <span class="sub">12 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/tazte_priv.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/tazte_priv.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/tazte_priv" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Teige lydstudio teige_lydstudio Humor og prateprogram">
+    <img src="https://gfx.nrk.no/7BhjBkDwtl0SU3nWZwnY3g8ha83hp6QA5Dt_0n1VJCcw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Teige lydstudio</span>
+      <span class="sub">24 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/teige_lydstudio.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/teige_lydstudio.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/teige_lydstudio" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Tett på tett_paa Kultur og samfunn">
+    <img src="https://gfx.nrk.no/9sTHTDhsMbhwzrwrCTbttQ5ziXPYaRtC0gYC8S1A8nQQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Tett på</span>
+      <span class="sub">109 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/tett_paa.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/tett_paa.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/tett_paa" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="The Kåss Furuseths the_kaass_furuseths Humor og prateprogram">
+    <img src="https://gfx.nrk.no/TYgQUG0mDPhlNY9DEfUgjAbsyf869AQtYiqhYHLTuXyQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">The Kåss Furuseths</span>
+      <span class="sub">406 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/the_kaass_furuseths.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/the_kaass_furuseths.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/the_kaass_furuseths" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Timeout timeout Sport">
+    <img src="https://gfx.nrk.no/Jleg4mFYln8TwEXzf55z1gvJEx33VvMnLvUKEgG6XVlg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Timeout</span>
+      <span class="sub">24 episoder · Sport</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/timeout.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/timeout.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/timeout" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="To hvite menn to_hvite_menn Dokumentar">
+    <img src="https://gfx.nrk.no/iMH2Pryjg-YwdUCk7ARaNA3vJpwAkkK75u8vmc6gekyA" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">To hvite menn</span>
+      <span class="sub">6 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/to_hvite_menn.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/to_hvite_menn.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/to_hvite_menn" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Tomms afrikanske fortellinger tomms_afrikanske_fortellinger Kultur og samfunn">
+    <img src="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Tomms afrikanske fortellinger</span>
+      <span class="sub">17 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/tomms_afrikanske_fortellinger.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/tomms_afrikanske_fortellinger.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Tore og Einars podkast om Norge tore_og_einars_podkast_om_norge Humor og prateprogram">
+    <img src="https://gfx.nrk.no/5hE7rj7QbXRHDHa0pSgq6Q7oyARWxeZe4DHIIybIc8_A" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Tore og Einars podkast om Norge</span>
+      <span class="sub">16 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/tore_og_einars_podkast_om_norge.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/tore_og_einars_podkast_om_norge.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/tore_og_einars_podkast_om_norge" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Tore Sagens podkast tore_sagens_podkast Kultur og samfunn">
+    <img src="https://gfx.nrk.no/qqEmemUxotZ-oX_hYAuigQD_gOQeg0i5Ej9mX6yr9R1w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Tore Sagens podkast</span>
+      <span class="sub">26 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/tore_sagens_podkast.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/tore_sagens_podkast.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/tore_sagens_podkast" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Treningskompis treningskompis Sport">
+    <img src="https://gfx.nrk.no/UMIJK8n_DJ4y37_PzdcLZgUAhkr_7mosDc21_fDuK0vw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Treningskompis</span>
+      <span class="sub">31 episoder · Sport</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/treningskompis.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/treningskompis.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/treningskompis" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Trump mot verden trump_mot_verden Nyheter">
+    <img src="https://gfx.nrk.no/lFZ9UAzkAtORsmUPu3acKwNk6J7rjClUPmJQYlL8MJng" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Trump mot verden</span>
+      <span class="sub">96 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/trump_mot_verden.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/trump_mot_verden.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/trump_mot_verden" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Trygdekontoret trygdekontoret Kultur og samfunn">
+    <img src="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Trygdekontoret</span>
+      <span class="sub">165 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/trygdekontoret.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/trygdekontoret" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Træsh traesh Humor og prateprogram">
+    <img src="https://gfx.nrk.no/nRje9HKnrW4EvTsx1QJ90gZGZqMFqYK49hfIVXYhzGRQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Træsh</span>
+      <span class="sub">219 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/traesh.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/traesh.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/traesh" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Turister turister Lyddrama">
+    <img src="https://gfx.nrk.no/FYXRrnPsrW70xrmCvDypQAzudevmAbB5vgB3bhbCOf2Q" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Turister</span>
+      <span class="sub">7 episoder · Lyddrama</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/turister.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/turister.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/turister" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Tyrann tyrann Dokumentar">
+    <img src="https://gfx.nrk.no/mEsD2gjWKWyF0ObWYunN7Aoe3owpZh5t5Nnxik0lcmkg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Tyrann</span>
+      <span class="sub">92 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/tyrann.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/tyrann.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/tyrann" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Ubåtsaken ubaatsaken Dokumentar">
+    <img src="https://gfx.nrk.no/av2H4iJqVbRD7vV6gTPWkg9HwYAPLRsdG4zPYpMYXB4A" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Ubåtsaken</span>
+      <span class="sub">5 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/ubaatsaken.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/ubaatsaken.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/ubaatsaken" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Ukeslutt ukeslutt Nyheter">
+    <img src="https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Ukeslutt</span>
+      <span class="sub">750 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/ukeslutt.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/ukeslutt" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Ukjent: Er det noen der ute? ukjent Dokumentar">
+    <img src="https://gfx.nrk.no/VC4kwf4W3OAJTtBia8uLBAIDjv5RoVRUifUgcpgAgj8w" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Ukjent: Er det noen der ute?</span>
+      <span class="sub">9 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/ukjent.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/ukjent.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/ukjent" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Ulrikkes univers ulrikkes_univers Kultur og samfunn">
+    <img src="https://gfx.nrk.no/CjoxYTqWaNmpvQhlNFm4MQUOUO-3i_GW25YFkIyGgxJg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Ulrikkes univers</span>
+      <span class="sub">10 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/ulrikkes_univers.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/ulrikkes_univers.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/ulrikkes_univers" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Urix verden_paa_loerdag Nyheter">
+    <img src="https://gfx.nrk.no/VrUfyeq5_4iucMYKTPh1Sw37Ex-urgKCmFtXXCmBuwag" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Urix</span>
+      <span class="sub">928 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/verden_paa_loerdag.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/verden_paa_loerdag.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/verden_paa_loerdag" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Utakt utakt Humor og prateprogram">
+    <img src="https://gfx.nrk.no/OhYq21paujf1eCCwJAXGfwHSUUFwq1VH2jf_833wDg4g" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Utakt</span>
+      <span class="sub">972 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/utakt.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/utakt.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/utakt" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Utro, håp og kjærlighet utro_haap_og_kjaerlighet Humor og prateprogram">
+    <img src="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Utro, håp og kjærlighet</span>
+      <span class="sub">83 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/utro_haap_og_kjaerlighet.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Valg valg Nyheter">
+    <img src="https://gfx.nrk.no/HVmwxKtHy37PuEI9sPy7MgSNqqUscjH82az-U0R-Odww" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Valg</span>
+      <span class="sub">63 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/valg.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/valg.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/valg" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Verdens ekleste podkast verdens_ekleste_podkast Barn">
+    <img src="https://gfx.nrk.no/I-vp-GiV5MBNs1ju-MhyfgFu4ORDMmPwjOKbPPoUv2HQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Verdens ekleste podkast</span>
+      <span class="sub">12 episoder · Barn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/verdens_ekleste_podkast.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/verdens_ekleste_podkast.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/verdens_ekleste_podkast" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Verdens Rikeste Land verdens_rikeste_land Humor og prateprogram">
+    <img src="https://gfx.nrk.no/MF8U9HGIJy0U84Vj0VJPdAX_XraEiz_-a4TXo0mc2SNg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Verdens Rikeste Land</span>
+      <span class="sub">862 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/verdens_rikeste_land.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/verdens_rikeste_land.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/verdens_rikeste_land" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Verdibørsen verdiboersen Nyheter">
+    <img src="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Verdibørsen</span>
+      <span class="sub">1962 episoder · Nyheter</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/verdiboersen.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/verdiboersen" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="VG3 vg3 Dokumentar">
+    <img src="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">VG3</span>
+      <span class="sub">15 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/vg3.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/vg3.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/vg3" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Vikinger vikinger Lyddrama">
+    <img src="https://gfx.nrk.no/M3xKXaVWQAm1ecAE-YfDRAH9RpEWv16hjM-HvfKIYCmw" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Vikinger</span>
+      <span class="sub">9 episoder · Lyddrama</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/vikinger.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/vikinger.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/vikinger" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Vittig vittig Humor og prateprogram">
+    <img src="https://gfx.nrk.no/oMC-4H0pZqseaG54YFkcoAcprx2bK2NVoUDYQ9yK42Ag" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Vittig</span>
+      <span class="sub">120 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/vittig.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/vittig.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/vittig" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Westworld-podden westworld-podden Kultur og samfunn">
+    <img src="https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Westworld-podden</span>
+      <span class="sub">12 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/westworld-podden.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/westworld-podden.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/westworld-podden" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="XL – podkasten xl_podkasten Humor og prateprogram">
+    <img src="https://gfx.nrk.no/nqIRlhtxyF35TlALDzD0ggObot8931ArkY8dqAP2ctew" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">XL – podkasten</span>
+      <span class="sub">40 episoder · Humor og prateprogram</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/xl_podkasten.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/xl_podkasten.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/xl_podkasten" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Åpen bok bok_i_p2 Kultur og samfunn">
+    <img src="https://gfx.nrk.no/ckFgkDLqhnHPTmU5He4TYw5ALOdFd9G8MoU2ADJ-kDUg" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Åpen bok</span>
+      <span class="sub">2417 episoder · Kultur og samfunn</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/bok_i_p2.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/bok_i_p2.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/bok_i_p2" rel="noopener">NRK</a>
+    </div>
+  </li>
+  <li data-search="Øyeblikket yeblikket Dokumentar">
+    <img src="https://gfx.nrk.no/dm7qFxk37M7cWgVMkQwQJAultzBkkCc1vSp8h5IRWhJQ" alt="" loading="lazy" width="56" height="56">
+    <div class="meta">
+      <span class="title">Øyeblikket</span>
+      <span class="sub">40 episoder · Dokumentar</span>
+    </div>
+    <div class="links">
+      <a class="primary" href="feeds/yeblikket.xml">RSS</a>
+      <button type="button" class="copy" data-url="https://Demoniskk.github.io/nrk-rss/feeds/yeblikket.xml">Kopier</button>
+      <a href="https://radio.nrk.no/podkast/yeblikket" rel="noopener">NRK</a>
+    </div>
+  </li>
+</ul>
+
+<p class="empty" id="empty" hidden>Ingen podkaster matcher søket.</p>
+<details class="failures">
+  <summary>1 podkast(er) feilet under siste kjøring</summary>
+  <ul>
+    <li><code>hos_peder</code>: fetching podcast metadata: nrkapi: not found: https://psapi.nrk.no/radio/catalog/podcast/hos_peder</li>
+  </ul>
+</details>
+
+<footer>
+  <p>
+    Feedene lenker til lydfiler NRK selv publiserer; ingen lyd lastes ned eller re-hostes her.
+    Maskinlesbar oversikt: <a href="feeds.json">feeds.json</a>.
+  </p>
+</footer>
+
+</div>
+<script>
+(function () {
+  var input = document.getElementById('q');
+  var list = document.getElementById('list');
+  var empty = document.getElementById('empty');
+  var count = document.getElementById('count');
+  var items = Array.prototype.slice.call(list.getElementsByTagName('li'));
+
+  
+  var haystacks = items.map(function (li) {
+    return (li.getAttribute('data-search') || '').toLowerCase();
+  });
+
+  function filter() {
+    var q = input.value.trim().toLowerCase();
+    var shown = 0;
+    for (var i = 0; i < items.length; i++) {
+      var match = q === '' || haystacks[i].indexOf(q) !== -1;
+      items[i].hidden = !match;
+      if (match) shown++;
+    }
+    empty.hidden = shown !== 0;
+    count.hidden = q === '';
+    count.textContent = shown + ' treff';
+  }
+
+  input.addEventListener('input', filter);
+  filter();
+
+  list.addEventListener('click', function (ev) {
+    var btn = ev.target.closest ? ev.target.closest('button.copy') : null;
+    if (!btn || !navigator.clipboard) return;
+
+    
+    
+    
+    var url = new URL(btn.getAttribute('data-url'), location.href).href;
+    navigator.clipboard.writeText(url).then(function () {
+      var original = btn.textContent;
+      btn.textContent = 'Kopiert!';
+      setTimeout(function () { btn.textContent = original; }, 1200);
+    });
+  });
+})();
+</script>
+</body>
+</html>

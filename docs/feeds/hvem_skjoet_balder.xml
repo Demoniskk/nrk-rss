@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hvem skjøt Balder?</title>
+    <link>https://radio.nrk.no/podkast/hvem_skjoet_balder</link>
+    <description>Den peneste og snilleste guden i Åsgard er drept. Journalisten Eva Strande blir sendt til gudenes verden for å etterforske saken. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 27 Mar 2026 05:06:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/hvem_skjoet_balder.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Den peneste og snilleste guden i Åsgard er drept. Journalisten Eva Strande blir sendt til gudenes verden for å etterforske saken. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/k9PMYG7M3FE06kOaOed-uwnfdBEgNedtEaT5HL4tMrQw"></itunes:image>
+    <itunes:category text="Fiction"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/k9PMYG7M3FE06kOaOed-uwnfdBEgNedtEaT5HL4tMrQw</url>
+      <title>Hvem skjøt Balder?</title>
+      <link>https://radio.nrk.no/podkast/hvem_skjoet_balder</link>
+    </image>
+    <item>
+      <title>En morder (7:7)</title>
+      <link>https://radio.nrk.no/podkast/hvem_skjoet_balder/l_3a317f67-1927-4967-b17f-6719273967da</link>
+      <description>En siste gud mistenkes for drapet på Balder og endelig blir morderen avslørt. Eller?</description>
+      <guid isPermaLink="false">l_3a317f67-1927-4967-b17f-6719273967da</guid>
+      <pubDate>Fri, 27 Mar 2026 06:06:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hvem_skjoet_balder/3a317f67-1927-4967-b17f-6719273967da_1_ID192MP3.mp3" type="audio/mpeg" length="27630764"></enclosure>
+      <itunes:title>En morder (7:7)</itunes:title>
+      <itunes:summary>En siste gud mistenkes for drapet på Balder og endelig blir morderen avslørt. Eller?</itunes:summary>
+      <itunes:duration>1151</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gJgB7HvunDqdcxDeCSc23wG3fgWwg7r9WxS4EOIYQRog"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>En fangehule (6:7)</title>
+      <link>https://radio.nrk.no/podkast/hvem_skjoet_balder/l_dcc20f45-f699-4186-820f-45f6993186cd</link>
+      <description>Blodspor, skrik og hud som revner. Eva nærmer seg morderen</description>
+      <guid isPermaLink="false">l_dcc20f45-f699-4186-820f-45f6993186cd</guid>
+      <pubDate>Fri, 27 Mar 2026 06:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hvem_skjoet_balder/dcc20f45-f699-4186-820f-45f6993186cd_1_ID192MP3.mp3" type="audio/mpeg" length="23363756"></enclosure>
+      <itunes:title>En fangehule (6:7)</itunes:title>
+      <itunes:summary>Blodspor, skrik og hud som revner. Eva nærmer seg morderen</itunes:summary>
+      <itunes:duration>973</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8kqS9OyKR_5BHWVCe060dgdLRaOxdJRi6kDa38_WXrkQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Et mordvåpen (5:7)</title>
+      <link>https://radio.nrk.no/podkast/hvem_skjoet_balder/l_06927e8f-443b-42b8-927e-8f443b02b87d</link>
+      <description>Eva krangler, drikker seg full og finner ut av hva som drepte Balder.</description>
+      <guid isPermaLink="false">l_06927e8f-443b-42b8-927e-8f443b02b87d</guid>
+      <pubDate>Fri, 27 Mar 2026 06:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hvem_skjoet_balder/06927e8f-443b-42b8-927e-8f443b02b87d_1_ID192MP3.mp3" type="audio/mpeg" length="22450796"></enclosure>
+      <itunes:title>Et mordvåpen (5:7)</itunes:title>
+      <itunes:summary>Eva krangler, drikker seg full og finner ut av hva som drepte Balder.</itunes:summary>
+      <itunes:duration>935</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bHkOjqahlndxmnrY94dRcwTTuw_xM91F0RUq92138MOg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>En bålferd (4:7)</title>
+      <link>https://radio.nrk.no/podkast/hvem_skjoet_balder/l_1fb36ac3-5985-4cbf-b36a-c359858cbfe3</link>
+      <description>Trusler, mistenkte og nye bevis. Alt går i surr under Balders bålferd.</description>
+      <guid isPermaLink="false">l_1fb36ac3-5985-4cbf-b36a-c359858cbfe3</guid>
+      <pubDate>Fri, 27 Mar 2026 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hvem_skjoet_balder/1fb36ac3-5985-4cbf-b36a-c359858cbfe3_1_ID192MP3.mp3" type="audio/mpeg" length="30909932"></enclosure>
+      <itunes:title>En bålferd (4:7)</itunes:title>
+      <itunes:summary>Trusler, mistenkte og nye bevis. Alt går i surr under Balders bålferd.</itunes:summary>
+      <itunes:duration>1287</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JXfZKCsUIiNxRXSXkSmkMg44SWiQiWf4j_7bFR3Qp8gA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Et avkappet hode (3:7)</title>
+      <link>https://radio.nrk.no/podkast/hvem_skjoet_balder/l_dda4bc48-a6cf-49da-a4bc-48a6cf39da67</link>
+      <description>Broren til Balder mistenkes for drapet, mens Eva mistenkes for løgn.</description>
+      <guid isPermaLink="false">l_dda4bc48-a6cf-49da-a4bc-48a6cf39da67</guid>
+      <pubDate>Fri, 27 Mar 2026 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hvem_skjoet_balder/dda4bc48-a6cf-49da-a4bc-48a6cf39da67_1_ID192MP3.mp3" type="audio/mpeg" length="29583980"></enclosure>
+      <itunes:title>Et avkappet hode (3:7)</itunes:title>
+      <itunes:summary>Broren til Balder mistenkes for drapet, mens Eva mistenkes for løgn.</itunes:summary>
+      <itunes:duration>1232</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tbCinWu751xlR2yK9GgTCwlTS8wUI5uO-OA4BesSmF_g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Et slagsmål (2:7)</title>
+      <link>https://radio.nrk.no/podkast/hvem_skjoet_balder/l_70349b43-9b14-4091-b49b-439b1460917c</link>
+      <description>Loke mistenkes, Eva avslører nye spor og Heimdall er øltørst.</description>
+      <guid isPermaLink="false">l_70349b43-9b14-4091-b49b-439b1460917c</guid>
+      <pubDate>Fri, 27 Mar 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hvem_skjoet_balder/70349b43-9b14-4091-b49b-439b1460917c_1_ID192MP3.mp3" type="audio/mpeg" length="19076588"></enclosure>
+      <itunes:title>Et slagsmål (2:7)</itunes:title>
+      <itunes:summary>Loke mistenkes, Eva avslører nye spor og Heimdall er øltørst.</itunes:summary>
+      <itunes:duration>794</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uL0VDprm83QVHYmy6KXvSw8p-unXw-uiSxZk2G0ybHSQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>En død kropp (1:7)</title>
+      <link>https://radio.nrk.no/podkast/hvem_skjoet_balder/l_ecef71d8-aecf-4d9b-af71-d8aecfed9b49</link>
+      <description>Når Eva Strande får vite om drapet på en norrøn gud, tvinges hun inn i en ukjent og dødelig verden.</description>
+      <guid isPermaLink="false">l_ecef71d8-aecf-4d9b-af71-d8aecfed9b49</guid>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hvem_skjoet_balder/ecef71d8-aecf-4d9b-af71-d8aecfed9b49_1_ID192MP3.mp3" type="audio/mpeg" length="29778668"></enclosure>
+      <itunes:title>En død kropp (1:7)</itunes:title>
+      <itunes:summary>Når Eva Strande får vite om drapet på en norrøn gud, tvinges hun inn i en ukjent og dødelig verden.</itunes:summary>
+      <itunes:duration>1240</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9ZOAFizvvlsBD0lUhurSFA6gI1rWlg1hBC5YdoDANEGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

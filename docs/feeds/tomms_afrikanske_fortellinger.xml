@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomms afrikanske fortellinger</title>
+    <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger</link>
+    <description>Tomm Kristiansen har vært Afrika-korrespondent for NRK i mange år. Han har truffet mennesker i byen og i bushen og vært øyenvitne til de flere av Afrikas viktigste øyeblikk. I denne podcastserien forteller han personlig om hvordan han husker menneskene og begivenhetene som har preget vår samtid.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Thu, 15 Apr 2021 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/tomms_afrikanske_fortellinger.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Tomm Kristiansen har vært Afrika-korrespondent for NRK i mange år. Han har truffet mennesker i byen og i bushen og vært øyenvitne til de flere av Afrikas viktigste øyeblikk. I denne podcastserien forteller han personlig om hvordan han husker menneskene og begivenhetene som har preget vår samtid.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw</url>
+      <title>Tomms afrikanske fortellinger</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger</link>
+    </image>
+    <item>
+      <title>Hva er det med Sør-Sudan?</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_2683a809-b471-48dc-83a8-09b47188dcca</link>
+      <description>Tomm Kristiansen blir hyret inn som rådgiver for Sør-Sudans president, Salva Kiir, en mann med all makt, men ingen kunnskaper eller utdannelse.</description>
+      <guid isPermaLink="false">l_2683a809-b471-48dc-83a8-09b47188dcca</guid>
+      <pubDate>Thu, 15 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/c21f6344-07f9-4d71-bc90-045721179576_0_ID192MP3.mp3" type="audio/mpeg" length="81898950"></enclosure>
+      <itunes:title>Hva er det med Sør-Sudan?</itunes:title>
+      <itunes:summary>Tomm Kristiansen blir hyret inn som rådgiver for Sør-Sudans president, Salva Kiir, en mann med all makt, men ingen kunnskaper eller utdannelse.</itunes:summary>
+      <itunes:duration>3412</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw08-lJiKzD8HCjpiUq2Ornw.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2021">202104</podcast:season>
+    </item>
+    <item>
+      <title>Number One</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_149fca07-5767-4ba0-9fca-075767dba0f7</link>
+      <description>Jacob Zuma var gjetergutten som skulle frigjøre de svarte i Sør-Afrika, men som endte opp med å bli den mest korrupte president som landet har sett.</description>
+      <guid isPermaLink="false">l_149fca07-5767-4ba0-9fca-075767dba0f7</guid>
+      <pubDate>Thu, 08 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/ac8ba493-1128-4f5b-a26e-55c1511819e1_0_ID192MP3.mp3" type="audio/mpeg" length="57832503"></enclosure>
+      <itunes:title>Number One</itunes:title>
+      <itunes:summary>Jacob Zuma var gjetergutten som skulle frigjøre de svarte i Sør-Afrika, men som endte opp med å bli den mest korrupte president som landet har sett.</itunes:summary>
+      <itunes:duration>2409</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2021">202104</podcast:season>
+    </item>
+    <item>
+      <title>Kenyas farligste folkefiende </title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_d613f788-e4f9-4d19-93f7-88e4f99d19b5</link>
+      <description>Få visste at Koigi wa Wamwere, familiemannen fra Kolbotn, var Kenyas samfunnsfiende nummer én og at regimet mistenkte ham for å planlegge statskupp.</description>
+      <guid isPermaLink="false">l_d613f788-e4f9-4d19-93f7-88e4f99d19b5</guid>
+      <pubDate>Sat, 03 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/7d1a2e97-a098-4575-9f7a-30a48a5c018b_0_ID192MP3.mp3" type="audio/mpeg" length="58012267"></enclosure>
+      <itunes:title>Kenyas farligste folkefiende </itunes:title>
+      <itunes:summary>Få visste at Koigi wa Wamwere, familiemannen fra Kolbotn, var Kenyas samfunnsfiende nummer én og at regimet mistenkte ham for å planlegge statskupp.</itunes:summary>
+      <itunes:duration>2417</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UfqvI_csXqN7Z_UN0DrRswXmK7zV1UwHQfasHYEqgn8Q.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2021">202104</podcast:season>
+    </item>
+    <item>
+      <title>Gud i Afrika</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_c9ca3824-eddc-44c8-8a38-24eddc34c844</link>
+      <description>I følge hvite prester var raseskillet i Afrika etter Guds vilje, men erkebiskop Desmond Tutu overbeviser Tomm om at Gud er en svart kvinne.</description>
+      <guid isPermaLink="false">l_c9ca3824-eddc-44c8-8a38-24eddc34c844</guid>
+      <pubDate>Fri, 02 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/dd6208e0-5c20-49b2-bfb4-85fae195d7c8_0_ID192MP3.mp3" type="audio/mpeg" length="57462168"></enclosure>
+      <itunes:title>Gud i Afrika</itunes:title>
+      <itunes:summary>I følge hvite prester var raseskillet i Afrika etter Guds vilje, men erkebiskop Desmond Tutu overbeviser Tomm om at Gud er en svart kvinne.</itunes:summary>
+      <itunes:duration>2394</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TjPNfAkJkUkRoyiR6V9xhAPDQacHqQA_MO0bHuRk44mw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2021">202104</podcast:season>
+    </item>
+    <item>
+      <title>Skapelsen av Etiopia</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_91b582b4-bc33-49b0-b582-b4bc3319b0db</link>
+      <description>Hvis det stemmer at dronningen av Saba forførte kong Salomo for tre tusen år siden, så stemmer det kanskje at ungen hun fikk ble keiser av Etiopia? Og at Haille Selassie, den siste keiseren, var i slekt med ham. Han som ble styrtet og begravd i en utedass, men hva har det med Bob Marley å gjøre? Tomm har reist til Etiopia for å finne ut av hvordan dette fantastiske landet er blitt til. Det har blitt en utrolig reise som strekker over flere kontinenter og tusener av år.&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_91b582b4-bc33-49b0-b582-b4bc3319b0db</guid>
+      <pubDate>Thu, 01 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/79300c8d-df69-4875-a19a-79ea88417d85_0_ID192MP3.mp3" type="audio/mpeg" length="62981414"></enclosure>
+      <itunes:title>Skapelsen av Etiopia</itunes:title>
+      <itunes:summary>Hvis det stemmer at dronningen av Saba forførte kong Salomo for tre tusen år siden, så stemmer det kanskje at ungen hun fikk ble keiser av Etiopia? Og at Haille Selassie, den siste keiseren, var i slekt med ham. Han som ble styrtet og begravd i en utedass, men hva har det med Bob Marley å gjøre? Tomm har reist til Etiopia for å finne ut av hvordan dette fantastiske landet er blitt til. Det har blitt en utrolig reise som strekker over flere kontinenter og tusener av år.&#xA;&#xA;</itunes:summary>
+      <itunes:duration>2624</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TjPNfAkJkUkRoyiR6V9xhAPDQacHqQA_MO0bHuRk44mw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2021">202104</podcast:season>
+    </item>
+    <item>
+      <title>Ny podkast 1. april: Tomms Afrikanske Fortellinger </title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_6b09cf84-c81d-4c2c-89cf-84c81ddc2cf5</link>
+      <description> Tomms Afrikanske Fortellinger</description>
+      <guid isPermaLink="false">l_6b09cf84-c81d-4c2c-89cf-84c81ddc2cf5</guid>
+      <pubDate>Thu, 01 Apr 2021 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/7234d324-fe09-4458-8853-bb7bfff31213_0_ID192MP3.mp3" type="audio/mpeg" length="909925"></enclosure>
+      <itunes:title>Ny podkast 1. april: Tomms Afrikanske Fortellinger </itunes:title>
+      <itunes:summary> Tomms Afrikanske Fortellinger</itunes:summary>
+      <itunes:duration>37</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UfqvI_csXqN7Z_UN0DrRswuvPC6vGpbNcfasHYEqgn8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2021">202104</podcast:season>
+    </item>
+    <item>
+      <title>De truede bokskattene i Mali</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_69a58d99-242d-434e-a58d-99242d634e3a</link>
+      <description>For tusen år siden lå det en universitetsby i Sahara med én million bøker og sjeldne håndskrifter. I 2012 kom terrorbevegelsen al Qaida til byen for å brenne opp alt sammen. Én mann bestemte seg for å forsøke å redde denne verdensarven. Tomm Kristiansen forteller den dramatiske historien fra Mali i podkasten «Tomms afrikanske fortellinger».</description>
+      <guid isPermaLink="false">l_69a58d99-242d-434e-a58d-99242d634e3a</guid>
+      <pubDate>Tue, 04 Feb 2020 04:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/1e3e459a-b018-495c-9818-2cd43a94513d_0_ID192MP3.mp3" type="audio/mpeg" length="36187496"></enclosure>
+      <itunes:title>De truede bokskattene i Mali</itunes:title>
+      <itunes:summary>For tusen år siden lå det en universitetsby i Sahara med én million bøker og sjeldne håndskrifter. I 2012 kom terrorbevegelsen al Qaida til byen for å brenne opp alt sammen. Én mann bestemte seg for å forsøke å redde denne verdensarven. Tomm Kristiansen forteller den dramatiske historien fra Mali i podkasten «Tomms afrikanske fortellinger».</itunes:summary>
+      <itunes:duration>1507</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2020">202002</podcast:season>
+    </item>
+    <item>
+      <title>Hvordan fant Stanley egentlig doktor Livingstone?</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_b4c496c7-31a6-4042-8496-c731a64042f5</link>
+      <description>Dr. Livingstone var forsvunnet i Afrika og journalisten Henry M. Stanley dro ut for å finne ham. Og fant ham. Over hundre år senere dro Tomm Kristiansen den samme veien, og fant etterkommerne av dem som hjalp Stanley. Historien er ikke helt slik du  har hørt den før.</description>
+      <guid isPermaLink="false">l_b4c496c7-31a6-4042-8496-c731a64042f5</guid>
+      <pubDate>Tue, 28 Jan 2020 04:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/232f7dc1-b237-45df-bbd9-b39295f6949a_0_ID192MP3.mp3" type="audio/mpeg" length="53064284"></enclosure>
+      <itunes:title>Hvordan fant Stanley egentlig doktor Livingstone?</itunes:title>
+      <itunes:summary>Dr. Livingstone var forsvunnet i Afrika og journalisten Henry M. Stanley dro ut for å finne ham. Og fant ham. Over hundre år senere dro Tomm Kristiansen den samme veien, og fant etterkommerne av dem som hjalp Stanley. Historien er ikke helt slik du  har hørt den før.</itunes:summary>
+      <itunes:duration>2210</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2020">202001</podcast:season>
+    </item>
+    <item>
+      <title>Barnas hær i Uganda</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_f86d5336-7f79-46c6-ad53-367f79a6c6b9</link>
+      <description>Den kristne korgutten Joseph ville overta Uganda og styre landet etter de ti bud. Han lagde sin egen hær med barnesoldater  av bortførte små gutter. Småjenter ble også kidnappet,  60 av dem ble hans koner. Joseph Kony ble en av verdens  mest fryktede krigsherrer. Han destabiliserte en hel region. Men hva skjedde med barna? Tomm Kristiansen forteller den utrolige historien om &#34;Herrens motstandshær&#34; i denne episoden av «Tomms afrikanske fortellinger» .&#xA;</description>
+      <guid isPermaLink="false">l_f86d5336-7f79-46c6-ad53-367f79a6c6b9</guid>
+      <pubDate>Tue, 21 Jan 2020 04:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/74756850-e149-4df7-863f-b6ce0c626479_0_ID192MP3.mp3" type="audio/mpeg" length="47269720"></enclosure>
+      <itunes:title>Barnas hær i Uganda</itunes:title>
+      <itunes:summary>Den kristne korgutten Joseph ville overta Uganda og styre landet etter de ti bud. Han lagde sin egen hær med barnesoldater  av bortførte små gutter. Småjenter ble også kidnappet,  60 av dem ble hans koner. Joseph Kony ble en av verdens  mest fryktede krigsherrer. Han destabiliserte en hel region. Men hva skjedde med barna? Tomm Kristiansen forteller den utrolige historien om &#34;Herrens motstandshær&#34; i denne episoden av «Tomms afrikanske fortellinger» .&#xA;</itunes:summary>
+      <itunes:duration>1969</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2020">202001</podcast:season>
+    </item>
+    <item>
+      <title>I Nigeria spøker du ikke med profeten</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_8148847a-bf74-4585-8884-7abf74d585d3</link>
+      <description>Hun var 22 år, journalist, og hadde skrevet flåsete om profeten. Derfor ble avishuset hun jobbet i brent ned, to hundre  mennesker ble drept. Og den 22 år gamle journalisten forsvant. Du aner ikke hvor hun dukket opp. Tomm Kristiansen forteller den fantastiske historien i podkasten «Tomms afrikanske fortellinger».&#xA;</description>
+      <guid isPermaLink="false">l_8148847a-bf74-4585-8884-7abf74d585d3</guid>
+      <pubDate>Tue, 14 Jan 2020 04:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/tomms_afrikanske_fortellinger_2020-01-14_0300_944.MP3" type="audio/mpeg" length="36535359"></enclosure>
+      <itunes:title>I Nigeria spøker du ikke med profeten</itunes:title>
+      <itunes:summary>Hun var 22 år, journalist, og hadde skrevet flåsete om profeten. Derfor ble avishuset hun jobbet i brent ned, to hundre  mennesker ble drept. Og den 22 år gamle journalisten forsvant. Du aner ikke hvor hun dukket opp. Tomm Kristiansen forteller den fantastiske historien i podkasten «Tomms afrikanske fortellinger».&#xA;</itunes:summary>
+      <itunes:duration>1518</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2020">202001</podcast:season>
+    </item>
+    <item>
+      <title>Generalen som ville stoppe folkemordet i Rwanda </title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_669ea92e-63e7-466a-9ea9-2e63e7966a62</link>
+      <description>FN-generalen i Rwanda skrek til sjefene sine i New York at det kom til å bli et folkemord i Rwanda. Men ingen ville lytte, ingen grep inn. Så kom folkemordet. 800.000 sivile drept på hundre dager. Og generalen brøt sammen. Tomm Kristiansen forteller om hva som skjedde i Rwanda i 1994 i podkasten «Tomms afrikanske fortellinger». </description>
+      <guid isPermaLink="false">l_669ea92e-63e7-466a-9ea9-2e63e7966a62</guid>
+      <pubDate>Tue, 07 Jan 2020 04:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/tomms_afrikanske_fortellinger_2020-01-07_0300_2519.MP3" type="audio/mpeg" length="43292513"></enclosure>
+      <itunes:title>Generalen som ville stoppe folkemordet i Rwanda </itunes:title>
+      <itunes:summary>FN-generalen i Rwanda skrek til sjefene sine i New York at det kom til å bli et folkemord i Rwanda. Men ingen ville lytte, ingen grep inn. Så kom folkemordet. 800.000 sivile drept på hundre dager. Og generalen brøt sammen. Tomm Kristiansen forteller om hva som skjedde i Rwanda i 1994 i podkasten «Tomms afrikanske fortellinger». </itunes:summary>
+      <itunes:duration>1800</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2020">202001</podcast:season>
+    </item>
+    <item>
+      <title>Liberia i kaos og oppløsning.</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_253e8526-2b59-48af-be85-262b5998af2f</link>
+      <description>Geriljaleder Charles Taylor makten i et kaotiske Liberia. Han endte i et fengsel i England, dømt for forbrytelser mot menneskeheten.  Afrika-korrespondent Tomm Kristiansen tok seg inn i Liberia første gang på nittitallet og traff militsledere med torturvideoer og damer som truet med å kle av seg, for freden.   Vi møter også barnesoldater, fredshelter og politikere med tvilsom fortid.&#xA;&#xA;Lyddesign: Lillian Grønning</description>
+      <guid isPermaLink="false">l_253e8526-2b59-48af-be85-262b5998af2f</guid>
+      <pubDate>Wed, 10 Apr 2019 03:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/tomms_afrikanske_fortellinger_2019-04-10_0100_1055.MP3" type="audio/mpeg" length="44931298"></enclosure>
+      <itunes:title>Liberia i kaos og oppløsning.</itunes:title>
+      <itunes:summary>Geriljaleder Charles Taylor makten i et kaotiske Liberia. Han endte i et fengsel i England, dømt for forbrytelser mot menneskeheten.  Afrika-korrespondent Tomm Kristiansen tok seg inn i Liberia første gang på nittitallet og traff militsledere med torturvideoer og damer som truet med å kle av seg, for freden.   Vi møter også barnesoldater, fredshelter og politikere med tvilsom fortid.&#xA;&#xA;Lyddesign: Lillian Grønning</itunes:summary>
+      <itunes:duration>1868</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2019">201904</podcast:season>
+    </item>
+    <item>
+      <title> Kampen mot Nigerias sharia-lover</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_492fd79f-852a-491d-afd7-9f852a791d12</link>
+      <description>Amina Laval fra det nordlige Nigeria ble gravid på feil tidspunkt og den nye sharialoven var klar: Hun skulle steines midt i byen. Men så grep en jevnaldrende kvinne inn. Hun var advokat. Følg denne spennende historien i &#34;Tomm afrikanske fortellinger&#34; hvor Tomm Kristiansen beveger seg langt ut på landsbygda.&#xA;Lyddesign: Lillian Grønning&#xA;</description>
+      <guid isPermaLink="false">l_492fd79f-852a-491d-afd7-9f852a791d12</guid>
+      <pubDate>Wed, 03 Apr 2019 12:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/tomms_afrikanske_fortellinger_2019-04-03_1005_1364.MP3" type="audio/mpeg" length="31289128"></enclosure>
+      <itunes:title> Kampen mot Nigerias sharia-lover</itunes:title>
+      <itunes:summary>Amina Laval fra det nordlige Nigeria ble gravid på feil tidspunkt og den nye sharialoven var klar: Hun skulle steines midt i byen. Men så grep en jevnaldrende kvinne inn. Hun var advokat. Følg denne spennende historien i &#34;Tomm afrikanske fortellinger&#34; hvor Tomm Kristiansen beveger seg langt ut på landsbygda.&#xA;Lyddesign: Lillian Grønning&#xA;</itunes:summary>
+      <itunes:duration>1299</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2019">201904</podcast:season>
+    </item>
+    <item>
+      <title>Zimbabwes tragedie</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_75e71bbb-4e77-4397-a71b-bb4e77a3979a</link>
+      <description>President Robert Mugabe skulle sitte til han ble 100 år. Men generalene satte ham i husarrest og så ble han avsatt. Hva skjedde bak de lukkede dører. Det var meget høflig og formelt. Tomm Kristiansen om det som skjedde da i Zimbabwe da Mugabe måtte gå.&#xA;Lyddesign: Lillian Grønning</description>
+      <guid isPermaLink="false">l_75e71bbb-4e77-4397-a71b-bb4e77a3979a</guid>
+      <pubDate>Wed, 27 Mar 2019 03:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/tomms_afrikanske_fortellinger_2019-03-27_0201_2468.MP3" type="audio/mpeg" length="46040347"></enclosure>
+      <itunes:title>Zimbabwes tragedie</itunes:title>
+      <itunes:summary>President Robert Mugabe skulle sitte til han ble 100 år. Men generalene satte ham i husarrest og så ble han avsatt. Hva skjedde bak de lukkede dører. Det var meget høflig og formelt. Tomm Kristiansen om det som skjedde da i Zimbabwe da Mugabe måtte gå.&#xA;Lyddesign: Lillian Grønning</itunes:summary>
+      <itunes:duration>1914</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2019">201903</podcast:season>
+    </item>
+    <item>
+      <title>Hevntanker i Kongos jungel</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_8db6caa9-4fa9-48c4-b6ca-a94fa918c4a5</link>
+      <description>Bernard visste at kona ville bli skåret opp med machete av folkemorderne i Rwanda Hun var tutsi. Så han betalte dem for å skyte henne i stedet. Bernard ville ta hevn, og så møtte han morderne,&#xA;sammen med Tomm Kristiansen i nabolandet Kongo. &#xA;Lyddesign: Lillian Grønning&#xA;</description>
+      <guid isPermaLink="false">l_8db6caa9-4fa9-48c4-b6ca-a94fa918c4a5</guid>
+      <pubDate>Wed, 20 Mar 2019 03:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/tomms_afrikanske_fortellinger_2019-03-20_0200_526.MP3" type="audio/mpeg" length="38257547"></enclosure>
+      <itunes:title>Hevntanker i Kongos jungel</itunes:title>
+      <itunes:summary>Bernard visste at kona ville bli skåret opp med machete av folkemorderne i Rwanda Hun var tutsi. Så han betalte dem for å skyte henne i stedet. Bernard ville ta hevn, og så møtte han morderne,&#xA;sammen med Tomm Kristiansen i nabolandet Kongo. &#xA;Lyddesign: Lillian Grønning&#xA;</itunes:summary>
+      <itunes:duration>1590</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2019">201903</podcast:season>
+    </item>
+    <item>
+      <title>Da Nelson Mandela skulle settes fri</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_e01b4fef-e3de-4e53-9b4f-efe3de6e534f</link>
+      <description>Apartheidsregimet i Sør-Afrika ville tilslutt løslate Nelson Mandela, men han protesterte. De fikk ham ikke ut. Etter 27 år bak murene stilte han krav. De andre politiske fangene skulle også settes fri. Det skulle bli valg for alle, forbudet mot politiske partier skulle oppheves. Tilslutt gikk han med på å bli løslatt. Tomm Kristiansen forteller den fascinerende historien om Mandelas løslatelse.&#xA;Lyddesign: Lillian Grønning</description>
+      <guid isPermaLink="false">l_e01b4fef-e3de-4e53-9b4f-efe3de6e534f</guid>
+      <pubDate>Wed, 13 Mar 2019 03:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/tomms_afrikanske_fortellinger_2019-03-13_0200_3515.MP3" type="audio/mpeg" length="43019785"></enclosure>
+      <itunes:title>Da Nelson Mandela skulle settes fri</itunes:title>
+      <itunes:summary>Apartheidsregimet i Sør-Afrika ville tilslutt løslate Nelson Mandela, men han protesterte. De fikk ham ikke ut. Etter 27 år bak murene stilte han krav. De andre politiske fangene skulle også settes fri. Det skulle bli valg for alle, forbudet mot politiske partier skulle oppheves. Tilslutt gikk han med på å bli løslatt. Tomm Kristiansen forteller den fascinerende historien om Mandelas løslatelse.&#xA;Lyddesign: Lillian Grønning</itunes:summary>
+      <itunes:duration>1788</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2019">201903</podcast:season>
+    </item>
+    <item>
+      <title>Gøran ble drept i krigen og gravlagt i Eritrea. Kan noen hente ham?</title>
+      <link>https://radio.nrk.no/podkast/tomms_afrikanske_fortellinger/l_ad4ccbee-106e-4f10-8ccb-ee106e1f1018</link>
+      <description>&#xA;Noen måtte berge Gøran. Han var skutt og begravd på fronten i Eritrea-krigen. Kunne noen bringe ham hjem? Tomm Kristiansen, Afrikakorrespondent og NRKs historieforteller, fikk historien en sen kveld i Nairobi. Han traff mannen som gjorde det.&#xA;&#xA;Medvirkende:Tomm Kristiansen&#xA;Lyddesign: Lillian Grønning</description>
+      <guid isPermaLink="false">l_ad4ccbee-106e-4f10-8ccb-ee106e1f1018</guid>
+      <pubDate>Wed, 06 Mar 2019 10:08:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/tomms_afrikanske_fortellinger/tomms_afrikanske_fortellinger_2019-03-06_0908_3067.MP3" type="audio/mpeg" length="37080824"></enclosure>
+      <itunes:title>Gøran ble drept i krigen og gravlagt i Eritrea. Kan noen hente ham?</itunes:title>
+      <itunes:summary>&#xA;Noen måtte berge Gøran. Han var skutt og begravd på fronten i Eritrea-krigen. Kunne noen bringe ham hjem? Tomm Kristiansen, Afrikakorrespondent og NRKs historieforteller, fikk historien en sen kveld i Nairobi. Han traff mannen som gjorde det.&#xA;&#xA;Medvirkende:Tomm Kristiansen&#xA;Lyddesign: Lillian Grønning</itunes:summary>
+      <itunes:duration>1541</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qn-iwhKm5scn6n7OuzztZw4Pr6IkXqnqzCjpiUq2Ornw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2019">201903</podcast:season>
+    </item>
+  </channel>
+</rss>

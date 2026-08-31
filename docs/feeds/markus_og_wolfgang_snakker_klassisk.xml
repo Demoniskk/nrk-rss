@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus og Wolfgang snakker klassisk</title>
+    <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk</link>
+    <description>Du vil aldri høre musikk på samme måte igjen. Markus Neby og Wolfgang Plagge utforsker hvorfor musikk låter som den gjør. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Mon, 16 Mar 2026 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/markus_og_wolfgang_snakker_klassisk.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Du vil aldri høre musikk på samme måte igjen. Markus Neby og Wolfgang Plagge utforsker hvorfor musikk låter som den gjør. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA</url>
+      <title>Markus og Wolfgang snakker klassisk</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk</link>
+    </image>
+    <item>
+      <title>Lytterspørsmål spesial</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_7e3c0e4a-34a8-439a-bc0e-4a34a8539abb</link>
+      <description>Hva betyr egentlig symfoni? Spilles klassiske verk slik komponistene skrev dem? Og hvorfor låter Brahms så funky? Markus og Wolfgang svarer på spørsmål fra lytterne.</description>
+      <guid isPermaLink="false">l_7e3c0e4a-34a8-439a-bc0e-4a34a8539abb</guid>
+      <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/7e3c0e4a-34a8-439a-bc0e-4a34a8539abb_1_ID192MP3.mp3" type="audio/mpeg" length="80403884"></enclosure>
+      <itunes:title>Lytterspørsmål spesial</itunes:title>
+      <itunes:summary>Hva betyr egentlig symfoni? Spilles klassiske verk slik komponistene skrev dem? Og hvorfor låter Brahms så funky? Markus og Wolfgang svarer på spørsmål fra lytterne.</itunes:summary>
+      <itunes:duration>3350</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Lyden av dommedag og drikkeviser</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_290069bb-91bc-4223-8069-bb91bcf22360</link>
+      <description>Hva er det som gjør at det river i sjela til Markus når han hører klassikeren Carmina Burana av Carl Orff?</description>
+      <guid isPermaLink="false">l_290069bb-91bc-4223-8069-bb91bcf22360</guid>
+      <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/290069bb-91bc-4223-8069-bb91bcf22360_ID192MP3.mp3" type="audio/mpeg" length="46729772"></enclosure>
+      <itunes:title>Lyden av dommedag og drikkeviser</itunes:title>
+      <itunes:summary>Hva er det som gjør at det river i sjela til Markus når han hører klassikeren Carmina Burana av Carl Orff?</itunes:summary>
+      <itunes:duration>1947</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Musikken fra «Lyden av dommedag og drikkeviser»</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_c4e4389b-747f-4787-a438-9b747fc787d0</link>
+      <description>Hvis du kun vil høre musikken, kan du trykke på «Tidspunkter» og hoppe rett til sporene. Der finner du også titlene på det som spilles.</description>
+      <guid isPermaLink="false">l_c4e4389b-747f-4787-a438-9b747fc787d0</guid>
+      <pubDate>Sun, 08 Mar 2026 06:09:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/c4e4389b-747f-4787-a438-9b747fc787d0_ID192MP3.mp3" type="audio/mpeg" length="90242540"></enclosure>
+      <itunes:title>Musikken fra «Lyden av dommedag og drikkeviser»</itunes:title>
+      <itunes:summary>Hvis du kun vil høre musikken, kan du trykke på «Tidspunkter» og hoppe rett til sporene. Der finner du også titlene på det som spilles.</itunes:summary>
+      <itunes:duration>3760</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rpzyFDuhXFU9ydznN7hiiw3x1b3VguJnlKHwdWqKaKFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Er alt galt med Beethoven?</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_8ff2fe1a-6a1e-4fdb-b2fe-1a6a1e7fdbc1</link>
+      <description>Markus elsker Beethovens 7., men Leonard Bernstein hevder det knapt finnes en melodi der. Kan det likevel være genialt?</description>
+      <guid isPermaLink="false">l_8ff2fe1a-6a1e-4fdb-b2fe-1a6a1e7fdbc1</guid>
+      <pubDate>Mon, 02 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/8ff2fe1a-6a1e-4fdb-b2fe-1a6a1e7fdbc1_1_ID192MP3.mp3" type="audio/mpeg" length="51259436"></enclosure>
+      <itunes:title>Er alt galt med Beethoven?</itunes:title>
+      <itunes:summary>Markus elsker Beethovens 7., men Leonard Bernstein hevder det knapt finnes en melodi der. Kan det likevel være genialt?</itunes:summary>
+      <itunes:duration>2135</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Musikken fra «Er alt galt med Beethoven?»</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_80cf0895-8a8d-47e9-8f08-958a8d37e92a</link>
+      <description>Hvis du kun vil høre musikken, kan du trykke på «Tidspunkter» og hoppe rett til sporene. Der finner du også titlene på det som spilles.</description>
+      <guid isPermaLink="false">l_80cf0895-8a8d-47e9-8f08-958a8d37e92a</guid>
+      <pubDate>Sun, 01 Mar 2026 06:08:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/80cf0895-8a8d-47e9-8f08-958a8d37e92a_ID192MP3.mp3" type="audio/mpeg" length="101014316"></enclosure>
+      <itunes:title>Musikken fra «Er alt galt med Beethoven?»</itunes:title>
+      <itunes:summary>Hvis du kun vil høre musikken, kan du trykke på «Tidspunkter» og hoppe rett til sporene. Der finner du også titlene på det som spilles.</itunes:summary>
+      <itunes:duration>4208</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rpzyFDuhXFU9ydznN7hiiw3x1b3VguJnlKHwdWqKaKFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Lyden av Champions League</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_47cb165f-a8fa-4f8c-8b16-5fa8fa9f8ce3</link>
+      <description>Hvordan ble britisk barokkmusikk selve lyden av Champions League? Og er hymnen stjålet?</description>
+      <guid isPermaLink="false">l_47cb165f-a8fa-4f8c-8b16-5fa8fa9f8ce3</guid>
+      <pubDate>Mon, 23 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/47cb165f-a8fa-4f8c-8b16-5fa8fa9f8ce3_ID192MP3.mp3" type="audio/mpeg" length="50166188"></enclosure>
+      <itunes:title>Lyden av Champions League</itunes:title>
+      <itunes:summary>Hvordan ble britisk barokkmusikk selve lyden av Champions League? Og er hymnen stjålet?</itunes:summary>
+      <itunes:duration>2090</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Musikken fra «Lyden av Champions League»</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_05668205-5331-48be-a682-055331f8be1c</link>
+      <description>Hvis du kun vil høre musikken, kan du trykke på «Tidspunkter» og hoppe rett til sporene. Der finner du også titlene på det som spilles.</description>
+      <guid isPermaLink="false">l_05668205-5331-48be-a682-055331f8be1c</guid>
+      <pubDate>Sun, 22 Feb 2026 06:07:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/05668205-5331-48be-a682-055331f8be1c_ID192MP3.mp3" type="audio/mpeg" length="17068652"></enclosure>
+      <itunes:title>Musikken fra «Lyden av Champions League»</itunes:title>
+      <itunes:summary>Hvis du kun vil høre musikken, kan du trykke på «Tidspunkter» og hoppe rett til sporene. Der finner du også titlene på det som spilles.</itunes:summary>
+      <itunes:duration>711</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rpzyFDuhXFU9ydznN7hiiw3x1b3VguJnlKHwdWqKaKFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fra ballsal til blodbad</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_ac635701-7deb-4a99-a357-017deb9a998e</link>
+      <description>En vals skrevet på 1800-tallet skulle gi håp i krisetid. I dag brukes den i et univers av dødsleker på Netflix. Hva skjedde på veien?</description>
+      <guid isPermaLink="false">l_ac635701-7deb-4a99-a357-017deb9a998e</guid>
+      <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/ac635701-7deb-4a99-a357-017deb9a998e_ID192MP3.mp3" type="audio/mpeg" length="46871468"></enclosure>
+      <itunes:title>Fra ballsal til blodbad</itunes:title>
+      <itunes:summary>En vals skrevet på 1800-tallet skulle gi håp i krisetid. I dag brukes den i et univers av dødsleker på Netflix. Hva skjedde på veien?</itunes:summary>
+      <itunes:duration>1952</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Musikken fra «Fra ballsal til blodbad»</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_cf2dfc6f-157b-475b-adfc-6f157ba75b20</link>
+      <description>Hvis du kun vil høre musikken, kan du trykke på «Tidspunkter» og hoppe rett til sporene. Der finner du også titlene på det som spilles.</description>
+      <guid isPermaLink="false">l_cf2dfc6f-157b-475b-adfc-6f157ba75b20</guid>
+      <pubDate>Sun, 15 Feb 2026 06:06:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/cf2dfc6f-157b-475b-adfc-6f157ba75b20_ID192MP3.mp3" type="audio/mpeg" length="29611628"></enclosure>
+      <itunes:title>Musikken fra «Fra ballsal til blodbad»</itunes:title>
+      <itunes:summary>Hvis du kun vil høre musikken, kan du trykke på «Tidspunkter» og hoppe rett til sporene. Der finner du også titlene på det som spilles.</itunes:summary>
+      <itunes:duration>1233</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rpzyFDuhXFU9ydznN7hiiw3x1b3VguJnlKHwdWqKaKFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hva har pop og barokk til felles?</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_6537978a-2920-4047-b797-8a2920b047d4</link>
+      <description>Bryllupsmusikk fra 1600-tallet dominerer TikTok-feeder og pophits i dag. Hvorfor det?</description>
+      <guid isPermaLink="false">l_6537978a-2920-4047-b797-8a2920b047d4</guid>
+      <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/6537978a-2920-4047-b797-8a2920b047d4_ID192MP3.mp3" type="audio/mpeg" length="45866924"></enclosure>
+      <itunes:title>Hva har pop og barokk til felles?</itunes:title>
+      <itunes:summary>Bryllupsmusikk fra 1600-tallet dominerer TikTok-feeder og pophits i dag. Hvorfor det?</itunes:summary>
+      <itunes:duration>1911</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Musikken fra «Hva har pop og barokk til felles??»</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_47ef7122-f8ea-4ac3-af71-22f8ea2ac3b0</link>
+      <description>Hvis du kun vil høre musikken, kan du trykke på knappen «Tidspunkter» og hoppe rett dit. Der finner du også titlene på det som spilles.</description>
+      <guid isPermaLink="false">l_47ef7122-f8ea-4ac3-af71-22f8ea2ac3b0</guid>
+      <pubDate>Sun, 08 Feb 2026 06:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/47ef7122-f8ea-4ac3-af71-22f8ea2ac3b0_ID192MP3.mp3" type="audio/mpeg" length="27264428"></enclosure>
+      <itunes:title>Musikken fra «Hva har pop og barokk til felles??»</itunes:title>
+      <itunes:summary>Hvis du kun vil høre musikken, kan du trykke på knappen «Tidspunkter» og hoppe rett dit. Der finner du også titlene på det som spilles.</itunes:summary>
+      <itunes:duration>1135</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rpzyFDuhXFU9ydznN7hiiw3x1b3VguJnlKHwdWqKaKFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Har Markus funnet filmmusikkens gudfar?</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_5f9daea3-c404-4cbb-9dae-a3c4045cbb31</link>
+      <description>Er du fan av musikken fra Ringenes Herre og Star Wars? Markus og Wolfgang sporer episk filmmusikk tilbake til 1893.</description>
+      <guid isPermaLink="false">l_5f9daea3-c404-4cbb-9dae-a3c4045cbb31</guid>
+      <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/5f9daea3-c404-4cbb-9dae-a3c4045cbb31_ID192MP3.mp3" type="audio/mpeg" length="46420460"></enclosure>
+      <itunes:title>Har Markus funnet filmmusikkens gudfar?</itunes:title>
+      <itunes:summary>Er du fan av musikken fra Ringenes Herre og Star Wars? Markus og Wolfgang sporer episk filmmusikk tilbake til 1893.</itunes:summary>
+      <itunes:duration>1934</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Musikken fra «Har Markus funnet filmmusikkens gudfar?»</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_6b8c52c5-a21b-444a-8c52-c5a21bf44a0e</link>
+      <description>Hvis du kun vil høre musikken, kan du trykke på knappen «Tidspunkter» og hoppe rett dit. Der finner du også titlene på det som spilles.</description>
+      <guid isPermaLink="false">l_6b8c52c5-a21b-444a-8c52-c5a21bf44a0e</guid>
+      <pubDate>Sun, 01 Feb 2026 06:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/6b8c52c5-a21b-444a-8c52-c5a21bf44a0e_ID192MP3.mp3" type="audio/mpeg" length="87306092"></enclosure>
+      <itunes:title>Musikken fra «Har Markus funnet filmmusikkens gudfar?»</itunes:title>
+      <itunes:summary>Hvis du kun vil høre musikken, kan du trykke på knappen «Tidspunkter» og hoppe rett dit. Der finner du også titlene på det som spilles.</itunes:summary>
+      <itunes:duration>3637</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rpzyFDuhXFU9ydznN7hiiw3x1b3VguJnlKHwdWqKaKFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hvorfor synger fotballfans klassisk musikk?</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_d82477e3-6f76-49c8-a477-e36f76d9c81b</link>
+      <description>Fulle menn i baris synger den på fotballstadioner verden over, men er verdens største fyllesang egentlig klassisk?</description>
+      <guid isPermaLink="false">l_d82477e3-6f76-49c8-a477-e36f76d9c81b</guid>
+      <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/d82477e3-6f76-49c8-a477-e36f76d9c81b_ID192MP3.mp3" type="audio/mpeg" length="44050220"></enclosure>
+      <itunes:title>Hvorfor synger fotballfans klassisk musikk?</itunes:title>
+      <itunes:summary>Fulle menn i baris synger den på fotballstadioner verden over, men er verdens største fyllesang egentlig klassisk?</itunes:summary>
+      <itunes:duration>1835</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Musikken fra «Hvorfor synger fotballfans klassisk musikk?»</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_555af31f-9512-4df8-9af3-1f9512ddf8e5</link>
+      <description>Hvis du kun vil høre musikken, kan du trykke på knappen «Tidspunkter» og hoppe rett dit. Der finner du også titlene på det som spilles.</description>
+      <guid isPermaLink="false">l_555af31f-9512-4df8-9af3-1f9512ddf8e5</guid>
+      <pubDate>Sun, 25 Jan 2026 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/555af31f-9512-4df8-9af3-1f9512ddf8e5_ID192MP3.mp3" type="audio/mpeg" length="125788076"></enclosure>
+      <itunes:title>Musikken fra «Hvorfor synger fotballfans klassisk musikk?»</itunes:title>
+      <itunes:summary>Hvis du kun vil høre musikken, kan du trykke på knappen «Tidspunkter» og hoppe rett dit. Der finner du også titlene på det som spilles.</itunes:summary>
+      <itunes:duration>5241</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rpzyFDuhXFU9ydznN7hiiw3x1b3VguJnlKHwdWqKaKFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Er klassisk musikk mer verdig enn TIX?</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_1f512fc2-d63b-4df1-912f-c2d63b7df17b</link>
+      <description>Både Tix og Mozart har låter med drøye tekster. Så er de egentlig så ulike? &#xA;&#xA;&#xA;Episoden ble endret 30.01.2026.</description>
+      <guid isPermaLink="false">l_1f512fc2-d63b-4df1-912f-c2d63b7df17b</guid>
+      <pubDate>Mon, 19 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/1f512fc2-d63b-4df1-912f-c2d63b7df17b_ID192MP3.mp3" type="audio/mpeg" length="49465196"></enclosure>
+      <itunes:title>Er klassisk musikk mer verdig enn TIX?</itunes:title>
+      <itunes:summary>Både Tix og Mozart har låter med drøye tekster. Så er de egentlig så ulike? &#xA;&#xA;&#xA;Episoden ble endret 30.01.2026.</itunes:summary>
+      <itunes:duration>2060</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Musikken fra «Er klassisk musikk mer verdig enn TIX?»</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_307f89c3-b7ca-46b6-bf89-c3b7ca56b678</link>
+      <description>Her er musikken det snakkes om i episoden «Er klassisk musikk mer verdig enn TIX?».</description>
+      <guid isPermaLink="false">l_307f89c3-b7ca-46b6-bf89-c3b7ca56b678</guid>
+      <pubDate>Sun, 18 Jan 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/307f89c3-b7ca-46b6-bf89-c3b7ca56b678_ID192MP3.mp3" type="audio/mpeg" length="41091308"></enclosure>
+      <itunes:title>Musikken fra «Er klassisk musikk mer verdig enn TIX?»</itunes:title>
+      <itunes:summary>Her er musikken det snakkes om i episoden «Er klassisk musikk mer verdig enn TIX?».</itunes:summary>
+      <itunes:duration>1712</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rpzyFDuhXFU9ydznN7hiiw3x1b3VguJnlKHwdWqKaKFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Er Mozart overvurdert?</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_a05d5756-ac8e-4485-9d57-56ac8e148587</link>
+      <description>Markus utfordrer musikkgeniet Wolfgang med en provoserende brannfakkel. Wolfgang svarer med sitt syn på musikkhistorien.</description>
+      <guid isPermaLink="false">l_a05d5756-ac8e-4485-9d57-56ac8e148587</guid>
+      <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/a05d5756-ac8e-4485-9d57-56ac8e148587_ID192MP3.mp3" type="audio/mpeg" length="59089580"></enclosure>
+      <itunes:title>Er Mozart overvurdert?</itunes:title>
+      <itunes:summary>Markus utfordrer musikkgeniet Wolfgang med en provoserende brannfakkel. Wolfgang svarer med sitt syn på musikkhistorien.</itunes:summary>
+      <itunes:duration>2462</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R2rpLPGsUUtSzc_BbiD52wYUeHDMa9eh8XX3Tr3MQKIA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Musikken fra &#34;Er Mozart overvurdert?&#34;</title>
+      <link>https://radio.nrk.no/podkast/markus_og_wolfgang_snakker_klassisk/l_04965b39-161d-419c-965b-39161df19c8b</link>
+      <description>Her er musikken det blir snakket om i episoden «Er Mozart overvurdert?».</description>
+      <guid isPermaLink="false">l_04965b39-161d-419c-965b-39161df19c8b</guid>
+      <pubDate>Sun, 11 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_og_wolfgang_snakker_klassisk/04965b39-161d-419c-965b-39161df19c8b_ID192MP3.mp3" type="audio/mpeg" length="76531436"></enclosure>
+      <itunes:title>Musikken fra &#34;Er Mozart overvurdert?&#34;</itunes:title>
+      <itunes:summary>Her er musikken det blir snakket om i episoden «Er Mozart overvurdert?».</itunes:summary>
+      <itunes:duration>3188</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rpzyFDuhXFU9ydznN7hiiw3x1b3VguJnlKHwdWqKaKFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

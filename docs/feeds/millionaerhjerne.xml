@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Millionærhjerne</title>
+    <link>https://radio.nrk.no/podkast/millionaerhjerne</link>
+    <description>Har du lyst til å bli rik? Christian Strand får oppskriften fra unge millionærer som har tjent fett på alt fra vasking til kryptokunst. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 07 Dec 2022 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/millionaerhjerne.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Har du lyst til å bli rik? Christian Strand får oppskriften fra unge millionærer som har tjent fett på alt fra vasking til kryptokunst. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/PPFQXW-IGn-1oXetHQsrTgA5eNVSCaxV9FNaZaFi6QGg"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/PPFQXW-IGn-1oXetHQsrTgA5eNVSCaxV9FNaZaFi6QGg</url>
+      <title>Millionærhjerne</title>
+      <link>https://radio.nrk.no/podkast/millionaerhjerne</link>
+    </image>
+    <item>
+      <title>Boligmillionæren Morten </title>
+      <link>https://radio.nrk.no/podkast/millionaerhjerne/l_0c24a78b-2836-47d8-a4a7-8b2836b7d8b9</link>
+      <description>Morten Mosvold Jørgensen (27) mener at selv en apekatt kan bli rik på bolig.&#xA;Hva er oppskriften?&#xA;&#xA; </description>
+      <guid isPermaLink="false">l_0c24a78b-2836-47d8-a4a7-8b2836b7d8b9</guid>
+      <pubDate>Wed, 07 Dec 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/millionaerhjerne/34534be1-8009-43dc-996d-3bb2c2309b5a_0_ID192MP3.mp3" type="audio/mpeg" length="51748461"></enclosure>
+      <itunes:title>Boligmillionæren Morten </itunes:title>
+      <itunes:summary>Morten Mosvold Jørgensen (27) mener at selv en apekatt kan bli rik på bolig.&#xA;Hva er oppskriften?&#xA;&#xA; </itunes:summary>
+      <itunes:duration>2156</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Y0WZ1e3CbJuW1Cg8MzY4kAJqHiYwCZeLH-Y_Z45S91jQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kryptomillionæren Sindre</title>
+      <link>https://radio.nrk.no/podkast/millionaerhjerne/l_3ae2d557-ef1b-45bb-a2d5-57ef1b35bbb3</link>
+      <description>Sindre Timberlid Jenssen (31) har tjent millioner på kryptovaluta. Hva er hemmeligheten hans?</description>
+      <guid isPermaLink="false">l_3ae2d557-ef1b-45bb-a2d5-57ef1b35bbb3</guid>
+      <pubDate>Wed, 30 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/millionaerhjerne/c5d7db30-80e4-4261-9be2-ecc362525f9d_0_ID192MP3.mp3" type="audio/mpeg" length="49341933"></enclosure>
+      <itunes:title>Kryptomillionæren Sindre</itunes:title>
+      <itunes:summary>Sindre Timberlid Jenssen (31) har tjent millioner på kryptovaluta. Hva er hemmeligheten hans?</itunes:summary>
+      <itunes:duration>2055</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVXmqa3wOTq6lHm4npHMCgvibfG-MB_6qnq2oJjOFPsQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Klokkemillionæren Shobhit</title>
+      <link>https://radio.nrk.no/podkast/millionaerhjerne/l_c915d1f2-6e41-4f21-95d1-f26e417f21a5</link>
+      <description>Shobhit Garg (20) selger brukte luksusklokker for millioner. Og han mener det er lett å tjene mye. Hvordan gjør han det?</description>
+      <guid isPermaLink="false">l_c915d1f2-6e41-4f21-95d1-f26e417f21a5</guid>
+      <pubDate>Wed, 23 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/millionaerhjerne/7c24d457-ed89-4209-a908-feed3a902c59_0_ID192MP3.mp3" type="audio/mpeg" length="49014765"></enclosure>
+      <itunes:title>Klokkemillionæren Shobhit</itunes:title>
+      <itunes:summary>Shobhit Garg (20) selger brukte luksusklokker for millioner. Og han mener det er lett å tjene mye. Hvordan gjør han det?</itunes:summary>
+      <itunes:duration>2042</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPFQXW-IGn-1oXetHQsrTgA5eNVSCaxV9FNaZaFi6QGg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fattig student-millionæren Karen</title>
+      <link>https://radio.nrk.no/podkast/millionaerhjerne/l_997d96ed-330c-4a76-bd96-ed330c7a7604</link>
+      <description>Karen Elene Thorsen (25) tjener millioner på studenter som vil lage billig mat. Hvordan har hun bygget seg opp?</description>
+      <guid isPermaLink="false">l_997d96ed-330c-4a76-bd96-ed330c7a7604</guid>
+      <pubDate>Wed, 16 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/millionaerhjerne/82c37642-517d-4236-8df6-b9f93ad390dc_0_ID192MP3.mp3" type="audio/mpeg" length="50235885"></enclosure>
+      <itunes:title>Fattig student-millionæren Karen</itunes:title>
+      <itunes:summary>Karen Elene Thorsen (25) tjener millioner på studenter som vil lage billig mat. Hvordan har hun bygget seg opp?</itunes:summary>
+      <itunes:duration>2093</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPFQXW-IGn-1oXetHQsrTgA5eNVSCaxV9FNaZaFi6QGg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tik Tok-millionæren Oskar </title>
+      <link>https://radio.nrk.no/podkast/millionaerhjerne/l_a42f253f-0f17-4e04-af25-3f0f178e041a</link>
+      <description>Oskar Westerlin (24) gikk fra å selge vafler til å tjene hauger av penger på Tik Tok. Hva mener han må til for å bli rik på sosiale medier?</description>
+      <guid isPermaLink="false">l_a42f253f-0f17-4e04-af25-3f0f178e041a</guid>
+      <pubDate>Wed, 09 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/millionaerhjerne/25861d9e-69cd-4e58-b8ae-52a3a2df6aae_0_ID192MP3.mp3" type="audio/mpeg" length="51253101"></enclosure>
+      <itunes:title>Tik Tok-millionæren Oskar </itunes:title>
+      <itunes:summary>Oskar Westerlin (24) gikk fra å selge vafler til å tjene hauger av penger på Tik Tok. Hva mener han må til for å bli rik på sosiale medier?</itunes:summary>
+      <itunes:duration>2135</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPFQXW-IGn-1oXetHQsrTgA5eNVSCaxV9FNaZaFi6QGg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Snusmillionæren Patrick</title>
+      <link>https://radio.nrk.no/podkast/millionaerhjerne/l_1eb2fe28-e573-471b-b2fe-28e573c71bcc</link>
+      <description>Patrick Hjetland (31) startet med å bruke mammas kjøleskap som snuslager. Nå er han millionær.</description>
+      <guid isPermaLink="false">l_1eb2fe28-e573-471b-b2fe-28e573c71bcc</guid>
+      <pubDate>Wed, 02 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/millionaerhjerne/8eea1582-4041-432d-bebb-6de6dc4baa2d_0_ID192MP3.mp3" type="audio/mpeg" length="41597037"></enclosure>
+      <itunes:title>Snusmillionæren Patrick</itunes:title>
+      <itunes:summary>Patrick Hjetland (31) startet med å bruke mammas kjøleskap som snuslager. Nå er han millionær.</itunes:summary>
+      <itunes:duration>1733</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPFQXW-IGn-1oXetHQsrTgA5eNVSCaxV9FNaZaFi6QGg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kryptokunstmillionæren Trym</title>
+      <link>https://radio.nrk.no/podkast/millionaerhjerne/l_e3a99582-2dba-4d00-a995-822dbafd008b</link>
+      <description>Trym Ruud (23) har blitt rik på digitale kunstverk inspirert av samlefigurer. Hvordan gjør han det, og er det noe alle kan få til?</description>
+      <guid isPermaLink="false">l_e3a99582-2dba-4d00-a995-822dbafd008b</guid>
+      <pubDate>Wed, 26 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/millionaerhjerne/277e9c97-ab1c-452b-a82d-aa3d6bc2d907_0_ID192MP3.mp3" type="audio/mpeg" length="48049389"></enclosure>
+      <itunes:title>Kryptokunstmillionæren Trym</itunes:title>
+      <itunes:summary>Trym Ruud (23) har blitt rik på digitale kunstverk inspirert av samlefigurer. Hvordan gjør han det, og er det noe alle kan få til?</itunes:summary>
+      <itunes:duration>2002</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPFQXW-IGn-1oXetHQsrTgA5eNVSCaxV9FNaZaFi6QGg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vaskemillionæren Ghazi</title>
+      <link>https://radio.nrk.no/podkast/millionaerhjerne/l_a82e6a89-baa9-4e39-ae6a-89baa94e390f</link>
+      <description>Ghazi Khder Jezdin (27) startet vaskefirma med kameraten sin på videregående. Nå har han 400 ansatte og tjener millioner på å svinge moppen.</description>
+      <guid isPermaLink="false">l_a82e6a89-baa9-4e39-ae6a-89baa94e390f</guid>
+      <pubDate>Wed, 19 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/millionaerhjerne/b60705ca-4be5-4433-ab4a-e6022823b2ef_0_ID192MP3.mp3" type="audio/mpeg" length="52849197"></enclosure>
+      <itunes:title>Vaskemillionæren Ghazi</itunes:title>
+      <itunes:summary>Ghazi Khder Jezdin (27) startet vaskefirma med kameraten sin på videregående. Nå har han 400 ansatte og tjener millioner på å svinge moppen.</itunes:summary>
+      <itunes:duration>2201</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPFQXW-IGn-1oXetHQsrTgA5eNVSCaxV9FNaZaFi6QGg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Pokermillionæren Espen</title>
+      <link>https://radio.nrk.no/podkast/millionaerhjerne/l_7a7ab437-992e-45f4-bab4-37992e75f48e</link>
+      <description>Espen Uhlen Jørstad vant VM i poker i Las Vegas, og tjente millioner. Hvordan ble han rik på et spill de fleste taper?</description>
+      <guid isPermaLink="false">l_7a7ab437-992e-45f4-bab4-37992e75f48e</guid>
+      <pubDate>Wed, 12 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/millionaerhjerne/07e7b9c0-10a6-402e-a331-2676e702d338_0_ID192MP3.mp3" type="audio/mpeg" length="45409581"></enclosure>
+      <itunes:title>Pokermillionæren Espen</itunes:title>
+      <itunes:summary>Espen Uhlen Jørstad vant VM i poker i Las Vegas, og tjente millioner. Hvordan ble han rik på et spill de fleste taper?</itunes:summary>
+      <itunes:duration>1891</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPFQXW-IGn-1oXetHQsrTgA5eNVSCaxV9FNaZaFi6QGg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Influensermillionæren Sophie Elise</title>
+      <link>https://radio.nrk.no/podkast/millionaerhjerne/l_1e5bbf0a-5a58-4b88-9bbf-0a5a58eb8807</link>
+      <description>Hun tjener millioner på å være influenser og selge egne produkter. Hvordan har rosabloggeren fra Harstad tenkt for å bli så rik?</description>
+      <guid isPermaLink="false">l_1e5bbf0a-5a58-4b88-9bbf-0a5a58eb8807</guid>
+      <pubDate>Wed, 05 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/millionaerhjerne/7d261a18-f88c-4559-98a5-a09f2dd49f47_0_ID192MP3.mp3" type="audio/mpeg" length="58513581"></enclosure>
+      <itunes:title>Influensermillionæren Sophie Elise</itunes:title>
+      <itunes:summary>Hun tjener millioner på å være influenser og selge egne produkter. Hvordan har rosabloggeren fra Harstad tenkt for å bli så rik?</itunes:summary>
+      <itunes:duration>2438</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPFQXW-IGn-1oXetHQsrTgA5eNVSCaxV9FNaZaFi6QGg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Robloxmillionæren Nora</title>
+      <link>https://radio.nrk.no/podkast/millionaerhjerne/l_9a48cd66-fbb8-4dd1-88cd-66fbb84dd188</link>
+      <description>Nora Helen «Shyfoox» Engelsvold er 19 år og har tjent millioner på drager og ulver. Hva skal til for å bli rik på å lage Roblox-spill?</description>
+      <guid isPermaLink="false">l_9a48cd66-fbb8-4dd1-88cd-66fbb84dd188</guid>
+      <pubDate>Wed, 28 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/millionaerhjerne/2e31bd25-0c75-4e98-818f-9740477e63fb_0_ID192MP3.mp3" type="audio/mpeg" length="42319917"></enclosure>
+      <itunes:title>Robloxmillionæren Nora</itunes:title>
+      <itunes:summary>Nora Helen «Shyfoox» Engelsvold er 19 år og har tjent millioner på drager og ulver. Hva skal til for å bli rik på å lage Roblox-spill?</itunes:summary>
+      <itunes:duration>1763</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPFQXW-IGn-1oXetHQsrTgA5eNVSCaxV9FNaZaFi6QGg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Musikkmillionæren Mikkel</title>
+      <link>https://radio.nrk.no/podkast/millionaerhjerne/l_badabf1a-3f74-49ce-9abf-1a3f74c9cefb</link>
+      <description>Mikkel Christiansen har tjent seg søkkrik på partymusikk. Oppskriften på suksess mener han er enkel.  </description>
+      <guid isPermaLink="false">l_badabf1a-3f74-49ce-9abf-1a3f74c9cefb</guid>
+      <pubDate>Mon, 26 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/millionaerhjerne/f854d0f3-e4de-488c-a478-c59bd7bb66bd_0_ID192MP3.mp3" type="audio/mpeg" length="50871213"></enclosure>
+      <itunes:title>Musikkmillionæren Mikkel</itunes:title>
+      <itunes:summary>Mikkel Christiansen har tjent seg søkkrik på partymusikk. Oppskriften på suksess mener han er enkel.  </itunes:summary>
+      <itunes:duration>2119</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PPFQXW-IGn-1oXetHQsrTgA5eNVSCaxV9FNaZaFi6QGg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

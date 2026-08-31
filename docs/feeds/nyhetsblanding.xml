@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nyhetsblanding</title>
+    <link>https://radio.nrk.no/podkast/nyhetsblanding</link>
+    <description>Få oversikt over ukens nyheter med Fanny, Rima og Ole. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 17 Jun 2022 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/nyhetsblanding.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Få oversikt over ukens nyheter med Fanny, Rima og Ole. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+    <itunes:category text="Nyheter"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w</url>
+      <title>Nyhetsblanding</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding</link>
+    </image>
+    <item>
+      <title>Sommerquiz: Hvor mye husker du fra nyhetene? </title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_f3b85472-93f7-4e2c-b854-7293f7be2c78</link>
+      <description>Nyhetsblanding tar sommerferie og oppsummerer året med en quiz-spesial. Det blir nyheter, kjendiser, sport og tilbakeblikk på gamle episoder. God sommer!</description>
+      <guid isPermaLink="false">l_f3b85472-93f7-4e2c-b854-7293f7be2c78</guid>
+      <pubDate>Fri, 17 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/09c174d3-43d2-4f89-8445-2db1fa0a36dd_0_ID192MP3.mp3" type="audio/mpeg" length="54409581"></enclosure>
+      <itunes:title>Sommerquiz: Hvor mye husker du fra nyhetene? </itunes:title>
+      <itunes:summary>Nyhetsblanding tar sommerferie og oppsummerer året med en quiz-spesial. Det blir nyheter, kjendiser, sport og tilbakeblikk på gamle episoder. God sommer!</itunes:summary>
+      <itunes:duration>2267</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2022">202206</podcast:season>
+    </item>
+    <item>
+      <title>Heia Norge, Partygate og digital undervisning</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_aa6fedcc-562d-4665-afed-cc562dd665d3</link>
+      <description>Hvorfor gjør norske idrettsutøvere det så bra om dagen? Vi tar også opp Boris Johnson sine fester og at det kanskje blir mer digital undervisning. </description>
+      <guid isPermaLink="false">l_aa6fedcc-562d-4665-afed-cc562dd665d3</guid>
+      <pubDate>Fri, 10 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/846dad92-e998-4f2c-821e-803694a5fcc5_0_ID192MP3.mp3" type="audio/mpeg" length="48979629"></enclosure>
+      <itunes:title>Heia Norge, Partygate og digital undervisning</itunes:title>
+      <itunes:summary>Hvorfor gjør norske idrettsutøvere det så bra om dagen? Vi tar også opp Boris Johnson sine fester og at det kanskje blir mer digital undervisning. </itunes:summary>
+      <itunes:duration>2040</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2022">202206</podcast:season>
+    </item>
+    <item>
+      <title>Johnny Depp vant, smuglersprit og våpenlov</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_9f2d1175-7719-453c-ad11-757719c53cd0</link>
+      <description>Hva betyr dommen for Depp og Heard? Livsfarlig sprit smugles til Norge, vi snakker om våpenloven i USA og drømmen om et ukrainsk kjempefly. </description>
+      <guid isPermaLink="false">l_9f2d1175-7719-453c-ad11-757719c53cd0</guid>
+      <pubDate>Fri, 03 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/b3a09fe8-7fc2-47a5-8523-cd5e71777c47_0_ID192MP3.mp3" type="audio/mpeg" length="52057197"></enclosure>
+      <itunes:title>Johnny Depp vant, smuglersprit og våpenlov</itunes:title>
+      <itunes:summary>Hva betyr dommen for Depp og Heard? Livsfarlig sprit smugles til Norge, vi snakker om våpenloven i USA og drømmen om et ukrainsk kjempefly. </itunes:summary>
+      <itunes:duration>2169</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2022">202206</podcast:season>
+    </item>
+    <item>
+      <title>WallStreetBets, Dubai og elsparkesykler</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_c77ad60f-8860-42c6-bad6-0f886032c6da</link>
+      <description>Psykologer frykter at mange som taper penger holder det hemmelig. Israel har blitt venn med arabiske land og her er de nye reglene for elsparkesykkel. </description>
+      <guid isPermaLink="false">l_c77ad60f-8860-42c6-bad6-0f886032c6da</guid>
+      <pubDate>Fri, 27 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/97c93eda-ea1d-4294-8a5d-8a869356ea72_0_ID192MP3.mp3" type="audio/mpeg" length="44346861"></enclosure>
+      <itunes:title>WallStreetBets, Dubai og elsparkesykler</itunes:title>
+      <itunes:summary>Psykologer frykter at mange som taper penger holder det hemmelig. Israel har blitt venn med arabiske land og her er de nye reglene for elsparkesykkel. </itunes:summary>
+      <itunes:duration>1847</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2022">202205</podcast:season>
+    </item>
+    <item>
+      <title>Cancel culture, Nato-søknader og Amber Heard</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_ca5d6293-8d3d-49f9-9d62-938d3d89f998</link>
+      <description>Flere tør ikke å si sin mening, slik reagerer Russland på Sverige og Finlands Nato-søknader og Amber Heard har slått tilbake i retten. </description>
+      <guid isPermaLink="false">l_ca5d6293-8d3d-49f9-9d62-938d3d89f998</guid>
+      <pubDate>Fri, 20 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/6f08442f-6877-44f2-a588-adf73139d2c9_0_ID192MP3.mp3" type="audio/mpeg" length="49229037"></enclosure>
+      <itunes:title>Cancel culture, Nato-søknader og Amber Heard</itunes:title>
+      <itunes:summary>Flere tør ikke å si sin mening, slik reagerer Russland på Sverige og Finlands Nato-søknader og Amber Heard har slått tilbake i retten. </itunes:summary>
+      <itunes:duration>2051</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2022">202205</podcast:season>
+    </item>
+    <item>
+      <title>Eurovision, hunder i krig og la humla suse</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_6cfb5cbd-b84c-49ef-bb5c-bdb84c29ef44</link>
+      <description>Vi har sendt Fanny til Torino for å sjekke stemningen før Eurovision-finalen. Hunder brukes til propaganda og du kan droppe å klippe plenen i mai.  </description>
+      <guid isPermaLink="false">l_6cfb5cbd-b84c-49ef-bb5c-bdb84c29ef44</guid>
+      <pubDate>Fri, 13 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/e79cfa54-88b0-4ea0-ac3e-3777feadc51c_0_ID192MP3.mp3" type="audio/mpeg" length="37613421"></enclosure>
+      <itunes:title>Eurovision, hunder i krig og la humla suse</itunes:title>
+      <itunes:summary>Vi har sendt Fanny til Torino for å sjekke stemningen før Eurovision-finalen. Hunder brukes til propaganda og du kan droppe å klippe plenen i mai.  </itunes:summary>
+      <itunes:duration>1567</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2022">202205</podcast:season>
+    </item>
+    <item>
+      <title>Dennis Hauger, abort i USA og Johnny Depp </title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_06e952e9-fb58-414c-a952-e9fb58d14ce3</link>
+      <description>Vi snakker med Norges Formel 1-håp om livet som racerbilsjåfør. USA kan få strengere abort-lov, og en oppdatering på Johnny Depp-rettssaken.</description>
+      <guid isPermaLink="false">l_06e952e9-fb58-414c-a952-e9fb58d14ce3</guid>
+      <pubDate>Fri, 06 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/55ec7e22-9166-4f47-8645-75aa4df008fd_0_ID192MP3.mp3" type="audio/mpeg" length="49999149"></enclosure>
+      <itunes:title>Dennis Hauger, abort i USA og Johnny Depp </itunes:title>
+      <itunes:summary>Vi snakker med Norges Formel 1-håp om livet som racerbilsjåfør. USA kan få strengere abort-lov, og en oppdatering på Johnny Depp-rettssaken.</itunes:summary>
+      <itunes:duration>2083</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2022">202205</podcast:season>
+    </item>
+    <item>
+      <title>Johnny Depp i retten, russ og skjermtid</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_2705ebfa-6233-47ff-85eb-fa623387ff1b</link>
+      <description>Vi tar opp det som skjer i rettsaken mellom Johnny Depp og Amber Heard. Vi snakker om ny forskning på mobilbruk, og inkludering i russetiden</description>
+      <guid isPermaLink="false">l_2705ebfa-6233-47ff-85eb-fa623387ff1b</guid>
+      <pubDate>Fri, 29 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/aee67494-96fb-445a-aabe-29713d72223a_0_ID192MP3.mp3" type="audio/mpeg" length="49310829"></enclosure>
+      <itunes:title>Johnny Depp i retten, russ og skjermtid</itunes:title>
+      <itunes:summary>Vi tar opp det som skjer i rettsaken mellom Johnny Depp og Amber Heard. Vi snakker om ny forskning på mobilbruk, og inkludering i russetiden</itunes:summary>
+      <itunes:duration>2054</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2022">202204</podcast:season>
+    </item>
+    <item>
+      <title>Spøkelsesby, Sverige og «mute»-knappen</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_ce101432-1d46-4c46-9014-321d46ec466c</link>
+      <description>En by med 25 millioner mennesker har vært spøkelsesby i flere uker. Vi forklarer hvor det er bråk i Sverige, og «mute»-knappen muter ikke.</description>
+      <guid isPermaLink="false">l_ce101432-1d46-4c46-9014-321d46ec466c</guid>
+      <pubDate>Fri, 22 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/61d0675e-d533-4288-8244-bc7879b642a0_0_ID192MP3.mp3" type="audio/mpeg" length="47238381"></enclosure>
+      <itunes:title>Spøkelsesby, Sverige og «mute»-knappen</itunes:title>
+      <itunes:summary>En by med 25 millioner mennesker har vært spøkelsesby i flere uker. Vi forklarer hvor det er bråk i Sverige, og «mute»-knappen muter ikke.</itunes:summary>
+      <itunes:duration>1968</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2022">202204</podcast:season>
+    </item>
+    <item>
+      <title>Påskespesial: Stor quiz</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_08563097-1ea0-4327-9630-971ea0832753</link>
+      <description>I denne ukas spesialepisode får du alle nyhetene i quiz-form. Er du smartere enn Nyhetsblanding-gjengen? </description>
+      <guid isPermaLink="false">l_08563097-1ea0-4327-9630-971ea0832753</guid>
+      <pubDate>Fri, 15 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/80e34f64-2952-4ef2-b17b-f1d4e98fb15c_0_ID192MP3.mp3" type="audio/mpeg" length="41730669"></enclosure>
+      <itunes:title>Påskespesial: Stor quiz</itunes:title>
+      <itunes:summary>I denne ukas spesialepisode får du alle nyhetene i quiz-form. Er du smartere enn Nyhetsblanding-gjengen? </itunes:summary>
+      <itunes:duration>1738</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2022">202204</podcast:season>
+    </item>
+    <item>
+      <title>Co2-støvsuger, krigsregler og lyden av Mars </title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_27cc71f2-2972-4f6f-8c71-f22972af6ff6</link>
+      <description>Ny rapport gir oss oppskriften på å bremse klimaendringene. Hva er poenget med regler i krig? Og vi skal høre lyd fra planeten Mars.</description>
+      <guid isPermaLink="false">l_27cc71f2-2972-4f6f-8c71-f22972af6ff6</guid>
+      <pubDate>Fri, 08 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/782f5c5b-dad2-4a3d-8953-2a3e2367fee7_0_ID192MP3.mp3" type="audio/mpeg" length="49516461"></enclosure>
+      <itunes:title>Co2-støvsuger, krigsregler og lyden av Mars </itunes:title>
+      <itunes:summary>Ny rapport gir oss oppskriften på å bremse klimaendringene. Hva er poenget med regler i krig? Og vi skal høre lyd fra planeten Mars.</itunes:summary>
+      <itunes:duration>2063</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2022">202204</podcast:season>
+    </item>
+    <item>
+      <title>Will Smith, p-pille for menn og Putin</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_8aaccaed-46d5-4229-acca-ed46d5b22983</link>
+      <description>Hvordan reagerte Hollywood på Will Smiths Oscar-slag? NRKs reporter var der. Ett steg nærmere p-pille for menn og naboland frykter Putin. </description>
+      <guid isPermaLink="false">l_8aaccaed-46d5-4229-acca-ed46d5b22983</guid>
+      <pubDate>Fri, 01 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/831a4aac-aecc-48da-816a-9648b76a73d5_0_ID192MP3.mp3" type="audio/mpeg" length="53989101"></enclosure>
+      <itunes:title>Will Smith, p-pille for menn og Putin</itunes:title>
+      <itunes:summary>Hvordan reagerte Hollywood på Will Smiths Oscar-slag? NRKs reporter var der. Ett steg nærmere p-pille for menn og naboland frykter Putin. </itunes:summary>
+      <itunes:duration>2249</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2022">202204</podcast:season>
+    </item>
+    <item>
+      <title>Statsminister i krisetid og evig liv </title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_2211ea6f-5946-4284-91ea-6f5946528448</link>
+      <description>Hvordan er det å styre landet under så mange kriser på en gang? Og forskere har reversert aldring hos mus, er vi et skritt nærmere evig liv?</description>
+      <guid isPermaLink="false">l_2211ea6f-5946-4284-91ea-6f5946528448</guid>
+      <pubDate>Fri, 25 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/afbc29dd-c1fc-4987-b84d-8f3dc526e1fb_0_ID192MP3.mp3" type="audio/mpeg" length="45284589"></enclosure>
+      <itunes:title>Statsminister i krisetid og evig liv </itunes:title>
+      <itunes:summary>Hvordan er det å styre landet under så mange kriser på en gang? Og forskere har reversert aldring hos mus, er vi et skritt nærmere evig liv?</itunes:summary>
+      <itunes:duration>1886</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2022">202203</podcast:season>
+    </item>
+    <item>
+      <title>Propaganda og sosiale medier i Russland</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_10d88721-8630-4ebf-9887-218630aebf53</link>
+      <description>Hva blir russerne fortalt om krigen på TV? Unge russere bruker nye løsninger for å være på sosiale medier, og blir vi mer miljøvennlige nå?</description>
+      <guid isPermaLink="false">l_10d88721-8630-4ebf-9887-218630aebf53</guid>
+      <pubDate>Fri, 18 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/31d8ba5a-ed1e-4033-9cde-0b5ed90aab0b_0_ID192MP3.mp3" type="audio/mpeg" length="55305837"></enclosure>
+      <itunes:title>Propaganda og sosiale medier i Russland</itunes:title>
+      <itunes:summary>Hva blir russerne fortalt om krigen på TV? Unge russere bruker nye løsninger for å være på sosiale medier, og blir vi mer miljøvennlige nå?</itunes:summary>
+      <itunes:duration>2304</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2022">202203</podcast:season>
+    </item>
+    <item>
+      <title>Putins venner og norske «cyberkrigere»</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_159fa4e9-069c-4b6c-9fa4-e9069c4b6c7a</link>
+      <description>Hvem er Putins nærmeste venner og familie, og kan de påvirke ham? Og «Sigurd» (19) og «Henrik» (18) er med i cyberkrigen mot Russland. </description>
+      <guid isPermaLink="false">l_159fa4e9-069c-4b6c-9fa4-e9069c4b6c7a</guid>
+      <pubDate>Fri, 11 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/6cd6e73a-f48c-4356-8fbe-739116a83416_0_ID192MP3.mp3" type="audio/mpeg" length="45013869"></enclosure>
+      <itunes:title>Putins venner og norske «cyberkrigere»</itunes:title>
+      <itunes:summary>Hvem er Putins nærmeste venner og familie, og kan de påvirke ham? Og «Sigurd» (19) og «Henrik» (18) er med i cyberkrigen mot Russland. </itunes:summary>
+      <itunes:duration>1875</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2022">202203</podcast:season>
+    </item>
+    <item>
+      <title>Norske soldater, atomfrykt og tinderdrap</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_6ff89e99-568b-4223-b89e-99568b922368</link>
+      <description>Hege (20) er norsk soldat i Litauen og forteller hvordan det er nå. Hvor sannsynlig er det egentlig med atomkrig? Og ny serie om tinderdrap</description>
+      <guid isPermaLink="false">l_6ff89e99-568b-4223-b89e-99568b922368</guid>
+      <pubDate>Fri, 04 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/4d3e4d7f-c974-43eb-af7b-0ee058a294d3_0_ID192MP3.mp3" type="audio/mpeg" length="42736941"></enclosure>
+      <itunes:title>Norske soldater, atomfrykt og tinderdrap</itunes:title>
+      <itunes:summary>Hege (20) er norsk soldat i Litauen og forteller hvordan det er nå. Hvor sannsynlig er det egentlig med atomkrig? Og ny serie om tinderdrap</itunes:summary>
+      <itunes:duration>1780</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2022">202203</podcast:season>
+    </item>
+    <item>
+      <title>Putin, etterretning og «Hank the Tank»</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_106ec2fc-5e5f-46e5-aec2-fc5e5fb6e5ce</link>
+      <description>Vi prøver å forstå hva Putin tenker nå som han har angrepet Ukraina. Hvordan visste USA at Russland skulle invadere? Og en bjørn skaper kaos</description>
+      <guid isPermaLink="false">l_106ec2fc-5e5f-46e5-aec2-fc5e5fb6e5ce</guid>
+      <pubDate>Fri, 25 Feb 2022 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/330629db-ab13-40ec-b679-81ad61aebcee_0_ID192MP3.mp3" type="audio/mpeg" length="41429997"></enclosure>
+      <itunes:title>Putin, etterretning og «Hank the Tank»</itunes:title>
+      <itunes:summary>Vi prøver å forstå hva Putin tenker nå som han har angrepet Ukraina. Hvordan visste USA at Russland skulle invadere? Og en bjørn skaper kaos</itunes:summary>
+      <itunes:duration>1726</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2022">202202</podcast:season>
+    </item>
+    <item>
+      <title>Spesial: Krig i Europa</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_04beaf06-f508-4e5c-beaf-06f508ae5cc6</link>
+      <description>Vi gir deg oversikt over hva som skjer i Ukraina og hvordan det påvirker Norge. </description>
+      <guid isPermaLink="false">l_04beaf06-f508-4e5c-beaf-06f508ae5cc6</guid>
+      <pubDate>Thu, 24 Feb 2022 16:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/f4b393e5-47b2-4353-9b6d-9736376bbeff_0_ID192MP3.mp3" type="audio/mpeg" length="18396909"></enclosure>
+      <itunes:title>Spesial: Krig i Europa</itunes:title>
+      <itunes:summary>Vi gir deg oversikt over hva som skjer i Ukraina og hvordan det påvirker Norge. </itunes:summary>
+      <itunes:duration>766</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2022">202202</podcast:season>
+    </item>
+    <item>
+      <title>Elon Musk, Kanye West og Russland</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_90ba9110-7d64-4f23-ba91-107d643f232d</link>
+      <description>Elon Musk har gitt bort to prosent av formuen, men hvem får det? Kanye West er aktuell med mye, og vi oppdaterer på situasjonen i Ukraina. </description>
+      <guid isPermaLink="false">l_90ba9110-7d64-4f23-ba91-107d643f232d</guid>
+      <pubDate>Fri, 18 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/036dd953-8181-46f4-a987-0261b99bf9fc_0_ID192MP3.mp3" type="audio/mpeg" length="43454061"></enclosure>
+      <itunes:title>Elon Musk, Kanye West og Russland</itunes:title>
+      <itunes:summary>Elon Musk har gitt bort to prosent av formuen, men hvem får det? Kanye West er aktuell med mye, og vi oppdaterer på situasjonen i Ukraina. </itunes:summary>
+      <itunes:duration>1810</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2022">202202</podcast:season>
+    </item>
+    <item>
+      <title>Historien bak drapene på åpen gate i Oslo</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_e0680f1f-c45a-46c5-a80f-1fc45a96c566</link>
+      <description>De siste ti årene har hvert tredje drap i Oslo vært på åpen gate, dette er historiene bak. Vi ser også på hva slags Kina som arrangerer OL.</description>
+      <guid isPermaLink="false">l_e0680f1f-c45a-46c5-a80f-1fc45a96c566</guid>
+      <pubDate>Fri, 11 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/ef35b085-cec7-461f-bd1c-772f24e66197_0_ID192MP3.mp3" type="audio/mpeg" length="49131117"></enclosure>
+      <itunes:title>Historien bak drapene på åpen gate i Oslo</itunes:title>
+      <itunes:summary>De siste ti årene har hvert tredje drap i Oslo vært på åpen gate, dette er historiene bak. Vi ser også på hva slags Kina som arrangerer OL.</itunes:summary>
+      <itunes:duration>2047</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2022">202202</podcast:season>
+    </item>
+    <item>
+      <title>«Lars» ble utsatt for overgrep i taxien </title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_9d828fbd-cfb2-4825-828f-bdcfb20825a1</link>
+      <description>Flere opplever overgrep i taxi, vi forteller historien til «Lars». Vi forklarer også Spotify-bråket og situasjonen til IS-barna i Syria.</description>
+      <guid isPermaLink="false">l_9d828fbd-cfb2-4825-828f-bdcfb20825a1</guid>
+      <pubDate>Fri, 04 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/6d5ce55d-d1c9-4ed4-9e73-b6a233e894a5_0_ID192MP3.mp3" type="audio/mpeg" length="42125229"></enclosure>
+      <itunes:title>«Lars» ble utsatt for overgrep i taxien </itunes:title>
+      <itunes:summary>Flere opplever overgrep i taxi, vi forteller historien til «Lars». Vi forklarer også Spotify-bråket og situasjonen til IS-barna i Syria.</itunes:summary>
+      <itunes:duration>1755</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2022">202202</podcast:season>
+    </item>
+    <item>
+      <title>Derfor kom Taliban til Norge</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_5e7e1e8e-16fb-4460-be1e-8e16fb24607a</link>
+      <description>Vi gir deg det du trenger om Taliban-besøket, mannen som har lekket tusenvis av topphemmelige dokumenter og Norges mest populære navn.</description>
+      <guid isPermaLink="false">l_5e7e1e8e-16fb-4460-be1e-8e16fb24607a</guid>
+      <pubDate>Fri, 28 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/f3bf7bab-836e-48bb-b805-277990c02941_0_ID192MP3.mp3" type="audio/mpeg" length="44754669"></enclosure>
+      <itunes:title>Derfor kom Taliban til Norge</itunes:title>
+      <itunes:summary>Vi gir deg det du trenger om Taliban-besøket, mannen som har lekket tusenvis av topphemmelige dokumenter og Norges mest populære navn.</itunes:summary>
+      <itunes:duration>1864</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2022">202201</podcast:season>
+    </item>
+    <item>
+      <title>Prinsessen slettet Tiktok</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_ca3a8f57-7ffc-4c2c-ba8f-577ffc4c2cdf</link>
+      <description>Vi har snakket med prinsessen om hvordan det er å være prinsesse. Vi oppdaterer på situasjonen i Russland og en dansk kunstner lager bråk. </description>
+      <guid isPermaLink="false">l_ca3a8f57-7ffc-4c2c-ba8f-577ffc4c2cdf</guid>
+      <pubDate>Fri, 21 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/7ec8b864-a8c0-4083-9866-9185cf9c09c7_0_ID192MP3.mp3" type="audio/mpeg" length="45816237"></enclosure>
+      <itunes:title>Prinsessen slettet Tiktok</itunes:title>
+      <itunes:summary>Vi har snakket med prinsessen om hvordan det er å være prinsesse. Vi oppdaterer på situasjonen i Russland og en dansk kunstner lager bråk. </itunes:summary>
+      <itunes:duration>1908</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2022">202201</podcast:season>
+    </item>
+    <item>
+      <title>Nå kan russetiden bli flyttet permanent</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_515fedc7-058c-4416-9fed-c7058cd41652</link>
+      <description>Flere vil flytte russetiden og nå kan det skje. Kan det egentlig bli krig i Europa? Og gullfisken viser seg å være ganske intelligent.</description>
+      <guid isPermaLink="false">l_515fedc7-058c-4416-9fed-c7058cd41652</guid>
+      <pubDate>Fri, 14 Jan 2022 07:20:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/c490a302-f320-40fe-9ae9-f336f03f8401_0_ID192MP3.mp3" type="audio/mpeg" length="46455597"></enclosure>
+      <itunes:title>Nå kan russetiden bli flyttet permanent</itunes:title>
+      <itunes:summary>Flere vil flytte russetiden og nå kan det skje. Kan det egentlig bli krig i Europa? Og gullfisken viser seg å være ganske intelligent.</itunes:summary>
+      <itunes:duration>1935</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2022">202201</podcast:season>
+    </item>
+    <item>
+      <title>Verdens dyreste TV-serie og røykeforbud</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_158a342c-179e-453d-8a34-2c179ec53dde</link>
+      <description>Kanskje tiårets største nyhet: Ringenes herre er tilbake på TV, New Zealand vil forby sigaretter og Frankrike vil slutte med plast.</description>
+      <guid isPermaLink="false">l_158a342c-179e-453d-8a34-2c179ec53dde</guid>
+      <pubDate>Fri, 07 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/c1d32a1d-2fe0-48c6-8810-2e575b70e81a_0_ID192MP3.mp3" type="audio/mpeg" length="50999661"></enclosure>
+      <itunes:title>Verdens dyreste TV-serie og røykeforbud</itunes:title>
+      <itunes:summary>Kanskje tiårets største nyhet: Ringenes herre er tilbake på TV, New Zealand vil forby sigaretter og Frankrike vil slutte med plast.</itunes:summary>
+      <itunes:duration>2124</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2022">202201</podcast:season>
+    </item>
+    <item>
+      <title>Oi, skjedde det i år? Nyhetsåret 2021</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_7a24a01d-b48a-49a3-a4a0-1db48a09a33b</link>
+      <description>Spesial: Vi oppsummerer de viktigste nyhetene i 2021, forteller om sakene som har preget oss og kårer en vinner av den store nyhetsquizen.</description>
+      <guid isPermaLink="false">l_7a24a01d-b48a-49a3-a4a0-1db48a09a33b</guid>
+      <pubDate>Thu, 30 Dec 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/a7983f27-8250-4c7a-a245-3f2f032d5d59_0_ID192MP3.mp3" type="audio/mpeg" length="55002861"></enclosure>
+      <itunes:title>Oi, skjedde det i år? Nyhetsåret 2021</itunes:title>
+      <itunes:summary>Spesial: Vi oppsummerer de viktigste nyhetene i 2021, forteller om sakene som har preget oss og kårer en vinner av den store nyhetsquizen.</itunes:summary>
+      <itunes:duration>2291</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2021">202112</podcast:season>
+    </item>
+    <item>
+      <title>Hosteskam, rasisme og julegavepress</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_a1b27fd9-769b-41be-b27f-d9769b41bef8</link>
+      <description>Lærer fikk sparken for å undervise i rasisme, Pål kvelte et host i 45 minutter på grunn av smitteskam og 1 av 3 unge føler på julegavepress.</description>
+      <guid isPermaLink="false">l_a1b27fd9-769b-41be-b27f-d9769b41bef8</guid>
+      <pubDate>Fri, 17 Dec 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/da139199-592d-40b1-934c-9081bcf3ba7a_0_ID192MP3.mp3" type="audio/mpeg" length="42610221"></enclosure>
+      <itunes:title>Hosteskam, rasisme og julegavepress</itunes:title>
+      <itunes:summary>Lærer fikk sparken for å undervise i rasisme, Pål kvelte et host i 45 minutter på grunn av smitteskam og 1 av 3 unge føler på julegavepress.</itunes:summary>
+      <itunes:duration>1775</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2021">202112</podcast:season>
+    </item>
+    <item>
+      <title>Slutten på pandemien? Formel 1 og juletre</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_3d3b66af-25e1-48e0-bb66-af25e118e0b2</link>
+      <description>Er omikron begynnelsen på slutten av pandemien? VM-avslutningen i Formel 1 blir kanskje den råeste på 50 år, og norsk juletre blir mobbet.</description>
+      <guid isPermaLink="false">l_3d3b66af-25e1-48e0-bb66-af25e118e0b2</guid>
+      <pubDate>Fri, 10 Dec 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/a04388d7-2267-45ad-a52e-ef0a2dcc12d1_0_ID192MP3.mp3" type="audio/mpeg" length="43043949"></enclosure>
+      <itunes:title>Slutten på pandemien? Formel 1 og juletre</itunes:title>
+      <itunes:summary>Er omikron begynnelsen på slutten av pandemien? VM-avslutningen i Formel 1 blir kanskje den råeste på 50 år, og norsk juletre blir mobbet.</itunes:summary>
+      <itunes:duration>1793</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2021">202112</podcast:season>
+    </item>
+    <item>
+      <title>Nye spor i Hagen-saken og Elon Musk sliter</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_939bf90b-e92e-4ef4-9bf9-0be92e6ef4f2</link>
+      <description>Kan en stjålet ID løse en av Norges største forsvinningssaker? Elon Musk frykter SpaceX-konkurs, og vi forklarer det du trenger om omikron.</description>
+      <guid isPermaLink="false">l_939bf90b-e92e-4ef4-9bf9-0be92e6ef4f2</guid>
+      <pubDate>Fri, 03 Dec 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/d5cca4a6-9cfc-4bd2-a1ee-f172a0f2152f_0_ID192MP3.mp3" type="audio/mpeg" length="43052589"></enclosure>
+      <itunes:title>Nye spor i Hagen-saken og Elon Musk sliter</itunes:title>
+      <itunes:summary>Kan en stjålet ID løse en av Norges største forsvinningssaker? Elon Musk frykter SpaceX-konkurs, og vi forklarer det du trenger om omikron.</itunes:summary>
+      <itunes:duration>1793</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2021">202112</podcast:season>
+    </item>
+    <item>
+      <title>Fredrik Solvang er gjest og MDMA som medisin?</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_0859be2f-9418-4fff-99be-2f9418cfffcb</link>
+      <description>Kan MDMA bli godkjent som medisin? Fredrik forklarer pendlerbolig-saken og Beckham får kritikk for Qatar-samarbeid. </description>
+      <guid isPermaLink="false">l_0859be2f-9418-4fff-99be-2f9418cfffcb</guid>
+      <pubDate>Fri, 26 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/b5186bf0-f74a-44a2-9c2d-b338771fd2f3_0_ID192MP3.mp3" type="audio/mpeg" length="50636781"></enclosure>
+      <itunes:title>Fredrik Solvang er gjest og MDMA som medisin?</itunes:title>
+      <itunes:summary>Kan MDMA bli godkjent som medisin? Fredrik forklarer pendlerbolig-saken og Beckham får kritikk for Qatar-samarbeid. </itunes:summary>
+      <itunes:duration>2109</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2021">202111</podcast:season>
+    </item>
+    <item>
+      <title>Virkelighetens Squid Game, Baneheia og VM-håp</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_2b975995-7d34-4d55-9759-957d34ed55c7</link>
+      <description>Er situasjonen i Hviterussland virkelighetens Squid Game? Gutta sviktet, men damene gir VM-håp, og hva betyr nye DNA-funn i Baneheia-saken?</description>
+      <guid isPermaLink="false">l_2b975995-7d34-4d55-9759-957d34ed55c7</guid>
+      <pubDate>Fri, 19 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/141217e2-6e23-44cb-92fb-037f57217095_0_ID192MP3.mp3" type="audio/mpeg" length="40445037"></enclosure>
+      <itunes:title>Virkelighetens Squid Game, Baneheia og VM-håp</itunes:title>
+      <itunes:summary>Er situasjonen i Hviterussland virkelighetens Squid Game? Gutta sviktet, men damene gir VM-håp, og hva betyr nye DNA-funn i Baneheia-saken?</itunes:summary>
+      <itunes:duration>1685</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2021">202111</podcast:season>
+    </item>
+    <item>
+      <title> Klimaspesial: Kommer hvithaien til Norge?</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_a694815d-dc70-4014-9481-5ddc70301450</link>
+      <description>En skikkelig gladnyhet, vi oppsummerer verdens kanskje viktigste møte og kommer det hvithai til Norge?&#xA;</description>
+      <guid isPermaLink="false">l_a694815d-dc70-4014-9481-5ddc70301450</guid>
+      <pubDate>Fri, 12 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/bd461b5e-3238-40d7-b65c-464ad8754d6c_0_ID192MP3.mp3" type="audio/mpeg" length="37732077"></enclosure>
+      <itunes:title> Klimaspesial: Kommer hvithaien til Norge?</itunes:title>
+      <itunes:summary>En skikkelig gladnyhet, vi oppsummerer verdens kanskje viktigste møte og kommer det hvithai til Norge?&#xA;</itunes:summary>
+      <itunes:duration>1572</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2021">202111</podcast:season>
+    </item>
+    <item>
+      <title>Metaverse-porno og Rima snakket med Taliban</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_ab9de810-5512-41f8-9de8-10551261f870</link>
+      <description>Kan metaverse gjøre at du kan delta i pornofilmer? NASA sitt nye rom-teleskop skal lete etter liv, og Rima har snakket med Taliban.</description>
+      <guid isPermaLink="false">l_ab9de810-5512-41f8-9de8-10551261f870</guid>
+      <pubDate>Fri, 05 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/4432bbfe-8f00-4f41-bbff-d7178801cb72_0_ID192MP3.mp3" type="audio/mpeg" length="42221997"></enclosure>
+      <itunes:title>Metaverse-porno og Rima snakket med Taliban</itunes:title>
+      <itunes:summary>Kan metaverse gjøre at du kan delta i pornofilmer? NASA sitt nye rom-teleskop skal lete etter liv, og Rima har snakket med Taliban.</itunes:summary>
+      <itunes:duration>1759</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2021">202111</podcast:season>
+    </item>
+    <item>
+      <title>GHB, dømmes Baldwin? Saudi-Arabias Mean Girls</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_6cd498a1-7546-4bc7-9498-a17546ebc73e</link>
+      <description>Jenter dopes ned med GHB og sprøyter på byen. Kan Alec Baldwin bli dømt for drap? Og har det noe å si hvem som eier et fotballag?</description>
+      <guid isPermaLink="false">l_6cd498a1-7546-4bc7-9498-a17546ebc73e</guid>
+      <pubDate>Fri, 29 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/4573571a-e14d-46d8-aaef-2411be42a575_0_ID192MP3.mp3" type="audio/mpeg" length="41421357"></enclosure>
+      <itunes:title>GHB, dømmes Baldwin? Saudi-Arabias Mean Girls</itunes:title>
+      <itunes:summary>Jenter dopes ned med GHB og sprøyter på byen. Kan Alec Baldwin bli dømt for drap? Og har det noe å si hvem som eier et fotballag?</itunes:summary>
+      <itunes:duration>1725</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2021">202110</podcast:season>
+    </item>
+    <item>
+      <title>Kaos i Kina, Marvel-avsløring og strømpriser</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_20692de4-99e6-44ec-a92d-e499e614ecc4</link>
+      <description>Vi forklarer situasjonen i Kina og hvorfor strømmen er så dyr akkurat nå. I tillegg skal Harry Styles spille broren til Thamos.</description>
+      <guid isPermaLink="false">l_20692de4-99e6-44ec-a92d-e499e614ecc4</guid>
+      <pubDate>Fri, 22 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/feeeee1c-dd4f-4899-9ba1-a1630265b2f1_0_ID192MP3.mp3" type="audio/mpeg" length="50768109"></enclosure>
+      <itunes:title>Kaos i Kina, Marvel-avsløring og strømpriser</itunes:title>
+      <itunes:summary>Vi forklarer situasjonen i Kina og hvorfor strømmen er så dyr akkurat nå. I tillegg skal Harry Styles spille broren til Thamos.</itunes:summary>
+      <itunes:duration>2115</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2021">202110</podcast:season>
+    </item>
+    <item>
+      <title>Regjeringen, Squid Game og satellittkrasj</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_01cfdd58-baa7-4eb4-8fdd-58baa7beb415</link>
+      <description>Dette betyr ny regjering og statsbudsjettet for deg. I tillegg er det så mange satellitter i verdensrommet at de kan kollidere, hva skjer?</description>
+      <guid isPermaLink="false">l_01cfdd58-baa7-4eb4-8fdd-58baa7beb415</guid>
+      <pubDate>Fri, 15 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/21a2134c-0646-479e-a6c2-98317bd96d41_0_ID192MP3.mp3" type="audio/mpeg" length="42897069"></enclosure>
+      <itunes:title>Regjeringen, Squid Game og satellittkrasj</itunes:title>
+      <itunes:summary>Dette betyr ny regjering og statsbudsjettet for deg. I tillegg er det så mange satellitter i verdensrommet at de kan kollidere, hva skjer?</itunes:summary>
+      <itunes:duration>1787</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2021">202110</podcast:season>
+    </item>
+    <item>
+      <title>Ringenes Herre-avsløring, Putin og Facebook </title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_025e5d70-2f4a-4f7d-9e5d-702f4a2f7daa</link>
+      <description>Vi forklarer hvordan Putin vant valget, Facebook-lekkasjen og hvordan en ork ble designet for å ligne på Harvey Weinstein. </description>
+      <guid isPermaLink="false">l_025e5d70-2f4a-4f7d-9e5d-702f4a2f7daa</guid>
+      <pubDate>Fri, 08 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/ee9ba50d-5bd6-431c-a748-98c13b563f29_0_ID192MP3.mp3" type="audio/mpeg" length="42487533"></enclosure>
+      <itunes:title>Ringenes Herre-avsløring, Putin og Facebook </itunes:title>
+      <itunes:summary>Vi forklarer hvordan Putin vant valget, Facebook-lekkasjen og hvordan en ork ble designet for å ligne på Harvey Weinstein. </itunes:summary>
+      <itunes:duration>1770</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2021">202110</podcast:season>
+    </item>
+    <item>
+      <title>Britney, konspirasjoner og ny regjering</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_3c34c70f-7147-4051-b4c7-0f7147a051e8</link>
+      <description>Vi forklarer hvordan konspirasjonsteorier oppstår, hva som skjer rundt ny regjering og Britney Spears&#39; vei til frihet. </description>
+      <guid isPermaLink="false">l_3c34c70f-7147-4051-b4c7-0f7147a051e8</guid>
+      <pubDate>Fri, 01 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/989fabe4-8437-4cc2-a013-fbc447e98792_0_ID192MP3.mp3" type="audio/mpeg" length="41367213"></enclosure>
+      <itunes:title>Britney, konspirasjoner og ny regjering</itunes:title>
+      <itunes:summary>Vi forklarer hvordan konspirasjonsteorier oppstår, hva som skjer rundt ny regjering og Britney Spears&#39; vei til frihet. </itunes:summary>
+      <itunes:duration>1723</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2021">202110</podcast:season>
+    </item>
+    <item>
+      <title>Ny podkast 1. oktober: Nyhetsblanding</title>
+      <link>https://radio.nrk.no/podkast/nyhetsblanding/l_c768d587-2993-466d-a8d5-872993066d6c</link>
+      <description>For deg som vil ha god oversikt over siste nytt, forklart av en gjeng du trives med. Premiere 1. oktober! </description>
+      <guid isPermaLink="false">l_c768d587-2993-466d-a8d5-872993066d6c</guid>
+      <pubDate>Thu, 23 Sep 2021 14:55:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nyhetsblanding/9500c07c-b46b-49aa-97c9-c213345024aa_0_ID192MP3.mp3" type="audio/mpeg" length="813933"></enclosure>
+      <itunes:title>Ny podkast 1. oktober: Nyhetsblanding</itunes:title>
+      <itunes:summary>For deg som vil ha god oversikt over siste nytt, forklart av en gjeng du trives med. Premiere 1. oktober! </itunes:summary>
+      <itunes:duration>33</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gIu4jVVj2do7IOWhfCz-ag2p84Rmox16CQshq2Zylq3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2021">202109</podcast:season>
+    </item>
+  </channel>
+</rss>

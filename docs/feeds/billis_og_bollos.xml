@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Billis og Bollos</title>
+    <link>https://radio.nrk.no/podkast/billis_og_bollos</link>
+    <description>Billis og Bollos er to små monstre som bor i lekeskuffen til lille Leandra. Bli med Billis og Bollos på deres morsomme og spennende eventyr.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 25 Sep 2020 03:55:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/billis_og_bollos.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Billis og Bollos er to små monstre som bor i lekeskuffen til lille Leandra. Bli med Billis og Bollos på deres morsomme og spennende eventyr.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg</url>
+      <title>Billis og Bollos</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos</link>
+    </image>
+    <item>
+      <title>Rotteracet</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_4673aa72-3c31-41e8-b3aa-723c3111e881</link>
+      <description>Billis og Bollos har kappløp med de hjemmelagde kassebilene sine, når en slu rotte med superrask kassebil dukker opp og ødelegger alt.</description>
+      <guid isPermaLink="false">l_4673aa72-3c31-41e8-b3aa-723c3111e881</guid>
+      <pubDate>Fri, 25 Sep 2020 05:55:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/aff8839e-d906-4560-9593-89685b6546ab_0_ID192MP3.mp3" type="audio/mpeg" length="20383288"></enclosure>
+      <itunes:title>Rotteracet</itunes:title>
+      <itunes:summary>Billis og Bollos har kappløp med de hjemmelagde kassebilene sine, når en slu rotte med superrask kassebil dukker opp og ødelegger alt.</itunes:summary>
+      <itunes:duration>849</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Trampolinesvinet</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_5da9b467-b513-410e-a9b4-67b513310e0c</link>
+      <description>Billis og Bollos hopper på trampoline, men Bollos tør ikke hoppe med andre. Billis hopper med en trampolinegal gris, som absolutt ikke bryr seg om sikkerhet.</description>
+      <guid isPermaLink="false">l_5da9b467-b513-410e-a9b4-67b513310e0c</guid>
+      <pubDate>Fri, 25 Sep 2020 05:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/00dec43f-9f84-4385-b1b4-66a3e83121e2_0_ID192MP3.mp3" type="audio/mpeg" length="17406526"></enclosure>
+      <itunes:title>Trampolinesvinet</itunes:title>
+      <itunes:summary>Billis og Bollos hopper på trampoline, men Bollos tør ikke hoppe med andre. Billis hopper med en trampolinegal gris, som absolutt ikke bryr seg om sikkerhet.</itunes:summary>
+      <itunes:duration>725</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hermekråka</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_9d0df3af-eefe-4b93-8df3-afeefe8b93d1</link>
+      <description>Billis og Bollos møter en veldig irriterende kråke som bare hermer etter dem. Hvordan skal de få hermekråka til å slutte å plage dem? </description>
+      <guid isPermaLink="false">l_9d0df3af-eefe-4b93-8df3-afeefe8b93d1</guid>
+      <pubDate>Fri, 25 Sep 2020 05:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/7be202aa-1c58-4f69-8643-abc8a0033dce_0_ID192MP3.mp3" type="audio/mpeg" length="19248568"></enclosure>
+      <itunes:title>Hermekråka</itunes:title>
+      <itunes:summary>Billis og Bollos møter en veldig irriterende kråke som bare hermer etter dem. Hvordan skal de få hermekråka til å slutte å plage dem? </itunes:summary>
+      <itunes:duration>801</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hjort På Hjul</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_e44c2602-a021-49ed-8c26-02a02159edb5</link>
+      <description>Billis og Bollos er på sparkesykkeltur når de møter en svært forsiktig hjort. De to små monstrene arrangerer et sparkesykkelkurs for den store hjortebukken.</description>
+      <guid isPermaLink="false">l_e44c2602-a021-49ed-8c26-02a02159edb5</guid>
+      <pubDate>Fri, 25 Sep 2020 05:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/24ca0f9d-69a7-4dfb-bd24-b2c6002817c4_0_ID192MP3.mp3" type="audio/mpeg" length="16757947"></enclosure>
+      <itunes:title>Hjort På Hjul</itunes:title>
+      <itunes:summary>Billis og Bollos er på sparkesykkeltur når de møter en svært forsiktig hjort. De to små monstrene arrangerer et sparkesykkelkurs for den store hjortebukken.</itunes:summary>
+      <itunes:duration>698</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Muskelbilen</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_f489271e-33aa-460b-8927-1e33aa060bfb</link>
+      <description>Billis og Bollos drar på bondegård for å bake boller, men får det ikke til. En gigantisk gjødselbille med superkrefter må redde bollefesten.</description>
+      <guid isPermaLink="false">l_f489271e-33aa-460b-8927-1e33aa060bfb</guid>
+      <pubDate>Fri, 25 Sep 2020 05:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/4d0c6743-cf7e-4a11-9a53-07696dcb0e2a_0_ID192MP3.mp3" type="audio/mpeg" length="19531385"></enclosure>
+      <itunes:title>Muskelbilen</itunes:title>
+      <itunes:summary>Billis og Bollos drar på bondegård for å bake boller, men får det ikke til. En gigantisk gjødselbille med superkrefter må redde bollefesten.</itunes:summary>
+      <itunes:duration>813</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sjømonsteret</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_782074e5-b8e7-4ba4-a074-e5b8e76ba424</link>
+      <description>Billis og Bollos dykker etter skjell med perler i, men de oppdager et sjømonster på bunnen av fjorden. Hvordan skal de få tak i perlene nå?</description>
+      <guid isPermaLink="false">l_782074e5-b8e7-4ba4-a074-e5b8e76ba424</guid>
+      <pubDate>Fri, 25 Sep 2020 05:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/b2f3f461-4e3f-4131-bc20-e97e5b00985f_0_ID192MP3.mp3" type="audio/mpeg" length="15946362"></enclosure>
+      <itunes:title>Sjømonsteret</itunes:title>
+      <itunes:summary>Billis og Bollos dykker etter skjell med perler i, men de oppdager et sjømonster på bunnen av fjorden. Hvordan skal de få tak i perlene nå?</itunes:summary>
+      <itunes:duration>664</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Malekatten</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_fa7bf1b4-738b-41a3-bbf1-b4738b41a3ef</link>
+      <description>Billis og Bollos maler bilder i hagen, men Billis syns det er vanskelig å male fint. Når en snikete katt stjeler malingen deres, må de male bedre enn noen gang for å få den tilbake.</description>
+      <guid isPermaLink="false">l_fa7bf1b4-738b-41a3-bbf1-b4738b41a3ef</guid>
+      <pubDate>Fri, 25 Sep 2020 05:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/44064248-06c6-48dc-9db9-71e52161f5c6_0_ID192MP3.mp3" type="audio/mpeg" length="15940024"></enclosure>
+      <itunes:title>Malekatten</itunes:title>
+      <itunes:summary>Billis og Bollos maler bilder i hagen, men Billis syns det er vanskelig å male fint. Når en snikete katt stjeler malingen deres, må de male bedre enn noen gang for å få den tilbake.</itunes:summary>
+      <itunes:duration>664</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Floketrøbbel</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_9abcd97d-eac0-47be-bcd9-7deac077be05</link>
+      <description>Bollos har en stor floke på ryggen som han nekter å gre ut, men når floken henger seg opp i et stort dyr må Billis redde ham.</description>
+      <guid isPermaLink="false">l_9abcd97d-eac0-47be-bcd9-7deac077be05</guid>
+      <pubDate>Fri, 25 Sep 2020 05:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/0bfc4e28-d44c-4058-9d51-2cfaeed3341c_0_ID192MP3.mp3" type="audio/mpeg" length="19984698"></enclosure>
+      <itunes:title>Floketrøbbel</itunes:title>
+      <itunes:summary>Bollos har en stor floke på ryggen som han nekter å gre ut, men når floken henger seg opp i et stort dyr må Billis redde ham.</itunes:summary>
+      <itunes:duration>832</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Flygetyven</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_f9fb3f06-dcf6-46a1-bb3f-06dcf6a6a162</link>
+      <description>Billis og Bollos bygger trehytte, men når en flygende tyv stjeler hytten deres må de pønske ut en måte å få hytten tilbake.</description>
+      <guid isPermaLink="false">l_f9fb3f06-dcf6-46a1-bb3f-06dcf6a6a162</guid>
+      <pubDate>Fri, 25 Sep 2020 05:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/8c5f9f8a-30b8-4d66-9eb2-ae715cdd5654_0_ID192MP3.mp3" type="audio/mpeg" length="16068472"></enclosure>
+      <itunes:title>Flygetyven</itunes:title>
+      <itunes:summary>Billis og Bollos bygger trehytte, men når en flygende tyv stjeler hytten deres må de pønske ut en måte å få hytten tilbake.</itunes:summary>
+      <itunes:duration>669</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Elveturen</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_6acc2413-7c02-484e-8c24-137c02084e77</link>
+      <description>Billis og Bollos skal bade i elven, men badeplassen deres er helt tom for vann. De finner en leken og lat bever som de må overtale til å fikse demningen, så de kan bade. </description>
+      <guid isPermaLink="false">l_6acc2413-7c02-484e-8c24-137c02084e77</guid>
+      <pubDate>Fri, 25 Sep 2020 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/01ed2a4c-68d1-4ef2-8873-9bdd2897c330_0_ID192MP3.mp3" type="audio/mpeg" length="18831543"></enclosure>
+      <itunes:title>Elveturen</itunes:title>
+      <itunes:summary>Billis og Bollos skal bade i elven, men badeplassen deres er helt tom for vann. De finner en leken og lat bever som de må overtale til å fikse demningen, så de kan bade. </itunes:summary>
+      <itunes:duration>784</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xwoP1UsL-JS9mjPErdY9gAejhN3sjo0bMqrEQx5s40Gg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Verdens kuleste sykkel</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_9947b5dd-bf30-4ff9-87b5-ddbf303ff970</link>
+      <description>Billis og Bollos låner verdens kuleste sykkel uten lov, og ødelegger den. Hva skal de gjøre nå?</description>
+      <guid isPermaLink="false">l_9947b5dd-bf30-4ff9-87b5-ddbf303ff970</guid>
+      <pubDate>Thu, 14 Feb 2019 19:11:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1811_2785.MP3" type="audio/mpeg" length="16456334"></enclosure>
+      <itunes:title>Verdens kuleste sykkel</itunes:title>
+      <itunes:summary>Billis og Bollos låner verdens kuleste sykkel uten lov, og ødelegger den. Hva skal de gjøre nå?</itunes:summary>
+      <itunes:duration>681</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Uvenner</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_b46092f6-3704-472a-a092-f63704c72ab2</link>
+      <description>Billis og Bollos blir uvenner og Billis finner seg en ny venn, en liten marihøne.</description>
+      <guid isPermaLink="false">l_b46092f6-3704-472a-a092-f63704c72ab2</guid>
+      <pubDate>Thu, 14 Feb 2019 19:10:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1810_582.MP3" type="audio/mpeg" length="15277674"></enclosure>
+      <itunes:title>Uvenner</itunes:title>
+      <itunes:summary>Billis og Bollos blir uvenner og Billis finner seg en ny venn, en liten marihøne.</itunes:summary>
+      <itunes:duration>632</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Superhelter</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_d4192bfe-663b-49ce-992b-fe663b59ce25</link>
+      <description>Billis og Bollos leker superhelter, men når de møter en villsau må de bli superhelter på ekte.</description>
+      <guid isPermaLink="false">l_d4192bfe-663b-49ce-992b-fe663b59ce25</guid>
+      <pubDate>Thu, 14 Feb 2019 19:09:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1809_2479.MP3" type="audio/mpeg" length="14236961"></enclosure>
+      <itunes:title>Superhelter</itunes:title>
+      <itunes:summary>Billis og Bollos leker superhelter, men når de møter en villsau må de bli superhelter på ekte.</itunes:summary>
+      <itunes:duration>589</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Skogsturen</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_33cd4f1f-447d-42d1-8d4f-1f447d72d1cc</link>
+      <description>Billis og Bollos drar på skogstur, men møter på en slu rev som vil ha tak i maten deres.</description>
+      <guid isPermaLink="false">l_33cd4f1f-447d-42d1-8d4f-1f447d72d1cc</guid>
+      <pubDate>Thu, 14 Feb 2019 19:08:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1808_1327.MP3" type="audio/mpeg" length="15350401"></enclosure>
+      <itunes:title>Skogsturen</itunes:title>
+      <itunes:summary>Billis og Bollos drar på skogstur, men møter på en slu rev som vil ha tak i maten deres.</itunes:summary>
+      <itunes:duration>635</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ninjadragen</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_41000d7a-e489-4149-800d-7ae48941493f</link>
+      <description>Billis og Bollos leker med en krabbe på stranden, men blir plutselig fanget av en mystisk ninjadrage.</description>
+      <guid isPermaLink="false">l_41000d7a-e489-4149-800d-7ae48941493f</guid>
+      <pubDate>Thu, 14 Feb 2019 19:07:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1807_1786.MP3" type="audio/mpeg" length="16822458"></enclosure>
+      <itunes:title>Ninjadragen</itunes:title>
+      <itunes:summary>Billis og Bollos leker med en krabbe på stranden, men blir plutselig fanget av en mystisk ninjadrage.</itunes:summary>
+      <itunes:duration>697</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Løvtyven</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_f2719978-051a-4923-b199-78051ae923f2</link>
+      <description>Billis og Bollos finner masse verdifulle gulløv og blir rike, men når en tyv stjeler alt løvet må Billis og Bollos jakte på tyven. </description>
+      <guid isPermaLink="false">l_f2719978-051a-4923-b199-78051ae923f2</guid>
+      <pubDate>Thu, 14 Feb 2019 19:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1805_3521.MP3" type="audio/mpeg" length="16283911"></enclosure>
+      <itunes:title>Løvtyven</itunes:title>
+      <itunes:summary>Billis og Bollos finner masse verdifulle gulløv og blir rike, men når en tyv stjeler alt løvet må Billis og Bollos jakte på tyven. </itunes:summary>
+      <itunes:duration>674</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gjørmekongen</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_98810946-a921-45c5-8109-46a92105c5f7</link>
+      <description>Billis og Bollos elsker gjørmebad, men når en froskekonge nekter dem å bade i gjørmen sin blir det gjørmekamp.</description>
+      <guid isPermaLink="false">l_98810946-a921-45c5-8109-46a92105c5f7</guid>
+      <pubDate>Thu, 14 Feb 2019 19:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1802_122.MP3" type="audio/mpeg" length="16082679"></enclosure>
+      <itunes:title>Gjørmekongen</itunes:title>
+      <itunes:summary>Billis og Bollos elsker gjørmebad, men når en froskekonge nekter dem å bade i gjørmen sin blir det gjørmekamp.</itunes:summary>
+      <itunes:duration>666</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fisketuren</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_588bfdac-94ff-404a-8bfd-ac94fff04a1f</link>
+      <description>Billis og Bollos drar på fisketur, men en måke stjeler fiskestangen deres.</description>
+      <guid isPermaLink="false">l_588bfdac-94ff-404a-8bfd-ac94fff04a1f</guid>
+      <pubDate>Thu, 14 Feb 2019 19:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1800_2063.MP3" type="audio/mpeg" length="15315920"></enclosure>
+      <itunes:title>Fisketuren</itunes:title>
+      <itunes:summary>Billis og Bollos drar på fisketur, men en måke stjeler fiskestangen deres.</itunes:summary>
+      <itunes:duration>634</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Den grusomme Herr Flis</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_4aa29b13-cbd8-42be-a29b-13cbd8d2be8e</link>
+      <description>Billis og Bollos er på stranden og Bollos får en grusom flis i fingeren sin.</description>
+      <guid isPermaLink="false">l_4aa29b13-cbd8-42be-a29b-13cbd8d2be8e</guid>
+      <pubDate>Thu, 14 Feb 2019 18:58:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1758_4227.MP3" type="audio/mpeg" length="18728346"></enclosure>
+      <itunes:title>Den grusomme Herr Flis</itunes:title>
+      <itunes:summary>Billis og Bollos er på stranden og Bollos får en grusom flis i fingeren sin.</itunes:summary>
+      <itunes:duration>776</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dansekonkurransen</title>
+      <link>https://radio.nrk.no/podkast/billis_og_bollos/l_93b029ec-4839-4dae-b029-ec48398dae88</link>
+      <description>Billis og Bollos tar nøttene til ekornene og må vinne en dansekonkurranse for å unngå nøttefengsel.</description>
+      <guid isPermaLink="false">l_93b029ec-4839-4dae-b029-ec48398dae88</guid>
+      <pubDate>Thu, 14 Feb 2019 16:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/billis_og_bollos/billis_og_bollos_2019-02-14_1500_2778.MP3" type="audio/mpeg" length="20260595"></enclosure>
+      <itunes:title>Dansekonkurransen</itunes:title>
+      <itunes:summary>Billis og Bollos tar nøttene til ekornene og må vinne en dansekonkurranse for å unngå nøttefengsel.</itunes:summary>
+      <itunes:duration>840</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uG-xkMyk7uE1C8g_x5UQIAQ24CJUCRW2aA488dsAl4aA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

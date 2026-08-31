@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CLUE</title>
+    <link>https://radio.nrk.no/podkast/clue</link>
+    <description>Spenningsserie med gåter og mystiske hendelser, skarpsindige ungdommer og mistenkelige personer.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Sat, 30 Jun 2018 04:08:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/clue.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Spenningsserie med gåter og mystiske hendelser, skarpsindige ungdommer og mistenkelige personer.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A</url>
+      <title>CLUE</title>
+      <link>https://radio.nrk.no/podkast/clue</link>
+    </image>
+    <item>
+      <title>Hodeskallegåten - del 2 (8:8) sesong 2</title>
+      <link>https://radio.nrk.no/podkast/clue/l_6373d8dc-a285-4fc9-b3d8-dca2853fc9a7</link>
+      <description>I det hemmelige rommet i Doktorgården, finner CLUE det hodeløse skjelettet til Arthur Brumann, og andre funn viser at han var på sporet av Kutterskatten! Kan Cecilia, Leo, Une og Egon finne skatten og redde Perlen pensjonat? Og hvor har det blitt av hodeskallen?</description>
+      <guid isPermaLink="false">l_6373d8dc-a285-4fc9-b3d8-dca2853fc9a7</guid>
+      <pubDate>Sat, 30 Jun 2018 06:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2018-06-30_0400_2614.MP3" type="audio/mpeg" length="40899412"></enclosure>
+      <itunes:title>Hodeskallegåten - del 2 (8:8) sesong 2</itunes:title>
+      <itunes:summary>I det hemmelige rommet i Doktorgården, finner CLUE det hodeløse skjelettet til Arthur Brumann, og andre funn viser at han var på sporet av Kutterskatten! Kan Cecilia, Leo, Une og Egon finne skatten og redde Perlen pensjonat? Og hvor har det blitt av hodeskallen?</itunes:summary>
+      <itunes:duration>1700</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hodeskallegåten - del 1 (7:8) sesong 2</title>
+      <link>https://radio.nrk.no/podkast/clue/l_bb080dcd-d050-4dae-880d-cdd0506dae38</link>
+      <description>For 20 år siden forsvant Arthur Brumann sporløst fra Perlen, og CLUE vil finne ut hva som skjedde. De går gjennom eiendelene hans og oppdager at han var veldig opptatt av Doktorgården, og på en plantegning finner de noe som kan være et hemmelig rom…?&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_bb080dcd-d050-4dae-880d-cdd0506dae38</guid>
+      <pubDate>Sat, 30 Jun 2018 06:07:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2018-06-30_0400_2995.MP3" type="audio/mpeg" length="40604146"></enclosure>
+      <itunes:title>Hodeskallegåten - del 1 (7:8) sesong 2</itunes:title>
+      <itunes:summary>For 20 år siden forsvant Arthur Brumann sporløst fra Perlen, og CLUE vil finne ut hva som skjedde. De går gjennom eiendelene hans og oppdager at han var veldig opptatt av Doktorgården, og på en plantegning finner de noe som kan være et hemmelig rom…?&#xA;&#xA;</itunes:summary>
+      <itunes:duration>1688</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Rivertongåten - del 2 (6:8) sesong 2</title>
+      <link>https://radio.nrk.no/podkast/clue/l_e69d219d-e8c0-4fbb-9d21-9de8c06fbb36</link>
+      <description>Gamle-Tim har fortalt Cecilia, Leo og Une om den underlige Doktor Riverton, som ble gal og sperret seg inne. De drar på oppdagelsesferd til Doktorgården og finner noe uventet. En kasse full av våpen, finlandshetter og walkie-talkier. Dette får CLUE til å innse at noen planlegger et ran i Skutebukta! Kan de få varslet politiet i tide? </description>
+      <guid isPermaLink="false">l_e69d219d-e8c0-4fbb-9d21-9de8c06fbb36</guid>
+      <pubDate>Sat, 30 Jun 2018 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2018-06-30_0400_97.MP3" type="audio/mpeg" length="44003386"></enclosure>
+      <itunes:title>Rivertongåten - del 2 (6:8) sesong 2</itunes:title>
+      <itunes:summary>Gamle-Tim har fortalt Cecilia, Leo og Une om den underlige Doktor Riverton, som ble gal og sperret seg inne. De drar på oppdagelsesferd til Doktorgården og finner noe uventet. En kasse full av våpen, finlandshetter og walkie-talkier. Dette får CLUE til å innse at noen planlegger et ran i Skutebukta! Kan de få varslet politiet i tide? </itunes:summary>
+      <itunes:duration>1829</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Rivertongåten - del 1 (5:8) sesong 2</title>
+      <link>https://radio.nrk.no/podkast/clue/l_f13c6a94-ba98-480f-bc6a-94ba98180f2b</link>
+      <description>Det nærmer seg jul i Skutebukta. CLUE pynter Tårnværelset, da Cecilia ser noe underlig blinke inne i skogen. De løper ut i vinterkvelden og finner at noen har laget en løype med reflekser som leder til foten av en gran, hvor en gammel trekasse er gjemt. Før de rekker å åpne kassa, kommer to mystiske menn...</description>
+      <guid isPermaLink="false">l_f13c6a94-ba98-480f-bc6a-94ba98180f2b</guid>
+      <pubDate>Sat, 30 Jun 2018 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2018-06-30_0400_769.MP3" type="audio/mpeg" length="42740746"></enclosure>
+      <itunes:title>Rivertongåten - del 1 (5:8) sesong 2</itunes:title>
+      <itunes:summary>Det nærmer seg jul i Skutebukta. CLUE pynter Tårnværelset, da Cecilia ser noe underlig blinke inne i skogen. De løper ut i vinterkvelden og finner at noen har laget en løype med reflekser som leder til foten av en gran, hvor en gammel trekasse er gjemt. Før de rekker å åpne kassa, kommer to mystiske menn...</itunes:summary>
+      <itunes:duration>1777</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Esmeraldagåten - del 2 (4:8) sesong 2</title>
+      <link>https://radio.nrk.no/podkast/clue/l_d623d943-4740-4e13-a3d9-4347406e13e4</link>
+      <description>Dykkerne har funnet kutteren &#34;Lizzie Margret&#34;, men hva er det de frakter i land, pakket inn i sort plast? Kan de ha funnet skatten? Kan det være de som har lagret noe inne i Esmeraldagruven? CLUE tar saken!</description>
+      <guid isPermaLink="false">l_d623d943-4740-4e13-a3d9-4347406e13e4</guid>
+      <pubDate>Sat, 30 Jun 2018 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2018-06-30_0400_4179.MP3" type="audio/mpeg" length="43902450"></enclosure>
+      <itunes:title>Esmeraldagåten - del 2 (4:8) sesong 2</itunes:title>
+      <itunes:summary>Dykkerne har funnet kutteren &#34;Lizzie Margret&#34;, men hva er det de frakter i land, pakket inn i sort plast? Kan de ha funnet skatten? Kan det være de som har lagret noe inne i Esmeraldagruven? CLUE tar saken!</itunes:summary>
+      <itunes:duration>1825</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Esmeraldagåten - del 1 (3:8) sesong 2</title>
+      <link>https://radio.nrk.no/podkast/clue/l_782b8258-3175-4df2-ab82-583175edf222</link>
+      <description>Når dykkere kommer til Skutebukta for å søke etter &#34;Lizzie Margret&#34;, et seilskip som forliste i 1868, får Cecilia, Leo og Une høre om en gammel skatt som skal være gjemt et sted i bygda. De bestemmer seg for å prøve å finne den mystiske &#34;Kutterskatten&#34;, og jakten bringer dem til den forlatte Esmeraldagruven. </description>
+      <guid isPermaLink="false">l_782b8258-3175-4df2-ab82-583175edf222</guid>
+      <pubDate>Sat, 30 Jun 2018 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2018-06-30_0400_1076.MP3" type="audio/mpeg" length="42034814"></enclosure>
+      <itunes:title>Esmeraldagåten - del 1 (3:8) sesong 2</itunes:title>
+      <itunes:summary>Når dykkere kommer til Skutebukta for å søke etter &#34;Lizzie Margret&#34;, et seilskip som forliste i 1868, får Cecilia, Leo og Une høre om en gammel skatt som skal være gjemt et sted i bygda. De bestemmer seg for å prøve å finne den mystiske &#34;Kutterskatten&#34;, og jakten bringer dem til den forlatte Esmeraldagruven. </itunes:summary>
+      <itunes:duration>1747</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Libertygåten - del 2 (2:8) sesong 2</title>
+      <link>https://radio.nrk.no/podkast/clue/l_7759b244-2df5-4a7f-99b2-442df55a7ff0</link>
+      <description>Cecilia, Leo og Une finner en avis der noen har klippet ut bokstaver og ord. Det viser seg etter hvert å handle om et trusselbrev der det går tydelig fram at politiet ikke må involveres. Pensjonatet Perlen er fullt av gjester på høstferie, noen mer spesielle enn andre – og mange har noe å skjule. Ute ved Steinholmen ligger en mystisk seilbåt ankret opp, og i et skogholt står det parkert en bil med en blodig t-skjorte i baksetet.&#xA;Medvirkende</description>
+      <guid isPermaLink="false">l_7759b244-2df5-4a7f-99b2-442df55a7ff0</guid>
+      <pubDate>Sat, 30 Jun 2018 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2018-06-30_0400_2687.MP3" type="audio/mpeg" length="40761500"></enclosure>
+      <itunes:title>Libertygåten - del 2 (2:8) sesong 2</itunes:title>
+      <itunes:summary>Cecilia, Leo og Une finner en avis der noen har klippet ut bokstaver og ord. Det viser seg etter hvert å handle om et trusselbrev der det går tydelig fram at politiet ikke må involveres. Pensjonatet Perlen er fullt av gjester på høstferie, noen mer spesielle enn andre – og mange har noe å skjule. Ute ved Steinholmen ligger en mystisk seilbåt ankret opp, og i et skogholt står det parkert en bil med en blodig t-skjorte i baksetet.&#xA;Medvirkende</itunes:summary>
+      <itunes:duration>1694</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Libertygåten del 1  (1:8) sesong 2</title>
+      <link>https://radio.nrk.no/podkast/clue/l_7f57597b-f753-4337-9759-7bf753a337a4</link>
+      <description>Vi følger Clue-gjengen - Cecilia, Leo, Une og hunden Egon videre på skjulte stier inn i natt og tåke, gjennom grotter og falleferdige hus. Skutebukta inntas av mystiske fremmede, skjelett dukker opp og gåter må løses…&#xA;</description>
+      <guid isPermaLink="false">l_7f57597b-f753-4337-9759-7bf753a337a4</guid>
+      <pubDate>Sat, 30 Jun 2018 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2018-06-30_0400_4178.MP3" type="audio/mpeg" length="41629178"></enclosure>
+      <itunes:title>Libertygåten del 1  (1:8) sesong 2</itunes:title>
+      <itunes:summary>Vi følger Clue-gjengen - Cecilia, Leo, Une og hunden Egon videre på skjulte stier inn i natt og tåke, gjennom grotter og falleferdige hus. Skutebukta inntas av mystiske fremmede, skjelett dukker opp og gåter må løses…&#xA;</itunes:summary>
+      <itunes:duration>1730</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Avsløringa (8:8) sesong 1</title>
+      <link>https://radio.nrk.no/podkast/clue/l_65eb7251-ab60-49bf-ab72-51ab60a9bf46</link>
+      <description>CLUE-gjengen jakter på bobilen som kjørte på Une, har den noe med tyskergullet å gjøre? Cecilia får til slutt vite hvordan moren døde, og Cecilia, Leo, Une og Egon kan endelig ta sommerferie.</description>
+      <guid isPermaLink="false">l_65eb7251-ab60-49bf-ab72-51ab60a9bf46</guid>
+      <pubDate>Fri, 07 Jul 2017 14:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2017-07-07_1230_2587.MP3" type="audio/mpeg" length="39451786"></enclosure>
+      <itunes:title>Avsløringa (8:8) sesong 1</itunes:title>
+      <itunes:summary>CLUE-gjengen jakter på bobilen som kjørte på Une, har den noe med tyskergullet å gjøre? Cecilia får til slutt vite hvordan moren døde, og Cecilia, Leo, Une og Egon kan endelig ta sommerferie.</itunes:summary>
+      <itunes:duration>1640</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Flaggermusgrotta (7:8) sesong 1</title>
+      <link>https://radio.nrk.no/podkast/clue/l_f8ab1b9a-a6c0-403a-ab1b-9aa6c0803a4f</link>
+      <description>&#34;Fuglemannen&#34; kommer til pensjonatet og hjelper CLUE-gjengen videre i mysteriet med morens død. Cecilia, Leo og Une bestemmer seg for å dra på telttur for å finne ut hvem som åpner gravene ved den gamle steinkirken.</description>
+      <guid isPermaLink="false">l_f8ab1b9a-a6c0-403a-ab1b-9aa6c0803a4f</guid>
+      <pubDate>Fri, 07 Jul 2017 14:29:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2017-07-07_1229_1478.MP3" type="audio/mpeg" length="39559005"></enclosure>
+      <itunes:title>Flaggermusgrotta (7:8) sesong 1</itunes:title>
+      <itunes:summary>&#34;Fuglemannen&#34; kommer til pensjonatet og hjelper CLUE-gjengen videre i mysteriet med morens død. Cecilia, Leo og Une bestemmer seg for å dra på telttur for å finne ut hvem som åpner gravene ved den gamle steinkirken.</itunes:summary>
+      <itunes:duration>1644</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Medaljongen (6:8) sesong 1</title>
+      <link>https://radio.nrk.no/podkast/clue/l_71cd636b-3a70-406c-8d63-6b3a70406cf9</link>
+      <description>Christian Lasson avslører den store hemmeligheten sin for alle på Perlen pensjonat. Cecilias mors medaljong dukker plutselig opp, og politiet bestemmer seg for å gjenoppta saken.</description>
+      <guid isPermaLink="false">l_71cd636b-3a70-406c-8d63-6b3a70406cf9</guid>
+      <pubDate>Fri, 07 Jul 2017 14:26:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2017-07-07_1226_3513.MP3" type="audio/mpeg" length="41874921"></enclosure>
+      <itunes:title>Medaljongen (6:8) sesong 1</itunes:title>
+      <itunes:summary>Christian Lasson avslører den store hemmeligheten sin for alle på Perlen pensjonat. Cecilias mors medaljong dukker plutselig opp, og politiet bestemmer seg for å gjenoppta saken.</itunes:summary>
+      <itunes:duration>1741</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Den røde kjolen (5:8) sesong 1</title>
+      <link>https://radio.nrk.no/podkast/clue/l_b83bb58c-494f-4b3a-bbb5-8c494f6b3ac4</link>
+      <description>Cecilia får endelig svar på gåten med den røde kjolen. CLUE-gjengen spionerer på den mystiske Frank Kobolt, hvem skal han møte ute ved fyret?</description>
+      <guid isPermaLink="false">l_b83bb58c-494f-4b3a-bbb5-8c494f6b3ac4</guid>
+      <pubDate>Fri, 07 Jul 2017 13:22:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2017-07-07_1122_3609.MP3" type="audio/mpeg" length="40081220"></enclosure>
+      <itunes:title>Den røde kjolen (5:8) sesong 1</itunes:title>
+      <itunes:summary>Cecilia får endelig svar på gåten med den røde kjolen. CLUE-gjengen spionerer på den mystiske Frank Kobolt, hvem skal han møte ute ved fyret?</itunes:summary>
+      <itunes:duration>1666</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Malteserklokka (4:8) sesong 1</title>
+      <link>https://radio.nrk.no/podkast/clue/l_c0003c74-49f3-4f43-803c-7449f32f4361</link>
+      <description>Gamle-Tim kommer til pensjonatet for å reparere det gamle gulvuret i resepsjonen og finner en hemmelighet. CLUE-gjengen får høre om den verdifulle Malteserklokka og Gamle-Tim forteller dem om Levi Hildonen, som er arrestert for tyveriet. </description>
+      <guid isPermaLink="false">l_c0003c74-49f3-4f43-803c-7449f32f4361</guid>
+      <pubDate>Fri, 07 Jul 2017 11:14:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2017-07-07_0914_0.MP3" type="audio/mpeg" length="41562062"></enclosure>
+      <itunes:title>Malteserklokka (4:8) sesong 1</itunes:title>
+      <itunes:summary>Gamle-Tim kommer til pensjonatet for å reparere det gamle gulvuret i resepsjonen og finner en hemmelighet. CLUE-gjengen får høre om den verdifulle Malteserklokka og Gamle-Tim forteller dem om Levi Hildonen, som er arrestert for tyveriet. </itunes:summary>
+      <itunes:duration>1727</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dobbel fangst (3:8) sesong 1</title>
+      <link>https://radio.nrk.no/podkast/clue/l_4188f297-8739-41de-88f2-97873911de47</link>
+      <description>Mens de voksne drar på den årlige sommerfesten i Skutebukta, drar CLUE-gjengen ut på en livsfarlig båttur i hælene på den danske gjesten med salamandertatoveringen.&#xA;</description>
+      <guid isPermaLink="false">l_4188f297-8739-41de-88f2-97873911de47</guid>
+      <pubDate>Fri, 07 Jul 2017 11:13:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2017-07-07_0913_2605.MP3" type="audio/mpeg" length="39768408"></enclosure>
+      <itunes:title>Dobbel fangst (3:8) sesong 1</itunes:title>
+      <itunes:summary>Mens de voksne drar på den årlige sommerfesten i Skutebukta, drar CLUE-gjengen ut på en livsfarlig båttur i hælene på den danske gjesten med salamandertatoveringen.&#xA;</itunes:summary>
+      <itunes:duration>1653</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mystiske gjester (2:8) sesong 1</title>
+      <link>https://radio.nrk.no/podkast/clue/l_4a90be6c-695e-4675-90be-6c695ea67583</link>
+      <description>Cecilia, Leo, Une og Egon har startet klubben ”CLUE” og vil finne ut mer om den døde mannen på stranda - men så begynner pensjonatet å fylles opp med mystiske gjester…</description>
+      <guid isPermaLink="false">l_4a90be6c-695e-4675-90be-6c695ea67583</guid>
+      <pubDate>Fri, 07 Jul 2017 11:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2017-07-07_0912_3832.MP3" type="audio/mpeg" length="38749642"></enclosure>
+      <itunes:title>Mystiske gjester (2:8) sesong 1</itunes:title>
+      <itunes:summary>Cecilia, Leo, Une og Egon har startet klubben ”CLUE” og vil finne ut mer om den døde mannen på stranda - men så begynner pensjonatet å fylles opp med mystiske gjester…</itunes:summary>
+      <itunes:duration>1610</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tatoveringa (1:8) sesong 1</title>
+      <link>https://radio.nrk.no/podkast/clue/l_2468f6ff-2b4e-48d4-a8f6-ff2b4e28d4fe</link>
+      <description>Cecilia og faren Alan driver Perlen Pensjonat i den idylliske Skutebukta. En dag finner hun og bestevenninnen Une et lik på stranda, og sommerferien tar brått en annen vending. Hvem er den døde mannen med salamandertatoveringen og hvordan havnet han her? Og kan det ha en sammenheng med at Cecilias mor døde for ett år siden?</description>
+      <guid isPermaLink="false">l_2468f6ff-2b4e-48d4-a8f6-ff2b4e28d4fe</guid>
+      <pubDate>Fri, 07 Jul 2017 10:56:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/clue/clue_2017-07-07_0856_1435.MP3" type="audio/mpeg" length="36423058"></enclosure>
+      <itunes:title>Tatoveringa (1:8) sesong 1</itunes:title>
+      <itunes:summary>Cecilia og faren Alan driver Perlen Pensjonat i den idylliske Skutebukta. En dag finner hun og bestevenninnen Une et lik på stranda, og sommerferien tar brått en annen vending. Hvem er den døde mannen med salamandertatoveringen og hvordan havnet han her? Og kan det ha en sammenheng med at Cecilias mor døde for ett år siden?</itunes:summary>
+      <itunes:duration>1513</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_l8EUmG6AXKs2-_yfLrJgEDd8gWcHEa1qBSQCGb6s_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

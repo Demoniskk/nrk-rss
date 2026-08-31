@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kunne vært meg</title>
+    <link>https://radio.nrk.no/podkast/kunne_vaert_meg</link>
+    <description>Har du noen gang gått skikkelig på trynet? Du er ikke alene. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Mon, 22 Jun 2020 04:01:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kunne_vaert_meg.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Har du noen gang gått skikkelig på trynet? Du er ikke alene. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/alv7qCj3dhOlB6hYnIRFigdYbTfYr4MVcC-hGp9cScTg"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/alv7qCj3dhOlB6hYnIRFigdYbTfYr4MVcC-hGp9cScTg</url>
+      <title>Kunne vært meg</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg</link>
+    </image>
+    <item>
+      <title>Jobbreisen</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_1817f6ac-5bbe-479a-97f6-ac5bbef79aeb</link>
+      <description>Turen skulle være inspirerende. Det ble den ikke. Relasjonen mellom dem ble aldri den samme igjen.</description>
+      <guid isPermaLink="false">l_1817f6ac-5bbe-479a-97f6-ac5bbef79aeb</guid>
+      <pubDate>Mon, 22 Jun 2020 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/8341955d-db17-45ba-8ff9-809023ac7e50_0_ID192MP3.mp3" type="audio/mpeg" length="15745221"></enclosure>
+      <itunes:title>Jobbreisen</itunes:title>
+      <itunes:summary>Turen skulle være inspirerende. Det ble den ikke. Relasjonen mellom dem ble aldri den samme igjen.</itunes:summary>
+      <itunes:duration>655</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alv7qCj3dhOlB6hYnIRFigdYbTfYr4MVcC-hGp9cScTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kanin 2</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_20cee43d-3537-4149-8ee4-3d3537514922</link>
+      <description>Kaninen til Maruwa døde. Det gikk greit. Dramatikken startet da hun skulle kvitte seg med liket.</description>
+      <guid isPermaLink="false">l_20cee43d-3537-4149-8ee4-3d3537514922</guid>
+      <pubDate>Mon, 15 Jun 2020 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/4e41b6e6-ffeb-424f-8f3e-e6c1e1800f6d_0_ID192MP3.mp3" type="audio/mpeg" length="17450197"></enclosure>
+      <itunes:title>Kanin 2</itunes:title>
+      <itunes:summary>Kaninen til Maruwa døde. Det gikk greit. Dramatikken startet da hun skulle kvitte seg med liket.</itunes:summary>
+      <itunes:duration>727</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alv7qCj3dhOlB6hYnIRFigdYbTfYr4MVcC-hGp9cScTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dårlig dag på jobben: Journalisten 2</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_9fe619f2-5645-4645-a619-f25645464517</link>
+      <description>Hallgeir lager podkast om litteratur, og har etter mange forsøk fått tak i en av Norges største forfattere. De snakker sammen i flere timer, og resultatet er utrolig. Men - kan det være at han har glemt noe..?</description>
+      <guid isPermaLink="false">l_9fe619f2-5645-4645-a619-f25645464517</guid>
+      <pubDate>Mon, 01 Jun 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/67ade852-b940-4882-8b64-bcda39c582f9_0_ID192MP3.mp3" type="audio/mpeg" length="11742613"></enclosure>
+      <itunes:title>Dårlig dag på jobben: Journalisten 2</itunes:title>
+      <itunes:summary>Hallgeir lager podkast om litteratur, og har etter mange forsøk fått tak i en av Norges største forfattere. De snakker sammen i flere timer, og resultatet er utrolig. Men - kan det være at han har glemt noe..?</itunes:summary>
+      <itunes:duration>489</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alv7qCj3dhOlB6hYnIRFigdYbTfYr4MVcC-hGp9cScTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dårlig dag på jobben: Læreren</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_354f2d65-e32c-4f0d-8f2d-65e32cdf0d60</link>
+      <description>Hva kan skje når en lærer på videregående mister besinnelsen foran klassen? &#xA;</description>
+      <guid isPermaLink="false">l_354f2d65-e32c-4f0d-8f2d-65e32cdf0d60</guid>
+      <pubDate>Mon, 25 May 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/c728b502-4a15-4ac5-8897-607944204f01_0_ID192MP3.mp3" type="audio/mpeg" length="6805141"></enclosure>
+      <itunes:title>Dårlig dag på jobben: Læreren</itunes:title>
+      <itunes:summary>Hva kan skje når en lærer på videregående mister besinnelsen foran klassen? &#xA;</itunes:summary>
+      <itunes:duration>283</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Nq-8bM99BpZ_G2gnPe8Vpwldp-fhhSLvogsXs6Q7x_IQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dårlig dag på jobben: Fotballdommeren</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_e05d0318-56e5-4851-9d03-1856e548516c</link>
+      <description>Å være fotballdommer i VM er en uoppnåelig drøm for mange. Tom Henning var veldig nær, men skulle først dømme en semifinale i Champions League for å vise hva han var god for.</description>
+      <guid isPermaLink="false">l_e05d0318-56e5-4851-9d03-1856e548516c</guid>
+      <pubDate>Mon, 18 May 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/0e48f2ed-69de-4a75-bd7e-7dc5523d0510_0_ID192MP3.mp3" type="audio/mpeg" length="18750229"></enclosure>
+      <itunes:title>Dårlig dag på jobben: Fotballdommeren</itunes:title>
+      <itunes:summary>Å være fotballdommer i VM er en uoppnåelig drøm for mange. Tom Henning var veldig nær, men skulle først dømme en semifinale i Champions League for å vise hva han var god for.</itunes:summary>
+      <itunes:duration>781</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Nq-8bM99BpZ_G2gnPe8Vpwldp-fhhSLvogsXs6Q7x_IQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dårlig dag på jobben: Byråkraten</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_ea57b982-1790-4387-97b9-821790b3874d</link>
+      <description>Har du noen gang vært rådgiver i justisdepartementet, og rotet bort en georgisk minister? Ikke? Det har Heidi. </description>
+      <guid isPermaLink="false">l_ea57b982-1790-4387-97b9-821790b3874d</guid>
+      <pubDate>Mon, 11 May 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/0ba951f6-461c-43cf-ae9b-0349aea2ec0b_0_ID192MP3.mp3" type="audio/mpeg" length="21278293"></enclosure>
+      <itunes:title>Dårlig dag på jobben: Byråkraten</itunes:title>
+      <itunes:summary>Har du noen gang vært rådgiver i justisdepartementet, og rotet bort en georgisk minister? Ikke? Det har Heidi. </itunes:summary>
+      <itunes:duration>886</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Nq-8bM99BpZ_G2gnPe8Vpwldp-fhhSLvogsXs6Q7x_IQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dårlig dag på jobben: Mannen som sa nei</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_5d386902-b801-483e-b869-02b801f83e36</link>
+      <description>Tidligere Melodi Grand Prix-general Jostein Pedersen har fått i oppdrag å reise til Hollywood for å avgjøre hvilke tv-serier NRK burde kjøpe. Dessverre takker han nei til det som skal vise seg å bli en av verdens største tv-suksesser.</description>
+      <guid isPermaLink="false">l_5d386902-b801-483e-b869-02b801f83e36</guid>
+      <pubDate>Mon, 04 May 2020 10:41:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/ef33b6cb-a181-42ce-bd14-d670ddbffe4b_0_ID192MP3.mp3" type="audio/mpeg" length="7409948"></enclosure>
+      <itunes:title>Dårlig dag på jobben: Mannen som sa nei</itunes:title>
+      <itunes:summary>Tidligere Melodi Grand Prix-general Jostein Pedersen har fått i oppdrag å reise til Hollywood for å avgjøre hvilke tv-serier NRK burde kjøpe. Dessverre takker han nei til det som skal vise seg å bli en av verdens største tv-suksesser.</itunes:summary>
+      <itunes:duration>308</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Nq-8bM99BpZ_G2gnPe8Vpwldp-fhhSLvogsXs6Q7x_IQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dårlig dag på jobben: Frityrkokken</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_d8422740-a99a-4e7f-8227-40a99a5e7f5f</link>
+      <description>Victor tror det skal bli en helt vanlig desemberdag som kokk på restauranten i Trondheim sentrum. Det skal vise seg at det i stedet blir en dag for historiebøkene.</description>
+      <guid isPermaLink="false">l_d8422740-a99a-4e7f-8227-40a99a5e7f5f</guid>
+      <pubDate>Mon, 27 Apr 2020 16:35:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/30d1bb4e-c88a-4caf-8940-6b6375735e1d_0_ID192MP3.mp3" type="audio/mpeg" length="23921557"></enclosure>
+      <itunes:title>Dårlig dag på jobben: Frityrkokken</itunes:title>
+      <itunes:summary>Victor tror det skal bli en helt vanlig desemberdag som kokk på restauranten i Trondheim sentrum. Det skal vise seg at det i stedet blir en dag for historiebøkene.</itunes:summary>
+      <itunes:duration>996</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Nq-8bM99BpZ_G2gnPe8Vpwldp-fhhSLvogsXs6Q7x_IQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dårlig dag på jobben: Journalisten</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_c611e961-8411-48e7-91e9-618411d8e7fd</link>
+      <description>Heidi mister en bitte liten, men ufattetelig viktig ting fra en av Norges aller mest kjente straffedømte. Hun river seg i håret fremdeles.</description>
+      <guid isPermaLink="false">l_c611e961-8411-48e7-91e9-618411d8e7fd</guid>
+      <pubDate>Mon, 20 Apr 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/08376238-b551-47e8-8dce-fa8e048efb82_0_ID192MP3.mp3" type="audio/mpeg" length="16102357"></enclosure>
+      <itunes:title>Dårlig dag på jobben: Journalisten</itunes:title>
+      <itunes:summary>Heidi mister en bitte liten, men ufattetelig viktig ting fra en av Norges aller mest kjente straffedømte. Hun river seg i håret fremdeles.</itunes:summary>
+      <itunes:duration>670</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QqelramcrW_bIVYwlg735wShNVXl03ct138do8OWfh3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dårlig dag på jobben: Truckføreren</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_29f336ef-81c4-4656-b336-ef81c4865606</link>
+      <description>Marius jobber på lageret i en elektrobutikk, og har egentlig ikke lov til å kjøre truck. Men en kveld gjør han det likevel. Dessverre.</description>
+      <guid isPermaLink="false">l_29f336ef-81c4-4656-b336-ef81c4865606</guid>
+      <pubDate>Mon, 13 Apr 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/eec25a8c-dc3e-4edc-aff1-beb84bbaef0f_0_ID192MP3.mp3" type="audio/mpeg" length="19907991"></enclosure>
+      <itunes:title>Dårlig dag på jobben: Truckføreren</itunes:title>
+      <itunes:summary>Marius jobber på lageret i en elektrobutikk, og har egentlig ikke lov til å kjøre truck. Men en kveld gjør han det likevel. Dessverre.</itunes:summary>
+      <itunes:duration>829</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QqelramcrW_bIVYwlg735wShNVXl03ct138do8OWfh3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Livbåten</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_93921f09-f9ee-4e1f-921f-09f9ee5e1fd3</link>
+      <description>Inge er på vei hjem fra en ganske kjedelig jobbfest. Så ringer kompisen hans.</description>
+      <guid isPermaLink="false">l_93921f09-f9ee-4e1f-921f-09f9ee5e1fd3</guid>
+      <pubDate>Mon, 06 Apr 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/dd0873df-f670-43b9-af48-945585db0d70_0_ID192MP3.mp3" type="audio/mpeg" length="20523718"></enclosure>
+      <itunes:title>Livbåten</itunes:title>
+      <itunes:summary>Inge er på vei hjem fra en ganske kjedelig jobbfest. Så ringer kompisen hans.</itunes:summary>
+      <itunes:duration>855</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QqelramcrW_bIVYwlg735wShNVXl03ct138do8OWfh3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sommerjobben</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_79170871-a454-4510-9708-71a454b5108b</link>
+      <description>Sindre tror han har fått en kul, enkel og lite tidkrevende sommerjobb. Han tar feil.</description>
+      <guid isPermaLink="false">l_79170871-a454-4510-9708-71a454b5108b</guid>
+      <pubDate>Mon, 30 Mar 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/d46f2ed9-5810-49e7-bad2-18ba29284357_0_ID192MP3.mp3" type="audio/mpeg" length="19562378"></enclosure>
+      <itunes:title>Sommerjobben</itunes:title>
+      <itunes:summary>Sindre tror han har fått en kul, enkel og lite tidkrevende sommerjobb. Han tar feil.</itunes:summary>
+      <itunes:duration>815</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QqelramcrW_bIVYwlg735wShNVXl03ct138do8OWfh3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kjøreturen</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_1132bf94-8ab4-417c-b2bf-948ab4717c23</link>
+      <description>Stian skal gjøre kompisen sin en tjeneste. Det blir en blodig affære.</description>
+      <guid isPermaLink="false">l_1132bf94-8ab4-417c-b2bf-948ab4717c23</guid>
+      <pubDate>Mon, 23 Mar 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/1b8a8319-1dc4-49bf-b818-9f06ab5bf633_0_ID192MP3.mp3" type="audio/mpeg" length="14754504"></enclosure>
+      <itunes:title>Kjøreturen</itunes:title>
+      <itunes:summary>Stian skal gjøre kompisen sin en tjeneste. Det blir en blodig affære.</itunes:summary>
+      <itunes:duration>614</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QqelramcrW_bIVYwlg735wShNVXl03ct138do8OWfh3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Drømmeferien</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_65496071-437f-4676-8960-71437f6676c3</link>
+      <description>Anna og venninna hennes gleder seg til late, solfylte dager på Fiji – men lykken varer ikke lenge. </description>
+      <guid isPermaLink="false">l_65496071-437f-4676-8960-71437f6676c3</guid>
+      <pubDate>Mon, 16 Mar 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/e5d7f7c9-135b-49de-a3c9-77c0f6909cb7_0_ID192MP3.mp3" type="audio/mpeg" length="19085450"></enclosure>
+      <itunes:title>Drømmeferien</itunes:title>
+      <itunes:summary>Anna og venninna hennes gleder seg til late, solfylte dager på Fiji – men lykken varer ikke lenge. </itunes:summary>
+      <itunes:duration>795</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QqelramcrW_bIVYwlg735wShNVXl03ct138do8OWfh3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Svigers </title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_848a78ce-2950-4c72-8a78-ce29500c7254</link>
+      <description>«Mike» gjør et ærlig forsøk på kombinere jobb og kjærestetid. Det blir ingen suksess.</description>
+      <guid isPermaLink="false">l_848a78ce-2950-4c72-8a78-ce29500c7254</guid>
+      <pubDate>Mon, 09 Mar 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/9b84db47-9930-4d5c-81db-1d9315c5e3b1_0_ID192MP3.mp3" type="audio/mpeg" length="11393657"></enclosure>
+      <itunes:title>Svigers </itunes:title>
+      <itunes:summary>«Mike» gjør et ærlig forsøk på kombinere jobb og kjærestetid. Det blir ingen suksess.</itunes:summary>
+      <itunes:duration>474</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QqelramcrW_bIVYwlg735wShNVXl03ct138do8OWfh3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Oppkjøringen</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_b3739182-1823-4d59-b391-8218239d59cf</link>
+      <description>Eirik er fryktelig nervøs for oppkjøringen sin, men er heldigvis godt forberedt. Tror han. </description>
+      <guid isPermaLink="false">l_b3739182-1823-4d59-b391-8218239d59cf</guid>
+      <pubDate>Mon, 02 Mar 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/06e88a20-fe05-4b44-8b32-5363b2bcc66b_0_ID192MP3.mp3" type="audio/mpeg" length="10941962"></enclosure>
+      <itunes:title>Oppkjøringen</itunes:title>
+      <itunes:summary>Eirik er fryktelig nervøs for oppkjøringen sin, men er heldigvis godt forberedt. Tror han. </itunes:summary>
+      <itunes:duration>455</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QqelramcrW_bIVYwlg735wShNVXl03ct138do8OWfh3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kaninene</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_93390f65-203b-4e55-b90f-65203bfe5597</link>
+      <description>Det er mange måter å skaffe seg et kjæledyr på. Helen valgte å stjele to kaniner.</description>
+      <guid isPermaLink="false">l_93390f65-203b-4e55-b90f-65203bfe5597</guid>
+      <pubDate>Mon, 24 Feb 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/c072459e-851d-4f37-8685-be966253321d_0_ID192MP3.mp3" type="audio/mpeg" length="16712902"></enclosure>
+      <itunes:title>Kaninene</itunes:title>
+      <itunes:summary>Det er mange måter å skaffe seg et kjæledyr på. Helen valgte å stjele to kaniner.</itunes:summary>
+      <itunes:duration>696</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QqelramcrW_bIVYwlg735wShNVXl03ct138do8OWfh3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tinderdaten</title>
+      <link>https://radio.nrk.no/podkast/kunne_vaert_meg/l_c3026713-e23b-4e3d-8267-13e23b4e3dd9</link>
+      <description>«Håvard» tror det er en lur idé å dra på date i grøftefylla. Det er det ikke.</description>
+      <guid isPermaLink="false">l_c3026713-e23b-4e3d-8267-13e23b4e3dd9</guid>
+      <pubDate>Mon, 17 Feb 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kunne_vaert_meg/943fd045-1f64-4c58-8698-4b7c203318f7_0_ID192MP3.mp3" type="audio/mpeg" length="14292909"></enclosure>
+      <itunes:title>Tinderdaten</itunes:title>
+      <itunes:summary>«Håvard» tror det er en lur idé å dra på date i grøftefylla. Det er det ikke.</itunes:summary>
+      <itunes:duration>595</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QqelramcrW_bIVYwlg735wShNVXl03ct138do8OWfh3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

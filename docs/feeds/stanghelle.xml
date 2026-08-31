@@ -1,0 +1,1444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stanghelle</title>
+    <link>https://radio.nrk.no/podkast/stanghelle</link>
+    <description>Harald Stanghelle og mange spennende gjester samtaler og forteller interessante historier. &#xA;&#xA;I spalten «Stang inn – Stang ut» byr Harald på en subjektiv oppsummering og poengtert kommentar fra uken vi har bak oss. &#xA;&#xA;«Stanghelle på fredag» sendes hver fredag ettermiddag kl. 12:30 på P1+ </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 31 Dec 2021 13:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/stanghelle.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Harald Stanghelle og mange spennende gjester samtaler og forteller interessante historier. &#xA;&#xA;I spalten «Stang inn – Stang ut» byr Harald på en subjektiv oppsummering og poengtert kommentar fra uken vi har bak oss. &#xA;&#xA;«Stanghelle på fredag» sendes hver fredag ettermiddag kl. 12:30 på P1+ </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw</url>
+      <title>Stanghelle</title>
+      <link>https://radio.nrk.no/podkast/stanghelle</link>
+    </image>
+    <item>
+      <title>31.12.21 Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_609182df-f80a-4e45-9182-dff80a7e4585</link>
+      <description>Harald Stanghelle takker av denne podkasten sammen med Ole Torp som også avslutter sin yrkeskarriere i NRK.</description>
+      <guid isPermaLink="false">l_609182df-f80a-4e45-9182-dff80a7e4585</guid>
+      <pubDate>Fri, 31 Dec 2021 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/b5070129-17be-42e5-8b42-35f47e399ef4_0_ID192MP3.mp3" type="audio/mpeg" length="29057517"></enclosure>
+      <itunes:title>31.12.21 Stanghelle på fredag</itunes:title>
+      <itunes:summary>Harald Stanghelle takker av denne podkasten sammen med Ole Torp som også avslutter sin yrkeskarriere i NRK.</itunes:summary>
+      <itunes:duration>1210</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>17.12.2021  Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_0fb5f1f1-a7e2-41c9-b5f1-f1a7e251c938</link>
+      <description>Harald Stanghelle oppsummerer regjeringens først høst. Det gjør han sammen med Tone Sofie Aglen, kommentator i VG, og Hege Ulstein fra Dagsavisen.</description>
+      <guid isPermaLink="false">l_0fb5f1f1-a7e2-41c9-b5f1-f1a7e251c938</guid>
+      <pubDate>Fri, 17 Dec 2021 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/2d13aff1-8ce0-4efe-a6ef-a8d18d2484e7_0_ID192MP3.mp3" type="audio/mpeg" length="28254573"></enclosure>
+      <itunes:title>17.12.2021  Stanghelle på fredag</itunes:title>
+      <itunes:summary>Harald Stanghelle oppsummerer regjeringens først høst. Det gjør han sammen med Tone Sofie Aglen, kommentator i VG, og Hege Ulstein fra Dagsavisen.</itunes:summary>
+      <itunes:duration>1177</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 10.12.21</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_b4c20a80-1097-4526-820a-80109755261a</link>
+      <description>Immunolog og professor i medisin, Anne Spurkland og forsker og filosof, Henrik Syse gir oss gode råd for hvordan vi skal takle nok en jul med strenge koronatiltak. Begge i samtale med Harald Stanghelle</description>
+      <guid isPermaLink="false">l_b4c20a80-1097-4526-820a-80109755261a</guid>
+      <pubDate>Fri, 10 Dec 2021 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/cbe0646b-3932-4cce-b147-1a70dcebed9f_0_ID192MP3.mp3" type="audio/mpeg" length="26505261"></enclosure>
+      <itunes:title>Stanghelle på fredag 10.12.21</itunes:title>
+      <itunes:summary>Immunolog og professor i medisin, Anne Spurkland og forsker og filosof, Henrik Syse gir oss gode råd for hvordan vi skal takle nok en jul med strenge koronatiltak. Begge i samtale med Harald Stanghelle</itunes:summary>
+      <itunes:duration>1104</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 03.12.2021</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_ce2c3573-e1a5-4261-ac35-73e1a5a26185</link>
+      <description>Statsviter Kim Arne Hammerstad og professor Bernt Aardal om politiske skandaler. Og Stang inn - stang ut.</description>
+      <guid isPermaLink="false">l_ce2c3573-e1a5-4261-ac35-73e1a5a26185</guid>
+      <pubDate>Fri, 03 Dec 2021 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/34f217e4-7135-4e5b-ba1c-efd5d2601649_0_ID192MP3.mp3" type="audio/mpeg" length="28549485"></enclosure>
+      <itunes:title>Stanghelle på fredag 03.12.2021</itunes:title>
+      <itunes:summary>Statsviter Kim Arne Hammerstad og professor Bernt Aardal om politiske skandaler. Og Stang inn - stang ut.</itunes:summary>
+      <itunes:duration>1189</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 26.11.2021</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_e533bc4f-8730-4fef-b3bc-4f87302fef25</link>
+      <description>Sjakk-VM er i gang. Torstein Bae og Heidi Røneid følger verdensmesterskapet ,og gir en stemningsrapport hos Stanghelle denne fredagen.</description>
+      <guid isPermaLink="false">l_e533bc4f-8730-4fef-b3bc-4f87302fef25</guid>
+      <pubDate>Fri, 26 Nov 2021 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/ad804796-847e-45b5-9210-d823edfa8c46_0_ID192MP3.mp3" type="audio/mpeg" length="28112877"></enclosure>
+      <itunes:title>Stanghelle på fredag 26.11.2021</itunes:title>
+      <itunes:summary>Sjakk-VM er i gang. Torstein Bae og Heidi Røneid følger verdensmesterskapet ,og gir en stemningsrapport hos Stanghelle denne fredagen.</itunes:summary>
+      <itunes:duration>1171</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 12.11.21</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_b537c21d-f90f-44f2-b7c2-1df90f34f27f</link>
+      <description>Gitarist, komponist og artist, Frode Alnæs feirer 40 år i bransjen neste år. Før det lader han opp med juleplate og turnè. Her gjester han Harald Stanghelle og prater om karrieren og livet så langt.</description>
+      <guid isPermaLink="false">l_b537c21d-f90f-44f2-b7c2-1df90f34f27f</guid>
+      <pubDate>Fri, 12 Nov 2021 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/d8612eaf-7825-44df-ad78-c3c98f121046_0_ID192MP3.mp3" type="audio/mpeg" length="25962093"></enclosure>
+      <itunes:title>Stanghelle på fredag 12.11.21</itunes:title>
+      <itunes:summary>Gitarist, komponist og artist, Frode Alnæs feirer 40 år i bransjen neste år. Før det lader han opp med juleplate og turnè. Her gjester han Harald Stanghelle og prater om karrieren og livet så langt.</itunes:summary>
+      <itunes:duration>1081</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 05.11.21</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_f83ee4e1-4dc5-4fe2-bee4-e14dc5bfe276</link>
+      <description>Vi markerer Guy Fawkes Night denne fredagen. Statsviter, Øivind Bratberg i samtale med Harald Stanghelle om dagen som stadig markeres stort i Storbritannia.</description>
+      <guid isPermaLink="false">l_f83ee4e1-4dc5-4fe2-bee4-e14dc5bfe276</guid>
+      <pubDate>Fri, 05 Nov 2021 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/8e9d9f73-a146-43d7-9dab-2af857750dbb_0_ID192MP3.mp3" type="audio/mpeg" length="24398829"></enclosure>
+      <itunes:title>Stanghelle på fredag 05.11.21</itunes:title>
+      <itunes:summary>Vi markerer Guy Fawkes Night denne fredagen. Statsviter, Øivind Bratberg i samtale med Harald Stanghelle om dagen som stadig markeres stort i Storbritannia.</itunes:summary>
+      <itunes:duration>1016</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>22.10 Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_c91ba776-7765-481a-9ba7-767765b81aa5</link>
+      <description>Denne uka ville John le Carrè fylt 90 år. Samtidig har den siste boka hans, Silverview, kommet ut på norsk. Harald Stanghelle samtaler med litteraturviter og anmelder, Ola Andreas Hegdal, om han som også blir omtalt som den kalde krigens kronikør.</description>
+      <guid isPermaLink="false">l_c91ba776-7765-481a-9ba7-767765b81aa5</guid>
+      <pubDate>Fri, 22 Oct 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/b59be43a-1a6c-40a1-8010-ba21239b308c_0_ID192MP3.mp3" type="audio/mpeg" length="26539245"></enclosure>
+      <itunes:title>22.10 Stanghelle på fredag</itunes:title>
+      <itunes:summary>Denne uka ville John le Carrè fylt 90 år. Samtidig har den siste boka hans, Silverview, kommet ut på norsk. Harald Stanghelle samtaler med litteraturviter og anmelder, Ola Andreas Hegdal, om han som også blir omtalt som den kalde krigens kronikør.</itunes:summary>
+      <itunes:duration>1105</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>15.10.2021 Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_6d3c66a5-3386-4024-bc66-a5338620245b</link>
+      <description>Etter 25 år som Norges ukronede talkshow-vert gir Fredrik Skavlan seg snart. Nå skal han fortsette med illustrasjoner fra hverdagslivet. Hør ham hos Harald Stanghelle.</description>
+      <guid isPermaLink="false">l_6d3c66a5-3386-4024-bc66-a5338620245b</guid>
+      <pubDate>Fri, 15 Oct 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/d2b2be7c-96de-4e3e-ad31-02106f4db206_0_ID192MP3.mp3" type="audio/mpeg" length="28881261"></enclosure>
+      <itunes:title>15.10.2021 Stanghelle på fredag</itunes:title>
+      <itunes:summary>Etter 25 år som Norges ukronede talkshow-vert gir Fredrik Skavlan seg snart. Nå skal han fortsette med illustrasjoner fra hverdagslivet. Hør ham hos Harald Stanghelle.</itunes:summary>
+      <itunes:duration>1203</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title> 01.10.2021 Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_fb0ddc70-b1c5-48ae-8ddc-70b1c588ae24</link>
+      <description>Vi er inne i en tid med spennende regjeringsforhandlinger. Harald Stanghelle snakker med tre som har forhandlet om regjeringsmakt tidligere. Magnhild Meltveit Kleppa, Per Sandberg og Øystein Djupedal avslører hva som må til for å få til godt samarbeid.</description>
+      <guid isPermaLink="false">l_fb0ddc70-b1c5-48ae-8ddc-70b1c588ae24</guid>
+      <pubDate>Fri, 01 Oct 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/710fe454-f84b-4118-92a6-607801f0e342_0_ID192MP3.mp3" type="audio/mpeg" length="32306733"></enclosure>
+      <itunes:title> 01.10.2021 Stanghelle på fredag</itunes:title>
+      <itunes:summary>Vi er inne i en tid med spennende regjeringsforhandlinger. Harald Stanghelle snakker med tre som har forhandlet om regjeringsmakt tidligere. Magnhild Meltveit Kleppa, Per Sandberg og Øystein Djupedal avslører hva som må til for å få til godt samarbeid.</itunes:summary>
+      <itunes:duration>1346</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>24.09.2021 Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_956d717c-3b59-493e-ad71-7c3b59d93e0e</link>
+      <description>Knut Arild Hareide gjester Stanghelle på fredag og snakker om siste ukas vanskeligheter for Kristelig Folkeparti. Han er dessuten snart arbeidsledig selv og forteller mer om sine egne fremtidsplaner.</description>
+      <guid isPermaLink="false">l_956d717c-3b59-493e-ad71-7c3b59d93e0e</guid>
+      <pubDate>Fri, 24 Sep 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/fe9ead18-7c7c-4d8a-8396-c3ab3a997283_0_ID192MP3.mp3" type="audio/mpeg" length="29164077"></enclosure>
+      <itunes:title>24.09.2021 Stanghelle på fredag</itunes:title>
+      <itunes:summary>Knut Arild Hareide gjester Stanghelle på fredag og snakker om siste ukas vanskeligheter for Kristelig Folkeparti. Han er dessuten snart arbeidsledig selv og forteller mer om sine egne fremtidsplaner.</itunes:summary>
+      <itunes:duration>1215</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>17.09.2021  Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_c2c2414a-80de-4248-8241-4a80de9248f1</link>
+      <description>Sindre Finnes er gjest hos Harald Stanghelle. Han forteller om sine 8 år i statsministerboligen, og reflekterer også over tilværelsen som kommer etterpå.</description>
+      <guid isPermaLink="false">l_c2c2414a-80de-4248-8241-4a80de9248f1</guid>
+      <pubDate>Fri, 17 Sep 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/92982d66-acab-4a8e-b245-234a4f856b6a_0_ID192MP3.mp3" type="audio/mpeg" length="28174509"></enclosure>
+      <itunes:title>17.09.2021  Stanghelle på fredag</itunes:title>
+      <itunes:summary>Sindre Finnes er gjest hos Harald Stanghelle. Han forteller om sine 8 år i statsministerboligen, og reflekterer også over tilværelsen som kommer etterpå.</itunes:summary>
+      <itunes:duration>1173</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>10.09.2021  Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_881a16c2-40db-4d0b-9a16-c240db3d0bb1</link>
+      <description>Det er 20 år siden 11. september. Ole Torp var korrespondent i USA og forteller om det han husker fra terror-angrepene. USA-ekspert, Sofie Høgestøl gir oss et innblikk i hva konsekvensene ble for amerikansk politikk i ettertid.</description>
+      <guid isPermaLink="false">l_881a16c2-40db-4d0b-9a16-c240db3d0bb1</guid>
+      <pubDate>Fri, 10 Sep 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/34691ea9-1c2b-4360-89f4-2bc62514ea74_0_ID192MP3.mp3" type="audio/mpeg" length="27828333"></enclosure>
+      <itunes:title>10.09.2021  Stanghelle på fredag</itunes:title>
+      <itunes:summary>Det er 20 år siden 11. september. Ole Torp var korrespondent i USA og forteller om det han husker fra terror-angrepene. USA-ekspert, Sofie Høgestøl gir oss et innblikk i hva konsekvensene ble for amerikansk politikk i ettertid.</itunes:summary>
+      <itunes:duration>1159</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 030921</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_1df0a783-7d6b-492e-b0a7-837d6bf92e53</link>
+      <description>En av Norges mest anerkjente humorister, Robert Stoltenberg er gjest. Han snakker om humoren før og nå, prøver seg på et par politiske analyser og forteller alt om sin hektiske høst. </description>
+      <guid isPermaLink="false">l_1df0a783-7d6b-492e-b0a7-837d6bf92e53</guid>
+      <pubDate>Fri, 03 Sep 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/66111ffe-a071-484b-bb4d-c42b97c86573_0_ID192MP3.mp3" type="audio/mpeg" length="28682541"></enclosure>
+      <itunes:title>Stanghelle på fredag 030921</itunes:title>
+      <itunes:summary>En av Norges mest anerkjente humorister, Robert Stoltenberg er gjest. Han snakker om humoren før og nå, prøver seg på et par politiske analyser og forteller alt om sin hektiske høst. </itunes:summary>
+      <itunes:duration>1195</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 27.08.21</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_932d4256-d1ae-4860-ad42-56d1ae8860c5</link>
+      <description>Arnt Stefansen gjester Harald Stanghelle og forteller om Brasil og utviklingen der. </description>
+      <guid isPermaLink="false">l_932d4256-d1ae-4860-ad42-56d1ae8860c5</guid>
+      <pubDate>Fri, 27 Aug 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/52c7376e-9223-411d-a6f3-ce7675d5067b_0_ID192MP3.mp3" type="audio/mpeg" length="20421549"></enclosure>
+      <itunes:title>Stanghelle på fredag 27.08.21</itunes:title>
+      <itunes:summary>Arnt Stefansen gjester Harald Stanghelle og forteller om Brasil og utviklingen der. </itunes:summary>
+      <itunes:duration>850</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>18.06.2021  Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_f891df19-af5e-405b-91df-19af5e505bf3</link>
+      <description>Sommerværet - et uuttømmelig tema. Bente Wahl, meteorolog, kan fortelle det meste.</description>
+      <guid isPermaLink="false">l_f891df19-af5e-405b-91df-19af5e505bf3</guid>
+      <pubDate>Fri, 18 Jun 2021 12:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/574b7e50-83e3-4697-9555-411f1185d254_0_ID192MP3.mp3" type="audio/mpeg" length="25183917"></enclosure>
+      <itunes:title>18.06.2021  Stanghelle på fredag</itunes:title>
+      <itunes:summary>Sommerværet - et uuttømmelig tema. Bente Wahl, meteorolog, kan fortelle det meste.</itunes:summary>
+      <itunes:duration>1049</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>11.06.2021  Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_9de17a93-ecc9-4044-a17a-93ecc9d0443d</link>
+      <description>Pandemien har lært oss mye om å styrke immunforsvaret vårt. Men hvordan gjør vi det, og er et forsterket immunforsvar alltid av det gode?</description>
+      <guid isPermaLink="false">l_9de17a93-ecc9-4044-a17a-93ecc9d0443d</guid>
+      <pubDate>Fri, 11 Jun 2021 12:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/a0ef5236-910b-471d-9325-8b94e6d2e3a8_0_ID192MP3.mp3" type="audio/mpeg" length="20809773"></enclosure>
+      <itunes:title>11.06.2021  Stanghelle på fredag</itunes:title>
+      <itunes:summary>Pandemien har lært oss mye om å styrke immunforsvaret vårt. Men hvordan gjør vi det, og er et forsterket immunforsvar alltid av det gode?</itunes:summary>
+      <itunes:duration>867</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_c5178b82-fb73-438a-978b-82fb73538a39</link>
+      <description>NATOs toppmøte 14, juni skal behandle den nye fremtidsstrategien frem mot 2030. Nå retter alliansen oppmerksomheten østover. Hva betyr det for oss i nordområdene?</description>
+      <guid isPermaLink="false">l_c5178b82-fb73-438a-978b-82fb73538a39</guid>
+      <pubDate>Fri, 04 Jun 2021 12:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/8e38a9f9-7281-4c62-a36a-af477d647bc6_0_ID192MP3.mp3" type="audio/mpeg" length="29134125"></enclosure>
+      <itunes:title>Stanghelle på fredag</itunes:title>
+      <itunes:summary>NATOs toppmøte 14, juni skal behandle den nye fremtidsstrategien frem mot 2030. Nå retter alliansen oppmerksomheten østover. Hva betyr det for oss i nordområdene?</itunes:summary>
+      <itunes:duration>1213</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 28.05.21</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_e356787b-d8e5-4f21-9678-7bd8e5df2166</link>
+      <description>Det amerikanske Senatet har bestilt en rapport om - UFOer. Betyr det at de flygende objektene nå blir tatt helt på alvor?</description>
+      <guid isPermaLink="false">l_e356787b-d8e5-4f21-9678-7bd8e5df2166</guid>
+      <pubDate>Fri, 28 May 2021 12:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/bbf1fe0c-33ec-47f2-9b34-58fdb6124e25_0_ID192MP3.mp3" type="audio/mpeg" length="22997421"></enclosure>
+      <itunes:title>Stanghelle på fredag 28.05.21</itunes:title>
+      <itunes:summary>Det amerikanske Senatet har bestilt en rapport om - UFOer. Betyr det at de flygende objektene nå blir tatt helt på alvor?</itunes:summary>
+      <itunes:duration>958</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 21.05.21</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_1f4fb795-a47a-472c-8fb7-95a47a472c49</link>
+      <description>India er midt i en alvorlig koronakrise. Men det er ikke den eneste krisen i India.</description>
+      <guid isPermaLink="false">l_1f4fb795-a47a-472c-8fb7-95a47a472c49</guid>
+      <pubDate>Fri, 21 May 2021 13:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/a9e814b7-150f-4303-abf6-f463ec9dc3bc_0_ID192MP3.mp3" type="audio/mpeg" length="27108909"></enclosure>
+      <itunes:title>Stanghelle på fredag 21.05.21</itunes:title>
+      <itunes:summary>India er midt i en alvorlig koronakrise. Men det er ikke den eneste krisen i India.</itunes:summary>
+      <itunes:duration>1129</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 07.05.21 pod</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_510e49da-4c41-459d-8e49-da4c41259d6f</link>
+      <description>Kongeskipet ble embarkert torsdag 6. mai. Det betyr at Kongen inviet skipet for sesongen. Men kongeskipet Norge startet slett ikke livet som kongeskip.</description>
+      <guid isPermaLink="false">l_510e49da-4c41-459d-8e49-da4c41259d6f</guid>
+      <pubDate>Fri, 07 May 2021 12:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/ac1d0a79-2d2e-4ecc-b1e4-7f85f8321d30_0_ID192MP3.mp3" type="audio/mpeg" length="24866541"></enclosure>
+      <itunes:title>Stanghelle på fredag 07.05.21 pod</itunes:title>
+      <itunes:summary>Kongeskipet ble embarkert torsdag 6. mai. Det betyr at Kongen inviet skipet for sesongen. Men kongeskipet Norge startet slett ikke livet som kongeskip.</itunes:summary>
+      <itunes:duration>1036</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title> 30.04.2021  Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_4d45c98a-b99c-4119-85c9-8ab99c911915</link>
+      <description>Mai er flaggingens måned, og i dag for 200 år siden startet Odelstinget arbeidet med å utpeke et norsk flagg. Det kunne blitt helt annerledes enn det vi kjenner</description>
+      <guid isPermaLink="false">l_4d45c98a-b99c-4119-85c9-8ab99c911915</guid>
+      <pubDate>Fri, 30 Apr 2021 12:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/b2b88e1d-12a4-43d4-ac1b-442bab36dbc8_0_ID192MP3.mp3" type="audio/mpeg" length="31336749"></enclosure>
+      <itunes:title> 30.04.2021  Stanghelle på fredag</itunes:title>
+      <itunes:summary>Mai er flaggingens måned, og i dag for 200 år siden startet Odelstinget arbeidet med å utpeke et norsk flagg. Det kunne blitt helt annerledes enn det vi kjenner</itunes:summary>
+      <itunes:duration>1305</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag  Eichmann</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_6c1ca4e9-ac08-4c4f-9ca4-e9ac088c4fb4</link>
+      <description>For 60 år siden pågikk rettssaken mot Adolf Eichmann i Jerusalem; en av de viktigste organisatorene av jødeutryddelsene under krigen.</description>
+      <guid isPermaLink="false">l_6c1ca4e9-ac08-4c4f-9ca4-e9ac088c4fb4</guid>
+      <pubDate>Fri, 23 Apr 2021 12:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/6b0c301f-e1fd-43be-b982-871f3a86ec1a_0_ID192MP3.mp3" type="audio/mpeg" length="21737709"></enclosure>
+      <itunes:title>Stanghelle på fredag  Eichmann</itunes:title>
+      <itunes:summary>For 60 år siden pågikk rettssaken mot Adolf Eichmann i Jerusalem; en av de viktigste organisatorene av jødeutryddelsene under krigen.</itunes:summary>
+      <itunes:duration>905</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>16.04.2021  Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_b33a66bf-3e38-4496-ba66-bf3e38649679</link>
+      <description>Konspirasjonsteorier er blitt del av politikken, også i Norge. Konspirasjonsteoretikerne tror ikke på korona, selv om de selv rammes av sykdommen. Slik er disse fargerike teoriene i ferd med å bli et demokratisk problem.</description>
+      <guid isPermaLink="false">l_b33a66bf-3e38-4496-ba66-bf3e38649679</guid>
+      <pubDate>Fri, 16 Apr 2021 12:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/f81dc113-9d8a-4440-826a-ac7e26ae807a_0_ID192MP3.mp3" type="audio/mpeg" length="26015085"></enclosure>
+      <itunes:title>16.04.2021  Stanghelle på fredag</itunes:title>
+      <itunes:summary>Konspirasjonsteorier er blitt del av politikken, også i Norge. Konspirasjonsteoretikerne tror ikke på korona, selv om de selv rammes av sykdommen. Slik er disse fargerike teoriene i ferd med å bli et demokratisk problem.</itunes:summary>
+      <itunes:duration>1083</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>09.04.2021  Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_94f9facc-e943-42a4-b9fa-cce94302a46d</link>
+      <description>9. april huskes av stadig færre. For unge i dag er datoen mer teoretisk, og krigshistorien skrives på en annen måte.</description>
+      <guid isPermaLink="false">l_94f9facc-e943-42a4-b9fa-cce94302a46d</guid>
+      <pubDate>Fri, 09 Apr 2021 12:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/2cb63ae2-c467-4d80-9a05-04518906a91c_0_ID192MP3.mp3" type="audio/mpeg" length="29396556"></enclosure>
+      <itunes:title>09.04.2021  Stanghelle på fredag</itunes:title>
+      <itunes:summary>9. april huskes av stadig færre. For unge i dag er datoen mer teoretisk, og krigshistorien skrives på en annen måte.</itunes:summary>
+      <itunes:duration>1224</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_9395d05a-bfbc-44b5-95d0-5abfbcc4b5ce</link>
+      <description> Magnus Lagabøters lov var både nyskapende og rettferdig, og restene av dem ser vi fremdeles.</description>
+      <guid isPermaLink="false">l_9395d05a-bfbc-44b5-95d0-5abfbcc4b5ce</guid>
+      <pubDate>Fri, 02 Apr 2021 14:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/feeac663-801c-401c-b105-9b20414985e8_0_ID192MP3.mp3" type="audio/mpeg" length="30459840"></enclosure>
+      <itunes:title>Stanghelle på fredag</itunes:title>
+      <itunes:summary> Magnus Lagabøters lov var både nyskapende og rettferdig, og restene av dem ser vi fremdeles.</itunes:summary>
+      <itunes:duration>1269</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 26.03.21</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_0be45a48-3a62-49f0-a45a-483a6249f077</link>
+      <description>Nyhetene kan g¨oss på nervene - men behøver nyheter være så negative..kan de være konstruktive, og samtidig kritiske?</description>
+      <guid isPermaLink="false">l_0be45a48-3a62-49f0-a45a-483a6249f077</guid>
+      <pubDate>Fri, 26 Mar 2021 12:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/617be142-ea03-4f98-afa5-34b81addd257_0_ID192MP3.mp3" type="audio/mpeg" length="27331593"></enclosure>
+      <itunes:title>Stanghelle på fredag 26.03.21</itunes:title>
+      <itunes:summary>Nyhetene kan g¨oss på nervene - men behøver nyheter være så negative..kan de være konstruktive, og samtidig kritiske?</itunes:summary>
+      <itunes:duration>1138</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>19.03.2021  Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_78997930-ad17-4d91-9979-30ad174d9163</link>
+      <description>De norske samene har fått sin sannhets- og forsoningskomisjon, etter den hardhendte fornorskingen</description>
+      <guid isPermaLink="false">l_78997930-ad17-4d91-9979-30ad174d9163</guid>
+      <pubDate>Fri, 19 Mar 2021 12:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/6a1c1c22-6ef5-450d-a6ae-03b4f065e603_0_ID192MP3.mp3" type="audio/mpeg" length="28825740"></enclosure>
+      <itunes:title>19.03.2021  Stanghelle på fredag</itunes:title>
+      <itunes:summary>De norske samene har fått sin sannhets- og forsoningskomisjon, etter den hardhendte fornorskingen</itunes:summary>
+      <itunes:duration>1200</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>12.03.2021  Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_245269a1-03bb-46bf-9269-a103bbb6bf98</link>
+      <description>For femti år siden startet Trygve Hegnar bladet Kapital hjemme på kjøkkenbordet. Femti år senere forteller han hvordan norsk økonomijournalistikk har utviklet seg på disse årene</description>
+      <guid isPermaLink="false">l_245269a1-03bb-46bf-9269-a103bbb6bf98</guid>
+      <pubDate>Fri, 12 Mar 2021 12:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/51479606-ddc0-4852-b377-49b2f28fc845_0_ID192MP3.mp3" type="audio/mpeg" length="29890188"></enclosure>
+      <itunes:title>12.03.2021  Stanghelle på fredag</itunes:title>
+      <itunes:summary>For femti år siden startet Trygve Hegnar bladet Kapital hjemme på kjøkkenbordet. Femti år senere forteller han hvordan norsk økonomijournalistikk har utviklet seg på disse årene</itunes:summary>
+      <itunes:duration>1245</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_136e68eb-2349-405a-ae68-eb2349205a8c</link>
+      <description>To tidligere franske ledere har møtt i retten denne uken. Hva er det med Frankrike og politikk, og hvordan går det med valget om et år?</description>
+      <guid isPermaLink="false">l_136e68eb-2349-405a-ae68-eb2349205a8c</guid>
+      <pubDate>Fri, 05 Mar 2021 12:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/15bee837-2678-47fc-b2d4-9ede616e298b_0_ID192MP3.mp3" type="audio/mpeg" length="26205503"></enclosure>
+      <itunes:title>Stanghelle på fredag</itunes:title>
+      <itunes:summary>To tidligere franske ledere har møtt i retten denne uken. Hva er det med Frankrike og politikk, og hvordan går det med valget om et år?</itunes:summary>
+      <itunes:duration>1091</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>26.02.2021  Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_48e1427a-08f8-4b68-a142-7a08f8fb68f9</link>
+      <description>Fremskrittspartiet - et parti med tre ledere på 45 år. Meget ulike personligheter.</description>
+      <guid isPermaLink="false">l_48e1427a-08f8-4b68-a142-7a08f8fb68f9</guid>
+      <pubDate>Fri, 26 Feb 2021 12:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/9df0adf9-d422-49ef-868a-7972217f1e8a_0_ID192MP3.mp3" type="audio/mpeg" length="28052748"></enclosure>
+      <itunes:title>26.02.2021  Stanghelle på fredag</itunes:title>
+      <itunes:summary>Fremskrittspartiet - et parti med tre ledere på 45 år. Meget ulike personligheter.</itunes:summary>
+      <itunes:duration>1168</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle om Draumkvedet</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_1f0dc402-56c8-42f9-8dc4-0256c802f9c3</link>
+      <description>Kim Rysstad har sunget inn Draumkvedet sammen med Kringkastingsorkesteret. Hvor kommer dete mysteriøse middelalderkvadet fra, og hvorfor har Kirken hatt så mye i mot det?</description>
+      <guid isPermaLink="false">l_1f0dc402-56c8-42f9-8dc4-0256c802f9c3</guid>
+      <pubDate>Fri, 19 Feb 2021 12:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/57fa86ca-c3a0-4165-a4b5-03ccd5939683_0_ID192MP3.mp3" type="audio/mpeg" length="28245688"></enclosure>
+      <itunes:title>Stanghelle om Draumkvedet</itunes:title>
+      <itunes:summary>Kim Rysstad har sunget inn Draumkvedet sammen med Kringkastingsorkesteret. Hvor kommer dete mysteriøse middelalderkvadet fra, og hvorfor har Kirken hatt så mye i mot det?</itunes:summary>
+      <itunes:duration>1176</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>12.02.2021  Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_899910d9-f070-4c1d-9910-d9f0703c1dca</link>
+      <description>Hva er det med Bergen som gør byen til Bergen? Og bergenserne til bergensere? Ny bok.</description>
+      <guid isPermaLink="false">l_899910d9-f070-4c1d-9910-d9f0703c1dca</guid>
+      <pubDate>Fri, 12 Feb 2021 12:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/dd37fa13-ed82-4400-aacb-377823c98e74_0_ID192MP3.mp3" type="audio/mpeg" length="31861836"></enclosure>
+      <itunes:title>12.02.2021  Stanghelle på fredag</itunes:title>
+      <itunes:summary>Hva er det med Bergen som gør byen til Bergen? Og bergenserne til bergensere? Ny bok.</itunes:summary>
+      <itunes:duration>1327</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag </title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_3d06045c-d755-48d2-8604-5cd755d8d28d</link>
+      <description>Verdens økonomiske forum i Geneve er en rikingklubb, men tar også temperaturen ganske nøye  på hva som rører seg i verden økonomisk og politisk, og tenker høyt om verdens fremtid.</description>
+      <guid isPermaLink="false">l_3d06045c-d755-48d2-8604-5cd755d8d28d</guid>
+      <pubDate>Fri, 05 Feb 2021 12:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/4436ef50-6885-4ff2-a9aa-e7f617e6ab0c_0_ID192MP3.mp3" type="audio/mpeg" length="30581388"></enclosure>
+      <itunes:title>Stanghelle på fredag </itunes:title>
+      <itunes:summary>Verdens økonomiske forum i Geneve er en rikingklubb, men tar også temperaturen ganske nøye  på hva som rører seg i verden økonomisk og politisk, og tenker høyt om verdens fremtid.</itunes:summary>
+      <itunes:duration>1274</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>29.01.2021 Stanghelle om tid</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_360bea6c-7853-49a4-8bea-6c785359a484</link>
+      <description>Tiden står stille for mange under pandemien. Men hva er tid? Det varierer etter omstendighet og kultur.</description>
+      <guid isPermaLink="false">l_360bea6c-7853-49a4-8bea-6c785359a484</guid>
+      <pubDate>Fri, 29 Jan 2021 13:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/319e80da-7c43-4b6d-a4cb-656a08974a6b_0_ID192MP3.mp3" type="audio/mpeg" length="28131659"></enclosure>
+      <itunes:title>29.01.2021 Stanghelle om tid</itunes:title>
+      <itunes:summary>Tiden står stille for mange under pandemien. Men hva er tid? Det varierer etter omstendighet og kultur.</itunes:summary>
+      <itunes:duration>1172</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 22.01.21</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_113e8fbd-0e4e-4a56-be8f-bd0e4efa56e6</link>
+      <description>Carl I Hagen ligger an til å bli den eneste 70-åringen på Stortinget i neste periode. Er det et problem? Hvorfor er representantene ellers så unge?</description>
+      <guid isPermaLink="false">l_113e8fbd-0e4e-4a56-be8f-bd0e4efa56e6</guid>
+      <pubDate>Fri, 22 Jan 2021 13:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/a729a717-0634-4e4d-8474-f780d0d0052f_0_ID192MP3.mp3" type="audio/mpeg" length="29703561"></enclosure>
+      <itunes:title>Stanghelle på fredag 22.01.21</itunes:title>
+      <itunes:summary>Carl I Hagen ligger an til å bli den eneste 70-åringen på Stortinget i neste periode. Er det et problem? Hvorfor er representantene ellers så unge?</itunes:summary>
+      <itunes:duration>1237</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 15.01.21</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_c136d809-8580-42d5-b6d8-098580a2d585</link>
+      <description>For 30 år siden døde kong Olav. Det var en vanskelig tid, ved utbruddet av den første Gulfkrigen. Kong Harald stod foran en krevende oppgave. I Stang ut - stang inn kommenterer Harald Stanghelle situasjonen i USA.</description>
+      <guid isPermaLink="false">l_c136d809-8580-42d5-b6d8-098580a2d585</guid>
+      <pubDate>Fri, 15 Jan 2021 12:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/05472983-cdd8-4224-9e1b-b05cfc9aa578_0_ID192MP3.mp3" type="audio/mpeg" length="30146504"></enclosure>
+      <itunes:title>Stanghelle på fredag 15.01.21</itunes:title>
+      <itunes:summary>For 30 år siden døde kong Olav. Det var en vanskelig tid, ved utbruddet av den første Gulfkrigen. Kong Harald stod foran en krevende oppgave. I Stang ut - stang inn kommenterer Harald Stanghelle situasjonen i USA.</itunes:summary>
+      <itunes:duration>1256</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>08.01.2021  Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_fab08156-8bf4-45ab-b081-568bf4c5ab2d</link>
+      <description>Ole Erik Almlid er NHO-leder i utfordrende tider for det norske næringslivet. Stang in-kommentaren tar for seg det tragiske leirskredet i Gjerdrum.</description>
+      <guid isPermaLink="false">l_fab08156-8bf4-45ab-b081-568bf4c5ab2d</guid>
+      <pubDate>Fri, 08 Jan 2021 13:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/00ecd95f-23c3-4d01-9c2c-19d195839df4_0_ID192MP3.mp3" type="audio/mpeg" length="28035468"></enclosure>
+      <itunes:title>08.01.2021  Stanghelle på fredag</itunes:title>
+      <itunes:summary>Ole Erik Almlid er NHO-leder i utfordrende tider for det norske næringslivet. Stang in-kommentaren tar for seg det tragiske leirskredet i Gjerdrum.</itunes:summary>
+      <itunes:duration>1168</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ja, jeg tror på Gud, sier Ole Paus.</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_83bc1e9f-033d-4264-bc1e-9f033d0264fb</link>
+      <description>Låtskriveren og sangeren snakker med Harald om oppvekst, karriere, sangene og livet - og troen.</description>
+      <guid isPermaLink="false">l_83bc1e9f-033d-4264-bc1e-9f033d0264fb</guid>
+      <pubDate>Fri, 25 Dec 2020 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/0d202ae7-2d61-415c-97c0-577dea61ba9d_0_ID192MP3.mp3" type="audio/mpeg" length="28881036"></enclosure>
+      <itunes:title>Ja, jeg tror på Gud, sier Ole Paus.</itunes:title>
+      <itunes:summary>Låtskriveren og sangeren snakker med Harald om oppvekst, karriere, sangene og livet - og troen.</itunes:summary>
+      <itunes:duration>1203</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Forelskelse i Hong Kong</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_78731eee-ea16-49e0-b31e-eeea16d9e098</link>
+      <description>Juveler Conrad Langaard reiser verden rundt på jakt etter diamanter som &#34;snakker&#34; til ham ved sin fullkommenhet. Det hender han forelsker seg. I diamanten! </description>
+      <guid isPermaLink="false">l_78731eee-ea16-49e0-b31e-eeea16d9e098</guid>
+      <pubDate>Fri, 18 Dec 2020 15:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/c69b5b2e-8f0d-4e72-be44-0a8bb3a972fa_0_ID192MP3.mp3" type="audio/mpeg" length="22532364"></enclosure>
+      <itunes:title>Forelskelse i Hong Kong</itunes:title>
+      <itunes:summary>Juveler Conrad Langaard reiser verden rundt på jakt etter diamanter som &#34;snakker&#34; til ham ved sin fullkommenhet. Det hender han forelsker seg. I diamanten! </itunes:summary>
+      <itunes:duration>938</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>&#34;Koronaen&#34; er årets nyord 2020</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_71bd57c7-c34e-4966-bd57-c7c34e896659</link>
+      <description>Dette året er preget av en unntakstilstand som reflekteres i språket , nye ord og ordkombinasjoner. Språkrådets direktør Åse Wetås i samtale med Linda Eide og Harald Stanghelle om språkets veier i koronaens tid.. </description>
+      <guid isPermaLink="false">l_71bd57c7-c34e-4966-bd57-c7c34e896659</guid>
+      <pubDate>Fri, 11 Dec 2020 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/f992f8c7-700d-4ed2-984e-5c611b17028c_0_ID192MP3.mp3" type="audio/mpeg" length="27369612"></enclosure>
+      <itunes:title>&#34;Koronaen&#34; er årets nyord 2020</itunes:title>
+      <itunes:summary>Dette året er preget av en unntakstilstand som reflekteres i språket , nye ord og ordkombinasjoner. Språkrådets direktør Åse Wetås i samtale med Linda Eide og Harald Stanghelle om språkets veier i koronaens tid.. </itunes:summary>
+      <itunes:duration>1140</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>&#34;Erna er stjerna&#34;</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_dd2f7fe4-a6aa-4d9d-af7f-e4a6aa4d9d0e</link>
+      <description>Statsminister Erna Solberg er Høyres lengstsittende partileder, og partiets lengstsittende statsminister. Her snakker hun om kriseledelse, forholdet til USA, Prince, Bergen og det å slippe pressefotografer inn på et rotete hjemmekjøkken..</description>
+      <guid isPermaLink="false">l_dd2f7fe4-a6aa-4d9d-af7f-e4a6aa4d9d0e</guid>
+      <pubDate>Fri, 04 Dec 2020 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/c6fa119b-ba13-4270-a3ea-52c6c1a0edfa_0_ID192MP3.mp3" type="audio/mpeg" length="40549640"></enclosure>
+      <itunes:title>&#34;Erna er stjerna&#34;</itunes:title>
+      <itunes:summary>Statsminister Erna Solberg er Høyres lengstsittende partileder, og partiets lengstsittende statsminister. Her snakker hun om kriseledelse, forholdet til USA, Prince, Bergen og det å slippe pressefotografer inn på et rotete hjemmekjøkken..</itunes:summary>
+      <itunes:duration>1689</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Etiopia - fra dronning Saba til Bob Marley</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_9c4ac13d-9ac3-48aa-8ac1-3d9ac308aa1e</link>
+      <description>Etiopia - historia, keiserdømmet og konfliktene. Det eneste afrikanske landet som ikke ble underkastet en europeisk kolonimakt. Folket og landet med en helt spesiell historie, og mytiske fortellinger om opphav og posisjon. Nå på borgerkrigens rand.. Tomm Kristiansen forteller.</description>
+      <guid isPermaLink="false">l_9c4ac13d-9ac3-48aa-8ac1-3d9ac308aa1e</guid>
+      <pubDate>Fri, 27 Nov 2020 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/16124aa1-7138-4b7b-b5f9-7ee4bd3de3b5_0_ID192MP3.mp3" type="audio/mpeg" length="23262156"></enclosure>
+      <itunes:title>Etiopia - fra dronning Saba til Bob Marley</itunes:title>
+      <itunes:summary>Etiopia - historia, keiserdømmet og konfliktene. Det eneste afrikanske landet som ikke ble underkastet en europeisk kolonimakt. Folket og landet med en helt spesiell historie, og mytiske fortellinger om opphav og posisjon. Nå på borgerkrigens rand.. Tomm Kristiansen forteller.</itunes:summary>
+      <itunes:duration>969</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>To damer, to land; Margareth Thatcher og Angela Merkel</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_a88abcd4-6e0d-4114-8abc-d46e0d211436</link>
+      <description>Det er 30 år siden Margareth Thatcher gav fra seg makten i Storbritannia, og 15 år siden Angela Merkel kom til makten i Tyskland. To land, to kvinner, to politiske ledere som på hvert sitt vis har formet sin samtid, nasjonalt og internasjonalt.</description>
+      <guid isPermaLink="false">l_a88abcd4-6e0d-4114-8abc-d46e0d211436</guid>
+      <pubDate>Fri, 20 Nov 2020 16:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/4d683436-bc67-499e-83d3-507ed4d23dda_0_ID192MP3.mp3" type="audio/mpeg" length="29092415"></enclosure>
+      <itunes:title>To damer, to land; Margareth Thatcher og Angela Merkel</itunes:title>
+      <itunes:summary>Det er 30 år siden Margareth Thatcher gav fra seg makten i Storbritannia, og 15 år siden Angela Merkel kom til makten i Tyskland. To land, to kvinner, to politiske ledere som på hvert sitt vis har formet sin samtid, nasjonalt og internasjonalt.</itunes:summary>
+      <itunes:duration>1212</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Alf Prøysen i våre hjerter</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_50448566-d601-47a4-8485-66d60167a4fd</link>
+      <description>I denne måneden er det femti år siden Alf Prøysen døde. Han etterlot seg et livsverk som preger norsk kultur fremdeles. Harald Stanghelle har invitert Åse Kleveland og Ove Røsbak til en samtale om minner og kunst knyttet til Prøysen.</description>
+      <guid isPermaLink="false">l_50448566-d601-47a4-8485-66d60167a4fd</guid>
+      <pubDate>Fri, 13 Nov 2020 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/76069440-b81c-4005-963e-968fbf98a1de_0_ID192MP3.mp3" type="audio/mpeg" length="35185356"></enclosure>
+      <itunes:title>Alf Prøysen i våre hjerter</itunes:title>
+      <itunes:summary>I denne måneden er det femti år siden Alf Prøysen døde. Han etterlot seg et livsverk som preger norsk kultur fremdeles. Harald Stanghelle har invitert Åse Kleveland og Ove Røsbak til en samtale om minner og kunst knyttet til Prøysen.</itunes:summary>
+      <itunes:duration>1465</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fyll og påfyll fra Stortingets presselosje</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_4d33c305-4ecd-411d-b3c3-054ecd711da9</link>
+      <description>I ett hundre år har journalister med adgangskort til nasjonalforsamlinga utgjort Stortingets presselosje. Nå er historien om  dem skrevet av Terje Valestrand. Mangeårig stortingsrepresentant og finansminister Sigbjørn Johnsen bidrar med egne minner fra møter med mediene.</description>
+      <guid isPermaLink="false">l_4d33c305-4ecd-411d-b3c3-054ecd711da9</guid>
+      <pubDate>Fri, 06 Nov 2020 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/3a3b2ddc-8667-4e63-b4da-d2cd69b70c4d_0_ID192MP3.mp3" type="audio/mpeg" length="26234892"></enclosure>
+      <itunes:title>Fyll og påfyll fra Stortingets presselosje</itunes:title>
+      <itunes:summary>I ett hundre år har journalister med adgangskort til nasjonalforsamlinga utgjort Stortingets presselosje. Nå er historien om  dem skrevet av Terje Valestrand. Mangeårig stortingsrepresentant og finansminister Sigbjørn Johnsen bidrar med egne minner fra møter med mediene.</itunes:summary>
+      <itunes:duration>1093</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fra virkelighet til dikt og drama</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_44689656-67f5-4e3f-a896-5667f56e3ff1</link>
+      <description>Hva skjer når man skal lage drama og fiksjon av virkelige hendelser og levd liv? Hvor mye av det vi får se i &#34;Atlantic Crossing&#34; har rot i virkeligheten? Og hva gjør det med vårt syn på historien om det er dramatiseringene og diktningen som former vårt bilde av det som hendte? &#xA;Forfatter og journalist Inger Merete Hobbelstad drøfter problemstillingene med historiker Trond Noren Isaksen og programleder Harald Stanghelle.  </description>
+      <guid isPermaLink="false">l_44689656-67f5-4e3f-a896-5667f56e3ff1</guid>
+      <pubDate>Fri, 30 Oct 2020 15:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/cdcee939-ca05-44be-9716-20866d18f447_0_ID192MP3.mp3" type="audio/mpeg" length="32104908"></enclosure>
+      <itunes:title>Fra virkelighet til dikt og drama</itunes:title>
+      <itunes:summary>Hva skjer når man skal lage drama og fiksjon av virkelige hendelser og levd liv? Hvor mye av det vi får se i &#34;Atlantic Crossing&#34; har rot i virkeligheten? Og hva gjør det med vårt syn på historien om det er dramatiseringene og diktningen som former vårt bilde av det som hendte? &#xA;Forfatter og journalist Inger Merete Hobbelstad drøfter problemstillingene med historiker Trond Noren Isaksen og programleder Harald Stanghelle.  </itunes:summary>
+      <itunes:duration>1337</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dør FN etter 75 år i verdensfredens tjeneste?</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_3bf15ea5-a631-43eb-b15e-a5a63153eb16</link>
+      <description>FN fyller 75 år denne helgen. 24.oktober 1945 ble organisasjonen offisielt etablert i San Fransisco, USA. I dag er ledere i stormaktene mer opptatt av egne interesser enn det som gavner verdensfellesskapet. Hør Tove Gravdal og Hilde Frafjord Johnson i samtale med Harald Stanghelle om FN; historien og fremtiden. </description>
+      <guid isPermaLink="false">l_3bf15ea5-a631-43eb-b15e-a5a63153eb16</guid>
+      <pubDate>Fri, 23 Oct 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/7bdccea9-4a01-474a-a510-fc65d8736470_0_ID192MP3.mp3" type="audio/mpeg" length="28204236"></enclosure>
+      <itunes:title>Dør FN etter 75 år i verdensfredens tjeneste?</itunes:title>
+      <itunes:summary>FN fyller 75 år denne helgen. 24.oktober 1945 ble organisasjonen offisielt etablert i San Fransisco, USA. I dag er ledere i stormaktene mer opptatt av egne interesser enn det som gavner verdensfellesskapet. Hør Tove Gravdal og Hilde Frafjord Johnson i samtale med Harald Stanghelle om FN; historien og fremtiden. </itunes:summary>
+      <itunes:duration>1175</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Om godhetsregime, giverglede og dugnadsånd - på godt og litt vondt..</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_484d9229-7b03-4576-8d92-297b037576d7</link>
+      <description>Hva utgjør maktforholdet mellom den som gir en gave - og den som mottar?  Hva om vi stiller det samme spørsmålet når det handler om forholdet mellom nasjoner?&#xA;Filosof Henrik Syse og samfunnsforsker Daniel Arnesen i samtale med Harald Stanghelle om dilemma og tankekors knyttet til veldedighet og innsamlingsaksjoner. </description>
+      <guid isPermaLink="false">l_484d9229-7b03-4576-8d92-297b037576d7</guid>
+      <pubDate>Fri, 16 Oct 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/be295ff4-faf2-48e9-92b9-02c0450944d7_0_ID192MP3.mp3" type="audio/mpeg" length="26230857"></enclosure>
+      <itunes:title>Om godhetsregime, giverglede og dugnadsånd - på godt og litt vondt..</itunes:title>
+      <itunes:summary>Hva utgjør maktforholdet mellom den som gir en gave - og den som mottar?  Hva om vi stiller det samme spørsmålet når det handler om forholdet mellom nasjoner?&#xA;Filosof Henrik Syse og samfunnsforsker Daniel Arnesen i samtale med Harald Stanghelle om dilemma og tankekors knyttet til veldedighet og innsamlingsaksjoner. </itunes:summary>
+      <itunes:duration>1092</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Haijn Kaare Ørnung og æ. Arve Tellefsen forteller.</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_3987fc47-ad30-4dd6-87fc-47ad304dd6c5</link>
+      <description>&#34;Den ble borte, ble glemt!&#34; Over tretti år etter innspillinga ble det laget et album av musikken Kaare Ørnung og Arve Tellefsen festet til lydbånd i Rainbow studio i Oslo.</description>
+      <guid isPermaLink="false">l_3987fc47-ad30-4dd6-87fc-47ad304dd6c5</guid>
+      <pubDate>Fri, 09 Oct 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/eff5cbac-87e4-4831-843b-dd6dd83956c6_0_ID192MP3.mp3" type="audio/mpeg" length="32242572"></enclosure>
+      <itunes:title>Haijn Kaare Ørnung og æ. Arve Tellefsen forteller.</itunes:title>
+      <itunes:summary>&#34;Den ble borte, ble glemt!&#34; Over tretti år etter innspillinga ble det laget et album av musikken Kaare Ørnung og Arve Tellefsen festet til lydbånd i Rainbow studio i Oslo.</itunes:summary>
+      <itunes:duration>1343</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>De som hjalp attentatmennene med angrepet mot Charlie Hebdo sitter i en rettsal i Paris.</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_9810d121-6a5d-413e-90d1-216a5da13e7c</link>
+      <description>Rettsaken mot dem som hjalp attentatmennene med angrepet mot Charlie Hebdo er i  gang i Paris. Islamistene som stormet redaksjonslokalene tok livet av sytten mennesker i massakren som fant sted for snart seks år siden. Vibeke Knoop Rachline og Simen Ekern i samtale med Harald Stanghelle.  </description>
+      <guid isPermaLink="false">l_9810d121-6a5d-413e-90d1-216a5da13e7c</guid>
+      <pubDate>Fri, 02 Oct 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/b0ecbeb8-c6b9-4ad3-aff1-686e0f4a340f_0_ID192MP3.mp3" type="audio/mpeg" length="28190987"></enclosure>
+      <itunes:title>De som hjalp attentatmennene med angrepet mot Charlie Hebdo sitter i en rettsal i Paris.</itunes:title>
+      <itunes:summary>Rettsaken mot dem som hjalp attentatmennene med angrepet mot Charlie Hebdo er i  gang i Paris. Islamistene som stormet redaksjonslokalene tok livet av sytten mennesker i massakren som fant sted for snart seks år siden. Vibeke Knoop Rachline og Simen Ekern i samtale med Harald Stanghelle.  </itunes:summary>
+      <itunes:duration>1174</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Krigsseilernes barn forteller</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_2c563145-8b98-4d63-9631-458b98ed63cf</link>
+      <description>Berit Rickhard har skrevet bøkene &#34;Fra sjømann til soldat&#34; og &#34;Det var hjem vi sjøfolk skulle&#34;. Tema er skjebnen og smerten som ble krigsseilerne og deres familier til del. &#34;Det var hjem vi sjøfolk skulle&#34; er et møte med femten barn av krigsseilere som skildrer skammen og tausheten de var omgitt av.  </description>
+      <guid isPermaLink="false">l_2c563145-8b98-4d63-9631-458b98ed63cf</guid>
+      <pubDate>Fri, 25 Sep 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/a5ffe4a2-6dca-4cd7-b111-e9e23626873b_0_ID192MP3.mp3" type="audio/mpeg" length="23788044"></enclosure>
+      <itunes:title>Krigsseilernes barn forteller</itunes:title>
+      <itunes:summary>Berit Rickhard har skrevet bøkene &#34;Fra sjømann til soldat&#34; og &#34;Det var hjem vi sjøfolk skulle&#34;. Tema er skjebnen og smerten som ble krigsseilerne og deres familier til del. &#34;Det var hjem vi sjøfolk skulle&#34; er et møte med femten barn av krigsseilere som skildrer skammen og tausheten de var omgitt av.  </itunes:summary>
+      <itunes:duration>991</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Joiken er mitt våpen!</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_81cbaebc-777e-4179-8bae-bc777e5179f0</link>
+      <description>Ella Marie Hætta Isaksen om det samiske, musikken, kulturen og engasjementet for rettferdighet.</description>
+      <guid isPermaLink="false">l_81cbaebc-777e-4179-8bae-bc777e5179f0</guid>
+      <pubDate>Fri, 18 Sep 2020 15:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/c51093a1-6e5a-4d1e-8a18-1bb5d836f5ba_0_ID192MP3.mp3" type="audio/mpeg" length="32177491"></enclosure>
+      <itunes:title>Joiken er mitt våpen!</itunes:title>
+      <itunes:summary>Ella Marie Hætta Isaksen om det samiske, musikken, kulturen og engasjementet for rettferdighet.</itunes:summary>
+      <itunes:duration>1340</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>19 år siden terrorangrepet mot USA</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_552f83b9-febe-43c8-af83-b9febe23c85b</link>
+      <description>Det er nitten år siden  tvillingtårnene i New York raste sammen etter at islamske terrorister styrte passasjerfly inn i bygningene. Terrorangrepet mot USA i september 2001 er fremdeles et tydelig tidsskille i verden. </description>
+      <guid isPermaLink="false">l_552f83b9-febe-43c8-af83-b9febe23c85b</guid>
+      <pubDate>Fri, 11 Sep 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/cefdf55c-d763-4b98-b0da-6ac842ed6566_0_ID192MP3.mp3" type="audio/mpeg" length="29571657"></enclosure>
+      <itunes:title>19 år siden terrorangrepet mot USA</itunes:title>
+      <itunes:summary>Det er nitten år siden  tvillingtårnene i New York raste sammen etter at islamske terrorister styrte passasjerfly inn i bygningene. Terrorangrepet mot USA i september 2001 er fremdeles et tydelig tidsskille i verden. </itunes:summary>
+      <itunes:duration>1232</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag med Linn Skåber</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_2edf08ff-aa8a-4665-9f08-ffaa8af66559</link>
+      <description>Linn Skåber har skrevet om regulering, kjærlighetssorg og møter med ungdom. Nå har hun fordypet seg i voksenlivet.</description>
+      <guid isPermaLink="false">l_2edf08ff-aa8a-4665-9f08-ffaa8af66559</guid>
+      <pubDate>Fri, 04 Sep 2020 14:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/e3a53b73-d638-488e-a08f-1d62a0dc4df6_0_ID192MP3.mp3" type="audio/mpeg" length="24351964"></enclosure>
+      <itunes:title>Stanghelle på fredag med Linn Skåber</itunes:title>
+      <itunes:summary>Linn Skåber har skrevet om regulering, kjærlighetssorg og møter med ungdom. Nå har hun fordypet seg i voksenlivet.</itunes:summary>
+      <itunes:duration>1014</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ord som tiden har løpet fra.</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_53e8506c-e384-489e-a850-6ce384a89eea</link>
+      <description>Ord kommer og ord går. Språket endrer seg fortløpende. Helene Uri har samlet på ord og uttrykk som nærmer seg pensjonsalder.</description>
+      <guid isPermaLink="false">l_53e8506c-e384-489e-a850-6ce384a89eea</guid>
+      <pubDate>Fri, 28 Aug 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/34240424-e4b2-48d1-bd2f-08c43c7bd49e_0_ID192MP3.mp3" type="audio/mpeg" length="18048204"></enclosure>
+      <itunes:title>Ord som tiden har løpet fra.</itunes:title>
+      <itunes:summary>Ord kommer og ord går. Språket endrer seg fortløpende. Helene Uri har samlet på ord og uttrykk som nærmer seg pensjonsalder.</itunes:summary>
+      <itunes:duration>751</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Trine Skei Grande forlater politikken</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_4d0e88db-77e0-45c9-8e88-db77e065c936</link>
+      <description>Venstres leder gjennom ti år, Trine Skei Grande, forteller om seire, nederlag og vanskelige valg hun har måttet ta underveis.</description>
+      <guid isPermaLink="false">l_4d0e88db-77e0-45c9-8e88-db77e065c936</guid>
+      <pubDate>Fri, 21 Aug 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/9fa21983-d9a4-4923-b54a-54175ee3c4a0_0_ID192MP3.mp3" type="audio/mpeg" length="27082193"></enclosure>
+      <itunes:title>Trine Skei Grande forlater politikken</itunes:title>
+      <itunes:summary>Venstres leder gjennom ti år, Trine Skei Grande, forteller om seire, nederlag og vanskelige valg hun har måttet ta underveis.</itunes:summary>
+      <itunes:duration>1128</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En politisk oppsummering ved midtsommer. </title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_232649c1-5dbd-4104-a649-c15dbd910419</link>
+      <description>Redaktørene Irene Halvorsen, Nationen, og Trine Eilertsen, Aftenposten, ser tilbake på et politisk halvår preget av unntakstilstand i landet vårt. Hvor står partiene og koalisjonene nå, og hva vil prege politikken i høst - og frem mot valget neste år?   </description>
+      <guid isPermaLink="false">l_232649c1-5dbd-4104-a649-c15dbd910419</guid>
+      <pubDate>Fri, 19 Jun 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/ffb4776e-fa9e-4db5-a153-88e091a7249a_0_ID192MP3.mp3" type="audio/mpeg" length="25420990"></enclosure>
+      <itunes:title>En politisk oppsummering ved midtsommer. </itunes:title>
+      <itunes:summary>Redaktørene Irene Halvorsen, Nationen, og Trine Eilertsen, Aftenposten, ser tilbake på et politisk halvår preget av unntakstilstand i landet vårt. Hvor står partiene og koalisjonene nå, og hva vil prege politikken i høst - og frem mot valget neste år?   </itunes:summary>
+      <itunes:duration>1059</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Til bords med de mektige</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_fb8fe256-cb4a-4a87-8fe2-56cb4a1a8730</link>
+      <description>&#34;Å være et valgt medlem av FNs sikkerhetsråd fordrer gode svømmeferdigheter i et farvann kontrollert av haier&#34;, sier Tove Gravdal som har skrevet boken &#34;Til bords med de mektige&#34;. 17.juni får vi vite om Norge får sitt 5.medlemskap i rådet. </description>
+      <guid isPermaLink="false">l_fb8fe256-cb4a-4a87-8fe2-56cb4a1a8730</guid>
+      <pubDate>Fri, 12 Jun 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/a847e2ff-f68f-4166-81cb-e0f983b2b914_0_ID192MP3.mp3" type="audio/mpeg" length="27239444"></enclosure>
+      <itunes:title>Til bords med de mektige</itunes:title>
+      <itunes:summary>&#34;Å være et valgt medlem av FNs sikkerhetsråd fordrer gode svømmeferdigheter i et farvann kontrollert av haier&#34;, sier Tove Gravdal som har skrevet boken &#34;Til bords med de mektige&#34;. 17.juni får vi vite om Norge får sitt 5.medlemskap i rådet. </itunes:summary>
+      <itunes:duration>1134</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Evert Taube; sommerens trubadur og rimsmed</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_363b5c7c-10a5-4c4d-bb5c-7c10a5ac4d54</link>
+      <description>Visesangeren Lars Klevstrand deler tekster, historier og sanger av Evert Taube med Harald.</description>
+      <guid isPermaLink="false">l_363b5c7c-10a5-4c4d-bb5c-7c10a5ac4d54</guid>
+      <pubDate>Fri, 05 Jun 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/e5ec9dea-1f04-4b1c-8ccc-706ee36ff6fa_0_ID192MP3.mp3" type="audio/mpeg" length="29252556"></enclosure>
+      <itunes:title>Evert Taube; sommerens trubadur og rimsmed</itunes:title>
+      <itunes:summary>Visesangeren Lars Klevstrand deler tekster, historier og sanger av Evert Taube med Harald.</itunes:summary>
+      <itunes:duration>1218</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Historien om valglovene i Norge</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_32ca6609-5b9b-420a-8a66-095b9b720acb</link>
+      <description>Valgloven kan bli endret. Et utvalg vil blant annet sette nes stemmerettsalderen. Valglovene og praktisering av stemmeretten har gjennomgått store endringer siden vi fikk en egen grunnlov i 1814. Bernt Aardal kan den historien. </description>
+      <guid isPermaLink="false">l_32ca6609-5b9b-420a-8a66-095b9b720acb</guid>
+      <pubDate>Fri, 29 May 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/eac54a3d-82d4-4889-b07b-daca6ea9e36a_0_ID192MP3.mp3" type="audio/mpeg" length="29197832"></enclosure>
+      <itunes:title>Historien om valglovene i Norge</itunes:title>
+      <itunes:summary>Valgloven kan bli endret. Et utvalg vil blant annet sette nes stemmerettsalderen. Valglovene og praktisering av stemmeretten har gjennomgått store endringer siden vi fikk en egen grunnlov i 1814. Bernt Aardal kan den historien. </itunes:summary>
+      <itunes:duration>1216</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vår nye forsvarssjef; Eirik Kristoffersen.</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_74dc3ad3-df90-40ec-9c3a-d3df90b0ecbd</link>
+      <description>Eirik Kristoffersen er tildelt Krigskorset med sverd, Norges høyeste militære utmerkelse. Han er utdannet spesialsoldat med dykking, svømming og sprengning som spesialfelt. Han har tjenestegjort i Afghanistan, og gikk til topps som øverste sjef i Hæren for ett år siden. Nå har han tatt skrittet opp til vår øverste militære posisjon: forsvarssjef for landets samlede stridskrefter. </description>
+      <guid isPermaLink="false">l_74dc3ad3-df90-40ec-9c3a-d3df90b0ecbd</guid>
+      <pubDate>Fri, 22 May 2020 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/b88e3d28-866f-44f3-8329-aa880140fe57_0_ID192MP3.mp3" type="audio/mpeg" length="29412108"></enclosure>
+      <itunes:title>Vår nye forsvarssjef; Eirik Kristoffersen.</itunes:title>
+      <itunes:summary>Eirik Kristoffersen er tildelt Krigskorset med sverd, Norges høyeste militære utmerkelse. Han er utdannet spesialsoldat med dykking, svømming og sprengning som spesialfelt. Han har tjenestegjort i Afghanistan, og gikk til topps som øverste sjef i Hæren for ett år siden. Nå har han tatt skrittet opp til vår øverste militære posisjon: forsvarssjef for landets samlede stridskrefter. </itunes:summary>
+      <itunes:duration>1225</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kongehuset, Slottet og barnetoget 17.mai</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_c7a1ff56-d0f4-4d5f-a1ff-56d0f42d5fa0</link>
+      <description>Forfatter Tor Bomann-Larsen snakker med Harald Stanghelle om kongens betydning i 17.mai-markeringer gjennom vår moderne historie.</description>
+      <guid isPermaLink="false">l_c7a1ff56-d0f4-4d5f-a1ff-56d0f42d5fa0</guid>
+      <pubDate>Fri, 15 May 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/9ad04dca-725e-4792-a48e-f762c405908c_0_ID192MP3.mp3" type="audio/mpeg" length="23327240"></enclosure>
+      <itunes:title>Kongehuset, Slottet og barnetoget 17.mai</itunes:title>
+      <itunes:summary>Forfatter Tor Bomann-Larsen snakker med Harald Stanghelle om kongens betydning i 17.mai-markeringer gjennom vår moderne historie.</itunes:summary>
+      <itunes:duration>971</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Pippi Langstrømpe er 75 år</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_9758bf23-a039-4b16-98bf-23a039bb1648</link>
+      <description>Dette er historia om korleis Pippi Langstrømpe kom til, og på det viset opna vegen inn i barneboklitteraturen for Astrid Lindgren. &#xA;Me finn spor etter Pippi i språk og daglegtale. Ja, den uredde og småfrekke væremåten hennar gler barn og vaksne den dag i dag.</description>
+      <guid isPermaLink="false">l_9758bf23-a039-4b16-98bf-23a039bb1648</guid>
+      <pubDate>Fri, 08 May 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/7d5e461c-96ae-41da-84e0-f5044d041522_0_ID192MP3.mp3" type="audio/mpeg" length="27471564"></enclosure>
+      <itunes:title>Pippi Langstrømpe er 75 år</itunes:title>
+      <itunes:summary>Dette er historia om korleis Pippi Langstrømpe kom til, og på det viset opna vegen inn i barneboklitteraturen for Astrid Lindgren. &#xA;Me finn spor etter Pippi i språk og daglegtale. Ja, den uredde og småfrekke væremåten hennar gler barn og vaksne den dag i dag.</itunes:summary>
+      <itunes:duration>1144</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fotografen og minnene hans</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_a1eeb8a1-8b43-4aea-aeb8-a18b431aea08</link>
+      <description>Morten Krogvold fyller 70 år 3.mai. I samtalen med Harald Stanghelle forteller han om sin veg inn i fotograferingen, om portretter og portretterte personligheter fra inn- og utland.</description>
+      <guid isPermaLink="false">l_a1eeb8a1-8b43-4aea-aeb8-a18b431aea08</guid>
+      <pubDate>Fri, 01 May 2020 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/8e1e2c5d-5301-4e3b-ba00-d785c5ff96ca_0_ID192MP3.mp3" type="audio/mpeg" length="27297013"></enclosure>
+      <itunes:title>Fotografen og minnene hans</itunes:title>
+      <itunes:summary>Morten Krogvold fyller 70 år 3.mai. I samtalen med Harald Stanghelle forteller han om sin veg inn i fotograferingen, om portretter og portretterte personligheter fra inn- og utland.</itunes:summary>
+      <itunes:duration>1137</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Retorikk og språk i koronakrisen</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_b25587f3-517e-4012-9587-f3517ef01259</link>
+      <description>Hilde Sandvik og Hans Geelmuyden om språk, retorikk og henvendelsesformer i Sverige, Danmark og Norge under koronakrisen.</description>
+      <guid isPermaLink="false">l_b25587f3-517e-4012-9587-f3517ef01259</guid>
+      <pubDate>Fri, 24 Apr 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/3429a9b5-db09-4cd6-9740-0248cdcc4e83_0_ID192MP3.mp3" type="audio/mpeg" length="25212492"></enclosure>
+      <itunes:title>Retorikk og språk i koronakrisen</itunes:title>
+      <itunes:summary>Hilde Sandvik og Hans Geelmuyden om språk, retorikk og henvendelsesformer i Sverige, Danmark og Norge under koronakrisen.</itunes:summary>
+      <itunes:duration>1050</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>50 år etter The Beatles</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_f3afdc64-43ea-4c96-afdc-6443eaec9680</link>
+      <description>10.april 1970 slapp Paul McCartney nyheten om at The Beatles var oppløst. Bård Ose og Harald Stanghelle snakker om gruppas betydning, innflytelse og plass i den moderne musikkhistorien. </description>
+      <guid isPermaLink="false">l_f3afdc64-43ea-4c96-afdc-6443eaec9680</guid>
+      <pubDate>Fri, 17 Apr 2020 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/c7ff9200-fee0-45d2-9ee6-bc82fcf341ac_0_ID192MP3.mp3" type="audio/mpeg" length="23737356"></enclosure>
+      <itunes:title>50 år etter The Beatles</itunes:title>
+      <itunes:summary>10.april 1970 slapp Paul McCartney nyheten om at The Beatles var oppløst. Bård Ose og Harald Stanghelle snakker om gruppas betydning, innflytelse og plass i den moderne musikkhistorien. </itunes:summary>
+      <itunes:duration>988</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stjernestøv, verdensrommet og Django Reinhardt </title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_41891fad-0f90-418b-891f-ad0f90918bd1</link>
+      <description>Jon Larsen er musiker, stjerneforsker og entusiast som bare en ekte amatør kan være. For noen år siden la han sin gitar på hylla og kastet seg over mikroskopet - for å studere støvet fra stjernehimmelen og &#34;The big bang&#34;!&#xA;Og Harald Stanghelles uke-kommentar; &#34;Stang inn - stang ut&#34;!</description>
+      <guid isPermaLink="false">l_41891fad-0f90-418b-891f-ad0f90918bd1</guid>
+      <pubDate>Fri, 10 Apr 2020 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/0682cfe6-ef58-477c-b363-67f4139db9bd_0_ID192MP3.mp3" type="audio/mpeg" length="27968074"></enclosure>
+      <itunes:title>Stjernestøv, verdensrommet og Django Reinhardt </itunes:title>
+      <itunes:summary>Jon Larsen er musiker, stjerneforsker og entusiast som bare en ekte amatør kan være. For noen år siden la han sin gitar på hylla og kastet seg over mikroskopet - for å studere støvet fra stjernehimmelen og &#34;The big bang&#34;!&#xA;Og Harald Stanghelles uke-kommentar; &#34;Stang inn - stang ut&#34;!</itunes:summary>
+      <itunes:duration>1165</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fjell- og hytteliv i korona-tider.</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_9f09cd88-6974-4850-89cd-886974185029</link>
+      <description>Hytteforbudet og reisebegrensninger preger påskeferien vi står foran. Sosialantropolog Marianne Lien og generalsekretær Dag Terje Solvang i DNT deler tanker og ideer om hva norsk hyttekultur og friluftsliv er - og kan bli - når kampen mot dette viruset er over.&#xA;Og Harald Stanghelles uke-kommentar; &#34;Stang inn - stang ut&#34;!</description>
+      <guid isPermaLink="false">l_9f09cd88-6974-4850-89cd-886974185029</guid>
+      <pubDate>Fri, 03 Apr 2020 15:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/4386bce5-0c16-4194-9bf3-233519262cb6_0_ID192MP3.mp3" type="audio/mpeg" length="26355263"></enclosure>
+      <itunes:title>Fjell- og hytteliv i korona-tider.</itunes:title>
+      <itunes:summary>Hytteforbudet og reisebegrensninger preger påskeferien vi står foran. Sosialantropolog Marianne Lien og generalsekretær Dag Terje Solvang i DNT deler tanker og ideer om hva norsk hyttekultur og friluftsliv er - og kan bli - når kampen mot dette viruset er over.&#xA;Og Harald Stanghelles uke-kommentar; &#34;Stang inn - stang ut&#34;!</itunes:summary>
+      <itunes:duration>1098</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En norsk sosialist</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_ce7536ad-19fc-4dbd-b536-ad19fccdbd48</link>
+      <description>Stein Ørnhøi om liv , arbeid og politikk. &#xA;Og Haralds ukentlige kommentar: Stang inn - stang ut.</description>
+      <guid isPermaLink="false">l_ce7536ad-19fc-4dbd-b536-ad19fccdbd48</guid>
+      <pubDate>Fri, 27 Mar 2020 15:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/171e4e13-b25a-4e82-8391-03f74b532213_0_ID192MP3.mp3" type="audio/mpeg" length="24154377"></enclosure>
+      <itunes:title>En norsk sosialist</itunes:title>
+      <itunes:summary>Stein Ørnhøi om liv , arbeid og politikk. &#xA;Og Haralds ukentlige kommentar: Stang inn - stang ut.</itunes:summary>
+      <itunes:duration>1006</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vår konges ord, vår konges trøst</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_f14beb56-12b2-47f7-8beb-5612b2c7f79e</link>
+      <description>Hva betyr det for folk og land at kongen henvender seg til offentligheten gjennom en tale? Hvilke ord og formuleringer er det som gjør kong Haralds taler spesielle? Bjørn Magnus Berge analyserer kongens ord ifm. korona-viruset og smitteverntiltakene alle er berørt av.</description>
+      <guid isPermaLink="false">l_f14beb56-12b2-47f7-8beb-5612b2c7f79e</guid>
+      <pubDate>Fri, 20 Mar 2020 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/e0c5b700-9019-4f8a-a312-0e68d2a8fc5a_0_ID192MP3.mp3" type="audio/mpeg" length="23540948"></enclosure>
+      <itunes:title>Vår konges ord, vår konges trøst</itunes:title>
+      <itunes:summary>Hva betyr det for folk og land at kongen henvender seg til offentligheten gjennom en tale? Hvilke ord og formuleringer er det som gjør kong Haralds taler spesielle? Bjørn Magnus Berge analyserer kongens ord ifm. korona-viruset og smitteverntiltakene alle er berørt av.</itunes:summary>
+      <itunes:duration>980</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kjell Aukrust i hundre!</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_185015f8-4851-4dd8-9015-f848512dd834</link>
+      <description>Kjell Aukrust er mannen bak karakterer og folkekjære figurer som Solan Gundersen, Ludvig og Reodor Felgen. Torsdag 19.mars  ville han fylt hundre år. Tegneren, humoristen og maleren etterlater seg et fantasi-univers som i stor grad er folkeeie. Nevø Lars Espen Aukrust og filmskaper John M. Jacobsen deler minner og anekdoter med Harald Stanghelle.   </description>
+      <guid isPermaLink="false">l_185015f8-4851-4dd8-9015-f848512dd834</guid>
+      <pubDate>Fri, 13 Mar 2020 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/f4c0519c-526d-47c0-94b9-c673f9592500_0_ID192MP3.mp3" type="audio/mpeg" length="28810748"></enclosure>
+      <itunes:title>Kjell Aukrust i hundre!</itunes:title>
+      <itunes:summary>Kjell Aukrust er mannen bak karakterer og folkekjære figurer som Solan Gundersen, Ludvig og Reodor Felgen. Torsdag 19.mars  ville han fylt hundre år. Tegneren, humoristen og maleren etterlater seg et fantasi-univers som i stor grad er folkeeie. Nevø Lars Espen Aukrust og filmskaper John M. Jacobsen deler minner og anekdoter med Harald Stanghelle.   </itunes:summary>
+      <itunes:duration>1200</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Norge, skidominansen og Kollen; det er krise!</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_6e155642-1122-485f-9556-421122e85fc0</link>
+      <description>Interessen for langrenn på tv faller. Den norske dominansen har tatt spenningen ut. Har vi nådd et kritisk metningspunkt? Hva skjer med vår gullkantede skitradisjon. Harald søker svar hos forlegger og skiløper Cathrine Sandnes, og journalist og sportsentusiast Halvor Hegtun.  </description>
+      <guid isPermaLink="false">l_6e155642-1122-485f-9556-421122e85fc0</guid>
+      <pubDate>Fri, 06 Mar 2020 16:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/7392740f-9664-4281-85b5-7e232d1065c3_0_ID192MP3.mp3" type="audio/mpeg" length="18279212"></enclosure>
+      <itunes:title>Norge, skidominansen og Kollen; det er krise!</itunes:title>
+      <itunes:summary>Interessen for langrenn på tv faller. Den norske dominansen har tatt spenningen ut. Har vi nådd et kritisk metningspunkt? Hva skjer med vår gullkantede skitradisjon. Harald søker svar hos forlegger og skiløper Cathrine Sandnes, og journalist og sportsentusiast Halvor Hegtun.  </itunes:summary>
+      <itunes:duration>761</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Husmorfilmane og kvinnas stilling i Norge på femti- og sekstitalet.</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_b8d94b16-2113-4a47-994b-1621132a4790</link>
+      <description>Begrepet &#34;husmor&#34; er knapt i bruk på norsk lenger. Det kjønnsnøytrale &#34;heimeværande&#34; er vel det som ligg nærast. Svært få, om nokon, kvinner omtalar seg sjøl som husmor i dag, og ingen brukar begrepet offentleg. Men i vår nære historie, i etterkrigstida gjennom femti- og sekstitalet, hadde husmor ei viktig rolle. Eit interessant og noko spesielt døme på det er historia om &#34;den norske husmorfilmen&#34;; mellom 1953 og 1972 blei det laga i alt 29 filmer der husmora spela hovudrolla. </description>
+      <guid isPermaLink="false">l_b8d94b16-2113-4a47-994b-1621132a4790</guid>
+      <pubDate>Fri, 28 Feb 2020 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/6c54091f-2269-4114-a3a7-b2f2a45c6fef_0_ID192MP3.mp3" type="audio/mpeg" length="25398571"></enclosure>
+      <itunes:title>Husmorfilmane og kvinnas stilling i Norge på femti- og sekstitalet.</itunes:title>
+      <itunes:summary>Begrepet &#34;husmor&#34; er knapt i bruk på norsk lenger. Det kjønnsnøytrale &#34;heimeværande&#34; er vel det som ligg nærast. Svært få, om nokon, kvinner omtalar seg sjøl som husmor i dag, og ingen brukar begrepet offentleg. Men i vår nære historie, i etterkrigstida gjennom femti- og sekstitalet, hadde husmor ei viktig rolle. Eit interessant og noko spesielt døme på det er historia om &#34;den norske husmorfilmen&#34;; mellom 1953 og 1972 blei det laga i alt 29 filmer der husmora spela hovudrolla. </itunes:summary>
+      <itunes:duration>1058</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Harald Eia forklarer Norge</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_373169fc-17ff-41ff-b169-fc17ff61fffc</link>
+      <description>Harald Eia om Norge, nordmenn, sosiologi og samfunn. </description>
+      <guid isPermaLink="false">l_373169fc-17ff-41ff-b169-fc17ff61fffc</guid>
+      <pubDate>Fri, 21 Feb 2020 14:40:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/b4f774e2-1997-4484-a2c7-c6b6f5419a33_0_ID192MP3.mp3" type="audio/mpeg" length="22370518"></enclosure>
+      <itunes:title>Harald Eia forklarer Norge</itunes:title>
+      <itunes:summary>Harald Eia om Norge, nordmenn, sosiologi og samfunn. </itunes:summary>
+      <itunes:duration>932</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 14.02.20</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_3b3a63de-43db-46a6-ba63-de43db56a6c5</link>
+      <description>Tidligere biskop i Oslo, nyfylt 85-åring  Gunnar Stålsett, besøker Harald Stanghelle.</description>
+      <guid isPermaLink="false">l_3b3a63de-43db-46a6-ba63-de43db56a6c5</guid>
+      <pubDate>Fri, 14 Feb 2020 14:45:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/a0080e3c-3d7f-4c4e-86c4-95ceefa0a788_0_ID192MP3.mp3" type="audio/mpeg" length="23751176"></enclosure>
+      <itunes:title>Stanghelle på fredag 14.02.20</itunes:title>
+      <itunes:summary>Tidligere biskop i Oslo, nyfylt 85-åring  Gunnar Stålsett, besøker Harald Stanghelle.</itunes:summary>
+      <itunes:duration>989</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>22.juli, serien, historien og kommisjonen</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_a139203d-bb08-4d76-b920-3dbb08cd76aa</link>
+      <description>Alexandra Bech Gjørv snakker om hvordan tv-serien gjorde inntrykk på henne, om  hvordan den harmonerer med hva kommisjonen hun ledet fant frem til - og hva hun legger vekt på når hun ser seg tilbake.</description>
+      <guid isPermaLink="false">l_a139203d-bb08-4d76-b920-3dbb08cd76aa</guid>
+      <pubDate>Fri, 07 Feb 2020 13:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/4553b99a-b733-41bb-bd03-bd651b7ceb7f_0_ID192MP3.mp3" type="audio/mpeg" length="24902613"></enclosure>
+      <itunes:title>22.juli, serien, historien og kommisjonen</itunes:title>
+      <itunes:summary>Alexandra Bech Gjørv snakker om hvordan tv-serien gjorde inntrykk på henne, om  hvordan den harmonerer med hva kommisjonen hun ledet fant frem til - og hva hun legger vekt på når hun ser seg tilbake.</itunes:summary>
+      <itunes:duration>1037</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Børge Brende og World Economic Forum</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_aad72c00-d3b3-4681-972c-00d3b30681f6</link>
+      <description>Hvert år møtes noen av verdens rikeste og mektigste finansfolk og statsledere i Davos. Det er World Economic Forum som arrangerer - og direktøren for det hele er norsk, og heter Børge Brende.</description>
+      <guid isPermaLink="false">l_aad72c00-d3b3-4681-972c-00d3b30681f6</guid>
+      <pubDate>Fri, 31 Jan 2020 15:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/02bc53fe-bb31-474c-b068-15c70482ae21_0_ID192MP3.mp3" type="audio/mpeg" length="21090054"></enclosure>
+      <itunes:title>Børge Brende og World Economic Forum</itunes:title>
+      <itunes:summary>Hvert år møtes noen av verdens rikeste og mektigste finansfolk og statsledere i Davos. Det er World Economic Forum som arrangerer - og direktøren for det hele er norsk, og heter Børge Brende.</itunes:summary>
+      <itunes:duration>878</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kokkekunst og stjernetegn</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_4cd60428-d62e-40c7-9604-28d62ea0c7df</link>
+      <description>Et møte med mesterkokken Bent Stiansen: om mat, om mor, om stjerner - og det å lave et sunt matliv!</description>
+      <guid isPermaLink="false">l_4cd60428-d62e-40c7-9604-28d62ea0c7df</guid>
+      <pubDate>Fri, 24 Jan 2020 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/7ab9fd3d-8bbc-4628-b662-89f2be3c469a_0_ID192MP3.mp3" type="audio/mpeg" length="20902272"></enclosure>
+      <itunes:title>Kokkekunst og stjernetegn</itunes:title>
+      <itunes:summary>Et møte med mesterkokken Bent Stiansen: om mat, om mor, om stjerner - og det å lave et sunt matliv!</itunes:summary>
+      <itunes:duration>870</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag 17.01.20: Om Gud, Allah og satire </title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_16a7a37f-733b-40b5-a7a3-7f733b10b5a6</link>
+      <description>Fem år etter attentatet og drapene i redaksjonen til det franske satiremagasinet &#34;Charlie Ebdo&#34;; hvordan er vilkårene for satire mot islamske tabu og profeten i dag? Historien om satiren mot Gud og Jesus slik den kom til uttrykk i filmen &#34;Life of Brian&#34; og musikalen &#34;Jesus Christ Superstar&#34; endret vårt forhold til blasfemi. Kan en tilsvarende utvikling spores i forhold til satire mot Islam? Spørsmålene drøftes av Shabana Rehman Gaarder og Anders Giæver - i samtale med Harald Stanghelle. </description>
+      <guid isPermaLink="false">l_16a7a37f-733b-40b5-a7a3-7f733b10b5a6</guid>
+      <pubDate>Fri, 17 Jan 2020 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/543a7378-ff14-421e-b5be-eb351886b809_0_ID192MP3.mp3" type="audio/mpeg" length="25404297"></enclosure>
+      <itunes:title>Stanghelle på fredag 17.01.20: Om Gud, Allah og satire </itunes:title>
+      <itunes:summary>Fem år etter attentatet og drapene i redaksjonen til det franske satiremagasinet &#34;Charlie Ebdo&#34;; hvordan er vilkårene for satire mot islamske tabu og profeten i dag? Historien om satiren mot Gud og Jesus slik den kom til uttrykk i filmen &#34;Life of Brian&#34; og musikalen &#34;Jesus Christ Superstar&#34; endret vårt forhold til blasfemi. Kan en tilsvarende utvikling spores i forhold til satire mot Islam? Spørsmålene drøftes av Shabana Rehman Gaarder og Anders Giæver - i samtale med Harald Stanghelle. </itunes:summary>
+      <itunes:duration>1058</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag; året 1989 og ettervirkningene</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_86e2f79e-87dd-4904-a2f7-9e87dd090484</link>
+      <description>Berlinmurens fall, blodbadet på den Himmelske Freds plass, Khomeinis fatwa mot Salman Rushdie og konflikten i Kosovo. Alle er hendelser som preger verden den dag i dag. Hør Kate Hansen Bundt, Sun Heidi Sæbø, Sylo Taraku og Trond Gram i samtale med Harald Stanghelle om begivenhetene for tretti år siden.</description>
+      <guid isPermaLink="false">l_86e2f79e-87dd-4904-a2f7-9e87dd090484</guid>
+      <pubDate>Fri, 27 Dec 2019 14:41:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-12-27_1341_1959.MP3" type="audio/mpeg" length="100415390"></enclosure>
+      <itunes:title>Stanghelle på fredag; året 1989 og ettervirkningene</itunes:title>
+      <itunes:summary>Berlinmurens fall, blodbadet på den Himmelske Freds plass, Khomeinis fatwa mot Salman Rushdie og konflikten i Kosovo. Alle er hendelser som preger verden den dag i dag. Hør Kate Hansen Bundt, Sun Heidi Sæbø, Sylo Taraku og Trond Gram i samtale med Harald Stanghelle om begivenhetene for tretti år siden.</itunes:summary>
+      <itunes:duration>4180</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>20.12.2019  Stanghelle på fredag. Krigens arvinger.</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_16592b2d-9c9c-4097-992b-2d9c9c9097d8</link>
+      <description>Kristin Skogen Lund forteller historien om sin far, motstandsmannen Olav Skogen fra Rjukan. Han tok stor risiko i motstandarbeidet, ble angitt og utsatt for fryktelig tortur før han ble sendt til leiren Natzweiler i Tyskland. Arven og loddet han og familien bar etter frigjøringen var en del av oppveksten til Kristin, og er nærværende i liv og livsanskuelse den dag i dag.. </description>
+      <guid isPermaLink="false">l_16592b2d-9c9c-4097-992b-2d9c9c9097d8</guid>
+      <pubDate>Fri, 20 Dec 2019 14:40:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-12-20_1340_3294.MP3" type="audio/mpeg" length="22479997"></enclosure>
+      <itunes:title>20.12.2019  Stanghelle på fredag. Krigens arvinger.</itunes:title>
+      <itunes:summary>Kristin Skogen Lund forteller historien om sin far, motstandsmannen Olav Skogen fra Rjukan. Han tok stor risiko i motstandarbeidet, ble angitt og utsatt for fryktelig tortur før han ble sendt til leiren Natzweiler i Tyskland. Arven og loddet han og familien bar etter frigjøringen var en del av oppveksten til Kristin, og er nærværende i liv og livsanskuelse den dag i dag.. </itunes:summary>
+      <itunes:duration>932</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle 13.12.2019: Hvor går Skottland?</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_3d18b3bb-77c8-4c01-98b3-bb77c83c0197</link>
+      <description>Valget til det britiske parlamentet gav de konservative solid flertall i Underhuset. Nasjonalistene i det skotske partiet SNP gjorde også et godt valg. Bringer disse valgresultatene en skotsk løsrivelse fra unionen med England nærmere? Og hvordan vil det påvirke andre regioner i Europa der eget selvstyre står på dagsorden?&#xA;Gjester hos Harald Stanghelle er Asle Toje og Jan Erik Mustad.</description>
+      <guid isPermaLink="false">l_3d18b3bb-77c8-4c01-98b3-bb77c83c0197</guid>
+      <pubDate>Fri, 13 Dec 2019 14:31:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-12-13_1331_2716.MP3" type="audio/mpeg" length="22748945"></enclosure>
+      <itunes:title>Stanghelle 13.12.2019: Hvor går Skottland?</itunes:title>
+      <itunes:summary>Valget til det britiske parlamentet gav de konservative solid flertall i Underhuset. Nasjonalistene i det skotske partiet SNP gjorde også et godt valg. Bringer disse valgresultatene en skotsk løsrivelse fra unionen med England nærmere? Og hvordan vil det påvirke andre regioner i Europa der eget selvstyre står på dagsorden?&#xA;Gjester hos Harald Stanghelle er Asle Toje og Jan Erik Mustad.</itunes:summary>
+      <itunes:duration>944</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle på fredag; Nordiske nyord</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_8c849df3-8caa-44e1-849d-f38caab4e179</link>
+      <description>Nordiske nyord er spennende å sammenlikne. De reflekterer kulturelle og politiske forskjeller - og likheter - mellom Danmark, Sverige og Norge. </description>
+      <guid isPermaLink="false">l_8c849df3-8caa-44e1-849d-f38caab4e179</guid>
+      <pubDate>Fri, 06 Dec 2019 14:28:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-12-06_1328_2982.MP3" type="audio/mpeg" length="20981607"></enclosure>
+      <itunes:title>Stanghelle på fredag; Nordiske nyord</itunes:title>
+      <itunes:summary>Nordiske nyord er spennende å sammenlikne. De reflekterer kulturelle og politiske forskjeller - og likheter - mellom Danmark, Sverige og Norge. </itunes:summary>
+      <itunes:duration>870</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Konspirasjonsteorier hos Stanghelle på fredag</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_f7aa9614-82be-4e7a-aa96-1482be8e7ac2</link>
+      <description>Andreas Wahl fra Folkeopplysningen og Andres Giæver fra VG i samtale om konspirasjonsteorier; fra Abbey Road - til Det Hvite Hus</description>
+      <guid isPermaLink="false">l_f7aa9614-82be-4e7a-aa96-1482be8e7ac2</guid>
+      <pubDate>Fri, 29 Nov 2019 14:24:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-29_1324_846.MP3" type="audio/mpeg" length="24802163"></enclosure>
+      <itunes:title>Konspirasjonsteorier hos Stanghelle på fredag</itunes:title>
+      <itunes:summary>Andreas Wahl fra Folkeopplysningen og Andres Giæver fra VG i samtale om konspirasjonsteorier; fra Abbey Road - til Det Hvite Hus</itunes:summary>
+      <itunes:duration>1029</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title> Stanghelle på fredag: Hollywood og politikken</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_9dadca83-9ec6-489a-adca-839ec6b89a3b</link>
+      <description>Jane Fonda, Ronald Reagan, Marlon Brando, Meryl Streep - fra Hollywood har det alltid kommer skuespillere som engasjerer seg i politikk og samfunnsdebatt. Hege Duckert og Per Haddal gjester Harald med gode historier om politisk alvor. </description>
+      <guid isPermaLink="false">l_9dadca83-9ec6-489a-adca-839ec6b89a3b</guid>
+      <pubDate>Fri, 22 Nov 2019 14:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-22_1330_1821.MP3" type="audio/mpeg" length="22135823"></enclosure>
+      <itunes:title> Stanghelle på fredag: Hollywood og politikken</itunes:title>
+      <itunes:summary>Jane Fonda, Ronald Reagan, Marlon Brando, Meryl Streep - fra Hollywood har det alltid kommer skuespillere som engasjerer seg i politikk og samfunnsdebatt. Hege Duckert og Per Haddal gjester Harald med gode historier om politisk alvor. </itunes:summary>
+      <itunes:duration>918</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle om USA, demokrater og republikanere</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_07bb5c71-4771-47b8-bb5c-71477127b873</link>
+      <description>Vårin Alme og Hans Olav Lahlum om demokrater og republikanere, Trump, høringer og riksrett. Ja, og selvsagt; hvordan er posisjoner og muligheter foran neste års valg? </description>
+      <guid isPermaLink="false">l_07bb5c71-4771-47b8-bb5c-71477127b873</guid>
+      <pubDate>Fri, 15 Nov 2019 14:38:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-15_1338_2936.MP3" type="audio/mpeg" length="28951874"></enclosure>
+      <itunes:title>Stanghelle om USA, demokrater og republikanere</itunes:title>
+      <itunes:summary>Vårin Alme og Hans Olav Lahlum om demokrater og republikanere, Trump, høringer og riksrett. Ja, og selvsagt; hvordan er posisjoner og muligheter foran neste års valg? </itunes:summary>
+      <itunes:duration>1202</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle:  Norsk oljehistorie med Statoil.</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_5523269b-fdcf-476f-a326-9bfdcfb76f66</link>
+      <description>Oljeanalytiker Thina Saltvedt og forfattere Aage Borchgrevink snakker om vår oljehistorie og perspektivene fremover.</description>
+      <guid isPermaLink="false">l_5523269b-fdcf-476f-a326-9bfdcfb76f66</guid>
+      <pubDate>Fri, 08 Nov 2019 15:06:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-08_1406_482.MP3" type="audio/mpeg" length="22374673"></enclosure>
+      <itunes:title>Stanghelle:  Norsk oljehistorie med Statoil.</itunes:title>
+      <itunes:summary>Oljeanalytiker Thina Saltvedt og forfattere Aage Borchgrevink snakker om vår oljehistorie og perspektivene fremover.</itunes:summary>
+      <itunes:duration>928</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Om demens og åpenhet</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_62be7539-cfcb-4804-be75-39cfcbd804a1</link>
+      <description>Journalist og forfatter Laila Lanes og professor i nevrologi, Tormod Fladby i samtale om demens, aldring, mestring og åpenhet.</description>
+      <guid isPermaLink="false">l_62be7539-cfcb-4804-be75-39cfcbd804a1</guid>
+      <pubDate>Fri, 01 Nov 2019 14:45:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-11-01_1345_872.MP3" type="audio/mpeg" length="20599142"></enclosure>
+      <itunes:title>Om demens og åpenhet</itunes:title>
+      <itunes:summary>Journalist og forfatter Laila Lanes og professor i nevrologi, Tormod Fladby i samtale om demens, aldring, mestring og åpenhet.</itunes:summary>
+      <itunes:duration>854</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Personstrid og maktkamper i politikken.  </title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_8d94676d-f2cd-4991-9467-6df2cdf9912d</link>
+      <description>Liv Signe Navarsete og Håvard Narum samtaler med Harald Stanghelle om maktkamper og personstrider i norsk politikk; fra Einar Gerhardsen versus Haakon Lie, til dagens stridigheter omkring ledere som Trine Skei Grande og Jonas Gahr Støre.  </description>
+      <guid isPermaLink="false">l_8d94676d-f2cd-4991-9467-6df2cdf9912d</guid>
+      <pubDate>Fri, 25 Oct 2019 14:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-25_1230_1739.MP3" type="audio/mpeg" length="22273727"></enclosure>
+      <itunes:title>Personstrid og maktkamper i politikken.  </itunes:title>
+      <itunes:summary>Liv Signe Navarsete og Håvard Narum samtaler med Harald Stanghelle om maktkamper og personstrider i norsk politikk; fra Einar Gerhardsen versus Haakon Lie, til dagens stridigheter omkring ledere som Trine Skei Grande og Jonas Gahr Støre.  </itunes:summary>
+      <itunes:duration>924</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Om salmer og Elias Blix og Edvard Hoem</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_e639915e-fac6-4eb0-b991-5efac63eb035</link>
+      <description>Det er 150 år siden Elias Blix publiserte den aller første norske salmesamlingen &#34;Nokre salmar. Gamle og nye&#34;.  Hans tekster fikk stor betydning for vår salmekunst og, ikke minst, spredningen og tilslutningen til nynorsk her i landet. Harald Stanghelle og Edvard Hoem snakker om salmer og kristentro i denne podcasten.</description>
+      <guid isPermaLink="false">l_e639915e-fac6-4eb0-b991-5efac63eb035</guid>
+      <pubDate>Fri, 18 Oct 2019 14:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-18_1230_3788.MP3" type="audio/mpeg" length="24641041"></enclosure>
+      <itunes:title>Om salmer og Elias Blix og Edvard Hoem</itunes:title>
+      <itunes:summary>Det er 150 år siden Elias Blix publiserte den aller første norske salmesamlingen &#34;Nokre salmar. Gamle og nye&#34;.  Hans tekster fikk stor betydning for vår salmekunst og, ikke minst, spredningen og tilslutningen til nynorsk her i landet. Harald Stanghelle og Edvard Hoem snakker om salmer og kristentro i denne podcasten.</itunes:summary>
+      <itunes:duration>1022</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle: Nobels fredspriser gjennom historien, med Geir Lundestad</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_033d82db-9e8f-47f0-bd82-db9e8f97f04c</link>
+      <description>Geir Lundestad var sekretær for Den norske Nobelkomite gjennom 25 år. Sammen med Harald Stanghelle deler han historier, anekdoter og muntre minner fra disse årene</description>
+      <guid isPermaLink="false">l_033d82db-9e8f-47f0-bd82-db9e8f97f04c</guid>
+      <pubDate>Fri, 11 Oct 2019 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-11_1300_829.MP3" type="audio/mpeg" length="32978103"></enclosure>
+      <itunes:title>Stanghelle: Nobels fredspriser gjennom historien, med Geir Lundestad</itunes:title>
+      <itunes:summary>Geir Lundestad var sekretær for Den norske Nobelkomite gjennom 25 år. Sammen med Harald Stanghelle deler han historier, anekdoter og muntre minner fra disse årene</itunes:summary>
+      <itunes:duration>1370</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>04.10.2019  Stanghelle: Stortinget åpner høstsesjonen</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_3be73afb-c4af-4749-a73a-fbc4af174906</link>
+      <description>Stortingspresident Tone Wilhelmsen Trøen og retoriker Jens Elmelund Kjeldsen drøfter språk og uttrykk i vårt politiske ordskifte. Hvordan holde en anstendig og respektfull stil, samtidig som vi etterstreber tydelighet og engasjement i politiske dueller?  </description>
+      <guid isPermaLink="false">l_3be73afb-c4af-4749-a73a-fbc4af174906</guid>
+      <pubDate>Fri, 04 Oct 2019 14:38:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-04_1238_1869.MP3" type="audio/mpeg" length="26075496"></enclosure>
+      <itunes:title>04.10.2019  Stanghelle: Stortinget åpner høstsesjonen</itunes:title>
+      <itunes:summary>Stortingspresident Tone Wilhelmsen Trøen og retoriker Jens Elmelund Kjeldsen drøfter språk og uttrykk i vårt politiske ordskifte. Hvordan holde en anstendig og respektfull stil, samtidig som vi etterstreber tydelighet og engasjement i politiske dueller?  </itunes:summary>
+      <itunes:duration>1082</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Muren faller i 1989 og mye endres i Europa.</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_e53cbae0-2f5c-47a5-bcba-e02f5c47a560</link>
+      <description>Kate Hansen Bundt og Per Anders Madsen samtaler med Harald Stanghelle om Berlinmurens fall og betydningen året 1989 fikk i Europa. Utgangspunktet er boka til Madsen: Skjebneåret 1989.</description>
+      <guid isPermaLink="false">l_e53cbae0-2f5c-47a5-bcba-e02f5c47a560</guid>
+      <pubDate>Thu, 03 Oct 2019 16:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-03_1415_1498.MP3" type="audio/mpeg" length="26071728"></enclosure>
+      <itunes:title>Muren faller i 1989 og mye endres i Europa.</itunes:title>
+      <itunes:summary>Kate Hansen Bundt og Per Anders Madsen samtaler med Harald Stanghelle om Berlinmurens fall og betydningen året 1989 fikk i Europa. Utgangspunktet er boka til Madsen: Skjebneåret 1989.</itunes:summary>
+      <itunes:duration>1082</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle møter Tor Åge Bringsværd</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_4c4ea5c5-7e19-42bb-8ea5-c57e1942bbc4</link>
+      <description>Tor Åge Bringsværd gjester Harald Stanghelle og snakker om sitt forfatterskap, samarbeidet med Jon Bing, fabelprosa og prisen han nettopp mottok; Anders Jahres kulturpris 2019.</description>
+      <guid isPermaLink="false">l_4c4ea5c5-7e19-42bb-8ea5-c57e1942bbc4</guid>
+      <pubDate>Thu, 03 Oct 2019 16:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-10-03_1412_1123.MP3" type="audio/mpeg" length="25296824"></enclosure>
+      <itunes:title>Stanghelle møter Tor Åge Bringsværd</itunes:title>
+      <itunes:summary>Tor Åge Bringsværd gjester Harald Stanghelle og snakker om sitt forfatterskap, samarbeidet med Jon Bing, fabelprosa og prisen han nettopp mottok; Anders Jahres kulturpris 2019.</itunes:summary>
+      <itunes:duration>1050</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Carl Ivar Hagen ute av politikken, men på besøk hos Stanghelle</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_db450531-11bd-4c2e-8505-3111bdbc2efe</link>
+      <description>Carl I Hagen var hjemme med kona Eli istedenfor å dra på valgvake. I samtalen med Harald Stanghelle forteller han at det blir hardt å legge politikken på hylla og at han nok ikke helt klarer å se når det er på tide å gi seg. Nå håper den tidligere partilederen å kunne tilbringe mer tid i Spania. </description>
+      <guid isPermaLink="false">l_db450531-11bd-4c2e-8505-3111bdbc2efe</guid>
+      <pubDate>Fri, 13 Sep 2019 14:35:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-09-13_1235_2252.MP3" type="audio/mpeg" length="25715642"></enclosure>
+      <itunes:title>Carl Ivar Hagen ute av politikken, men på besøk hos Stanghelle</itunes:title>
+      <itunes:summary>Carl I Hagen var hjemme med kona Eli istedenfor å dra på valgvake. I samtalen med Harald Stanghelle forteller han at det blir hardt å legge politikken på hylla og at han nok ikke helt klarer å se når det er på tide å gi seg. Nå håper den tidligere partilederen å kunne tilbringe mer tid i Spania. </itunes:summary>
+      <itunes:duration>1067</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Anne Enger og Valgerd Svarstad Haugland møter Stanghelle</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_0492c01e-49d8-43e4-92c0-1e49d8a3e455</link>
+      <description>Harald Stanghelle har invitert tidligere SP-leder Anne Enger, og tidligere KrF-leder Valgerd Svarstad Haugland til samtale om valgkampen slik den utfolder seg nå, og om deres minner og historier fra den gang de var aktive politikere.&#xA;Hør &#34;Stanghelle på fredag&#34;, i P1+ kl. 12:30 til 14:00.</description>
+      <guid isPermaLink="false">l_0492c01e-49d8-43e4-92c0-1e49d8a3e455</guid>
+      <pubDate>Fri, 30 Aug 2019 17:13:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-08-30_1513_575.MP3" type="audio/mpeg" length="25510633"></enclosure>
+      <itunes:title>Anne Enger og Valgerd Svarstad Haugland møter Stanghelle</itunes:title>
+      <itunes:summary>Harald Stanghelle har invitert tidligere SP-leder Anne Enger, og tidligere KrF-leder Valgerd Svarstad Haugland til samtale om valgkampen slik den utfolder seg nå, og om deres minner og historier fra den gang de var aktive politikere.&#xA;Hør &#34;Stanghelle på fredag&#34;, i P1+ kl. 12:30 til 14:00.</itunes:summary>
+      <itunes:duration>1059</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Harald Stanghelle møter Alf Cranner</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_6948ce4b-f9ff-4ff2-88ce-4bf9ffaff28b</link>
+      <description>Harald Stanghelle i samtale med visekunstneren Alf Cranner. De snakker om norsk visetradisjon, om Cranners lange karriere som poet, komponist og visesanger. Sentralt i samtalen er boka &#34;Fra Alf til Alf&#34;, der Cranner skriver inngående om sitt samarbeid og forhold til Alf Prøysen. &#xA;Du kan høre radioprogrammet &#34;Stanghelle på fredag&#34; i P1+, hver fredag kl. 12:30.</description>
+      <guid isPermaLink="false">l_6948ce4b-f9ff-4ff2-88ce-4bf9ffaff28b</guid>
+      <pubDate>Mon, 26 Aug 2019 17:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-08-26_1505_3555.MP3" type="audio/mpeg" length="22198495"></enclosure>
+      <itunes:title>Harald Stanghelle møter Alf Cranner</itunes:title>
+      <itunes:summary>Harald Stanghelle i samtale med visekunstneren Alf Cranner. De snakker om norsk visetradisjon, om Cranners lange karriere som poet, komponist og visesanger. Sentralt i samtalen er boka &#34;Fra Alf til Alf&#34;, der Cranner skriver inngående om sitt samarbeid og forhold til Alf Prøysen. &#xA;Du kan høre radioprogrammet &#34;Stanghelle på fredag&#34; i P1+, hver fredag kl. 12:30.</itunes:summary>
+      <itunes:duration>921</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle podcast: Dan Børge Akerø og Fredrik Skavlan</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_4e38d9cc-87a8-4628-b8d9-cc87a896282c</link>
+      <description>Dan Børge Akerø og Fredrik Skavlan møtes hos Stanghelle for å snakke og minnes helge-underholdningens plass hos folk, før og nå. Fra NRKs monopol tid - til dagens tilbud med strømmetjenester og en lang rekke tv-kanaler. </description>
+      <guid isPermaLink="false">l_4e38d9cc-87a8-4628-b8d9-cc87a896282c</guid>
+      <pubDate>Fri, 21 Jun 2019 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-06-21_1200_3357.MP3" type="audio/mpeg" length="31514192"></enclosure>
+      <itunes:title>Stanghelle podcast: Dan Børge Akerø og Fredrik Skavlan</itunes:title>
+      <itunes:summary>Dan Børge Akerø og Fredrik Skavlan møtes hos Stanghelle for å snakke og minnes helge-underholdningens plass hos folk, før og nå. Fra NRKs monopol tid - til dagens tilbud med strømmetjenester og en lang rekke tv-kanaler. </itunes:summary>
+      <itunes:duration>1309</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Skuespilleren Lise Fjeldstad fyller 80 år</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_6a0e2498-02ba-4cc7-8e24-9802badcc7ed</link>
+      <description>Lise Fjeldstad har en omfattende karriere bak seg. Hun har spilt på scener over store deler av verden og er fremdeles aktiv skuespiller. Alltid opptatt av Henrik Ibsens kvinner og dramatikk. Hun har et sterkt engasjement for kunst, medmennesker og klimasaken.  </description>
+      <guid isPermaLink="false">l_6a0e2498-02ba-4cc7-8e24-9802badcc7ed</guid>
+      <pubDate>Fri, 14 Jun 2019 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-06-14_1200_1496.MP3" type="audio/mpeg" length="22005391"></enclosure>
+      <itunes:title>Skuespilleren Lise Fjeldstad fyller 80 år</itunes:title>
+      <itunes:summary>Lise Fjeldstad har en omfattende karriere bak seg. Hun har spilt på scener over store deler av verden og er fremdeles aktiv skuespiller. Alltid opptatt av Henrik Ibsens kvinner og dramatikk. Hun har et sterkt engasjement for kunst, medmennesker og klimasaken.  </itunes:summary>
+      <itunes:duration>913</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Uløste kriminalgåter</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_76024587-f946-4785-8245-87f946e785bd</link>
+      <description>Uløste kriminalgåter blir det laget tv-serier og underholdning av, mysterier pirrer vår nysgjerrighet, men bak ligger tragedier og familier som fortvilet søker forsoning og en ny start. Finn Abrahamsen og Hanne Kristin Rohde gjester Stanghelle på fredag.</description>
+      <guid isPermaLink="false">l_76024587-f946-4785-8245-87f946e785bd</guid>
+      <pubDate>Fri, 14 Jun 2019 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-06-14_1200_464.MP3" type="audio/mpeg" length="24435381"></enclosure>
+      <itunes:title>Uløste kriminalgåter</itunes:title>
+      <itunes:summary>Uløste kriminalgåter blir det laget tv-serier og underholdning av, mysterier pirrer vår nysgjerrighet, men bak ligger tragedier og familier som fortvilet søker forsoning og en ny start. Finn Abrahamsen og Hanne Kristin Rohde gjester Stanghelle på fredag.</itunes:summary>
+      <itunes:duration>1014</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle podkast: Riksadvokat Tor Aksel Busch</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_c052e05d-cc75-4a0f-92e0-5dcc759a0ff9</link>
+      <description>Ingen har sittet i dette embetet lenger enn Tor Aksel Busch. Sammen med Harald Stanghelle snakker han om hvordan kriminalitet og rettspleie har endret seg i løpet av de 22 årene han har vært riksadvokat.</description>
+      <guid isPermaLink="false">l_c052e05d-cc75-4a0f-92e0-5dcc759a0ff9</guid>
+      <pubDate>Fri, 07 Jun 2019 14:44:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-06-07_1244_3491.MP3" type="audio/mpeg" length="24215984"></enclosure>
+      <itunes:title>Stanghelle podkast: Riksadvokat Tor Aksel Busch</itunes:title>
+      <itunes:summary>Ingen har sittet i dette embetet lenger enn Tor Aksel Busch. Sammen med Harald Stanghelle snakker han om hvordan kriminalitet og rettspleie har endret seg i løpet av de 22 årene han har vært riksadvokat.</itunes:summary>
+      <itunes:duration>1005</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle møter Eli Hagen</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_b1118a30-9d4d-47ab-918a-309d4d57ab6d</link>
+      <description>Hun er alltid ved sin manns side. Eli Hagen har blitt vant til å tåler kritikk og mediestorm. Hvordan er det å ha stått på sidelinjen i alle disse årene, med meninger om det meste. Carl I Hagen har blitt 75. Harald Stanghelle tok en prat med Eli </description>
+      <guid isPermaLink="false">l_b1118a30-9d4d-47ab-918a-309d4d57ab6d</guid>
+      <pubDate>Fri, 24 May 2019 15:38:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-05-24_1338_3599.MP3" type="audio/mpeg" length="23293744"></enclosure>
+      <itunes:title>Stanghelle møter Eli Hagen</itunes:title>
+      <itunes:summary>Hun er alltid ved sin manns side. Eli Hagen har blitt vant til å tåler kritikk og mediestorm. Hvordan er det å ha stått på sidelinjen i alle disse årene, med meninger om det meste. Carl I Hagen har blitt 75. Harald Stanghelle tok en prat med Eli </itunes:summary>
+      <itunes:duration>966</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ord som er gått i glemmeboka</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_f626e3e1-5aa2-4a38-a6e3-e15aa2fa383c</link>
+      <description>Harald Stanghelle snakker med medieviter og journalist Jens Bardal, samt språkviter og professor Sylfest Lomheim. Tema tar utgangspunkt i &#34;Glemmeboka&#34;, om ord som er gått ut av språket de siste ti-årene. Boka er ført i pennen av Jens Barland.</description>
+      <guid isPermaLink="false">l_f626e3e1-5aa2-4a38-a6e3-e15aa2fa383c</guid>
+      <pubDate>Fri, 10 May 2019 14:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-05-10_1240_3013.MP3" type="audio/mpeg" length="28397647"></enclosure>
+      <itunes:title>Ord som er gått i glemmeboka</itunes:title>
+      <itunes:summary>Harald Stanghelle snakker med medieviter og journalist Jens Bardal, samt språkviter og professor Sylfest Lomheim. Tema tar utgangspunkt i &#34;Glemmeboka&#34;, om ord som er gått ut av språket de siste ti-årene. Boka er ført i pennen av Jens Barland.</itunes:summary>
+      <itunes:duration>1179</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Harald Stanghelle møter Aud Korbøl og Shazia Majid</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_0d582701-ebff-480e-9827-01ebff380e57</link>
+      <description>Harald Stanghelle møter Aud Korbøl og Shazia Majid. Aud Korbøl forsket blant den aller første gruppen pakistanske menn som søkte arbeid i Norge i begynnelsen av 1970-årene. Femti år etter publiseres hennes forskning for et større publikum. Shazia Majid har nettopp lansert boka &#34;Ut av skyggene&#34; - en fortelling om moren og hennes generasjon kvinner. Hør samtalen om en pionergenerasjonen blant pakistanske innvandrere til Norge.</description>
+      <guid isPermaLink="false">l_0d582701-ebff-480e-9827-01ebff380e57</guid>
+      <pubDate>Fri, 03 May 2019 15:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-05-03_1308_2271.MP3" type="audio/mpeg" length="24252978"></enclosure>
+      <itunes:title>Harald Stanghelle møter Aud Korbøl og Shazia Majid</itunes:title>
+      <itunes:summary>Harald Stanghelle møter Aud Korbøl og Shazia Majid. Aud Korbøl forsket blant den aller første gruppen pakistanske menn som søkte arbeid i Norge i begynnelsen av 1970-årene. Femti år etter publiseres hennes forskning for et større publikum. Shazia Majid har nettopp lansert boka &#34;Ut av skyggene&#34; - en fortelling om moren og hennes generasjon kvinner. Hør samtalen om en pionergenerasjonen blant pakistanske innvandrere til Norge.</itunes:summary>
+      <itunes:duration>1006</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle møter Kjetil Siem</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_ea57be21-03bc-43b3-97be-2103bcc3b38f</link>
+      <description>Programleder Harald Stanghelle møter Kjetil Siem som har tjent fotballen gjennom mange år. Nå arbeider han i Zürich hos Det internasjonale fotballforbundet, FIFA, i en posisjon der idrettens samfunnsansvar står sentralt. I denne samtalen forteller Kjetil Siem også om datterens psykiske lidelser og om sin smerte og følelse av utilstrekkelighet som far i møte med sykdommen</description>
+      <guid isPermaLink="false">l_ea57be21-03bc-43b3-97be-2103bcc3b38f</guid>
+      <pubDate>Fri, 26 Apr 2019 15:38:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-04-26_1338_339.MP3" type="audio/mpeg" length="28999497"></enclosure>
+      <itunes:title>Stanghelle møter Kjetil Siem</itunes:title>
+      <itunes:summary>Programleder Harald Stanghelle møter Kjetil Siem som har tjent fotballen gjennom mange år. Nå arbeider han i Zürich hos Det internasjonale fotballforbundet, FIFA, i en posisjon der idrettens samfunnsansvar står sentralt. I denne samtalen forteller Kjetil Siem også om datterens psykiske lidelser og om sin smerte og følelse av utilstrekkelighet som far i møte med sykdommen</itunes:summary>
+      <itunes:duration>1204</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle møter Knut Arild Hareide</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_e2b76434-d415-42b3-b764-34d415e2b392</link>
+      <description>Programleder Harald Stanghelle i et ærlig og nært møte med tidligere KrF-leder Knut Arild Hareide. Hareide snakker om maktkamp, smerte, sorg og familie. Stanghelle fredag 12.april.</description>
+      <guid isPermaLink="false">l_e2b76434-d415-42b3-b764-34d415e2b392</guid>
+      <pubDate>Fri, 12 Apr 2019 14:47:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-04-12_1247_378.MP3" type="audio/mpeg" length="22379665"></enclosure>
+      <itunes:title>Stanghelle møter Knut Arild Hareide</itunes:title>
+      <itunes:summary>Programleder Harald Stanghelle i et ærlig og nært møte med tidligere KrF-leder Knut Arild Hareide. Hareide snakker om maktkamp, smerte, sorg og familie. Stanghelle fredag 12.april.</itunes:summary>
+      <itunes:duration>928</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle møter Gro Harlem Brundtland</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_5f529d3f-4809-41fd-929d-3f480971fd3b</link>
+      <description>Den 20.april fyller selveste landsmoder Gro Harlem Brundtland 80 år. Hun ser både tilbake i tid, og på nåtid og fremtid med et klokkeklart perspektiv på tingenes tilstand. Intervjuet av programleder Harald Stanghelle fredag 7.april.</description>
+      <guid isPermaLink="false">l_5f529d3f-4809-41fd-929d-3f480971fd3b</guid>
+      <pubDate>Mon, 08 Apr 2019 13:43:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-04-08_1143_1447.MP3" type="audio/mpeg" length="38864392"></enclosure>
+      <itunes:title>Stanghelle møter Gro Harlem Brundtland</itunes:title>
+      <itunes:summary>Den 20.april fyller selveste landsmoder Gro Harlem Brundtland 80 år. Hun ser både tilbake i tid, og på nåtid og fremtid med et klokkeklart perspektiv på tingenes tilstand. Intervjuet av programleder Harald Stanghelle fredag 7.april.</itunes:summary>
+      <itunes:duration>1615</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stanghelle møter Kåre Willoch</title>
+      <link>https://radio.nrk.no/podkast/stanghelle/l_ee309e6d-b5d7-4327-b09e-6db5d7e327ff</link>
+      <description>Programleder Harald Stanghelle møter Kåre Willoch, som i en alder av 90 år har sine meningers mot og et særdeles klarsynt blikk på verden. 29.mars 2019.</description>
+      <guid isPermaLink="false">l_ee309e6d-b5d7-4327-b09e-6db5d7e327ff</guid>
+      <pubDate>Mon, 08 Apr 2019 13:37:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/stanghelle/stanghelle_2019-04-08_1137_1214.MP3" type="audio/mpeg" length="27785112"></enclosure>
+      <itunes:title>Stanghelle møter Kåre Willoch</itunes:title>
+      <itunes:summary>Programleder Harald Stanghelle møter Kåre Willoch, som i en alder av 90 år har sine meningers mot og et særdeles klarsynt blikk på verden. 29.mars 2019.</itunes:summary>
+      <itunes:duration>1153</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJlA3gwQyT2CIL1l1GIvogA-T6Sk2uLCYCGYsQFJ7Buw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hei, nabo</title>
+    <link>https://radio.nrk.no/podkast/hei_nabo</link>
+    <description>Er du, har du eller ønsker du deg en god nabo? Nabovenninnene Lotta og Isabel vil finne ut mer om folk som bor ved siden av hverandre.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 21 Jun 2024 04:04:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/hei_nabo.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Er du, har du eller ønsker du deg en god nabo? Nabovenninnene Lotta og Isabel vil finne ut mer om folk som bor ved siden av hverandre.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/PG6BkBqHwlrTWTDQ6biEWgjvbcO1PBDvS_41DUXXZOLQ"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/PG6BkBqHwlrTWTDQ6biEWgjvbcO1PBDvS_41DUXXZOLQ</url>
+      <title>Hei, nabo</title>
+      <link>https://radio.nrk.no/podkast/hei_nabo</link>
+    </image>
+    <item>
+      <title>Gode forbilder (episode 4)</title>
+      <link>https://radio.nrk.no/podkast/hei_nabo/l_31c343df-d9e4-491a-8343-dfd9e4291adb</link>
+      <description>Lotta og Isabel lurer på om Youtube-stjernene Sara og Victoria lukter like søtt som de ser ut. Og hvordan fikk de egentlig en halv million følgere?</description>
+      <guid isPermaLink="false">l_31c343df-d9e4-491a-8343-dfd9e4291adb</guid>
+      <pubDate>Fri, 21 Jun 2024 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hei_nabo/843ef023-64d0-4049-8e7a-d94a72e267be_0_ID192MP3.mp3" type="audio/mpeg" length="36117549"></enclosure>
+      <itunes:title>Gode forbilder (episode 4)</itunes:title>
+      <itunes:summary>Lotta og Isabel lurer på om Youtube-stjernene Sara og Victoria lukter like søtt som de ser ut. Og hvordan fikk de egentlig en halv million følgere?</itunes:summary>
+      <itunes:duration>1504</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/q_i6vvjI69yfmn91SMBhDwDBUkB9ih7oiq7CSwDIelzA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Innbrudd hos naboen (episode 3)</title>
+      <link>https://radio.nrk.no/podkast/hei_nabo/l_dcfd732e-aedb-4ea7-bd73-2eaedbdea780</link>
+      <description>Lotta og Isabel besøker Tiktok-søstrene Selene og Angelika. Hva var egentlig greia med den rosa spaden? Og vil du høre en helt ny julesang? Følg med!</description>
+      <guid isPermaLink="false">l_dcfd732e-aedb-4ea7-bd73-2eaedbdea780</guid>
+      <pubDate>Fri, 21 Jun 2024 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hei_nabo/1156cc0d-3c8f-4912-8977-3d7419b55a6d_0_ID192MP3.mp3" type="audio/mpeg" length="35569773"></enclosure>
+      <itunes:title>Innbrudd hos naboen (episode 3)</itunes:title>
+      <itunes:summary>Lotta og Isabel besøker Tiktok-søstrene Selene og Angelika. Hva var egentlig greia med den rosa spaden? Og vil du høre en helt ny julesang? Følg med!</itunes:summary>
+      <itunes:duration>1482</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GhaiGRB_xuV7SJywV4XAkQgqg75oha081cT4vkutZJnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kyss en prinsesse (episode 2)</title>
+      <link>https://radio.nrk.no/podkast/hei_nabo/l_e62fcd63-99e2-46b6-afcd-6399e2d6b691</link>
+      <description>Cengiz Al er på ekte nabo med Lotta og Isabel. Nå er de på besøk for å finne ut hvor «Skal vi danse»-pokalen står og hvorfor han ikke kyssa Astrid S.</description>
+      <guid isPermaLink="false">l_e62fcd63-99e2-46b6-afcd-6399e2d6b691</guid>
+      <pubDate>Fri, 21 Jun 2024 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hei_nabo/fa1fdcff-296c-4e9f-89bc-791726f001a3_0_ID192MP3.mp3" type="audio/mpeg" length="34474221"></enclosure>
+      <itunes:title>Kyss en prinsesse (episode 2)</itunes:title>
+      <itunes:summary>Cengiz Al er på ekte nabo med Lotta og Isabel. Nå er de på besøk for å finne ut hvor «Skal vi danse»-pokalen står og hvorfor han ikke kyssa Astrid S.</itunes:summary>
+      <itunes:duration>1436</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Tp-iaihXEuMR-YghAMOBAg6R9h9l7K9VjvMS_8duoexQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Drama på Rådhusplassen (episode 1)</title>
+      <link>https://radio.nrk.no/podkast/hei_nabo/l_1d98a03e-f22e-46ac-98a0-3ef22ea6ac08</link>
+      <description>Hvem er drømmenaboen til Selma Ibrahim? Og hvorfor trakk hun seg nesten fra BlimE-opptredenen på Rådhusplassen?</description>
+      <guid isPermaLink="false">l_1d98a03e-f22e-46ac-98a0-3ef22ea6ac08</guid>
+      <pubDate>Fri, 21 Jun 2024 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hei_nabo/39386ca3-0037-4e57-9e35-528182d1b34d_0_ID192MP3.mp3" type="audio/mpeg" length="26838765"></enclosure>
+      <itunes:title>Drama på Rådhusplassen (episode 1)</itunes:title>
+      <itunes:summary>Hvem er drømmenaboen til Selma Ibrahim? Og hvorfor trakk hun seg nesten fra BlimE-opptredenen på Rådhusplassen?</itunes:summary>
+      <itunes:duration>1118</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3FVe69fNW6eUng218XpCHw6-feCYsOTUHKnkLq53FAtQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lystad og Mathisens radioshow</title>
+    <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow</link>
+    <description>Her får du møte humorveteranene Knut Lystad og Tom Mathisen i godt gammelt slag. Tre nye påskespesial med blant annet påskens morsomste krim: Hvem skjøt Rygh?</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Sat, 13 Apr 2019 07:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lystad_og_mathisens_radioshow.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Her får du møte humorveteranene Knut Lystad og Tom Mathisen i godt gammelt slag. Tre nye påskespesial med blant annet påskens morsomste krim: Hvem skjøt Rygh?</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg</url>
+      <title>Lystad og Mathisens radioshow</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow</link>
+    </image>
+    <item>
+      <title>Påskespesial 1</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_301991b8-8c50-47bd-9991-b88c50e7bd48</link>
+      <description>Knut og Tom snakker om hva påsken er, og hvordan. Dessuten får du høre første episode av Hvem skjøt Rygh, årets morsomste påskekrim! </description>
+      <guid isPermaLink="false">l_301991b8-8c50-47bd-9991-b88c50e7bd48</guid>
+      <pubDate>Sat, 13 Apr 2019 09:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_1683.MP3" type="audio/mpeg" length="40989095"></enclosure>
+      <itunes:title>Påskespesial 1</itunes:title>
+      <itunes:summary>Knut og Tom snakker om hva påsken er, og hvordan. Dessuten får du høre første episode av Hvem skjøt Rygh, årets morsomste påskekrim! </itunes:summary>
+      <itunes:duration>1704</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvem skjøt Rygh? Episode 3</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_3f2fb82e-4d22-4a49-afb8-2e4d22aa4928</link>
+      <description>Knut Lystad og Tom Mathisens påskekrim. Få med deg løsningen på mysteriet.</description>
+      <guid isPermaLink="false">l_3f2fb82e-4d22-4a49-afb8-2e4d22aa4928</guid>
+      <pubDate>Sat, 13 Apr 2019 09:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_1034.MP3" type="audio/mpeg" length="9197658"></enclosure>
+      <itunes:title>Hvem skjøt Rygh? Episode 3</itunes:title>
+      <itunes:summary>Knut Lystad og Tom Mathisens påskekrim. Få med deg løsningen på mysteriet.</itunes:summary>
+      <itunes:duration>379</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Påskespesial 2</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_5586e6ff-e896-4cd2-86e6-ffe8967cd290</link>
+      <description>Knut og Tom tolker påskens budskap, og du får høre andre episode av Hvem skjøt Rygh, årets morsomste påskekrim!</description>
+      <guid isPermaLink="false">l_5586e6ff-e896-4cd2-86e6-ffe8967cd290</guid>
+      <pubDate>Sat, 13 Apr 2019 09:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_2081.MP3" type="audio/mpeg" length="40268124"></enclosure>
+      <itunes:title>Påskespesial 2</itunes:title>
+      <itunes:summary>Knut og Tom tolker påskens budskap, og du får høre andre episode av Hvem skjøt Rygh, årets morsomste påskekrim!</itunes:summary>
+      <itunes:duration>1674</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Påskespesial 3</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_730a47eb-3321-44f3-8a47-eb332114f361</link>
+      <description>Knut og Tom hjelper deg ut på den andre siden av påsken i siste episoden av denne påskespesialen. Og ikke minst: Få med deg finalen i Hvem skjøt Rygh, årets morsomste påskekrim! </description>
+      <guid isPermaLink="false">l_730a47eb-3321-44f3-8a47-eb332114f361</guid>
+      <pubDate>Sat, 13 Apr 2019 09:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_2514.MP3" type="audio/mpeg" length="32284701"></enclosure>
+      <itunes:title>Påskespesial 3</itunes:title>
+      <itunes:summary>Knut og Tom hjelper deg ut på den andre siden av påsken i siste episoden av denne påskespesialen. Og ikke minst: Få med deg finalen i Hvem skjøt Rygh, årets morsomste påskekrim! </itunes:summary>
+      <itunes:duration>1341</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvem skjøt Rygh? Episode 2</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_8df0530c-8f81-485a-b053-0c8f81185ac7</link>
+      <description>Knut Lystad og Tom Mathisens påskekrim. Få med deg fortsettelsen på det spennende dramaet på påskehytta. Hovedpersonene Math-Erik Tomsen og Ove Knutstad er på en hytte i påskefjellet. De skal ha fred og ro, men er livredde for at en massmorder er på vei...</description>
+      <guid isPermaLink="false">l_8df0530c-8f81-485a-b053-0c8f81185ac7</guid>
+      <pubDate>Sat, 13 Apr 2019 09:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_2323.MP3" type="audio/mpeg" length="10034647"></enclosure>
+      <itunes:title>Hvem skjøt Rygh? Episode 2</itunes:title>
+      <itunes:summary>Knut Lystad og Tom Mathisens påskekrim. Få med deg fortsettelsen på det spennende dramaet på påskehytta. Hovedpersonene Math-Erik Tomsen og Ove Knutstad er på en hytte i påskefjellet. De skal ha fred og ro, men er livredde for at en massmorder er på vei...</itunes:summary>
+      <itunes:duration>414</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvem skjøt Rygh? Episode 1</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_cf390058-b77d-467c-b900-58b77d067cf2</link>
+      <description>Knut Lystad og Tom Mathisen i fri dresur. I denne serien blir vi med hovedpersonene Math-Erik Tomsen og Ove Knutstad på en hytte i påskefjellet. De er der for å få fred og ro, men det skal vise seg at det dukker opp mange etterhvert...</description>
+      <guid isPermaLink="false">l_cf390058-b77d-467c-b900-58b77d067cf2</guid>
+      <pubDate>Sat, 13 Apr 2019 09:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-04-13_0700_2815.MP3" type="audio/mpeg" length="6362656"></enclosure>
+      <itunes:title>Hvem skjøt Rygh? Episode 1</itunes:title>
+      <itunes:summary>Knut Lystad og Tom Mathisen i fri dresur. I denne serien blir vi med hovedpersonene Math-Erik Tomsen og Ove Knutstad på en hytte i påskefjellet. De er der for å få fred og ro, men det skal vise seg at det dukker opp mange etterhvert...</itunes:summary>
+      <itunes:duration>261</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Julespesial 5: Første nyttårsdag</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_37630a77-b51e-46f1-a30a-77b51ed6f100</link>
+      <description>Tom og Knut snakker blant annet om året som kommer, nyttårsrennet og hårfarging!</description>
+      <guid isPermaLink="false">l_37630a77-b51e-46f1-a30a-77b51ed6f100</guid>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2019-01-01_0500_2230.MP3" type="audio/mpeg" length="38118396"></enclosure>
+      <itunes:title>Julespesial 5: Første nyttårsdag</itunes:title>
+      <itunes:summary>Tom og Knut snakker blant annet om året som kommer, nyttårsrennet og hårfarging!</itunes:summary>
+      <itunes:duration>1584</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Julespesial 4: Nyttårsaften</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_d4aa3110-1a16-4f2d-aa31-101a16cf2deb</link>
+      <description>Noen litt merkelige nyttårsforsetter, og vi får møte Erna, Schei Grande, Hareide og Gahr Støre!</description>
+      <guid isPermaLink="false">l_d4aa3110-1a16-4f2d-aa31-101a16cf2deb</guid>
+      <pubDate>Mon, 31 Dec 2018 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-12-31_0500_1097.MP3" type="audio/mpeg" length="35719677"></enclosure>
+      <itunes:title>Julespesial 4: Nyttårsaften</itunes:title>
+      <itunes:summary>Noen litt merkelige nyttårsforsetter, og vi får møte Erna, Schei Grande, Hareide og Gahr Støre!</itunes:summary>
+      <itunes:duration>1484</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Julespesial 3: Fjerde juledag</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_7ae78cbf-2f67-4cc4-a78c-bf2f67ccc457</link>
+      <description>Om ensomhet i julen, vinteraktiviteter før og nå og at visse allerede har begynt å feire påske.</description>
+      <guid isPermaLink="false">l_7ae78cbf-2f67-4cc4-a78c-bf2f67ccc457</guid>
+      <pubDate>Fri, 28 Dec 2018 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-12-28_0500_2395.MP3" type="audio/mpeg" length="36096489"></enclosure>
+      <itunes:title>Julespesial 3: Fjerde juledag</itunes:title>
+      <itunes:summary>Om ensomhet i julen, vinteraktiviteter før og nå og at visse allerede har begynt å feire påske.</itunes:summary>
+      <itunes:duration>1500</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Julespesial 2: Tredje juledag</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_c93b41a9-fbbc-41a4-bb41-a9fbbc01a49a</link>
+      <description>Hva kan man gjøre tredje juledag? Jo, se julefilmer og urframføre en sketsj fritt etter en ide fra Per Asplin. </description>
+      <guid isPermaLink="false">l_c93b41a9-fbbc-41a4-bb41-a9fbbc01a49a</guid>
+      <pubDate>Thu, 27 Dec 2018 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-12-27_0500_2980.MP3" type="audio/mpeg" length="42478713"></enclosure>
+      <itunes:title>Julespesial 2: Tredje juledag</itunes:title>
+      <itunes:summary>Hva kan man gjøre tredje juledag? Jo, se julefilmer og urframføre en sketsj fritt etter en ide fra Per Asplin. </itunes:summary>
+      <itunes:duration>1766</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Julespesial 1: Andre juledag</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_174aabdf-389f-44f2-8aab-df389f44f200</link>
+      <description>Knut Lystad og Tom Mathisen diskuterer andre juledag og åpner luken i romjulekalenderen. </description>
+      <guid isPermaLink="false">l_174aabdf-389f-44f2-8aab-df389f44f200</guid>
+      <pubDate>Wed, 26 Dec 2018 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-12-26_0500_2835.MP3" type="audio/mpeg" length="36159149"></enclosure>
+      <itunes:title>Julespesial 1: Andre juledag</itunes:title>
+      <itunes:summary>Knut Lystad og Tom Mathisen diskuterer andre juledag og åpner luken i romjulekalenderen. </itunes:summary>
+      <itunes:duration>1502</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Episode 1: Demens, fasttelefon og Erna + Schei Grande</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_06cfadb7-c54c-4f4c-8fad-b7c54caf4c72</link>
+      <description>Knut og Tom finner fordeler med demens, Tom innrømmer at han til tider føler seg feminin og Erna og Schei Grande stikker innom.</description>
+      <guid isPermaLink="false">l_06cfadb7-c54c-4f4c-8fad-b7c54caf4c72</guid>
+      <pubDate>Fri, 29 Jun 2018 08:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-29_0630_2125.MP3" type="audio/mpeg" length="39157236"></enclosure>
+      <itunes:title>Episode 1: Demens, fasttelefon og Erna + Schei Grande</itunes:title>
+      <itunes:summary>Knut og Tom finner fordeler med demens, Tom innrømmer at han til tider føler seg feminin og Erna og Schei Grande stikker innom.</itunes:summary>
+      <itunes:duration>1627</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Episode 7: Modell-liv, gaming og swingers</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_2a9cad93-ee15-4692-9cad-93ee15869246</link>
+      <description>Hør om Tom sin lysende modellkarriere, guttas forhold til dataspill, swingers, el-biler og masse annet, tatt opp i fullt alvor. </description>
+      <guid isPermaLink="false">l_2a9cad93-ee15-4692-9cad-93ee15869246</guid>
+      <pubDate>Fri, 29 Jun 2018 08:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_549.MP3" type="audio/mpeg" length="45075515"></enclosure>
+      <itunes:title>Episode 7: Modell-liv, gaming og swingers</itunes:title>
+      <itunes:summary>Hør om Tom sin lysende modellkarriere, guttas forhold til dataspill, swingers, el-biler og masse annet, tatt opp i fullt alvor. </itunes:summary>
+      <itunes:duration>1874</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Episode 9: Iphone, presidenter og språkkurs for eldre</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_35cc6314-905c-4745-8c63-14905c5745be</link>
+      <description>Tom har fått ny telefon for første gang på 20 år. Hør også om Knut sitt møte med en amerikansk president, og: få med deg språkkurs for eldre i syden!</description>
+      <guid isPermaLink="false">l_35cc6314-905c-4745-8c63-14905c5745be</guid>
+      <pubDate>Fri, 29 Jun 2018 08:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_1333.MP3" type="audio/mpeg" length="48204590"></enclosure>
+      <itunes:title>Episode 9: Iphone, presidenter og språkkurs for eldre</itunes:title>
+      <itunes:summary>Tom har fått ny telefon for første gang på 20 år. Hør også om Knut sitt møte med en amerikansk president, og: få med deg språkkurs for eldre i syden!</itunes:summary>
+      <itunes:duration>2004</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Episode 6: Sex for eldre og kan man si nei til barnebarn-pass?  </title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_3714ab82-5f79-40bb-94ab-825f7940bb22</link>
+      <description>Knut og Tom snakker om nye stillinger for eldre, når man kan si nei til egne barns spørsmål om barnebarn-pass og om ensomheten som kan inntreffe.</description>
+      <guid isPermaLink="false">l_3714ab82-5f79-40bb-94ab-825f7940bb22</guid>
+      <pubDate>Fri, 29 Jun 2018 08:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_2454.MP3" type="audio/mpeg" length="46281788"></enclosure>
+      <itunes:title>Episode 6: Sex for eldre og kan man si nei til barnebarn-pass?  </itunes:title>
+      <itunes:summary>Knut og Tom snakker om nye stillinger for eldre, når man kan si nei til egne barns spørsmål om barnebarn-pass og om ensomheten som kan inntreffe.</itunes:summary>
+      <itunes:duration>1924</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Episode 2: Inkontinens, nesehår og Tom sin mobiletelefon </title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_4bb4f301-7b23-4351-b4f3-017b23a351ae</link>
+      <description>Knut og Tom raljerer videre om det å bli eldre. Hva kan man bruke nesehår til? Hvordan er det egentlig å bli pensjonist? Og hva ville du gjort om du vant i Lotto?</description>
+      <guid isPermaLink="false">l_4bb4f301-7b23-4351-b4f3-017b23a351ae</guid>
+      <pubDate>Fri, 29 Jun 2018 08:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-29_0700_1922.MP3" type="audio/mpeg" length="43400993"></enclosure>
+      <itunes:title>Episode 2: Inkontinens, nesehår og Tom sin mobiletelefon </itunes:title>
+      <itunes:summary>Knut og Tom raljerer videre om det å bli eldre. Hva kan man bruke nesehår til? Hvordan er det egentlig å bli pensjonist? Og hva ville du gjort om du vant i Lotto?</itunes:summary>
+      <itunes:duration>1804</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Episode 8: Trening, legevaktkollaps og nye banneord</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_544d72e7-e3eb-4858-8d72-e7e3eb185869</link>
+      <description>I denne episoden snakker Knut og Tom om trening, triks for å snike i køen på legevakta og nye banneord. </description>
+      <guid isPermaLink="false">l_544d72e7-e3eb-4858-8d72-e7e3eb185869</guid>
+      <pubDate>Fri, 29 Jun 2018 08:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_2501.MP3" type="audio/mpeg" length="49160668"></enclosure>
+      <itunes:title>Episode 8: Trening, legevaktkollaps og nye banneord</itunes:title>
+      <itunes:summary>I denne episoden snakker Knut og Tom om trening, triks for å snike i køen på legevakta og nye banneord. </itunes:summary>
+      <itunes:duration>2044</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Episode 4: Arv, rynker og Snurre Sprett</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_6b29916a-9d39-45ff-a991-6a9d3975ff3b</link>
+      <description>Her får du blant annet høre om rynker, arv og Knut sin helt spesielle link til Snurre Sprett. </description>
+      <guid isPermaLink="false">l_6b29916a-9d39-45ff-a991-6a9d3975ff3b</guid>
+      <pubDate>Fri, 29 Jun 2018 08:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_3494.MP3" type="audio/mpeg" length="46516843"></enclosure>
+      <itunes:title>Episode 4: Arv, rynker og Snurre Sprett</itunes:title>
+      <itunes:summary>Her får du blant annet høre om rynker, arv og Knut sin helt spesielle link til Snurre Sprett. </itunes:summary>
+      <itunes:duration>1934</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Episode 5: Netthandel, vennskap og Ni Liv</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_bd9ff794-8c7b-4ef1-9ff7-948c7b3ef164</link>
+      <description>Knut og Tom snakker om netthandel, vennskapet og om hva de synes om den nye Ni Liv-filmen (Den tolvte mann). </description>
+      <guid isPermaLink="false">l_bd9ff794-8c7b-4ef1-9ff7-948c7b3ef164</guid>
+      <pubDate>Fri, 29 Jun 2018 08:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_2611.MP3" type="audio/mpeg" length="43108808"></enclosure>
+      <itunes:title>Episode 5: Netthandel, vennskap og Ni Liv</itunes:title>
+      <itunes:summary>Knut og Tom snakker om netthandel, vennskapet og om hva de synes om den nye Ni Liv-filmen (Den tolvte mann). </itunes:summary>
+      <itunes:duration>1792</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Episode 3: Gudetro, nett-dating og Se&amp;Hør</title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_c95f62b1-9ec6-437b-9f62-b19ec6037b82</link>
+      <description>Knut og Tom tar for seg store spørsmål som gudetro og nett-dating. Hør også om hvordan gutta har lurt ukebladene opp gjennom åra. </description>
+      <guid isPermaLink="false">l_c95f62b1-9ec6-437b-9f62-b19ec6037b82</guid>
+      <pubDate>Fri, 29 Jun 2018 08:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_1969.MP3" type="audio/mpeg" length="45973291"></enclosure>
+      <itunes:title>Episode 3: Gudetro, nett-dating og Se&amp;Hør</itunes:title>
+      <itunes:summary>Knut og Tom tar for seg store spørsmål som gudetro og nett-dating. Hør også om hvordan gutta har lurt ukebladene opp gjennom åra. </itunes:summary>
+      <itunes:duration>1911</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Episode 10: Livsvisdom, tatoveringer og drosjer  </title>
+      <link>https://radio.nrk.no/podkast/lystad_og_mathisens_radioshow/l_cfaa7c9a-c161-4007-aa7c-9ac161000705</link>
+      <description>I denne episoden får du høre livsvise råd. Knut Lystad og Tom Mathisen snakker også om tatoveringer, om drosjer før og nå og mye annet, som alltid tatt opp i fullt alvor!</description>
+      <guid isPermaLink="false">l_cfaa7c9a-c161-4007-aa7c-9ac161000705</guid>
+      <pubDate>Fri, 29 Jun 2018 08:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lystad_og_mathisens_radioshow/lystad_og_mathisens_radioshow_2018-06-28_1000_3042.MP3" type="audio/mpeg" length="52238932"></enclosure>
+      <itunes:title>Episode 10: Livsvisdom, tatoveringer og drosjer  </itunes:title>
+      <itunes:summary>I denne episoden får du høre livsvise råd. Knut Lystad og Tom Mathisen snakker også om tatoveringer, om drosjer før og nå og mye annet, som alltid tatt opp i fullt alvor!</itunes:summary>
+      <itunes:duration>2172</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/da0JEvV4anTd6PAR7SdDQQbN1K5YFwlvMCo2ywaT5LJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

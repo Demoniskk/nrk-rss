@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fantus og lydene</title>
+    <link>https://radio.nrk.no/podkast/fantus_og_lydene</link>
+    <description>Bæ, voff, plask, promp og tut! Hvilke lyder finnes egentlig på badet, i barnehagen, fjøset, skogen eller på bussholdeplassen? Bli med Fantus og lek med alle lydene.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 13 Jun 2025 04:04:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/fantus_og_lydene.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Bæ, voff, plask, promp og tut! Hvilke lyder finnes egentlig på badet, i barnehagen, fjøset, skogen eller på bussholdeplassen? Bli med Fantus og lek med alle lydene.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA</url>
+      <title>Fantus og lydene</title>
+      <link>https://radio.nrk.no/podkast/fantus_og_lydene</link>
+    </image>
+    <item>
+      <title>Korpset</title>
+      <link>https://radio.nrk.no/podkast/fantus_og_lydene/l_a8708c24-ab5c-4602-b08c-24ab5c760295</link>
+      <description>Fantus hermer etter lydene fra korpset: både trompeten, tubaen og trommen. Bli med du også!</description>
+      <guid isPermaLink="false">l_a8708c24-ab5c-4602-b08c-24ab5c760295</guid>
+      <pubDate>Fri, 13 Jun 2025 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/4ec2bea2-e70d-4c09-877e-3f9e688370a0_0_ID192MP3.mp3" type="audio/mpeg" length="14266989"></enclosure>
+      <itunes:title>Korpset</itunes:title>
+      <itunes:summary>Fantus hermer etter lydene fra korpset: både trompeten, tubaen og trommen. Bli med du også!</itunes:summary>
+      <itunes:duration>594</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bondegården</title>
+      <link>https://radio.nrk.no/podkast/fantus_og_lydene/l_204e83aa-0694-4131-8e83-aa0694213127</link>
+      <description>Noen på bondegården sier mjau, noen grynter og andre kakler. Men hvem er det Fantus møter som roper kykeliky?</description>
+      <guid isPermaLink="false">l_204e83aa-0694-4131-8e83-aa0694213127</guid>
+      <pubDate>Fri, 13 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/604afadd-8854-4e01-b272-34624f5aeab8_0_ID192MP3.mp3" type="audio/mpeg" length="12380013"></enclosure>
+      <itunes:title>Bondegården</itunes:title>
+      <itunes:summary>Noen på bondegården sier mjau, noen grynter og andre kakler. Men hvem er det Fantus møter som roper kykeliky?</itunes:summary>
+      <itunes:duration>515</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jungelen</title>
+      <link>https://radio.nrk.no/podkast/fantus_og_lydene/l_02c27d37-e6e0-4ee8-827d-37e6e05ee820</link>
+      <description>Kan du brøle like høyt som en løve? Eller trampe like hardt som en elefant?  Fantus drar til jungelen, bli med du også!</description>
+      <guid isPermaLink="false">l_02c27d37-e6e0-4ee8-827d-37e6e05ee820</guid>
+      <pubDate>Fri, 11 Apr 2025 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/39126837-20dd-4b5f-9e54-fbdf096dfc30_0_ID192MP3.mp3" type="audio/mpeg" length="14925357"></enclosure>
+      <itunes:title>Jungelen</itunes:title>
+      <itunes:summary>Kan du brøle like høyt som en løve? Eller trampe like hardt som en elefant?  Fantus drar til jungelen, bli med du også!</itunes:summary>
+      <itunes:duration>621</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fjøset</title>
+      <link>https://radio.nrk.no/podkast/fantus_og_lydene/l_48a20c52-7b72-4dd5-a20c-527b722dd538</link>
+      <description>Hører du forskjell på en sau og et lam? Og hva sier ei stor ku? Fantus besøker fjøset.</description>
+      <guid isPermaLink="false">l_48a20c52-7b72-4dd5-a20c-527b722dd538</guid>
+      <pubDate>Fri, 13 Dec 2024 06:06:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/b7c35111-930c-4c8c-8021-16182fa27384_0_ID192MP3.mp3" type="audio/mpeg" length="14852781"></enclosure>
+      <itunes:title>Fjøset</itunes:title>
+      <itunes:summary>Hører du forskjell på en sau og et lam? Og hva sier ei stor ku? Fantus besøker fjøset.</itunes:summary>
+      <itunes:duration>618</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Barnehagen</title>
+      <link>https://radio.nrk.no/podkast/fantus_og_lydene/l_8f9d369d-7be9-415b-9d36-9d7be9815b12</link>
+      <description>Fantus besøker en barnehage og hører både latter og klapping. Men hvem er det som gråter?</description>
+      <guid isPermaLink="false">l_8f9d369d-7be9-415b-9d36-9d7be9815b12</guid>
+      <pubDate>Fri, 13 Dec 2024 06:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/d347a693-f49c-4358-8534-4b48e0be0f33_0_ID192MP3.mp3" type="audio/mpeg" length="14192109"></enclosure>
+      <itunes:title>Barnehagen</itunes:title>
+      <itunes:summary>Fantus besøker en barnehage og hører både latter og klapping. Men hvem er det som gråter?</itunes:summary>
+      <itunes:duration>591</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Skogen</title>
+      <link>https://radio.nrk.no/podkast/fantus_og_lydene/l_eca84f9a-e32b-4974-a84f-9ae32b39747d</link>
+      <description>Fantus hører mange lyder i skogen: det kvekkes og kvitres og bruses og knekkes. Men hvem er det som brummer?</description>
+      <guid isPermaLink="false">l_eca84f9a-e32b-4974-a84f-9ae32b39747d</guid>
+      <pubDate>Fri, 13 Dec 2024 06:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/87307422-a736-46ba-8921-e611e0c40582_0_ID192MP3.mp3" type="audio/mpeg" length="14809581"></enclosure>
+      <itunes:title>Skogen</itunes:title>
+      <itunes:summary>Fantus hører mange lyder i skogen: det kvekkes og kvitres og bruses og knekkes. Men hvem er det som brummer?</itunes:summary>
+      <itunes:duration>616</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bussholdeplassen</title>
+      <link>https://radio.nrk.no/podkast/fantus_og_lydene/l_ba6f82ea-5d80-4bc4-af82-ea5d808bc441</link>
+      <description>På bussholdeplassen hører Fantus mange lyder! Hunder bjeffer, biler tuter og folk prater og synger, men hva er det som uler så fælt?</description>
+      <guid isPermaLink="false">l_ba6f82ea-5d80-4bc4-af82-ea5d808bc441</guid>
+      <pubDate>Fri, 13 Dec 2024 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/81e5fb74-9038-4e0b-910a-b5de6b644c23_0_ID192MP3.mp3" type="audio/mpeg" length="14855661"></enclosure>
+      <itunes:title>Bussholdeplassen</itunes:title>
+      <itunes:summary>På bussholdeplassen hører Fantus mange lyder! Hunder bjeffer, biler tuter og folk prater og synger, men hva er det som uler så fælt?</itunes:summary>
+      <itunes:duration>618</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Badet</title>
+      <link>https://radio.nrk.no/podkast/fantus_og_lydene/l_bb79dc67-95a8-48cd-b9dc-6795a868cd70</link>
+      <description>Fantus lager plaskelyder i badekaret, leker med badeanda – og promper litt.</description>
+      <guid isPermaLink="false">l_bb79dc67-95a8-48cd-b9dc-6795a868cd70</guid>
+      <pubDate>Fri, 13 Dec 2024 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantus_og_lydene/e8355c3b-dd2f-427d-b0fa-bef559277a41_0_ID192MP3.mp3" type="audio/mpeg" length="14041197"></enclosure>
+      <itunes:title>Badet</itunes:title>
+      <itunes:summary>Fantus lager plaskelyder i badekaret, leker med badeanda – og promper litt.</itunes:summary>
+      <itunes:duration>584</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KXqRT8FQZ71ae9E5G_v1Lw_7hkheFUOPAYM1kibq9zXA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

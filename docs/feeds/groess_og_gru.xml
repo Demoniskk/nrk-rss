@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grøss og gru</title>
+    <link>https://radio.nrk.no/podkast/groess_og_gru</link>
+    <description>Har du noengang opplevd at et iskaldt drag går gjennom rommet, selv om alle vinduer og dører er lukket? Og plutselig fått en gnagende, ekkel følelse av at du ikke er alene? At noen – eller noe – er der? Podkastserien Grøss og gru er for deg som vil bli en ekspert på de magiske vesenene folk  fra Norden har trodd på i århundrer.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 19 Aug 2020 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/groess_og_gru.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Har du noengang opplevd at et iskaldt drag går gjennom rommet, selv om alle vinduer og dører er lukket? Og plutselig fått en gnagende, ekkel følelse av at du ikke er alene? At noen – eller noe – er der? Podkastserien Grøss og gru er for deg som vil bli en ekspert på de magiske vesenene folk  fra Norden har trodd på i århundrer.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/FeRssSr6SODQRKXKuS9FKAAu2ABEJZHAy7cVE0XQ6vSg"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/FeRssSr6SODQRKXKuS9FKAAu2ABEJZHAy7cVE0XQ6vSg</url>
+      <title>Grøss og gru</title>
+      <link>https://radio.nrk.no/podkast/groess_og_gru</link>
+    </image>
+    <item>
+      <title>Linnormen</title>
+      <link>https://radio.nrk.no/podkast/groess_og_gru/l_8f4550f9-4f4f-4400-8550-f94f4fd4001c</link>
+      <description>Har du noen gang møtt på en hoggorm i skogen? Vel, hoggormen er som en meitemark i forhold til dagens vesen. Linnormen, eller slangenes konge som den også ble kalt,  er en slags giga-anakonda som lever på kirkegårder og livnærer seg på lik. Den har gigantiske hoggtenner og er utstyrt med etsende edder, som den spruter på offeret sitt med sjelden treffsikkerhet.</description>
+      <guid isPermaLink="false">l_8f4550f9-4f4f-4400-8550-f94f4fd4001c</guid>
+      <pubDate>Wed, 19 Aug 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/groess_og_gru/50649c1b-60b5-4ad5-9ac6-ef69a74bd72b_0_ID192MP3.mp3" type="audio/mpeg" length="26063237"></enclosure>
+      <itunes:title>Linnormen</itunes:title>
+      <itunes:summary>Har du noen gang møtt på en hoggorm i skogen? Vel, hoggormen er som en meitemark i forhold til dagens vesen. Linnormen, eller slangenes konge som den også ble kalt,  er en slags giga-anakonda som lever på kirkegårder og livnærer seg på lik. Den har gigantiske hoggtenner og er utstyrt med etsende edder, som den spruter på offeret sitt med sjelden treffsikkerhet.</itunes:summary>
+      <itunes:duration>1085</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FeRssSr6SODQRKXKuS9FKAAu2ABEJZHAy7cVE0XQ6vSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2020">202008</podcast:season>
+    </item>
+    <item>
+      <title>Djevelen</title>
+      <link>https://radio.nrk.no/podkast/groess_og_gru/l_c922f997-1ede-4665-a2f9-971ede9665e1</link>
+      <description>Djevelens briljante evne til å friste og lure mennesker gjør han til den farligste av alle vesen. I gamle dager trodde man at han ofte gikk kledd som en rik mann med fine klær og gode manerer. I dag blir han fremdeles framstilt som en superkjekk og suksessrik fyr, med hovedfag i manipulasjon og en unormalt sterk tiltrekningskraft.</description>
+      <guid isPermaLink="false">l_c922f997-1ede-4665-a2f9-971ede9665e1</guid>
+      <pubDate>Wed, 12 Aug 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/groess_og_gru/e09f151c-49cd-44b3-9580-e541b11500d3_0_ID192MP3.mp3" type="audio/mpeg" length="33283971"></enclosure>
+      <itunes:title>Djevelen</itunes:title>
+      <itunes:summary>Djevelens briljante evne til å friste og lure mennesker gjør han til den farligste av alle vesen. I gamle dager trodde man at han ofte gikk kledd som en rik mann med fine klær og gode manerer. I dag blir han fremdeles framstilt som en superkjekk og suksessrik fyr, med hovedfag i manipulasjon og en unormalt sterk tiltrekningskraft.</itunes:summary>
+      <itunes:duration>1386</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FeRssSr6SODQRKXKuS9FKAAu2ABEJZHAy7cVE0XQ6vSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2020">202008</podcast:season>
+    </item>
+    <item>
+      <title>Kirkegrimen</title>
+      <link>https://radio.nrk.no/podkast/groess_og_gru/l_65c9dcc1-5e94-414a-89dc-c15e94914a4c</link>
+      <description>Har du noen gang gått gjennom en kirkegård seint på kvelden og følt at noen eller noe observerer deg? Det er fordi noen gjør det! Kirkegrimen ble enten levende begravet eller murt inn i kirkemuren. Dette var for å beskytte kirkegården mot tyver, hekser og djevelen selv.&#xA; </description>
+      <guid isPermaLink="false">l_65c9dcc1-5e94-414a-89dc-c15e94914a4c</guid>
+      <pubDate>Wed, 05 Aug 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/groess_og_gru/7eec8226-84b9-40f8-997c-32d7cb21df25_0_ID192MP3.mp3" type="audio/mpeg" length="17590838"></enclosure>
+      <itunes:title>Kirkegrimen</itunes:title>
+      <itunes:summary>Har du noen gang gått gjennom en kirkegård seint på kvelden og følt at noen eller noe observerer deg? Det er fordi noen gjør det! Kirkegrimen ble enten levende begravet eller murt inn i kirkemuren. Dette var for å beskytte kirkegården mot tyver, hekser og djevelen selv.&#xA; </itunes:summary>
+      <itunes:duration>732</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FeRssSr6SODQRKXKuS9FKAAu2ABEJZHAy7cVE0XQ6vSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2020">202008</podcast:season>
+    </item>
+    <item>
+      <title>Vetter</title>
+      <link>https://radio.nrk.no/podkast/groess_og_gru/l_006275b3-b4e7-4467-a275-b3b4e7e467a4</link>
+      <description>Vetter var uberegnelige, lunefulle og svært nærtagende vesener. De hadde en merkelig sans for humor, og elsket pranks! Vetter kunne fort finne på å røve menneskebarn og bytte dem med sine egne unger, og dette kunne få grusomme konsekvenser.</description>
+      <guid isPermaLink="false">l_006275b3-b4e7-4467-a275-b3b4e7e467a4</guid>
+      <pubDate>Wed, 29 Jul 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/groess_og_gru/ff05cf2c-22e1-4f5c-a12b-24393bb1197b_0_ID192MP3.mp3" type="audio/mpeg" length="28851633"></enclosure>
+      <itunes:title>Vetter</itunes:title>
+      <itunes:summary>Vetter var uberegnelige, lunefulle og svært nærtagende vesener. De hadde en merkelig sans for humor, og elsket pranks! Vetter kunne fort finne på å røve menneskebarn og bytte dem med sine egne unger, og dette kunne få grusomme konsekvenser.</itunes:summary>
+      <itunes:duration>1202</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FeRssSr6SODQRKXKuS9FKAAu2ABEJZHAy7cVE0XQ6vSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2020">202007</podcast:season>
+    </item>
+    <item>
+      <title>Nøkken</title>
+      <link>https://radio.nrk.no/podkast/groess_og_gru/l_7b664ec2-0918-42bc-a64e-c2091892bc93</link>
+      <description>Det var få som var så livsfarlige og forføreriske som nøkken! Med vakkert felespill trollbandt han unge kvinner før han brutalt druknet dem i dype skogtjern etter solnedgang. </description>
+      <guid isPermaLink="false">l_7b664ec2-0918-42bc-a64e-c2091892bc93</guid>
+      <pubDate>Wed, 22 Jul 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/groess_og_gru/f169ee9e-bad9-4096-8837-4592d3db6b27_0_ID192MP3.mp3" type="audio/mpeg" length="30655704"></enclosure>
+      <itunes:title>Nøkken</itunes:title>
+      <itunes:summary>Det var få som var så livsfarlige og forføreriske som nøkken! Med vakkert felespill trollbandt han unge kvinner før han brutalt druknet dem i dype skogtjern etter solnedgang. </itunes:summary>
+      <itunes:duration>1277</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FeRssSr6SODQRKXKuS9FKAAu2ABEJZHAy7cVE0XQ6vSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2020">202007</podcast:season>
+    </item>
+    <item>
+      <title>Mara</title>
+      <link>https://radio.nrk.no/podkast/groess_og_gru/l_419098d4-b686-4fef-9098-d4b686bfefff</link>
+      <description>Mara er ingen dame du vil ha på besøk! Hun paralyserer kroppen din mens du sover, og gir deg deg pusteproblemer, svettetokter - og ikke minst, de grusomste mareritt.</description>
+      <guid isPermaLink="false">l_419098d4-b686-4fef-9098-d4b686bfefff</guid>
+      <pubDate>Wed, 15 Jul 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/groess_og_gru/ddfbdf19-4ecc-44b0-bf7d-cc0e05f4dc9c_0_ID192MP3.mp3" type="audio/mpeg" length="26831640"></enclosure>
+      <itunes:title>Mara</itunes:title>
+      <itunes:summary>Mara er ingen dame du vil ha på besøk! Hun paralyserer kroppen din mens du sover, og gir deg deg pusteproblemer, svettetokter - og ikke minst, de grusomste mareritt.</itunes:summary>
+      <itunes:duration>1117</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FeRssSr6SODQRKXKuS9FKAAu2ABEJZHAy7cVE0XQ6vSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2020">202007</podcast:season>
+    </item>
+    <item>
+      <title>Varulven</title>
+      <link>https://radio.nrk.no/podkast/groess_og_gru/l_f27201f9-9d23-4d55-b201-f99d23ed55da</link>
+      <description>Varulven var en av årsakene til at tusenvis av menn ble torturert og brent på bål i middelalderen. Før i tiden var man nemlig livredd for disse blodtørstige vesenene. Og det var jo ikke så rart. En varulv hadde alle ulvens egenskaper, men var dobbelt så farlig, siden han også hadde menneskets intelligens og sluhet. </description>
+      <guid isPermaLink="false">l_f27201f9-9d23-4d55-b201-f99d23ed55da</guid>
+      <pubDate>Wed, 08 Jul 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/groess_og_gru/833dd16e-abce-4e62-a568-b0771c2dfaa4_0_ID192MP3.mp3" type="audio/mpeg" length="33444696"></enclosure>
+      <itunes:title>Varulven</itunes:title>
+      <itunes:summary>Varulven var en av årsakene til at tusenvis av menn ble torturert og brent på bål i middelalderen. Før i tiden var man nemlig livredd for disse blodtørstige vesenene. Og det var jo ikke så rart. En varulv hadde alle ulvens egenskaper, men var dobbelt så farlig, siden han også hadde menneskets intelligens og sluhet. </itunes:summary>
+      <itunes:duration>1393</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FeRssSr6SODQRKXKuS9FKAAu2ABEJZHAy7cVE0XQ6vSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2020">202007</podcast:season>
+    </item>
+    <item>
+      <title>Gjengangere</title>
+      <link>https://radio.nrk.no/podkast/groess_og_gru/l_5c2d3fed-0b51-4617-ad3f-ed0b51561713</link>
+      <description>Har du opplevd at hårene på armen og i nakken har reist seg uten at du har skjønt hvorfor? Eller hørt uforklarlig banking i huset selv om du ha vært helt alene? Da kan det være at du har blitt utsatt for en gjenganger.</description>
+      <guid isPermaLink="false">l_5c2d3fed-0b51-4617-ad3f-ed0b51561713</guid>
+      <pubDate>Wed, 01 Jul 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/groess_og_gru/f4c6e1f9-0df6-4681-8d2c-c2bb647e97f0_0_ID192MP3.mp3" type="audio/mpeg" length="33679106"></enclosure>
+      <itunes:title>Gjengangere</itunes:title>
+      <itunes:summary>Har du opplevd at hårene på armen og i nakken har reist seg uten at du har skjønt hvorfor? Eller hørt uforklarlig banking i huset selv om du ha vært helt alene? Da kan det være at du har blitt utsatt for en gjenganger.</itunes:summary>
+      <itunes:duration>1403</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FeRssSr6SODQRKXKuS9FKAAu2ABEJZHAy7cVE0XQ6vSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2020">202007</podcast:season>
+    </item>
+    <item>
+      <title>Huldra</title>
+      <link>https://radio.nrk.no/podkast/groess_og_gru/l_668ac09e-885d-49d0-8ac0-9e885da9d06f</link>
+      <description>Huldra viser seg som en vakker, forførende kvinne med langt gyllent hår forfra. Men ikke la deg lure - dette er bare en magisk forkledning. Egentlig er hun en stygg gammel trollkjerring som vokter skogens dyr og vekster med sine kjempekrefter.</description>
+      <guid isPermaLink="false">l_668ac09e-885d-49d0-8ac0-9e885da9d06f</guid>
+      <pubDate>Wed, 24 Jun 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/groess_og_gru/d199448f-ee7b-46fa-8ee9-8e8aeaeb8b69_0_ID192MP3.mp3" type="audio/mpeg" length="29110849"></enclosure>
+      <itunes:title>Huldra</itunes:title>
+      <itunes:summary>Huldra viser seg som en vakker, forførende kvinne med langt gyllent hår forfra. Men ikke la deg lure - dette er bare en magisk forkledning. Egentlig er hun en stygg gammel trollkjerring som vokter skogens dyr og vekster med sine kjempekrefter.</itunes:summary>
+      <itunes:duration>1212</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FeRssSr6SODQRKXKuS9FKAAu2ABEJZHAy7cVE0XQ6vSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2020">202006</podcast:season>
+    </item>
+    <item>
+      <title>Utburden: De drepte barna som kom tilbake</title>
+      <link>https://radio.nrk.no/podkast/groess_og_gru/l_043a57d8-2abe-4a86-ba57-d82abe2a86cf</link>
+      <description>Podkastserien Grøss og gru handler om de mest kjente vesenene fra nordisk folketro. I denne episoden lærer vi om &#34;utburden&#34; – eller de drepte barna som kom tilbake for å ta hevn.</description>
+      <guid isPermaLink="false">l_043a57d8-2abe-4a86-ba57-d82abe2a86cf</guid>
+      <pubDate>Tue, 16 Jun 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/groess_og_gru/2fdc8773-263d-4e59-a71d-a0ac00fed9a9_0_ID192MP3.mp3" type="audio/mpeg" length="27639131"></enclosure>
+      <itunes:title>Utburden: De drepte barna som kom tilbake</itunes:title>
+      <itunes:summary>Podkastserien Grøss og gru handler om de mest kjente vesenene fra nordisk folketro. I denne episoden lærer vi om &#34;utburden&#34; – eller de drepte barna som kom tilbake for å ta hevn.</itunes:summary>
+      <itunes:duration>1151</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FeRssSr6SODQRKXKuS9FKAAu2ABEJZHAy7cVE0XQ6vSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2020">202006</podcast:season>
+    </item>
+  </channel>
+</rss>

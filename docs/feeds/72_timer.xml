@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>72 timer</title>
+    <link>https://radio.nrk.no/podkast/72_timer</link>
+    <description>Vi lever i et trygt land der det meste fungerer som det skal. Men hvor forberedte er vi om en krise skulle oppstå? I podkasten «72 timer» fra 2018 prater Marte Stokstad og Knut Folkestad med kjente nordmenn om deres forhold til egenberedskap og finner ut hvor forberedte de egentlig er. &#xA;Podkasten er en samproduksjon mellom NRK Radio og DSB (Direktoratet for samfunnssikkerhet og beredskap).</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 17 Oct 2018 23:12:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/72_timer.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Vi lever i et trygt land der det meste fungerer som det skal. Men hvor forberedte er vi om en krise skulle oppstå? I podkasten «72 timer» fra 2018 prater Marte Stokstad og Knut Folkestad med kjente nordmenn om deres forhold til egenberedskap og finner ut hvor forberedte de egentlig er. &#xA;Podkasten er en samproduksjon mellom NRK Radio og DSB (Direktoratet for samfunnssikkerhet og beredskap).</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/x-h0b22UBMw3HGra7EkASw0p6vDirbvlXH3V5SG-DRkg"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/x-h0b22UBMw3HGra7EkASw0p6vDirbvlXH3V5SG-DRkg</url>
+      <title>72 timer</title>
+      <link>https://radio.nrk.no/podkast/72_timer</link>
+    </image>
+    <item>
+      <title>Silje Nordnes (5:5)</title>
+      <link>https://radio.nrk.no/podkast/72_timer/l_e00146ce-92d1-4189-8146-ce92d1c189d8</link>
+      <description>Er man automatisk en doomsday prepper om man er forberedt på det meste? Og hva skal man egentlig med en nedgravd tank i hagen? Dagens gjest i «72 timer» er Silje Nordnes. Finn ut hva hun har satt opp på sin beredskapsliste, og hvor forberedt hun er på at noe uforutsett kan inntreffe. </description>
+      <guid isPermaLink="false">l_e00146ce-92d1-4189-8146-ce92d1c189d8</guid>
+      <pubDate>Thu, 18 Oct 2018 01:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/72_timer/72_timer_2018-10-18_2312_2945.MP3" type="audio/mpeg" length="54165932"></enclosure>
+      <itunes:title>Silje Nordnes (5:5)</itunes:title>
+      <itunes:summary>Er man automatisk en doomsday prepper om man er forberedt på det meste? Og hva skal man egentlig med en nedgravd tank i hagen? Dagens gjest i «72 timer» er Silje Nordnes. Finn ut hva hun har satt opp på sin beredskapsliste, og hvor forberedt hun er på at noe uforutsett kan inntreffe. </itunes:summary>
+      <itunes:duration>2256</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x-h0b22UBMw3HGra7EkASw0p6vDirbvlXH3V5SG-DRkg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kadafi Zaman (4:5)</title>
+      <link>https://radio.nrk.no/podkast/72_timer/l_a972c14d-29f2-4ddb-b2c1-4d29f29ddb98</link>
+      <description>Blir man bedre forberedt av å være utenriksreporter? Og hvordan kan et skjerf være redningen i en krisesituasjon? Dagens gjest i «72 timer» er Kadafi Zaman. Finn ut hva han har satt opp på sin beredskapsliste, og hvor forberedt han er på at noe uforutsett kan inntreffe.</description>
+      <guid isPermaLink="false">l_a972c14d-29f2-4ddb-b2c1-4d29f29ddb98</guid>
+      <pubDate>Thu, 18 Oct 2018 01:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/72_timer/72_timer_2018-10-18_2306_367.MP3" type="audio/mpeg" length="57740588"></enclosure>
+      <itunes:title>Kadafi Zaman (4:5)</itunes:title>
+      <itunes:summary>Blir man bedre forberedt av å være utenriksreporter? Og hvordan kan et skjerf være redningen i en krisesituasjon? Dagens gjest i «72 timer» er Kadafi Zaman. Finn ut hva han har satt opp på sin beredskapsliste, og hvor forberedt han er på at noe uforutsett kan inntreffe.</itunes:summary>
+      <itunes:duration>2405</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x-h0b22UBMw3HGra7EkASw0p6vDirbvlXH3V5SG-DRkg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hans Olav Lahlum (3:5)</title>
+      <link>https://radio.nrk.no/podkast/72_timer/l_4a69b851-d63b-4e07-a9b8-51d63b8e079f</link>
+      <description>Gjør det å vokse opp med nøtteallergi i et øysamfunn deg bedre forberedt? Og hvor lite vann kan man egentlig klare seg med? Dagens gjest i «72 timer» er Hans Olav Lahlum. Finn ut hva han har satt opp på sin beredskapsliste, og hvor forberedt han er på at noe uforutsett kan inntreffe.</description>
+      <guid isPermaLink="false">l_4a69b851-d63b-4e07-a9b8-51d63b8e079f</guid>
+      <pubDate>Thu, 18 Oct 2018 01:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/72_timer/72_timer_2018-10-18_2309_1504.MP3" type="audio/mpeg" length="59296940"></enclosure>
+      <itunes:title>Hans Olav Lahlum (3:5)</itunes:title>
+      <itunes:summary>Gjør det å vokse opp med nøtteallergi i et øysamfunn deg bedre forberedt? Og hvor lite vann kan man egentlig klare seg med? Dagens gjest i «72 timer» er Hans Olav Lahlum. Finn ut hva han har satt opp på sin beredskapsliste, og hvor forberedt han er på at noe uforutsett kan inntreffe.</itunes:summary>
+      <itunes:duration>2470</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x-h0b22UBMw3HGra7EkASw0p6vDirbvlXH3V5SG-DRkg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Elin Ørjasæter (2:5)</title>
+      <link>https://radio.nrk.no/podkast/72_timer/l_556cced2-b066-4acc-acce-d2b066aacca2</link>
+      <description>Kan noen være så nevrotiske at de bør fratas alt ansvar under en krise? Og er fenalår den ultimate overlevelsesmaten? Dagens gjest i «72 timer» er Elin Ørjasæter. Finn ut hva hun har satt opp på sin beredskapsliste, og hvor forberedt hun er på at noe uforutsett kan inntreffe.</description>
+      <guid isPermaLink="false">l_556cced2-b066-4acc-acce-d2b066aacca2</guid>
+      <pubDate>Thu, 18 Oct 2018 01:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/72_timer/72_timer_2018-10-18_2303_3808.MP3" type="audio/mpeg" length="59067692"></enclosure>
+      <itunes:title>Elin Ørjasæter (2:5)</itunes:title>
+      <itunes:summary>Kan noen være så nevrotiske at de bør fratas alt ansvar under en krise? Og er fenalår den ultimate overlevelsesmaten? Dagens gjest i «72 timer» er Elin Ørjasæter. Finn ut hva hun har satt opp på sin beredskapsliste, og hvor forberedt hun er på at noe uforutsett kan inntreffe.</itunes:summary>
+      <itunes:duration>2461</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x-h0b22UBMw3HGra7EkASw0p6vDirbvlXH3V5SG-DRkg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Thomas Seltzer (1:5)</title>
+      <link>https://radio.nrk.no/podkast/72_timer/l_bafa28af-f682-482b-ba28-aff682182bbb</link>
+      <description>Kan postapokalyptiske filmer lære oss noe om egenberedskap? Og hvilken barne-TV figur er best forberedt på en krise? Dagens gjest i «72 timer» er Thomas Seltzer. Finn ut hva han har satt opp på sin beredskapsliste, og hvor forberedt han er på at noe uforutsett kan inntreffe.</description>
+      <guid isPermaLink="false">l_bafa28af-f682-482b-ba28-aff682182bbb</guid>
+      <pubDate>Thu, 18 Oct 2018 01:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/72_timer/72_timer_2018-10-18_2300_82.MP3" type="audio/mpeg" length="58218092"></enclosure>
+      <itunes:title>Thomas Seltzer (1:5)</itunes:title>
+      <itunes:summary>Kan postapokalyptiske filmer lære oss noe om egenberedskap? Og hvilken barne-TV figur er best forberedt på en krise? Dagens gjest i «72 timer» er Thomas Seltzer. Finn ut hva han har satt opp på sin beredskapsliste, og hvor forberedt han er på at noe uforutsett kan inntreffe.</itunes:summary>
+      <itunes:duration>2425</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x-h0b22UBMw3HGra7EkASw0p6vDirbvlXH3V5SG-DRkg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juorre</title>
+    <link>https://radio.nrk.no/podkast/juorre</link>
+    <description>Risstinin li tjielgga vuojno masi ájggu. Le gus A4-iellem buoremus viessomvuohke, jali ij la huoman nav buorre gåk gullu? Se i NRK TV.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Tue, 12 May 2026 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/juorre.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Risstinin li tjielgga vuojno masi ájggu. Le gus A4-iellem buoremus viessomvuohke, jali ij la huoman nav buorre gåk gullu? Se i NRK TV.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ</url>
+      <title>Juorre</title>
+      <link>https://radio.nrk.no/podkast/juorre</link>
+    </image>
+    <item>
+      <title>Joarme, botoxa ja festa</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_1e79e72c-8149-4a16-b9e7-2c8149da160a</link>
+      <description>Risstin galggá bievden dánssat gå vuorastuvvá, madin Ailo l juo rávudahttjám.</description>
+      <guid isPermaLink="false">l_1e79e72c-8149-4a16-b9e7-2c8149da160a</guid>
+      <pubDate>Tue, 12 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/1e79e72c-8149-4a16-b9e7-2c8149da160a_1_ID192MP3.mp3" type="audio/mpeg" length="29007980"></enclosure>
+      <itunes:title>Joarme, botoxa ja festa</itunes:title>
+      <itunes:summary>Risstin galggá bievden dánssat gå vuorastuvvá, madin Ailo l juo rávudahttjám.</itunes:summary>
+      <itunes:duration>1208</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/t1ZfcvXCa07VuHbEk1b0lwIbMZ9ry66oJWmiQ5pDJogw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Vielggis gællása</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_0b7a4a6f-12af-421d-ba4a-6f12afe21df8</link>
+      <description>Bæhttogis ándagis ádnoma ja nievres dago. Risstin ja Ailo filosofieriba ierit lágas ja adneba ietjasa morálalasj kompássajt.</description>
+      <guid isPermaLink="false">l_0b7a4a6f-12af-421d-ba4a-6f12afe21df8</guid>
+      <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/0b7a4a6f-12af-421d-ba4a-6f12afe21df8_1_ID192MP3.mp3" type="audio/mpeg" length="27164780"></enclosure>
+      <itunes:title>Vielggis gællása</itunes:title>
+      <itunes:summary>Bæhttogis ándagis ádnoma ja nievres dago. Risstin ja Ailo filosofieriba ierit lágas ja adneba ietjasa morálalasj kompássajt.</itunes:summary>
+      <itunes:duration>1131</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1-HJD9eZpfLr24QJVqfM5AmmYfTEdO5GP9H4DpAMaJIQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Le gus dating dåssju spælla?</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_28d88caa-2ae3-4fad-988c-aa2ae38fad7b</link>
+      <description>Vuorbálasj giládum Ailo, Johanna gut ij majdik báhtjajs dádjada ja noanna-Risstin dágástalli datingav ja báhtjajt.</description>
+      <guid isPermaLink="false">l_28d88caa-2ae3-4fad-988c-aa2ae38fad7b</guid>
+      <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/28d88caa-2ae3-4fad-988c-aa2ae38fad7b_1_ID192MP3.mp3" type="audio/mpeg" length="37571948"></enclosure>
+      <itunes:title>Le gus dating dåssju spælla?</itunes:title>
+      <itunes:summary>Vuorbálasj giládum Ailo, Johanna gut ij majdik báhtjajs dádjada ja noanna-Risstin dágástalli datingav ja báhtjajt.</itunes:summary>
+      <itunes:duration>1565</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ELyWycrmOMPw8Wt5GzNp6QfnraP7XuoQ4wSxxoYMy0cA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Gieresvuohta jali lihtudibme?</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_aabc29b8-1d63-4dc1-bc29-b81d635dc130</link>
+      <description>Ailoa mielas gállasjvuohta galggá liehket dagu niehko, gieresvuodajn vuodon, Risstina mielas la dat praktihkalasj sjiehtadallam.</description>
+      <guid isPermaLink="false">l_aabc29b8-1d63-4dc1-bc29-b81d635dc130</guid>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/aabc29b8-1d63-4dc1-bc29-b81d635dc130_1_ID192MP3.mp3" type="audio/mpeg" length="24189740"></enclosure>
+      <itunes:title>Gieresvuohta jali lihtudibme?</itunes:title>
+      <itunes:summary>Ailoa mielas gállasjvuohta galggá liehket dagu niehko, gieresvuodajn vuodon, Risstina mielas la dat praktihkalasj sjiehtadallam.</itunes:summary>
+      <itunes:duration>1007</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4SWafgBPJ83XJZ0Au0TOyQcLw8QNYlJ4Ef9biMhKTPFQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Sáme tijmmabielle</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_83c45fa8-f7d7-440c-845f-a8f7d7940cfc</link>
+      <description>Ailo ja Risstin ájggoba gávnnat gåktu sunnu vuojŋŋama doajmmi. Da doajmmi ållu iesjgeŋgalágátja.</description>
+      <guid isPermaLink="false">l_83c45fa8-f7d7-440c-845f-a8f7d7940cfc</guid>
+      <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/83c45fa8-f7d7-440c-845f-a8f7d7940cfc_1_ID192MP3.mp3" type="audio/mpeg" length="29598956"></enclosure>
+      <itunes:title>Sáme tijmmabielle</itunes:title>
+      <itunes:summary>Ailo ja Risstin ájggoba gávnnat gåktu sunnu vuojŋŋama doajmmi. Da doajmmi ållu iesjgeŋgalágátja.</itunes:summary>
+      <itunes:duration>1233</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7oTqUFN2rJ_A7v0t6Kg-2w9RkrMGqQ0htOSNu7amGLmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Mánnávuodatrávmá</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_2d0bd7f3-fe60-46b3-8bd7-f3fe60e6b3ca</link>
+      <description>Viessosáddo, hivsikrávgga ja Hufsa – Risstin ja Ailo duobbmibá nubbe nuppe iehpejergalasj balojt.</description>
+      <guid isPermaLink="false">l_2d0bd7f3-fe60-46b3-8bd7-f3fe60e6b3ca</guid>
+      <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/2d0bd7f3-fe60-46b3-8bd7-f3fe60e6b3ca_1_ID192MP3.mp3" type="audio/mpeg" length="24075116"></enclosure>
+      <itunes:title>Mánnávuodatrávmá</itunes:title>
+      <itunes:summary>Viessosáddo, hivsikrávgga ja Hufsa – Risstin ja Ailo duobbmibá nubbe nuppe iehpejergalasj balojt.</itunes:summary>
+      <itunes:duration>1003</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1K01NSZjcU3g-hUWq-h2PQ73SXAj0T4oMxgwBEszpPiQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Ihkevenájgge</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_7cda1ff3-27a1-4839-9a1f-f327a13839c3</link>
+      <description>Le gus juoga jábmema maŋŋela? Ja le gus ajtu sávadahtte? Risstina guovtes Johannajn li sierra vuojno.</description>
+      <guid isPermaLink="false">l_7cda1ff3-27a1-4839-9a1f-f327a13839c3</guid>
+      <pubDate>Tue, 31 Mar 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/7cda1ff3-27a1-4839-9a1f-f327a13839c3_1_ID192MP3.mp3" type="audio/mpeg" length="27729836"></enclosure>
+      <itunes:title>Ihkevenájgge</itunes:title>
+      <itunes:summary>Le gus juoga jábmema maŋŋela? Ja le gus ajtu sávadahtte? Risstina guovtes Johannajn li sierra vuojno.</itunes:summary>
+      <itunes:duration>1155</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vFyJUmdJheOcIg38TWqldQ1ittIY7t7fi4sBreTJuNDw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Gut lav mån?</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_f298f4cf-439f-4281-98f4-cf439fb28101</link>
+      <description>Ailujn ja Risstinijn li moattekultuvralasj duogátja, ja ságastibá identitehttagássjelisvuoda birra ja gåktu ietjas gávnnat.</description>
+      <guid isPermaLink="false">l_f298f4cf-439f-4281-98f4-cf439fb28101</guid>
+      <pubDate>Tue, 24 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/f298f4cf-439f-4281-98f4-cf439fb28101_1_ID192MP3.mp3" type="audio/mpeg" length="32836076"></enclosure>
+      <itunes:title>Gut lav mån?</itunes:title>
+      <itunes:summary>Ailujn ja Risstinijn li moattekultuvralasj duogátja, ja ságastibá identitehttagássjelisvuoda birra ja gåktu ietjas gávnnat.</itunes:summary>
+      <itunes:duration>1368</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/i0158TsENCB7amQoGDSqzACE_-7fI7vanMO-4kqeIaKQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Såhkå ja sex</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_92a1ef8b-af56-4204-a1ef-8baf5662043a</link>
+      <description>Risstina guovtes Ailujn dágástibá dahkojiermmepornografijja,  guollasprægganime ja analsexa birra. Ja – viertti gus vuostak såhkåjt nuoladit?</description>
+      <guid isPermaLink="false">l_92a1ef8b-af56-4204-a1ef-8baf5662043a</guid>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/92a1ef8b-af56-4204-a1ef-8baf5662043a_1_ID192MP3.mp3" type="audio/mpeg" length="25914860"></enclosure>
+      <itunes:title>Såhkå ja sex</itunes:title>
+      <itunes:summary>Risstina guovtes Ailujn dágástibá dahkojiermmepornografijja,  guollasprægganime ja analsexa birra. Ja – viertti gus vuostak såhkåjt nuoladit?</itunes:summary>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Wi7ByHmSf4jX_pFsXgegag79s1Xw7FsxCqR1wO8o4blw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Risstina liegga gieda</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_481bf0b2-c5b5-47a7-9bf0-b2c5b587a727</link>
+      <description>Risstin máhttá giedaj buoredit ja Ailo l ballam ibmahijs man birra l mánávuodas gullam – dálla l sáhka paranormálla ássjij birra.</description>
+      <guid isPermaLink="false">l_481bf0b2-c5b5-47a7-9bf0-b2c5b587a727</guid>
+      <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/481bf0b2-c5b5-47a7-9bf0-b2c5b587a727_1_ID192MP3.mp3" type="audio/mpeg" length="33980588"></enclosure>
+      <itunes:title>Risstina liegga gieda</itunes:title>
+      <itunes:summary>Risstin máhttá giedaj buoredit ja Ailo l ballam ibmahijs man birra l mánávuodas gullam – dálla l sáhka paranormálla ássjij birra.</itunes:summary>
+      <itunes:duration>1415</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/K-QzREboLSNk3V_pgAwg2A0N-TERCu2TgngOTJpgTcLQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>– Jesus tjåvlåjn vádtsij</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_2c4a546d-2b08-4ab9-8a54-6d2b08dab975</link>
+      <description>Máhtá gus liehket sige diva ja handy? Risstin ja Sanna dágástibá sjiervverållajt ja stereotypijjajt – Sámen ja stuorsebrudagán.</description>
+      <guid isPermaLink="false">l_2c4a546d-2b08-4ab9-8a54-6d2b08dab975</guid>
+      <pubDate>Tue, 30 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/2c4a546d-2b08-4ab9-8a54-6d2b08dab975_ID192MP3.mp3" type="audio/mpeg" length="37696940"></enclosure>
+      <itunes:title>– Jesus tjåvlåjn vádtsij</itunes:title>
+      <itunes:summary>Máhtá gus liehket sige diva ja handy? Risstin ja Sanna dágástibá sjiervverållajt ja stereotypijjajt – Sámen ja stuorsebrudagán.</itunes:summary>
+      <itunes:duration>1570</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Supersábme</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_f19f4983-a791-404f-9f49-83a791304fcf</link>
+      <description>Risstin ja Nadia usjudallaba jus sunnun libá duodde åvdåsvásstádus sáme kultuvrav suodjalit, dan diehti gå libá agev sámástam.</description>
+      <guid isPermaLink="false">l_f19f4983-a791-404f-9f49-83a791304fcf</guid>
+      <pubDate>Tue, 23 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/f19f4983-a791-404f-9f49-83a791304fcf_ID192MP3.mp3" type="audio/mpeg" length="28913516"></enclosure>
+      <itunes:title>Supersábme</itunes:title>
+      <itunes:summary>Risstin ja Nadia usjudallaba jus sunnun libá duodde åvdåsvásstádus sáme kultuvrav suodjalit, dan diehti gå libá agev sámástam.</itunes:summary>
+      <itunes:duration>1204</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>La jasskavuohta guhkálasj?</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_feb9b3ec-e656-4f24-b9b3-ece6562f2469</link>
+      <description>Galggá gus viessot bargo diehti jali barggat vaj viessu? Ailo ja Risstinav oahppá bargov ja iellemav balansieritjit.</description>
+      <guid isPermaLink="false">l_feb9b3ec-e656-4f24-b9b3-ece6562f2469</guid>
+      <pubDate>Tue, 16 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/feb9b3ec-e656-4f24-b9b3-ece6562f2469_ID192MP3.mp3" type="audio/mpeg" length="26099180"></enclosure>
+      <itunes:title>La jasskavuohta guhkálasj?</itunes:title>
+      <itunes:summary>Galggá gus viessot bargo diehti jali barggat vaj viessu? Ailo ja Risstinav oahppá bargov ja iellemav balansieritjit.</itunes:summary>
+      <itunes:duration>1087</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>– Alien muv tjuojve sinna!</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_cbe9a92c-49aa-4193-a9a9-2c49aaf193c7</link>
+      <description>Babytrapping ja bajkkarapsa. Risstin ij dádjada manen hæhttu mánájt oadtjot. Máhttá gus ietjas áhttje viehkedit suv dádjadittjat?</description>
+      <guid isPermaLink="false">l_cbe9a92c-49aa-4193-a9a9-2c49aaf193c7</guid>
+      <pubDate>Tue, 09 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/cbe9a92c-49aa-4193-a9a9-2c49aaf193c7_ID192MP3.mp3" type="audio/mpeg" length="31354028"></enclosure>
+      <itunes:title>– Alien muv tjuojve sinna!</itunes:title>
+      <itunes:summary>Babytrapping ja bajkkarapsa. Risstin ij dádjada manen hæhttu mánájt oadtjot. Máhttá gus ietjas áhttje viehkedit suv dádjadittjat?</itunes:summary>
+      <itunes:duration>1306</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Gånnå l «sijdda»?</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_35c5efe7-ff2d-41cb-85ef-e7ff2d41cbc9</link>
+      <description>Hæhttu gus diehtet gånnå galggá ålles iellemav årrot?&#xA;Svenn-Egil la duonna dánna årrum, valla maŋŋutjissaj ruoptus sijddaj jådij.</description>
+      <guid isPermaLink="false">l_35c5efe7-ff2d-41cb-85ef-e7ff2d41cbc9</guid>
+      <pubDate>Tue, 02 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/35c5efe7-ff2d-41cb-85ef-e7ff2d41cbc9_ID192MP3.mp3" type="audio/mpeg" length="29561516"></enclosure>
+      <itunes:title>Gånnå l «sijdda»?</itunes:title>
+      <itunes:summary>Hæhttu gus diehtet gånnå galggá ålles iellemav årrot?&#xA;Svenn-Egil la duonna dánna årrum, valla maŋŋutjissaj ruoptus sijddaj jådij.</itunes:summary>
+      <itunes:duration>1231</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Låhkåt vaj ij?</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_d4cc1886-adc9-4465-8c18-86adc9c465de</link>
+      <description>Lars Theodor la ållo ájgev låhkåmlanján adnám, madin Risstin jáhkká dåhkki vuorbástuvvat juska ulmutjin ij la mastergráda.</description>
+      <guid isPermaLink="false">l_d4cc1886-adc9-4465-8c18-86adc9c465de</guid>
+      <pubDate>Tue, 25 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/d4cc1886-adc9-4465-8c18-86adc9c465de_ID192MP3.mp3" type="audio/mpeg" length="26259308"></enclosure>
+      <itunes:title>Låhkåt vaj ij?</itunes:title>
+      <itunes:summary>Lars Theodor la ållo ájgev låhkåmlanján adnám, madin Risstin jáhkká dåhkki vuorbástuvvat juska ulmutjin ij la mastergráda.</itunes:summary>
+      <itunes:duration>1094</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>– Irgev iv gal sidá</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_1d46cec5-5187-4075-86ce-c55187307506</link>
+      <description>Risstin sihtá agev aktu liehket, madi udnásj guosse Naima mielas la árvvo gieresvuodav vuorodit. &#xA;Se episoden visuelt med tekst.</description>
+      <guid isPermaLink="false">l_1d46cec5-5187-4075-86ce-c55187307506</guid>
+      <pubDate>Tue, 18 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/1d46cec5-5187-4075-86ce-c55187307506_ID192MP3.mp3" type="audio/mpeg" length="39378860"></enclosure>
+      <itunes:title>– Irgev iv gal sidá</itunes:title>
+      <itunes:summary>Risstin sihtá agev aktu liehket, madi udnásj guosse Naima mielas la árvvo gieresvuodav vuorodit. &#xA;Se episoden visuelt med tekst.</itunes:summary>
+      <itunes:duration>1640</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Bierggi gus?</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_5f9be16f-d541-4b20-9be1-6fd5418b20c8</link>
+      <description>Máhtá gus dållit ja bierri gus stádas báhtarit? Luonndoiehttse ja tjiehppe Paul Gælok diehtá massta l dárbbo vaj doaron bierggit.</description>
+      <guid isPermaLink="false">l_5f9be16f-d541-4b20-9be1-6fd5418b20c8</guid>
+      <pubDate>Tue, 11 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/5f9be16f-d541-4b20-9be1-6fd5418b20c8_ID192MP3.mp3" type="audio/mpeg" length="27099116"></enclosure>
+      <itunes:title>Bierggi gus?</itunes:title>
+      <itunes:summary>Máhtá gus dållit ja bierri gus stádas báhtarit? Luonndoiehttse ja tjiehppe Paul Gælok diehtá massta l dárbbo vaj doaron bierggit.</itunes:summary>
+      <itunes:duration>1129</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Æjggut jali lájggit?</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_83cc542c-464e-4b46-8c54-2c464eeb46f9</link>
+      <description>Trond friddjavuodav dåbdåj gå ietjas årruhav åstij. Risstin ij dádjada manen «divna» miejnni sån bierri æjggut ienni gå lájggit.</description>
+      <guid isPermaLink="false">l_83cc542c-464e-4b46-8c54-2c464eeb46f9</guid>
+      <pubDate>Tue, 04 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/83cc542c-464e-4b46-8c54-2c464eeb46f9_ID192MP3.mp3" type="audio/mpeg" length="33840620"></enclosure>
+      <itunes:title>Æjggut jali lájggit?</itunes:title>
+      <itunes:summary>Trond friddjavuodav dåbdåj gå ietjas årruhav åstij. Risstin ij dádjada manen «divna» miejnni sån bierri æjggut ienni gå lájggit.</itunes:summary>
+      <itunes:duration>1409</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>– Same væráltviellde, diedon?</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_cd33be8e-dec8-44eb-b3be-8edec824eb85</link>
+      <description>Sander ja Risstin dágástallaba giellapolitijja ja julevsámegiela birra væráltgiellan. Gåktu máhttep gaskanimme ienebut sámástit?</description>
+      <guid isPermaLink="false">l_cd33be8e-dec8-44eb-b3be-8edec824eb85</guid>
+      <pubDate>Tue, 28 Oct 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/cd33be8e-dec8-44eb-b3be-8edec824eb85_ID192MP3.mp3" type="audio/mpeg" length="36048428"></enclosure>
+      <itunes:title>– Same væráltviellde, diedon?</itunes:title>
+      <itunes:summary>Sander ja Risstin dágástallaba giellapolitijja ja julevsámegiela birra væráltgiellan. Gåktu máhttep gaskanimme ienebut sámástit?</itunes:summary>
+      <itunes:duration>1501</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+  </channel>
+</rss>

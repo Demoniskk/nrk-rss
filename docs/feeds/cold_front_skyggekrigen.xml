@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cold Front – Skyggekrigen</title>
+    <link>https://radio.nrk.no/podkast/cold_front_skyggekrigen</link>
+    <description>Russland har blitt landet Europa frykter – en aggressiv nabo som spionerer, saboterer og sprer feilinformasjon. Hva det betyr det for oss i Norden?</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 03 May 2023 04:04:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/cold_front_skyggekrigen.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Russland har blitt landet Europa frykter – en aggressiv nabo som spionerer, saboterer og sprer feilinformasjon. Hva det betyr det for oss i Norden?</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA"></itunes:image>
+    <itunes:category text="History"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA</url>
+      <title>Cold Front – Skyggekrigen</title>
+      <link>https://radio.nrk.no/podkast/cold_front_skyggekrigen</link>
+    </image>
+    <item>
+      <title>Cold Front-Skyggekrigen (6:6)</title>
+      <link>https://radio.nrk.no/podkast/cold_front_skyggekrigen/l_0898847b-df6e-42c5-9884-7bdf6ec2c5b3</link>
+      <description>Russiske forskningsskip er stadig i nærheten av de nordiske havvindparkene.</description>
+      <guid isPermaLink="false">l_0898847b-df6e-42c5-9884-7bdf6ec2c5b3</guid>
+      <pubDate>Wed, 03 May 2023 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/cold_front_skyggekrigen/e7a58c8c-03df-4c26-9050-4020b636456e_0_ID192MP3.mp3" type="audio/mpeg" length="50642541"></enclosure>
+      <itunes:title>Cold Front-Skyggekrigen (6:6)</itunes:title>
+      <itunes:summary>Russiske forskningsskip er stadig i nærheten av de nordiske havvindparkene.</itunes:summary>
+      <itunes:duration>2110</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Cold Front-Skyggekrigen (5:6)</title>
+      <link>https://radio.nrk.no/podkast/cold_front_skyggekrigen/l_2bc0cb7d-aeba-4a39-80cb-7daebaca3955</link>
+      <description>En systemkritisk blogger fra Tsjetsjenia blir angrepet i Sverige. Han frykter for livet og går under jorda.  </description>
+      <guid isPermaLink="false">l_2bc0cb7d-aeba-4a39-80cb-7daebaca3955</guid>
+      <pubDate>Wed, 03 May 2023 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/cold_front_skyggekrigen/a72c2113-e5de-4a67-a565-241d8299e8ca_0_ID192MP3.mp3" type="audio/mpeg" length="48793005"></enclosure>
+      <itunes:title>Cold Front-Skyggekrigen (5:6)</itunes:title>
+      <itunes:summary>En systemkritisk blogger fra Tsjetsjenia blir angrepet i Sverige. Han frykter for livet og går under jorda.  </itunes:summary>
+      <itunes:duration>2032</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Cold Front-Skyggekrigen (4:6)</title>
+      <link>https://radio.nrk.no/podkast/cold_front_skyggekrigen/l_1a79cf3c-f4e0-445d-b9cf-3cf4e0245d38</link>
+      <description>Falske nyheter skaper uro, tvil og mistillit. Et nettverk med over150 personer deler desinformasjon i Norden.</description>
+      <guid isPermaLink="false">l_1a79cf3c-f4e0-445d-b9cf-3cf4e0245d38</guid>
+      <pubDate>Wed, 03 May 2023 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/cold_front_skyggekrigen/4c57336d-a455-4a80-9be0-97e577a8dd3c_0_ID192MP3.mp3" type="audio/mpeg" length="54838125"></enclosure>
+      <itunes:title>Cold Front-Skyggekrigen (4:6)</itunes:title>
+      <itunes:summary>Falske nyheter skaper uro, tvil og mistillit. Et nettverk med over150 personer deler desinformasjon i Norden.</itunes:summary>
+      <itunes:duration>2284</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Cold Front-Skyggekrigen (3:6)</title>
+      <link>https://radio.nrk.no/podkast/cold_front_skyggekrigen/l_615b1585-7eb1-4f0c-9b15-857eb18f0c2a</link>
+      <description>Russiske skip var i forkant flere ganger i nærheten av eksplosjonsstedet på gassrørledningene Nord Stream, viser ny informasjon.  </description>
+      <guid isPermaLink="false">l_615b1585-7eb1-4f0c-9b15-857eb18f0c2a</guid>
+      <pubDate>Wed, 03 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/cold_front_skyggekrigen/d6f71d29-0913-4e98-a22e-d39c10e6a824_0_ID192MP3.mp3" type="audio/mpeg" length="65808045"></enclosure>
+      <itunes:title>Cold Front-Skyggekrigen (3:6)</itunes:title>
+      <itunes:summary>Russiske skip var i forkant flere ganger i nærheten av eksplosjonsstedet på gassrørledningene Nord Stream, viser ny informasjon.  </itunes:summary>
+      <itunes:duration>2741</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Cold Front - Skyggekrigen (2:6)</title>
+      <link>https://radio.nrk.no/podkast/cold_front_skyggekrigen/l_72f740e4-48a4-4b8f-b740-e448a42b8fb9</link>
+      <description>I Tromsø og København blir forskere arrestert – mistenkt for spionasje. I Sverige blir et ektepar pågrepet i en dramatisk helikopteraksjon.</description>
+      <guid isPermaLink="false">l_72f740e4-48a4-4b8f-b740-e448a42b8fb9</guid>
+      <pubDate>Wed, 26 Apr 2023 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/cold_front_skyggekrigen/aa1fd17b-c8bd-4a10-81cd-2f3d08e63571_0_ID192MP3.mp3" type="audio/mpeg" length="51810093"></enclosure>
+      <itunes:title>Cold Front - Skyggekrigen (2:6)</itunes:title>
+      <itunes:summary>I Tromsø og København blir forskere arrestert – mistenkt for spionasje. I Sverige blir et ektepar pågrepet i en dramatisk helikopteraksjon.</itunes:summary>
+      <itunes:duration>2158</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Cold Front - Skyggekrigen (1:6)</title>
+      <link>https://radio.nrk.no/podkast/cold_front_skyggekrigen/l_283cc63a-59c9-40f2-bcc6-3a59c940f231</link>
+      <description>Russland mistenkes å stå bak brudd på undersjøiske kabler i Nord-Norge. Reportere får tak i en hemmelig liste over russiske agenter i Sverige.</description>
+      <guid isPermaLink="false">l_283cc63a-59c9-40f2-bcc6-3a59c940f231</guid>
+      <pubDate>Wed, 26 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/cold_front_skyggekrigen/6f3f77e2-31fb-4395-8566-d487d07fc7b3_0_ID192MP3.mp3" type="audio/mpeg" length="44020845"></enclosure>
+      <itunes:title>Cold Front - Skyggekrigen (1:6)</itunes:title>
+      <itunes:summary>Russland mistenkes å stå bak brudd på undersjøiske kabler i Nord-Norge. Reportere får tak i en hemmelig liste over russiske agenter i Sverige.</itunes:summary>
+      <itunes:duration>1834</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/spA_15gm2sIEdmOXpuLY8g4A-lube8b9f5AFgevbkifA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

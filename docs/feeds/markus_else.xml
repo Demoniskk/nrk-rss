@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus &amp; Else</title>
+    <link>https://radio.nrk.no/podkast/markus_else</link>
+    <description>Ung mann møter gift kvinne i trangt rom og håper på det beste.&#xA;</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Sat, 07 Feb 2026 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/markus_else.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Ung mann møter gift kvinne i trangt rom og håper på det beste.&#xA;</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ</url>
+      <title>Markus &amp; Else</title>
+      <link>https://radio.nrk.no/podkast/markus_else</link>
+    </image>
+    <item>
+      <title>Kaste snøball er ikke lov</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_85c99c09-0f30-4cf8-899c-090f308cf84a</link>
+      <description>Else leser fra boken «Year of the Cock», mens Markus lager låt av Henrik Kristoffersen-sitat.</description>
+      <guid isPermaLink="false">l_85c99c09-0f30-4cf8-899c-090f308cf84a</guid>
+      <pubDate>Sat, 07 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/85c99c09-0f30-4cf8-899c-090f308cf84a_ID192MP3.mp3" type="audio/mpeg" length="19210220"></enclosure>
+      <itunes:title>Kaste snøball er ikke lov</itunes:title>
+      <itunes:summary>Else leser fra boken «Year of the Cock», mens Markus lager låt av Henrik Kristoffersen-sitat.</itunes:summary>
+      <itunes:duration>800</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Er Viktor Sotberg pensjonert?</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_2a37875c-cbb9-4f9b-b787-5ccbb9df9b48</link>
+      <description>Markus har et komplisert kjendiskart, men en realitydeltaker mangler: Victor Sotberg. Stemmer det at han har pensjonert seg?</description>
+      <guid isPermaLink="false">l_2a37875c-cbb9-4f9b-b787-5ccbb9df9b48</guid>
+      <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/2a37875c-cbb9-4f9b-b787-5ccbb9df9b48_ID192MP3.mp3" type="audio/mpeg" length="30032108"></enclosure>
+      <itunes:title>Er Viktor Sotberg pensjonert?</itunes:title>
+      <itunes:summary>Markus har et komplisert kjendiskart, men en realitydeltaker mangler: Victor Sotberg. Stemmer det at han har pensjonert seg?</itunes:summary>
+      <itunes:duration>1251</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AzZ15Q-A8qB0pOotP8X3iAl2iSZEXZMm_D8-gV-Kfbpw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Sinte menn fra Rælingen</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_e542b721-76c9-4cf9-82b7-2176c93cf9d3</link>
+      <description>Verden står på hodet, og Markus mener det bare finnes en ting vi trenger nå: Ekte følelser fra OL.</description>
+      <guid isPermaLink="false">l_e542b721-76c9-4cf9-82b7-2176c93cf9d3</guid>
+      <pubDate>Thu, 05 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/e542b721-76c9-4cf9-82b7-2176c93cf9d3_ID192MP3.mp3" type="audio/mpeg" length="26256428"></enclosure>
+      <itunes:title>Sinte menn fra Rælingen</itunes:title>
+      <itunes:summary>Verden står på hodet, og Markus mener det bare finnes en ting vi trenger nå: Ekte følelser fra OL.</itunes:summary>
+      <itunes:duration>1093</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Robotstøvsugerens forbannelse</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_87bd1baf-4ed2-448b-bd1b-af4ed2848b73</link>
+      <description>Else hjelper Markus med hudpleien, mens Markus angrer bittert på at han kjøpte robotstøvsuger.</description>
+      <guid isPermaLink="false">l_87bd1baf-4ed2-448b-bd1b-af4ed2848b73</guid>
+      <pubDate>Wed, 04 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/87bd1baf-4ed2-448b-bd1b-af4ed2848b73_ID192MP3.mp3" type="audio/mpeg" length="29310380"></enclosure>
+      <itunes:title>Robotstøvsugerens forbannelse</itunes:title>
+      <itunes:summary>Else hjelper Markus med hudpleien, mens Markus angrer bittert på at han kjøpte robotstøvsuger.</itunes:summary>
+      <itunes:duration>1221</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6k4le1rKun1YnfmFM3IpmAALrZ3bEPtK-khSxU3Tx_8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Hvilken bok skal Else gi ut?</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_763e5e08-cd9d-4f79-be5e-08cd9d1f7911</link>
+      <description>Bli med på avstemningen om Else skal gi ut «Year of the cock» eller «RensElse» om Lilli Bendriss.</description>
+      <guid isPermaLink="false">l_763e5e08-cd9d-4f79-be5e-08cd9d1f7911</guid>
+      <pubDate>Sat, 31 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/763e5e08-cd9d-4f79-be5e-08cd9d1f7911_ID192MP3.mp3" type="audio/mpeg" length="19671596"></enclosure>
+      <itunes:title>Hvilken bok skal Else gi ut?</itunes:title>
+      <itunes:summary>Bli med på avstemningen om Else skal gi ut «Year of the cock» eller «RensElse» om Lilli Bendriss.</itunes:summary>
+      <itunes:duration>819</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/IrJw0bFCEUVvjxHCy4f-pALNtzNHW4s9Bb3GcNsyn3xw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Isbitkongen Kim Kolstad på besøk</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_46f04851-690e-4986-b048-51690e7986c1</link>
+      <description>Kim Kolstad, aka Jens August fra Hotel Cæsar, overrasker Markus og Else. Med seg har han en kasse isbiter.</description>
+      <guid isPermaLink="false">l_46f04851-690e-4986-b048-51690e7986c1</guid>
+      <pubDate>Fri, 30 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/46f04851-690e-4986-b048-51690e7986c1_ID192MP3.mp3" type="audio/mpeg" length="32789996"></enclosure>
+      <itunes:title>Isbitkongen Kim Kolstad på besøk</itunes:title>
+      <itunes:summary>Kim Kolstad, aka Jens August fra Hotel Cæsar, overrasker Markus og Else. Med seg har han en kasse isbiter.</itunes:summary>
+      <itunes:duration>1366</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Kalte feil fyr «feite faen»</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_4b6d128c-9896-4add-ad12-8c9896fadd78</link>
+      <description>Markus gjorde en megatabbe da han trodde han så en bekjent på gata.</description>
+      <guid isPermaLink="false">l_4b6d128c-9896-4add-ad12-8c9896fadd78</guid>
+      <pubDate>Thu, 29 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/4b6d128c-9896-4add-ad12-8c9896fadd78_ID192MP3.mp3" type="audio/mpeg" length="22468076"></enclosure>
+      <itunes:title>Kalte feil fyr «feite faen»</itunes:title>
+      <itunes:summary>Markus gjorde en megatabbe da han trodde han så en bekjent på gata.</itunes:summary>
+      <itunes:duration>936</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_2xaAXEb60FazUruY_IQqQh4dsVPns_C26Aoy21H11-w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Slik forlater du en fest</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_873acb87-1b81-415e-bacb-871b81d15e07</link>
+      <description>Markus løser et problem vi alle kan slite med: Hvordan forlate en pågående fest?</description>
+      <guid isPermaLink="false">l_873acb87-1b81-415e-bacb-871b81d15e07</guid>
+      <pubDate>Wed, 28 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/873acb87-1b81-415e-bacb-871b81d15e07_ID192MP3.mp3" type="audio/mpeg" length="27310508"></enclosure>
+      <itunes:title>Slik forlater du en fest</itunes:title>
+      <itunes:summary>Markus løser et problem vi alle kan slite med: Hvordan forlate en pågående fest?</itunes:summary>
+      <itunes:duration>1137</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Hvorfor har dere så store hoder?</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_e25a5cf3-8115-4556-9a5c-f38115b556a3</link>
+      <description>En lytter lurer på om hodene til Markus og Else er redigert. Det er klart for spørsmål og svar!</description>
+      <guid isPermaLink="false">l_e25a5cf3-8115-4556-9a5c-f38115b556a3</guid>
+      <pubDate>Sat, 24 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/e25a5cf3-8115-4556-9a5c-f38115b556a3_ID192MP3.mp3" type="audio/mpeg" length="22748012"></enclosure>
+      <itunes:title>Hvorfor har dere så store hoder?</itunes:title>
+      <itunes:summary>En lytter lurer på om hodene til Markus og Else er redigert. Det er klart for spørsmål og svar!</itunes:summary>
+      <itunes:duration>947</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/IrJw0bFCEUVvjxHCy4f-pALNtzNHW4s9Bb3GcNsyn3xw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Hakk den jævla løken</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_990836bf-3112-4e7e-8836-bf3112ee7e4a</link>
+      <description>Markus har med kniv, skjærebrett og en løk til Else. Hun har ikke hakket løk de siste ti åra og trenger hjelp med matlagingen.</description>
+      <guid isPermaLink="false">l_990836bf-3112-4e7e-8836-bf3112ee7e4a</guid>
+      <pubDate>Fri, 23 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/990836bf-3112-4e7e-8836-bf3112ee7e4a_ID192MP3.mp3" type="audio/mpeg" length="27750572"></enclosure>
+      <itunes:title>Hakk den jævla løken</itunes:title>
+      <itunes:summary>Markus har med kniv, skjærebrett og en løk til Else. Hun har ikke hakket løk de siste ti åra og trenger hjelp med matlagingen.</itunes:summary>
+      <itunes:duration>1156</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>«Venner» fra tekst-TV</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_eb4711e8-0cbb-47fa-8711-e80cbb47fadb</link>
+      <description>Else var 14 år da hun inviterte venner på besøk gjennom tekst-TV. De var mye eldre enn henne og fra Holmlia.</description>
+      <guid isPermaLink="false">l_eb4711e8-0cbb-47fa-8711-e80cbb47fadb</guid>
+      <pubDate>Thu, 22 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/eb4711e8-0cbb-47fa-8711-e80cbb47fadb_ID192MP3.mp3" type="audio/mpeg" length="31816556"></enclosure>
+      <itunes:title>«Venner» fra tekst-TV</itunes:title>
+      <itunes:summary>Else var 14 år da hun inviterte venner på besøk gjennom tekst-TV. De var mye eldre enn henne og fra Holmlia.</itunes:summary>
+      <itunes:duration>1325</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_2xaAXEb60FazUruY_IQqQh4dsVPns_C26Aoy21H11-w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Lillebolla og påleggsmaskinen</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_0d5ab63f-e183-49cb-9ab6-3fe183b9cb4c</link>
+      <description>Else ringer søstera for å finne ut hvem hun var i 2016 og Markus har sett tidenes villeste fotballkamp.</description>
+      <guid isPermaLink="false">l_0d5ab63f-e183-49cb-9ab6-3fe183b9cb4c</guid>
+      <pubDate>Wed, 21 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/0d5ab63f-e183-49cb-9ab6-3fe183b9cb4c_1_ID192MP3.mp3" type="audio/mpeg" length="31743404"></enclosure>
+      <itunes:title>Lillebolla og påleggsmaskinen</itunes:title>
+      <itunes:summary>Else ringer søstera for å finne ut hvem hun var i 2016 og Markus har sett tidenes villeste fotballkamp.</itunes:summary>
+      <itunes:duration>1322</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6k4le1rKun1YnfmFM3IpmAALrZ3bEPtK-khSxU3Tx_8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Den rappende lærer</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_e1e43e8d-19bc-4681-a43e-8d19bcd6811d</link>
+      <description>Else og Markus ringer Maren, læreren fra Haugenstua, som rappet under et sceneshow. «Tør å stå i ingen respons», er hennes beste tips.</description>
+      <guid isPermaLink="false">l_e1e43e8d-19bc-4681-a43e-8d19bcd6811d</guid>
+      <pubDate>Sat, 17 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/e1e43e8d-19bc-4681-a43e-8d19bcd6811d_ID192MP3.mp3" type="audio/mpeg" length="29421548"></enclosure>
+      <itunes:title>Den rappende lærer</itunes:title>
+      <itunes:summary>Else og Markus ringer Maren, læreren fra Haugenstua, som rappet under et sceneshow. «Tør å stå i ingen respons», er hennes beste tips.</itunes:summary>
+      <itunes:duration>1225</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/IrJw0bFCEUVvjxHCy4f-pALNtzNHW4s9Bb3GcNsyn3xw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Norges ukjente tennishelt</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_f353b34d-8b7c-47b0-93b3-4d8b7c37b08d</link>
+      <description>Markus starter fanklubb for det kjente tennistalentet Viktor Durasovic, som blir så sint at han kaster racketen ut av stadion.</description>
+      <guid isPermaLink="false">l_f353b34d-8b7c-47b0-93b3-4d8b7c37b08d</guid>
+      <pubDate>Fri, 16 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/f353b34d-8b7c-47b0-93b3-4d8b7c37b08d_ID192MP3.mp3" type="audio/mpeg" length="32407532"></enclosure>
+      <itunes:title>Norges ukjente tennishelt</itunes:title>
+      <itunes:summary>Markus starter fanklubb for det kjente tennistalentet Viktor Durasovic, som blir så sint at han kaster racketen ut av stadion.</itunes:summary>
+      <itunes:duration>1350</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AzZ15Q-A8qB0pOotP8X3iAl2iSZEXZMm_D8-gV-Kfbpw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Lapp i postkassa: Så deg naken</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_a8175288-7246-41b1-9752-88724641b17d</link>
+      <description>Else får naboklage og Kåre Magnus Berg tar turen innom for å klage på museer.</description>
+      <guid isPermaLink="false">l_a8175288-7246-41b1-9752-88724641b17d</guid>
+      <pubDate>Thu, 15 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/a8175288-7246-41b1-9752-88724641b17d_ID192MP3.mp3" type="audio/mpeg" length="35614700"></enclosure>
+      <itunes:title>Lapp i postkassa: Så deg naken</itunes:title>
+      <itunes:summary>Else får naboklage og Kåre Magnus Berg tar turen innom for å klage på museer.</itunes:summary>
+      <itunes:duration>1483</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_2xaAXEb60FazUruY_IQqQh4dsVPns_C26Aoy21H11-w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Sheriff i NRK-korridoren</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_ad8d4eee-7340-41b0-8d4e-ee7340d1b075</link>
+      <description>Markus føler seg som skolens kuleste – på hils med alle NRK-kjendisene, mens Else skal lage mat selv for første gang i livet.</description>
+      <guid isPermaLink="false">l_ad8d4eee-7340-41b0-8d4e-ee7340d1b075</guid>
+      <pubDate>Wed, 14 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/ad8d4eee-7340-41b0-8d4e-ee7340d1b075_ID192MP3.mp3" type="audio/mpeg" length="26675180"></enclosure>
+      <itunes:title>Sheriff i NRK-korridoren</itunes:title>
+      <itunes:summary>Markus føler seg som skolens kuleste – på hils med alle NRK-kjendisene, mens Else skal lage mat selv for første gang i livet.</itunes:summary>
+      <itunes:duration>1111</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6k4le1rKun1YnfmFM3IpmAALrZ3bEPtK-khSxU3Tx_8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Silketruse-mysteriet er løst</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_76ac37f3-4f0f-4dda-ac37-f34f0feddae9</link>
+      <description>Else (og Tommy sikkert) takker en lytter for ro i sjelen. Markus viser hvordan han laget låt av Astrid S` nattlige nynning.</description>
+      <guid isPermaLink="false">l_76ac37f3-4f0f-4dda-ac37-f34f0feddae9</guid>
+      <pubDate>Sat, 10 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/76ac37f3-4f0f-4dda-ac37-f34f0feddae9_ID192MP3.mp3" type="audio/mpeg" length="22771628"></enclosure>
+      <itunes:title>Silketruse-mysteriet er løst</itunes:title>
+      <itunes:summary>Else (og Tommy sikkert) takker en lytter for ro i sjelen. Markus viser hvordan han laget låt av Astrid S` nattlige nynning.</itunes:summary>
+      <itunes:duration>948</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/IrJw0bFCEUVvjxHCy4f-pALNtzNHW4s9Bb3GcNsyn3xw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>– Du lever!</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_66c8b28b-87ee-4f50-88b2-8b87eebf5029</link>
+      <description>Tommy var ikke død allikevel. Markus rygger unna Ole Gunnar Solskjær. Og i Sanger-på-bestilling får lytter-babyen en ny scat!</description>
+      <guid isPermaLink="false">l_66c8b28b-87ee-4f50-88b2-8b87eebf5029</guid>
+      <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/66c8b28b-87ee-4f50-88b2-8b87eebf5029_ID192MP3.mp3" type="audio/mpeg" length="37160108"></enclosure>
+      <itunes:title>– Du lever!</itunes:title>
+      <itunes:summary>Tommy var ikke død allikevel. Markus rygger unna Ole Gunnar Solskjær. Og i Sanger-på-bestilling får lytter-babyen en ny scat!</itunes:summary>
+      <itunes:duration>1548</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AzZ15Q-A8qB0pOotP8X3iAl2iSZEXZMm_D8-gV-Kfbpw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Folk på gata say the darnest things!</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_5b470b4d-a7aa-4eeb-870b-4da7aaaeeb96</link>
+      <description>Else har blitt tatt for å være bestemor, Markus står i et kroppslig dilemma, og president Maduro har blitt en global moteinfluenser.</description>
+      <guid isPermaLink="false">l_5b470b4d-a7aa-4eeb-870b-4da7aaaeeb96</guid>
+      <pubDate>Thu, 08 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/5b470b4d-a7aa-4eeb-870b-4da7aaaeeb96_1_ID192MP3.mp3" type="audio/mpeg" length="34699436"></enclosure>
+      <itunes:title>Folk på gata say the darnest things!</itunes:title>
+      <itunes:summary>Else har blitt tatt for å være bestemor, Markus står i et kroppslig dilemma, og president Maduro har blitt en global moteinfluenser.</itunes:summary>
+      <itunes:duration>1445</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_2xaAXEb60FazUruY_IQqQh4dsVPns_C26Aoy21H11-w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Et nakent møte med bestemor</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_6a4c76f9-291c-4312-8c76-f9291c83125f</link>
+      <description>Else har fått rumpebriller, Markus har hatt et nakent julemøte, og en ny oppfinnelse kan gjøre verden til et bedre sted.</description>
+      <guid isPermaLink="false">l_6a4c76f9-291c-4312-8c76-f9291c83125f</guid>
+      <pubDate>Wed, 07 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/6a4c76f9-291c-4312-8c76-f9291c83125f_ID192MP3.mp3" type="audio/mpeg" length="30527468"></enclosure>
+      <itunes:title>Et nakent møte med bestemor</itunes:title>
+      <itunes:summary>Else har fått rumpebriller, Markus har hatt et nakent julemøte, og en ny oppfinnelse kan gjøre verden til et bedre sted.</itunes:summary>
+      <itunes:duration>1271</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6k4le1rKun1YnfmFM3IpmAALrZ3bEPtK-khSxU3Tx_8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>– Say you&#39;re my BITCH!</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_f416d2ac-e165-4170-96d2-ace165a17023</link>
+      <description>Elses verste nyttårsaften noensinne hendte på et White Party i Amsterdam. Etter dét er det på tide å spå 2026` gøyeste hendelser.</description>
+      <guid isPermaLink="false">l_f416d2ac-e165-4170-96d2-ace165a17023</guid>
+      <pubDate>Wed, 31 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/f416d2ac-e165-4170-96d2-ace165a17023_1_ID192MP3.mp3" type="audio/mpeg" length="31673132"></enclosure>
+      <itunes:title>– Say you&#39;re my BITCH!</itunes:title>
+      <itunes:summary>Elses verste nyttårsaften noensinne hendte på et White Party i Amsterdam. Etter dét er det på tide å spå 2026` gøyeste hendelser.</itunes:summary>
+      <itunes:duration>1319</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Julaften med gode venner!</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_2f62e70c-2f63-4b08-a2e7-0c2f630b082a</link>
+      <description>Hæ, en naken og langhårig mann i sandaler! Hvem var det egentlig Else møtte i ruskeværet julaften formiddag, på vei til kirka?</description>
+      <guid isPermaLink="false">l_2f62e70c-2f63-4b08-a2e7-0c2f630b082a</guid>
+      <pubDate>Wed, 24 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/2f62e70c-2f63-4b08-a2e7-0c2f630b082a_ID192MP3.mp3" type="audio/mpeg" length="32740460"></enclosure>
+      <itunes:title>Julaften med gode venner!</itunes:title>
+      <itunes:summary>Hæ, en naken og langhårig mann i sandaler! Hvem var det egentlig Else møtte i ruskeværet julaften formiddag, på vei til kirka?</itunes:summary>
+      <itunes:duration>1364</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Når pysjen må vaskes</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_aabc97d9-887f-4c81-bc97-d9887fcc81ea</link>
+      <description>..er jula over da? Lytterne spør også om beste avis til innpakking -og hvem som lettest får julestemning: spebarn eller demente?</description>
+      <guid isPermaLink="false">l_aabc97d9-887f-4c81-bc97-d9887fcc81ea</guid>
+      <pubDate>Sat, 20 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/aabc97d9-887f-4c81-bc97-d9887fcc81ea_ID192MP3.mp3" type="audio/mpeg" length="30690476"></enclosure>
+      <itunes:title>Når pysjen må vaskes</itunes:title>
+      <itunes:summary>..er jula over da? Lytterne spør også om beste avis til innpakking -og hvem som lettest får julestemning: spebarn eller demente?</itunes:summary>
+      <itunes:duration>1278</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/IrJw0bFCEUVvjxHCy4f-pALNtzNHW4s9Bb3GcNsyn3xw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>IKKE rope &#34;busk -BUSK!&#34;</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_b2be7aa4-fa0b-4618-be7a-a4fa0b46182b</link>
+      <description>Else tåler ikke krumspring rundt enebærbusken. Markus husker dagen da han ble mann.</description>
+      <guid isPermaLink="false">l_b2be7aa4-fa0b-4618-be7a-a4fa0b46182b</guid>
+      <pubDate>Fri, 19 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/b2be7aa4-fa0b-4618-be7a-a4fa0b46182b_ID192MP3.mp3" type="audio/mpeg" length="24480044"></enclosure>
+      <itunes:title>IKKE rope &#34;busk -BUSK!&#34;</itunes:title>
+      <itunes:summary>Else tåler ikke krumspring rundt enebærbusken. Markus husker dagen da han ble mann.</itunes:summary>
+      <itunes:duration>1019</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>– Tar vi det her eller utafor?</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_1d9e2a7a-28ac-4b8a-9e2a-7a28acdb8a89</link>
+      <description>Markus får en utfordring på bygdefest. Else OG Hanne Krogh synger julen inn, men på hvert sitt vis.</description>
+      <guid isPermaLink="false">l_1d9e2a7a-28ac-4b8a-9e2a-7a28acdb8a89</guid>
+      <pubDate>Thu, 18 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/1d9e2a7a-28ac-4b8a-9e2a-7a28acdb8a89_ID192MP3.mp3" type="audio/mpeg" length="33580268"></enclosure>
+      <itunes:title>– Tar vi det her eller utafor?</itunes:title>
+      <itunes:summary>Markus får en utfordring på bygdefest. Else OG Hanne Krogh synger julen inn, men på hvert sitt vis.</itunes:summary>
+      <itunes:duration>1399</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_2xaAXEb60FazUruY_IQqQh4dsVPns_C26Aoy21H11-w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Elses vondeste juleminne</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_e72d718c-efb1-4df1-ad71-8cefb15df169</link>
+      <description>..er noe som skjedde sammen med Markus. Men i dagens episode skapes også nye gode juleminner, ved hjelp av fantastisk teknologi.</description>
+      <guid isPermaLink="false">l_e72d718c-efb1-4df1-ad71-8cefb15df169</guid>
+      <pubDate>Wed, 17 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/e72d718c-efb1-4df1-ad71-8cefb15df169_ID192MP3.mp3" type="audio/mpeg" length="28171628"></enclosure>
+      <itunes:title>Elses vondeste juleminne</itunes:title>
+      <itunes:summary>..er noe som skjedde sammen med Markus. Men i dagens episode skapes også nye gode juleminner, ved hjelp av fantastisk teknologi.</itunes:summary>
+      <itunes:duration>1173</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6k4le1rKun1YnfmFM3IpmAALrZ3bEPtK-khSxU3Tx_8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Jul med pappas nye pulevenn</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_e1285fc0-f5e8-4022-a85f-c0f5e800220e</link>
+      <description>Markus og lytter Håvard lager DEN ALLER TRISTESTE JULELÅTA™, om en litt spesiell feiring. Else har spist banan på Lillestrøm.</description>
+      <guid isPermaLink="false">l_e1285fc0-f5e8-4022-a85f-c0f5e800220e</guid>
+      <pubDate>Sat, 13 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/e1285fc0-f5e8-4022-a85f-c0f5e800220e_ID192MP3.mp3" type="audio/mpeg" length="29192300"></enclosure>
+      <itunes:title>Jul med pappas nye pulevenn</itunes:title>
+      <itunes:summary>Markus og lytter Håvard lager DEN ALLER TRISTESTE JULELÅTA™, om en litt spesiell feiring. Else har spist banan på Lillestrøm.</itunes:summary>
+      <itunes:duration>1216</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/IrJw0bFCEUVvjxHCy4f-pALNtzNHW4s9Bb3GcNsyn3xw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Else har en tvangstanke</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_5fb2a045-366f-4d66-b2a0-45366f7d6649</link>
+      <description>..og Markus må hjelpe til. Sjøl har han fugle-angst, og har lært mye av dét. Også blir det sanger på bestilling, om migrene!</description>
+      <guid isPermaLink="false">l_5fb2a045-366f-4d66-b2a0-45366f7d6649</guid>
+      <pubDate>Fri, 12 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/5fb2a045-366f-4d66-b2a0-45366f7d6649_ID192MP3.mp3" type="audio/mpeg" length="35652716"></enclosure>
+      <itunes:title>Else har en tvangstanke</itunes:title>
+      <itunes:summary>..og Markus må hjelpe til. Sjøl har han fugle-angst, og har lært mye av dét. Også blir det sanger på bestilling, om migrene!</itunes:summary>
+      <itunes:duration>1485</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AzZ15Q-A8qB0pOotP8X3iAl2iSZEXZMm_D8-gV-Kfbpw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Den nye Fredrik Solvang</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_49bd0a59-d7ae-4954-bd0a-59d7ae3954e9</link>
+      <description>Markus mener han har funnet den rette mannen til å ta over for Fredrik Solvang.</description>
+      <guid isPermaLink="false">l_49bd0a59-d7ae-4954-bd0a-59d7ae3954e9</guid>
+      <pubDate>Thu, 11 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/49bd0a59-d7ae-4954-bd0a-59d7ae3954e9_ID192MP3.mp3" type="audio/mpeg" length="29533292"></enclosure>
+      <itunes:title>Den nye Fredrik Solvang</itunes:title>
+      <itunes:summary>Markus mener han har funnet den rette mannen til å ta over for Fredrik Solvang.</itunes:summary>
+      <itunes:duration>1230</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Markus blir sjalu</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_68b0d34e-29fc-4596-b0d3-4e29fc7596a4</link>
+      <description>Kjæresten til Markus mener Morgan Schneiderlin skylder henne en middag hvis Norge slår Frankrike. Det liker Markus dårlig. Svært dårlig.</description>
+      <guid isPermaLink="false">l_68b0d34e-29fc-4596-b0d3-4e29fc7596a4</guid>
+      <pubDate>Wed, 10 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/68b0d34e-29fc-4596-b0d3-4e29fc7596a4_ID192MP3.mp3" type="audio/mpeg" length="34923500"></enclosure>
+      <itunes:title>Markus blir sjalu</itunes:title>
+      <itunes:summary>Kjæresten til Markus mener Morgan Schneiderlin skylder henne en middag hvis Norge slår Frankrike. Det liker Markus dårlig. Svært dårlig.</itunes:summary>
+      <itunes:duration>1455</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Spørsmål og svar</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_770a49bf-afa9-4414-8a49-bfafa99414fd</link>
+      <description>– Synger dere om snopp eller snop? Og kommer det merch? Markus og Else svarer.</description>
+      <guid isPermaLink="false">l_770a49bf-afa9-4414-8a49-bfafa99414fd</guid>
+      <pubDate>Sat, 06 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/770a49bf-afa9-4414-8a49-bfafa99414fd_1_ID192MP3.mp3" type="audio/mpeg" length="27539756"></enclosure>
+      <itunes:title>Spørsmål og svar</itunes:title>
+      <itunes:summary>– Synger dere om snopp eller snop? Og kommer det merch? Markus og Else svarer.</itunes:summary>
+      <itunes:duration>1147</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Norges største kjendiskart</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_70198061-4eb4-42f6-9980-614eb4c2f605</link>
+      <description>Snart har alle kjendiser møtt hverandre i reality-TV-serier. Markus lager et kart for å få de siste brikkene på plass.</description>
+      <guid isPermaLink="false">l_70198061-4eb4-42f6-9980-614eb4c2f605</guid>
+      <pubDate>Fri, 05 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/70198061-4eb4-42f6-9980-614eb4c2f605_ID192MP3.mp3" type="audio/mpeg" length="31455404"></enclosure>
+      <itunes:title>Norges største kjendiskart</itunes:title>
+      <itunes:summary>Snart har alle kjendiser møtt hverandre i reality-TV-serier. Markus lager et kart for å få de siste brikkene på plass.</itunes:summary>
+      <itunes:duration>1310</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Julebrusyoga og Elses oppgjør</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_f9051f91-95f8-479f-851f-9195f8c79fbe</link>
+      <description>Else tar et oppgjør med slanking, og Oral B kårer den beste julebrusen – og gjør yoga etterpå!</description>
+      <guid isPermaLink="false">l_f9051f91-95f8-479f-851f-9195f8c79fbe</guid>
+      <pubDate>Thu, 04 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/f9051f91-95f8-479f-851f-9195f8c79fbe_ID192MP3.mp3" type="audio/mpeg" length="36575468"></enclosure>
+      <itunes:title>Julebrusyoga og Elses oppgjør</itunes:title>
+      <itunes:summary>Else tar et oppgjør med slanking, og Oral B kårer den beste julebrusen – og gjør yoga etterpå!</itunes:summary>
+      <itunes:duration>1523</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Snakkende aper og togporno</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_a9adf137-aa5d-4df6-adf1-37aa5d6df63b</link>
+      <description>Aper har skumle stemmer, Else tok medpassasjer på fersken i å se porno på toget, og Markus tapte i tennis – mot en 15-åring!</description>
+      <guid isPermaLink="false">l_a9adf137-aa5d-4df6-adf1-37aa5d6df63b</guid>
+      <pubDate>Wed, 03 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/a9adf137-aa5d-4df6-adf1-37aa5d6df63b_ID192MP3.mp3" type="audio/mpeg" length="30357548"></enclosure>
+      <itunes:title>Snakkende aper og togporno</itunes:title>
+      <itunes:summary>Aper har skumle stemmer, Else tok medpassasjer på fersken i å se porno på toget, og Markus tapte i tennis – mot en 15-åring!</itunes:summary>
+      <itunes:duration>1264</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Mystisk midtskill</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_016b3afb-e576-47b7-ab3a-fbe57657b785</link>
+      <description>Er Mikkel Nivas midtskill i «Nissene i skjul» et tegn på en snedig parodi av Markus Neby, eller er det en vennlig hyllest?</description>
+      <guid isPermaLink="false">l_016b3afb-e576-47b7-ab3a-fbe57657b785</guid>
+      <pubDate>Sat, 29 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/016b3afb-e576-47b7-ab3a-fbe57657b785_ID192MP3.mp3" type="audio/mpeg" length="29555180"></enclosure>
+      <itunes:title>Mystisk midtskill</itunes:title>
+      <itunes:summary>Er Mikkel Nivas midtskill i «Nissene i skjul» et tegn på en snedig parodi av Markus Neby, eller er det en vennlig hyllest?</itunes:summary>
+      <itunes:duration>1231</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Konekravliste og Ålesund biljardklubb</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_e085a3a3-ba8e-4807-85a3-a3ba8ec8073a</link>
+      <description>Else dykker ned i den mest spesifikke kravlisten til en fremtidig kone, og Markus vil teste ny musikalsk trappetrening.</description>
+      <guid isPermaLink="false">l_e085a3a3-ba8e-4807-85a3-a3ba8ec8073a</guid>
+      <pubDate>Fri, 28 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/e085a3a3-ba8e-4807-85a3-a3ba8ec8073a_ID192MP3.mp3" type="audio/mpeg" length="38311532"></enclosure>
+      <itunes:title>Konekravliste og Ålesund biljardklubb</itunes:title>
+      <itunes:summary>Else dykker ned i den mest spesifikke kravlisten til en fremtidig kone, og Markus vil teste ny musikalsk trappetrening.</itunes:summary>
+      <itunes:duration>1596</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Elegant mann på Voi</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_27743996-62ef-4f91-b439-9662efcf91f0</link>
+      <description>Markus og Else er forferdet: – Hva skjer i samfunnet når elegante menn kjører Voi uten skam?</description>
+      <guid isPermaLink="false">l_27743996-62ef-4f91-b439-9662efcf91f0</guid>
+      <pubDate>Thu, 27 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/27743996-62ef-4f91-b439-9662efcf91f0_ID192MP3.mp3" type="audio/mpeg" length="23014124"></enclosure>
+      <itunes:title>Elegant mann på Voi</itunes:title>
+      <itunes:summary>Markus og Else er forferdet: – Hva skjer i samfunnet når elegante menn kjører Voi uten skam?</itunes:summary>
+      <itunes:duration>958</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Black week og Bjarne Brøndbo</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_f2896a67-6bc1-4ac7-896a-676bc1fac7b6</link>
+      <description>Markus har sett «Tiltalt» og ringer Bjarne Brøndbo for å konfrontere ham med et dobesøk. </description>
+      <guid isPermaLink="false">l_f2896a67-6bc1-4ac7-896a-676bc1fac7b6</guid>
+      <pubDate>Wed, 26 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/f2896a67-6bc1-4ac7-896a-676bc1fac7b6_1_ID192MP3.mp3" type="audio/mpeg" length="30767660"></enclosure>
+      <itunes:title>Black week og Bjarne Brøndbo</itunes:title>
+      <itunes:summary>Markus har sett «Tiltalt» og ringer Bjarne Brøndbo for å konfrontere ham med et dobesøk. </itunes:summary>
+      <itunes:duration>1281</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Blomster-Finn og Else-alarm</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_bfafe4df-1114-498e-afe4-df1114798ebd</link>
+      <description>Else ringer Blomster-Finn for å legge julepyntdiskusjonen død, en gang for alle.</description>
+      <guid isPermaLink="false">l_bfafe4df-1114-498e-afe4-df1114798ebd</guid>
+      <pubDate>Sat, 22 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/bfafe4df-1114-498e-afe4-df1114798ebd_ID192MP3.mp3" type="audio/mpeg" length="25776044"></enclosure>
+      <itunes:title>Blomster-Finn og Else-alarm</itunes:title>
+      <itunes:summary>Else ringer Blomster-Finn for å legge julepyntdiskusjonen død, en gang for alle.</itunes:summary>
+      <itunes:duration>1073</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>VM-låt med Ødegaard-synthesizer</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_ccc47593-3690-4459-8475-933690b45921</link>
+      <description>Markus har lagt Martin Ødegaards stemmesprekk inn i en synthesizer og laget nye VM-låter.</description>
+      <guid isPermaLink="false">l_ccc47593-3690-4459-8475-933690b45921</guid>
+      <pubDate>Fri, 21 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/ccc47593-3690-4459-8475-933690b45921_ID192MP3.mp3" type="audio/mpeg" length="37862252"></enclosure>
+      <itunes:title>VM-låt med Ødegaard-synthesizer</itunes:title>
+      <itunes:summary>Markus har lagt Martin Ødegaards stemmesprekk inn i en synthesizer og laget nye VM-låter.</itunes:summary>
+      <itunes:duration>1577</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Moppe-Trude</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_08e61a0c-e304-4aa8-a61a-0ce3047aa861</link>
+      <description>Markus viser fingeren i trafikken, Fanny tror bursdag er fridag, og Trude Drevland har gummihansker på.</description>
+      <guid isPermaLink="false">l_08e61a0c-e304-4aa8-a61a-0ce3047aa861</guid>
+      <pubDate>Thu, 20 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/08e61a0c-e304-4aa8-a61a-0ce3047aa861_ID192MP3.mp3" type="audio/mpeg" length="35494316"></enclosure>
+      <itunes:title>Moppe-Trude</itunes:title>
+      <itunes:summary>Markus viser fingeren i trafikken, Fanny tror bursdag er fridag, og Trude Drevland har gummihansker på.</itunes:summary>
+      <itunes:duration>1478</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Krabbemat og VM-brannfakler</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_9f927497-d01d-4b4c-9274-97d01d3b4cf3</link>
+      <description>Kan du ingenting om fotball? Else har løsningen, og Markus overrasker med hemmelig gjest. </description>
+      <guid isPermaLink="false">l_9f927497-d01d-4b4c-9274-97d01d3b4cf3</guid>
+      <pubDate>Wed, 19 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/9f927497-d01d-4b4c-9274-97d01d3b4cf3_ID192MP3.mp3" type="audio/mpeg" length="36940076"></enclosure>
+      <itunes:title>Krabbemat og VM-brannfakler</itunes:title>
+      <itunes:summary>Kan du ingenting om fotball? Else har løsningen, og Markus overrasker med hemmelig gjest. </itunes:summary>
+      <itunes:duration>1539</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Spørsmål og svar, fa-la-la!</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_b46953d3-db3e-446f-a953-d3db3e746f1f</link>
+      <description>Markus og Else svarer ut om powernaps, fyllehistorier og når de koser seg aller mest. </description>
+      <guid isPermaLink="false">l_b46953d3-db3e-446f-a953-d3db3e746f1f</guid>
+      <pubDate>Sat, 15 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/b46953d3-db3e-446f-a953-d3db3e746f1f_ID192MP3.mp3" type="audio/mpeg" length="27096812"></enclosure>
+      <itunes:title>Spørsmål og svar, fa-la-la!</itunes:title>
+      <itunes:summary>Markus og Else svarer ut om powernaps, fyllehistorier og når de koser seg aller mest. </itunes:summary>
+      <itunes:duration>1128</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Else vil kuppe jula</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_9ff83343-2566-45f0-b833-43256665f090</link>
+      <description>Mannen til Else mener akevitt er den eneste adekvate julepynt. Skal hun trosse ham?</description>
+      <guid isPermaLink="false">l_9ff83343-2566-45f0-b833-43256665f090</guid>
+      <pubDate>Fri, 14 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/9ff83343-2566-45f0-b833-43256665f090_ID192MP3.mp3" type="audio/mpeg" length="35899820"></enclosure>
+      <itunes:title>Else vil kuppe jula</itunes:title>
+      <itunes:summary>Mannen til Else mener akevitt er den eneste adekvate julepynt. Skal hun trosse ham?</itunes:summary>
+      <itunes:duration>1495</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Dan Børge og jafs av penis</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_547baf65-5dbb-4625-bbaf-655dbb6625f5</link>
+      <description>Else ringer sin pensjonerte legepappa, som sjokkerer med penishistorie.</description>
+      <guid isPermaLink="false">l_547baf65-5dbb-4625-bbaf-655dbb6625f5</guid>
+      <pubDate>Thu, 13 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/547baf65-5dbb-4625-bbaf-655dbb6625f5_2_ID192MP3.mp3" type="audio/mpeg" length="24584300"></enclosure>
+      <itunes:title>Dan Børge og jafs av penis</itunes:title>
+      <itunes:summary>Else ringer sin pensjonerte legepappa, som sjokkerer med penishistorie.</itunes:summary>
+      <itunes:duration>1024</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Mysteriet med den blå trusa</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_649f5d01-c6d1-452a-9f5d-01c6d1252afa</link>
+      <description>Mens Markus lager verdens tristeste julesanger, gjør Else et sjokkfunn i vaskekjelleren.</description>
+      <guid isPermaLink="false">l_649f5d01-c6d1-452a-9f5d-01c6d1252afa</guid>
+      <pubDate>Wed, 12 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/649f5d01-c6d1-452a-9f5d-01c6d1252afa_ID192MP3.mp3" type="audio/mpeg" length="33489260"></enclosure>
+      <itunes:title>Mysteriet med den blå trusa</itunes:title>
+      <itunes:summary>Mens Markus lager verdens tristeste julesanger, gjør Else et sjokkfunn i vaskekjelleren.</itunes:summary>
+      <itunes:duration>1395</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Verdens lengste jingle</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_098d41f9-2112-43fb-8d41-f92112c3fbc5</link>
+      <description>Markus har laget en altfor lang jingle til spørsmål og svar-spalten.</description>
+      <guid isPermaLink="false">l_098d41f9-2112-43fb-8d41-f92112c3fbc5</guid>
+      <pubDate>Sat, 08 Nov 2025 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/098d41f9-2112-43fb-8d41-f92112c3fbc5_ID192MP3.mp3" type="audio/mpeg" length="20424428"></enclosure>
+      <itunes:title>Verdens lengste jingle</itunes:title>
+      <itunes:summary>Markus har laget en altfor lang jingle til spørsmål og svar-spalten.</itunes:summary>
+      <itunes:duration>850</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Elses villeste fyllehistorie</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_1deceb88-4199-47df-aceb-884199c7dfcb</link>
+      <description>Markus og Else lager sanger til lytterne, og Else byr på sin sykeste fyllehistorie fra New York.</description>
+      <guid isPermaLink="false">l_1deceb88-4199-47df-aceb-884199c7dfcb</guid>
+      <pubDate>Fri, 07 Nov 2025 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/1deceb88-4199-47df-aceb-884199c7dfcb_ID192MP3.mp3" type="audio/mpeg" length="42463340"></enclosure>
+      <itunes:title>Elses villeste fyllehistorie</itunes:title>
+      <itunes:summary>Markus og Else lager sanger til lytterne, og Else byr på sin sykeste fyllehistorie fra New York.</itunes:summary>
+      <itunes:duration>1769</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Julekort fra fødestua</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_c1670a7c-b808-40a9-a70a-7cb80810a967</link>
+      <description>Elses stalker flyttet etter henne til Sandefjord, og Markus dro frem kameraet på fødestua – litt for tidlig. </description>
+      <guid isPermaLink="false">l_c1670a7c-b808-40a9-a70a-7cb80810a967</guid>
+      <pubDate>Thu, 06 Nov 2025 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/c1670a7c-b808-40a9-a70a-7cb80810a967_1_ID192MP3.mp3" type="audio/mpeg" length="29771180"></enclosure>
+      <itunes:title>Julekort fra fødestua</itunes:title>
+      <itunes:summary>Elses stalker flyttet etter henne til Sandefjord, og Markus dro frem kameraet på fødestua – litt for tidlig. </itunes:summary>
+      <itunes:duration>1240</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Premiere på Markus &amp; Else</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_224b1931-fa8e-4fee-8b19-31fa8e4feec7</link>
+      <description>Hvordan gi premieren en kickstart? Jo, vi ringer Bjørn Eidsvåg og ber ham endre teksten på «Skyfri himmel».</description>
+      <guid isPermaLink="false">l_224b1931-fa8e-4fee-8b19-31fa8e4feec7</guid>
+      <pubDate>Wed, 05 Nov 2025 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/224b1931-fa8e-4fee-8b19-31fa8e4feec7_ID192MP3.mp3" type="audio/mpeg" length="30976748"></enclosure>
+      <itunes:title>Premiere på Markus &amp; Else</itunes:title>
+      <itunes:summary>Hvordan gi premieren en kickstart? Jo, vi ringer Bjørn Eidsvåg og ber ham endre teksten på «Skyfri himmel».</itunes:summary>
+      <itunes:duration>1290</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Smakebit: Markus &amp; Else</title>
+      <link>https://radio.nrk.no/podkast/markus_else/l_2dc68340-04ba-4a66-8683-4004ba8a66d7</link>
+      <description>Markus og Else har premiere onsdag 5. november og kommer hver uke, onsdag til lørdag. </description>
+      <guid isPermaLink="false">l_2dc68340-04ba-4a66-8683-4004ba8a66d7</guid>
+      <pubDate>Tue, 28 Oct 2025 11:15:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/markus_else/2dc68340-04ba-4a66-8683-4004ba8a66d7_ID192MP3.mp3" type="audio/mpeg" length="1452716"></enclosure>
+      <itunes:title>Smakebit: Markus &amp; Else</itunes:title>
+      <itunes:summary>Markus og Else har premiere onsdag 5. november og kommer hver uke, onsdag til lørdag. </itunes:summary>
+      <itunes:duration>60</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JmQ0jxCv4R8TxLzka6s1SAy0ZVEBk23OZhhYrEgQo0HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+  </channel>
+</rss>

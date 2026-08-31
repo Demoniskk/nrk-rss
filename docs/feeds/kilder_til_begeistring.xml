@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kilder til begeistring</title>
+    <link>https://radio.nrk.no/podkast/kilder_til_begeistring</link>
+    <description>Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Mon, 24 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kilder_til_begeistring.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/EoJT_rdzPpGdMqizVACGzAM8B8-ytYf6_dcK0t68D1UA"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/EoJT_rdzPpGdMqizVACGzAM8B8-ytYf6_dcK0t68D1UA</url>
+      <title>Kilder til begeistring</title>
+      <link>https://radio.nrk.no/podkast/kilder_til_begeistring</link>
+    </image>
+    <item>
+      <title>Fremmede som tøyser med småbarn</title>
+      <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_81e089c9-503f-455e-a089-c9503f655e2b</link>
+      <description>Du sitter på venterommet idet en kvinne med en barnevogn kommer inn.</description>
+      <guid isPermaLink="false">l_81e089c9-503f-455e-a089-c9503f655e2b</guid>
+      <pubDate>Mon, 24 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kilder_til_begeistring/81e089c9-503f-455e-a089-c9503f655e2b_1_ID192MP3.mp3" type="audio/mpeg" length="2290220"></enclosure>
+      <itunes:title>Fremmede som tøyser med småbarn</itunes:title>
+      <itunes:summary>Du sitter på venterommet idet en kvinne med en barnevogn kommer inn.</itunes:summary>
+      <itunes:duration>95</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EoJT_rdzPpGdMqizVACGzAM8B8-ytYf6_dcK0t68D1UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Å sette inn en USB-kabel riktig vei på første forsøk</title>
+      <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_b76bdde2-cc3c-49c0-abdd-e2cc3c29c0c1</link>
+      <description>Mennesker er født late. Naturen ville ikke at vi skulle sløse med energi på savannen. Men så finnes det USB-kabler.</description>
+      <guid isPermaLink="false">l_b76bdde2-cc3c-49c0-abdd-e2cc3c29c0c1</guid>
+      <pubDate>Mon, 17 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kilder_til_begeistring/b76bdde2-cc3c-49c0-abdd-e2cc3c29c0c1_1_ID192MP3.mp3" type="audio/mpeg" length="2515436"></enclosure>
+      <itunes:title>Å sette inn en USB-kabel riktig vei på første forsøk</itunes:title>
+      <itunes:summary>Mennesker er født late. Naturen ville ikke at vi skulle sløse med energi på savannen. Men så finnes det USB-kabler.</itunes:summary>
+      <itunes:duration>104</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EoJT_rdzPpGdMqizVACGzAM8B8-ytYf6_dcK0t68D1UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+  </channel>
+</rss>

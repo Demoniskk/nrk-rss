@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radioteatret</title>
+    <link>https://radio.nrk.no/podkast/radioteatret</link>
+    <description>Forsvinn i spennende og engasjerende historier laget av NRKs radioteater. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Thu, 24 Dec 2020 10:52:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/radioteatret.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Forsvinn i spennende og engasjerende historier laget av NRKs radioteater. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/vfe2FoMuWueIstUS-4HvBwYI3GEhujWJ7Hfs1i6JxxRg"></itunes:image>
+    <itunes:category text="Fiction"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/vfe2FoMuWueIstUS-4HvBwYI3GEhujWJ7Hfs1i6JxxRg</url>
+      <title>Radioteatret</title>
+      <link>https://radio.nrk.no/podkast/radioteatret</link>
+    </image>
+    <item>
+      <title>En virkelig kvinne: Drømmedame (8:8)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_4701dfd0-0a83-4e43-81df-d00a83de43e9</link>
+      <description>Jens foreslår å pause alle graviditetsforsøk. Det for uante konsekvenser</description>
+      <guid isPermaLink="false">l_4701dfd0-0a83-4e43-81df-d00a83de43e9</guid>
+      <pubDate>Thu, 24 Dec 2020 11:52:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/254e5349-b671-47c6-88f4-8b20e5a557e2_0_ID192MP3.mp3" type="audio/mpeg" length="27772116"></enclosure>
+      <itunes:title>En virkelig kvinne: Drømmedame (8:8)</itunes:title>
+      <itunes:summary>Jens foreslår å pause alle graviditetsforsøk. Det for uante konsekvenser</itunes:summary>
+      <itunes:duration>1157</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vfe2FoMuWueIstUS-4HvBwYI3GEhujWJ7Hfs1i6JxxRg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En virkelig kvinne: Upasteurisert ost (7:8) </title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_2f71a3a6-a22f-4cd6-b1a3-a6a22f7cd699</link>
+      <description>Jens sin gravide lillesøster kommer på besøk. Det gjør Maria sjalu og enda mer desperat. </description>
+      <guid isPermaLink="false">l_2f71a3a6-a22f-4cd6-b1a3-a6a22f7cd699</guid>
+      <pubDate>Thu, 24 Dec 2020 11:51:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/6d015dc9-8bc5-4f09-8892-c095e720fe6f_0_ID192MP3.mp3" type="audio/mpeg" length="22241364"></enclosure>
+      <itunes:title>En virkelig kvinne: Upasteurisert ost (7:8) </itunes:title>
+      <itunes:summary>Jens sin gravide lillesøster kommer på besøk. Det gjør Maria sjalu og enda mer desperat. </itunes:summary>
+      <itunes:duration>926</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vfe2FoMuWueIstUS-4HvBwYI3GEhujWJ7Hfs1i6JxxRg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En virkelig kvinne: Mor til mine barn (6:8) </title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_22154e2a-b966-4d06-954e-2ab966dd0681</link>
+      <description>Maria og Jens har sin første krangle utløst av deres barnløshet. Er forholdet i fare?</description>
+      <guid isPermaLink="false">l_22154e2a-b966-4d06-954e-2ab966dd0681</guid>
+      <pubDate>Thu, 24 Dec 2020 11:50:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/ac4ec1c7-6321-42dc-8e88-9622638d4910_0_ID192MP3.mp3" type="audio/mpeg" length="27822228"></enclosure>
+      <itunes:title>En virkelig kvinne: Mor til mine barn (6:8) </itunes:title>
+      <itunes:summary>Maria og Jens har sin første krangle utløst av deres barnløshet. Er forholdet i fare?</itunes:summary>
+      <itunes:duration>1159</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vfe2FoMuWueIstUS-4HvBwYI3GEhujWJ7Hfs1i6JxxRg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En virkelig kvinne: Barnefri (5:8) </title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_e61c755a-3177-404d-9c75-5a3177304de2</link>
+      <description>Hva skjer når Maria møter en dame som har valgt å ikke få barn? </description>
+      <guid isPermaLink="false">l_e61c755a-3177-404d-9c75-5a3177304de2</guid>
+      <pubDate>Thu, 24 Dec 2020 11:49:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/63f46a19-e9ba-433a-acd4-1431e62ac895_0_ID192MP3.mp3" type="audio/mpeg" length="27868890"></enclosure>
+      <itunes:title>En virkelig kvinne: Barnefri (5:8) </itunes:title>
+      <itunes:summary>Hva skjer når Maria møter en dame som har valgt å ikke få barn? </itunes:summary>
+      <itunes:duration>1161</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vfe2FoMuWueIstUS-4HvBwYI3GEhujWJ7Hfs1i6JxxRg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En virkelig kvinne: Gulleggene (4:8)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_26513955-952f-4df9-9139-55952fcdf929</link>
+      <description>Maria venter svar fra sykehuset om eggene har blitt befruktet. Hun snakker mer og mer med radioen. Begynner hun å bli gal?</description>
+      <guid isPermaLink="false">l_26513955-952f-4df9-9139-55952fcdf929</guid>
+      <pubDate>Thu, 24 Dec 2020 11:48:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/909afc57-9601-49e3-a3fe-d3b22a83a9e8_0_ID192MP3.mp3" type="audio/mpeg" length="20717850"></enclosure>
+      <itunes:title>En virkelig kvinne: Gulleggene (4:8)</itunes:title>
+      <itunes:summary>Maria venter svar fra sykehuset om eggene har blitt befruktet. Hun snakker mer og mer med radioen. Begynner hun å bli gal?</itunes:summary>
+      <itunes:duration>863</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vfe2FoMuWueIstUS-4HvBwYI3GEhujWJ7Hfs1i6JxxRg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En virkelig kvinne: Ha litt humor (3:8)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_342a3b61-54cb-4b24-aa3b-6154cb5b247d</link>
+      <description>Har alle forsøk på å få barn, gjort Maria blind på hva hun egentlig trenger? </description>
+      <guid isPermaLink="false">l_342a3b61-54cb-4b24-aa3b-6154cb5b247d</guid>
+      <pubDate>Thu, 24 Dec 2020 11:47:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/3ebebb4a-3b8e-43b6-baf8-985254277bb6_0_ID192MP3.mp3" type="audio/mpeg" length="24120282"></enclosure>
+      <itunes:title>En virkelig kvinne: Ha litt humor (3:8)</itunes:title>
+      <itunes:summary>Har alle forsøk på å få barn, gjort Maria blind på hva hun egentlig trenger? </itunes:summary>
+      <itunes:duration>1004</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vfe2FoMuWueIstUS-4HvBwYI3GEhujWJ7Hfs1i6JxxRg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En virkelig kvinne: Bivirkninger (2:8) </title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_6fe1f617-53d5-46b1-a1f6-1753d506b136</link>
+      <description>Hormonbehandlingen til Maria gir henne humørsvingninger. Da hjelper det ikke på psyken at Jens sine foreldre kommer på besøk, og at alle venninnen har barn. </description>
+      <guid isPermaLink="false">l_6fe1f617-53d5-46b1-a1f6-1753d506b136</guid>
+      <pubDate>Thu, 24 Dec 2020 11:46:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/e17cd9b9-2a14-43d5-8b8e-f52da569fec1_0_ID192MP3.mp3" type="audio/mpeg" length="23265498"></enclosure>
+      <itunes:title>En virkelig kvinne: Bivirkninger (2:8) </itunes:title>
+      <itunes:summary>Hormonbehandlingen til Maria gir henne humørsvingninger. Da hjelper det ikke på psyken at Jens sine foreldre kommer på besøk, og at alle venninnen har barn. </itunes:summary>
+      <itunes:duration>969</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vfe2FoMuWueIstUS-4HvBwYI3GEhujWJ7Hfs1i6JxxRg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En virkelig kvinne: Barn? (1:8)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_42690f71-5ad3-4cfd-a90f-715ad3ccfdf4</link>
+      <description>Marie og Jens ønsker seg barn, men utallige forsøk på å bli gravid er i ferd med å slite i stykker forholdet. Hvorfor er det så viktig for Marie å bli mor? Humordrama.</description>
+      <guid isPermaLink="false">l_42690f71-5ad3-4cfd-a90f-715ad3ccfdf4</guid>
+      <pubDate>Thu, 24 Dec 2020 11:45:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/8efc7581-a6a6-43a9-be6b-ce68fd629ec7_0_ID192MP3.mp3" type="audio/mpeg" length="23309268"></enclosure>
+      <itunes:title>En virkelig kvinne: Barn? (1:8)</itunes:title>
+      <itunes:summary>Marie og Jens ønsker seg barn, men utallige forsøk på å bli gravid er i ferd med å slite i stykker forholdet. Hvorfor er det så viktig for Marie å bli mor? Humordrama.</itunes:summary>
+      <itunes:duration>971</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vfe2FoMuWueIstUS-4HvBwmqSeNZQ5SdrHfs1i6JxxRg.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Made in Norway - Utstøtt (6:6)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_51c295f5-1fba-4487-8295-f51fbac4876e</link>
+      <description>En hendelse på liv og død tvinger Oda til å ta et oppgjør med seg selv - og de som har forsøkt å holde tilbake sannheten.&#xA;&#xA;Manusforfatter: Vegard Steiro Amundsen&#xA;Musikk: Sjur Miljeteig&#xA;Dramaturger: Mathias Calmeyer, Arne Barca, Steinar Berthelsen&#xA;Produsent: Hege Cathrine Beck Stabell&#xA;Lyddesign: Arne Barca&#xA;Regi: Steinar Berthelsen&#xA;&#xA;Skuespillere:&#xA;Oda Skar: Silje Storstein&#xA;Ståle Munkebye: Rolf Kristian Larsen&#xA;John Cooper: David Menkin&#xA;Gard Thune: Hallvard Holmen&#xA;Berit Moelv: Maria Bock&#xA;Per-Olav Paalsen: Kåre Conradi&#xA;Daniel Tømte: Bartek Kaminski&#xA;Anneli Rotvoll: Anna Dworak&#x9;&#xA;Åge Skar: Lasse Kolsrud&#xA;Margrete Skar: Kikki Stormo&#xA;Ingvild Nybakk: Ane Øverli&#xA;Ulrikke Munkebye: Kjersti Dalseide&#xA;Roy Gaines: Tony Totino&#xA;Forsvarssekretær: Julie Støp Husby&#xA;Sikkerhetsvakt: Jan Martin Johnsen</description>
+      <guid isPermaLink="false">l_51c295f5-1fba-4487-8295-f51fbac4876e</guid>
+      <pubDate>Wed, 11 Mar 2020 12:06:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/9c9f9c4b-ba04-4bec-976a-b3440de7a270_0_ID192MP3.mp3" type="audio/mpeg" length="46311849"></enclosure>
+      <itunes:title>Made in Norway - Utstøtt (6:6)</itunes:title>
+      <itunes:summary>En hendelse på liv og død tvinger Oda til å ta et oppgjør med seg selv - og de som har forsøkt å holde tilbake sannheten.&#xA;&#xA;Manusforfatter: Vegard Steiro Amundsen&#xA;Musikk: Sjur Miljeteig&#xA;Dramaturger: Mathias Calmeyer, Arne Barca, Steinar Berthelsen&#xA;Produsent: Hege Cathrine Beck Stabell&#xA;Lyddesign: Arne Barca&#xA;Regi: Steinar Berthelsen&#xA;&#xA;Skuespillere:&#xA;Oda Skar: Silje Storstein&#xA;Ståle Munkebye: Rolf Kristian Larsen&#xA;John Cooper: David Menkin&#xA;Gard Thune: Hallvard Holmen&#xA;Berit Moelv: Maria Bock&#xA;Per-Olav Paalsen: Kåre Conradi&#xA;Daniel Tømte: Bartek Kaminski&#xA;Anneli Rotvoll: Anna Dworak&#x9;&#xA;Åge Skar: Lasse Kolsrud&#xA;Margrete Skar: Kikki Stormo&#xA;Ingvild Nybakk: Ane Øverli&#xA;Ulrikke Munkebye: Kjersti Dalseide&#xA;Roy Gaines: Tony Totino&#xA;Forsvarssekretær: Julie Støp Husby&#xA;Sikkerhetsvakt: Jan Martin Johnsen</itunes:summary>
+      <itunes:duration>1929</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nOnM8G12AGxiWLFewBO5fAuIpvPSosG5RZrdifUJmh3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Made in Norway - Takket være krig (5:6)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_f59461c6-01cb-4843-9461-c601cb2843a6</link>
+      <description>Oda må innse at noen i hennes egen familie kanskje er med på å dekke over det som skjedde i Irak. Gjennom Daniel i UD kommer hun tettere på å finne svar, men settes samtidig i et voldsomt dilemma. Skal hun svikte sine nærmeste for å avsløre alt?&#xA;&#xA;Manusforfatter: Vegard Steiro Amundsen&#xA;Musikk: Sjur Miljeteig&#xA;Dramaturger: Mathias Calmeyer, Arne Barca, Steinar Berthelsen&#xA;Produsent: Hege Cathrine Beck Stabell&#xA;Lyddesign: Arne Barca&#xA;Regi: Steinar Berthelsen&#xA;&#xA;Skuespillere:&#xA;Oda Skar: Silje Storstein&#xA;Ståle Munkebye: Rolf Kristian Larsen&#xA;John Cooper: David Menkin&#xA;Gard Thune: Hallvard Holmen&#xA;Berit Moelv: Maria Bock&#xA;Per-Olav Paalsen: Kåre Conradi&#xA;Daniel Tømte: Bartek Kaminski&#xA;Anneli Rotvoll: Anna Dworak&#x9;&#xA;Åge Skar: Lasse Kolsrud&#xA;Margrete Skar: Kikki Stormo&#xA;Ingvild Nybakk: Ane Øverli&#xA;Ulrikke Munkebye: Kjersti Dalseide&#xA;Roy Gaines: Tony Totino&#xA;Forsvarssekretær: Julie Støp Husby&#xA;Sikkerhetsvakt: Jan Martin Johnsen</description>
+      <guid isPermaLink="false">l_f59461c6-01cb-4843-9461-c601cb2843a6</guid>
+      <pubDate>Wed, 11 Mar 2020 12:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/fe5987e7-f149-42f5-96b7-7e8bda6e83e3_0_ID192MP3.mp3" type="audio/mpeg" length="41614569"></enclosure>
+      <itunes:title>Made in Norway - Takket være krig (5:6)</itunes:title>
+      <itunes:summary>Oda må innse at noen i hennes egen familie kanskje er med på å dekke over det som skjedde i Irak. Gjennom Daniel i UD kommer hun tettere på å finne svar, men settes samtidig i et voldsomt dilemma. Skal hun svikte sine nærmeste for å avsløre alt?&#xA;&#xA;Manusforfatter: Vegard Steiro Amundsen&#xA;Musikk: Sjur Miljeteig&#xA;Dramaturger: Mathias Calmeyer, Arne Barca, Steinar Berthelsen&#xA;Produsent: Hege Cathrine Beck Stabell&#xA;Lyddesign: Arne Barca&#xA;Regi: Steinar Berthelsen&#xA;&#xA;Skuespillere:&#xA;Oda Skar: Silje Storstein&#xA;Ståle Munkebye: Rolf Kristian Larsen&#xA;John Cooper: David Menkin&#xA;Gard Thune: Hallvard Holmen&#xA;Berit Moelv: Maria Bock&#xA;Per-Olav Paalsen: Kåre Conradi&#xA;Daniel Tømte: Bartek Kaminski&#xA;Anneli Rotvoll: Anna Dworak&#x9;&#xA;Åge Skar: Lasse Kolsrud&#xA;Margrete Skar: Kikki Stormo&#xA;Ingvild Nybakk: Ane Øverli&#xA;Ulrikke Munkebye: Kjersti Dalseide&#xA;Roy Gaines: Tony Totino&#xA;Forsvarssekretær: Julie Støp Husby&#xA;Sikkerhetsvakt: Jan Martin Johnsen</itunes:summary>
+      <itunes:duration>1733</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nOnM8G12AGxiWLFewBO5fAuIpvPSosG5RZrdifUJmh3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Made in Norway - Begravelsen (4:6)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_7490937f-21e0-4c4a-9093-7f21e0ec4ace</link>
+      <description>I en opprørende begravelse gjenforenes Oda med sine nære kollegaer fra Irak. Det viser seg at flere bærer på hemmeligheter og skyldfølelse etter det som hendte.&#xA;&#xA;Manusforfatter: Vegard Steiro Amundsen&#xA;Musikk: Sjur Miljeteig&#xA;Dramaturger: Mathias Calmeyer, Arne Barca, Steinar Berthelsen&#xA;Produsent: Hege Cathrine Beck Stabell&#xA;Lyddesign: Arne Barca&#xA;Regi: Steinar Berthelsen&#xA;&#xA;Skuespillere&#x9;&#x9;&#x9;&#x9;&#x9;                                  &#xA;Oda Skar: Silje Storstein&#xA;Ståle Munkebye: Rolf Kristian Larsen&#xA;John Cooper: David Menkin&#xA;Gard Thune: Hallvard Holmen&#xA;Berit Moelv: Maria Bock&#xA;Per-Olav Paalsen: Kåre Conradi&#xA;Daniel Tømte: Bartek Kaminski&#xA;Anneli Rotvoll: Anna Dworak&#xA;Åge Skar: Lasse Kolsrud&#xA;Margrete Skar: Kikki Stormo&#xA;Henrik Skar: Petter Vermeli&#xA;Ingvild Nybakk: Ane Øverli&#xA;Ulrikke Munkebye: Kjersti Dalseide&#xA;Vigdis Ottosen: Ulla Broch</description>
+      <guid isPermaLink="false">l_7490937f-21e0-4c4a-9093-7f21e0ec4ace</guid>
+      <pubDate>Wed, 11 Mar 2020 12:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/e747efc2-6f3b-44b7-b941-878c8ea4eaa4_0_ID192MP3.mp3" type="audio/mpeg" length="37999593"></enclosure>
+      <itunes:title>Made in Norway - Begravelsen (4:6)</itunes:title>
+      <itunes:summary>I en opprørende begravelse gjenforenes Oda med sine nære kollegaer fra Irak. Det viser seg at flere bærer på hemmeligheter og skyldfølelse etter det som hendte.&#xA;&#xA;Manusforfatter: Vegard Steiro Amundsen&#xA;Musikk: Sjur Miljeteig&#xA;Dramaturger: Mathias Calmeyer, Arne Barca, Steinar Berthelsen&#xA;Produsent: Hege Cathrine Beck Stabell&#xA;Lyddesign: Arne Barca&#xA;Regi: Steinar Berthelsen&#xA;&#xA;Skuespillere&#x9;&#x9;&#x9;&#x9;&#x9;                                  &#xA;Oda Skar: Silje Storstein&#xA;Ståle Munkebye: Rolf Kristian Larsen&#xA;John Cooper: David Menkin&#xA;Gard Thune: Hallvard Holmen&#xA;Berit Moelv: Maria Bock&#xA;Per-Olav Paalsen: Kåre Conradi&#xA;Daniel Tømte: Bartek Kaminski&#xA;Anneli Rotvoll: Anna Dworak&#xA;Åge Skar: Lasse Kolsrud&#xA;Margrete Skar: Kikki Stormo&#xA;Henrik Skar: Petter Vermeli&#xA;Ingvild Nybakk: Ane Øverli&#xA;Ulrikke Munkebye: Kjersti Dalseide&#xA;Vigdis Ottosen: Ulla Broch</itunes:summary>
+      <itunes:duration>1583</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nOnM8G12AGxiWLFewBO5fAuIpvPSosG5RZrdifUJmh3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Made in Norway - Gråsoner (3:6)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_092855b0-331d-40b0-a855-b0331d30b013</link>
+      <description>På Raufoss får Oda tips om at en tidligere ansatt på våpenfabrikken kanskje kan vite noe om våpnene de fant i Irak. Hos UD i Oslo begynner Daniel å mistenke at høytstående krefter holder viktige opplysninger tilbake.&#xA;&#xA;Manusforfatter: Vegard Steiro Amundsen&#xA;Musikk: Sjur Miljeteig&#xA;Dramaturger: Mathias Calmeyer, Arne Barca, Steinar Berthelsen&#xA;Produsent: Hege Cathrine Beck Stabell&#xA;Lyddesign: Arne Barca&#xA;Regi: Steinar Berthelsen&#xA;&#xA;Skuespillere&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;                                  &#xA;Oda Skar: Silje Storstein&#xA;Ståle Munkebye: Rolf Kristian Larsen&#xA;John Cooper: David Menkin&#xA;Gard Thune: Hallvard Holmen&#xA;Berit Moelv: Maria Bock&#xA;Daniel Tømte: Bartek Kaminski&#xA;Åge Skar: Lasse Kolsrud&#xA;Ulrikke Munkebye: Kjersti Dalseide&#xA;Karl-Erik Brox: Gustav Nilsen&#xA;Ingvild Nybakk: Ane Øverli&#xA;Sykepleier: Julie Støp Husby&#xA;Torill Stenersen: Iselin Shumba&#xA;Thunes datter: Milja Stormo-Alknes</description>
+      <guid isPermaLink="false">l_092855b0-331d-40b0-a855-b0331d30b013</guid>
+      <pubDate>Wed, 11 Mar 2020 12:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/27a1592d-27b1-48eb-a571-4050777fa107_0_ID192MP3.mp3" type="audio/mpeg" length="40665321"></enclosure>
+      <itunes:title>Made in Norway - Gråsoner (3:6)</itunes:title>
+      <itunes:summary>På Raufoss får Oda tips om at en tidligere ansatt på våpenfabrikken kanskje kan vite noe om våpnene de fant i Irak. Hos UD i Oslo begynner Daniel å mistenke at høytstående krefter holder viktige opplysninger tilbake.&#xA;&#xA;Manusforfatter: Vegard Steiro Amundsen&#xA;Musikk: Sjur Miljeteig&#xA;Dramaturger: Mathias Calmeyer, Arne Barca, Steinar Berthelsen&#xA;Produsent: Hege Cathrine Beck Stabell&#xA;Lyddesign: Arne Barca&#xA;Regi: Steinar Berthelsen&#xA;&#xA;Skuespillere&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;                                  &#xA;Oda Skar: Silje Storstein&#xA;Ståle Munkebye: Rolf Kristian Larsen&#xA;John Cooper: David Menkin&#xA;Gard Thune: Hallvard Holmen&#xA;Berit Moelv: Maria Bock&#xA;Daniel Tømte: Bartek Kaminski&#xA;Åge Skar: Lasse Kolsrud&#xA;Ulrikke Munkebye: Kjersti Dalseide&#xA;Karl-Erik Brox: Gustav Nilsen&#xA;Ingvild Nybakk: Ane Øverli&#xA;Sykepleier: Julie Støp Husby&#xA;Torill Stenersen: Iselin Shumba&#xA;Thunes datter: Milja Stormo-Alknes</itunes:summary>
+      <itunes:duration>1694</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nOnM8G12AGxiWLFewBO5fAuIpvPSosG5RZrdifUJmh3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Made in Norway - Velkommen hjem (2:6)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_c7f2194b-85b3-4de2-b219-4b85b33de2cb</link>
+      <description>Etter den fatale hendelsen i Irak får Oda en varm velkomst hos familien på Raufoss. Hun unnlater å fortelle at hun vil spionere på våpenfabrikken Nammo, hvor både faren og svingersøsteren arbeider, er den egentlige grunnen til at hun er kommet hjem.&#xA;&#xA;Manusforfatter: Vegard Steiro Amundsen&#xA;Musikk: Sjur Miljeteig&#xA;Dramaturger: Mathias Calmeyer, Arne Barca, Steinar Berthelsen&#xA;Produsent: Hege Cathrine Beck Stabell&#xA;Lyddesign: Arne Barca&#xA;Regi: Steinar Berthelsen&#xA;&#xA;Skuespillere&#xA;Oda Skar: Silje Storstein&#xA;Ståle Munkebye: Rolf Kristian Larsen&#xA;John Cooper: David Menkin&#xA;Magnar Ottosen: Jonas Strand Gravli&#xA;Berit Moelv: Maria Bock&#xA;Per-Olav Paalsen: Kåre Conradi&#xA;Daniel Tømte: Bartek Kaminski&#xA;Anneli Rotvoll: Anna Dworak&#xA;Åge Skar: Lasse Kolsrud&#xA;Margrete Skar: Kikki Stormo&#xA;Henrik Skar: Petter Vermeli&#xA;Aksi Virtanen: Lasse Lindberg&#xA;Karl-Erik Brox: Gustav Nilsen&#xA;Ingvild Nybakk: Ane Øverli&#xA;Roy Gaines: Tony Totino&#xA;Vigdis Ottosen: Ulla Broch</description>
+      <guid isPermaLink="false">l_c7f2194b-85b3-4de2-b219-4b85b33de2cb</guid>
+      <pubDate>Wed, 11 Mar 2020 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/1f54b80f-9cae-43e9-a78e-82a578a6b9ae_0_ID192MP3.mp3" type="audio/mpeg" length="44161065"></enclosure>
+      <itunes:title>Made in Norway - Velkommen hjem (2:6)</itunes:title>
+      <itunes:summary>Etter den fatale hendelsen i Irak får Oda en varm velkomst hos familien på Raufoss. Hun unnlater å fortelle at hun vil spionere på våpenfabrikken Nammo, hvor både faren og svingersøsteren arbeider, er den egentlige grunnen til at hun er kommet hjem.&#xA;&#xA;Manusforfatter: Vegard Steiro Amundsen&#xA;Musikk: Sjur Miljeteig&#xA;Dramaturger: Mathias Calmeyer, Arne Barca, Steinar Berthelsen&#xA;Produsent: Hege Cathrine Beck Stabell&#xA;Lyddesign: Arne Barca&#xA;Regi: Steinar Berthelsen&#xA;&#xA;Skuespillere&#xA;Oda Skar: Silje Storstein&#xA;Ståle Munkebye: Rolf Kristian Larsen&#xA;John Cooper: David Menkin&#xA;Magnar Ottosen: Jonas Strand Gravli&#xA;Berit Moelv: Maria Bock&#xA;Per-Olav Paalsen: Kåre Conradi&#xA;Daniel Tømte: Bartek Kaminski&#xA;Anneli Rotvoll: Anna Dworak&#xA;Åge Skar: Lasse Kolsrud&#xA;Margrete Skar: Kikki Stormo&#xA;Henrik Skar: Petter Vermeli&#xA;Aksi Virtanen: Lasse Lindberg&#xA;Karl-Erik Brox: Gustav Nilsen&#xA;Ingvild Nybakk: Ane Øverli&#xA;Roy Gaines: Tony Totino&#xA;Vigdis Ottosen: Ulla Broch</itunes:summary>
+      <itunes:duration>1839</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nOnM8G12AGxiWLFewBO5fAuIpvPSosG5RZrdifUJmh3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Made in Norway - For trygghet og fred (1:6)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_6298e55e-4e6a-4495-98e5-5e4e6a449558</link>
+      <description>Soldaten Oda er på oppdrag i Irak og blir angrepet av terrorister som bruker norskproduserte panservernraketter M72. Medsoldater blir drept og skadet. Hun starter en kamp for å finne ut hvordan det er mulig at våpen produsert i hennes hjembygd Raufoss havner i fiendens hender. Men jakten på sannheten vil koste henne dyrt. Spenningsserie i 6 deler. &#xA;&#xA;Manusforfatter: Vegard Steiro Amundsen&#xA;Musikk: Sjur Miljeteig&#xA;Dramaturger: Mathias Calmeyer, Arne Barca, Steinar Berthelsen&#xA;Produsent: Hege Cathrine Beck Stabell&#xA;Lyddesign: Arne Barca&#xA;Regi: Steinar Berthelsen&#xA;&#xA;Skuespillere:&#xA;Oda Skar: Silje Storstein&#xA;Ståle Munkebye: Rolf Kristian Larsen&#xA;John Cooper: David Menkin&#xA;Magnar Ottosen: Jonas Strand Gravli&#xA;Gard Thune: Hallvard Holmen&#xA;Berit Moelv: Maria Bock&#xA;Per-Olav Paalsen: Kåre Conradi&#xA;Daniel Tømte: Bartek Kaminski&#xA;Anneli Rotvoll: Anna Dworak&#xA;Åge Skar: Lasse Kolsrud&#xA;Ulrikke Munkebye: Kjersti Dalseide&#xA;Sykepleier: Julie Støp Husby&#xA;Ayan: Fatimah Mahdi&#xA;Karim: Ahmed Alsaatie</description>
+      <guid isPermaLink="false">l_6298e55e-4e6a-4495-98e5-5e4e6a449558</guid>
+      <pubDate>Sat, 28 Dec 2019 04:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2019-12-18_1025_3250.MP3" type="audio/mpeg" length="50257729"></enclosure>
+      <itunes:title>Made in Norway - For trygghet og fred (1:6)</itunes:title>
+      <itunes:summary>Soldaten Oda er på oppdrag i Irak og blir angrepet av terrorister som bruker norskproduserte panservernraketter M72. Medsoldater blir drept og skadet. Hun starter en kamp for å finne ut hvordan det er mulig at våpen produsert i hennes hjembygd Raufoss havner i fiendens hender. Men jakten på sannheten vil koste henne dyrt. Spenningsserie i 6 deler. &#xA;&#xA;Manusforfatter: Vegard Steiro Amundsen&#xA;Musikk: Sjur Miljeteig&#xA;Dramaturger: Mathias Calmeyer, Arne Barca, Steinar Berthelsen&#xA;Produsent: Hege Cathrine Beck Stabell&#xA;Lyddesign: Arne Barca&#xA;Regi: Steinar Berthelsen&#xA;&#xA;Skuespillere:&#xA;Oda Skar: Silje Storstein&#xA;Ståle Munkebye: Rolf Kristian Larsen&#xA;John Cooper: David Menkin&#xA;Magnar Ottosen: Jonas Strand Gravli&#xA;Gard Thune: Hallvard Holmen&#xA;Berit Moelv: Maria Bock&#xA;Per-Olav Paalsen: Kåre Conradi&#xA;Daniel Tømte: Bartek Kaminski&#xA;Anneli Rotvoll: Anna Dworak&#xA;Åge Skar: Lasse Kolsrud&#xA;Ulrikke Munkebye: Kjersti Dalseide&#xA;Sykepleier: Julie Støp Husby&#xA;Ayan: Fatimah Mahdi&#xA;Karim: Ahmed Alsaatie</itunes:summary>
+      <itunes:duration>2090</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nOnM8G12AGxiWLFewBO5fAuIpvPSosG5RZrdifUJmh3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rød mann/Sort mann - Nederlag og ny start (8:8)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_77e37359-7e79-415b-a373-597e79a15bb0</link>
+      <description>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Dramaturg: Gunhild Nymoen &#xA;Komponister: Jane Kelly og Sindre Hotvedt &#xA;Produsent: Øystein Kjennerud &#xA;Lyddesign: Rikard Strømsodd &#xA;Dramatiker og regissør: Mathias Calmeyer &#xA;&#xA;APPALUTTOQ: Kyrre Haugen Sydness&#xA;LAURITZ: Frank Kjosås&#xA;GERTRUD: Marit Adeleide Andreassen           &#x9;&#x9; &#xA;KIEDING: Torgny Aanderaa   &#x9;&#x9; &#xA;NIELS: Hallvard Holmen &#xA;EGEDE: Nils Johnson&#x9;&#x9;&#x9; &#xA;JOHAN: Morten Svartveit&#x9;&#xA;SISE: Marit Synnøve Berg</description>
+      <guid isPermaLink="false">l_77e37359-7e79-415b-a373-597e79a15bb0</guid>
+      <pubDate>Sun, 14 Jul 2019 01:21:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2019-07-13_2300_383.MP3" type="audio/mpeg" length="37105217"></enclosure>
+      <itunes:title>Rød mann/Sort mann - Nederlag og ny start (8:8)</itunes:title>
+      <itunes:summary>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Dramaturg: Gunhild Nymoen &#xA;Komponister: Jane Kelly og Sindre Hotvedt &#xA;Produsent: Øystein Kjennerud &#xA;Lyddesign: Rikard Strømsodd &#xA;Dramatiker og regissør: Mathias Calmeyer &#xA;&#xA;APPALUTTOQ: Kyrre Haugen Sydness&#xA;LAURITZ: Frank Kjosås&#xA;GERTRUD: Marit Adeleide Andreassen           &#x9;&#x9; &#xA;KIEDING: Torgny Aanderaa   &#x9;&#x9; &#xA;NIELS: Hallvard Holmen &#xA;EGEDE: Nils Johnson&#x9;&#x9;&#x9; &#xA;JOHAN: Morten Svartveit&#x9;&#xA;SISE: Marit Synnøve Berg</itunes:summary>
+      <itunes:duration>1542</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UFi2A30ymaH07_WfhtowGATSJoM6pzV9reT9R_UUTLgQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rød mann/Sort mann - Epidemien (7:8)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_eebf2dce-eebf-4d3d-bf2d-ceeebf1d3df5</link>
+      <description>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Dramaturg: Gunhild Nymoen &#xA;Komponister: Jane Kelly og Sindre Hotvedt &#xA;Produsent: Øystein Kjennerud &#xA;Lyddesign: Rikard Strømsodd &#xA;Dramatiker og regissør: Mathias Calmeyer &#xA;&#xA;AAPPALUTTOQ: Kyrre Haugen Sydness&#x9; &#xA;LAURITZ: Frank Kjosås&#x9;&#x9; &#xA;EGEDE: Nils Johnson&#x9; &#xA;FREDERIK CHRISTIAN: Scott Maurstad&#xA;NIELS: Hallvard Holmen &#xA;KIEDING: Torgny Aanderaa &#x9;&#x9; &#xA;SATAN/KVINNE: Kaia Varjord</description>
+      <guid isPermaLink="false">l_eebf2dce-eebf-4d3d-bf2d-ceeebf1d3df5</guid>
+      <pubDate>Sun, 14 Jul 2019 01:18:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2019-07-13_2300_1239.MP3" type="audio/mpeg" length="36905839"></enclosure>
+      <itunes:title>Rød mann/Sort mann - Epidemien (7:8)</itunes:title>
+      <itunes:summary>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Dramaturg: Gunhild Nymoen &#xA;Komponister: Jane Kelly og Sindre Hotvedt &#xA;Produsent: Øystein Kjennerud &#xA;Lyddesign: Rikard Strømsodd &#xA;Dramatiker og regissør: Mathias Calmeyer &#xA;&#xA;AAPPALUTTOQ: Kyrre Haugen Sydness&#x9; &#xA;LAURITZ: Frank Kjosås&#x9;&#x9; &#xA;EGEDE: Nils Johnson&#x9; &#xA;FREDERIK CHRISTIAN: Scott Maurstad&#xA;NIELS: Hallvard Holmen &#xA;KIEDING: Torgny Aanderaa &#x9;&#x9; &#xA;SATAN/KVINNE: Kaia Varjord</itunes:summary>
+      <itunes:duration>1533</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UFi2A30ymaH07_WfhtowGATSJoM6pzV9reT9R_UUTLgQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rød mann/Sort mann - Mysteriet (6:8)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_72553c93-640e-4472-953c-93640ee472cb</link>
+      <description>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Dramaturg: Gunhild Nymoen &#xA;Komponister: Jane Kelly og Sindre Hotvedt &#xA;Produsent: Øystein Kjennerud &#xA;Lyddesign: Rikard Strømsodd &#xA;Dramatiker og regissør: Mathias Calmeyer &#xA;&#xA;AAPPALUTTOQ: Kyrre Haugen Sydness&#xA;LAURITZ: Frank Kjosås &#xA;FLEISCHER: Trond Høvik  &#x9;&#x9;&#xA;LANDORPH: Pål Christian Eggen&#x9;&#x9;&#xA;EGEDE: Nils Johnson&#xA;GERTRUD: Marit Adeleide Andreassen&#x9;&#xA;PORS: Terje Ranes   &#x9;&#x9;&#xA;KIEDING: Torgny Aanderaa&#x9;&#x9;&#xA;TITIA: Andrea Bræin Hovig&#x9;&#xA;FREDERIK CHRISTIAN: Scott Maurstad&#x9;&#xA;JOHAN: Morten Svartveit SISE: Marit Synnøve Berg &#x9;&#xA;NIELS: Hallvard Holmen</description>
+      <guid isPermaLink="false">l_72553c93-640e-4472-953c-93640ee472cb</guid>
+      <pubDate>Sun, 14 Jul 2019 01:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2019-07-13_2300_4053.MP3" type="audio/mpeg" length="37608638"></enclosure>
+      <itunes:title>Rød mann/Sort mann - Mysteriet (6:8)</itunes:title>
+      <itunes:summary>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Dramaturg: Gunhild Nymoen &#xA;Komponister: Jane Kelly og Sindre Hotvedt &#xA;Produsent: Øystein Kjennerud &#xA;Lyddesign: Rikard Strømsodd &#xA;Dramatiker og regissør: Mathias Calmeyer &#xA;&#xA;AAPPALUTTOQ: Kyrre Haugen Sydness&#xA;LAURITZ: Frank Kjosås &#xA;FLEISCHER: Trond Høvik  &#x9;&#x9;&#xA;LANDORPH: Pål Christian Eggen&#x9;&#x9;&#xA;EGEDE: Nils Johnson&#xA;GERTRUD: Marit Adeleide Andreassen&#x9;&#xA;PORS: Terje Ranes   &#x9;&#x9;&#xA;KIEDING: Torgny Aanderaa&#x9;&#x9;&#xA;TITIA: Andrea Bræin Hovig&#x9;&#xA;FREDERIK CHRISTIAN: Scott Maurstad&#x9;&#xA;JOHAN: Morten Svartveit SISE: Marit Synnøve Berg &#x9;&#xA;NIELS: Hallvard Holmen</itunes:summary>
+      <itunes:duration>1563</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UFi2A30ymaH07_WfhtowGATSJoM6pzV9reT9R_UUTLgQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rød mann/Sort mann - Fødsel og død  (5:8)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_0513f38c-3c4f-44e7-93f3-8c3c4f94e703</link>
+      <description>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Dramaturg: Gunhild Nymoen &#xA;Komponister: Jane Kelly og Sindre Hotvedt &#xA;Produsent: Øystein Kjennerud &#xA;Lyddesign: Rikard Strømsodd &#xA;Dramatiker og regissør: Mathias Calmeyer &#xA;&#xA;AAPPALUTTOQ: Kyrre Haugen Sydness&#x9;&#xA;LAURITZ: Frank Kjosås&#x9; &#x9;&#xA;NIELS&#x9;Hallvard Holmen &#xA;EGEDE: Nils Johnson&#xA;KIEDING: Torgny Aanderaa&#x9;&#x9;&#xA;PORS: Terje Ranes&#x9;&#xA;TITIA: Andrea Bræin Hovig&#x9;&#xA;GERTRUD: Marit Adeleide Andreassen&#x9;&#xA;FLEISCHER: Trond Høvik</description>
+      <guid isPermaLink="false">l_0513f38c-3c4f-44e7-93f3-8c3c4f94e703</guid>
+      <pubDate>Sun, 14 Jul 2019 01:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2019-07-13_2300_295.MP3" type="audio/mpeg" length="37402379"></enclosure>
+      <itunes:title>Rød mann/Sort mann - Fødsel og død  (5:8)</itunes:title>
+      <itunes:summary>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Dramaturg: Gunhild Nymoen &#xA;Komponister: Jane Kelly og Sindre Hotvedt &#xA;Produsent: Øystein Kjennerud &#xA;Lyddesign: Rikard Strømsodd &#xA;Dramatiker og regissør: Mathias Calmeyer &#xA;&#xA;AAPPALUTTOQ: Kyrre Haugen Sydness&#x9;&#xA;LAURITZ: Frank Kjosås&#x9; &#x9;&#xA;NIELS&#x9;Hallvard Holmen &#xA;EGEDE: Nils Johnson&#xA;KIEDING: Torgny Aanderaa&#x9;&#x9;&#xA;PORS: Terje Ranes&#x9;&#xA;TITIA: Andrea Bræin Hovig&#x9;&#xA;GERTRUD: Marit Adeleide Andreassen&#x9;&#xA;FLEISCHER: Trond Høvik</itunes:summary>
+      <itunes:duration>1554</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UFi2A30ymaH07_WfhtowGATSJoM6pzV9reT9R_UUTLgQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rød mann/Sort mann - Jomfru Titia  (4:8)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_77195b0d-9e12-4c13-995b-0d9e12ec1310</link>
+      <description>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Dramaturg: Gunhild Nymoen &#xA;Komponister: Jane Kelly og Sindre Hotvedt &#xA;Produsent: Øystein Kjennerud &#xA;Lyddesign: Rikard Strømsodd &#xA;Dramatiker og regissør: Mathias Calmeyer &#xA;&#xA;APPALUTTOQ: Kyrre Haugen Sydness&#xA;LAURITZ: Frank Kjosås&#x9;&#x9;&#xA;TITIA: Andrea Bræin Hovig&#x9;&#xA;NIELS: Hallvard Holmen &#xA;LANDORPH: Pål Christian Eggen&#x9;&#xA;PORS: Terje Ranes&#xA;KIEDING: Torgny Aanderaa    &#x9;&#x9;&#xA;SISE: Marit Synnøve Berg&#x9;&#xA;EGEDE: Nils Johnson</description>
+      <guid isPermaLink="false">l_77195b0d-9e12-4c13-995b-0d9e12ec1310</guid>
+      <pubDate>Sun, 14 Jul 2019 01:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2019-07-13_2300_1011.MP3" type="audio/mpeg" length="37275109"></enclosure>
+      <itunes:title>Rød mann/Sort mann - Jomfru Titia  (4:8)</itunes:title>
+      <itunes:summary>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Dramaturg: Gunhild Nymoen &#xA;Komponister: Jane Kelly og Sindre Hotvedt &#xA;Produsent: Øystein Kjennerud &#xA;Lyddesign: Rikard Strømsodd &#xA;Dramatiker og regissør: Mathias Calmeyer &#xA;&#xA;APPALUTTOQ: Kyrre Haugen Sydness&#xA;LAURITZ: Frank Kjosås&#x9;&#x9;&#xA;TITIA: Andrea Bræin Hovig&#x9;&#xA;NIELS: Hallvard Holmen &#xA;LANDORPH: Pål Christian Eggen&#x9;&#xA;PORS: Terje Ranes&#xA;KIEDING: Torgny Aanderaa    &#x9;&#x9;&#xA;SISE: Marit Synnøve Berg&#x9;&#xA;EGEDE: Nils Johnson</itunes:summary>
+      <itunes:duration>1549</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UFi2A30ymaH07_WfhtowGATSJoM6pzV9reT9R_UUTLgQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rød mann/Sort mann - Mødre og fedre (3:8)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_b928462a-19ee-4c14-a846-2a19ee6c1473</link>
+      <description>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Dramaturg: Gunhild Nymoen &#xA;Komponister: Jane Kelly og Sindre Hotvedt &#xA;Produsent: Øystein Kjennerud &#xA;Lyddesign: Rikard Strømsodd &#xA;Dramatiker og regissør: Mathias Calmeyer &#xA;&#xA;APPALUTTOQ: Kyrre Haugen Sydness&#xA;LAURITZ: Frank Kjosås&#xA;KIEDING: Torgny Aanderaa&#x9;&#x9;&#xA;EGEDE: Nils Johnson&#x9;&#x9;&#xA;PORS: Terje Ranes&#x9;&#xA;NIELS: Hallvard Holmen &#xA;GERTRUD: Marit Adeleide Andreassen&#x9;&#xA;LANDORPH: Pål Christian Eggen&#x9;&#xA;JOHAN: Morten Svartveit&#x9;&#xA;FREDERIK CHRISTIAN: Scott Maurstad</description>
+      <guid isPermaLink="false">l_b928462a-19ee-4c14-a846-2a19ee6c1473</guid>
+      <pubDate>Sun, 14 Jul 2019 01:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2019-07-13_2300_1516.MP3" type="audio/mpeg" length="36787981"></enclosure>
+      <itunes:title>Rød mann/Sort mann - Mødre og fedre (3:8)</itunes:title>
+      <itunes:summary>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Dramaturg: Gunhild Nymoen &#xA;Komponister: Jane Kelly og Sindre Hotvedt &#xA;Produsent: Øystein Kjennerud &#xA;Lyddesign: Rikard Strømsodd &#xA;Dramatiker og regissør: Mathias Calmeyer &#xA;&#xA;APPALUTTOQ: Kyrre Haugen Sydness&#xA;LAURITZ: Frank Kjosås&#xA;KIEDING: Torgny Aanderaa&#x9;&#x9;&#xA;EGEDE: Nils Johnson&#x9;&#x9;&#xA;PORS: Terje Ranes&#x9;&#xA;NIELS: Hallvard Holmen &#xA;GERTRUD: Marit Adeleide Andreassen&#x9;&#xA;LANDORPH: Pål Christian Eggen&#x9;&#xA;JOHAN: Morten Svartveit&#x9;&#xA;FREDERIK CHRISTIAN: Scott Maurstad</itunes:summary>
+      <itunes:duration>1529</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UFi2A30ymaH07_WfhtowGATSJoM6pzV9reT9R_UUTLgQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rød mann/Sort mann - Kolonien (2:8)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_e76e60c6-1a5a-4d3a-ae60-c61a5aad3a79</link>
+      <description>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Dramaturg: Gunhild Nymoen &#xA;Komponister: Jane Kelly og Sindre Hotvedt &#xA;Produsent: Øystein Kjennerud &#xA;Lyddesign: Rikard Strømsodd &#xA;Dramatiker og regissør: Mathias Calmeyer &#xA;&#xA;AAPPALUTTOQ: Kyrre Haugen Sydness&#xA;LAURITZ: Frank Kjosås&#x9;&#x9; &#xA;KIEDING: Torgny Aanderaa&#xA;FLEISCHER: Trond Høvik&#x9;&#x9; &#xA;LANDORPH: Pål Christian Eggen&#x9;&#xA;PORS: Terje Ranes&#x9; &#xA;EGEDE: Nils Johnson&#x9;&#xA;JOHAN: Morten Svartveit&#x9;&#xA;SISE: Marit Synnøve Berg&#x9;&#xA;NIELS: Hallvard Holmen &#xA;TITIA:   Andrea Bræin Hovig</description>
+      <guid isPermaLink="false">l_e76e60c6-1a5a-4d3a-ae60-c61a5aad3a79</guid>
+      <pubDate>Sun, 14 Jul 2019 01:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2019-07-13_2300_3658.MP3" type="audio/mpeg" length="34596761"></enclosure>
+      <itunes:title>Rød mann/Sort mann - Kolonien (2:8)</itunes:title>
+      <itunes:summary>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Dramaturg: Gunhild Nymoen &#xA;Komponister: Jane Kelly og Sindre Hotvedt &#xA;Produsent: Øystein Kjennerud &#xA;Lyddesign: Rikard Strømsodd &#xA;Dramatiker og regissør: Mathias Calmeyer &#xA;&#xA;AAPPALUTTOQ: Kyrre Haugen Sydness&#xA;LAURITZ: Frank Kjosås&#x9;&#x9; &#xA;KIEDING: Torgny Aanderaa&#xA;FLEISCHER: Trond Høvik&#x9;&#x9; &#xA;LANDORPH: Pål Christian Eggen&#x9;&#xA;PORS: Terje Ranes&#x9; &#xA;EGEDE: Nils Johnson&#x9;&#xA;JOHAN: Morten Svartveit&#x9;&#xA;SISE: Marit Synnøve Berg&#x9;&#xA;NIELS: Hallvard Holmen &#xA;TITIA:   Andrea Bræin Hovig</itunes:summary>
+      <itunes:duration>1437</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UFi2A30ymaH07_WfhtowGATSJoM6pzV9reT9R_UUTLgQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rød mann/Sort mann - Grønland (1:8)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_5b4e09a1-3300-4152-8e09-a13300b15242</link>
+      <description>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Den nyutnevnte presten Lauritz kommer til Grønland i 1764. Han skal gjenoppta misjoneringen der etter Hans Egede, Grønlands apostel. For ikke å mislykkes med sin gjerning, undersøker han hva som gikk galt med det tidlige danske forsøket på kolonisering av Grønlenderne 35 år tidligere. Han finner rystende historie om feilslåtte ambisjoner, bloddryppende kjærlighet, brennende hat, grusomme fiaskoer, død, drukkenskap og ondskap. Lauritz står overfor en formidabel oppgave når han skal forsøke å snu elendighetene i den nye kolonien.</description>
+      <guid isPermaLink="false">l_5b4e09a1-3300-4152-8e09-a13300b15242</guid>
+      <pubDate>Sun, 14 Jul 2019 01:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2019-07-14_0700_4025.MP3" type="audio/mpeg" length="37098284"></enclosure>
+      <itunes:title>Rød mann/Sort mann - Grønland (1:8)</itunes:title>
+      <itunes:summary>Radioteatrets dramatisering av Kim Leine sin bok «Rød mann/sort mann». Vinneren av P2 lytternes Romanpris.&#xA;&#xA;Den nyutnevnte presten Lauritz kommer til Grønland i 1764. Han skal gjenoppta misjoneringen der etter Hans Egede, Grønlands apostel. For ikke å mislykkes med sin gjerning, undersøker han hva som gikk galt med det tidlige danske forsøket på kolonisering av Grønlenderne 35 år tidligere. Han finner rystende historie om feilslåtte ambisjoner, bloddryppende kjærlighet, brennende hat, grusomme fiaskoer, død, drukkenskap og ondskap. Lauritz står overfor en formidabel oppgave når han skal forsøke å snu elendighetene i den nye kolonien.</itunes:summary>
+      <itunes:duration>1541</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UFi2A30ymaH07_WfhtowGATSJoM6pzV9reT9R_UUTLgQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Katastrofealarm (4:4) Hevnen</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_46eca2f6-2a46-437b-aca2-f62a46637baa</link>
+      <description>Igor er død, men var det et naturlig dødsfall? Ulrikke er på vei til en hun tror er et vitne, men blir presset av veien. TAKK TIL NFF (Norsk Forening For Fjellsprengningsteknikk) OG Knut Tandbergmoen.</description>
+      <guid isPermaLink="false">l_46eca2f6-2a46-437b-aca2-f62a46637baa</guid>
+      <pubDate>Mon, 26 Nov 2018 10:47:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2018-11-26_0947_1964.MP3" type="audio/mpeg" length="81066127"></enclosure>
+      <itunes:title>Katastrofealarm (4:4) Hevnen</itunes:title>
+      <itunes:summary>Igor er død, men var det et naturlig dødsfall? Ulrikke er på vei til en hun tror er et vitne, men blir presset av veien. TAKK TIL NFF (Norsk Forening For Fjellsprengningsteknikk) OG Knut Tandbergmoen.</itunes:summary>
+      <itunes:duration>3373</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ib-KtipnKFa510mFfIdRag74uZW3x-9fQSgf4z41sIyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Katastrofealarm (3:4)  Et godt tilbud</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_989b24ad-26d2-4632-9b24-ad26d26632bb</link>
+      <description>Igor er i live, men har mistet begge bena. Gunnar Viken lover Alex at Igor og hans familie ikke skal lide økonomisk. TAKK TIL NFF (Norsk Forening For Fjellsprengningsteknikk) OG Knut Tandbergmoen.</description>
+      <guid isPermaLink="false">l_989b24ad-26d2-4632-9b24-ad26d26632bb</guid>
+      <pubDate>Mon, 26 Nov 2018 10:35:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2018-11-26_0935_1857.MP3" type="audio/mpeg" length="78171572"></enclosure>
+      <itunes:title>Katastrofealarm (3:4)  Et godt tilbud</itunes:title>
+      <itunes:summary>Igor er i live, men har mistet begge bena. Gunnar Viken lover Alex at Igor og hans familie ikke skal lide økonomisk. TAKK TIL NFF (Norsk Forening For Fjellsprengningsteknikk) OG Knut Tandbergmoen.</itunes:summary>
+      <itunes:duration>3253</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ib-KtipnKFa510mFfIdRag74uZW3x-9fQSgf4z41sIyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Katastrofealarm (2:4) Redningen</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_f4ffe4e3-d3b4-4fd9-bfe4-e3d3b44fd9c6</link>
+      <description>Broren til Alex er fanget inne i tunnelen. Journalisten Ulrikke mistenker at anleggsfirmaet driver prosjektet på kanten av loven. TAKK TIL NFF (Norsk Forening For Fjellsprengningsteknikk) OG Knut Tandbergmoen.</description>
+      <guid isPermaLink="false">l_f4ffe4e3-d3b4-4fd9-bfe4-e3d3b44fd9c6</guid>
+      <pubDate>Mon, 26 Nov 2018 10:29:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2018-11-26_0929_3292.MP3" type="audio/mpeg" length="69079709"></enclosure>
+      <itunes:title>Katastrofealarm (2:4) Redningen</itunes:title>
+      <itunes:summary>Broren til Alex er fanget inne i tunnelen. Journalisten Ulrikke mistenker at anleggsfirmaet driver prosjektet på kanten av loven. TAKK TIL NFF (Norsk Forening For Fjellsprengningsteknikk) OG Knut Tandbergmoen.</itunes:summary>
+      <itunes:duration>2874</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ib-KtipnKFa510mFfIdRag74uZW3x-9fQSgf4z41sIyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Katastrofealarm (1:4) Ulykken</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_b286ac8e-729a-438d-86ac-8e729ac38d22</link>
+      <description>Alex Matic jobber på et anleggsområde i Hemsedal. På vei til jobb blir han stoppet i kontroll. Det får konsekvenser. TAKK TIL NFF (Norsk Forening For Fjellsprengningsteknikk) OG Knut Tandbergmoen.</description>
+      <guid isPermaLink="false">l_b286ac8e-729a-438d-86ac-8e729ac38d22</guid>
+      <pubDate>Mon, 26 Nov 2018 10:12:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2018-11-26_0912_2725.MP3" type="audio/mpeg" length="60560233"></enclosure>
+      <itunes:title>Katastrofealarm (1:4) Ulykken</itunes:title>
+      <itunes:summary>Alex Matic jobber på et anleggsområde i Hemsedal. På vei til jobb blir han stoppet i kontroll. Det får konsekvenser. TAKK TIL NFF (Norsk Forening For Fjellsprengningsteknikk) OG Knut Tandbergmoen.</itunes:summary>
+      <itunes:duration>2519</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ib-KtipnKFa510mFfIdRag74uZW3x-9fQSgf4z41sIyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Shakespeares Macbeth (5:5)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_9a175ac7-9a9d-49ec-975a-c79a9d59ecb9</link>
+      <description>Macbeth blir mer og mer paranoid, og dreper alle han tror er imot ham. Hans egne menn legger en plan for å beseire ham.</description>
+      <guid isPermaLink="false">l_9a175ac7-9a9d-49ec-975a-c79a9d59ecb9</guid>
+      <pubDate>Mon, 01 Oct 2018 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2018-10-01_0400_2743.MP3" type="audio/mpeg" length="36132808"></enclosure>
+      <itunes:title>Shakespeares Macbeth (5:5)</itunes:title>
+      <itunes:summary>Macbeth blir mer og mer paranoid, og dreper alle han tror er imot ham. Hans egne menn legger en plan for å beseire ham.</itunes:summary>
+      <itunes:duration>1501</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iHVFcDM1eVgZWMSNqcn2XQxAw_WRN4aP9DbHKtqZUCRw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Shakespeares Macbeth (4:5)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_f9862162-ef7a-47ba-8621-62ef7ab7baf9</link>
+      <description>Macbeth er redd for å bli oppdaget, særlig av vennen Banquo, og bestemmer seg for å drepe ham. Det får konsekvenser.</description>
+      <guid isPermaLink="false">l_f9862162-ef7a-47ba-8621-62ef7ab7baf9</guid>
+      <pubDate>Mon, 01 Oct 2018 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2018-10-01_0400_276.MP3" type="audio/mpeg" length="26291770"></enclosure>
+      <itunes:title>Shakespeares Macbeth (4:5)</itunes:title>
+      <itunes:summary>Macbeth er redd for å bli oppdaget, særlig av vennen Banquo, og bestemmer seg for å drepe ham. Det får konsekvenser.</itunes:summary>
+      <itunes:duration>1091</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iHVFcDM1eVgZWMSNqcn2XQxAw_WRN4aP9DbHKtqZUCRw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Shakespeares Macbeth (3:5)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_932d8268-06f8-4c01-ad82-6806f8ac013e</link>
+      <description>Det er stor oppstandelse da mordet på kongen blir oppdaget. Skylden legges på kong Duncans egne sønner, som flykter fra landet.</description>
+      <guid isPermaLink="false">l_932d8268-06f8-4c01-ad82-6806f8ac013e</guid>
+      <pubDate>Mon, 01 Oct 2018 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2018-10-01_0400_3882.MP3" type="audio/mpeg" length="36912109"></enclosure>
+      <itunes:title>Shakespeares Macbeth (3:5)</itunes:title>
+      <itunes:summary>Det er stor oppstandelse da mordet på kongen blir oppdaget. Skylden legges på kong Duncans egne sønner, som flykter fra landet.</itunes:summary>
+      <itunes:duration>1534</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iHVFcDM1eVgZWMSNqcn2XQxAw_WRN4aP9DbHKtqZUCRw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Shakespeares Macbeth (2:5)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_4f1b9316-cd43-4271-9b93-16cd433271b5</link>
+      <description>Lady Macbeth sier Macbeth må lytte til spådommen og drepe kong Duncan. Macbeth vegrer seg, men blir overtalt av Lady Macbeth.</description>
+      <guid isPermaLink="false">l_4f1b9316-cd43-4271-9b93-16cd433271b5</guid>
+      <pubDate>Mon, 01 Oct 2018 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2018-10-01_0400_728.MP3" type="audio/mpeg" length="30047754"></enclosure>
+      <itunes:title>Shakespeares Macbeth (2:5)</itunes:title>
+      <itunes:summary>Lady Macbeth sier Macbeth må lytte til spådommen og drepe kong Duncan. Macbeth vegrer seg, men blir overtalt av Lady Macbeth.</itunes:summary>
+      <itunes:duration>1248</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iHVFcDM1eVgZWMSNqcn2XQxAw_WRN4aP9DbHKtqZUCRw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Shakespeares Macbeth (1:5)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_72f64e86-1631-4293-b64e-8616318293a7</link>
+      <description>Macbeth vender hjem etter et blodig slag der han sammen med kongens hær har kjempet, og vunnet. På veien treffer han tre hekser.</description>
+      <guid isPermaLink="false">l_72f64e86-1631-4293-b64e-8616318293a7</guid>
+      <pubDate>Mon, 01 Oct 2018 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2018-10-01_0400_264.MP3" type="audio/mpeg" length="38950892"></enclosure>
+      <itunes:title>Shakespeares Macbeth (1:5)</itunes:title>
+      <itunes:summary>Macbeth vender hjem etter et blodig slag der han sammen med kongens hær har kjempet, og vunnet. På veien treffer han tre hekser.</itunes:summary>
+      <itunes:duration>1619</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iHVFcDM1eVgZWMSNqcn2XQxAw_WRN4aP9DbHKtqZUCRw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stemmer fra Israel (1:1)</title>
+      <link>https://radio.nrk.no/podkast/radioteatret/l_b2106307-364d-4d0a-9063-07364d3d0a32</link>
+      <description>Vitnesbyrd fra veteraner i det israelske forsvaret som organisasjonen Breaking the Silence har samlet inn.</description>
+      <guid isPermaLink="false">l_b2106307-364d-4d0a-9063-07364d3d0a32</guid>
+      <pubDate>Sun, 17 Jun 2018 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatret/radioteatret_2018-06-17_0400_552.MP3" type="audio/mpeg" length="67963729"></enclosure>
+      <itunes:title>Stemmer fra Israel (1:1)</itunes:title>
+      <itunes:summary>Vitnesbyrd fra veteraner i det israelske forsvaret som organisasjonen Breaking the Silence har samlet inn.</itunes:summary>
+      <itunes:duration>2828</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YJD96jE64r3VPiJLLO4iCQsM4YkgpkBkOTAG0GAyBONg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

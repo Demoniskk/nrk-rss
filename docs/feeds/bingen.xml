@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bingen – historier fra bygda</title>
+    <link>https://radio.nrk.no/podkast/bingen</link>
+    <description>Kåre Magnus Bergh og barndomskomipsene Stian Angel Eriksen og Kristian Møller Johansen samler på de morsomste, groveste og mest overraskende historiene fra bygda. &#xA;&#xA;Produsent: Silje Martinsen Wettre</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Thu, 21 Jul 2022 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bingen.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Kåre Magnus Bergh og barndomskomipsene Stian Angel Eriksen og Kristian Møller Johansen samler på de morsomste, groveste og mest overraskende historiene fra bygda. &#xA;&#xA;Produsent: Silje Martinsen Wettre</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ</url>
+      <title>Bingen – historier fra bygda</title>
+      <link>https://radio.nrk.no/podkast/bingen</link>
+    </image>
+    <item>
+      <title>Sommerjobbspesial</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_d058654e-ba5f-424e-9865-4eba5ff24e71</link>
+      <description>Kåre Magnus&#39; dramatiske vakt på campingen, Møllers nye sommerattraksjon og Stians ufine forsøk på få Kåre Magnus frisk etter en fyllekule.</description>
+      <guid isPermaLink="false">l_d058654e-ba5f-424e-9865-4eba5ff24e71</guid>
+      <pubDate>Thu, 21 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/0ed4b857-e2b8-46a8-888c-f1a4ee038054_0_ID192MP3.mp3" type="audio/mpeg" length="25777197"></enclosure>
+      <itunes:title>Sommerjobbspesial</itunes:title>
+      <itunes:summary>Kåre Magnus&#39; dramatiske vakt på campingen, Møllers nye sommerattraksjon og Stians ufine forsøk på få Kåre Magnus frisk etter en fyllekule.</itunes:summary>
+      <itunes:duration>1073</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Marlene Stavrum og sommerspelreglene</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_aa1a1f41-722d-40f6-9a1f-41722dd0f6d1</link>
+      <description>- Spelet på Stiklestad har et absurd hierarki, forteller Marlene Stavrum. Her er en innføring i sommerspelets interne regler. </description>
+      <guid isPermaLink="false">l_aa1a1f41-722d-40f6-9a1f-41722dd0f6d1</guid>
+      <pubDate>Thu, 14 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/c3a9de5a-eaa4-49b6-83cf-de33bf0d5997_0_ID192MP3.mp3" type="audio/mpeg" length="35726445"></enclosure>
+      <itunes:title>Marlene Stavrum og sommerspelreglene</itunes:title>
+      <itunes:summary>- Spelet på Stiklestad har et absurd hierarki, forteller Marlene Stavrum. Her er en innføring i sommerspelets interne regler. </itunes:summary>
+      <itunes:duration>1488</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bygdeferiespesial</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_a344e96f-385b-4485-84e9-6f385b64856c</link>
+      <description>Kåre Magnus&#39; villsvinjakt med bilkrasj, Stians matforgiftning i Thailand og Møllers sommerdrømmer og beste tapastips fra Hamar. </description>
+      <guid isPermaLink="false">l_a344e96f-385b-4485-84e9-6f385b64856c</guid>
+      <pubDate>Thu, 07 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/ff7de65f-c482-4a04-91eb-8bea4c1921f9_0_ID192MP3.mp3" type="audio/mpeg" length="30400173"></enclosure>
+      <itunes:title>Bygdeferiespesial</itunes:title>
+      <itunes:summary>Kåre Magnus&#39; villsvinjakt med bilkrasj, Stians matforgiftning i Thailand og Møllers sommerdrømmer og beste tapastips fra Hamar. </itunes:summary>
+      <itunes:duration>1266</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fra Årdal til kjendisfest i New York</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_2bd87bbc-f278-4f23-987b-bcf2781f23f2</link>
+      <description>Britt havnet på kjendisfest med Miley Cyrus, Leonardo DiCaprio og han fra Entourage. Ingen av møtene ble spesielt vellykket, glass ble knust, bukser revnet og Leo ble fornærmet. Men for en tur! </description>
+      <guid isPermaLink="false">l_2bd87bbc-f278-4f23-987b-bcf2781f23f2</guid>
+      <pubDate>Thu, 30 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/fb502875-e389-4eac-a33e-8d227dd6c949_0_ID192MP3.mp3" type="audio/mpeg" length="29165805"></enclosure>
+      <itunes:title>Fra Årdal til kjendisfest i New York</itunes:title>
+      <itunes:summary>Britt havnet på kjendisfest med Miley Cyrus, Leonardo DiCaprio og han fra Entourage. Ingen av møtene ble spesielt vellykket, glass ble knust, bukser revnet og Leo ble fornærmet. Men for en tur! </itunes:summary>
+      <itunes:duration>1215</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nær døden på Oslo S - med Ole Rolfsrud </title>
+      <link>https://radio.nrk.no/podkast/bingen/l_55531f4e-2e87-4a69-931f-4e2e878a698a</link>
+      <description>Ole Rolfsrud deler historien om gjengen fra Hareid som dro på Oslo-tur med en femliter hjemmebrent og endte opp med knivstikk i magen og frokost hos norsk kjendis. </description>
+      <guid isPermaLink="false">l_55531f4e-2e87-4a69-931f-4e2e878a698a</guid>
+      <pubDate>Thu, 23 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/394113ce-ca96-4581-b17b-e1b4ad36c11f_0_ID192MP3.mp3" type="audio/mpeg" length="28938861"></enclosure>
+      <itunes:title>Nær døden på Oslo S - med Ole Rolfsrud </itunes:title>
+      <itunes:summary>Ole Rolfsrud deler historien om gjengen fra Hareid som dro på Oslo-tur med en femliter hjemmebrent og endte opp med knivstikk i magen og frokost hos norsk kjendis. </itunes:summary>
+      <itunes:duration>1205</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Elverums Egon Olsen</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_0dcca4bb-e8d7-4ed6-8ca4-bbe8d76ed6ac</link>
+      <description>Elverums egne Egon Olsen elsker å stikke i fra politiet. Når han først blir tatt byr han alltid på gøyale overraskelser. </description>
+      <guid isPermaLink="false">l_0dcca4bb-e8d7-4ed6-8ca4-bbe8d76ed6ac</guid>
+      <pubDate>Thu, 16 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/9fe0a8ce-f8c6-466d-841b-ade8da75dabd_0_ID192MP3.mp3" type="audio/mpeg" length="26907885"></enclosure>
+      <itunes:title>Elverums Egon Olsen</itunes:title>
+      <itunes:summary>Elverums egne Egon Olsen elsker å stikke i fra politiet. Når han først blir tatt byr han alltid på gøyale overraskelser. </itunes:summary>
+      <itunes:duration>1121</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Et dyrt ligg for Didrik </title>
+      <link>https://radio.nrk.no/podkast/bingen/l_65c72e2c-bb41-4f61-872e-2cbb413f6103</link>
+      <description>Porsgrunns-gutt og sanger Didrik Solli Tangen så ikke for seg en firesifra regning etter et one-night stand. </description>
+      <guid isPermaLink="false">l_65c72e2c-bb41-4f61-872e-2cbb413f6103</guid>
+      <pubDate>Thu, 09 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/fd99cc5a-0e80-4ef4-8a3b-1065fa974acf_0_ID192MP3.mp3" type="audio/mpeg" length="32141997"></enclosure>
+      <itunes:title>Et dyrt ligg for Didrik </itunes:title>
+      <itunes:summary>Porsgrunns-gutt og sanger Didrik Solli Tangen så ikke for seg en firesifra regning etter et one-night stand. </itunes:summary>
+      <itunes:duration>1339</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Onkel Hemsedal – med Erik Solbakken</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_78a25902-9d09-4609-a259-029d09960985</link>
+      <description>Erik Solbakken forteller om sin fars onkel, en original som erta på seg de rike turistene i Hemsedal. </description>
+      <guid isPermaLink="false">l_78a25902-9d09-4609-a259-029d09960985</guid>
+      <pubDate>Thu, 02 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/e92c0ab7-56ee-41ba-bb61-3baedcd5b017_0_ID192MP3.mp3" type="audio/mpeg" length="41592429"></enclosure>
+      <itunes:title>Onkel Hemsedal – med Erik Solbakken</itunes:title>
+      <itunes:summary>Erik Solbakken forteller om sin fars onkel, en original som erta på seg de rike turistene i Hemsedal. </itunes:summary>
+      <itunes:duration>1732</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hælvetes sommerjobb – med Carl Andreas Wold</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_9fd5e532-d153-4dff-95e5-32d1532dffef</link>
+      <description>Historien om livets første og verste sommerjobb, Mårten med å, trailerkjøring uten lappen og stranda i Barcelona som forsvant. </description>
+      <guid isPermaLink="false">l_9fd5e532-d153-4dff-95e5-32d1532dffef</guid>
+      <pubDate>Thu, 26 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/504175cf-13ff-4897-a8b8-533e7b28b4a7_0_ID192MP3.mp3" type="audio/mpeg" length="39481965"></enclosure>
+      <itunes:title>Hælvetes sommerjobb – med Carl Andreas Wold</itunes:title>
+      <itunes:summary>Historien om livets første og verste sommerjobb, Mårten med å, trailerkjøring uten lappen og stranda i Barcelona som forsvant. </itunes:summary>
+      <itunes:duration>1645</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Britt Minksveen og kirkegården</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_8da81ea6-e4b4-474c-a81e-a6e4b4f74cb3</link>
+      <description>Britts historie om festivalkvelden som endte med sex på kirkegården i sentrum. Og om publikumet som dukket opp. </description>
+      <guid isPermaLink="false">l_8da81ea6-e4b4-474c-a81e-a6e4b4f74cb3</guid>
+      <pubDate>Thu, 19 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/7da7ce5e-e488-4c60-966a-511a2b2b0d08_0_ID192MP3.mp3" type="audio/mpeg" length="30014829"></enclosure>
+      <itunes:title>Britt Minksveen og kirkegården</itunes:title>
+      <itunes:summary>Britts historie om festivalkvelden som endte med sex på kirkegården i sentrum. Og om publikumet som dukket opp. </itunes:summary>
+      <itunes:duration>1250</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hamars lengste baller</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_ac8eef09-3909-4592-8eef-0939098592a9</link>
+      <description>Lars Bjarne om svømmehalløyeblikket som for alltid har brent seg fast i hukommelsen. </description>
+      <guid isPermaLink="false">l_ac8eef09-3909-4592-8eef-0939098592a9</guid>
+      <pubDate>Thu, 12 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/f2de4371-ed8e-4d87-bfb2-dbdb9377bf64_0_ID192MP3.mp3" type="audio/mpeg" length="37171629"></enclosure>
+      <itunes:title>Hamars lengste baller</itunes:title>
+      <itunes:summary>Lars Bjarne om svømmehalløyeblikket som for alltid har brent seg fast i hukommelsen. </itunes:summary>
+      <itunes:duration>1548</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vikersunddagenes verste</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_4d030fcd-9b10-4699-830f-cd9b10c699af</link>
+      <description>Lobben trodde han la seg i riktig hus etter den fuktige kvelden, men niks. Han hadde lagt seg til å sove i postmannens kommodeskuff. Og var uvitende eier av blant annet et nytt kjøretøy. </description>
+      <guid isPermaLink="false">l_4d030fcd-9b10-4699-830f-cd9b10c699af</guid>
+      <pubDate>Thu, 05 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/3e428930-8403-4f5b-8941-2525bf28b741_0_ID192MP3.mp3" type="audio/mpeg" length="26857197"></enclosure>
+      <itunes:title>Vikersunddagenes verste</itunes:title>
+      <itunes:summary>Lobben trodde han la seg i riktig hus etter den fuktige kvelden, men niks. Han hadde lagt seg til å sove i postmannens kommodeskuff. Og var uvitende eier av blant annet et nytt kjøretøy. </itunes:summary>
+      <itunes:duration>1118</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Byflatens beste avvik og skavanker</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_7df505a9-5c99-47c7-b505-a95c9977c7fe</link>
+      <description>Skraphandleren og sprengningsulykken, den 100-årige kleptomanen og buskas-aktige familietrær. Bygda Byflatens storhetstid oppsummert av historieforteller Bjørn Hatterud. </description>
+      <guid isPermaLink="false">l_7df505a9-5c99-47c7-b505-a95c9977c7fe</guid>
+      <pubDate>Thu, 28 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/5505d14a-f18b-4ad7-bc35-0653d7068acb_0_ID192MP3.mp3" type="audio/mpeg" length="30760173"></enclosure>
+      <itunes:title>Byflatens beste avvik og skavanker</itunes:title>
+      <itunes:summary>Skraphandleren og sprengningsulykken, den 100-årige kleptomanen og buskas-aktige familietrær. Bygda Byflatens storhetstid oppsummert av historieforteller Bjørn Hatterud. </itunes:summary>
+      <itunes:duration>1281</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Døde kjæledyr spessial</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_e41466ff-4982-4da1-9466-ff4982dda118</link>
+      <description>Om korte undulatliv, Britt Minksveens katastrofale bilkarriere i Årdal og tragiske katteskjebner. </description>
+      <guid isPermaLink="false">l_e41466ff-4982-4da1-9466-ff4982dda118</guid>
+      <pubDate>Thu, 21 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/6f8cc35c-a36b-4d7c-b20a-43a499a4a4f5_0_ID192MP3.mp3" type="audio/mpeg" length="23352237"></enclosure>
+      <itunes:title>Døde kjæledyr spessial</itunes:title>
+      <itunes:summary>Om korte undulatliv, Britt Minksveens katastrofale bilkarriere i Årdal og tragiske katteskjebner. </itunes:summary>
+      <itunes:duration>972</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hasjligaen på Kolvereid</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_cbb981ac-29ff-4497-b981-ac29ff949704</link>
+      <description>Om hasjdebut på verandaen til politiet, forsideoppslaget som fulgte åtte måneder senere og Torkilds korte musikalkarriere.  </description>
+      <guid isPermaLink="false">l_cbb981ac-29ff-4497-b981-ac29ff949704</guid>
+      <pubDate>Thu, 14 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/57afdfc2-49a1-4346-abcb-474e44cd7113_0_ID192MP3.mp3" type="audio/mpeg" length="35046765"></enclosure>
+      <itunes:title>Hasjligaen på Kolvereid</itunes:title>
+      <itunes:summary>Om hasjdebut på verandaen til politiet, forsideoppslaget som fulgte åtte måneder senere og Torkilds korte musikalkarriere.  </itunes:summary>
+      <itunes:duration>1460</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Martin Beyer-Olsens guide til Rakkestad</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_da0c1b97-2d2b-4b39-8c1b-972d2bcb3938</link>
+      <description>- Rakkestad er bygget opp av legender, alkiser og idioter. Og noen er alle tre på én gang. Bli med på byoriginalvandring med Martin Beyer-Olsen.  </description>
+      <guid isPermaLink="false">l_da0c1b97-2d2b-4b39-8c1b-972d2bcb3938</guid>
+      <pubDate>Thu, 07 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/f9f39dad-2376-445e-8829-b02fb15ddb90_0_ID192MP3.mp3" type="audio/mpeg" length="30218157"></enclosure>
+      <itunes:title>Martin Beyer-Olsens guide til Rakkestad</itunes:title>
+      <itunes:summary>- Rakkestad er bygget opp av legender, alkiser og idioter. Og noen er alle tre på én gang. Bli med på byoriginalvandring med Martin Beyer-Olsen.  </itunes:summary>
+      <itunes:duration>1259</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Cecilie Ramona og sexdebut i kinosal</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_bec570cb-d55b-48a2-8570-cbd55b28a2e7</link>
+      <description>Cecilie Ramona Kåss Furuseth om da hun mistet jomfrudommen på kino - med et profilert kjendispar på første rad. </description>
+      <guid isPermaLink="false">l_bec570cb-d55b-48a2-8570-cbd55b28a2e7</guid>
+      <pubDate>Thu, 31 Mar 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/be6d50dc-0701-4e3b-9683-91dbf4140837_0_ID192MP3.mp3" type="audio/mpeg" length="31853997"></enclosure>
+      <itunes:title>Cecilie Ramona og sexdebut i kinosal</itunes:title>
+      <itunes:summary>Cecilie Ramona Kåss Furuseth om da hun mistet jomfrudommen på kino - med et profilert kjendispar på første rad. </itunes:summary>
+      <itunes:duration>1327</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Håvard Lilleheie og videokameraet </title>
+      <link>https://radio.nrk.no/podkast/bingen/l_03c9723e-77b1-4357-8972-3e77b1a35756</link>
+      <description>Håvard Lilleheies historie om kompisen Franks korte karriere i NRK, som startet og endte med et videokamera. </description>
+      <guid isPermaLink="false">l_03c9723e-77b1-4357-8972-3e77b1a35756</guid>
+      <pubDate>Thu, 24 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/9288f001-cec2-49ac-b237-7d6b17c33737_0_ID192MP3.mp3" type="audio/mpeg" length="28883565"></enclosure>
+      <itunes:title>Håvard Lilleheie og videokameraet </itunes:title>
+      <itunes:summary>Håvard Lilleheies historie om kompisen Franks korte karriere i NRK, som startet og endte med et videokamera. </itunes:summary>
+      <itunes:duration>1203</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Penisoperasjonen og nissejobben</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_3d43dadc-99bd-4d6a-83da-dc99bd2d6a5e</link>
+      <description>Historien om Kristoffers nyopererte penis, gaffatapen og kjøpesenternissekartellet på Gulskogen kjøpesenter. </description>
+      <guid isPermaLink="false">l_3d43dadc-99bd-4d6a-83da-dc99bd2d6a5e</guid>
+      <pubDate>Thu, 17 Mar 2022 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/eb55a4c1-711c-4518-8ccb-da492475fdd7_0_ID192MP3.mp3" type="audio/mpeg" length="34000173"></enclosure>
+      <itunes:title>Penisoperasjonen og nissejobben</itunes:title>
+      <itunes:summary>Historien om Kristoffers nyopererte penis, gaffatapen og kjøpesenternissekartellet på Gulskogen kjøpesenter. </itunes:summary>
+      <itunes:duration>1416</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Anarki i nord</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_4ef241d2-57f6-4eb7-b241-d257f6beb7f4</link>
+      <description>Historien om Kristina og festen som kom ut av kontroll, politiet som ikke nådde fram i tide og en uvanlig løsning på problemet.</description>
+      <guid isPermaLink="false">l_4ef241d2-57f6-4eb7-b241-d257f6beb7f4</guid>
+      <pubDate>Thu, 10 Mar 2022 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/46e73473-73b1-4d61-aee4-19475b3d27d3_0_ID192MP3.mp3" type="audio/mpeg" length="21373101"></enclosure>
+      <itunes:title>Anarki i nord</itunes:title>
+      <itunes:summary>Historien om Kristina og festen som kom ut av kontroll, politiet som ikke nådde fram i tide og en uvanlig løsning på problemet.</itunes:summary>
+      <itunes:duration>890</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ut og stjæle hest</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_f33af635-23d7-4c86-baf6-3523d7dc86f9</link>
+      <description>Historien om &#34;Ben&#34;, en stjålet hest og en storslagen plan for å rekke ølsalget. </description>
+      <guid isPermaLink="false">l_f33af635-23d7-4c86-baf6-3523d7dc86f9</guid>
+      <pubDate>Mon, 07 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/b4b0a991-4319-4dc6-a8e3-e007862f8427_0_ID192MP3.mp3" type="audio/mpeg" length="25722477"></enclosure>
+      <itunes:title>Ut og stjæle hest</itunes:title>
+      <itunes:summary>Historien om &#34;Ben&#34;, en stjålet hest og en storslagen plan for å rekke ølsalget. </itunes:summary>
+      <itunes:duration>1071</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Pornobladet på Flisa</title>
+      <link>https://radio.nrk.no/podkast/bingen/l_4e9b59ca-4920-47b5-9b59-ca4920b7b5bd</link>
+      <description>Historien om John Emil, ei trehytte, en slu landhandler og pornobladet med overraskelsen i. </description>
+      <guid isPermaLink="false">l_4e9b59ca-4920-47b5-9b59-ca4920b7b5bd</guid>
+      <pubDate>Mon, 28 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bingen/2b76f4bc-86a4-4513-b69f-6bc84faa3efa_0_ID192MP3.mp3" type="audio/mpeg" length="23044077"></enclosure>
+      <itunes:title>Pornobladet på Flisa</itunes:title>
+      <itunes:summary>Historien om John Emil, ei trehytte, en slu landhandler og pornobladet med overraskelsen i. </itunes:summary>
+      <itunes:duration>960</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/urTWtiQ_LCtr939L32X8tQoQvx5VAxfQdqsceqgrSPNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

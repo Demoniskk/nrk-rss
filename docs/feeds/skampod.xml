@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skampod</title>
+    <link>https://radio.nrk.no/podkast/skampod</link>
+    <description>Ukentlig podkast som tar for seg den ferskeste episoden av Skam. Med P3-profiler og kjente gjester.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Mon, 26 Jun 2017 13:59:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/skampod.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Ukentlig podkast som tar for seg den ferskeste episoden av Skam. Med P3-profiler og kjente gjester.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw</url>
+      <title>Skampod</title>
+      <link>https://radio.nrk.no/podkast/skampod</link>
+    </image>
+    <item>
+      <title>Skampod episode 10 (26.06.17)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_7100b443-69bf-4070-80b4-4369bf3070e8</link>
+      <description>Det blir både tårer, temperament og takknemlighet når Mari Garås Monsson samler Ida Fladen, Morten Hegseth Riiber og Sara Taslimi. De synser og mener om hvordan ringen ble sluttet og trådene samlet i Julie Andems Skam-univers. </description>
+      <guid isPermaLink="false">l_7100b443-69bf-4070-80b4-4369bf3070e8</guid>
+      <pubDate>Mon, 26 Jun 2017 15:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2017-06-26_1359_1961.MP3" type="audio/mpeg" length="63399598"></enclosure>
+      <itunes:title>Skampod episode 10 (26.06.17)</itunes:title>
+      <itunes:summary>Det blir både tårer, temperament og takknemlighet når Mari Garås Monsson samler Ida Fladen, Morten Hegseth Riiber og Sara Taslimi. De synser og mener om hvordan ringen ble sluttet og trådene samlet i Julie Andems Skam-univers. </itunes:summary>
+      <itunes:duration>2637</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2017">201706</podcast:season>
+    </item>
+    <item>
+      <title>Skampod episode 9 (19.06.17)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_1600d013-c2c5-4143-80d0-13c2c5f1434e</link>
+      <description>Mari Garås Monsson har fått med seg Jenny Skavlan, Daniel Kvammen og Tete Lidbom til å spekulere i hvordan Skam utvikler seg. Har vi sett siste klipp med Yousef eller dukker han opp igjen på Eid-feiringen? Synsvinkelen har endra seg og spørsmålet er hvilke karakterer som får sine egne klipp når det snører seg til i finalesesongen av Skam. Send dine teorier eller spørsmål til skampod@nrk.no</description>
+      <guid isPermaLink="false">l_1600d013-c2c5-4143-80d0-13c2c5f1434e</guid>
+      <pubDate>Mon, 19 Jun 2017 17:19:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2017-06-19_1519_4066.MP3" type="audio/mpeg" length="67166258"></enclosure>
+      <itunes:title>Skampod episode 9 (19.06.17)</itunes:title>
+      <itunes:summary>Mari Garås Monsson har fått med seg Jenny Skavlan, Daniel Kvammen og Tete Lidbom til å spekulere i hvordan Skam utvikler seg. Har vi sett siste klipp med Yousef eller dukker han opp igjen på Eid-feiringen? Synsvinkelen har endra seg og spørsmålet er hvilke karakterer som får sine egne klipp når det snører seg til i finalesesongen av Skam. Send dine teorier eller spørsmål til skampod@nrk.no</itunes:summary>
+      <itunes:duration>2794</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2017">201706</podcast:season>
+    </item>
+    <item>
+      <title>Skampod episode 8 (12.06.17)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_c801f7b9-5f49-4f35-81f7-b95f49cf35ec</link>
+      <description>Mari Garås Monsson har fått med seg Markus Bailey, Cecilie Ramona Kåss Furuseth og Adiele Arukwe til å spekulere i hvordan Sanas saga skal ende. Hva skjer med at William er tilbake? Er Eskil Linn Skåber i forkledning? Har Julie Andem i hemmelighet planlagt en sesong 5? Blir det drama á la Love Actually på Gardermoen mellom Sana og Yousef på vei til Tyrkia? Send dine teorier eller spørsmål til skampod@nrk.no</description>
+      <guid isPermaLink="false">l_c801f7b9-5f49-4f35-81f7-b95f49cf35ec</guid>
+      <pubDate>Mon, 12 Jun 2017 15:44:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2017-06-12_1344_3119.MP3" type="audio/mpeg" length="49460893"></enclosure>
+      <itunes:title>Skampod episode 8 (12.06.17)</itunes:title>
+      <itunes:summary>Mari Garås Monsson har fått med seg Markus Bailey, Cecilie Ramona Kåss Furuseth og Adiele Arukwe til å spekulere i hvordan Sanas saga skal ende. Hva skjer med at William er tilbake? Er Eskil Linn Skåber i forkledning? Har Julie Andem i hemmelighet planlagt en sesong 5? Blir det drama á la Love Actually på Gardermoen mellom Sana og Yousef på vei til Tyrkia? Send dine teorier eller spørsmål til skampod@nrk.no</itunes:summary>
+      <itunes:duration>2057</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2017">201706</podcast:season>
+    </item>
+    <item>
+      <title>Skampod episode 7 (07.06.17)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_3f5e7a04-bf0b-4f2c-9e7a-04bf0b6f2cbc</link>
+      <description>Kristin Gjelsvik, Simay Leblebicioglu, Adiele Arukwe og Mari Garås Monsson serverer nye teorier i sagaen om Sana. Hvem er Yousef keen på, Noora, Sana eller Isak?? Hvordan skal 18-årsdagen til Eva feires på fredag og hvordan kommer det til å gå med russebussen? Send spørsmål eller teorier til skampod@nrk.no</description>
+      <guid isPermaLink="false">l_3f5e7a04-bf0b-4f2c-9e7a-04bf0b6f2cbc</guid>
+      <pubDate>Wed, 07 Jun 2017 17:28:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2017-06-07_1528_2951.MP3" type="audio/mpeg" length="47398241"></enclosure>
+      <itunes:title>Skampod episode 7 (07.06.17)</itunes:title>
+      <itunes:summary>Kristin Gjelsvik, Simay Leblebicioglu, Adiele Arukwe og Mari Garås Monsson serverer nye teorier i sagaen om Sana. Hvem er Yousef keen på, Noora, Sana eller Isak?? Hvordan skal 18-årsdagen til Eva feires på fredag og hvordan kommer det til å gå med russebussen? Send spørsmål eller teorier til skampod@nrk.no</itunes:summary>
+      <itunes:duration>1971</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2017">201706</podcast:season>
+    </item>
+    <item>
+      <title>Skampod episode 6 (29.05.17)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_d3a28c46-6f46-4665-a28c-466f460665e2</link>
+      <description>Grunde Myhrer, Gisle A. Gjevestad Agledahl, Sofia N. Srour og Mari Garås Monsson er helt bombesikre på at nå er det stille før Sana blåser liv i stormen i Skam! Hvor stort kaos skal det bli? Hvor mye skal gå galt før det går bra igjen? Og er det fortsatt håp for kjærligheten? Send spørsmål eller teorier til skampod@nrk.no</description>
+      <guid isPermaLink="false">l_d3a28c46-6f46-4665-a28c-466f460665e2</guid>
+      <pubDate>Mon, 29 May 2017 18:44:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2017-05-29_1644_220.MP3" type="audio/mpeg" length="42031655"></enclosure>
+      <itunes:title>Skampod episode 6 (29.05.17)</itunes:title>
+      <itunes:summary>Grunde Myhrer, Gisle A. Gjevestad Agledahl, Sofia N. Srour og Mari Garås Monsson er helt bombesikre på at nå er det stille før Sana blåser liv i stormen i Skam! Hvor stort kaos skal det bli? Hvor mye skal gå galt før det går bra igjen? Og er det fortsatt håp for kjærligheten? Send spørsmål eller teorier til skampod@nrk.no</itunes:summary>
+      <itunes:duration>1747</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2017">201705</podcast:season>
+    </item>
+    <item>
+      <title>Skampod episode 5 (15.05.17)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_31af35f2-4376-40c7-af35-f24376a0c756</link>
+      <description>Ida Fladen, Nicolay Ramm, Simay Leblebicioğlu og Mari Garås Monsson er knust, sjokkert og forbanna etter fredagens følelsesmessige massakre i Skam. Hva skjedde egentlig, hvem spiser gulrot og er Mikael egentlig forelska i Even? Send spørsmål eller teorier til skampod@nrk.no</description>
+      <guid isPermaLink="false">l_31af35f2-4376-40c7-af35-f24376a0c756</guid>
+      <pubDate>Mon, 15 May 2017 18:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2017-05-15_1610_165.MP3" type="audio/mpeg" length="63701185"></enclosure>
+      <itunes:title>Skampod episode 5 (15.05.17)</itunes:title>
+      <itunes:summary>Ida Fladen, Nicolay Ramm, Simay Leblebicioğlu og Mari Garås Monsson er knust, sjokkert og forbanna etter fredagens følelsesmessige massakre i Skam. Hva skjedde egentlig, hvem spiser gulrot og er Mikael egentlig forelska i Even? Send spørsmål eller teorier til skampod@nrk.no</itunes:summary>
+      <itunes:duration>2650</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2017">201705</podcast:season>
+    </item>
+    <item>
+      <title>Skampod episode 4 (08.05.17)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_8c81e20a-99d4-42b1-81e2-0a99d4d2b142</link>
+      <description>Blogger Kristine Ullebø, komiker Mikkel Niva, P3-journalist Sara Aghili Taslimi og programleder Mari Garås Monsson ELSKER alenetiden Yousef og Sana hadde på fredag. Endelig er Skam ordentlig i gang med masse følelser! Mikkel kårer Skam-historiens dårligste scene. Send teorier eller spørsmål til skampod@nrk.no &#xA;</description>
+      <guid isPermaLink="false">l_8c81e20a-99d4-42b1-81e2-0a99d4d2b142</guid>
+      <pubDate>Mon, 08 May 2017 17:07:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2017-05-08_1507_2681.MP3" type="audio/mpeg" length="62799027"></enclosure>
+      <itunes:title>Skampod episode 4 (08.05.17)</itunes:title>
+      <itunes:summary>Blogger Kristine Ullebø, komiker Mikkel Niva, P3-journalist Sara Aghili Taslimi og programleder Mari Garås Monsson ELSKER alenetiden Yousef og Sana hadde på fredag. Endelig er Skam ordentlig i gang med masse følelser! Mikkel kårer Skam-historiens dårligste scene. Send teorier eller spørsmål til skampod@nrk.no &#xA;</itunes:summary>
+      <itunes:duration>2612</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2017">201705</podcast:season>
+    </item>
+    <item>
+      <title>Skampod episode 3 (02.05.17)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_8b862ba6-8196-4e71-862b-a681965e71ef</link>
+      <description>Er det mindre symbolikk i denne sesongen? Morten Hegseth Riiber, Habon Beegsi, Cecilie Ramona Kåss Furuseth og Mari Garås Monsson syns det er mange avsporinger i Skam nå, men engasjementet er likevel stort for Yousef og Sana. Send oss gjerne dine teorier til skampod@nrk.no (podkasten ble spilt inn tirsdag morgen).&#xA;</description>
+      <guid isPermaLink="false">l_8b862ba6-8196-4e71-862b-a681965e71ef</guid>
+      <pubDate>Tue, 02 May 2017 19:29:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2017-05-02_1729_2720.MP3" type="audio/mpeg" length="43099336"></enclosure>
+      <itunes:title>Skampod episode 3 (02.05.17)</itunes:title>
+      <itunes:summary>Er det mindre symbolikk i denne sesongen? Morten Hegseth Riiber, Habon Beegsi, Cecilie Ramona Kåss Furuseth og Mari Garås Monsson syns det er mange avsporinger i Skam nå, men engasjementet er likevel stort for Yousef og Sana. Send oss gjerne dine teorier til skampod@nrk.no (podkasten ble spilt inn tirsdag morgen).&#xA;</itunes:summary>
+      <itunes:duration>1792</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2017">201705</podcast:season>
+    </item>
+    <item>
+      <title>Skampod episode 2 (24.04.17)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_f4a298d2-9a6f-439a-a298-d29a6f839a23</link>
+      <description>Silje Nordnes, Abiel Tesfai, Sofia Srour og Mari Garås Monsson deler meninger, teorier og reaksjoner på Skam-sesongen hittil. Kommer vi til å få se Sana kysse? Gråte? Og hva skjer med erotisk gulrotskrelling på kjøkkenet? Send oss gjerne dine teorier til skampod@nrk.no (podkasten ble spilt inn mandag morgen)</description>
+      <guid isPermaLink="false">l_f4a298d2-9a6f-439a-a298-d29a6f839a23</guid>
+      <pubDate>Mon, 24 Apr 2017 17:18:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2017-04-24_1518_3869.MP3" type="audio/mpeg" length="73013104"></enclosure>
+      <itunes:title>Skampod episode 2 (24.04.17)</itunes:title>
+      <itunes:summary>Silje Nordnes, Abiel Tesfai, Sofia Srour og Mari Garås Monsson deler meninger, teorier og reaksjoner på Skam-sesongen hittil. Kommer vi til å få se Sana kysse? Gråte? Og hva skjer med erotisk gulrotskrelling på kjøkkenet? Send oss gjerne dine teorier til skampod@nrk.no (podkasten ble spilt inn mandag morgen)</itunes:summary>
+      <itunes:duration>1823</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2017">201704</podcast:season>
+    </item>
+    <item>
+      <title>Skampod trailer-spesial (07.04.17)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_3e3c2862-94af-4602-bc28-6294af560227</link>
+      <description>Skam-eventyret avsluttes med en ekte boss i front, vi elsker at Sana endelig skal skinne. Niklas Baarli, Sigrid Velle Dypbukt, Mari Garås Monsson og Simay Leblebicioğlu mesker seg med traileren og spår den siste sesongen. Send oss gjerne dine teorier til skampod@nrk.no &#xA;</description>
+      <guid isPermaLink="false">l_3e3c2862-94af-4602-bc28-6294af560227</guid>
+      <pubDate>Fri, 07 Apr 2017 21:21:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2017-04-07_1921_1391.MP3" type="audio/mpeg" length="28823337"></enclosure>
+      <itunes:title>Skampod trailer-spesial (07.04.17)</itunes:title>
+      <itunes:summary>Skam-eventyret avsluttes med en ekte boss i front, vi elsker at Sana endelig skal skinne. Niklas Baarli, Sigrid Velle Dypbukt, Mari Garås Monsson og Simay Leblebicioğlu mesker seg med traileren og spår den siste sesongen. Send oss gjerne dine teorier til skampod@nrk.no &#xA;</itunes:summary>
+      <itunes:duration>1197</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2017">201704</podcast:season>
+    </item>
+    <item>
+      <title>Skampod bonuspod (21.12.16)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_48bf3daa-3a9d-4bac-bf3d-aa3a9d6bac40</link>
+      <description>Dette er en bonuspodkast der Siggen og Mari åpner døra til studio for alle i  P3-gangene som vil slå av en post Skam-prat. Alt er lov(e)! Noen av de som dukker opp er Ronny Brede Aase, NRK P3s nyhetsanker og Skam-sjefen sjøl, Håkon Moslet.</description>
+      <guid isPermaLink="false">l_48bf3daa-3a9d-4bac-bf3d-aa3a9d6bac40</guid>
+      <pubDate>Wed, 21 Dec 2016 16:56:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2016-12-21_1556_4123.MP3" type="audio/mpeg" length="57434724"></enclosure>
+      <itunes:title>Skampod bonuspod (21.12.16)</itunes:title>
+      <itunes:summary>Dette er en bonuspodkast der Siggen og Mari åpner døra til studio for alle i  P3-gangene som vil slå av en post Skam-prat. Alt er lov(e)! Noen av de som dukker opp er Ronny Brede Aase, NRK P3s nyhetsanker og Skam-sjefen sjøl, Håkon Moslet.</itunes:summary>
+      <itunes:duration>3584</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2016">201612</podcast:season>
+    </item>
+    <item>
+      <title>Skampod episode 11 (16.12.16)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_789a26e0-a702-4702-9a26-e0a7026702e1</link>
+      <description>Hjelp, det er ferdig! Hva gjør vi nå? Vi føler, skrøner og klemmer etter aller siste episode. Ida Fladen elsker Mægz, Erlend Elias byr på hjertefølt avskjed med Skam og Mari lurer på om vi skal følge Sana i militæret neste sesong. Siggen bjudar på og holder alle i tøylene etter beste evne. (Send gjerne mail til skampod@nrk.no om du har noe på hjertet). Obs! Fare for bonuspod til uka, vi er ikke ferdig snakka. </description>
+      <guid isPermaLink="false">l_789a26e0-a702-4702-9a26-e0a7026702e1</guid>
+      <pubDate>Fri, 16 Dec 2016 21:21:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2016-12-16_2021_239.MP3" type="audio/mpeg" length="47155854"></enclosure>
+      <itunes:title>Skampod episode 11 (16.12.16)</itunes:title>
+      <itunes:summary>Hjelp, det er ferdig! Hva gjør vi nå? Vi føler, skrøner og klemmer etter aller siste episode. Ida Fladen elsker Mægz, Erlend Elias byr på hjertefølt avskjed med Skam og Mari lurer på om vi skal følge Sana i militæret neste sesong. Siggen bjudar på og holder alle i tøylene etter beste evne. (Send gjerne mail til skampod@nrk.no om du har noe på hjertet). Obs! Fare for bonuspod til uka, vi er ikke ferdig snakka. </itunes:summary>
+      <itunes:duration>2941</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2016">201612</podcast:season>
+    </item>
+    <item>
+      <title>Skampod episode 10 (lengre versjon)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_3f3b3b67-f686-40cf-bb3b-67f68660cf2a</link>
+      <description>Pga en liten teknisk feil, manglet episode 10 noen minutter med gull du ikke vil gå glipp av. Her får du den lange versjonen! Send oss gjerne mail: skampod@nrk.no</description>
+      <guid isPermaLink="false">l_3f3b3b67-f686-40cf-bb3b-67f68660cf2a</guid>
+      <pubDate>Sun, 11 Dec 2016 14:07:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2016-12-11_137_1018.MP3" type="audio/mpeg" length="37562955"></enclosure>
+      <itunes:title>Skampod episode 10 (lengre versjon)</itunes:title>
+      <itunes:summary>Pga en liten teknisk feil, manglet episode 10 noen minutter med gull du ikke vil gå glipp av. Her får du den lange versjonen! Send oss gjerne mail: skampod@nrk.no</itunes:summary>
+      <itunes:duration>2347</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2016">201612</podcast:season>
+    </item>
+    <item>
+      <title>Skampod episode 10 (10.12.16)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_dfaea737-29fa-4441-aea7-3729fad441b1</link>
+      <description>Woh! Kirkescena holdt på å ta knekken på VGTVs Morten Hegseth, Siggen fikk endelig klemmen hun har venta på, P3s musikkprodusent Adiele kommer rett fra fest der hun så Even og Mari klarer ikke helt å skille mellom fiksjon og  virkelighet. Føler du Skam-episoden i hele kroppen? Du er ikke alene. (Har du noe på hjertet? Ikke nøl med å sende mail til skampod@nrk.no)</description>
+      <guid isPermaLink="false">l_dfaea737-29fa-4441-aea7-3729fad441b1</guid>
+      <pubDate>Sat, 10 Dec 2016 13:14:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2016-12-10_1214_1096.MP3" type="audio/mpeg" length="29300738"></enclosure>
+      <itunes:title>Skampod episode 10 (10.12.16)</itunes:title>
+      <itunes:summary>Woh! Kirkescena holdt på å ta knekken på VGTVs Morten Hegseth, Siggen fikk endelig klemmen hun har venta på, P3s musikkprodusent Adiele kommer rett fra fest der hun så Even og Mari klarer ikke helt å skille mellom fiksjon og  virkelighet. Føler du Skam-episoden i hele kroppen? Du er ikke alene. (Har du noe på hjertet? Ikke nøl med å sende mail til skampod@nrk.no)</itunes:summary>
+      <itunes:duration>1831</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2016">201612</podcast:season>
+    </item>
+    <item>
+      <title>Skampod episode 9 (02.12.16)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_68362bda-fa47-4e47-b62b-dafa47ae472f</link>
+      <description>Stemninga er trykka etter siste klipp! Hva skjer med Isak nå? Hvem skal hjelpe? Er det fortsatt håp for kjærligheten? Hvorfor er Sonja så bitch? Og hvor lik Magnus var Markus på videregående? Og Margaret? Hvem hadde hun vært forelska i i Skam? Så mange spørsmål! (Ronny og Markus fra P3morgen gjør også en fenomenal jobb når de leser opp sextinga mellom Isak og Even).</description>
+      <guid isPermaLink="false">l_68362bda-fa47-4e47-b62b-dafa47ae472f</guid>
+      <pubDate>Fri, 02 Dec 2016 22:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2016-12-2_210_3845.MP3" type="audio/mpeg" length="27159951"></enclosure>
+      <itunes:title>Skampod episode 9 (02.12.16)</itunes:title>
+      <itunes:summary>Stemninga er trykka etter siste klipp! Hva skjer med Isak nå? Hvem skal hjelpe? Er det fortsatt håp for kjærligheten? Hvorfor er Sonja så bitch? Og hvor lik Magnus var Markus på videregående? Og Margaret? Hvem hadde hun vært forelska i i Skam? Så mange spørsmål! (Ronny og Markus fra P3morgen gjør også en fenomenal jobb når de leser opp sextinga mellom Isak og Even).</itunes:summary>
+      <itunes:duration>1697</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2016">201612</podcast:season>
+    </item>
+    <item>
+      <title>Skampod episode 8 (25.11.16)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_5edfa33e-a758-4ede-9fa3-3ea7582edea5</link>
+      <description>Erlend Elias kommer ut som tidligere &#34;klarsynte Teo&#34;, gråter av glede og skulle ønske han var født i 99. Tuva Fellmann elsker utviklingen i guttegjengen, men får fortsatt dårlige vibber av Even. Cecilie Ramona Kåss Furuseth konkluderer med beste episode så langt, samtidig som hun spår dramatikk rundt årets julegrantenning.  P3s Mari Garås Monsson loser deg gjennom denne ukas grinepodkast! (Send mail til skampod@nrk.no hvis du har noe på hjertet)  </description>
+      <guid isPermaLink="false">l_5edfa33e-a758-4ede-9fa3-3ea7582edea5</guid>
+      <pubDate>Fri, 25 Nov 2016 21:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2016-11-25_201_3321.MP3" type="audio/mpeg" length="27371439"></enclosure>
+      <itunes:title>Skampod episode 8 (25.11.16)</itunes:title>
+      <itunes:summary>Erlend Elias kommer ut som tidligere &#34;klarsynte Teo&#34;, gråter av glede og skulle ønske han var født i 99. Tuva Fellmann elsker utviklingen i guttegjengen, men får fortsatt dårlige vibber av Even. Cecilie Ramona Kåss Furuseth konkluderer med beste episode så langt, samtidig som hun spår dramatikk rundt årets julegrantenning.  P3s Mari Garås Monsson loser deg gjennom denne ukas grinepodkast! (Send mail til skampod@nrk.no hvis du har noe på hjertet)  </itunes:summary>
+      <itunes:duration>1710</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2016">201611</podcast:season>
+    </item>
+    <item>
+      <title>Skampod Episode 7 (18.11.16)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_da264791-a7e0-4349-a647-91a7e09349b2</link>
+      <description>Endelig åpna Isak seg for Jonas! For en fyr (!), men har han visst det hele tida? Hva er greia med kardemomme? Var skolelegen litt for humorøs? Når havna den tegninga i lomma? Blir det noe mer mellom Isak og Even? Og når blir det ligging?  Makeupmalin og P3s Markus, Siggen og Mari konspirerer og spinner seg videre inn i Skamnettet. (Send mail til skampod@nrk.no hvis du har noe på hjertet)</description>
+      <guid isPermaLink="false">l_da264791-a7e0-4349-a647-91a7e09349b2</guid>
+      <pubDate>Fri, 18 Nov 2016 20:21:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2016-11-18_1921_236.MP3" type="audio/mpeg" length="20296643"></enclosure>
+      <itunes:title>Skampod Episode 7 (18.11.16)</itunes:title>
+      <itunes:summary>Endelig åpna Isak seg for Jonas! For en fyr (!), men har han visst det hele tida? Hva er greia med kardemomme? Var skolelegen litt for humorøs? Når havna den tegninga i lomma? Blir det noe mer mellom Isak og Even? Og når blir det ligging?  Makeupmalin og P3s Markus, Siggen og Mari konspirerer og spinner seg videre inn i Skamnettet. (Send mail til skampod@nrk.no hvis du har noe på hjertet)</itunes:summary>
+      <itunes:duration>1268</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2016">201611</podcast:season>
+    </item>
+    <item>
+      <title>Skampod Episode 6 (11.11.16)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_c8b7ac0d-bb5e-4e1b-b7ac-0dbb5eae1b9f</link>
+      <description>Dette er podkasten for deg som trenger å skammes mens Skam har gått i svart. Ida Fladen har tatt med seg Skam-notatboka si, Ramona har hengt seg opp i douchemaster 1 og 2, Silje Nordnes har kloke ord på hjertet og Siggen prøver å styre ei skute som seiler i alle retninger. (Send mail til skampod@nrk.no hvis du har noe på hjertet)</description>
+      <guid isPermaLink="false">l_c8b7ac0d-bb5e-4e1b-b7ac-0dbb5eae1b9f</guid>
+      <pubDate>Fri, 11 Nov 2016 18:26:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2016-11-11_1726_2094.MP3" type="audio/mpeg" length="27432043"></enclosure>
+      <itunes:title>Skampod Episode 6 (11.11.16)</itunes:title>
+      <itunes:summary>Dette er podkasten for deg som trenger å skammes mens Skam har gått i svart. Ida Fladen har tatt med seg Skam-notatboka si, Ramona har hengt seg opp i douchemaster 1 og 2, Silje Nordnes har kloke ord på hjertet og Siggen prøver å styre ei skute som seiler i alle retninger. (Send mail til skampod@nrk.no hvis du har noe på hjertet)</itunes:summary>
+      <itunes:duration>1714</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2016">201611</podcast:season>
+    </item>
+    <item>
+      <title>Skampod Episode 5  (04.11.16)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_9570a96e-258d-4026-b0a9-6e258dd0265b</link>
+      <description>Stakkars Isak! Hva skjer nååå?! P3s Ronny og Siggen, artisten Sval og multitalentet Tara Lina tar fatt på femte episode av Skam. Det blir mye følelser, svett stemning, gåsehud, nye konspirasjonsteorier og en gjeng som ikke klarer å slutte å snakke om Skam. (Send mail til skampod@nrk.no hvis du har noe på hjertet!)</description>
+      <guid isPermaLink="false">l_9570a96e-258d-4026-b0a9-6e258dd0265b</guid>
+      <pubDate>Fri, 04 Nov 2016 22:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2016-11-4_210_4027.MP3" type="audio/mpeg" length="25799912"></enclosure>
+      <itunes:title>Skampod Episode 5  (04.11.16)</itunes:title>
+      <itunes:summary>Stakkars Isak! Hva skjer nååå?! P3s Ronny og Siggen, artisten Sval og multitalentet Tara Lina tar fatt på femte episode av Skam. Det blir mye følelser, svett stemning, gåsehud, nye konspirasjonsteorier og en gjeng som ikke klarer å slutte å snakke om Skam. (Send mail til skampod@nrk.no hvis du har noe på hjertet!)</itunes:summary>
+      <itunes:duration>1612</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2016">201611</podcast:season>
+    </item>
+    <item>
+      <title>Skampod Episode 4 (28.10.16)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_8b873994-a8b0-4b1d-8739-94a8b0cb1d10</link>
+      <description>Endelig! Endelig har de hooket! Men er det noe skurr et sted? Vi er livredde at det er spor av noe manisk i både blikket og innfallene til Even. Nettet snører seg, tenk om det ender i tragedie? Mari Garås Monsson, Adiele Arukwe, Cecilie Ramona Kåss Furuseth og Henrik Aspeflaten konspirerer videre i referansene til Romeo &amp; Julie, hemmelige koder til kjærlighetskarusellen og den kristne moren til Isak. (Send gjerne mail til skampod@nrk.no hvis du har noe på hjertet)</description>
+      <guid isPermaLink="false">l_8b873994-a8b0-4b1d-8739-94a8b0cb1d10</guid>
+      <pubDate>Fri, 28 Oct 2016 22:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2016-10-28_210_3974.MP3" type="audio/mpeg" length="22301594"></enclosure>
+      <itunes:title>Skampod Episode 4 (28.10.16)</itunes:title>
+      <itunes:summary>Endelig! Endelig har de hooket! Men er det noe skurr et sted? Vi er livredde at det er spor av noe manisk i både blikket og innfallene til Even. Nettet snører seg, tenk om det ender i tragedie? Mari Garås Monsson, Adiele Arukwe, Cecilie Ramona Kåss Furuseth og Henrik Aspeflaten konspirerer videre i referansene til Romeo &amp; Julie, hemmelige koder til kjærlighetskarusellen og den kristne moren til Isak. (Send gjerne mail til skampod@nrk.no hvis du har noe på hjertet)</itunes:summary>
+      <itunes:duration>1393</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2016">201610</podcast:season>
+    </item>
+    <item>
+      <title>Skampod Episode 3 (21.10.16)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_e58fc4e3-bbe6-4c55-8fc4-e3bbe65c55ff</link>
+      <description>Hva f*** skjedde på slutten av tredje episode!?!? Siggen får vondt i magen av alle de undertrykte følelsene, Abiel legger merke til at Even har lugna ned på Grease-sleiken og Tara Lina er mer overbevist enn noen gang om at Sana styrer et narkokartell. Mari har hengt seg opp i Evens pikkreferanser og slenger nye konspirasjonsteorier på bordet. (Send gjerne mail til skampod@nrk.no hvis du har noe på hjertet)</description>
+      <guid isPermaLink="false">l_e58fc4e3-bbe6-4c55-8fc4-e3bbe65c55ff</guid>
+      <pubDate>Fri, 21 Oct 2016 20:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2016-10-21_1710_3851.MP3" type="audio/mpeg" length="20997979"></enclosure>
+      <itunes:title>Skampod Episode 3 (21.10.16)</itunes:title>
+      <itunes:summary>Hva f*** skjedde på slutten av tredje episode!?!? Siggen får vondt i magen av alle de undertrykte følelsene, Abiel legger merke til at Even har lugna ned på Grease-sleiken og Tara Lina er mer overbevist enn noen gang om at Sana styrer et narkokartell. Mari har hengt seg opp i Evens pikkreferanser og slenger nye konspirasjonsteorier på bordet. (Send gjerne mail til skampod@nrk.no hvis du har noe på hjertet)</itunes:summary>
+      <itunes:duration>1312</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2016">201610</podcast:season>
+    </item>
+    <item>
+      <title>Skampod Episode 2 (14.10.16)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_255be832-f0bd-4678-9be8-32f0bd567802</link>
+      <description>Markus Bailey (Skal vi danse), Matilda (artist med flere p3-låter), Line Elvsåshagen (Lindejordarundt og LinedaterNorge) og Siggen (p3) diskuterer andre episode. Send gjerne mail til skampod@nrk.no</description>
+      <guid isPermaLink="false">l_255be832-f0bd-4678-9be8-32f0bd567802</guid>
+      <pubDate>Fri, 14 Oct 2016 20:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2016-10-14_1833_20.MP3" type="audio/mpeg" length="21273832"></enclosure>
+      <itunes:title>Skampod Episode 2 (14.10.16)</itunes:title>
+      <itunes:summary>Markus Bailey (Skal vi danse), Matilda (artist med flere p3-låter), Line Elvsåshagen (Lindejordarundt og LinedaterNorge) og Siggen (p3) diskuterer andre episode. Send gjerne mail til skampod@nrk.no</itunes:summary>
+      <itunes:duration>1329</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2016">201610</podcast:season>
+    </item>
+    <item>
+      <title>Skampod Episode 1 (07.10.16)</title>
+      <link>https://radio.nrk.no/podkast/skampod/l_4c3a7480-ab4e-4451-ba74-80ab4e14517e</link>
+      <description>Siggen, Ida Fladen, Niklas og Tara Lina diskuterer første episode av Skam. Husk at du kan sende mail til skampod@nrk.no hvis du har noe på hjertet!</description>
+      <guid isPermaLink="false">l_4c3a7480-ab4e-4451-ba74-80ab4e14517e</guid>
+      <pubDate>Fri, 07 Oct 2016 21:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skampod/skampod_2016-10-7_1911_1321.MP3" type="audio/mpeg" length="20837065"></enclosure>
+      <itunes:title>Skampod Episode 1 (07.10.16)</itunes:title>
+      <itunes:summary>Siggen, Ida Fladen, Niklas og Tara Lina diskuterer første episode av Skam. Husk at du kan sende mail til skampod@nrk.no hvis du har noe på hjertet!</itunes:summary>
+      <itunes:duration>1302</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VJdpCoUGNcJT6EbJrGeOJwkVxOfKQ1ZeXMuKtS5tkPnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2016">201610</podcast:season>
+    </item>
+  </channel>
+</rss>

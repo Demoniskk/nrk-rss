@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Krimrommet</title>
+    <link>https://radio.nrk.no/podkast/krimrommet</link>
+    <description>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 26 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A"></itunes:image>
+    <itunes:category text="History"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A</url>
+      <title>Krimrommet</title>
+      <link>https://radio.nrk.no/podkast/krimrommet</link>
+    </image>
+    <item>
+      <title>Kvinnen i kofferten</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_b0060f09-9498-43a1-860f-09949863a111</link>
+      <description>En mann triller en koffert langs et fortau i Athen. Like etter blir en skotsk misjonær meldt savnet.</description>
+      <guid isPermaLink="false">l_b0060f09-9498-43a1-860f-09949863a111</guid>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/b0060f09-9498-43a1-860f-09949863a111_1_ID192MP3.mp3" type="audio/mpeg" length="40673132"></enclosure>
+      <itunes:title>Kvinnen i kofferten</itunes:title>
+      <itunes:summary>En mann triller en koffert langs et fortau i Athen. Like etter blir en skotsk misjonær meldt savnet.</itunes:summary>
+      <itunes:duration>1694</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MA78-aLLRxTzUBWoxnTjNgX18UJpwLeuyd8cHx9QocwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Martine-saken (4): Farouk svarer</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_60b13e5e-5f6a-41fa-b13e-5e5f6ae1fae5</link>
+      <description>Journalisten Nawal Al-Maghafi har jaktet på Farouk i en årrekke. I 2022 får hun endelig høre hans versjon av saken.</description>
+      <guid isPermaLink="false">l_60b13e5e-5f6a-41fa-b13e-5e5f6ae1fae5</guid>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/60b13e5e-5f6a-41fa-b13e-5e5f6ae1fae5_2_ID192MP3.mp3" type="audio/mpeg" length="29696300"></enclosure>
+      <itunes:title>Martine-saken (4): Farouk svarer</itunes:title>
+      <itunes:summary>Journalisten Nawal Al-Maghafi har jaktet på Farouk i en årrekke. I 2022 får hun endelig høre hans versjon av saken.</itunes:summary>
+      <itunes:duration>1237</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EwKELwM1SSc30HbcDR4Srwjr_j9Fj2aEsiCUIH_vNDIg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Martine-saken (3): Epsteins råd</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_1dfa488b-58e6-4f37-ba48-8b58e65f3788</link>
+      <description>Farouks far, Shaher Abdulhak, merker at Martine-saken går ut over ryktet hans. Så spør han en venn om hjelp.</description>
+      <guid isPermaLink="false">l_1dfa488b-58e6-4f37-ba48-8b58e65f3788</guid>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/1dfa488b-58e6-4f37-ba48-8b58e65f3788_1_ID192MP3.mp3" type="audio/mpeg" length="26334188"></enclosure>
+      <itunes:title>Martine-saken (3): Epsteins råd</itunes:title>
+      <itunes:summary>Farouks far, Shaher Abdulhak, merker at Martine-saken går ut over ryktet hans. Så spør han en venn om hjelp.</itunes:summary>
+      <itunes:duration>1097</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ljwe4iOmDIs6vkRDmHDu7wvYqKjEMkKCa2KBmMs4HE1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Martine-saken (2): Drapsalarm</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_1b1ec10c-9677-4bed-9ec1-0c96770bed99</link>
+      <description>Det britiske politiet finner Martine. Samtidig har den eneste mistenkte i saken, Farouk Abdulhak, satt seg på et fly – til Jemen.</description>
+      <guid isPermaLink="false">l_1b1ec10c-9677-4bed-9ec1-0c96770bed99</guid>
+      <pubDate>Wed, 05 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/1b1ec10c-9677-4bed-9ec1-0c96770bed99_1_ID192MP3.mp3" type="audio/mpeg" length="21462380"></enclosure>
+      <itunes:title>Martine-saken (2): Drapsalarm</itunes:title>
+      <itunes:summary>Det britiske politiet finner Martine. Samtidig har den eneste mistenkte i saken, Farouk Abdulhak, satt seg på et fly – til Jemen.</itunes:summary>
+      <itunes:duration>894</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iy3TaH0R4oKmV_wOlNQ4PwCvtNfhDcjIHDqFh2X97Mbg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Martine-saken (1): Den siste festen</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_31da71e3-e95d-4b25-9a71-e3e95d0b2581</link>
+      <description>En marsdag i 2008 drar Martine Vik Magnussen (23) på byen med noen venner. Hun kommer aldri hjem igjen.</description>
+      <guid isPermaLink="false">l_31da71e3-e95d-4b25-9a71-e3e95d0b2581</guid>
+      <pubDate>Wed, 29 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/31da71e3-e95d-4b25-9a71-e3e95d0b2581_1_ID192MP3.mp3" type="audio/mpeg" length="16926380"></enclosure>
+      <itunes:title>Martine-saken (1): Den siste festen</itunes:title>
+      <itunes:summary>En marsdag i 2008 drar Martine Vik Magnussen (23) på byen med noen venner. Hun kommer aldri hjem igjen.</itunes:summary>
+      <itunes:duration>705</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OLQr6hW4Ek6i4iVh42XQSAlB9OpEvgEOwX3W8JLFMm0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kampen-drapet (2): Et varslet drap?</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_6c6835d6-c596-4c42-a835-d6c5968c4224</link>
+      <description>En 18-åring kjøper militærliknende klær og en jaktkniv på nettet. Planen han legger, skal ende i en av landets strengeste straffer.</description>
+      <guid isPermaLink="false">l_6c6835d6-c596-4c42-a835-d6c5968c4224</guid>
+      <pubDate>Thu, 23 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/6c6835d6-c596-4c42-a835-d6c5968c4224_1_ID192MP3.mp3" type="audio/mpeg" length="33197228"></enclosure>
+      <itunes:title>Kampen-drapet (2): Et varslet drap?</itunes:title>
+      <itunes:summary>En 18-åring kjøper militærliknende klær og en jaktkniv på nettet. Planen han legger, skal ende i en av landets strengeste straffer.</itunes:summary>
+      <itunes:duration>1383</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/caQkOdF7eEVCIZyaxraNxQKrz1xPtE7vcEXvQC6rSG_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kampen-drapet (1): Den forlatte bilen</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_aeccc91e-50f1-4f66-8cc9-1e50f19f66dc</link>
+      <description>Tamima Nibras Juhar forteller venner at hun er redd for å dra på jobb. Det har hun all grunn til.</description>
+      <guid isPermaLink="false">l_aeccc91e-50f1-4f66-8cc9-1e50f19f66dc</guid>
+      <pubDate>Wed, 15 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/aeccc91e-50f1-4f66-8cc9-1e50f19f66dc_2_ID192MP3.mp3" type="audio/mpeg" length="14206508"></enclosure>
+      <itunes:title>Kampen-drapet (1): Den forlatte bilen</itunes:title>
+      <itunes:summary>Tamima Nibras Juhar forteller venner at hun er redd for å dra på jobb. Det har hun all grunn til.</itunes:summary>
+      <itunes:duration>591</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8CZ-nrQv9nfaytZvoCbbdglUc4p7fm2EQTAT_F5SAEiw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Wangen (6): Derfor ble han dømt</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_c3308437-2a15-4fcf-b084-372a158fcf53</link>
+      <description>Meldinger om drap, endring i forklaringer og en fascinasjon for død. Dette legger retten til grunn for den ankede dommen.</description>
+      <guid isPermaLink="false">l_c3308437-2a15-4fcf-b084-372a158fcf53</guid>
+      <pubDate>Wed, 08 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/c3308437-2a15-4fcf-b084-372a158fcf53_1_ID192MP3.mp3" type="audio/mpeg" length="28475756"></enclosure>
+      <itunes:title>Wangen (6): Derfor ble han dømt</itunes:title>
+      <itunes:summary>Meldinger om drap, endring i forklaringer og en fascinasjon for død. Dette legger retten til grunn for den ankede dommen.</itunes:summary>
+      <itunes:duration>1186</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-jT1VLE2n8BiT2J2CR9S-QlWFcdCn-gNOKdv0BRABzpw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jørn Andersen (2): Blodet i snøen</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_2bea1339-2beb-4c45-aa13-392beb4c4545</link>
+      <description>Over 20 år etter at han drepte ekskjæresten sin på et vorspiel, blir Jørn Andersen siktet i en ny og uhyggelig sak.</description>
+      <guid isPermaLink="false">l_2bea1339-2beb-4c45-aa13-392beb4c4545</guid>
+      <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/2bea1339-2beb-4c45-aa13-392beb4c4545_1_ID192MP3.mp3" type="audio/mpeg" length="27350828"></enclosure>
+      <itunes:title>Jørn Andersen (2): Blodet i snøen</itunes:title>
+      <itunes:summary>Over 20 år etter at han drepte ekskjæresten sin på et vorspiel, blir Jørn Andersen siktet i en ny og uhyggelig sak.</itunes:summary>
+      <itunes:duration>1139</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OE1Zq0LAFjyzJOjkVmRRfQWxxIelN_snADDtAkzRZeEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lastebil-Jonas (4): Dødshevnen</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_7b53212a-2fe6-456d-9321-2a2fe6156dd6</link>
+      <description>«Bestilleren» ble besatt av sjalusi da kjæresten hans ble med Jonas Aarseth Henriksen på hyttetur. Så la han en plan, mener lagmannsretten.</description>
+      <guid isPermaLink="false">l_7b53212a-2fe6-456d-9321-2a2fe6156dd6</guid>
+      <pubDate>Wed, 01 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/7b53212a-2fe6-456d-9321-2a2fe6156dd6_1_ID192MP3.mp3" type="audio/mpeg" length="33685100"></enclosure>
+      <itunes:title>Lastebil-Jonas (4): Dødshevnen</itunes:title>
+      <itunes:summary>«Bestilleren» ble besatt av sjalusi da kjæresten hans ble med Jonas Aarseth Henriksen på hyttetur. Så la han en plan, mener lagmannsretten.</itunes:summary>
+      <itunes:duration>1403</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/DAi-q1B9tIHIFi9QZlVAwAHbsSovtc8qDS3_y2bwaitg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jørn Andersen (1): Farlig vorspiel</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_39d60426-1506-4f7a-9604-2615068f7ae0</link>
+      <description>En høstdag i 1999 bestemmer 28 år gamle Jørn Andersen seg for å dra på en fest han ikke er invitert til. Det ender fatalt.</description>
+      <guid isPermaLink="false">l_39d60426-1506-4f7a-9604-2615068f7ae0</guid>
+      <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/39d60426-1506-4f7a-9604-2615068f7ae0_1_ID192MP3.mp3" type="audio/mpeg" length="16389548"></enclosure>
+      <itunes:title>Jørn Andersen (1): Farlig vorspiel</itunes:title>
+      <itunes:summary>En høstdag i 1999 bestemmer 28 år gamle Jørn Andersen seg for å dra på en fest han ikke er invitert til. Det ender fatalt.</itunes:summary>
+      <itunes:duration>682</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/g5kG8PRsDHMMegeq2d2Oww4RXwhk_WQ_2X38vkON7Y-Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kan Kongen benåde Høiby?</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_7a6aedd7-9d56-4f41-aaed-d79d561f41f3</link>
+      <description>Krimrommet svarer på spørsmålene dine.</description>
+      <guid isPermaLink="false">l_7a6aedd7-9d56-4f41-aaed-d79d561f41f3</guid>
+      <pubDate>Thu, 18 Jun 2026 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/7a6aedd7-9d56-4f41-aaed-d79d561f41f3_2_ID192MP3.mp3" type="audio/mpeg" length="29346668"></enclosure>
+      <itunes:title>Kan Kongen benåde Høiby?</itunes:title>
+      <itunes:summary>Krimrommet svarer på spørsmålene dine.</itunes:summary>
+      <itunes:duration>1222</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PbJ68jKD6tr8OGjheHmRegd_p7yo5PVxIG1XHUKHDaxQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Wangen (5): Pute eller ikke pute?</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_354d2628-936c-4b8d-8d26-28936c8b8d44</link>
+      <description>Retten skal avgjøre om Steinar Wangen har drept med pute eller medvirket til selvmord.</description>
+      <guid isPermaLink="false">l_354d2628-936c-4b8d-8d26-28936c8b8d44</guid>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/354d2628-936c-4b8d-8d26-28936c8b8d44_1_ID192MP3.mp3" type="audio/mpeg" length="35228780"></enclosure>
+      <itunes:title>Wangen (5): Pute eller ikke pute?</itunes:title>
+      <itunes:summary>Retten skal avgjøre om Steinar Wangen har drept med pute eller medvirket til selvmord.</itunes:summary>
+      <itunes:duration>1467</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/E41s7mA4f7-vqNBXfc2xYQb67M3CK7QJMQPenwNdZzJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (22): Dette er dommen</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_96396304-04d2-4dba-b963-0404d24dbac6</link>
+      <description>Kronprinsessens sønn har fått en historisk dom. Hva skjer videre nå?</description>
+      <guid isPermaLink="false">l_96396304-04d2-4dba-b963-0404d24dbac6</guid>
+      <pubDate>Mon, 15 Jun 2026 18:35:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/96396304-04d2-4dba-b963-0404d24dbac6_1_ID192MP3.mp3" type="audio/mpeg" length="44891756"></enclosure>
+      <itunes:title>Høiby (22): Dette er dommen</itunes:title>
+      <itunes:summary>Kronprinsessens sønn har fått en historisk dom. Hva skjer videre nå?</itunes:summary>
+      <itunes:duration>1870</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R9JQmd9laK48TE8IBO2tiA23iOp49SdYunmUL1aeT6EQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (21): Er retten for streng?</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_25067f29-3388-47a5-867f-29338817a505</link>
+      <description>Lagmannsretten har talt: Marius Borg Høiby må fortsatt sitte i varetekt. Men er beslutningen rettferdig?</description>
+      <guid isPermaLink="false">l_25067f29-3388-47a5-867f-29338817a505</guid>
+      <pubDate>Wed, 10 Jun 2026 16:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/25067f29-3388-47a5-867f-29338817a505_1_ID192MP3.mp3" type="audio/mpeg" length="26035820"></enclosure>
+      <itunes:title>Høiby (21): Er retten for streng?</itunes:title>
+      <itunes:summary>Lagmannsretten har talt: Marius Borg Høiby må fortsatt sitte i varetekt. Men er beslutningen rettferdig?</itunes:summary>
+      <itunes:duration>1084</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PYArHzEwObWDLNV6s66s3AhDZOlMKQCQ9UOq83NDPjJw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Wangen (4): Malins siste timer</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_353eb710-4b8b-4c00-beb7-104b8b3c0068</link>
+      <description>Steinar Wangen forklarer seg om kvelden Malin (47) døde. Så gjør han noe som setter en støkk i retten.</description>
+      <guid isPermaLink="false">l_353eb710-4b8b-4c00-beb7-104b8b3c0068</guid>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/353eb710-4b8b-4c00-beb7-104b8b3c0068_1_ID192MP3.mp3" type="audio/mpeg" length="34442540"></enclosure>
+      <itunes:title>Wangen (4): Malins siste timer</itunes:title>
+      <itunes:summary>Steinar Wangen forklarer seg om kvelden Malin (47) døde. Så gjør han noe som setter en støkk i retten.</itunes:summary>
+      <itunes:duration>1435</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3EZak_8TVdgoM-MaIpKvNAdWletysXwBQYxNeNoQhneQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Wangen (3): Den rosa kofferten</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_f0d4d7b5-ee16-4735-94d7-b5ee16773592</link>
+      <description>Steinar Wangen drar tilbake til Sverige. Det han ikke vet, er at noen er i ferd med å lokke ham i en felle.</description>
+      <guid isPermaLink="false">l_f0d4d7b5-ee16-4735-94d7-b5ee16773592</guid>
+      <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/f0d4d7b5-ee16-4735-94d7-b5ee16773592_2_ID192MP3.mp3" type="audio/mpeg" length="25614188"></enclosure>
+      <itunes:title>Wangen (3): Den rosa kofferten</itunes:title>
+      <itunes:summary>Steinar Wangen drar tilbake til Sverige. Det han ikke vet, er at noen er i ferd med å lokke ham i en felle.</itunes:summary>
+      <itunes:duration>1067</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Z8bTyXeicQ7eJd-cRrlPigtWeE0yTjGR45x_R4TNOOFg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Wangen (2): Dødsplanen</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_47cbf670-5aff-4602-8bf6-705aff460229</link>
+      <description>Steinar Wangen møter en eldre kvinne på et hotell i Sverige. Bare én av dem kommer hjem til Norge i live.</description>
+      <guid isPermaLink="false">l_47cbf670-5aff-4602-8bf6-705aff460229</guid>
+      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/47cbf670-5aff-4602-8bf6-705aff460229_2_ID192MP3.mp3" type="audio/mpeg" length="21164588"></enclosure>
+      <itunes:title>Wangen (2): Dødsplanen</itunes:title>
+      <itunes:summary>Steinar Wangen møter en eldre kvinne på et hotell i Sverige. Bare én av dem kommer hjem til Norge i live.</itunes:summary>
+      <itunes:duration>881</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dKfRHounwdwzRQvybIzfugBARyCHTGmyrSDYmPLrjH-Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Wangen (1): Barnedrapet</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_7503c276-e40b-4e39-83c2-76e40bce3947</link>
+      <description>Steinar Wangen er 15 år gammel når han møter en jente i skogen. Det som skjer der, skal endre livet hans for alltid.</description>
+      <guid isPermaLink="false">l_7503c276-e40b-4e39-83c2-76e40bce3947</guid>
+      <pubDate>Sat, 30 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/7503c276-e40b-4e39-83c2-76e40bce3947_2_ID192MP3.mp3" type="audio/mpeg" length="15803180"></enclosure>
+      <itunes:title>Wangen (1): Barnedrapet</itunes:title>
+      <itunes:summary>Steinar Wangen er 15 år gammel når han møter en jente i skogen. Det som skjer der, skal endre livet hans for alltid.</itunes:summary>
+      <itunes:duration>658</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hc_KHHL_jOTcn20iysaegAya8FxzGSD7LJJHNrPOLryQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Emilie Meng: Er drapsgåten endelig løst?</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_c6c7d48a-efb7-40a1-87d4-8aefb7b0a175</link>
+      <description>I 2016 forsvinner en 17-åring i Danmark. Så blir to jenter forsøkt kidnappet - i samme område. Hva skjedde, egentlig?</description>
+      <guid isPermaLink="false">l_c6c7d48a-efb7-40a1-87d4-8aefb7b0a175</guid>
+      <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/c6c7d48a-efb7-40a1-87d4-8aefb7b0a175_1_ID192MP3.mp3" type="audio/mpeg" length="36722348"></enclosure>
+      <itunes:title>Emilie Meng: Er drapsgåten endelig løst?</itunes:title>
+      <itunes:summary>I 2016 forsvinner en 17-åring i Danmark. Så blir to jenter forsøkt kidnappet - i samme område. Hva skjedde, egentlig?</itunes:summary>
+      <itunes:duration>1530</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WceISvijLwdAAc2e7Ibq4QWDtr16tQhKnqbpp-qLchBw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bensindrapet i Porsgrunn</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_f98f8a8d-5045-45db-8f8a-8d504565db88</link>
+      <description>Kjetil Mathisen heller bensin over kjæresten sin og tenner på. Noen måneder senere dør kompisen hans. Hva skjedde egentlig?</description>
+      <guid isPermaLink="false">l_f98f8a8d-5045-45db-8f8a-8d504565db88</guid>
+      <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/f98f8a8d-5045-45db-8f8a-8d504565db88_1_ID192MP3.mp3" type="audio/mpeg" length="49942700"></enclosure>
+      <itunes:title>Bensindrapet i Porsgrunn</itunes:title>
+      <itunes:summary>Kjetil Mathisen heller bensin over kjæresten sin og tenner på. Noen måneder senere dør kompisen hans. Hva skjedde egentlig?</itunes:summary>
+      <itunes:duration>2080</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZpCqrB6hTATxyrybWOjF0wmEvnIy5M-Npe74zZFSdQyQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>D4VD: Kan han få dødsstraff?</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_bb479eeb-0e46-4562-879e-eb0e46b5621b</link>
+      <description>Politiet mener at artisten drepte 14 år gamle Celeste – og parterte henne med motorsag. Men holder bevisene hele veien til retten?</description>
+      <guid isPermaLink="false">l_bb479eeb-0e46-4562-879e-eb0e46b5621b</guid>
+      <pubDate>Wed, 13 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/bb479eeb-0e46-4562-879e-eb0e46b5621b_2_ID192MP3.mp3" type="audio/mpeg" length="37513196"></enclosure>
+      <itunes:title>D4VD: Kan han få dødsstraff?</itunes:title>
+      <itunes:summary>Politiet mener at artisten drepte 14 år gamle Celeste – og parterte henne med motorsag. Men holder bevisene hele veien til retten?</itunes:summary>
+      <itunes:duration>1563</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Cng4UKbamhe1n12KvZ6iaQgX42vowUOtwIzhRydG016Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (20): Avslag på 15 minutter</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_3ae860d7-d8aa-4a36-a860-d7d8aaaa367b</link>
+      <description>Marius Borg Høiby var tilbake i retten i dag med et ønske om å sitte i varetekt hjemme med fotlenke.</description>
+      <guid isPermaLink="false">l_3ae860d7-d8aa-4a36-a860-d7d8aaaa367b</guid>
+      <pubDate>Wed, 06 May 2026 20:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/3ae860d7-d8aa-4a36-a860-d7d8aaaa367b_1_ID192MP3.mp3" type="audio/mpeg" length="47535020"></enclosure>
+      <itunes:title>Høiby (20): Avslag på 15 minutter</itunes:title>
+      <itunes:summary>Marius Borg Høiby var tilbake i retten i dag med et ønske om å sitte i varetekt hjemme med fotlenke.</itunes:summary>
+      <itunes:duration>1980</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1EEJPg1jIVJybyHR_2IsuwFA0OfQJ8Sc9UHYskzHEpqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lastebil-Jonas (3): Høy temperatur i retten</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_376e0c48-0269-49c1-ae0c-48026969c136</link>
+      <description>Det ble roping i salen på rettssakens siste dag. Klarte forsvarerne å snu bevisene til sin fordel?</description>
+      <guid isPermaLink="false">l_376e0c48-0269-49c1-ae0c-48026969c136</guid>
+      <pubDate>Thu, 30 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/376e0c48-0269-49c1-ae0c-48026969c136_1_ID192MP3.mp3" type="audio/mpeg" length="76540076"></enclosure>
+      <itunes:title>Lastebil-Jonas (3): Høy temperatur i retten</itunes:title>
+      <itunes:summary>Det ble roping i salen på rettssakens siste dag. Klarte forsvarerne å snu bevisene til sin fordel?</itunes:summary>
+      <itunes:duration>3189</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CoYWGBo5pdWpcdBRV0pWcQNNTkLuxDfHNThlg0eARl6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lastebil-Jonas (2): Planlagt drap?</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_07c62b4c-7aca-499c-862b-4c7aca499c0a</link>
+      <description>Aktor vil ha forvaring for den såkalte &#34;Bestilleren&#34;, men kan hun overbevise retten om at drapet på Jonas var planlagt?</description>
+      <guid isPermaLink="false">l_07c62b4c-7aca-499c-862b-4c7aca499c0a</guid>
+      <pubDate>Fri, 24 Apr 2026 19:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/07c62b4c-7aca-499c-862b-4c7aca499c0a_1_ID192MP3.mp3" type="audio/mpeg" length="56573036"></enclosure>
+      <itunes:title>Lastebil-Jonas (2): Planlagt drap?</itunes:title>
+      <itunes:summary>Aktor vil ha forvaring for den såkalte &#34;Bestilleren&#34;, men kan hun overbevise retten om at drapet på Jonas var planlagt?</itunes:summary>
+      <itunes:duration>2357</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9wwR0DrfrDhXEhvY5FEE8ggYo0Cnu_ABcZJhla7To3Aw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lastebil-Jonas (1): Dødelig flørt</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_cb5ff686-857c-4e49-9ff6-86857cbe49cc</link>
+      <description>En kort flørt setter i gang en årelang hevnaksjon som ender i drap. Men var planen egentlig å ta livet av Jonas Aarseth Henriksen?</description>
+      <guid isPermaLink="false">l_cb5ff686-857c-4e49-9ff6-86857cbe49cc</guid>
+      <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/cb5ff686-857c-4e49-9ff6-86857cbe49cc_5_ID192MP3.mp3" type="audio/mpeg" length="64866860"></enclosure>
+      <itunes:title>Lastebil-Jonas (1): Dødelig flørt</itunes:title>
+      <itunes:summary>En kort flørt setter i gang en årelang hevnaksjon som ender i drap. Men var planen egentlig å ta livet av Jonas Aarseth Henriksen?</itunes:summary>
+      <itunes:duration>2702</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/v6DGHh-_LknhMHiqON80YAzIA8vc5ywcbvkEwJPXIdVw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vilma Andersson: Kroppsdelene i kjøleskapet (2)</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_6ae6696e-71a2-4b62-a669-6e71a2db622c</link>
+      <description>En kvinne blir funnet drept og partert i Sverige i romjula 2025. Mannen som nå er pågrepet har en mørk historie.</description>
+      <guid isPermaLink="false">l_6ae6696e-71a2-4b62-a669-6e71a2db622c</guid>
+      <pubDate>Wed, 08 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/6ae6696e-71a2-4b62-a669-6e71a2db622c_1_ID192MP3.mp3" type="audio/mpeg" length="38305196"></enclosure>
+      <itunes:title>Vilma Andersson: Kroppsdelene i kjøleskapet (2)</itunes:title>
+      <itunes:summary>En kvinne blir funnet drept og partert i Sverige i romjula 2025. Mannen som nå er pågrepet har en mørk historie.</itunes:summary>
+      <itunes:duration>1596</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tm0I-osZR_zN5kuTuvThygK_pXRYf9JpLmwDU-s6rhSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vilma Andersson: 10-åringen som ble tatt (1)</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_a318a085-c5a3-4f46-98a0-85c5a30f4621</link>
+      <description>En maskert mann drar en jente inn i en bil en sommerdag i 2019. Lokalsamfunnet advarer, men seks år senere blir han tatt med likdeler i kjøleskapet.</description>
+      <guid isPermaLink="false">l_a318a085-c5a3-4f46-98a0-85c5a30f4621</guid>
+      <pubDate>Wed, 01 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/a318a085-c5a3-4f46-98a0-85c5a30f4621_1_ID192MP3.mp3" type="audio/mpeg" length="36575468"></enclosure>
+      <itunes:title>Vilma Andersson: 10-åringen som ble tatt (1)</itunes:title>
+      <itunes:summary>En maskert mann drar en jente inn i en bil en sommerdag i 2019. Lokalsamfunnet advarer, men seks år senere blir han tatt med likdeler i kjøleskapet.</itunes:summary>
+      <itunes:duration>1523</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QjD_dY70sLMKNkeukJ0U-QXh9jsn5-qtOuCIoj-PznaQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Guthrie: Forsvinningssaken som ryster USA</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_d72c61bd-c3b7-4997-ac61-bdc3b7999702</link>
+      <description>En mann med finlandshette og pistol dukket opp på et overvåkningskamera utenfor huset til TV-stjernens mor.</description>
+      <guid isPermaLink="false">l_d72c61bd-c3b7-4997-ac61-bdc3b7999702</guid>
+      <pubDate>Fri, 27 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/d72c61bd-c3b7-4997-ac61-bdc3b7999702_1_ID192MP3.mp3" type="audio/mpeg" length="35875628"></enclosure>
+      <itunes:title>Guthrie: Forsvinningssaken som ryster USA</itunes:title>
+      <itunes:summary>En mann med finlandshette og pistol dukket opp på et overvåkningskamera utenfor huset til TV-stjernens mor.</itunes:summary>
+      <itunes:duration>1494</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/W3n4E34EzeqNnubWehHSGAvar1J4Fkxou8FPj9CO0Nug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Økse-drapet i Løten (2): Slik endret kvinnen forklaring</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_6ed02099-248a-4691-9020-99248af6912f</link>
+      <description>Drapsdømte Veronica Lystrup tilstod å ha drept, men hevdet nødverge, da saken kom opp i lagmannsretten.</description>
+      <guid isPermaLink="false">l_6ed02099-248a-4691-9020-99248af6912f</guid>
+      <pubDate>Wed, 25 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/6ed02099-248a-4691-9020-99248af6912f_1_ID192MP3.mp3" type="audio/mpeg" length="47177900"></enclosure>
+      <itunes:title>Økse-drapet i Løten (2): Slik endret kvinnen forklaring</itunes:title>
+      <itunes:summary>Drapsdømte Veronica Lystrup tilstod å ha drept, men hevdet nødverge, da saken kom opp i lagmannsretten.</itunes:summary>
+      <itunes:duration>1965</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rX_7sQwj4o0bP6A8aQE6ZAEjIJnbOt-tb_lPvHxKWnzA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (19): Forsvaret vil ha ett års fengsel</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_b9fbd74a-74aa-4d7f-bbd7-4a74aacd7f96</link>
+      <description>Den siste dagen i retten var forsvarets endelige mulighet til å overbevise dommerne om lavest mulig straff for Marius Borg Høiby.</description>
+      <guid isPermaLink="false">l_b9fbd74a-74aa-4d7f-bbd7-4a74aacd7f96</guid>
+      <pubDate>Thu, 19 Mar 2026 23:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/b9fbd74a-74aa-4d7f-bbd7-4a74aacd7f96_1_ID192MP3.mp3" type="audio/mpeg" length="81855980"></enclosure>
+      <itunes:title>Høiby (19): Forsvaret vil ha ett års fengsel</itunes:title>
+      <itunes:summary>Den siste dagen i retten var forsvarets endelige mulighet til å overbevise dommerne om lavest mulig straff for Marius Borg Høiby.</itunes:summary>
+      <itunes:duration>3410</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GSjrhADphw1Jyks94x13oQU7M2Q81Hu6G7QQwQ9Z2Nlg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (18): Aktor vil ha 7 års fengsel</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_8fd21276-b11a-4b70-9212-76b11a5b70e1</link>
+      <description>Aktoratet og bistandsadvokatene la frem sine siste argumenter i retten i dag.</description>
+      <guid isPermaLink="false">l_8fd21276-b11a-4b70-9212-76b11a5b70e1</guid>
+      <pubDate>Wed, 18 Mar 2026 20:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/8fd21276-b11a-4b70-9212-76b11a5b70e1_1_ID192MP3.mp3" type="audio/mpeg" length="59359148"></enclosure>
+      <itunes:title>Høiby (18): Aktor vil ha 7 års fengsel</itunes:title>
+      <itunes:summary>Aktoratet og bistandsadvokatene la frem sine siste argumenter i retten i dag.</itunes:summary>
+      <itunes:duration>2473</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LkrAKsBIf0EfTZFMwRaT4Ac9w5YL6YI2eI0yKO-XFAUg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (17): «Høiby er ikke et monster»</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_84feb0c2-4ab8-464c-beb0-c24ab8364c35</link>
+      <description>Mandag var det statsadvokatens siste sjanse til å overbevise retten om at Marius Borg Høiby er skyldig.</description>
+      <guid isPermaLink="false">l_84feb0c2-4ab8-464c-beb0-c24ab8364c35</guid>
+      <pubDate>Mon, 16 Mar 2026 21:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/84feb0c2-4ab8-464c-beb0-c24ab8364c35_1_ID192MP3.mp3" type="audio/mpeg" length="75284396"></enclosure>
+      <itunes:title>Høiby (17): «Høiby er ikke et monster»</itunes:title>
+      <itunes:summary>Mandag var det statsadvokatens siste sjanse til å overbevise retten om at Marius Borg Høiby er skyldig.</itunes:summary>
+      <itunes:duration>3136</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/__IfMymy8dM1R6YmNMB_7QDhGNBF_io2G-5AijT8UAoQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (16): «Monsteret Marius»</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_40430f06-6cfc-4a82-830f-066cfc8a82d4</link>
+      <description>Høiby sa han var blitt «hele Norges hatobjekt» da han tok ordet fredag ettermiddag i den nest siste uken av rettssaken mot ham.</description>
+      <guid isPermaLink="false">l_40430f06-6cfc-4a82-830f-066cfc8a82d4</guid>
+      <pubDate>Fri, 13 Mar 2026 22:10:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/40430f06-6cfc-4a82-830f-066cfc8a82d4_1_ID192MP3.mp3" type="audio/mpeg" length="62093420"></enclosure>
+      <itunes:title>Høiby (16): «Monsteret Marius»</itunes:title>
+      <itunes:summary>Høiby sa han var blitt «hele Norges hatobjekt» da han tok ordet fredag ettermiddag i den nest siste uken av rettssaken mot ham.</itunes:summary>
+      <itunes:duration>2587</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PYArHzEwObWDLNV6s66s3AhDZOlMKQCQ9UOq83NDPjJw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (15): Badekar-nach og panikkanfall</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_88a49f15-1c72-4e33-a49f-151c72ce3369</link>
+      <description>Høiby forklarte seg om kvelertak, kjærlighet og brudd på besøksforbud i relasjonen til Frogner-kvinnen.</description>
+      <guid isPermaLink="false">l_88a49f15-1c72-4e33-a49f-151c72ce3369</guid>
+      <pubDate>Fri, 06 Mar 2026 22:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/88a49f15-1c72-4e33-a49f-151c72ce3369_1_ID192MP3.mp3" type="audio/mpeg" length="61846316"></enclosure>
+      <itunes:title>Høiby (15): Badekar-nach og panikkanfall</itunes:title>
+      <itunes:summary>Høiby forklarte seg om kvelertak, kjærlighet og brudd på besøksforbud i relasjonen til Frogner-kvinnen.</itunes:summary>
+      <itunes:duration>2576</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iK_dcqpxqtzGHfwI6lk6egzEdsaFLUgC_jk-DsRQJbWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (14): Knust glass og kniv i veggen</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_d23de111-2b0c-48db-bde1-112b0c68dbb6</link>
+      <description>«Frogner-kvinnen» snakket om vold, rus og utroskap da hun forklarte seg i retten om forholdet til Marius Borg Høiby.</description>
+      <guid isPermaLink="false">l_d23de111-2b0c-48db-bde1-112b0c68dbb6</guid>
+      <pubDate>Wed, 04 Mar 2026 23:16:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/d23de111-2b0c-48db-bde1-112b0c68dbb6_1_ID192MP3.mp3" type="audio/mpeg" length="79028396"></enclosure>
+      <itunes:title>Høiby (14): Knust glass og kniv i veggen</itunes:title>
+      <itunes:summary>«Frogner-kvinnen» snakket om vold, rus og utroskap da hun forklarte seg i retten om forholdet til Marius Borg Høiby.</itunes:summary>
+      <itunes:duration>3292</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uW1ZhVwBRc5l_fE8h68zZgubqAvO4EUpnL0Ciy_TY0DA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (13): Kjendisfester, makt og meldinger</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_0f1bacf3-ba58-4012-9bac-f3ba58d01260</link>
+      <description>Dommeren måtte bryte inn opptil flere ganger da influenser-vennene til Nora Haukland og Marius Borg Høiby forklarte seg i retten.</description>
+      <guid isPermaLink="false">l_0f1bacf3-ba58-4012-9bac-f3ba58d01260</guid>
+      <pubDate>Mon, 02 Mar 2026 15:49:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/0f1bacf3-ba58-4012-9bac-f3ba58d01260_1_ID192MP3.mp3" type="audio/mpeg" length="52703468"></enclosure>
+      <itunes:title>Høiby (13): Kjendisfester, makt og meldinger</itunes:title>
+      <itunes:summary>Dommeren måtte bryte inn opptil flere ganger da influenser-vennene til Nora Haukland og Marius Borg Høiby forklarte seg i retten.</itunes:summary>
+      <itunes:duration>2195</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rNekiKtsIjfqlNh2xNTvLARxK2aG-8M9utbJ2Q6drWLg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (12): Familien, forholdet og sviket</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_bf58c464-1f93-4058-98c4-641f93b058ea</link>
+      <description>Marius Borg Høiby forklarte at Nora Haukland også bidro til det turbulente forholdet.</description>
+      <guid isPermaLink="false">l_bf58c464-1f93-4058-98c4-641f93b058ea</guid>
+      <pubDate>Wed, 25 Feb 2026 22:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/bf58c464-1f93-4058-98c4-641f93b058ea_1_ID192MP3.mp3" type="audio/mpeg" length="54338156"></enclosure>
+      <itunes:title>Høiby (12): Familien, forholdet og sviket</itunes:title>
+      <itunes:summary>Marius Borg Høiby forklarte at Nora Haukland også bidro til det turbulente forholdet.</itunes:summary>
+      <itunes:duration>2264</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/16KbLMIy916fXIMH3-fewQlkCgQ7vTkRhE6QG7drqHOA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (11): Motorsykkeldate og Nora-tatovering</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_746d8fc1-e81a-4a76-ad8f-c1e81a8a76b1</link>
+      <description>Marius Borg Høiby forklarte seg om forholdet til Nora Haukland i retten i dag, og sa han ikke kjente seg igjen i det hun forklarte på fredag.</description>
+      <guid isPermaLink="false">l_746d8fc1-e81a-4a76-ad8f-c1e81a8a76b1</guid>
+      <pubDate>Tue, 24 Feb 2026 22:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/746d8fc1-e81a-4a76-ad8f-c1e81a8a76b1_1_ID192MP3.mp3" type="audio/mpeg" length="47476268"></enclosure>
+      <itunes:title>Høiby (11): Motorsykkeldate og Nora-tatovering</itunes:title>
+      <itunes:summary>Marius Borg Høiby forklarte seg om forholdet til Nora Haukland i retten i dag, og sa han ikke kjente seg igjen i det hun forklarte på fredag.</itunes:summary>
+      <itunes:duration>1978</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wl9luqPdCwjJZMDk9W2YbgzmleW682MD7F4PrOwHSaDA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (10): Dette sa Haukland om volden</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_4c936795-67b1-4083-9367-9567b17083ce</link>
+      <description>Ekskjæresten forklarte seg om vold, trusler og krenkelser i tiden hun var sammen med Marius Borg Høiby.</description>
+      <guid isPermaLink="false">l_4c936795-67b1-4083-9367-9567b17083ce</guid>
+      <pubDate>Fri, 20 Feb 2026 22:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/4c936795-67b1-4083-9367-9567b17083ce_1_ID192MP3.mp3" type="audio/mpeg" length="43909100"></enclosure>
+      <itunes:title>Høiby (10): Dette sa Haukland om volden</itunes:title>
+      <itunes:summary>Ekskjæresten forklarte seg om vold, trusler og krenkelser i tiden hun var sammen med Marius Borg Høiby.</itunes:summary>
+      <itunes:duration>1829</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4t4LuC7UCdYG4fK6qgWokAKvlXd8qTe1REk16o1zeVWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (9): «Liker å filme»</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_6da6aa9a-df20-4baa-a6aa-9adf202baab0</link>
+      <description>Marius Borg Høiby forklarte seg om mobilbilder, nach hos en reality-kjendis, og det siste tiltalepunktet om voldtekt.</description>
+      <guid isPermaLink="false">l_6da6aa9a-df20-4baa-a6aa-9adf202baab0</guid>
+      <pubDate>Thu, 19 Feb 2026 19:13:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/6da6aa9a-df20-4baa-a6aa-9adf202baab0_1_ID192MP3.mp3" type="audio/mpeg" length="33679340"></enclosure>
+      <itunes:title>Høiby (9): «Liker å filme»</itunes:title>
+      <itunes:summary>Marius Borg Høiby forklarte seg om mobilbilder, nach hos en reality-kjendis, og det siste tiltalepunktet om voldtekt.</itunes:summary>
+      <itunes:duration>1403</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jFiEQLAgUpGG-k7eNbvXHg6LJ1rPA2_eIRhTdmkhXzcA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (8): Sprit-taxi, drikkelek og tips til politiet</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_5832fe23-8988-47c8-b2fe-23898817c894</link>
+      <description>Retten fikk i dag høre en kvinne forklare seg om nach hos en reality-kjendis som endte med drikke fra sprit-taxi og en natt med Marius Borg Høiby.</description>
+      <guid isPermaLink="false">l_5832fe23-8988-47c8-b2fe-23898817c894</guid>
+      <pubDate>Wed, 18 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/5832fe23-8988-47c8-b2fe-23898817c894_1_ID192MP3.mp3" type="audio/mpeg" length="35076140"></enclosure>
+      <itunes:title>Høiby (8): Sprit-taxi, drikkelek og tips til politiet</itunes:title>
+      <itunes:summary>Retten fikk i dag høre en kvinne forklare seg om nach hos en reality-kjendis som endte med drikke fra sprit-taxi og en natt med Marius Borg Høiby.</itunes:summary>
+      <itunes:duration>1461</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/C8Dpu0iwaZnmxsED7xXvCwiGh22FxjRWATk2DsBeCr6g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (7): Brudd, blackout og drikkelek på nach</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_62dbb533-a148-4dc0-9bb5-33a148fdc074</link>
+      <description>En fuktig kveld på byen ender med et nach, en revnet t-skjorte og en voldtekts-tiltale.</description>
+      <guid isPermaLink="false">l_62dbb533-a148-4dc0-9bb5-33a148fdc074</guid>
+      <pubDate>Fri, 13 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/62dbb533-a148-4dc0-9bb5-33a148fdc074_1_ID192MP3.mp3" type="audio/mpeg" length="54063980"></enclosure>
+      <itunes:title>Høiby (7): Brudd, blackout og drikkelek på nach</itunes:title>
+      <itunes:summary>En fuktig kveld på byen ender med et nach, en revnet t-skjorte og en voldtekts-tiltale.</itunes:summary>
+      <itunes:duration>2252</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Tm-ICdNUe-GpuYv2Jxyl0AZYViOPUmcWgRMsAU4HGOTw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (6): Hardkjør fra statsadvokaten</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_ad15fb6f-70cb-4fe0-95fb-6f70cbffe075</link>
+      <description>Statsadvokaten hadde et tydelig mål for dagen i retten: Bygge ned bildet av personen Marius Borg Høiby.</description>
+      <guid isPermaLink="false">l_ad15fb6f-70cb-4fe0-95fb-6f70cbffe075</guid>
+      <pubDate>Wed, 11 Feb 2026 18:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/ad15fb6f-70cb-4fe0-95fb-6f70cbffe075_1_ID192MP3.mp3" type="audio/mpeg" length="33727148"></enclosure>
+      <itunes:title>Høiby (6): Hardkjør fra statsadvokaten</itunes:title>
+      <itunes:summary>Statsadvokaten hadde et tydelig mål for dagen i retten: Bygge ned bildet av personen Marius Borg Høiby.</itunes:summary>
+      <itunes:duration>1405</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fK3C_15nZDHNvZ5XLGOQTQjkHg0yDEFxCMcvjaLHaiXA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (5): Tinder-møtet i Lofoten</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_ad49ddc1-bcf7-4d1b-89dd-c1bcf7cd1bba</link>
+      <description>Et privat notat og et rorbu-nachspiel ble tema da Marius Borg Høibys forsvarer spurte ut en fornærmet kvinne i retten i dag.</description>
+      <guid isPermaLink="false">l_ad49ddc1-bcf7-4d1b-89dd-c1bcf7cd1bba</guid>
+      <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/ad49ddc1-bcf7-4d1b-89dd-c1bcf7cd1bba_1_ID192MP3.mp3" type="audio/mpeg" length="38346668"></enclosure>
+      <itunes:title>Høiby (5): Tinder-møtet i Lofoten</itunes:title>
+      <itunes:summary>Et privat notat og et rorbu-nachspiel ble tema da Marius Borg Høibys forsvarer spurte ut en fornærmet kvinne i retten i dag.</itunes:summary>
+      <itunes:duration>1597</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QaDxjdNs36YgvF0yRZmxTAXA0g3nX6vlKRWGXmOzy9QQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Økse-drapet i Løten (1)</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_d072dc93-1d29-495b-b2dc-931d29395ba2</link>
+      <description>Drapet i en lavvo i Løten skal opp i retten denne uken. En kvinne har anket dommen på 16 års fengsel.</description>
+      <guid isPermaLink="false">l_d072dc93-1d29-495b-b2dc-931d29395ba2</guid>
+      <pubDate>Mon, 09 Feb 2026 03:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/d072dc93-1d29-495b-b2dc-931d29395ba2_1_ID192MP3.mp3" type="audio/mpeg" length="28529900"></enclosure>
+      <itunes:title>Økse-drapet i Løten (1)</itunes:title>
+      <itunes:summary>Drapet i en lavvo i Løten skal opp i retten denne uken. En kvinne har anket dommen på 16 års fengsel.</itunes:summary>
+      <itunes:duration>1188</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NnmVP8cx_OZL_ulQVpBiQARmZEefieD7fxFzarxVyB7g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (4): Søkehistorikk, søvnekspert og gardister</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_2ad33cde-1673-4112-933c-de16734112f8</link>
+      <description>Dennis og Valentina oppsummerer første uke fra tingretten i Oslo, og ser på hva som skjer neste uke.</description>
+      <guid isPermaLink="false">l_2ad33cde-1673-4112-933c-de16734112f8</guid>
+      <pubDate>Fri, 06 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/2ad33cde-1673-4112-933c-de16734112f8_3_ID192MP3.mp3" type="audio/mpeg" length="20482604"></enclosure>
+      <itunes:title>Høiby (4): Søkehistorikk, søvnekspert og gardister</itunes:title>
+      <itunes:summary>Dennis og Valentina oppsummerer første uke fra tingretten i Oslo, og ser på hva som skjer neste uke.</itunes:summary>
+      <itunes:duration>853</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9s7r4W9JRoHjl5heQsPeSw2Frscc6THutLMdeUJKXX2A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (3): Uenighet om natten på Skaugum</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_4730253f-98d8-45f7-b025-3f98d835f76c</link>
+      <description>Marius Borg Høiby forklarte seg om dop, sex og et ekstremt bekreftelsesbehov på rettssakens andre dag.</description>
+      <guid isPermaLink="false">l_4730253f-98d8-45f7-b025-3f98d835f76c</guid>
+      <pubDate>Wed, 04 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/4730253f-98d8-45f7-b025-3f98d835f76c_1_ID192MP3.mp3" type="audio/mpeg" length="28283948"></enclosure>
+      <itunes:title>Høiby (3): Uenighet om natten på Skaugum</itunes:title>
+      <itunes:summary>Marius Borg Høiby forklarte seg om dop, sex og et ekstremt bekreftelsesbehov på rettssakens andre dag.</itunes:summary>
+      <itunes:duration>1178</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TPhQxnHUKTU9lvhiAXozbAcMi-0lNiUPgrPJi00PN_BA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (2): Uro, Skaugum-nachspiel og sort hull</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_62210374-279f-4fcd-a103-74279f3fcd06</link>
+      <description>Marius Borg Høiby satt urolig og fiklet med et smykke da rettssaken mot ham startet. Den første fornærmede kvinnen begynte å forklare seg om et nachspiel på Skaugum i 2018. En annen fornærmet kvinne fulgte saken i retten fra første rad.</description>
+      <guid isPermaLink="false">l_62210374-279f-4fcd-a103-74279f3fcd06</guid>
+      <pubDate>Tue, 03 Feb 2026 23:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/62210374-279f-4fcd-a103-74279f3fcd06_1_ID192MP3.mp3" type="audio/mpeg" length="27633068"></enclosure>
+      <itunes:title>Høiby (2): Uro, Skaugum-nachspiel og sort hull</itunes:title>
+      <itunes:summary>Marius Borg Høiby satt urolig og fiklet med et smykke da rettssaken mot ham startet. Den første fornærmede kvinnen begynte å forklare seg om et nachspiel på Skaugum i 2018. En annen fornærmet kvinne fulgte saken i retten fra første rad.</itunes:summary>
+      <itunes:duration>1151</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmIiPDxeEPnNltn7tf-PEwMvQ38K9ec7Hb51ckVrzp5A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høiby (1): Dette må du vite</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_ae2e044d-2dc3-41ca-ae04-4d2dc3a1cafa</link>
+      <description>Når Marius Borg Høiby møter i retten, er det første gang i historien et medlem av kongefamilien er tiltalt i en straffesak. Hva har skjedd, og hva skjer videre?</description>
+      <guid isPermaLink="false">l_ae2e044d-2dc3-41ca-ae04-4d2dc3a1cafa</guid>
+      <pubDate>Sun, 01 Feb 2026 00:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/ae2e044d-2dc3-41ca-ae04-4d2dc3a1cafa_1_ID192MP3.mp3" type="audio/mpeg" length="35747180"></enclosure>
+      <itunes:title>Høiby (1): Dette må du vite</itunes:title>
+      <itunes:summary>Når Marius Borg Høiby møter i retten, er det første gang i historien et medlem av kongefamilien er tiltalt i en straffesak. Hva har skjedd, og hva skjer videre?</itunes:summary>
+      <itunes:duration>1489</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R9JQmd9laK48TE8IBO2tiA23iOp49SdYunmUL1aeT6EQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

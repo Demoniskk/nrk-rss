@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ukjent: Er det noen der ute?</title>
+    <link>https://radio.nrk.no/podkast/ukjent</link>
+    <description>Line Elvsåshagen tar deg med ut i universet på jakt etter utenomjordisk liv. Hva er myter og hva er sant om ufoer, aliens og verdensrommet?</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Mon, 12 Dec 2022 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ukjent.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Line Elvsåshagen tar deg med ut i universet på jakt etter utenomjordisk liv. Hva er myter og hva er sant om ufoer, aliens og verdensrommet?</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/VC4kwf4W3OAJTtBia8uLBAIDjv5RoVRUifUgcpgAgj8w"></itunes:image>
+    <itunes:category text="History"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/VC4kwf4W3OAJTtBia8uLBAIDjv5RoVRUifUgcpgAgj8w</url>
+      <title>Ukjent: Er det noen der ute?</title>
+      <link>https://radio.nrk.no/podkast/ukjent</link>
+    </image>
+    <item>
+      <title>Hva hvis de kommer? (9:9)</title>
+      <link>https://radio.nrk.no/podkast/ukjent/l_ef55ceea-43af-4fd2-95ce-ea43afbfd2dd</link>
+      <description>Forskere enes – det er liv der ute. Men er vi egentlig klare for utenomjordisk besøk? Vi gir deg beredskapsrådene ved første kontakt.    </description>
+      <guid isPermaLink="false">l_ef55ceea-43af-4fd2-95ce-ea43afbfd2dd</guid>
+      <pubDate>Mon, 12 Dec 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukjent/27b566d8-1b92-45d8-b404-f2dea5aeba6a_0_ID192MP3.mp3" type="audio/mpeg" length="43683309"></enclosure>
+      <itunes:title>Hva hvis de kommer? (9:9)</itunes:title>
+      <itunes:summary>Forskere enes – det er liv der ute. Men er vi egentlig klare for utenomjordisk besøk? Vi gir deg beredskapsrådene ved første kontakt.    </itunes:summary>
+      <itunes:duration>1820</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VC4kwf4W3OAJTtBia8uLBAIDjv5RoVRUifUgcpgAgj8w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvem ringer? (8:9)</title>
+      <link>https://radio.nrk.no/podkast/ukjent/l_26b012a6-aa6b-4888-b012-a6aa6b688832</link>
+      <description>I mange år har vi sendt signaler ut i verdensrommet, og i 2021 kom svaret  – et uforklarlig, pulserende signal fra galaksens ytterkant.</description>
+      <guid isPermaLink="false">l_26b012a6-aa6b-4888-b012-a6aa6b688832</guid>
+      <pubDate>Mon, 05 Dec 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukjent/6ccf7c36-bbe5-4769-bed5-3aa671775ad7_0_ID192MP3.mp3" type="audio/mpeg" length="44202285"></enclosure>
+      <itunes:title>Hvem ringer? (8:9)</itunes:title>
+      <itunes:summary>I mange år har vi sendt signaler ut i verdensrommet, og i 2021 kom svaret  – et uforklarlig, pulserende signal fra galaksens ytterkant.</itunes:summary>
+      <itunes:duration>1841</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VC4kwf4W3OAJTtBia8uLBAIDjv5RoVRUifUgcpgAgj8w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Er vi alene her? (7:9)</title>
+      <link>https://radio.nrk.no/podkast/ukjent/l_49b9932a-2391-4db4-b993-2a23915db433</link>
+      <description>NASA leter etter liv i et undersjøisk hav på en av Jupiters mange måner, mens andre forskere leter i skylaget på Venus.</description>
+      <guid isPermaLink="false">l_49b9932a-2391-4db4-b993-2a23915db433</guid>
+      <pubDate>Mon, 28 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukjent/0f7f4f08-ab80-4498-9f68-4ef03bf04720_0_ID192MP3.mp3" type="audio/mpeg" length="51562413"></enclosure>
+      <itunes:title>Er vi alene her? (7:9)</itunes:title>
+      <itunes:summary>NASA leter etter liv i et undersjøisk hav på en av Jupiters mange måner, mens andre forskere leter i skylaget på Venus.</itunes:summary>
+      <itunes:duration>2148</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VC4kwf4W3OAJTtBia8uLBAIDjv5RoVRUifUgcpgAgj8w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gamle ufo-myter (6:9)</title>
+      <link>https://radio.nrk.no/podkast/ukjent/l_16d9f512-904f-44ea-99f5-12904fa4eaad</link>
+      <description>Var det utenomjordiske som bygde pyramidene i Egypt?  Har ufoer krasjet i USA? Og hva er den mystiske gjenstanden på baksiden av månen? &#xA;</description>
+      <guid isPermaLink="false">l_16d9f512-904f-44ea-99f5-12904fa4eaad</guid>
+      <pubDate>Mon, 21 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukjent/2c397d30-7b8e-412d-9215-bd6420d0c9fd_0_ID192MP3.mp3" type="audio/mpeg" length="57012525"></enclosure>
+      <itunes:title>Gamle ufo-myter (6:9)</itunes:title>
+      <itunes:summary>Var det utenomjordiske som bygde pyramidene i Egypt?  Har ufoer krasjet i USA? Og hva er den mystiske gjenstanden på baksiden av månen? &#xA;</itunes:summary>
+      <itunes:duration>2375</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VC4kwf4W3OAJTtBia8uLBAIDjv5RoVRUifUgcpgAgj8w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ufoer i Norge? (5:9)</title>
+      <link>https://radio.nrk.no/podkast/ukjent/l_23d0f9bd-20d4-4155-90f9-bd20d4315517</link>
+      <description>I Hessdalen har folk sett uforklarlige lys i over hundre år. En flykaptein forteller om en uoppklart, politietterforsket observasjon.</description>
+      <guid isPermaLink="false">l_23d0f9bd-20d4-4155-90f9-bd20d4315517</guid>
+      <pubDate>Mon, 14 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukjent/49a60815-d19c-4b17-917f-056c1c592525_0_ID192MP3.mp3" type="audio/mpeg" length="50521581"></enclosure>
+      <itunes:title>Ufoer i Norge? (5:9)</itunes:title>
+      <itunes:summary>I Hessdalen har folk sett uforklarlige lys i over hundre år. En flykaptein forteller om en uoppklart, politietterforsket observasjon.</itunes:summary>
+      <itunes:duration>2105</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VC4kwf4W3OAJTtBia8uLBAIDjv5RoVRUifUgcpgAgj8w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Et historisk ufo-øyeblikk (4:9)</title>
+      <link>https://radio.nrk.no/podkast/ukjent/l_4d62f25a-1be5-4876-a2f2-5a1be5f876c7</link>
+      <description>Det ble kaos i USAs sikkerhetsrekker da ufo-videoene til militæret nådde offentligheten. Nå mener noen at ufoene truer landets sikkerhet.   </description>
+      <guid isPermaLink="false">l_4d62f25a-1be5-4876-a2f2-5a1be5f876c7</guid>
+      <pubDate>Mon, 07 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukjent/a1e6e2b4-8e3d-4f69-82a8-9b6dfabb8997_0_ID192MP3.mp3" type="audio/mpeg" length="45210861"></enclosure>
+      <itunes:title>Et historisk ufo-øyeblikk (4:9)</itunes:title>
+      <itunes:summary>Det ble kaos i USAs sikkerhetsrekker da ufo-videoene til militæret nådde offentligheten. Nå mener noen at ufoene truer landets sikkerhet.   </itunes:summary>
+      <itunes:duration>1883</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VC4kwf4W3OAJTtBia8uLBAIDjv5RoVRUifUgcpgAgj8w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Asteroide eller ufo? (3:9)</title>
+      <link>https://radio.nrk.no/podkast/ukjent/l_94c46c69-2708-40ee-846c-69270830ee45</link>
+      <description>I 2017 fløy et stort, blankt objekt gjennom vårt eget solsystem, og forskerne krangler – var det utenomjordisk teknologi eller bare en stor stein?</description>
+      <guid isPermaLink="false">l_94c46c69-2708-40ee-846c-69270830ee45</guid>
+      <pubDate>Mon, 31 Oct 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukjent/564befbc-2a0c-44fa-962c-9b73592147ed_0_ID192MP3.mp3" type="audio/mpeg" length="51226029"></enclosure>
+      <itunes:title>Asteroide eller ufo? (3:9)</itunes:title>
+      <itunes:summary>I 2017 fløy et stort, blankt objekt gjennom vårt eget solsystem, og forskerne krangler – var det utenomjordisk teknologi eller bare en stor stein?</itunes:summary>
+      <itunes:duration>2134</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VC4kwf4W3OAJTtBia8uLBAIDjv5RoVRUifUgcpgAgj8w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Noe på radaren (2:9)</title>
+      <link>https://radio.nrk.no/podkast/ukjent/l_fa118aa6-4e5a-49f8-918a-a64e5ad9f898</link>
+      <description>Siden 2004 har amerikanske jagerflypiloter sett og filmet ufoer på sine treningsoppdrag. Line møter en som hadde daglige opplevelser med fenomenet.</description>
+      <guid isPermaLink="false">l_fa118aa6-4e5a-49f8-918a-a64e5ad9f898</guid>
+      <pubDate>Mon, 24 Oct 2022 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukjent/7db1ac45-b3f8-4a21-9745-4686d804f0e4_0_ID192MP3.mp3" type="audio/mpeg" length="56045421"></enclosure>
+      <itunes:title>Noe på radaren (2:9)</itunes:title>
+      <itunes:summary>Siden 2004 har amerikanske jagerflypiloter sett og filmet ufoer på sine treningsoppdrag. Line møter en som hadde daglige opplevelser med fenomenet.</itunes:summary>
+      <itunes:duration>2335</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VC4kwf4W3OAJTtBia8uLBAIDjv5RoVRUifUgcpgAgj8w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Pentagons ufo-videoer (1:9)</title>
+      <link>https://radio.nrk.no/podkast/ukjent/l_fad5529d-3b66-43cd-9552-9d3b6643cd2c</link>
+      <description>Pentagon har i flere tiår filmet ufoer i hemmelighet, men i 2017 ble videoene lekket. Hva viser videoene egentlig? </description>
+      <guid isPermaLink="false">l_fad5529d-3b66-43cd-9552-9d3b6643cd2c</guid>
+      <pubDate>Mon, 24 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukjent/af313501-bae9-46c1-8658-44cb5923ee02_0_ID192MP3.mp3" type="audio/mpeg" length="40671981"></enclosure>
+      <itunes:title>Pentagons ufo-videoer (1:9)</itunes:title>
+      <itunes:summary>Pentagon har i flere tiår filmet ufoer i hemmelighet, men i 2017 ble videoene lekket. Hva viser videoene egentlig? </itunes:summary>
+      <itunes:duration>1694</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VC4kwf4W3OAJTtBia8uLBAIDjv5RoVRUifUgcpgAgj8w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

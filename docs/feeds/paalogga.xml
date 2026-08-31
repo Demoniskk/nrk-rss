@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pålogga</title>
+    <link>https://radio.nrk.no/podkast/paalogga</link>
+    <description>Gode, sterke og rare historier fra livet på internett. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Tue, 14 Dec 2021 17:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/paalogga.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Gode, sterke og rare historier fra livet på internett. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw</url>
+      <title>Pålogga</title>
+      <link>https://radio.nrk.no/podkast/paalogga</link>
+    </image>
+    <item>
+      <title>Hanna kalte seg Lufthansa på Snapchat</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_1d719f63-2913-4c7a-b19f-632913ec7a1e</link>
+      <description>Hanna ønsket seg et brukernavn som guttene ville huske. Men de eneste som gled inn i hennes DMs var advokater fra Frankfurt. &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_1d719f63-2913-4c7a-b19f-632913ec7a1e</guid>
+      <pubDate>Tue, 14 Dec 2021 18:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/e3617362-c0e1-4b8b-82b6-966274befa9a_0_ID192MP3.mp3" type="audio/mpeg" length="19776429"></enclosure>
+      <itunes:title>Hanna kalte seg Lufthansa på Snapchat</itunes:title>
+      <itunes:summary>Hanna ønsket seg et brukernavn som guttene ville huske. Men de eneste som gled inn i hennes DMs var advokater fra Frankfurt. &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>823</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Hva vet sexleketøyet ditt om deg?</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_c3dcdba7-bc12-4961-9cdb-a7bc12d9612a</link>
+      <description>Alexander har kjøpt en vibrator til kjæresten som han kan styre med en app på telefonen. Men så viser det seg at sexleketøyselskapet er dømt for å ha samlet inn for mye data fra brukerne sine. &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Gjøri Dalsbø og Remi Horgar&#xA;Klipp: Herman How og Remi Horgar&#xA;Komponist: Chris Nesse&#xA;</description>
+      <guid isPermaLink="false">l_c3dcdba7-bc12-4961-9cdb-a7bc12d9612a</guid>
+      <pubDate>Fri, 10 Dec 2021 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/b499bff2-c7a6-4852-95ab-9d254b677ff4_0_ID192MP3.mp3" type="audio/mpeg" length="33778413"></enclosure>
+      <itunes:title>Hva vet sexleketøyet ditt om deg?</itunes:title>
+      <itunes:summary>Alexander har kjøpt en vibrator til kjæresten som han kan styre med en app på telefonen. Men så viser det seg at sexleketøyselskapet er dømt for å ha samlet inn for mye data fra brukerne sine. &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Gjøri Dalsbø og Remi Horgar&#xA;Klipp: Herman How og Remi Horgar&#xA;Komponist: Chris Nesse&#xA;</itunes:summary>
+      <itunes:duration>1407</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Den norske drikkeleken som gikk viralt</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_b9754e5e-420e-495a-b54e-5e420e295ac9</link>
+      <description>Drikkeleken «100 spørsmål» har spredt seg til hele landet via SMS og Messenger. Men hvem skrev de opprinnelige spørsmålene? Bak det hele befinner det seg en kvinne som må være en av Norges best leste forfattere de siste årene, men som absolutt ikke vil ha kred for det.&#xA;&#xA;Programleder: Tamanna Agnihotri. &#xA;Research: Espen Roness. &#xA;Skuespill: Heidi Mo. &#xA;Klipp: Tarjei Kvamme. &#xA;Vaktsjef: Remi Horgar. &#xA;Kompinist: Chris Nesse. </description>
+      <guid isPermaLink="false">l_b9754e5e-420e-495a-b54e-5e420e295ac9</guid>
+      <pubDate>Tue, 30 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/ba876623-fef1-4cc0-8999-356ef4341d46_0_ID192MP3.mp3" type="audio/mpeg" length="34274925"></enclosure>
+      <itunes:title>Den norske drikkeleken som gikk viralt</itunes:title>
+      <itunes:summary>Drikkeleken «100 spørsmål» har spredt seg til hele landet via SMS og Messenger. Men hvem skrev de opprinnelige spørsmålene? Bak det hele befinner det seg en kvinne som må være en av Norges best leste forfattere de siste årene, men som absolutt ikke vil ha kred for det.&#xA;&#xA;Programleder: Tamanna Agnihotri. &#xA;Research: Espen Roness. &#xA;Skuespill: Heidi Mo. &#xA;Klipp: Tarjei Kvamme. &#xA;Vaktsjef: Remi Horgar. &#xA;Kompinist: Chris Nesse. </itunes:summary>
+      <itunes:duration>1428</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Hvordan blir man rik av kryptokunst?</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_742c61db-3f16-4ae4-ac61-db3f166ae4ad</link>
+      <description>Trym og Torger har tjent store summer på salg av «NFTs». Hvordan har de fått til det? Og hvordan kan Tamanna få til det samme?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Heidi Mo&#xA;Klipp: Klaus Holm Fjellro og Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_742c61db-3f16-4ae4-ac61-db3f166ae4ad</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/da3b53ac-21e0-41b5-b7f8-c09a755b74be_0_ID192MP3.mp3" type="audio/mpeg" length="27638253"></enclosure>
+      <itunes:title>Hvordan blir man rik av kryptokunst?</itunes:title>
+      <itunes:summary>Trym og Torger har tjent store summer på salg av «NFTs». Hvordan har de fått til det? Og hvordan kan Tamanna få til det samme?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Heidi Mo&#xA;Klipp: Klaus Holm Fjellro og Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1151</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Norge skal bestemme seg: Er «loot boxes» gambling?</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_5085866a-614e-41cd-8586-6a614e21cd64</link>
+      <description>«Erling» brukte over 200.000 kr på fotballpakker i FIFA, samtidig hendte det at han ikke hadde råd til middag. Nå skal staten Norge bestemme seg for om de skal følge etter Nederland og Belgia og regulere «loot boxes» som gambling. Er det det?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Klaus Holm Fjellro&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_5085866a-614e-41cd-8586-6a614e21cd64</guid>
+      <pubDate>Tue, 16 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/c7897e1c-349b-4774-83dd-5cc60f78e734_0_ID192MP3.mp3" type="audio/mpeg" length="32785965"></enclosure>
+      <itunes:title>Norge skal bestemme seg: Er «loot boxes» gambling?</itunes:title>
+      <itunes:summary>«Erling» brukte over 200.000 kr på fotballpakker i FIFA, samtidig hendte det at han ikke hadde råd til middag. Nå skal staten Norge bestemme seg for om de skal følge etter Nederland og Belgia og regulere «loot boxes» som gambling. Er det det?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Klaus Holm Fjellro&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1366</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Minecraft-tyven</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_8d694404-08b0-485a-a944-0408b0e85a63</link>
+      <description>Minecraft-brukernavnet til Peter er rett og slett «Peter». Mange har prøvd å kjøpe det av han, men han har alltid takket nei. En dag blir han hacket. Hvor mye er et brukernavn verdt, og går det an å få det tilbake?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Klaus Holm Fjellro&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_8d694404-08b0-485a-a944-0408b0e85a63</guid>
+      <pubDate>Tue, 09 Nov 2021 17:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/749017ec-fc78-43e5-a51a-29ba79671e75_0_ID192MP3.mp3" type="audio/mpeg" length="37033965"></enclosure>
+      <itunes:title>Minecraft-tyven</itunes:title>
+      <itunes:summary>Minecraft-brukernavnet til Peter er rett og slett «Peter». Mange har prøvd å kjøpe det av han, men han har alltid takket nei. En dag blir han hacket. Hvor mye er et brukernavn verdt, og går det an å få det tilbake?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Klaus Holm Fjellro&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1543</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Tamanna tester Mark Zuckerbergs våte drøm</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_4b8adde2-4e05-4f55-8add-e24e050f5562</link>
+      <description>Hvordan blir pornoen i Facebooks VR-verden &#34;metaverse&#34;? Tamanna stiller de viktige spørsmålene når Facebook bytter navn til Meta.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_4b8adde2-4e05-4f55-8add-e24e050f5562</guid>
+      <pubDate>Wed, 03 Nov 2021 17:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/60c027f3-25e7-452d-b633-335fd1de529f_0_ID192MP3.mp3" type="audio/mpeg" length="28088685"></enclosure>
+      <itunes:title>Tamanna tester Mark Zuckerbergs våte drøm</itunes:title>
+      <itunes:summary>Hvordan blir pornoen i Facebooks VR-verden &#34;metaverse&#34;? Tamanna stiller de viktige spørsmålene når Facebook bytter navn til Meta.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1170</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Farvel HBO Nordic: Verdens verste strømmetjeneste</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_20d3c4e7-e9f6-4382-93c4-e7e9f6138236</link>
+      <description>I dag forsvinner endelig HBO Nordic. Tamanna arrangerer begravelse for verdens verste strømmetjeneste.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Manus og klipp: Herman How&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_20d3c4e7-e9f6-4382-93c4-e7e9f6138236</guid>
+      <pubDate>Tue, 26 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/9027506f-ba07-4039-842d-4b0e68a8dbc5_0_ID192MP3.mp3" type="audio/mpeg" length="27927981"></enclosure>
+      <itunes:title>Farvel HBO Nordic: Verdens verste strømmetjeneste</itunes:title>
+      <itunes:summary>I dag forsvinner endelig HBO Nordic. Tamanna arrangerer begravelse for verdens verste strømmetjeneste.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Manus og klipp: Herman How&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1163</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Kan en app forhindre barneekteskap?</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_eff7674c-3f9e-407b-b767-4c3f9ec07b7c</link>
+      <description>Tamanna lurer på om bestemoren hennes ble utsatt for barneekteskap da hun var liten. Og er det sånn at en app kan være med på å redde verden?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_eff7674c-3f9e-407b-b767-4c3f9ec07b7c</guid>
+      <pubDate>Tue, 19 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/d742fd41-ae5d-48bf-9c05-42bdea1921d6_0_ID192MP3.mp3" type="audio/mpeg" length="24133869"></enclosure>
+      <itunes:title>Kan en app forhindre barneekteskap?</itunes:title>
+      <itunes:summary>Tamanna lurer på om bestemoren hennes ble utsatt for barneekteskap da hun var liten. Og er det sånn at en app kan være med på å redde verden?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1005</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Habbo del 3: Ferrari-boy står frem</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_d9ea4aab-1f62-4249-aa4a-ab1f62224991</link>
+      <description>Vi fant ham. Etter to måneder med detektivarbeid sitter Ferrari-boy i studio med oss. Hvordan ble han kjendis på Habbo Hotel? &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp/research: Herman How&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_d9ea4aab-1f62-4249-aa4a-ab1f62224991</guid>
+      <pubDate>Tue, 12 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/ee133663-2510-4ba2-bd66-f2be3f6ce77f_0_ID192MP3.mp3" type="audio/mpeg" length="33916653"></enclosure>
+      <itunes:title>Habbo del 3: Ferrari-boy står frem</itunes:title>
+      <itunes:summary>Vi fant ham. Etter to måneder med detektivarbeid sitter Ferrari-boy i studio med oss. Hvordan ble han kjendis på Habbo Hotel? &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp/research: Herman How&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1413</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Wikipedia-mysteriet i norsk fotball</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_5c5a118b-9bde-4312-9a11-8b9bde4312f1</link>
+      <description>Hvorfor har alle norske fotballspillere italiensk wikipedia-side? Sven og Tete fra Heia fotball har irritert seg grønn over mysteriet som har fulgt dem siden 2014. Samtidig sitter ukjente fotballspillere landet rundt uten å være klar over at de har en omfattende wiki-artikkel på et språk de ikke kan. &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Remi Horgar og Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_5c5a118b-9bde-4312-9a11-8b9bde4312f1</guid>
+      <pubDate>Tue, 05 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/6b1d6c7e-aca5-4cf2-a6d9-2214db616c79_0_ID192MP3.mp3" type="audio/mpeg" length="41634477"></enclosure>
+      <itunes:title>Wikipedia-mysteriet i norsk fotball</itunes:title>
+      <itunes:summary>Hvorfor har alle norske fotballspillere italiensk wikipedia-side? Sven og Tete fra Heia fotball har irritert seg grønn over mysteriet som har fulgt dem siden 2014. Samtidig sitter ukjente fotballspillere landet rundt uten å være klar over at de har en omfattende wiki-artikkel på et språk de ikke kan. &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Remi Horgar og Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1734</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Thorvald hevder han oppfant begrepet &#34;raske briller&#34;</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_bf813899-20ac-48d2-8138-9920acb8d234</link>
+      <description>Nicolay Ramm har gjort uttrykket «raske briller» til den allmenne beskrivelsen av aerodynamiske solbriller. Dette gjør Thorvald litt snurt, for han mener han oppfant begrepet. Men går det an å bevise dette?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp, manus og research: Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_bf813899-20ac-48d2-8138-9920acb8d234</guid>
+      <pubDate>Tue, 28 Sep 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/09c9b651-0e8e-42b5-92a1-39735485daa7_0_ID192MP3.mp3" type="audio/mpeg" length="39818349"></enclosure>
+      <itunes:title>Thorvald hevder han oppfant begrepet &#34;raske briller&#34;</itunes:title>
+      <itunes:summary>Nicolay Ramm har gjort uttrykket «raske briller» til den allmenne beskrivelsen av aerodynamiske solbriller. Dette gjør Thorvald litt snurt, for han mener han oppfant begrepet. Men går det an å bevise dette?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp, manus og research: Tarjei Kvamme&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1659</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Habbo del 2: Barnesvindlerne</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_3caddf54-966b-4bfd-addf-54966b2bfd86</link>
+      <description>Alle så opp til Ferrari-boy og hans mange fantastiske rom, men hvor kom pengene hans fra? I vår jakt etter legenden åpner det seg opp en verden preget av svindel. &#xA; &#xA;Programleder: Tamanna Agnihotri&#xA;Klipp og research: Tarjei Kvamme og Herman How&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_3caddf54-966b-4bfd-addf-54966b2bfd86</guid>
+      <pubDate>Tue, 21 Sep 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/489826cc-5a90-416a-a7ea-5d1bcb5d99c5_0_ID192MP3.mp3" type="audio/mpeg" length="34109613"></enclosure>
+      <itunes:title>Habbo del 2: Barnesvindlerne</itunes:title>
+      <itunes:summary>Alle så opp til Ferrari-boy og hans mange fantastiske rom, men hvor kom pengene hans fra? I vår jakt etter legenden åpner det seg opp en verden preget av svindel. &#xA; &#xA;Programleder: Tamanna Agnihotri&#xA;Klipp og research: Tarjei Kvamme og Herman How&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1421</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Habbo del 1: Hvem er Ferrari-boy?</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_df475e01-ebf9-4f77-875e-01ebf95f774f</link>
+      <description>Ferrari-boy var en legende på nettsamfunnet Habbo Hotel. Han hadde de feteste møblene, de villeste rommene og de mest besøkte casinoene. Etter at den norske versjonen av spillet stengte ned så er han sporløst forsvunnet. Og ingen vet hvem han er. Tamanna følger Qaz som vil finne ut hva slags person som sto bak barndomshelten.&#xA;&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp og research: Herman How, Tarjei Kvamme og Remi Horgar&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_df475e01-ebf9-4f77-875e-01ebf95f774f</guid>
+      <pubDate>Tue, 14 Sep 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/3e7fdf44-033e-4e75-a6b1-10426f153d79_0_ID192MP3.mp3" type="audio/mpeg" length="44899821"></enclosure>
+      <itunes:title>Habbo del 1: Hvem er Ferrari-boy?</itunes:title>
+      <itunes:summary>Ferrari-boy var en legende på nettsamfunnet Habbo Hotel. Han hadde de feteste møblene, de villeste rommene og de mest besøkte casinoene. Etter at den norske versjonen av spillet stengte ned så er han sporløst forsvunnet. Og ingen vet hvem han er. Tamanna følger Qaz som vil finne ut hva slags person som sto bak barndomshelten.&#xA;&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp og research: Herman How, Tarjei Kvamme og Remi Horgar&#xA;Vaktsjef: Remi Horgar&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1870</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Derfor er Sigrids nye låt frusterende for Tamanna</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_c556179f-b96d-42e6-9617-9fb96d82e69c</link>
+      <description>Tamanna klarer ikke høre Sigrids nye hitlåt &#39;&#39;Mirror&#39;&#39; uten å høre Snapchat notifikasjonslyden i refrenget. &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Herman How&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_c556179f-b96d-42e6-9617-9fb96d82e69c</guid>
+      <pubDate>Tue, 06 Jul 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/15c65076-91aa-451a-8861-c384d90a8fc9_0_ID192MP3.mp3" type="audio/mpeg" length="21357549"></enclosure>
+      <itunes:title>Derfor er Sigrids nye låt frusterende for Tamanna</itunes:title>
+      <itunes:summary>Tamanna klarer ikke høre Sigrids nye hitlåt &#39;&#39;Mirror&#39;&#39; uten å høre Snapchat notifikasjonslyden i refrenget. &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Herman How&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>889</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Blodpikk</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_04cf5cfc-f32c-4dfa-8f5c-fcf32ccdfa8c</link>
+      <description>Helenes Tinderdate endte med blodsprut og besvimelse.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Herman How&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_04cf5cfc-f32c-4dfa-8f5c-fcf32ccdfa8c</guid>
+      <pubDate>Tue, 29 Jun 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/be44f175-4830-42ce-b039-586f9d180cc1_0_ID192MP3.mp3" type="audio/mpeg" length="20871981"></enclosure>
+      <itunes:title>Blodpikk</itunes:title>
+      <itunes:summary>Helenes Tinderdate endte med blodsprut og besvimelse.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Herman How&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>869</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Pappagutten som ble stalker</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_4639986e-2ca8-4339-b998-6e2ca81339ea</link>
+      <description>Johanna fikk en pappagutt til å bli stalker.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Herman How&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_4639986e-2ca8-4339-b998-6e2ca81339ea</guid>
+      <pubDate>Tue, 29 Jun 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/ea12b57c-fc0f-44d6-b9c4-591beac4a679_0_ID192MP3.mp3" type="audio/mpeg" length="18808173"></enclosure>
+      <itunes:title>Pappagutten som ble stalker</itunes:title>
+      <itunes:summary>Johanna fikk en pappagutt til å bli stalker.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Herman How&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>783</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Hva skjer når man blir #cancelled?</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_923fbbef-6a20-460e-bfbb-ef6a20860e33</link>
+      <description>David Dobrik er tilbake. Men vent, var ikke han kansellert? &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research/klipp: Tarjei Kvamme&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_923fbbef-6a20-460e-bfbb-ef6a20860e33</guid>
+      <pubDate>Tue, 22 Jun 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/9b73a6cd-fd3d-4c69-a3f6-b92a84f4551c_0_ID192MP3.mp3" type="audio/mpeg" length="26288840"></enclosure>
+      <itunes:title>Hva skjer når man blir #cancelled?</itunes:title>
+      <itunes:summary>David Dobrik er tilbake. Men vent, var ikke han kansellert? &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research/klipp: Tarjei Kvamme&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1095</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Slik tok filteravhengigheten overhånd</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_e1801351-9811-43cd-8013-519811b3cde4</link>
+      <description>&#34;Sånn vil jeg se ut,&#34; sa Amela og pekte på et redigert bilde av seg selv.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Helene Mariussen&#xA;Research: Gjøri Dalsbø&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_e1801351-9811-43cd-8013-519811b3cde4</guid>
+      <pubDate>Tue, 15 Jun 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/40fcdca0-f48c-4c0e-8a69-cc9f06b97632_0_ID192MP3.mp3" type="audio/mpeg" length="32963857"></enclosure>
+      <itunes:title>Slik tok filteravhengigheten overhånd</itunes:title>
+      <itunes:summary>&#34;Sånn vil jeg se ut,&#34; sa Amela og pekte på et redigert bilde av seg selv.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Helene Mariussen&#xA;Research: Gjøri Dalsbø&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1373</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Bonus: Slik gikk han viralt med gutta boys</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_598160cc-5833-468d-8160-cc5833468dea</link>
+      <description>Bendik ble ringt av engelsk agent etter fyllesitatet som gikk viralt. Var det planlagt?&#xA;&#xA;Programleder/klipp: Tarjei Kvamme&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse&#xA;</description>
+      <guid isPermaLink="false">l_598160cc-5833-468d-8160-cc5833468dea</guid>
+      <pubDate>Wed, 09 Jun 2021 12:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/86f5bedd-df97-47c2-b34d-622398ead088_0_ID192MP3.mp3" type="audio/mpeg" length="18652726"></enclosure>
+      <itunes:title>Bonus: Slik gikk han viralt med gutta boys</itunes:title>
+      <itunes:summary>Bendik ble ringt av engelsk agent etter fyllesitatet som gikk viralt. Var det planlagt?&#xA;&#xA;Programleder/klipp: Tarjei Kvamme&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse&#xA;</itunes:summary>
+      <itunes:duration>777</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Derfor er Bitcoin et klimasvin</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_8b662c0e-250d-4fb0-a62c-0e250ddfb0f6</link>
+      <description>Mange hevder kryptovaluta er starten på en stor finansiell revolusjon. Det skal endre alt! Men hvilken pris betaler jordkloden for det?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Vaktsjef/research: Helene Mariussen&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_8b662c0e-250d-4fb0-a62c-0e250ddfb0f6</guid>
+      <pubDate>Tue, 08 Jun 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/b170ee47-5662-4c7f-8747-7467c552ef95_0_ID192MP3.mp3" type="audio/mpeg" length="26113924"></enclosure>
+      <itunes:title>Derfor er Bitcoin et klimasvin</itunes:title>
+      <itunes:summary>Mange hevder kryptovaluta er starten på en stor finansiell revolusjon. Det skal endre alt! Men hvilken pris betaler jordkloden for det?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Vaktsjef/research: Helene Mariussen&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1088</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>«Send meg flere nudes, ellers…»</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_7296a612-d562-4dc9-96a6-12d562fdc9b7</link>
+      <description>Om ikke Gjøri sendte flere nudes, skulle han spre bildene til hele familien hens. Hvorfor fikk ikke Gjøri anmelde det til politiet?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Vaktsjef: Helene Mariussen&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_7296a612-d562-4dc9-96a6-12d562fdc9b7</guid>
+      <pubDate>Tue, 01 Jun 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/d2fea2ce-2541-407b-9624-2699292abdc6_0_ID192MP3.mp3" type="audio/mpeg" length="41278320"></enclosure>
+      <itunes:title>«Send meg flere nudes, ellers…»</itunes:title>
+      <itunes:summary>Om ikke Gjøri sendte flere nudes, skulle han spre bildene til hele familien hens. Hvorfor fikk ikke Gjøri anmelde det til politiet?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Vaktsjef: Helene Mariussen&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1719</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Musikknorges ukjente internetthelt</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_502f0a9b-e3e6-42aa-af0a-9be3e672aadb</link>
+      <description>Hvis du googler teksten til en norsk sang, er det nesten alltid Ekte Lene som har lagt det ut. Hvorfor gidder hun det?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp/research: Tarjei Kvamme&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_502f0a9b-e3e6-42aa-af0a-9be3e672aadb</guid>
+      <pubDate>Tue, 25 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/59f8378b-45ca-4d32-ba96-5f0e181f90e3_0_ID192MP3.mp3" type="audio/mpeg" length="28468706"></enclosure>
+      <itunes:title>Musikknorges ukjente internetthelt</itunes:title>
+      <itunes:summary>Hvis du googler teksten til en norsk sang, er det nesten alltid Ekte Lene som har lagt det ut. Hvorfor gidder hun det?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp/research: Tarjei Kvamme&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1186</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Fire ganger 4chan pranket verden</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_504925cb-5a85-46ac-8925-cb5a8536ac65</link>
+      <description>Bieber til diktaturland og historien bak Rickrolling. Dette er noen av 4chans største hits.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research/klipp: Tarjei Kvamme&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_504925cb-5a85-46ac-8925-cb5a8536ac65</guid>
+      <pubDate>Tue, 18 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/6cccd372-b528-4d65-b877-509c88707147_0_ID192MP3.mp3" type="audio/mpeg" length="30328207"></enclosure>
+      <itunes:title>Fire ganger 4chan pranket verden</itunes:title>
+      <itunes:summary>Bieber til diktaturland og historien bak Rickrolling. Dette er noen av 4chans største hits.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research/klipp: Tarjei Kvamme&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1263</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Delte porno på teams-møtet</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_f5391e05-f2b5-411e-b91e-05f2b5111ec1</link>
+      <description>Alt gikk galt da Dennis skulle holde en presentasjon for sine kollegaer på Teams.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_f5391e05-f2b5-411e-b91e-05f2b5111ec1</guid>
+      <pubDate>Tue, 11 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/5bb8d2a0-d90f-4847-9244-9e63d1c9af79_0_ID192MP3.mp3" type="audio/mpeg" length="15627120"></enclosure>
+      <itunes:title>Delte porno på teams-møtet</itunes:title>
+      <itunes:summary>Alt gikk galt da Dennis skulle holde en presentasjon for sine kollegaer på Teams.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Tarjei Kvamme&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>651</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Slik fucket han opp 12 Tindermatcher</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_08fc0d72-1183-4b83-bc0d-7211834b83b1</link>
+      <description>Ola snappet mye med matchene sine. Men på en hyttetur skjedde katastrofen.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Gjøri Dalsbø&#xA;Vaktsjef: Helene Mariussen&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_08fc0d72-1183-4b83-bc0d-7211834b83b1</guid>
+      <pubDate>Tue, 11 May 2021 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/fc81b0a0-215d-4756-a0f2-4ccd435cc636_0_ID192MP3.mp3" type="audio/mpeg" length="14570728"></enclosure>
+      <itunes:title>Slik fucket han opp 12 Tindermatcher</itunes:title>
+      <itunes:summary>Ola snappet mye med matchene sine. Men på en hyttetur skjedde katastrofen.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Gjøri Dalsbø&#xA;Vaktsjef: Helene Mariussen&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>607</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Jonas fant seg selv på Tinder</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_e3de2e43-79d1-42bc-9e2e-4379d1d2bc85</link>
+      <description>Hvordan er det å plutselig finne seg selv på Tinder? Kan man stole på det man ser? Jonas og Stina har begge fått bildene sine brukt av andre.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Vaktsjef: Helene Mariussen&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_e3de2e43-79d1-42bc-9e2e-4379d1d2bc85</guid>
+      <pubDate>Tue, 04 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/f0c1e8d9-4d69-4431-9c8c-35f65c6a1cca_0_ID192MP3.mp3" type="audio/mpeg" length="27500086"></enclosure>
+      <itunes:title>Jonas fant seg selv på Tinder</itunes:title>
+      <itunes:summary>Hvordan er det å plutselig finne seg selv på Tinder? Kan man stole på det man ser? Jonas og Stina har begge fått bildene sine brukt av andre.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Vaktsjef: Helene Mariussen&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1145</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Slik manipulerer 4chan feeden din med transfobi</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_4437b7db-0dba-44c3-b7b7-db0dba54c30d</link>
+      <description>Hva vil det si å være super straight? Er det en legitim legning? Og hvem står bak spredningen av det egentlig?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Gjøri Dalsbø&#xA;Klipp/research: Tarjei Kvamme&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse&#xA;</description>
+      <guid isPermaLink="false">l_4437b7db-0dba-44c3-b7b7-db0dba54c30d</guid>
+      <pubDate>Tue, 27 Apr 2021 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/ae76e4d8-e200-41a2-bae8-2166d1f295d5_0_ID192MP3.mp3" type="audio/mpeg" length="29488109"></enclosure>
+      <itunes:title>Slik manipulerer 4chan feeden din med transfobi</itunes:title>
+      <itunes:summary>Hva vil det si å være super straight? Er det en legitim legning? Og hvem står bak spredningen av det egentlig?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Gjøri Dalsbø&#xA;Klipp/research: Tarjei Kvamme&#xA;Vaktsjef: Helene Mariussen&#xA;Komponist: Chris Nesse&#xA;</itunes:summary>
+      <itunes:duration>1228</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Derfor elsker alle å parodiere Aksel Hennie</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_dde75b92-2c0f-42a4-a75b-922c0f82a464</link>
+      <description>Hvorfor skal alle ha sin egen parodi av Aksel Hennie? Og hva synes hovedpersonen selv om parodiene?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Helene Mariussen&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_dde75b92-2c0f-42a4-a75b-922c0f82a464</guid>
+      <pubDate>Tue, 20 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/94760fb1-481f-4c11-91d1-e2c1c2ef6800_0_ID192MP3.mp3" type="audio/mpeg" length="36978146"></enclosure>
+      <itunes:title>Derfor elsker alle å parodiere Aksel Hennie</itunes:title>
+      <itunes:summary>Hvorfor skal alle ha sin egen parodi av Aksel Hennie? Og hva synes hovedpersonen selv om parodiene?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Helene Mariussen&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1540</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Googlet «hore» - Fant seg selv</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_1b91b208-d456-42ad-91b2-08d45622ad9f</link>
+      <description>Hanna Asefaw (25) ble plutselig toppresultatet hvis man googlet «hore Bjerke». Hvorfor skjedde det?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Remi Horgar og Line Orfjell&#xA;Klipp: Remi Horgar og Tarjei Kvamme&#xA;Skuespill: Chris Nesse og Krister Namphathai Larsen &#xA;Komponist: Chris Nesse&#xA;Takk til Sindre Reinholt&#xA;</description>
+      <guid isPermaLink="false">l_1b91b208-d456-42ad-91b2-08d45622ad9f</guid>
+      <pubDate>Tue, 13 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/46c2a710-589d-4b63-a388-ad1a6a3b93d5_0_ID192MP3.mp3" type="audio/mpeg" length="42953568"></enclosure>
+      <itunes:title>Googlet «hore» - Fant seg selv</itunes:title>
+      <itunes:summary>Hanna Asefaw (25) ble plutselig toppresultatet hvis man googlet «hore Bjerke». Hvorfor skjedde det?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Remi Horgar og Line Orfjell&#xA;Klipp: Remi Horgar og Tarjei Kvamme&#xA;Skuespill: Chris Nesse og Krister Namphathai Larsen &#xA;Komponist: Chris Nesse&#xA;Takk til Sindre Reinholt&#xA;</itunes:summary>
+      <itunes:duration>1789</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Transdebatten: Dette er kommentarene NRK ikke vil du skal se</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_cc08cc5c-186f-431d-88cc-5c186f531db1</link>
+      <description>Artikler med transpersoner må nesten alltid slettes fra sosiale medier. Hvorfor provoserer transdebatten så utrolig mye?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Gjøri Larsdatter Dalsbø&#xA;Klipp: Ingrid Simensen og Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_cc08cc5c-186f-431d-88cc-5c186f531db1</guid>
+      <pubDate>Tue, 06 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/56723815-a2f5-4873-b81c-e242e4a61c54_0_ID192MP3.mp3" type="audio/mpeg" length="26392980"></enclosure>
+      <itunes:title>Transdebatten: Dette er kommentarene NRK ikke vil du skal se</itunes:title>
+      <itunes:summary>Artikler med transpersoner må nesten alltid slettes fra sosiale medier. Hvorfor provoserer transdebatten så utrolig mye?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Gjøri Larsdatter Dalsbø&#xA;Klipp: Ingrid Simensen og Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1099</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Dette er det skumleste hun har opplevd på internett</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_f3808a3a-30bb-4cd0-808a-3a30bb4cd05e</link>
+      <description>Da Nora var et barn, opplevde hun noe skikkelig creepy på nettet. Mysteriet har plaget henne hele livet. Nå er Tamannas Detektivbyrå på saken.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Remi Horgar&#xA;Klipp: Tarjei Kvamme og Ingrid Simensen&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_f3808a3a-30bb-4cd0-808a-3a30bb4cd05e</guid>
+      <pubDate>Tue, 30 Mar 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/063b6a03-3846-4e52-8758-baa1b5e26d11_0_ID192MP3.mp3" type="audio/mpeg" length="29586606"></enclosure>
+      <itunes:title>Dette er det skumleste hun har opplevd på internett</itunes:title>
+      <itunes:summary>Da Nora var et barn, opplevde hun noe skikkelig creepy på nettet. Mysteriet har plaget henne hele livet. Nå er Tamannas Detektivbyrå på saken.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Remi Horgar&#xA;Klipp: Tarjei Kvamme og Ingrid Simensen&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1232</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Derfor spammes du ned av pornobotter på Instagram</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_8a060f9a-bff9-49c1-860f-9abff939c1b8</link>
+      <description>Den siste tiden har det klikket for bottene. Facebook og Instagram møter nemlig store utfordringer i moderering av spambots. &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Helene Mariussen &#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_8a060f9a-bff9-49c1-860f-9abff939c1b8</guid>
+      <pubDate>Tue, 23 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/34f45c55-4b8c-47fc-aea8-ee61dde6ef4a_0_ID192MP3.mp3" type="audio/mpeg" length="20171320"></enclosure>
+      <itunes:title>Derfor spammes du ned av pornobotter på Instagram</itunes:title>
+      <itunes:summary>Den siste tiden har det klikket for bottene. Facebook og Instagram møter nemlig store utfordringer i moderering av spambots. &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Helene Mariussen &#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse&#xA;&#xA;</itunes:summary>
+      <itunes:duration>840</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er hverdagen med drapstrusler på TikTok</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_3e0f8285-c9ad-4d38-8f82-85c9ad0d3806</link>
+      <description>Manylandy (20) er kristeninfluenser og får daglig hat i kommentarfelet. Hvordan takler han alle de negative kommentarene? For to måneder siden ble han også kastet ut av TikTok. Tamanna undersøker hvorfor.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Reporter: Ludvig Løkholm Lewin&#xA;Research: Helene Mariussen&#xA;Klipp: Tarjei Kvamme og Ingrid Simensen&#xA;Komponist: Chris Nesse&#xA;</description>
+      <guid isPermaLink="false">l_3e0f8285-c9ad-4d38-8f82-85c9ad0d3806</guid>
+      <pubDate>Tue, 16 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/a3667772-c85b-4f2f-9093-03ea4f2cc6b5_0_ID192MP3.mp3" type="audio/mpeg" length="33531305"></enclosure>
+      <itunes:title>Sånn er hverdagen med drapstrusler på TikTok</itunes:title>
+      <itunes:summary>Manylandy (20) er kristeninfluenser og får daglig hat i kommentarfelet. Hvordan takler han alle de negative kommentarene? For to måneder siden ble han også kastet ut av TikTok. Tamanna undersøker hvorfor.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Reporter: Ludvig Løkholm Lewin&#xA;Research: Helene Mariussen&#xA;Klipp: Tarjei Kvamme og Ingrid Simensen&#xA;Komponist: Chris Nesse&#xA;</itunes:summary>
+      <itunes:duration>1397</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Bonus: Norsk TikTok er absolutt toxic</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_61fc612c-467b-4460-bc61-2c467b0460a7</link>
+      <description>Kiran er muslim og lesbisk, og har nærmere 100.000 følgere på TikTok. Folk slenger ofte dritt om utseende og legningen hennes – men Kiran har et hemmelig våpen mot haterne: Humor.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research og klipp: Helene Mariussen&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_61fc612c-467b-4460-bc61-2c467b0460a7</guid>
+      <pubDate>Tue, 16 Mar 2021 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/2013b9e5-f53d-4d1c-91b5-f49a32bd82ee_0_ID192MP3.mp3" type="audio/mpeg" length="14116960"></enclosure>
+      <itunes:title>Bonus: Norsk TikTok er absolutt toxic</itunes:title>
+      <itunes:summary>Kiran er muslim og lesbisk, og har nærmere 100.000 følgere på TikTok. Folk slenger ofte dritt om utseende og legningen hennes – men Kiran har et hemmelig våpen mot haterne: Humor.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research og klipp: Helene Mariussen&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>588</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Hanna sendte nudes i feil chat</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_eeb0dcad-4af7-49a9-b0dc-ad4af7d9a9cb</link>
+      <description>... og andre flaue historier fra sosiale medier. &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Kjersti Havdal&#xA;Research/klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_eeb0dcad-4af7-49a9-b0dc-ad4af7d9a9cb</guid>
+      <pubDate>Tue, 09 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/ed1c92bb-c1f3-4906-9862-8be522e72387_0_ID192MP3.mp3" type="audio/mpeg" length="42999334"></enclosure>
+      <itunes:title>Hanna sendte nudes i feil chat</itunes:title>
+      <itunes:summary>... og andre flaue historier fra sosiale medier. &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Kjersti Havdal&#xA;Research/klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1791</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Burde jeg teipe over webkameraet?</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_5bd62b0d-6150-4f06-962b-0d61501f0698</link>
+      <description>Ina ble overvåket på sitt eget soverom. En fremmed mann hadde tatt kontroll over webkameraet hennes. Hvordan skjer sånne ting? &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research og klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_5bd62b0d-6150-4f06-962b-0d61501f0698</guid>
+      <pubDate>Tue, 02 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/b030c570-c122-44a3-be5a-7698b272f611_0_ID192MP3.mp3" type="audio/mpeg" length="29581591"></enclosure>
+      <itunes:title>Burde jeg teipe over webkameraet?</itunes:title>
+      <itunes:summary>Ina ble overvåket på sitt eget soverom. En fremmed mann hadde tatt kontroll over webkameraet hennes. Hvordan skjer sånne ting? &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research og klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1232</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Artister kan se hva spillelisten din heter</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_6796fe25-546a-45a1-96fe-25546ae5a1ad</link>
+      <description>Trodde du at Spotify-spillelisten din var kun for dine øyne? Nei nei nei, artistene du legger til får se hva du har kalt den! &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Martine Borgund&#xA;Klipp: Remi Horgar/Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_6796fe25-546a-45a1-96fe-25546ae5a1ad</guid>
+      <pubDate>Tue, 23 Feb 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/448f5b52-96cc-422b-ad3a-35551c559a64_0_ID192MP3.mp3" type="audio/mpeg" length="19780721"></enclosure>
+      <itunes:title>Artister kan se hva spillelisten din heter</itunes:title>
+      <itunes:summary>Trodde du at Spotify-spillelisten din var kun for dine øyne? Nei nei nei, artistene du legger til får se hva du har kalt den! &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research: Martine Borgund&#xA;Klipp: Remi Horgar/Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>824</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Til $algs: Clubhouse-invite (CASH ONLY)</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_5c03393d-118b-4a61-8339-3d118bfa6184</link>
+      <description>Remo la ut Clubhouse-invitasjon til salgs på Finn.no. Etter tre dager fikk han et bud som var det dobbelte av prisen. Hvorfor ville Sara betale så mye for å få tilgang til Clubhouse? &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_5c03393d-118b-4a61-8339-3d118bfa6184</guid>
+      <pubDate>Tue, 16 Feb 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/0e6d6681-1c42-46e0-aa42-066fa85e74dc_0_ID192MP3.mp3" type="audio/mpeg" length="32392784"></enclosure>
+      <itunes:title>Til $algs: Clubhouse-invite (CASH ONLY)</itunes:title>
+      <itunes:summary>Remo la ut Clubhouse-invitasjon til salgs på Finn.no. Etter tre dager fikk han et bud som var det dobbelte av prisen. Hvorfor ville Sara betale så mye for å få tilgang til Clubhouse? &#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1349</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>14 år og tre millioner følgere på Tiktok</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_e823d9ba-7ca2-44fd-a3d9-ba7ca214fda9</link>
+      <description>Havanna Winter har tre agenter i USA, og to managere. Ja, og så er hun er 14 år gammel. Målet er å bli en stjerne, men hvordan blir man det?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Reporter: Helene Mariussen&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_e823d9ba-7ca2-44fd-a3d9-ba7ca214fda9</guid>
+      <pubDate>Tue, 09 Feb 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/e3e7b7e2-0ba5-447e-9780-0689b988d210_0_ID192MP3.mp3" type="audio/mpeg" length="34873581"></enclosure>
+      <itunes:title>14 år og tre millioner følgere på Tiktok</itunes:title>
+      <itunes:summary>Havanna Winter har tre agenter i USA, og to managere. Ja, og så er hun er 14 år gammel. Målet er å bli en stjerne, men hvordan blir man det?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Reporter: Helene Mariussen&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1453</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Wall Street outmeme&#39;d</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_0965495a-e953-45f8-a549-5ae953d5f86d</link>
+      <description>Sebastian og Joachim rådførte seg med Reddit før de kjøpte aksjer for tusenvis av kroner. Hvordan klarte verdens største meme-forum å skape så mye kaos for den amerikanske børsen?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_0965495a-e953-45f8-a549-5ae953d5f86d</guid>
+      <pubDate>Tue, 02 Feb 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/7d0a1210-db31-43ef-93af-c939a7ed09c3_0_ID192MP3.mp3" type="audio/mpeg" length="28117689"></enclosure>
+      <itunes:title>Wall Street outmeme&#39;d</itunes:title>
+      <itunes:summary>Sebastian og Joachim rådførte seg med Reddit før de kjøpte aksjer for tusenvis av kroner. Hvordan klarte verdens største meme-forum å skape så mye kaos for den amerikanske børsen?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1171</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>GoldenBeauty97 søker sugardaddy</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_917eec53-07e2-4964-beec-5307e2496435</link>
+      <description>Sugarbabyen Teresa fikk tilbud om en million dollar. Hvordan er livet som sugarbaby? Tamanna lager seg profil og leter etter en sugardaddy.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research/skuespill: Martine Borgund&#xA;Klipp: Remi Horgar og Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_917eec53-07e2-4964-beec-5307e2496435</guid>
+      <pubDate>Tue, 26 Jan 2021 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/425f434f-2150-4f55-8fb6-9def9c31663f_0_ID192MP3.mp3" type="audio/mpeg" length="35701767"></enclosure>
+      <itunes:title>GoldenBeauty97 søker sugardaddy</itunes:title>
+      <itunes:summary>Sugarbabyen Teresa fikk tilbud om en million dollar. Hvordan er livet som sugarbaby? Tamanna lager seg profil og leter etter en sugardaddy.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research/skuespill: Martine Borgund&#xA;Klipp: Remi Horgar og Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1487</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Gjør Jodel meg til en dårlig person?</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_ad890d94-b272-4473-890d-94b27234736f</link>
+      <description>Snillegucci fikk panikkanfall av Jodel, Lars Berrum ble stalket og vi ringer sjefen sjøl Alessio Borgmeyer. Hvorfor ble gossipkanalene fjernet?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research/klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_ad890d94-b272-4473-890d-94b27234736f</guid>
+      <pubDate>Tue, 19 Jan 2021 05:55:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/4da5cd6b-bdd9-43c1-9b1e-ea4573367d7b_0_ID192MP3.mp3" type="audio/mpeg" length="29773434"></enclosure>
+      <itunes:title>Gjør Jodel meg til en dårlig person?</itunes:title>
+      <itunes:summary>Snillegucci fikk panikkanfall av Jodel, Lars Berrum ble stalket og vi ringer sjefen sjøl Alessio Borgmeyer. Hvorfor ble gossipkanalene fjernet?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research/klipp: Tarjei Kvamme&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1240</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Helene vs Spotify Wrapped</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_676f75c7-338d-4b88-af75-c7338dcb88fd</link>
+      <description>En artist Helene ikke kjenner til har dukket opp som nr. 1 på oversikten over musikken hun har hørt mest på det siste året. Har hun blitt hacket? Er det et PR-stunt fra en gammel visesanger eller er det Helene det har rablet for?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Reporter: Helene Mariussen&#xA;Klipp: Remi Horgar&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_676f75c7-338d-4b88-af75-c7338dcb88fd</guid>
+      <pubDate>Tue, 12 Jan 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/8f4481db-1ad7-41d5-a2ff-151975f3ac73_0_ID192MP3.mp3" type="audio/mpeg" length="40547332"></enclosure>
+      <itunes:title>Helene vs Spotify Wrapped</itunes:title>
+      <itunes:summary>En artist Helene ikke kjenner til har dukket opp som nr. 1 på oversikten over musikken hun har hørt mest på det siste året. Har hun blitt hacket? Er det et PR-stunt fra en gammel visesanger eller er det Helene det har rablet for?&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Reporter: Helene Mariussen&#xA;Klipp: Remi Horgar&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1689</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Synnes bestevenninne var en pedofil mann</title>
+      <link>https://radio.nrk.no/podkast/paalogga/l_3afed510-3d51-4a10-bed5-103d511a105b</link>
+      <description>Da Synne var 11 år, chattet hun med Mariell hver dag. De ble bestevenner. Fem år senere sto politiet på døra.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research/klipp: Remi Horgar&#xA;Komponist: Chris Nesse</description>
+      <guid isPermaLink="false">l_3afed510-3d51-4a10-bed5-103d511a105b</guid>
+      <pubDate>Tue, 12 Jan 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paalogga/ed51681c-dd25-49c2-b324-011d5d796d1f_0_ID192MP3.mp3" type="audio/mpeg" length="29438035"></enclosure>
+      <itunes:title>Synnes bestevenninne var en pedofil mann</itunes:title>
+      <itunes:summary>Da Synne var 11 år, chattet hun med Mariell hver dag. De ble bestevenner. Fem år senere sto politiet på døra.&#xA;&#xA;Programleder: Tamanna Agnihotri&#xA;Research/klipp: Remi Horgar&#xA;Komponist: Chris Nesse</itunes:summary>
+      <itunes:duration>1226</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eIfnAAQs2vQ1fUBowqp6oACgbomHLTdwO6NPa86pb0Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+  </channel>
+</rss>

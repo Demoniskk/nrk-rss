@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonas og Henrik</title>
+    <link>https://radio.nrk.no/podkast/jonas_og_henrik</link>
+    <description>Jonas Lihaug Fredriksen og Henrik Hildre er to barndomsvenner med en småsjarmerende mangel på filter. De forsøker å slå to fluer i en smekk ved å underholde seg selv og sine eventuelle lyttere på en og samme tid. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Thu, 25 Apr 2019 22:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/jonas_og_henrik.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Jonas Lihaug Fredriksen og Henrik Hildre er to barndomsvenner med en småsjarmerende mangel på filter. De forsøker å slå to fluer i en smekk ved å underholde seg selv og sine eventuelle lyttere på en og samme tid. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA</url>
+      <title>Jonas og Henrik</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik</link>
+    </image>
+    <item>
+      <title>#48 Verdens sisteste episode! </title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_a6911647-d568-4f7e-9116-47d5681f7e91</link>
+      <description>Et 48 episoder langt eventyr er over. Men i motsetning til et faktisk eventyr har dette vært ekte. Noen ganger for ekte si. Det har vært en ære for oss å trenge inn i øregangene til dere alle en gang i uka i omlag et år. Høres plutselig! ♥</description>
+      <guid isPermaLink="false">l_a6911647-d568-4f7e-9116-47d5681f7e91</guid>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-04-25_2200_1535.MP3" type="audio/mpeg" length="81761516"></enclosure>
+      <itunes:title>#48 Verdens sisteste episode! </itunes:title>
+      <itunes:summary>Et 48 episoder langt eventyr er over. Men i motsetning til et faktisk eventyr har dette vært ekte. Noen ganger for ekte si. Det har vært en ære for oss å trenge inn i øregangene til dere alle en gang i uka i omlag et år. Høres plutselig! ♥</itunes:summary>
+      <itunes:duration>3406</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2019">201904</podcast:season>
+    </item>
+    <item>
+      <title>#47 Jonas har fått bot</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_5dda6299-c7cd-447d-9a62-99c7cd847dc0</link>
+      <description>Henrik har behov for fasit-hjelp selv. Angående påskegodteri. Jonas har kommet opp med nok en lifehack og fått bot. Og det nærmer seg slutten. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode en fredag til! </description>
+      <guid isPermaLink="false">l_5dda6299-c7cd-447d-9a62-99c7cd847dc0</guid>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-04-18_2200_522.MP3" type="audio/mpeg" length="68175980"></enclosure>
+      <itunes:title>#47 Jonas har fått bot</itunes:title>
+      <itunes:summary>Henrik har behov for fasit-hjelp selv. Angående påskegodteri. Jonas har kommet opp med nok en lifehack og fått bot. Og det nærmer seg slutten. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode en fredag til! </itunes:summary>
+      <itunes:duration>2840</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2019">201904</podcast:season>
+    </item>
+    <item>
+      <title>#46 Jonas sin guide til kjønnssykdommer</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_20160cbf-02fa-4424-960c-bf02fa942406</link>
+      <description>Henrik har spist på McDonalds og Jonas har vært på Olafiaklinikken. Pluss pluss! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_20160cbf-02fa-4424-960c-bf02fa942406</guid>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-04-11_2200_798.MP3" type="audio/mpeg" length="70467308"></enclosure>
+      <itunes:title>#46 Jonas sin guide til kjønnssykdommer</itunes:title>
+      <itunes:summary>Henrik har spist på McDonalds og Jonas har vært på Olafiaklinikken. Pluss pluss! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>2936</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2019">201904</podcast:season>
+    </item>
+    <item>
+      <title>#45 Brexit forklart og oppsummert (morsommere enn det høres ut)</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_2f585746-e5f8-4f77-9857-46e5f82f77f0</link>
+      <description>Jonas får konstant oppdateringer om Theresa May og Brexit på telefonen, men ingen andre nyheter. Henrik har fått skryt for skjegget sitt. Jonas har opplevd de første hindringene i sin hvite måned. Og Henrik har holdt en dårlig pitch. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_2f585746-e5f8-4f77-9857-46e5f82f77f0</guid>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-04-04_2200_2128.MP3" type="audio/mpeg" length="63781676"></enclosure>
+      <itunes:title>#45 Brexit forklart og oppsummert (morsommere enn det høres ut)</itunes:title>
+      <itunes:summary>Jonas får konstant oppdateringer om Theresa May og Brexit på telefonen, men ingen andre nyheter. Henrik har fått skryt for skjegget sitt. Jonas har opplevd de første hindringene i sin hvite måned. Og Henrik har holdt en dårlig pitch. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>2657</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2019">201904</podcast:season>
+    </item>
+    <item>
+      <title>#44 Må man bry seg om fotball? </title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_6f60a22e-d110-40d6-a0a2-2ed11080d6d3</link>
+      <description>Jonas har begynt på den lange reisen mot å like koriander. Hvordan, spør du?! Hør da vel. Jonas har også gjort standup for første gang på fire år og føler nå han er i en sunn singelperiode. Henrik har følt på kroppen hvordan maskiner og A.I. skal ta over jobbmarkedet, og har møtt noen svenske fotballidioter som ikke kunne forstå at ikke alle bryr seg om fotball, og da spesielt Norge - Sverige-kampen. Så er det mail og derpå svar på disse mailene. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_6f60a22e-d110-40d6-a0a2-2ed11080d6d3</guid>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-03-28_2300_682.MP3" type="audio/mpeg" length="86209388"></enclosure>
+      <itunes:title>#44 Må man bry seg om fotball? </itunes:title>
+      <itunes:summary>Jonas har begynt på den lange reisen mot å like koriander. Hvordan, spør du?! Hør da vel. Jonas har også gjort standup for første gang på fire år og føler nå han er i en sunn singelperiode. Henrik har følt på kroppen hvordan maskiner og A.I. skal ta over jobbmarkedet, og har møtt noen svenske fotballidioter som ikke kunne forstå at ikke alle bryr seg om fotball, og da spesielt Norge - Sverige-kampen. Så er det mail og derpå svar på disse mailene. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>3591</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2019">201903</podcast:season>
+    </item>
+    <item>
+      <title>#43 Hva gjør man om sidemann på bussen lukter vondt?</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_7ef132f7-117e-4bfd-b132-f7117e1bfd58</link>
+      <description>Henrik tror han har vært i nærheten av å få juling. Jonas har sett en debatt og vil gjerne gjenfortelle og ytre noen meninger. Utover dette blir det noen klassikere av noen spalter, som SFF og Fasit. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_7ef132f7-117e-4bfd-b132-f7117e1bfd58</guid>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-03-21_2300_3063.MP3" type="audio/mpeg" length="71218412"></enclosure>
+      <itunes:title>#43 Hva gjør man om sidemann på bussen lukter vondt?</itunes:title>
+      <itunes:summary>Henrik tror han har vært i nærheten av å få juling. Jonas har sett en debatt og vil gjerne gjenfortelle og ytre noen meninger. Utover dette blir det noen klassikere av noen spalter, som SFF og Fasit. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>2967</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2019">201903</podcast:season>
+    </item>
+    <item>
+      <title>#42 Jonas har blitt påkjørt</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_7edeb034-fe17-4648-9eb0-34fe1786481c</link>
+      <description>Jonas har for mange baller i lufta, for dårlig skjegg, slutta med Tinder, og blitt påkjørt. Henrik har et flott skjegg, jevnlig opptak med blogg-kjendiser, og har også blitt påkjørt. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_7edeb034-fe17-4648-9eb0-34fe1786481c</guid>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-03-14_2300_2106.MP3" type="audio/mpeg" length="74901356"></enclosure>
+      <itunes:title>#42 Jonas har blitt påkjørt</itunes:title>
+      <itunes:summary>Jonas har for mange baller i lufta, for dårlig skjegg, slutta med Tinder, og blitt påkjørt. Henrik har et flott skjegg, jevnlig opptak med blogg-kjendiser, og har også blitt påkjørt. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>3120</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2019">201903</podcast:season>
+    </item>
+    <item>
+      <title>#41 Når folk er for kule og du bare vil spise</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_696af3b1-f1de-4711-aaf3-b1f1dee71121</link>
+      <description>Jonas bidrar med angstfylte sosiale situasjoner av ypperste grad. Henrik har tenkt på, men har ikke dårlig samvittighet for, dumme ting han har sagt til folk. Jonas har også laget en veldig flott sang med sine venner. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_696af3b1-f1de-4711-aaf3-b1f1dee71121</guid>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-03-07_2300_1045.MP3" type="audio/mpeg" length="74803436"></enclosure>
+      <itunes:title>#41 Når folk er for kule og du bare vil spise</itunes:title>
+      <itunes:summary>Jonas bidrar med angstfylte sosiale situasjoner av ypperste grad. Henrik har tenkt på, men har ikke dårlig samvittighet for, dumme ting han har sagt til folk. Jonas har også laget en veldig flott sang med sine venner. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>3116</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2019">201903</podcast:season>
+    </item>
+    <item>
+      <title>#40 Henrik har vært på glattcelle</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_d6c6603c-78bd-45ff-8660-3c78bdf5ff63</link>
+      <description>Jonas holder på å besvime midt i en intenst tirade om alder. Har senere en tirade om kjærlighetsliv. Henrik har vært på en premiere. Og vi har fått masse mail. Kort oppsummert. Men hør episoden like vel da. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_d6c6603c-78bd-45ff-8660-3c78bdf5ff63</guid>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-02-28_2300_242.MP3" type="audio/mpeg" length="67852844"></enclosure>
+      <itunes:title>#40 Henrik har vært på glattcelle</itunes:title>
+      <itunes:summary>Jonas holder på å besvime midt i en intenst tirade om alder. Har senere en tirade om kjærlighetsliv. Henrik har vært på en premiere. Og vi har fått masse mail. Kort oppsummert. Men hør episoden like vel da. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>2827</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2019">201902</podcast:season>
+    </item>
+    <item>
+      <title>#39 Har man ansvar for å ikke se skummel ut?</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_fe8f0409-6a93-4473-8f04-096a93f4732b</link>
+      <description>Henrik får blikk på gata. Jonas finner kunstnerisk tilfredshet på internett. Og mye annet! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_fe8f0409-6a93-4473-8f04-096a93f4732b</guid>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-02-21_2300_2247.MP3" type="audio/mpeg" length="68895404"></enclosure>
+      <itunes:title>#39 Har man ansvar for å ikke se skummel ut?</itunes:title>
+      <itunes:summary>Henrik får blikk på gata. Jonas finner kunstnerisk tilfredshet på internett. Og mye annet! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>2870</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2019">201902</podcast:season>
+    </item>
+    <item>
+      <title>#38 Profesjonelle skjeflippere</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_b27e21e0-696f-46a7-be21-e0696fb6a735</link>
+      <description>Phishing, phising, fishing eller fising. Det er jaggu ikke godt å si. Eller det er jo egentlig det. Men ikke for Jonas. Utover denne problemstillingen er det mange gode samtale-emner i denne episoden. Mulig at vi bagge var i et litt for høyt gir hele veien, men det går vel bra. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_b27e21e0-696f-46a7-be21-e0696fb6a735</guid>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-02-14_2300_695.MP3" type="audio/mpeg" length="66880556"></enclosure>
+      <itunes:title>#38 Profesjonelle skjeflippere</itunes:title>
+      <itunes:summary>Phishing, phising, fishing eller fising. Det er jaggu ikke godt å si. Eller det er jo egentlig det. Men ikke for Jonas. Utover denne problemstillingen er det mange gode samtale-emner i denne episoden. Mulig at vi bagge var i et litt for høyt gir hele veien, men det går vel bra. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>2786</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2019">201902</podcast:season>
+    </item>
+    <item>
+      <title>#37 Din guide til stygge blikk på IKEA</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_0914ec1c-dba6-4b67-94ec-1cdba62b6703</link>
+      <description>Henrik er brokkfri, Jonas har spilt konsert for Jemen, og de har begge savnet hverandre i og med at Henrik var borte grunnet operasjon i forrige episode. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_0914ec1c-dba6-4b67-94ec-1cdba62b6703</guid>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-02-07_2300_4207.MP3" type="audio/mpeg" length="63561644"></enclosure>
+      <itunes:title>#37 Din guide til stygge blikk på IKEA</itunes:title>
+      <itunes:summary>Henrik er brokkfri, Jonas har spilt konsert for Jemen, og de har begge savnet hverandre i og med at Henrik var borte grunnet operasjon i forrige episode. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>2648</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2019">201902</podcast:season>
+    </item>
+    <item>
+      <title>#36 Går dypt med Henrik Farley</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_ce754828-68ad-471a-b548-2868adc71ac9</link>
+      <description>Usikkerhet, feminisme og krangling er kun noen temaer fra denne episoden. Håper du føler deg pirret! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_ce754828-68ad-471a-b548-2868adc71ac9</guid>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-01-31_2300_430.MP3" type="audio/mpeg" length="72998828"></enclosure>
+      <itunes:title>#36 Går dypt med Henrik Farley</itunes:title>
+      <itunes:summary>Usikkerhet, feminisme og krangling er kun noen temaer fra denne episoden. Håper du føler deg pirret! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>3041</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2019">201901</podcast:season>
+    </item>
+    <item>
+      <title>#35 Herman Flesvig er den kule gutten i klassen</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_556d60eb-7b70-4b7e-ad60-eb7b705b7e0b</link>
+      <description>Jonas har vært hos optiker og Henrik har vært på Humorprisen. Jonas var også på Humorprisen, men Henrik var ikke hos optikeren. Dette kan ikke gå galt! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_556d60eb-7b70-4b7e-ad60-eb7b705b7e0b</guid>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-01-24_2300_2450.MP3" type="audio/mpeg" length="68694956"></enclosure>
+      <itunes:title>#35 Herman Flesvig er den kule gutten i klassen</itunes:title>
+      <itunes:summary>Jonas har vært hos optiker og Henrik har vært på Humorprisen. Jonas var også på Humorprisen, men Henrik var ikke hos optikeren. Dette kan ikke gå galt! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>2862</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2019">201901</podcast:season>
+    </item>
+    <item>
+      <title>#34 Trenger vi virkelig Parajumpers? </title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_eec49631-3455-41d2-8496-31345591d221</link>
+      <description>Brokkoperasjon nærmer seg for Henrik og Jonas vil vaksineres for rumpekløe. Jonas har laget en ny låt basert på en lytters ønske om tematikk og Henrik er dritt lei Parajumper-jakker. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_eec49631-3455-41d2-8496-31345591d221</guid>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-01-17_2300_2826.MP3" type="audio/mpeg" length="75168620"></enclosure>
+      <itunes:title>#34 Trenger vi virkelig Parajumpers? </itunes:title>
+      <itunes:summary>Brokkoperasjon nærmer seg for Henrik og Jonas vil vaksineres for rumpekløe. Jonas har laget en ny låt basert på en lytters ønske om tematikk og Henrik er dritt lei Parajumper-jakker. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>3131</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2019">201901</podcast:season>
+    </item>
+    <item>
+      <title>#33 69 på McDonald&#39;s (swipe opp!)</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_1974e540-7926-4c47-b4e5-407926dc47b9</link>
+      <description>Det debatteres hvor vidt Mads Hansen er et humor-geni eller ei, Henrik fikk 69 på McDonalds og Jonas har laget en ræpp på bestilling fra en lytter. Henrik har vært på spa og Jonas vil prøve Thai-massasje. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_1974e540-7926-4c47-b4e5-407926dc47b9</guid>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-01-10_2300_1364.MP3" type="audio/mpeg" length="76072940"></enclosure>
+      <itunes:title>#33 69 på McDonald&#39;s (swipe opp!)</itunes:title>
+      <itunes:summary>Det debatteres hvor vidt Mads Hansen er et humor-geni eller ei, Henrik fikk 69 på McDonalds og Jonas har laget en ræpp på bestilling fra en lytter. Henrik har vært på spa og Jonas vil prøve Thai-massasje. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>3169</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2019">201901</podcast:season>
+    </item>
+    <item>
+      <title>#32 Den beste nye måten å bruke Instagram på</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_ebe70797-06e9-495e-a707-9706e9795e30</link>
+      <description>Det er fredag! Og hva skjer? Jonas har lært seg hvordan han kan navigere Instagram på nye måter. Henrik bidrar med en helt ny spalte hvor vi vurderer kjendisers skjebner, og han har også notert i halvsøvne.&#xA;&#xA;Send oss en mail da vel! Til jonasoghenrik@nrk.no&#xA;&#xA;Ny episode hver fredag!</description>
+      <guid isPermaLink="false">l_ebe70797-06e9-495e-a707-9706e9795e30</guid>
+      <pubDate>Fri, 04 Jan 2019 10:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2019-01-04_0903_456.MP3" type="audio/mpeg" length="66590252"></enclosure>
+      <itunes:title>#32 Den beste nye måten å bruke Instagram på</itunes:title>
+      <itunes:summary>Det er fredag! Og hva skjer? Jonas har lært seg hvordan han kan navigere Instagram på nye måter. Henrik bidrar med en helt ny spalte hvor vi vurderer kjendisers skjebner, og han har også notert i halvsøvne.&#xA;&#xA;Send oss en mail da vel! Til jonasoghenrik@nrk.no&#xA;&#xA;Ny episode hver fredag!</itunes:summary>
+      <itunes:duration>2774</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2019">201901</podcast:season>
+    </item>
+    <item>
+      <title>#31 Din guide til lokal swinging</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_795a3de3-07ca-41f0-9a3d-e307ca71f018</link>
+      <description>God Jul! Ny episode med masse sprell! God ferie videre! Håper du får en fortreffelig nyttårsfeiring! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_795a3de3-07ca-41f0-9a3d-e307ca71f018</guid>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-12-27_2300_146.MP3" type="audio/mpeg" length="69077420"></enclosure>
+      <itunes:title>#31 Din guide til lokal swinging</itunes:title>
+      <itunes:summary>God Jul! Ny episode med masse sprell! God ferie videre! Håper du får en fortreffelig nyttårsfeiring! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>2878</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2018">201812</podcast:season>
+    </item>
+    <item>
+      <title>#30 Den viktigste grunnen til å sove naken</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_b6cb198f-d24b-4f03-8b19-8fd24bff0394</link>
+      <description>Nå er det snart Jul, men vi klarer likevel å lage en hel episode som dreier seg om oss og hvordan vi oppfatter verden vi. I hvert fall Jonas klarer å få det til å dreie seg om han selv. Men det er vel litt det denne podkasten skal være, er det ikke? &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_b6cb198f-d24b-4f03-8b19-8fd24bff0394</guid>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-12-20_2300_2561.MP3" type="audio/mpeg" length="65339756"></enclosure>
+      <itunes:title>#30 Den viktigste grunnen til å sove naken</itunes:title>
+      <itunes:summary>Nå er det snart Jul, men vi klarer likevel å lage en hel episode som dreier seg om oss og hvordan vi oppfatter verden vi. I hvert fall Jonas klarer å få det til å dreie seg om han selv. Men det er vel litt det denne podkasten skal være, er det ikke? &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>2722</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2018">201812</podcast:season>
+    </item>
+    <item>
+      <title>#29 Hvordan ta bilder av fremmede uten at de merker det</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_c0b07a57-aae1-4ac5-b07a-57aae1aac507</link>
+      <description>Det nærmer seg Jul nå! Men det snakker vi ikke om i denne episoden. Er ikke det litt digg? Et lite avbrekk fra julepraten. Det er kanskje ikke så mye juleprat som jeg skal ha det til. Hva vet vel jeg. Samma det. Vi snakker om mye fint, flott og kanskje til og med morsomt da! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_c0b07a57-aae1-4ac5-b07a-57aae1aac507</guid>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-12-13_2300_2137.MP3" type="audio/mpeg" length="72850776"></enclosure>
+      <itunes:title>#29 Hvordan ta bilder av fremmede uten at de merker det</itunes:title>
+      <itunes:summary>Det nærmer seg Jul nå! Men det snakker vi ikke om i denne episoden. Er ikke det litt digg? Et lite avbrekk fra julepraten. Det er kanskje ikke så mye juleprat som jeg skal ha det til. Hva vet vel jeg. Samma det. Vi snakker om mye fint, flott og kanskje til og med morsomt da! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>3031</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2018">201812</podcast:season>
+    </item>
+    <item>
+      <title>#28 Hvordan huske alt til eksamen? Og Jonas har blitt ny</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_05c009e6-2fac-4f4f-8009-e62facff4f3e</link>
+      <description>Hva er best? Snufsing eller snyting? Blondt eller kommunegrått? Tull eller tøys? 2 av 3 spørsmål får du svar på i den 28. installasjonen av Norges mest... En av Norges podkaster! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_05c009e6-2fac-4f4f-8009-e62facff4f3e</guid>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-12-06_2300_1205.MP3" type="audio/mpeg" length="73709612"></enclosure>
+      <itunes:title>#28 Hvordan huske alt til eksamen? Og Jonas har blitt ny</itunes:title>
+      <itunes:summary>Hva er best? Snufsing eller snyting? Blondt eller kommunegrått? Tull eller tøys? 2 av 3 spørsmål får du svar på i den 28. installasjonen av Norges mest... En av Norges podkaster! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>3071</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2018">201812</podcast:season>
+    </item>
+    <item>
+      <title>#27 Hva gjorde vi på P3 Gull? Vi spør fordi vi ikke husker</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_9496a225-91b6-46e6-96a2-2591b646e6ec</link>
+      <description>Vi har vært på både julebord og P3 Gull, så her er det mye historier kan du tru! Og om du trur det har du rett. Og noen forteller vi her. De vi husker. Ellers er det mye bra mail fra dere, og Jonas leverer SFF&#39;en han lovte, men glemte i forrige episode. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_9496a225-91b6-46e6-96a2-2591b646e6ec</guid>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-11-29_2300_2885.MP3" type="audio/mpeg" length="65420396"></enclosure>
+      <itunes:title>#27 Hva gjorde vi på P3 Gull? Vi spør fordi vi ikke husker</itunes:title>
+      <itunes:summary>Vi har vært på både julebord og P3 Gull, så her er det mye historier kan du tru! Og om du trur det har du rett. Og noen forteller vi her. De vi husker. Ellers er det mye bra mail fra dere, og Jonas leverer SFF&#39;en han lovte, men glemte i forrige episode. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>2725</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>#26 Frank Løke, og skjult onanering</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_bf3a8cf9-38b3-4893-ba8c-f938b3d893de</link>
+      <description>Jonas har vært på et panel med Frank Løke, Henrik har fått kjeft, og det har kommet masse digg mail fra dere! PS: Jonas glemte å komme med P3-gull-SFFen sin. Beklager det! Det var Astrid S, Sigrid og Herman Flesvig. Den kan vi jo ta senere. Minn oss gjerne på det på jonasoghenrik@nrk.no. &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_bf3a8cf9-38b3-4893-ba8c-f938b3d893de</guid>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-11-22_2300_989.MP3" type="audio/mpeg" length="72805292"></enclosure>
+      <itunes:title>#26 Frank Løke, og skjult onanering</itunes:title>
+      <itunes:summary>Jonas har vært på et panel med Frank Løke, Henrik har fått kjeft, og det har kommet masse digg mail fra dere! PS: Jonas glemte å komme med P3-gull-SFFen sin. Beklager det! Det var Astrid S, Sigrid og Herman Flesvig. Den kan vi jo ta senere. Minn oss gjerne på det på jonasoghenrik@nrk.no. &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>3033</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>#25 Rapport fra kjendisparty, og Jonas har oppført seg dårlig</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_139f43fa-0aa2-4953-9f43-fa0aa2a95335</link>
+      <description>Jonas har gått på noen sosiale smeller i det siste. Henrik opplever store endringer med egen kropp, og vi får høre en god rapport fra forrige helgs kjendisparty!&#xA;&#xA;Send oss en mail på jonasoghenrik@nrk.no, da vel!&#xA;&#xA;Ny episode hver fredag.</description>
+      <guid isPermaLink="false">l_139f43fa-0aa2-4953-9f43-fa0aa2a95335</guid>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-11-15_2300_493.MP3" type="audio/mpeg" length="66851756"></enclosure>
+      <itunes:title>#25 Rapport fra kjendisparty, og Jonas har oppført seg dårlig</itunes:title>
+      <itunes:summary>Jonas har gått på noen sosiale smeller i det siste. Henrik opplever store endringer med egen kropp, og vi får høre en god rapport fra forrige helgs kjendisparty!&#xA;&#xA;Send oss en mail på jonasoghenrik@nrk.no, da vel!&#xA;&#xA;Ny episode hver fredag.</itunes:summary>
+      <itunes:duration>2785</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>#24 Latex-drakt på fest, og Daniels Ex on the Beach-låt</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_f41130bd-73d1-4385-9130-bd73d1238576</link>
+      <description>Jonas har kledd seg veldig seksuelt på Halloween-fest. Daniel fra Ex on the Beach har sluppet låt, og Henrik bailer fra fester. Dette, og mye annet, finner du i dagens episode!&#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_f41130bd-73d1-4385-9130-bd73d1238576</guid>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-11-08_2303_3263.MP3" type="audio/mpeg" length="64990124"></enclosure>
+      <itunes:title>#24 Latex-drakt på fest, og Daniels Ex on the Beach-låt</itunes:title>
+      <itunes:summary>Jonas har kledd seg veldig seksuelt på Halloween-fest. Daniel fra Ex on the Beach har sluppet låt, og Henrik bailer fra fester. Dette, og mye annet, finner du i dagens episode!&#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>2707</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>#23 Spøkelser og eksistensiell angst</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_6bf05b7a-01ee-4f9d-b05b-7a01ee1f9db4</link>
+      <description>Skal man gidde å kle seg ut på Halloween? Hva er i så fall et godt kostyme? Hvor mye eksistensiell angst har Jonas og Henrik? Hva gjør man om man har bæsja på et utested og det viser seg at det ikke er noe toalettpapir der? Alt dette og mye, mye mer får du svar på i denne episoden av Jonas og Henrik! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_6bf05b7a-01ee-4f9d-b05b-7a01ee1f9db4</guid>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-11-01_2300_721.MP3" type="audio/mpeg" length="70200620"></enclosure>
+      <itunes:title>#23 Spøkelser og eksistensiell angst</itunes:title>
+      <itunes:summary>Skal man gidde å kle seg ut på Halloween? Hva er i så fall et godt kostyme? Hvor mye eksistensiell angst har Jonas og Henrik? Hva gjør man om man har bæsja på et utested og det viser seg at det ikke er noe toalettpapir der? Alt dette og mye, mye mer får du svar på i denne episoden av Jonas og Henrik! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>2924</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>#22 Hvordan overkomme tissefrykt</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_3248374a-02ae-4e51-8837-4a02aeae51ae</link>
+      <description>Jonas har funnet løsningen på pissoar-problemet sitt, og Henrik har sjekket hvor mye penger vi har brukt på dataspill i livet. Det kan hende vi hadde en freestyle rap-konkurranse. Det kan hende vi skulle ønske det aldri skjedde. &#xA;Send oss mail på jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_3248374a-02ae-4e51-8837-4a02aeae51ae</guid>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-10-25_2200_1426.MP3" type="audio/mpeg" length="72008684"></enclosure>
+      <itunes:title>#22 Hvordan overkomme tissefrykt</itunes:title>
+      <itunes:summary>Jonas har funnet løsningen på pissoar-problemet sitt, og Henrik har sjekket hvor mye penger vi har brukt på dataspill i livet. Det kan hende vi hadde en freestyle rap-konkurranse. Det kan hende vi skulle ønske det aldri skjedde. &#xA;Send oss mail på jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>3000</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2018">201810</podcast:season>
+    </item>
+    <item>
+      <title>#21 Randulle mister podcast-jomfrudommen</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_6ea04a4c-4ada-4edb-a04a-4c4ada3edbeb</link>
+      <description>Randulle hører kanskje ikke på podcast selv, men han ville gledelig være med som gjest hos oss. Det takker vi han for. Spesielt artig var det når han skånsomt navigerte seg gjennom en runde Skilsmisse, Fik eller Fist hvor valget stod mellom hans kolleger. Altså norske YouTubere. Mye annen fin prat og! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_6ea04a4c-4ada-4edb-a04a-4c4ada3edbeb</guid>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-10-18_2200_405.MP3" type="audio/mpeg" length="77666732"></enclosure>
+      <itunes:title>#21 Randulle mister podcast-jomfrudommen</itunes:title>
+      <itunes:summary>Randulle hører kanskje ikke på podcast selv, men han ville gledelig være med som gjest hos oss. Det takker vi han for. Spesielt artig var det når han skånsomt navigerte seg gjennom en runde Skilsmisse, Fik eller Fist hvor valget stod mellom hans kolleger. Altså norske YouTubere. Mye annen fin prat og! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>3236</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2018">201810</podcast:season>
+    </item>
+    <item>
+      <title>#20 Hvordan slakte en elg?</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_48a71df3-f51a-467b-a71d-f3f51ab67bfb</link>
+      <description>Mange folk har slida inn i Jonas sine DM&#39;s for å fortelle han hva &#34;slide in the DM&#39;s&#34; betyr. Dette skaper debatt. Det diskuteres hvor ofte man skal bytte tannbørste, og videre snakkes det om Jonas sin jaktopplevelse. Henrik har vært på Torshov og sett på gamle hipstere med Snapchat-briller. &#xA;Send oss mail på jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_48a71df3-f51a-467b-a71d-f3f51ab67bfb</guid>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-10-11_2200_3456.MP3" type="audio/mpeg" length="63187244"></enclosure>
+      <itunes:title>#20 Hvordan slakte en elg?</itunes:title>
+      <itunes:summary>Mange folk har slida inn i Jonas sine DM&#39;s for å fortelle han hva &#34;slide in the DM&#39;s&#34; betyr. Dette skaper debatt. Det diskuteres hvor ofte man skal bytte tannbørste, og videre snakkes det om Jonas sin jaktopplevelse. Henrik har vært på Torshov og sett på gamle hipstere med Snapchat-briller. &#xA;Send oss mail på jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>2632</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2018">201810</podcast:season>
+    </item>
+    <item>
+      <title>#19 Sara Høydahls Twitter og bakfullbonanza!</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_9d9a1a5a-2ec8-4647-9a1a-5a2ec80647b9</link>
+      <description>Superaktuell SFF hvor vi prøver å trå varsomt, Sarah Høydahls tweets, og fortellinger fra en svært aktiv helg! Dette er blant de brennhete temaene som blir tatt opp i denne installasjonen av vår lille podcast. &#xA;Ny episode hver fredag! &#xA;Send mail til jonasoghenrik@nrk.no! </description>
+      <guid isPermaLink="false">l_9d9a1a5a-2ec8-4647-9a1a-5a2ec80647b9</guid>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-10-04_2200_3995.MP3" type="audio/mpeg" length="88209836"></enclosure>
+      <itunes:title>#19 Sara Høydahls Twitter og bakfullbonanza!</itunes:title>
+      <itunes:summary>Superaktuell SFF hvor vi prøver å trå varsomt, Sarah Høydahls tweets, og fortellinger fra en svært aktiv helg! Dette er blant de brennhete temaene som blir tatt opp i denne installasjonen av vår lille podcast. &#xA;Ny episode hver fredag! &#xA;Send mail til jonasoghenrik@nrk.no! </itunes:summary>
+      <itunes:duration>3675</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2018">201810</podcast:season>
+    </item>
+    <item>
+      <title>#18 Er det nok Junkyardhauls nå?</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_b42b7b48-f4df-4bb1-ab7b-48f4df5bb11f</link>
+      <description>Alt fra bilsnakk til vekkerklokkesnakk i denne episoden. For en bredde! For en kvalitet! Vi drøfter også nødvendigheten av flere videoer hvor youtubere prøver på klær de har fått av forskjellige leverandører, samt våre opplevelser innen hilsning den foregående uken. &#xA;Ny episode hver fredag! &#xA;Send mail til jonasoghenrik@nrk.no</description>
+      <guid isPermaLink="false">l_b42b7b48-f4df-4bb1-ab7b-48f4df5bb11f</guid>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-09-27_2200_1158.MP3" type="audio/mpeg" length="71175212"></enclosure>
+      <itunes:title>#18 Er det nok Junkyardhauls nå?</itunes:title>
+      <itunes:summary>Alt fra bilsnakk til vekkerklokkesnakk i denne episoden. For en bredde! For en kvalitet! Vi drøfter også nødvendigheten av flere videoer hvor youtubere prøver på klær de har fått av forskjellige leverandører, samt våre opplevelser innen hilsning den foregående uken. &#xA;Ny episode hver fredag! &#xA;Send mail til jonasoghenrik@nrk.no</itunes:summary>
+      <itunes:duration>2965</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>#17 Henrik blir kulere og Jonas blir slemmere</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_aff9a012-dd3c-4a9f-b9a0-12dd3caa9f89</link>
+      <description>Gener, dataspill, hårsveiser, småkalde føtter og mye mer. Denne episoden kjenner ingen grenser. Det er jo litt fint da. Trendekspertene og Fasit blir det og! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_aff9a012-dd3c-4a9f-b9a0-12dd3caa9f89</guid>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-09-20_2200_1008.MP3" type="audio/mpeg" length="87367724"></enclosure>
+      <itunes:title>#17 Henrik blir kulere og Jonas blir slemmere</itunes:title>
+      <itunes:summary>Gener, dataspill, hårsveiser, småkalde føtter og mye mer. Denne episoden kjenner ingen grenser. Det er jo litt fint da. Trendekspertene og Fasit blir det og! &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>3640</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>#16 Frierbrev og badeshortsproblematikk</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_285ae811-f7e8-48f8-9ae8-11f7e838f8bd</link>
+      <description>Jonas har med en gave fra Dennis Vareide. Henrik har en ekstremt spennende overraskelse til Jonas. Og det siste Oboyrelaterte trenden anmeldes. Utover dette er det mye diggresjoner og fjas som vanlig. Lytt og nyt! &#xA;Ny episode hver fredag! &#xA;Send mail til jonasoghenrik@nrk.no! </description>
+      <guid isPermaLink="false">l_285ae811-f7e8-48f8-9ae8-11f7e838f8bd</guid>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-09-13_2200_940.MP3" type="audio/mpeg" length="71671724"></enclosure>
+      <itunes:title>#16 Frierbrev og badeshortsproblematikk</itunes:title>
+      <itunes:summary>Jonas har med en gave fra Dennis Vareide. Henrik har en ekstremt spennende overraskelse til Jonas. Og det siste Oboyrelaterte trenden anmeldes. Utover dette er det mye diggresjoner og fjas som vanlig. Lytt og nyt! &#xA;Ny episode hver fredag! &#xA;Send mail til jonasoghenrik@nrk.no! </itunes:summary>
+      <itunes:duration>2986</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>#15 Når er det greit å manspreade?</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_c228377b-935c-4103-a837-7b935c3103a6</link>
+      <description>Dennis Vareide og Jonas har vært på Justisen igjen. Henrik timet formtoppen perfekt på bursdagsfeiringen sin og benyttet seg av bartevoksen han fikk av Jonas. Det blir både SFF og Fasit i denne episoden, og vi har fått masse flotte mails. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_c228377b-935c-4103-a837-7b935c3103a6</guid>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-09-06_2200_2834.MP3" type="audio/mpeg" length="73982060"></enclosure>
+      <itunes:title>#15 Når er det greit å manspreade?</itunes:title>
+      <itunes:summary>Dennis Vareide og Jonas har vært på Justisen igjen. Henrik timet formtoppen perfekt på bursdagsfeiringen sin og benyttet seg av bartevoksen han fikk av Jonas. Det blir både SFF og Fasit i denne episoden, og vi har fått masse flotte mails. &#xA;Send mail til jonasoghenrik@nrk.no! &#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>3082</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>#14 Henrik blir eldre og Jonas blir yngre</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_e104f3f8-b1d4-4373-84f3-f8b1d43373ad</link>
+      <description>Det var mye på agendaen for helgen forrige uke. Nå oppsummeres alt. Inkludert Jonas sin visitt til 10 års reunion for videregående skole. Var det spennende mon tro? Det får du rett og slett høre på denne episoden for å finne ut. Utover dette snakker vi om Logan Paul vs. KSI og mange andre ting. Henrik har også bursdag!&#xA;Send mail til jonasoghenrik@nrk.no!&#xA;Ny episode hver fredag!</description>
+      <guid isPermaLink="false">l_e104f3f8-b1d4-4373-84f3-f8b1d43373ad</guid>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-08-30_2200_771.MP3" type="audio/mpeg" length="89513324"></enclosure>
+      <itunes:title>#14 Henrik blir eldre og Jonas blir yngre</itunes:title>
+      <itunes:summary>Det var mye på agendaen for helgen forrige uke. Nå oppsummeres alt. Inkludert Jonas sin visitt til 10 års reunion for videregående skole. Var det spennende mon tro? Det får du rett og slett høre på denne episoden for å finne ut. Utover dette snakker vi om Logan Paul vs. KSI og mange andre ting. Henrik har også bursdag!&#xA;Send mail til jonasoghenrik@nrk.no!&#xA;Ny episode hver fredag!</itunes:summary>
+      <itunes:duration>3729</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2018">201808</podcast:season>
+    </item>
+    <item>
+      <title>#13 Jonas blir vasket i dusjen</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_d93bede1-4568-414a-bbed-e14568b14a27</link>
+      <description>Jonas og Henrik var virkelig synkronisert under innspillingen av denne episoden. Spesielt i starten av episoden. Mener de to selv i hvert fall. Vet ikke hvorfor jeg sitter her og skriver om oss i tredjeperson. Samma det. Mvh. Jonas.&#xA;Send oss mail på jonasoghenrik@nrk.no!&#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_d93bede1-4568-414a-bbed-e14568b14a27</guid>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-08-23_2200_3444.MP3" type="audio/mpeg" length="96376940"></enclosure>
+      <itunes:title>#13 Jonas blir vasket i dusjen</itunes:title>
+      <itunes:summary>Jonas og Henrik var virkelig synkronisert under innspillingen av denne episoden. Spesielt i starten av episoden. Mener de to selv i hvert fall. Vet ikke hvorfor jeg sitter her og skriver om oss i tredjeperson. Samma det. Mvh. Jonas.&#xA;Send oss mail på jonasoghenrik@nrk.no!&#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>4015</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2018">201808</podcast:season>
+    </item>
+    <item>
+      <title>#12 Alt du trenger å vite om intimbarbering</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_4ec4d862-4c8d-46e0-84d8-624c8d26e01e</link>
+      <description>Vi har besøk av Norges morsomste dame (etter vår mening). Det blir SFF, lesing av mail, masse annen prat og til med en improvisert spalte som ble helt ok. Og alt dette med denne gjesten da. Det byr på en ganske fiffig, ny dynamikk. &#xA;Send mail til jonasoghenrik@nrk.no!&#xA;Ny episode hver fredag!</description>
+      <guid isPermaLink="false">l_4ec4d862-4c8d-46e0-84d8-624c8d26e01e</guid>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-08-16_2200_588.MP3" type="audio/mpeg" length="84428972"></enclosure>
+      <itunes:title>#12 Alt du trenger å vite om intimbarbering</itunes:title>
+      <itunes:summary>Vi har besøk av Norges morsomste dame (etter vår mening). Det blir SFF, lesing av mail, masse annen prat og til med en improvisert spalte som ble helt ok. Og alt dette med denne gjesten da. Det byr på en ganske fiffig, ny dynamikk. &#xA;Send mail til jonasoghenrik@nrk.no!&#xA;Ny episode hver fredag!</itunes:summary>
+      <itunes:duration>3517</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2018">201808</podcast:season>
+    </item>
+    <item>
+      <title>#11 To uperfekte kropper snakker uperfekt om ting</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_f7bb8388-5ce5-4a4a-bb83-885ce5aa4a57</link>
+      <description>En potensielt skjebnesvanger SFF, to kropper vi gjerne vil levere tilbake, og tre andre ting forekommer i denne episoden (minimum, ville bare skrive tre for å få 1-2-3-effekten, om det er en effekt). Det er veldig digg å være tilbake i studio med hverandre etter en kortere ferie. &#xA;Send mail til jonasoghenrik@nrk.no!&#xA;Ny episode hver fredag! </description>
+      <guid isPermaLink="false">l_f7bb8388-5ce5-4a4a-bb83-885ce5aa4a57</guid>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-08-09_2200_278.MP3" type="audio/mpeg" length="96705260"></enclosure>
+      <itunes:title>#11 To uperfekte kropper snakker uperfekt om ting</itunes:title>
+      <itunes:summary>En potensielt skjebnesvanger SFF, to kropper vi gjerne vil levere tilbake, og tre andre ting forekommer i denne episoden (minimum, ville bare skrive tre for å få 1-2-3-effekten, om det er en effekt). Det er veldig digg å være tilbake i studio med hverandre etter en kortere ferie. &#xA;Send mail til jonasoghenrik@nrk.no!&#xA;Ny episode hver fredag! </itunes:summary>
+      <itunes:duration>4029</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2018">201808</podcast:season>
+    </item>
+    <item>
+      <title>#10 Dårlig oppførsel på Dennis Vareide sin fest</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_62210e70-97cd-4887-a10e-7097cd588740</link>
+      <description>Jonas uttrykker sin misnøye med Lars Vaular og oppsummerer festen han var på hos Dennis Vareide. Henrik har vært i zoologisk hage og nyter ferielivet i England. Det blir SFF og Terapispalten er tilbake denne gangen. &#xA;Ny episode hver fredag!&#xA;Mail oss på jonasoghenrik@nrk.no!</description>
+      <guid isPermaLink="false">l_62210e70-97cd-4887-a10e-7097cd588740</guid>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-08-03_1859_859.MP3" type="audio/mpeg" length="107027180"></enclosure>
+      <itunes:title>#10 Dårlig oppførsel på Dennis Vareide sin fest</itunes:title>
+      <itunes:summary>Jonas uttrykker sin misnøye med Lars Vaular og oppsummerer festen han var på hos Dennis Vareide. Henrik har vært i zoologisk hage og nyter ferielivet i England. Det blir SFF og Terapispalten er tilbake denne gangen. &#xA;Ny episode hver fredag!&#xA;Mail oss på jonasoghenrik@nrk.no!</itunes:summary>
+      <itunes:duration>4459</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2018">201808</podcast:season>
+    </item>
+    <item>
+      <title>#9 Sårbar jomfru: Historien om Jonas 17 år</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_dcb951f6-fe1e-4724-b951-f6fe1e072479</link>
+      <description>Det er sommer og vi snakker om både fortid og fremtid. Alt fra jomfruliv og porno til The Game og NLP. Fjollete greier. Henrik er faktisk i England, men vi spilte like vel inn ved hjelp av en lydopptaker, en bil og en telefon. Det kan ikke bli dårlig... Eller?</description>
+      <guid isPermaLink="false">l_dcb951f6-fe1e-4724-b951-f6fe1e072479</guid>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-07-26_2200_1754.MP3" type="audio/mpeg" length="106126892"></enclosure>
+      <itunes:title>#9 Sårbar jomfru: Historien om Jonas 17 år</itunes:title>
+      <itunes:summary>Det er sommer og vi snakker om både fortid og fremtid. Alt fra jomfruliv og porno til The Game og NLP. Fjollete greier. Henrik er faktisk i England, men vi spilte like vel inn ved hjelp av en lydopptaker, en bil og en telefon. Det kan ikke bli dårlig... Eller?</itunes:summary>
+      <itunes:duration>4421</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2018">201807</podcast:season>
+    </item>
+    <item>
+      <title>#8 Vi har solstikk og tester mat</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_8be15339-6089-4905-a153-39608929051d</link>
+      <description>Vi tester vegansk kaviar og surrer generelt veldig mye i denne episoden. To slitne, bleike typer har vært ute i sola hele dagen og det har de tydelig vis tålt dårlig. Utover dette blir det konkurranse, &#34;Skififist&#34; og svært god dialog. Jadda! &#xA;Ny episode hver fredag! &#xA;Send oss mail på jonasoghenrik@nrk.no!</description>
+      <guid isPermaLink="false">l_8be15339-6089-4905-a153-39608929051d</guid>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-07-19_2200_100.MP3" type="audio/mpeg" length="83279852"></enclosure>
+      <itunes:title>#8 Vi har solstikk og tester mat</itunes:title>
+      <itunes:summary>Vi tester vegansk kaviar og surrer generelt veldig mye i denne episoden. To slitne, bleike typer har vært ute i sola hele dagen og det har de tydelig vis tålt dårlig. Utover dette blir det konkurranse, &#34;Skififist&#34; og svært god dialog. Jadda! &#xA;Ny episode hver fredag! &#xA;Send oss mail på jonasoghenrik@nrk.no!</itunes:summary>
+      <itunes:duration>3469</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2018">201807</podcast:season>
+    </item>
+    <item>
+      <title>#7 Aksel Lund Svindal har et pantemaskinrumpehull</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_d6b611ec-12e4-4b1c-b611-ec12e44b1c8a</link>
+      <description>Advarsel: Noe av humoren i denne episoden er metateknisk orientert (beklager). Henrik har vært i bryllup og Jonas var på bygdefylla. Der møtte han for første gang en podcastlytter utenfor egen familie og nær vennekrets. Og som forventet har det blitt foreslått en Skilsmisse, Fik eller Fist med kun pornostjerner. &#xA;Mail oss på jonasoghenrik@nrk.no!&#xA;Ny episode hver fredag!</description>
+      <guid isPermaLink="false">l_d6b611ec-12e4-4b1c-b611-ec12e44b1c8a</guid>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-07-12_2236_381.MP3" type="audio/mpeg" length="87758828"></enclosure>
+      <itunes:title>#7 Aksel Lund Svindal har et pantemaskinrumpehull</itunes:title>
+      <itunes:summary>Advarsel: Noe av humoren i denne episoden er metateknisk orientert (beklager). Henrik har vært i bryllup og Jonas var på bygdefylla. Der møtte han for første gang en podcastlytter utenfor egen familie og nær vennekrets. Og som forventet har det blitt foreslått en Skilsmisse, Fik eller Fist med kun pornostjerner. &#xA;Mail oss på jonasoghenrik@nrk.no!&#xA;Ny episode hver fredag!</itunes:summary>
+      <itunes:duration>3656</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2018">201807</podcast:season>
+    </item>
+    <item>
+      <title>#6 Kan man bli for pen? Vi fister halve Beautyblogg-Norge.</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_f853b37b-b0ca-43d9-93b3-7bb0caa3d980</link>
+      <description>Vi er på nippet til å bli politiske på et tidspunkt. Et skilsmisse-fiste-fike-orientert tidspunkt. Vi er uenig om følelsen av å spise alene, Eminemkonsert var tipp topp, og kondomer er tilbake i konkurransen. &#xA;Mail oss på jonasoghenrik@nrk.no!&#xA;Ny episode hver fredag!</description>
+      <guid isPermaLink="false">l_f853b37b-b0ca-43d9-93b3-7bb0caa3d980</guid>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-07-05_2200_1139.MP3" type="audio/mpeg" length="85525676"></enclosure>
+      <itunes:title>#6 Kan man bli for pen? Vi fister halve Beautyblogg-Norge.</itunes:title>
+      <itunes:summary>Vi er på nippet til å bli politiske på et tidspunkt. Et skilsmisse-fiste-fike-orientert tidspunkt. Vi er uenig om følelsen av å spise alene, Eminemkonsert var tipp topp, og kondomer er tilbake i konkurransen. &#xA;Mail oss på jonasoghenrik@nrk.no!&#xA;Ny episode hver fredag!</itunes:summary>
+      <itunes:duration>3563</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2018">201807</podcast:season>
+    </item>
+    <item>
+      <title>#5 Ulrikke Falch på Tinder, og burde man fike til Malin Nesvoll?</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_f2d8fe93-7af4-478c-98fe-937af4378c45</link>
+      <description>Jonas dro frem kjøttrosa på byen, og mammaen hans fant pornobladet hans da hun ryddet ut av rommet i barndomshjemmet. Det blir skilsmisse, fik, fist, finning av fasit og konkurranse. Straffen har nå blitt langt værre enn en ussel Nerf Gun i rektum. &#xA;&#xA;Femte episode! Det er vel et slags jubileum? &#xA;&#xA;Mail oss på jonasoghenrik@nrk.no!&#xA;Ny episode hver fredag!</description>
+      <guid isPermaLink="false">l_f2d8fe93-7af4-478c-98fe-937af4378c45</guid>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-06-28_2200_2214.MP3" type="audio/mpeg" length="81683180"></enclosure>
+      <itunes:title>#5 Ulrikke Falch på Tinder, og burde man fike til Malin Nesvoll?</itunes:title>
+      <itunes:summary>Jonas dro frem kjøttrosa på byen, og mammaen hans fant pornobladet hans da hun ryddet ut av rommet i barndomshjemmet. Det blir skilsmisse, fik, fist, finning av fasit og konkurranse. Straffen har nå blitt langt værre enn en ussel Nerf Gun i rektum. &#xA;&#xA;Femte episode! Det er vel et slags jubileum? &#xA;&#xA;Mail oss på jonasoghenrik@nrk.no!&#xA;Ny episode hver fredag!</itunes:summary>
+      <itunes:duration>3403</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2018">201806</podcast:season>
+    </item>
+    <item>
+      <title>#4 Skilsmisse, fik, fist og kondomrelatert konkurranse</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_9335dec8-2457-4e21-b5de-c824577e21bf</link>
+      <description>I denne episoden tester vi en helt ny lek: Skilsmisse, fik eller fist. Den er spesiell, eventuelt spesielt fin. Den trenger litt tilbakemelding fra dere! Ingen tvil om det. Utover dette har Henrik Farley freestylet litt om Henrik Hildre etter et par flasker vin. Og Jonas er mer balansert - og konkurransen er dummere - enn noen sinne.&#xA;&#xA;Send oss mail på jonasoghenrik@nrk.no!&#xA;&#xA;Ny episode hver fredag!</description>
+      <guid isPermaLink="false">l_9335dec8-2457-4e21-b5de-c824577e21bf</guid>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-06-21_2200_3289.MP3" type="audio/mpeg" length="84693932"></enclosure>
+      <itunes:title>#4 Skilsmisse, fik, fist og kondomrelatert konkurranse</itunes:title>
+      <itunes:summary>I denne episoden tester vi en helt ny lek: Skilsmisse, fik eller fist. Den er spesiell, eventuelt spesielt fin. Den trenger litt tilbakemelding fra dere! Ingen tvil om det. Utover dette har Henrik Farley freestylet litt om Henrik Hildre etter et par flasker vin. Og Jonas er mer balansert - og konkurransen er dummere - enn noen sinne.&#xA;&#xA;Send oss mail på jonasoghenrik@nrk.no!&#xA;&#xA;Ny episode hver fredag!</itunes:summary>
+      <itunes:duration>3528</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2018">201806</podcast:season>
+    </item>
+    <item>
+      <title>#3 Nakenbading på Sørenga, penislengde, og Jonas driter seg ut</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_09b61ce3-d243-4138-b61c-e3d2439138f5</link>
+      <description>Jonas er kanskje noe mer balansert i denne ukens installasjon av Jonas og Henrik, men han klarer fint å drite seg ut like vel. Hele tre lydklipp spilles av og snakkes om denne gangen. Det må da være et steg opp fra forrige episodes usle ett lydklipp. &#xA;&#xA;Mail oss på jonasoghenrik@nrk.no&#xA;&#xA;Ny podcast hver fredag!</description>
+      <guid isPermaLink="false">l_09b61ce3-d243-4138-b61c-e3d2439138f5</guid>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-06-14_2200_3031.MP3" type="audio/mpeg" length="76985324"></enclosure>
+      <itunes:title>#3 Nakenbading på Sørenga, penislengde, og Jonas driter seg ut</itunes:title>
+      <itunes:summary>Jonas er kanskje noe mer balansert i denne ukens installasjon av Jonas og Henrik, men han klarer fint å drite seg ut like vel. Hele tre lydklipp spilles av og snakkes om denne gangen. Det må da være et steg opp fra forrige episodes usle ett lydklipp. &#xA;&#xA;Mail oss på jonasoghenrik@nrk.no&#xA;&#xA;Ny podcast hver fredag!</itunes:summary>
+      <itunes:duration>3207</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2018">201806</podcast:season>
+    </item>
+    <item>
+      <title>#2 YouTube-fest, fyllehistorier og Jonas i ubalanse</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_5f87c4ed-cf30-488d-87c4-edcf30488d6a</link>
+      <description>Episode 2! Fy fasan, da er vi i gang! Forrige fredag var det podcast release-fest. Mye av tiden i denne episoden går til å snakke om den, samt andre relaterte historier. Utover det beskriver Jonas i detalj sin eksistensielle angst. Men på en litt lystig måte. Henrik liverapporterer fra fylla i Belgia og det blir selvsagt en evneveik konkurranse til slutt. &#xA;&#xA;Ny podcast hver fredag! </description>
+      <guid isPermaLink="false">l_5f87c4ed-cf30-488d-87c4-edcf30488d6a</guid>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-06-07_2200_3898.MP3" type="audio/mpeg" length="72194732"></enclosure>
+      <itunes:title>#2 YouTube-fest, fyllehistorier og Jonas i ubalanse</itunes:title>
+      <itunes:summary>Episode 2! Fy fasan, da er vi i gang! Forrige fredag var det podcast release-fest. Mye av tiden i denne episoden går til å snakke om den, samt andre relaterte historier. Utover det beskriver Jonas i detalj sin eksistensielle angst. Men på en litt lystig måte. Henrik liverapporterer fra fylla i Belgia og det blir selvsagt en evneveik konkurranse til slutt. &#xA;&#xA;Ny podcast hver fredag! </itunes:summary>
+      <itunes:duration>3008</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2018">201806</podcast:season>
+    </item>
+    <item>
+      <title>#1 Vegard Harms sexdrøm og Henriks knuste drøm</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_25ae3e01-746d-40a6-ae3e-01746de0a621</link>
+      <description>Her er vi! I denne første episoden av en humorpodkast med to hvite menn i tjueårene får du først og fremst ditt førsteinntrykk av oss. Dette ved hjelp av ymse spalter: Jonas får terapi, vi overrasker hverandre, tar tempen på livet og konkurrerer i en idiotisk tevling. &#xA;&#xA;Ny podcast hver fredag! </description>
+      <guid isPermaLink="false">l_25ae3e01-746d-40a6-ae3e-01746de0a621</guid>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-05-31_2200_1169.MP3" type="audio/mpeg" length="77697836"></enclosure>
+      <itunes:title>#1 Vegard Harms sexdrøm og Henriks knuste drøm</itunes:title>
+      <itunes:summary>Her er vi! I denne første episoden av en humorpodkast med to hvite menn i tjueårene får du først og fremst ditt førsteinntrykk av oss. Dette ved hjelp av ymse spalter: Jonas får terapi, vi overrasker hverandre, tar tempen på livet og konkurrerer i en idiotisk tevling. &#xA;&#xA;Ny podcast hver fredag! </itunes:summary>
+      <itunes:duration>3237</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2018">201805</podcast:season>
+    </item>
+    <item>
+      <title>Hva er Jonas og Henrik?</title>
+      <link>https://radio.nrk.no/podkast/jonas_og_henrik/l_8cecca99-5fe3-4845-acca-995fe368450c</link>
+      <description>1. juni kommer vår nye podkast! Her er et lite eksempel på vår sosiale dynamikk. Om det pirrer deg burde du kanskje høre første episode?</description>
+      <guid isPermaLink="false">l_8cecca99-5fe3-4845-acca-995fe368450c</guid>
+      <pubDate>Wed, 30 May 2018 12:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/jonas_og_henrik/jonas_og_henrik_2018-06-30_2200_3579.MP3" type="audio/mpeg" length="1720152"></enclosure>
+      <itunes:title>Hva er Jonas og Henrik?</itunes:title>
+      <itunes:summary>1. juni kommer vår nye podkast! Her er et lite eksempel på vår sosiale dynamikk. Om det pirrer deg burde du kanskje høre første episode?</itunes:summary>
+      <itunes:duration>67</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kpQxfk2cbmr_-htw_NK77wlfWOUfHEqXQpC5brt023UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2018">201805</podcast:season>
+    </item>
+  </channel>
+</rss>

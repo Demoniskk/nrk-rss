@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>To hvite menn</title>
+    <link>https://radio.nrk.no/podkast/to_hvite_menn</link>
+    <description>I 2009 ble Joshua French og Tjostolv Moland dømt til døden i DR Kongo, etter at sjåføren deres ble drept. Hvem var de to nordmennene som satte seg på en motorsykkel og kjørte inn jungelen? Og hva skulle de der? I podkastserien &#34;To hvite menn&#34; fra NRK får du høre nye opplysninger om dramaet i Kongo. &#xA;</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Tue, 10 Apr 2018 17:11:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/to_hvite_menn.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>I 2009 ble Joshua French og Tjostolv Moland dømt til døden i DR Kongo, etter at sjåføren deres ble drept. Hvem var de to nordmennene som satte seg på en motorsykkel og kjørte inn jungelen? Og hva skulle de der? I podkastserien &#34;To hvite menn&#34; fra NRK får du høre nye opplysninger om dramaet i Kongo. &#xA;</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/iMH2Pryjg-YwdUCk7ARaNA3vJpwAkkK75u8vmc6gekyA"></itunes:image>
+    <itunes:category text="History"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/iMH2Pryjg-YwdUCk7ARaNA3vJpwAkkK75u8vmc6gekyA</url>
+      <title>To hvite menn</title>
+      <link>https://radio.nrk.no/podkast/to_hvite_menn</link>
+    </image>
+    <item>
+      <title>Løsningen (6:6)</title>
+      <link>https://radio.nrk.no/podkast/to_hvite_menn/l_3e10f0f8-ffac-4c00-90f0-f8ffac5c0008</link>
+      <description>Hva gjør Norge når to av våre statsborgere blir dømt til døden i DR Kongo? Sjette og siste episode handler om den vanskelige veien fram til en løsning for Joshua French, og hvorfor det tok åtte år.</description>
+      <guid isPermaLink="false">l_3e10f0f8-ffac-4c00-90f0-f8ffac5c0008</guid>
+      <pubDate>Tue, 10 Apr 2018 19:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/to_hvite_menn/to_hvite_menn_2018-04-10_1711_3746.MP3" type="audio/mpeg" length="78105644"></enclosure>
+      <itunes:title>Løsningen (6:6)</itunes:title>
+      <itunes:summary>Hva gjør Norge når to av våre statsborgere blir dømt til døden i DR Kongo? Sjette og siste episode handler om den vanskelige veien fram til en løsning for Joshua French, og hvorfor det tok åtte år.</itunes:summary>
+      <itunes:duration>3254</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iMH2Pryjg-YwdUCk7ARaNA3vJpwAkkK75u8vmc6gekyA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Reisen til Sør-Afrika (5:6)</title>
+      <link>https://radio.nrk.no/podkast/to_hvite_menn/l_5ff30d48-c7f6-4082-b30d-48c7f68082ea</link>
+      <description>Tidlig i 20-åra reiste Tjostolv Moland for å jobbe på jaktfarmen til Johan i Sør-Afrika. Johan var hvit spesialsoldat i det gamle Rhodesia og sier han så på Moland som sin ekstra sønn. </description>
+      <guid isPermaLink="false">l_5ff30d48-c7f6-4082-b30d-48c7f68082ea</guid>
+      <pubDate>Wed, 04 Apr 2018 14:22:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/to_hvite_menn/to_hvite_menn_2018-04-04_1222_1892.MP3" type="audio/mpeg" length="57588524"></enclosure>
+      <itunes:title>Reisen til Sør-Afrika (5:6)</itunes:title>
+      <itunes:summary>Tidlig i 20-åra reiste Tjostolv Moland for å jobbe på jaktfarmen til Johan i Sør-Afrika. Johan var hvit spesialsoldat i det gamle Rhodesia og sier han så på Moland som sin ekstra sønn. </itunes:summary>
+      <itunes:duration>2399</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iMH2Pryjg-YwdUCk7ARaNA3vJpwAkkK75u8vmc6gekyA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fengselsliv (4:6)</title>
+      <link>https://radio.nrk.no/podkast/to_hvite_menn/l_8e937464-517c-4b67-9374-64517c4b67d8</link>
+      <description>Hvordan overlever man i et kongolesisk fengsel i år etter år? I denne episoden forteller Joshua French om flukten i jungelen, hverdagen i fengselet og hva som skjedde da han plutselig var alene igjen på cella.</description>
+      <guid isPermaLink="false">l_8e937464-517c-4b67-9374-64517c4b67d8</guid>
+      <pubDate>Tue, 20 Mar 2018 16:27:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/to_hvite_menn/to_hvite_menn_2018-03-20_1527_3248.MP3" type="audio/mpeg" length="77775020"></enclosure>
+      <itunes:title>Fengselsliv (4:6)</itunes:title>
+      <itunes:summary>Hvordan overlever man i et kongolesisk fengsel i år etter år? I denne episoden forteller Joshua French om flukten i jungelen, hverdagen i fengselet og hva som skjedde da han plutselig var alene igjen på cella.</itunes:summary>
+      <itunes:duration>3240</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iMH2Pryjg-YwdUCk7ARaNA3vJpwAkkK75u8vmc6gekyA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fra Daniel til Joshua (3:6)</title>
+      <link>https://radio.nrk.no/podkast/to_hvite_menn/l_8b298a88-21b7-4598-a98a-8821b715981c</link>
+      <description>Hvem er mannen som sier han var agent og leiesoldat, og som satt åtte år i kongolesisk fengsel? Han kalte seg Daniel helt til han flyttet til England og ble soldat. I denne episoden skal vi møte Joshua French og de som kjenner han - inkludert mannen som skremte pirater med French i Adenbukta.</description>
+      <guid isPermaLink="false">l_8b298a88-21b7-4598-a98a-8821b715981c</guid>
+      <pubDate>Tue, 13 Mar 2018 16:25:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/to_hvite_menn/to_hvite_menn_2018-03-13_1525_1083.MP3" type="audio/mpeg" length="49908140"></enclosure>
+      <itunes:title>Fra Daniel til Joshua (3:6)</itunes:title>
+      <itunes:summary>Hvem er mannen som sier han var agent og leiesoldat, og som satt åtte år i kongolesisk fengsel? Han kalte seg Daniel helt til han flyttet til England og ble soldat. I denne episoden skal vi møte Joshua French og de som kjenner han - inkludert mannen som skremte pirater med French i Adenbukta.</itunes:summary>
+      <itunes:duration>2079</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iMH2Pryjg-YwdUCk7ARaNA3vJpwAkkK75u8vmc6gekyA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvem var Tjostolv Moland? (2:6)</title>
+      <link>https://radio.nrk.no/podkast/to_hvite_menn/l_639666f2-47c1-40cd-9666-f247c190cd60</link>
+      <description>Leiesoldater og agenter. Slik beskrev Joshua French hans og Molands arbeid i Afrika i forrige episode. Hva slags nordmenn er det egentlig som ender opp der? Og som til slutt blir dømt til døden i DR Kongo? I episode 2 av To hvite menn leiter vi i fortida. </description>
+      <guid isPermaLink="false">l_639666f2-47c1-40cd-9666-f247c190cd60</guid>
+      <pubDate>Tue, 06 Mar 2018 15:49:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/to_hvite_menn/to_hvite_menn_2018-03-06_1449_1996.MP3" type="audio/mpeg" length="70332524"></enclosure>
+      <itunes:title>Hvem var Tjostolv Moland? (2:6)</itunes:title>
+      <itunes:summary>Leiesoldater og agenter. Slik beskrev Joshua French hans og Molands arbeid i Afrika i forrige episode. Hva slags nordmenn er det egentlig som ender opp der? Og som til slutt blir dømt til døden i DR Kongo? I episode 2 av To hvite menn leiter vi i fortida. </itunes:summary>
+      <itunes:duration>2930</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iMH2Pryjg-YwdUCk7ARaNA3vJpwAkkK75u8vmc6gekyA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva skjedde i jungelen? (1:6)</title>
+      <link>https://radio.nrk.no/podkast/to_hvite_menn/l_a39b57f6-fb1d-4c11-9b57-f6fb1dfc1102</link>
+      <description>Etter åtte år i kongolesisk fengsel kom Joshua French hjem til Norge 17. mai i fjor. Nå forteller han sin versjon av hva som skjedde i Kongo i 2009. Dette er første episode i NRKs nye podkastserie To hvite menn. Totalt kommer det seks episoder. </description>
+      <guid isPermaLink="false">l_a39b57f6-fb1d-4c11-9b57-f6fb1dfc1102</guid>
+      <pubDate>Tue, 27 Feb 2018 15:43:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/to_hvite_menn/to_hvite_menn_2018-02-27_1443_3837.MP3" type="audio/mpeg" length="73505708"></enclosure>
+      <itunes:title>Hva skjedde i jungelen? (1:6)</itunes:title>
+      <itunes:summary>Etter åtte år i kongolesisk fengsel kom Joshua French hjem til Norge 17. mai i fjor. Nå forteller han sin versjon av hva som skjedde i Kongo i 2009. Dette er første episode i NRKs nye podkastserie To hvite menn. Totalt kommer det seks episoder. </itunes:summary>
+      <itunes:duration>3062</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iMH2Pryjg-YwdUCk7ARaNA3vJpwAkkK75u8vmc6gekyA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Utro, håp og kjærlighet</title>
+    <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
+    <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Sun, 30 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg</url>
+      <title>Utro, håp og kjærlighet</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
+    </image>
+    <item>
+      <title>Panelet: Tarotkort og psykologtime</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_afa93a89-71e6-436b-a93a-8971e6536b43</link>
+      <description>Aksel Hennie har klare oppfordringer til Panelet: Hva skal til for å lykkes på date?</description>
+      <guid isPermaLink="false">l_afa93a89-71e6-436b-a93a-8971e6536b43</guid>
+      <pubDate>Sun, 30 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/afa93a89-71e6-436b-a93a-8971e6536b43_2_ID192MP3.mp3" type="audio/mpeg" length="77650028"></enclosure>
+      <itunes:title>Panelet: Tarotkort og psykologtime</itunes:title>
+      <itunes:summary>Aksel Hennie har klare oppfordringer til Panelet: Hva skal til for å lykkes på date?</itunes:summary>
+      <itunes:duration>3235</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hedvig Glestad: Farget av fortiden</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_f09fb6a9-3334-462d-9fb6-a93334562d0c</link>
+      <description>Hedvig Glestad deler erfaringer med gjentatte svik og reflekterer over hvordan det har påvirket henne i nye relasjoner.</description>
+      <guid isPermaLink="false">l_f09fb6a9-3334-462d-9fb6-a93334562d0c</guid>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/f09fb6a9-3334-462d-9fb6-a93334562d0c_1_ID192MP3.mp3" type="audio/mpeg" length="65200364"></enclosure>
+      <itunes:title>Hedvig Glestad: Farget av fortiden</itunes:title>
+      <itunes:summary>Hedvig Glestad deler erfaringer med gjentatte svik og reflekterer over hvordan det har påvirket henne i nye relasjoner.</itunes:summary>
+      <itunes:duration>2716</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-nv9jgLb1jGCMCyqayAbWwdeLC_bWiTsaYIqkf5dLgOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Rima Iraki: Parforhold og familieliv</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_cf0ecd16-25b3-44ff-8ecd-1625b3b4ff47</link>
+      <description>Journalist Rima Iraki forteller om opp- og nedturene gjennom et langt forhold. Hvordan bevarer man kjærligheten når man oppdrar barn?</description>
+      <guid isPermaLink="false">l_cf0ecd16-25b3-44ff-8ecd-1625b3b4ff47</guid>
+      <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/cf0ecd16-25b3-44ff-8ecd-1625b3b4ff47_1_ID192MP3.mp3" type="audio/mpeg" length="73543148"></enclosure>
+      <itunes:title>Rima Iraki: Parforhold og familieliv</itunes:title>
+      <itunes:summary>Journalist Rima Iraki forteller om opp- og nedturene gjennom et langt forhold. Hvordan bevarer man kjærligheten når man oppdrar barn?</itunes:summary>
+      <itunes:duration>3064</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sw59VGb5DZYn1iwkCumf0gp4_eadlq3zMMfB6X3M6KNA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Singelgåten og forbudt frukt</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_789deb95-fa1e-451e-9deb-95fa1eb51e2a</link>
+      <description>Hvilke tre ting kan du gjøre for å få deg kjæreste? Panelet har besøk av &#34;singeleksperten&#34; Thomas Engeset.</description>
+      <guid isPermaLink="false">l_789deb95-fa1e-451e-9deb-95fa1eb51e2a</guid>
+      <pubDate>Sun, 23 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/789deb95-fa1e-451e-9deb-95fa1eb51e2a_1_ID192MP3.mp3" type="audio/mpeg" length="66342572"></enclosure>
+      <itunes:title>Panelet: Singelgåten og forbudt frukt</itunes:title>
+      <itunes:summary>Hvilke tre ting kan du gjøre for å få deg kjæreste? Panelet har besøk av &#34;singeleksperten&#34; Thomas Engeset.</itunes:summary>
+      <itunes:duration>2764</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hedda Skaug: Å slippe noen inn</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_c412a79e-36fc-4827-92a7-9e36fcb8272c</link>
+      <description>Hedda Skaug røper ny flørt. Hun forteller om singellivet, dating og det å tørre å slippe noen inn.</description>
+      <guid isPermaLink="false">l_c412a79e-36fc-4827-92a7-9e36fcb8272c</guid>
+      <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c412a79e-36fc-4827-92a7-9e36fcb8272c_2_ID192MP3.mp3" type="audio/mpeg" length="54248876"></enclosure>
+      <itunes:title>Hedda Skaug: Å slippe noen inn</itunes:title>
+      <itunes:summary>Hedda Skaug røper ny flørt. Hun forteller om singellivet, dating og det å tørre å slippe noen inn.</itunes:summary>
+      <itunes:duration>2260</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gp_7aFmBPSANOkt3GfdEKAZ-ZNT-wRpBvifPC_rSjjpA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nils Bech: Skam</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_be3fbde3-9227-4ce8-bfbd-e392272ce8a7</link>
+      <description>Sanger Nils Bech tar oss med på sin kjærlighetsreise fra skam til selvaksept.</description>
+      <guid isPermaLink="false">l_be3fbde3-9227-4ce8-bfbd-e392272ce8a7</guid>
+      <pubDate>Tue, 18 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/be3fbde3-9227-4ce8-bfbd-e392272ce8a7_1_ID192MP3.mp3" type="audio/mpeg" length="74234924"></enclosure>
+      <itunes:title>Nils Bech: Skam</itunes:title>
+      <itunes:summary>Sanger Nils Bech tar oss med på sin kjærlighetsreise fra skam til selvaksept.</itunes:summary>
+      <itunes:duration>3093</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jSenxbAA81QcdsIvv0hjZQc0RXJaqOfQIkC1YDBNVziQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Bitter kjerring og ny kjæreste?</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_c7b48c34-b0a8-4a56-b48c-34b0a8ea56a6</link>
+      <description>Komiker Maria Stavang er gjest og deler fra singellivet. Kai Thomas forteller om mannlig besøk fra London; har han fått seg kjæreste?</description>
+      <guid isPermaLink="false">l_c7b48c34-b0a8-4a56-b48c-34b0a8ea56a6</guid>
+      <pubDate>Sun, 16 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c7b48c34-b0a8-4a56-b48c-34b0a8ea56a6_1_ID192MP3.mp3" type="audio/mpeg" length="63781676"></enclosure>
+      <itunes:title>Panelet: Bitter kjerring og ny kjæreste?</itunes:title>
+      <itunes:summary>Komiker Maria Stavang er gjest og deler fra singellivet. Kai Thomas forteller om mannlig besøk fra London; har han fått seg kjæreste?</itunes:summary>
+      <itunes:duration>2657</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Solveig Kloppen: Når barna flytter</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_905df1dd-7fd7-421c-9df1-dd7fd7c21cb0</link>
+      <description>Solveig Kloppen forteller om møtet med ektemannen, småbarnsfasen og hvordan det er når barna flytter ut.</description>
+      <guid isPermaLink="false">l_905df1dd-7fd7-421c-9df1-dd7fd7c21cb0</guid>
+      <pubDate>Thu, 13 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/905df1dd-7fd7-421c-9df1-dd7fd7c21cb0_1_ID192MP3.mp3" type="audio/mpeg" length="67377644"></enclosure>
+      <itunes:title>Solveig Kloppen: Når barna flytter</itunes:title>
+      <itunes:summary>Solveig Kloppen forteller om møtet med ektemannen, småbarnsfasen og hvordan det er når barna flytter ut.</itunes:summary>
+      <itunes:duration>2807</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/w47fAbwF7yiYpe1ImuH97wpqz7uWNfysFW-DP9L1aMNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>William Heimdal: Identitet og kjærlighet</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_af9db33d-cc94-4d65-9db3-3dcc94bd65a5</link>
+      <description>William Heimdal forteller om en livsendrende episode som formet hans perspektiv på livet, like før han møtte kjæresten.</description>
+      <guid isPermaLink="false">l_af9db33d-cc94-4d65-9db3-3dcc94bd65a5</guid>
+      <pubDate>Tue, 11 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/af9db33d-cc94-4d65-9db3-3dcc94bd65a5_1_ID192MP3.mp3" type="audio/mpeg" length="63101996"></enclosure>
+      <itunes:title>William Heimdal: Identitet og kjærlighet</itunes:title>
+      <itunes:summary>William Heimdal forteller om en livsendrende episode som formet hans perspektiv på livet, like før han møtte kjæresten.</itunes:summary>
+      <itunes:duration>2629</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/onyR1aWDwdpLY5bDNqqbFwdnFFAc9yS-3S8GRJbdMNkw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Internasjonal hore og puslespill</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_bf9a7305-7c25-4e9b-9a73-057c25ce9b78</link>
+      <description>Panelet er tilbake med historier fra sommerferien og løsninger på “verdensproblemmas”. Har de holdt seg til dating planene sine?</description>
+      <guid isPermaLink="false">l_bf9a7305-7c25-4e9b-9a73-057c25ce9b78</guid>
+      <pubDate>Sun, 09 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/bf9a7305-7c25-4e9b-9a73-057c25ce9b78_1_ID192MP3.mp3" type="audio/mpeg" length="61683884"></enclosure>
+      <itunes:title>Panelet: Internasjonal hore og puslespill</itunes:title>
+      <itunes:summary>Panelet er tilbake med historier fra sommerferien og løsninger på “verdensproblemmas”. Har de holdt seg til dating planene sine?</itunes:summary>
+      <itunes:duration>2570</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hanna-Martine Baller:  Forholdet etter barn</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_3e714338-a5ab-4905-b143-38a5ab890556</link>
+      <description>Hanna-Martine forteller om møtet med kjæresten, graviditet, familieliv og hvorfor sexlivet er bedre enn noen gang.</description>
+      <guid isPermaLink="false">l_3e714338-a5ab-4905-b143-38a5ab890556</guid>
+      <pubDate>Thu, 06 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/3e714338-a5ab-4905-b143-38a5ab890556_1_ID192MP3.mp3" type="audio/mpeg" length="77246828"></enclosure>
+      <itunes:title>Hanna-Martine Baller:  Forholdet etter barn</itunes:title>
+      <itunes:summary>Hanna-Martine forteller om møtet med kjæresten, graviditet, familieliv og hvorfor sexlivet er bedre enn noen gang.</itunes:summary>
+      <itunes:duration>3218</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yBC4IIY6Y22N3CVRRu-jZgLusWiiuG475RvL6Uk-Mz6A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lubna Jaffery: Kjærlighet og selvtillit</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_2005c043-d07d-49fd-85c0-43d07d69fd09</link>
+      <description>Lubna Jaffery forteller om kjærlighetslivet – og hvordan selvtilliten har påvirket valg av partner og egne grenser.</description>
+      <guid isPermaLink="false">l_2005c043-d07d-49fd-85c0-43d07d69fd09</guid>
+      <pubDate>Tue, 04 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/2005c043-d07d-49fd-85c0-43d07d69fd09_1_ID192MP3.mp3" type="audio/mpeg" length="70826156"></enclosure>
+      <itunes:title>Lubna Jaffery: Kjærlighet og selvtillit</itunes:title>
+      <itunes:summary>Lubna Jaffery forteller om kjærlighetslivet – og hvordan selvtilliten har påvirket valg av partner og egne grenser.</itunes:summary>
+      <itunes:duration>2951</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/w19U1WcA54GOax_wQVqKPgZoJ1K0_UWjjphA3Bpvg0oA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Problemmas</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_cf726fb7-9077-4ad9-b26f-b79077bad9ad</link>
+      <description>Panelet får besøk av komiker Kevin Kildal og dedikerer en hel episode til å svare på lytternes innsendte «problemmas».</description>
+      <guid isPermaLink="false">l_cf726fb7-9077-4ad9-b26f-b79077bad9ad</guid>
+      <pubDate>Sun, 02 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/cf726fb7-9077-4ad9-b26f-b79077bad9ad_1_ID192MP3.mp3" type="audio/mpeg" length="80065196"></enclosure>
+      <itunes:title>Panelet: Problemmas</itunes:title>
+      <itunes:summary>Panelet får besøk av komiker Kevin Kildal og dedikerer en hel episode til å svare på lytternes innsendte «problemmas».</itunes:summary>
+      <itunes:duration>3336</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zk67A7ymRVXwba6_ckwRAAKes6cD7YpzJMPLUDxwafFQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sandra Lyng: Å bryte mønsteret</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_04b877ab-22ea-4943-b877-ab22ea3943a2</link>
+      <description>Sandra Lyng forteller om hvordan hun har lært å bryte mønster knyttet til selvsabotasje og det å velge feil relasjoner.</description>
+      <guid isPermaLink="false">l_04b877ab-22ea-4943-b877-ab22ea3943a2</guid>
+      <pubDate>Tue, 28 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/04b877ab-22ea-4943-b877-ab22ea3943a2_1_ID192MP3.mp3" type="audio/mpeg" length="79600940"></enclosure>
+      <itunes:title>Sandra Lyng: Å bryte mønsteret</itunes:title>
+      <itunes:summary>Sandra Lyng forteller om hvordan hun har lært å bryte mønster knyttet til selvsabotasje og det å velge feil relasjoner.</itunes:summary>
+      <itunes:duration>3316</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZBv6z7-b42sT4GfBVMbduQOhMbU23bW_sHpfTRouNnlA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Kjærlighetssorg</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_354724db-22b6-47bb-8724-db22b677bb65</link>
+      <description>Panelet får besøk av komiker og lege Jonas Kinge Bergland, som er med på et dypdykk i hva som skjer når vi opplever kjærlighetssorg.</description>
+      <guid isPermaLink="false">l_354724db-22b6-47bb-8724-db22b677bb65</guid>
+      <pubDate>Sun, 26 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/354724db-22b6-47bb-8724-db22b677bb65_1_ID192MP3.mp3" type="audio/mpeg" length="78777836"></enclosure>
+      <itunes:title>Panelet: Kjærlighetssorg</itunes:title>
+      <itunes:summary>Panelet får besøk av komiker og lege Jonas Kinge Bergland, som er med på et dypdykk i hva som skjer når vi opplever kjærlighetssorg.</itunes:summary>
+      <itunes:duration>3282</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WnhGeLeQoSOiDsNrukRo4QqlQUUJElULtQnZN7NkpvFw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sondre Lerche: Evig romantiker</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_577b939d-f1a5-44eb-bb93-9df1a5d4eb95</link>
+      <description>Sondre Lerche forteller om balansen mellom å prioritere musikken og være en evig romantiker – og om å få tilbake troen på den rette.</description>
+      <guid isPermaLink="false">l_577b939d-f1a5-44eb-bb93-9df1a5d4eb95</guid>
+      <pubDate>Tue, 21 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/577b939d-f1a5-44eb-bb93-9df1a5d4eb95_1_ID192MP3.mp3" type="audio/mpeg" length="60342956"></enclosure>
+      <itunes:title>Sondre Lerche: Evig romantiker</itunes:title>
+      <itunes:summary>Sondre Lerche forteller om balansen mellom å prioritere musikken og være en evig romantiker – og om å få tilbake troen på den rette.</itunes:summary>
+      <itunes:duration>2514</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4uFyiGuz81E_1rhG6O8aygIQtsTM1hhnrBEmUraFRLWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Forelskelse</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_8694bbdb-60c6-498a-94bb-db60c6898ab8</link>
+      <description>Hvorfor blir vi forelsket, og hva er tilknytningsstil? Panelet har besøk av psykolog Jan-Ole Hesselberg i spesialepisoden om forelskelse.</description>
+      <guid isPermaLink="false">l_8694bbdb-60c6-498a-94bb-db60c6898ab8</guid>
+      <pubDate>Sun, 19 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/8694bbdb-60c6-498a-94bb-db60c6898ab8_1_ID192MP3.mp3" type="audio/mpeg" length="84378284"></enclosure>
+      <itunes:title>Panelet: Forelskelse</itunes:title>
+      <itunes:summary>Hvorfor blir vi forelsket, og hva er tilknytningsstil? Panelet har besøk av psykolog Jan-Ole Hesselberg i spesialepisoden om forelskelse.</itunes:summary>
+      <itunes:duration>3515</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/H41768MQkZYewiu0q3ZO8AL-UzbztsLMr5ZBTZ9eeeqw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dennis Vareide: Alenepappa</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_36bb8e78-bc66-4b07-bb8e-78bc66ab07c9</link>
+      <description>Innholdsskaper Dennis Vareide forteller om å bli far og gå gjennom et samlivsbrudd nesten samtidig.</description>
+      <guid isPermaLink="false">l_36bb8e78-bc66-4b07-bb8e-78bc66ab07c9</guid>
+      <pubDate>Tue, 14 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/36bb8e78-bc66-4b07-bb8e-78bc66ab07c9_1_ID192MP3.mp3" type="audio/mpeg" length="62804204"></enclosure>
+      <itunes:title>Dennis Vareide: Alenepappa</itunes:title>
+      <itunes:summary>Innholdsskaper Dennis Vareide forteller om å bli far og gå gjennom et samlivsbrudd nesten samtidig.</itunes:summary>
+      <itunes:duration>2616</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oYPwHuSMcOYtWatYIHaTNQXTXnjLwdDQu1StnPCkb1wA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Utroskap</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_7344e2df-4e00-44d2-84e2-df4e00c4d2ec</link>
+      <description>Hva er utroskap, og hvorfor er noen utro? Panelet har besøk av psykolog og sexolog Atle Austad i en spesialepisode om utroskap.</description>
+      <guid isPermaLink="false">l_7344e2df-4e00-44d2-84e2-df4e00c4d2ec</guid>
+      <pubDate>Sun, 12 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/7344e2df-4e00-44d2-84e2-df4e00c4d2ec_1_ID192MP3.mp3" type="audio/mpeg" length="86079212"></enclosure>
+      <itunes:title>Panelet: Utroskap</itunes:title>
+      <itunes:summary>Hva er utroskap, og hvorfor er noen utro? Panelet har besøk av psykolog og sexolog Atle Austad i en spesialepisode om utroskap.</itunes:summary>
+      <itunes:duration>3586</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/c1oMVs-KMZONZeP-BZJV3ACLBsxOmGgTAtpXu43fpSgQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Andrea Badendyck: Brudd, håp og kjærlighet</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_8aef130e-819c-414a-af13-0e819cb14a81</link>
+      <description>Influenser Andrea Badendyck forteller om å stå midt i en kjærlighetssorg og hvordan hun  har begynt å komme seg videre.</description>
+      <guid isPermaLink="false">l_8aef130e-819c-414a-af13-0e819cb14a81</guid>
+      <pubDate>Tue, 07 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/8aef130e-819c-414a-af13-0e819cb14a81_1_ID192MP3.mp3" type="audio/mpeg" length="41525036"></enclosure>
+      <itunes:title>Andrea Badendyck: Brudd, håp og kjærlighet</itunes:title>
+      <itunes:summary>Influenser Andrea Badendyck forteller om å stå midt i en kjærlighetssorg og hvordan hun  har begynt å komme seg videre.</itunes:summary>
+      <itunes:duration>1730</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/sHCXMpK3ahM3q5sBxGpuhwVgU1CY1pqS85vngdtGx_9Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Fuckgirl og &#34;mannefomo&#34;</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_2ac3ee78-a33a-4883-83ee-78a33a8883f6</link>
+      <description>Komiker Amalie Stuve er gjest i Panelet  som diskuterer ferieplaner og ukens problemmaer: Hva gjør man med politisk uenighet i forholdet?</description>
+      <guid isPermaLink="false">l_2ac3ee78-a33a-4883-83ee-78a33a8883f6</guid>
+      <pubDate>Sun, 05 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/2ac3ee78-a33a-4883-83ee-78a33a8883f6_1_ID192MP3.mp3" type="audio/mpeg" length="71831276"></enclosure>
+      <itunes:title>Panelet: Fuckgirl og &#34;mannefomo&#34;</itunes:title>
+      <itunes:summary>Komiker Amalie Stuve er gjest i Panelet  som diskuterer ferieplaner og ukens problemmaer: Hva gjør man med politisk uenighet i forholdet?</itunes:summary>
+      <itunes:duration>2992</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ida Broen: Å velge seg selv</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_40de4e25-3213-4610-9e4e-253213b61034</link>
+      <description>Ida Broen snakker om hvordan det er å gå gjennom et brudd i trettiårene, tiden etterpå og møtet med sin nye kjærlighet.</description>
+      <guid isPermaLink="false">l_40de4e25-3213-4610-9e4e-253213b61034</guid>
+      <pubDate>Thu, 02 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/40de4e25-3213-4610-9e4e-253213b61034_2_ID192MP3.mp3" type="audio/mpeg" length="46842668"></enclosure>
+      <itunes:title>Ida Broen: Å velge seg selv</itunes:title>
+      <itunes:summary>Ida Broen snakker om hvordan det er å gå gjennom et brudd i trettiårene, tiden etterpå og møtet med sin nye kjærlighet.</itunes:summary>
+      <itunes:duration>1951</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oSF8uAYQ_f-JCFMU1JbWsQF_jI2a7HXKGqGDIFHU54mw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Simon Nitsche: Fra &#34;fuckboy&#34; til forlovet</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_db6e6bed-86b2-4e42-ae6b-ed86b20e4220</link>
+      <description>Simon Nitsche reflekterer over sine 15 år som singel og forteller om hvordan han til slutt kapret drømmedama og forlovet seg.</description>
+      <guid isPermaLink="false">l_db6e6bed-86b2-4e42-ae6b-ed86b20e4220</guid>
+      <pubDate>Tue, 30 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/db6e6bed-86b2-4e42-ae6b-ed86b20e4220_1_ID192MP3.mp3" type="audio/mpeg" length="78054956"></enclosure>
+      <itunes:title>Simon Nitsche: Fra &#34;fuckboy&#34; til forlovet</itunes:title>
+      <itunes:summary>Simon Nitsche reflekterer over sine 15 år som singel og forteller om hvordan han til slutt kapret drømmedama og forlovet seg.</itunes:summary>
+      <itunes:duration>3252</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aD-B2ClmNC9HnPtnzyTRFQdHPVUa1NpMpSknMM3WGfiQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Hot Boy Summer og scrolleavhengig</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_0ed41546-cb36-4e7f-9415-46cb366e7fbe</link>
+      <description>Martha Leivestad er gjest i Panelet: Hva gjør man med en mobilavhengig partner, og skal man prioritere dating eller ligging i ferien?</description>
+      <guid isPermaLink="false">l_0ed41546-cb36-4e7f-9415-46cb366e7fbe</guid>
+      <pubDate>Sun, 28 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/0ed41546-cb36-4e7f-9415-46cb366e7fbe_1_ID192MP3.mp3" type="audio/mpeg" length="50055596"></enclosure>
+      <itunes:title>Panelet: Hot Boy Summer og scrolleavhengig</itunes:title>
+      <itunes:summary>Martha Leivestad er gjest i Panelet: Hva gjør man med en mobilavhengig partner, og skal man prioritere dating eller ligging i ferien?</itunes:summary>
+      <itunes:duration>2085</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Helle Staff: Å miste seg selv</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_4fac44dd-eef7-4e1e-ac44-ddeef72e1ef6</link>
+      <description>Influenser Helle Staff snakker om hvordan man kan miste seg selv i forhold, og hvorfor det er viktig å bevare selvstendigheten.</description>
+      <guid isPermaLink="false">l_4fac44dd-eef7-4e1e-ac44-ddeef72e1ef6</guid>
+      <pubDate>Thu, 25 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/4fac44dd-eef7-4e1e-ac44-ddeef72e1ef6_1_ID192MP3.mp3" type="audio/mpeg" length="53659628"></enclosure>
+      <itunes:title>Helle Staff: Å miste seg selv</itunes:title>
+      <itunes:summary>Influenser Helle Staff snakker om hvordan man kan miste seg selv i forhold, og hvorfor det er viktig å bevare selvstendigheten.</itunes:summary>
+      <itunes:duration>2235</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/H4Ts_mo6V5-PCUCA_19rggca3CwV-cVGxMVC1yy5Zkjg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Aksel Hennie: Synet på kjærlighet</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_81c37958-a58d-4364-8379-58a58d436476</link>
+      <description>Aksel Hennie forteller om sitt syn på kjærlighet, årene som singel, møtet med kona og hva som er viktig i et langvarig forhold.</description>
+      <guid isPermaLink="false">l_81c37958-a58d-4364-8379-58a58d436476</guid>
+      <pubDate>Tue, 23 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/81c37958-a58d-4364-8379-58a58d436476_1_ID192MP3.mp3" type="audio/mpeg" length="61622252"></enclosure>
+      <itunes:title>Aksel Hennie: Synet på kjærlighet</itunes:title>
+      <itunes:summary>Aksel Hennie forteller om sitt syn på kjærlighet, årene som singel, møtet med kona og hva som er viktig i et langvarig forhold.</itunes:summary>
+      <itunes:duration>2567</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/K_1GirdfPjWqAYLJ3AL8aQBihpGjZCYZTNF-POoxJh8A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Tiggekopp og gruppeterapi</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_625ca279-af10-4b98-9ca2-79af10fb9857</link>
+      <description>Panelet får besøk av Lisa Tønne og diskuterer: Skal Selma ta en pause fra dating, og når bør man egentlig ta praten om barn?</description>
+      <guid isPermaLink="false">l_625ca279-af10-4b98-9ca2-79af10fb9857</guid>
+      <pubDate>Sun, 21 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/625ca279-af10-4b98-9ca2-79af10fb9857_1_ID192MP3.mp3" type="audio/mpeg" length="59985836"></enclosure>
+      <itunes:title>Panelet: Tiggekopp og gruppeterapi</itunes:title>
+      <itunes:summary>Panelet får besøk av Lisa Tønne og diskuterer: Skal Selma ta en pause fra dating, og når bør man egentlig ta praten om barn?</itunes:summary>
+      <itunes:duration>2499</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pFOH7pIvmZ8bE3vPVLwb2wa14spUQQ7H6o-_8gBWChnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Snorre Rein: Parforhold og psykisk sykdom</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_638bce72-6e51-4979-8bce-726e51297999</link>
+      <description>Snorre Rein forteller om alvorlige psykiske utfordringer og hvordan det påvirket forholdet hans.</description>
+      <guid isPermaLink="false">l_638bce72-6e51-4979-8bce-726e51297999</guid>
+      <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/638bce72-6e51-4979-8bce-726e51297999_2_ID192MP3.mp3" type="audio/mpeg" length="80487980"></enclosure>
+      <itunes:title>Snorre Rein: Parforhold og psykisk sykdom</itunes:title>
+      <itunes:summary>Snorre Rein forteller om alvorlige psykiske utfordringer og hvordan det påvirket forholdet hans.</itunes:summary>
+      <itunes:duration>3353</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_t9Hy8HNXbTWzTD4vNVDuwG04RXAzN3fikCKRhuMd3wA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nora Angeltveit: Å forplikte seg</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_d0a3d90c-2de8-4477-a3d9-0c2de86477fb</link>
+      <description>Podkaster Nora Angeltveit reflekterer rundt redselen for å binde seg og hvordan det påvirker kjærlighetslivet.</description>
+      <guid isPermaLink="false">l_d0a3d90c-2de8-4477-a3d9-0c2de86477fb</guid>
+      <pubDate>Tue, 16 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/d0a3d90c-2de8-4477-a3d9-0c2de86477fb_2_ID192MP3.mp3" type="audio/mpeg" length="69272108"></enclosure>
+      <itunes:title>Nora Angeltveit: Å forplikte seg</itunes:title>
+      <itunes:summary>Podkaster Nora Angeltveit reflekterer rundt redselen for å binde seg og hvordan det påvirker kjærlighetslivet.</itunes:summary>
+      <itunes:duration>2886</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/c5NtxmhXbObqYKQVwZ9ceQWFRhfBK9vDI9rr235Cfa4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Opp og ned</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_93ae1675-dc61-492f-ae16-75dc61c92fb1</link>
+      <description>Panelet om sin seksuelle debut, det å flytte for kjærligheten og hvor lenge man bør vente før man deler såre ting med en date?</description>
+      <guid isPermaLink="false">l_93ae1675-dc61-492f-ae16-75dc61c92fb1</guid>
+      <pubDate>Sun, 14 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/93ae1675-dc61-492f-ae16-75dc61c92fb1_1_ID192MP3.mp3" type="audio/mpeg" length="54090476"></enclosure>
+      <itunes:title>Panelet: Opp og ned</itunes:title>
+      <itunes:summary>Panelet om sin seksuelle debut, det å flytte for kjærligheten og hvor lenge man bør vente før man deler såre ting med en date?</itunes:summary>
+      <itunes:duration>2253</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kristjana Vera: Uplanlagt gravid</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_875ed71e-9e59-471f-9ed7-1e9e59d71f40</link>
+      <description>Influenser Kristjana Vera om reisen til Zanzibar som endte med en uplanlagt graviditet. Hun åpner opp om fødselen og livet etterpå.</description>
+      <guid isPermaLink="false">l_875ed71e-9e59-471f-9ed7-1e9e59d71f40</guid>
+      <pubDate>Thu, 11 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/875ed71e-9e59-471f-9ed7-1e9e59d71f40_2_ID192MP3.mp3" type="audio/mpeg" length="71728748"></enclosure>
+      <itunes:title>Kristjana Vera: Uplanlagt gravid</itunes:title>
+      <itunes:summary>Influenser Kristjana Vera om reisen til Zanzibar som endte med en uplanlagt graviditet. Hun åpner opp om fødselen og livet etterpå.</itunes:summary>
+      <itunes:duration>2988</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Wqcy_aUAttRKl-W2cQ6LvAljlEayC7-gK-7jN_I9gd0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jan Christian Vestre: Karriere og kjærlighet</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_759bcd41-2aa0-4b3e-9bcd-412aa05b3e66</link>
+      <description>Helse- og omsorgsminister Jan Christian Vestre om møtet med forloveden og hvordan han balanserer kjærligheten med en krevende jobb.</description>
+      <guid isPermaLink="false">l_759bcd41-2aa0-4b3e-9bcd-412aa05b3e66</guid>
+      <pubDate>Tue, 09 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/759bcd41-2aa0-4b3e-9bcd-412aa05b3e66_1_ID192MP3.mp3" type="audio/mpeg" length="69365420"></enclosure>
+      <itunes:title>Jan Christian Vestre: Karriere og kjærlighet</itunes:title>
+      <itunes:summary>Helse- og omsorgsminister Jan Christian Vestre om møtet med forloveden og hvordan han balanserer kjærligheten med en krevende jobb.</itunes:summary>
+      <itunes:duration>2890</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/e_PKcswlq7IpXNEtZi3e7QgTkuz106qUzed4SETzGqHw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Lovebombing og telefonsporing</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_187a554f-c22a-4575-ba55-4fc22ac575af</link>
+      <description>Kai Thomas har vært på date, og Selma lurer på om hun selvsaboterer. Hvor går egentlig grensen mellom en hyggelig gest og lovebombing?</description>
+      <guid isPermaLink="false">l_187a554f-c22a-4575-ba55-4fc22ac575af</guid>
+      <pubDate>Sun, 07 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/187a554f-c22a-4575-ba55-4fc22ac575af_1_ID192MP3.mp3" type="audio/mpeg" length="52425836"></enclosure>
+      <itunes:title>Panelet: Lovebombing og telefonsporing</itunes:title>
+      <itunes:summary>Kai Thomas har vært på date, og Selma lurer på om hun selvsaboterer. Hvor går egentlig grensen mellom en hyggelig gest og lovebombing?</itunes:summary>
+      <itunes:duration>2184</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kristine Arntzen: Selvsabotasje</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_d5080414-2f7d-4579-8804-142f7da5794e</link>
+      <description>Radioprofil Kristine Arntzen forteller om selvsabotering og indre konflikt i dating.</description>
+      <guid isPermaLink="false">l_d5080414-2f7d-4579-8804-142f7da5794e</guid>
+      <pubDate>Thu, 04 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/d5080414-2f7d-4579-8804-142f7da5794e_1_ID192MP3.mp3" type="audio/mpeg" length="71001836"></enclosure>
+      <itunes:title>Kristine Arntzen: Selvsabotasje</itunes:title>
+      <itunes:summary>Radioprofil Kristine Arntzen forteller om selvsabotering og indre konflikt i dating.</itunes:summary>
+      <itunes:duration>2958</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0LtCzBPlKXURKiZzo21NeAX7Tv4u99P-iLPJXUOhM9Fw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Chris Holsten: Mann, 33,  singel</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_26af704d-113f-4f12-af70-4d113fef12fd</link>
+      <description>Artist Chris Holsten forteller om kjærlighetslivet, dating og ønsket om egen familie.</description>
+      <guid isPermaLink="false">l_26af704d-113f-4f12-af70-4d113fef12fd</guid>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/26af704d-113f-4f12-af70-4d113fef12fd_1_ID192MP3.mp3" type="audio/mpeg" length="58121900"></enclosure>
+      <itunes:title>Chris Holsten: Mann, 33,  singel</itunes:title>
+      <itunes:summary>Artist Chris Holsten forteller om kjærlighetslivet, dating og ønsket om egen familie.</itunes:summary>
+      <itunes:duration>2421</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HaavT4MVxM1-awRk8F_KgwbF5VEb64cLniycWvuDjgsg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Datinghore og klemmepute</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_c94f130c-ea99-4c9e-8f13-0cea998c9e84</link>
+      <description>Selma og Kai Thomas diskuterer datingerfaringer, vektøkning og tillitsbrudd i forhold. En gang utro, alltid utro?</description>
+      <guid isPermaLink="false">l_c94f130c-ea99-4c9e-8f13-0cea998c9e84</guid>
+      <pubDate>Sun, 31 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c94f130c-ea99-4c9e-8f13-0cea998c9e84_2_ID192MP3.mp3" type="audio/mpeg" length="63961388"></enclosure>
+      <itunes:title>Panelet: Datinghore og klemmepute</itunes:title>
+      <itunes:summary>Selma og Kai Thomas diskuterer datingerfaringer, vektøkning og tillitsbrudd i forhold. En gang utro, alltid utro?</itunes:summary>
+      <itunes:duration>2665</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Joakim Kleven: Slutt på singellivet</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_5e9b3b67-fabf-402f-9b3b-67fabf602f4e</link>
+      <description>TV-profil Joakim Kleven forteller om ti år som singel og hvordan han til slutt fant kjærligheten på et datingprogram.</description>
+      <guid isPermaLink="false">l_5e9b3b67-fabf-402f-9b3b-67fabf602f4e</guid>
+      <pubDate>Thu, 28 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/5e9b3b67-fabf-402f-9b3b-67fabf602f4e_1_ID192MP3.mp3" type="audio/mpeg" length="67412780"></enclosure>
+      <itunes:title>Joakim Kleven: Slutt på singellivet</itunes:title>
+      <itunes:summary>TV-profil Joakim Kleven forteller om ti år som singel og hvordan han til slutt fant kjærligheten på et datingprogram.</itunes:summary>
+      <itunes:duration>2808</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gr7F_HAkRqyDGjCvHhgLtg8M7wiHy-wc3WfmmCVf__uA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Birgit Skarstein: Sjelevenner</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_66338d7c-0d0f-464c-b38d-7c0d0f764c81</link>
+      <description>Birgit Skarstein forteller om reisen hun har hatt med forloveden og hvordan synet hennes på kjærlighet endret seg i møte med ham.</description>
+      <guid isPermaLink="false">l_66338d7c-0d0f-464c-b38d-7c0d0f764c81</guid>
+      <pubDate>Tue, 26 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/66338d7c-0d0f-464c-b38d-7c0d0f764c81_1_ID192MP3.mp3" type="audio/mpeg" length="86088428"></enclosure>
+      <itunes:title>Birgit Skarstein: Sjelevenner</itunes:title>
+      <itunes:summary>Birgit Skarstein forteller om reisen hun har hatt med forloveden og hvordan synet hennes på kjærlighet endret seg i møte med ham.</itunes:summary>
+      <itunes:duration>3586</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I88-bZYMLjfKIPh-MwpszgCBZdueKGjlagFODlFVd7jw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Færre krav og manneprat</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_c6ccb7fc-13ad-4d26-8cb7-fc13adcd26d6</link>
+      <description>Panelet snakker om Selmas krav til en mann, aldersforskjell i forhold og hvordan man finner en partner når man blir eldre.</description>
+      <guid isPermaLink="false">l_c6ccb7fc-13ad-4d26-8cb7-fc13adcd26d6</guid>
+      <pubDate>Sun, 24 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c6ccb7fc-13ad-4d26-8cb7-fc13adcd26d6_1_ID192MP3.mp3" type="audio/mpeg" length="57271148"></enclosure>
+      <itunes:title>Panelet: Færre krav og manneprat</itunes:title>
+      <itunes:summary>Panelet snakker om Selmas krav til en mann, aldersforskjell i forhold og hvordan man finner en partner når man blir eldre.</itunes:summary>
+      <itunes:duration>2386</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mathilde Ullum: 25-års aldersforskjell</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_34b3a195-f427-468f-b3a1-95f427668fbe</link>
+      <description>Influenser og podkastprogramleder Mathilde Ullum om forholdet sitt med 25-års aldersforskjell og veien fra det første møtet til nå.</description>
+      <guid isPermaLink="false">l_34b3a195-f427-468f-b3a1-95f427668fbe</guid>
+      <pubDate>Thu, 21 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/34b3a195-f427-468f-b3a1-95f427668fbe_1_ID192MP3.mp3" type="audio/mpeg" length="68499116"></enclosure>
+      <itunes:title>Mathilde Ullum: 25-års aldersforskjell</itunes:title>
+      <itunes:summary>Influenser og podkastprogramleder Mathilde Ullum om forholdet sitt med 25-års aldersforskjell og veien fra det første møtet til nå.</itunes:summary>
+      <itunes:duration>2854</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sm1d5U15vBMdey2hgxyn9QlLpXY7zc1FknMQueUm-Xyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Guri Melby: Å finne tilbake</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_622c729c-e7c9-4516-ac72-9ce7c9951638</link>
+      <description>Politiker Guri Melby forteller om bruddet med mannen, samarbeidet mellom dem og hvordan de fant tilbake til hverandre igjen.</description>
+      <guid isPermaLink="false">l_622c729c-e7c9-4516-ac72-9ce7c9951638</guid>
+      <pubDate>Tue, 19 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/622c729c-e7c9-4516-ac72-9ce7c9951638_1_ID192MP3.mp3" type="audio/mpeg" length="86269868"></enclosure>
+      <itunes:title>Guri Melby: Å finne tilbake</itunes:title>
+      <itunes:summary>Politiker Guri Melby forteller om bruddet med mannen, samarbeidet mellom dem og hvordan de fant tilbake til hverandre igjen.</itunes:summary>
+      <itunes:duration>3594</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/XopGZxM79cxaTJWSU2L9pwS-I0Me-1L91N6bhc0LixNg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Singelliv og selvfølelse</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_9f4536ba-141b-463e-8536-ba141ba63e2e</link>
+      <description>Panelet feirer nasjonaldagen med innsendte dilemmaer, personlige problemer og historier fra eget liv.</description>
+      <guid isPermaLink="false">l_9f4536ba-141b-463e-8536-ba141ba63e2e</guid>
+      <pubDate>Sun, 17 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/9f4536ba-141b-463e-8536-ba141ba63e2e_1_ID192MP3.mp3" type="audio/mpeg" length="59386796"></enclosure>
+      <itunes:title>Panelet: Singelliv og selvfølelse</itunes:title>
+      <itunes:summary>Panelet feirer nasjonaldagen med innsendte dilemmaer, personlige problemer og historier fra eget liv.</itunes:summary>
+      <itunes:duration>2474</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tinashe Williamson: Parterapi</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_2535071a-89ee-44e8-b507-1a89ee54e8c1</link>
+      <description>Tinashe Williamson forteller om møtet med ektemannen og hvordan parterapi har hjulpet dem gjennom et langvarig forhold.</description>
+      <guid isPermaLink="false">l_2535071a-89ee-44e8-b507-1a89ee54e8c1</guid>
+      <pubDate>Thu, 14 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/2535071a-89ee-44e8-b507-1a89ee54e8c1_1_ID192MP3.mp3" type="audio/mpeg" length="66741164"></enclosure>
+      <itunes:title>Tinashe Williamson: Parterapi</itunes:title>
+      <itunes:summary>Tinashe Williamson forteller om møtet med ektemannen og hvordan parterapi har hjulpet dem gjennom et langvarig forhold.</itunes:summary>
+      <itunes:duration>2780</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SCyQtPt_ehNIAyoqiARYaAy7HNKIJPD4y4EiUMPLgScw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Simen Bondevik: Ufrivillig barnløs</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_2f569735-1d76-46b7-9697-351d7646b7f2</link>
+      <description>TV-profil og politiker Simen Bondevik forteller om møtet med kona og hvordan de to, gjennom flere år, har kjempet for å få barn.</description>
+      <guid isPermaLink="false">l_2f569735-1d76-46b7-9697-351d7646b7f2</guid>
+      <pubDate>Tue, 12 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/2f569735-1d76-46b7-9697-351d7646b7f2_1_ID192MP3.mp3" type="audio/mpeg" length="75060908"></enclosure>
+      <itunes:title>Simen Bondevik: Ufrivillig barnløs</itunes:title>
+      <itunes:summary>TV-profil og politiker Simen Bondevik forteller om møtet med kona og hvordan de to, gjennom flere år, har kjempet for å få barn.</itunes:summary>
+      <itunes:duration>3127</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zvttRkDpOzr-0zeFn2wdIwIeoCvs32Z5-J3mkDqOer4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Øreflipp og eksponeringsterapi</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_8938529a-8fdd-401b-b852-9a8fddf01b1e</link>
+      <description>Kai Thomas er tilbake, og panelet diskuterer datinglivet, avvisning og ikke minst: Ville du møtt en bjørn eller en mann i skogen?</description>
+      <guid isPermaLink="false">l_8938529a-8fdd-401b-b852-9a8fddf01b1e</guid>
+      <pubDate>Sun, 10 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/8938529a-8fdd-401b-b852-9a8fddf01b1e_1_ID192MP3.mp3" type="audio/mpeg" length="61648748"></enclosure>
+      <itunes:title>Panelet: Øreflipp og eksponeringsterapi</itunes:title>
+      <itunes:summary>Kai Thomas er tilbake, og panelet diskuterer datinglivet, avvisning og ikke minst: Ville du møtt en bjørn eller en mann i skogen?</itunes:summary>
+      <itunes:duration>2568</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Iselin Guttormsen: Sjalusi</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_29cb8f50-460d-4042-8b8f-50460d804202</link>
+      <description>Influenser og sexolog Iselin Guttormsen forteller om hvordan hun har taklet sjalusi i tidligere og nåværende forhold.</description>
+      <guid isPermaLink="false">l_29cb8f50-460d-4042-8b8f-50460d804202</guid>
+      <pubDate>Thu, 07 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/29cb8f50-460d-4042-8b8f-50460d804202_1_ID192MP3.mp3" type="audio/mpeg" length="56903084"></enclosure>
+      <itunes:title>Iselin Guttormsen: Sjalusi</itunes:title>
+      <itunes:summary>Influenser og sexolog Iselin Guttormsen forteller om hvordan hun har taklet sjalusi i tidligere og nåværende forhold.</itunes:summary>
+      <itunes:duration>2370</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ndktswZSxBmptUoY9GWSngbl7cTmkEbE1fuKSTGCKMWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ahmed Mamow: Ut av komfortsonen</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_38ade786-1ad2-4131-ade7-861ad2a13169</link>
+      <description>Komiker Ahmed Mamow forteller om sosial angst, å være en “late bloomer” og å tørre å gå ut av komfortsonen på date.</description>
+      <guid isPermaLink="false">l_38ade786-1ad2-4131-ade7-861ad2a13169</guid>
+      <pubDate>Tue, 05 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/38ade786-1ad2-4131-ade7-861ad2a13169_1_ID192MP3.mp3" type="audio/mpeg" length="67173740"></enclosure>
+      <itunes:title>Ahmed Mamow: Ut av komfortsonen</itunes:title>
+      <itunes:summary>Komiker Ahmed Mamow forteller om sosial angst, å være en “late bloomer” og å tørre å gå ut av komfortsonen på date.</itunes:summary>
+      <itunes:duration>2798</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/B3Z-cw7rKBwFMXKQmP0dbgy-hAys97AdxxtvTEKWWSRg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Organisk sjekking og rødt kort</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_c0ca67a1-5440-4e58-8a67-a15440ce58e1</link>
+      <description>Panelet finner løsningen på hvordan de og lytterne kan sjekke organisk. Selma bytter personlighet og Lars røper sin store &#34;ick&#34;.</description>
+      <guid isPermaLink="false">l_c0ca67a1-5440-4e58-8a67-a15440ce58e1</guid>
+      <pubDate>Sun, 03 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c0ca67a1-5440-4e58-8a67-a15440ce58e1_1_ID192MP3.mp3" type="audio/mpeg" length="53943020"></enclosure>
+      <itunes:title>Panelet: Organisk sjekking og rødt kort</itunes:title>
+      <itunes:summary>Panelet finner løsningen på hvordan de og lytterne kan sjekke organisk. Selma bytter personlighet og Lars røper sin store &#34;ick&#34;.</itunes:summary>
+      <itunes:duration>2247</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Martha Leivestad: Å date med intensjon</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_3b5ea8ea-727e-456c-9ea8-ea727e856ca7</link>
+      <description>Komiker Martha Leivestad forteller om dating, kjærlighetssorg og singelliv. Hvordan skal man date med riktig intensjon?</description>
+      <guid isPermaLink="false">l_3b5ea8ea-727e-456c-9ea8-ea727e856ca7</guid>
+      <pubDate>Thu, 30 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/3b5ea8ea-727e-456c-9ea8-ea727e856ca7_1_ID192MP3.mp3" type="audio/mpeg" length="70435628"></enclosure>
+      <itunes:title>Martha Leivestad: Å date med intensjon</itunes:title>
+      <itunes:summary>Komiker Martha Leivestad forteller om dating, kjærlighetssorg og singelliv. Hvordan skal man date med riktig intensjon?</itunes:summary>
+      <itunes:duration>2934</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/cP1Lu64yWKf1NtvW9Iu8eg96IYuhrA10SDKCGDbyqMYA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Daniel-André Tande: Fra fritt fall til landing</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_a58217f7-7955-4d44-8217-f779553d446d</link>
+      <description>Daniel-André Tande om hvordan sorg, en nær-døden-opplevelse og slutten på hoppkarrieren har påvirket livet og kjærligheten.</description>
+      <guid isPermaLink="false">l_a58217f7-7955-4d44-8217-f779553d446d</guid>
+      <pubDate>Tue, 28 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/a58217f7-7955-4d44-8217-f779553d446d_1_ID192MP3.mp3" type="audio/mpeg" length="73327724"></enclosure>
+      <itunes:title>Daniel-André Tande: Fra fritt fall til landing</itunes:title>
+      <itunes:summary>Daniel-André Tande om hvordan sorg, en nær-døden-opplevelse og slutten på hoppkarrieren har påvirket livet og kjærligheten.</itunes:summary>
+      <itunes:duration>3055</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JWGAZ_LG_b4hUVpBjU2o6waaPdVodEc6EKaDEKt5oltA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: &#34;Shipping&#34; og løgner</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_83b2725b-629b-424f-b272-5b629b424fa1</link>
+      <description>Lars er fyllesyk og Selma har vært alene på bar. Panelet diskuterer: Er det innafor å date venninnens tidligere flørt?</description>
+      <guid isPermaLink="false">l_83b2725b-629b-424f-b272-5b629b424fa1</guid>
+      <pubDate>Sun, 26 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/83b2725b-629b-424f-b272-5b629b424fa1_1_ID192MP3.mp3" type="audio/mpeg" length="50445548"></enclosure>
+      <itunes:title>Panelet: &#34;Shipping&#34; og løgner</itunes:title>
+      <itunes:summary>Lars er fyllesyk og Selma har vært alene på bar. Panelet diskuterer: Er det innafor å date venninnens tidligere flørt?</itunes:summary>
+      <itunes:duration>2101</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Malin Nesvoll: All in</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_ad3b65ae-5de3-47e1-bb65-ae5de3f7e175</link>
+      <description>Malin Nesvoll forteller om å være en &#34;kjærestejente&#34;, å bli singel i 30-årene og reisen til Bali som endte med forhold og graviditet.</description>
+      <guid isPermaLink="false">l_ad3b65ae-5de3-47e1-bb65-ae5de3f7e175</guid>
+      <pubDate>Thu, 23 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/ad3b65ae-5de3-47e1-bb65-ae5de3f7e175_1_ID192MP3.mp3" type="audio/mpeg" length="73971116"></enclosure>
+      <itunes:title>Malin Nesvoll: All in</itunes:title>
+      <itunes:summary>Malin Nesvoll forteller om å være en &#34;kjærestejente&#34;, å bli singel i 30-årene og reisen til Bali som endte med forhold og graviditet.</itunes:summary>
+      <itunes:duration>3082</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MSkcJ5mj4KhuWLs42KYyEgAmxhpwSXUG58tTjKr6nGGw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tuva Fellman: I gode og onde dager</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_0a16301b-e786-4984-9630-1be786c984d9</link>
+      <description>Tuva Fellman forteller om møtet med ektemannen Ronny og hvordan de har stått sammen gjennom alvorlig sykdom.</description>
+      <guid isPermaLink="false">l_0a16301b-e786-4984-9630-1be786c984d9</guid>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/0a16301b-e786-4984-9630-1be786c984d9_1_ID192MP3.mp3" type="audio/mpeg" length="69198956"></enclosure>
+      <itunes:title>Tuva Fellman: I gode og onde dager</itunes:title>
+      <itunes:summary>Tuva Fellman forteller om møtet med ektemannen Ronny og hvordan de har stått sammen gjennom alvorlig sykdom.</itunes:summary>
+      <itunes:duration>2883</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hoQw2CNr0STHbjGiIfOnEw8Xve8208QD4CE-vbHAyNNw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Datingquiz og &#34;Snurrebassturné&#34;</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_85abd851-1704-4351-abd8-511704735186</link>
+      <description>Panelet snakker om hvordan bli forelsket, &#34;kjærlighetsfengsel&#34; og Kai Thomas vurderer &#34;Snurrebassturné&#34;.</description>
+      <guid isPermaLink="false">l_85abd851-1704-4351-abd8-511704735186</guid>
+      <pubDate>Sun, 19 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/85abd851-1704-4351-abd8-511704735186_1_ID192MP3.mp3" type="audio/mpeg" length="52975340"></enclosure>
+      <itunes:title>Panelet: Datingquiz og &#34;Snurrebassturné&#34;</itunes:title>
+      <itunes:summary>Panelet snakker om hvordan bli forelsket, &#34;kjærlighetsfengsel&#34; og Kai Thomas vurderer &#34;Snurrebassturné&#34;.</itunes:summary>
+      <itunes:duration>2207</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sunniva Tillson: ADHD i parforhold</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_ae615887-45ff-44d7-a158-8745ff44d789</link>
+      <description>Sunniva Tillson, &#34;St. Sunniva&#34;, forteller om ADHD, hva det har hatt å si for kjærlighetslivet og hvordan hun fant den rette.</description>
+      <guid isPermaLink="false">l_ae615887-45ff-44d7-a158-8745ff44d789</guid>
+      <pubDate>Thu, 16 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/ae615887-45ff-44d7-a158-8745ff44d789_1_ID192MP3.mp3" type="audio/mpeg" length="64037996"></enclosure>
+      <itunes:title>Sunniva Tillson: ADHD i parforhold</itunes:title>
+      <itunes:summary>Sunniva Tillson, &#34;St. Sunniva&#34;, forteller om ADHD, hva det har hatt å si for kjærlighetslivet og hvordan hun fant den rette.</itunes:summary>
+      <itunes:duration>2668</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VVP5lfDQLPQ_DvpX1gDSxgkrqaIphEj1XUANbYtKN6Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Henrik Fladseth: Om følelser</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_c6a09053-ffd9-473b-a090-53ffd9373b2e</link>
+      <description>Henrik Fladseth snakker om sitt forhold til følelser, møtet med Oda og hvordan han taklet å bli far for første gang.</description>
+      <guid isPermaLink="false">l_c6a09053-ffd9-473b-a090-53ffd9373b2e</guid>
+      <pubDate>Tue, 14 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c6a09053-ffd9-473b-a090-53ffd9373b2e_1_ID192MP3.mp3" type="audio/mpeg" length="79530668"></enclosure>
+      <itunes:title>Henrik Fladseth: Om følelser</itunes:title>
+      <itunes:summary>Henrik Fladseth snakker om sitt forhold til følelser, møtet med Oda og hvordan han taklet å bli far for første gang.</itunes:summary>
+      <itunes:duration>3313</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0oxWnu0ZYumxjVDyYvTQWQNV9TSKqPpRQ_IrJ549crEQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Wingman og fylleangst</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_2b993be3-3bbf-453a-993b-e33bbf553abf</link>
+      <description>Panelet har vært på byen; Selma har fylleangst og Kai Thomas er skuffet. Og hva gjør man med dårlig sex med ny partner?</description>
+      <guid isPermaLink="false">l_2b993be3-3bbf-453a-993b-e33bbf553abf</guid>
+      <pubDate>Sun, 12 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/2b993be3-3bbf-453a-993b-e33bbf553abf_1_ID192MP3.mp3" type="audio/mpeg" length="53030636"></enclosure>
+      <itunes:title>Panelet: Wingman og fylleangst</itunes:title>
+      <itunes:summary>Panelet har vært på byen; Selma har fylleangst og Kai Thomas er skuffet. Og hva gjør man med dårlig sex med ny partner?</itunes:summary>
+      <itunes:duration>2209</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kristin Gjelsvik: Samlivsbrudd med barn</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_211d8207-f523-47d0-9d82-07f523c7d05f</link>
+      <description>Kristin Gjelsvik om uplanlagt graviditet, å gå gjennom et brudd med barn involvert og den nye hverdagen som forlovet.</description>
+      <guid isPermaLink="false">l_211d8207-f523-47d0-9d82-07f523c7d05f</guid>
+      <pubDate>Thu, 09 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/211d8207-f523-47d0-9d82-07f523c7d05f_1_ID192MP3.mp3" type="audio/mpeg" length="49423148"></enclosure>
+      <itunes:title>Kristin Gjelsvik: Samlivsbrudd med barn</itunes:title>
+      <itunes:summary>Kristin Gjelsvik om uplanlagt graviditet, å gå gjennom et brudd med barn involvert og den nye hverdagen som forlovet.</itunes:summary>
+      <itunes:duration>2059</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9o7F783xDveQb4aqHki55weQCf1LNGKwakygoG0PlNUQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Christine Koht: Kjærligheten i livskriser</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_020652ed-c4cb-420d-8652-edc4cba20d23</link>
+      <description>Christine Koht forteller om kjærligheten gjennom krisene: utroskap, rus, mani og alvorlig sykdom.</description>
+      <guid isPermaLink="false">l_020652ed-c4cb-420d-8652-edc4cba20d23</guid>
+      <pubDate>Tue, 07 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/020652ed-c4cb-420d-8652-edc4cba20d23_1_ID192MP3.mp3" type="audio/mpeg" length="64828268"></enclosure>
+      <itunes:title>Christine Koht: Kjærligheten i livskriser</itunes:title>
+      <itunes:summary>Christine Koht forteller om kjærligheten gjennom krisene: utroskap, rus, mani og alvorlig sykdom.</itunes:summary>
+      <itunes:duration>2701</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wBr-TccXyjGOj_5z3zNrEgx24nfHdAJ0wLut2Njmnt6w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Mobilsnoking og ligging</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_0a784f2a-fb21-404b-b84f-2afb21404b57</link>
+      <description>Panelet diskuterer: Er det innafor å snoke på partnerens mobil, og hvorfor vil ikke menn ligge flere ganger?</description>
+      <guid isPermaLink="false">l_0a784f2a-fb21-404b-b84f-2afb21404b57</guid>
+      <pubDate>Sun, 05 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/0a784f2a-fb21-404b-b84f-2afb21404b57_1_ID192MP3.mp3" type="audio/mpeg" length="57520556"></enclosure>
+      <itunes:title>Panelet: Mobilsnoking og ligging</itunes:title>
+      <itunes:summary>Panelet diskuterer: Er det innafor å snoke på partnerens mobil, og hvorfor vil ikke menn ligge flere ganger?</itunes:summary>
+      <itunes:duration>2396</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ina Svenningdal: Første kjærlighet</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_c0cf4637-17ec-4c05-8f46-3717ecbc0539</link>
+      <description>Ina Svenningdal forteller om tiden etter SKAM, usikkerhet rundt kjærlighetsrelasjoner og møtet med kjæresten.</description>
+      <guid isPermaLink="false">l_c0cf4637-17ec-4c05-8f46-3717ecbc0539</guid>
+      <pubDate>Thu, 02 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/c0cf4637-17ec-4c05-8f46-3717ecbc0539_1_ID192MP3.mp3" type="audio/mpeg" length="61088300"></enclosure>
+      <itunes:title>Ina Svenningdal: Første kjærlighet</itunes:title>
+      <itunes:summary>Ina Svenningdal forteller om tiden etter SKAM, usikkerhet rundt kjærlighetsrelasjoner og møtet med kjæresten.</itunes:summary>
+      <itunes:duration>2545</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_cEsxENXPsqsmbwzHBH2aQTFF7bLkhNsnjX2oPINztEQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Victoria Skau: Styrt av dårlig selvbilde</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_45b03cb4-dd71-4667-b03c-b4dd71166793</link>
+      <description>Victoria Skau om jakten på bekreftelse, dårlig selvbilde og hvordan et kjærlighetssølibat hjalp henne å finne egenverdi.</description>
+      <guid isPermaLink="false">l_45b03cb4-dd71-4667-b03c-b4dd71166793</guid>
+      <pubDate>Tue, 31 Mar 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/45b03cb4-dd71-4667-b03c-b4dd71166793_1_ID192MP3.mp3" type="audio/mpeg" length="80357228"></enclosure>
+      <itunes:title>Victoria Skau: Styrt av dårlig selvbilde</itunes:title>
+      <itunes:summary>Victoria Skau om jakten på bekreftelse, dårlig selvbilde og hvordan et kjærlighetssølibat hjalp henne å finne egenverdi.</itunes:summary>
+      <itunes:duration>3348</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/E5hzT09B9B961FxOwgEVXwnU14AdR8DZDKc4ld0Ak26g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Sexklubb og ensomhet</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_2992fe73-493e-4d71-92fe-73493ead717b</link>
+      <description>Kai Thomas har besøkt sexklubb, og Panelet diskuterer vennskap mellom kjønnene og ensomheten man kan føle på som singel i høytiden.</description>
+      <guid isPermaLink="false">l_2992fe73-493e-4d71-92fe-73493ead717b</guid>
+      <pubDate>Sun, 29 Mar 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/2992fe73-493e-4d71-92fe-73493ead717b_1_ID192MP3.mp3" type="audio/mpeg" length="49709996"></enclosure>
+      <itunes:title>Panelet: Sexklubb og ensomhet</itunes:title>
+      <itunes:summary>Kai Thomas har besøkt sexklubb, og Panelet diskuterer vennskap mellom kjønnene og ensomheten man kan føle på som singel i høytiden.</itunes:summary>
+      <itunes:duration>2071</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Silje &#34;Bendik&#34; Halstensen: Å bearbeide fortiden</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_414eaf7d-c323-4c00-8eaf-7dc3238c0087</link>
+      <description>Silje Halstensen, kjent som artisten “Bendik”, forteller om en vanskelig hendelse som har påvirket livet hennes.</description>
+      <guid isPermaLink="false">l_414eaf7d-c323-4c00-8eaf-7dc3238c0087</guid>
+      <pubDate>Thu, 26 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/414eaf7d-c323-4c00-8eaf-7dc3238c0087_1_ID192MP3.mp3" type="audio/mpeg" length="51502508"></enclosure>
+      <itunes:title>Silje &#34;Bendik&#34; Halstensen: Å bearbeide fortiden</itunes:title>
+      <itunes:summary>Silje Halstensen, kjent som artisten “Bendik”, forteller om en vanskelig hendelse som har påvirket livet hennes.</itunes:summary>
+      <itunes:duration>2145</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rlWXiboa-Yglo6TX2hdleAw0nGk8QPa_GrTPmerTLIXw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fetisha Williams: Sammen med eksen</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_8df8f353-f61e-4aa1-b8f3-53f61e2aa11e</link>
+      <description>Fetisha Williams forteller om singelliv, dating og hvordan hun fant tilbake til eksen fra videregående.</description>
+      <guid isPermaLink="false">l_8df8f353-f61e-4aa1-b8f3-53f61e2aa11e</guid>
+      <pubDate>Tue, 24 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/8df8f353-f61e-4aa1-b8f3-53f61e2aa11e_1_ID192MP3.mp3" type="audio/mpeg" length="64397420"></enclosure>
+      <itunes:title>Fetisha Williams: Sammen med eksen</itunes:title>
+      <itunes:summary>Fetisha Williams forteller om singelliv, dating og hvordan hun fant tilbake til eksen fra videregående.</itunes:summary>
+      <itunes:duration>2683</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wBDiq3kcJKs505Fz1MrbbAHt5P0XasQo-Brg5CkCYL1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Guttekultur og daddy issues</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_5d4e6bd9-6f45-4223-8e6b-d96f452223e6</link>
+      <description>Panelet diskuterer maskulinitet, daddy issues, hekt og hva som skal til for å ha et godt, langvarig forhold.</description>
+      <guid isPermaLink="false">l_5d4e6bd9-6f45-4223-8e6b-d96f452223e6</guid>
+      <pubDate>Sun, 22 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/5d4e6bd9-6f45-4223-8e6b-d96f452223e6_1_ID192MP3.mp3" type="audio/mpeg" length="51990956"></enclosure>
+      <itunes:title>Panelet: Guttekultur og daddy issues</itunes:title>
+      <itunes:summary>Panelet diskuterer maskulinitet, daddy issues, hekt og hva som skal til for å ha et godt, langvarig forhold.</itunes:summary>
+      <itunes:duration>2166</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bahare Viken: Hekta</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_87f6226f-fdfc-461a-b622-6ffdfca61a29</link>
+      <description>Bahare Viken snakker om hva som skjedde da hun ble hekta på noen, og hvordan hun kom seg ut av det.</description>
+      <guid isPermaLink="false">l_87f6226f-fdfc-461a-b622-6ffdfca61a29</guid>
+      <pubDate>Thu, 19 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/87f6226f-fdfc-461a-b622-6ffdfca61a29_1_ID192MP3.mp3" type="audio/mpeg" length="76526828"></enclosure>
+      <itunes:title>Bahare Viken: Hekta</itunes:title>
+      <itunes:summary>Bahare Viken snakker om hva som skjedde da hun ble hekta på noen, og hvordan hun kom seg ut av det.</itunes:summary>
+      <itunes:duration>3188</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/czOR6IvGDtDVC9Xo0uxTPQ_Q9cAnMaRVOPhOTkMuEpTw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Terje Sporsem: Oppskriften på et godt ekteskap</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_dfdc5183-b96a-4762-9c51-83b96ab7625d</link>
+      <description>Terje Sporsem forteller åpent om forholdet til kona som har vart i over 20 år. Hva er hemmeligheten?</description>
+      <guid isPermaLink="false">l_dfdc5183-b96a-4762-9c51-83b96ab7625d</guid>
+      <pubDate>Tue, 17 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/dfdc5183-b96a-4762-9c51-83b96ab7625d_1_ID192MP3.mp3" type="audio/mpeg" length="60776108"></enclosure>
+      <itunes:title>Terje Sporsem: Oppskriften på et godt ekteskap</itunes:title>
+      <itunes:summary>Terje Sporsem forteller åpent om forholdet til kona som har vart i over 20 år. Hva er hemmeligheten?</itunes:summary>
+      <itunes:duration>2532</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R3kj-LURxcAfMJlfs9xMeAt4XReIQs6XJlvoUwEGmHzA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Høydekrav og pornostjerne</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_b6cd3d08-19ab-4941-8d3d-0819ab1941d7</link>
+      <description>Hvor viktig er menns høyde? Kunne du datet en pornostjerne? Panelet deler raust og diskuterer innsendte “problemmaer”.</description>
+      <guid isPermaLink="false">l_b6cd3d08-19ab-4941-8d3d-0819ab1941d7</guid>
+      <pubDate>Sun, 15 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/b6cd3d08-19ab-4941-8d3d-0819ab1941d7_1_ID192MP3.mp3" type="audio/mpeg" length="65576492"></enclosure>
+      <itunes:title>Panelet: Høydekrav og pornostjerne</itunes:title>
+      <itunes:summary>Hvor viktig er menns høyde? Kunne du datet en pornostjerne? Panelet deler raust og diskuterer innsendte “problemmaer”.</itunes:summary>
+      <itunes:duration>2732</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Helene &#34;Moo&#34; Myhre: Å våge å gå</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_62a0fef8-94ae-432a-a0fe-f894ae432a4f</link>
+      <description>Turinfluencer Helene Moo om å gå fra et langvarig forhold, tørre å stå på egne bein og finne den store kjærligheten.</description>
+      <guid isPermaLink="false">l_62a0fef8-94ae-432a-a0fe-f894ae432a4f</guid>
+      <pubDate>Thu, 12 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/62a0fef8-94ae-432a-a0fe-f894ae432a4f_1_ID192MP3.mp3" type="audio/mpeg" length="53832428"></enclosure>
+      <itunes:title>Helene &#34;Moo&#34; Myhre: Å våge å gå</itunes:title>
+      <itunes:summary>Turinfluencer Helene Moo om å gå fra et langvarig forhold, tørre å stå på egne bein og finne den store kjærligheten.</itunes:summary>
+      <itunes:duration>2242</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5WQQa_p44y5j5GONzC1k_w1V4mNJbwIHvTraSCBK9zGg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vita Mashadi: Kjærlighetssorg</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_e5c5bfc9-180c-4f33-85bf-c9180cdf331b</link>
+      <description>Vita Mashadi forteller om et tungt brudd og om å klare å komme seg ut av en bunnløs kjærlighetssorg.</description>
+      <guid isPermaLink="false">l_e5c5bfc9-180c-4f33-85bf-c9180cdf331b</guid>
+      <pubDate>Tue, 10 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/e5c5bfc9-180c-4f33-85bf-c9180cdf331b_1_ID192MP3.mp3" type="audio/mpeg" length="70755308"></enclosure>
+      <itunes:title>Vita Mashadi: Kjærlighetssorg</itunes:title>
+      <itunes:summary>Vita Mashadi forteller om et tungt brudd og om å klare å komme seg ut av en bunnløs kjærlighetssorg.</itunes:summary>
+      <itunes:duration>2948</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gjtO3ZgsB64w8TtvOlp9Bw-3ug9BjZfRikBIKHhA5uZA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Særbo og flørting på Vipps</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_b778f3ff-73ef-4233-b8f3-ff73ef9233f5</link>
+      <description>Selma sletter alle datingapper, og Lars foreslår en ny sjekkemetode. Panelet diskuterer lytternes dilemmaer.</description>
+      <guid isPermaLink="false">l_b778f3ff-73ef-4233-b8f3-ff73ef9233f5</guid>
+      <pubDate>Sun, 08 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/b778f3ff-73ef-4233-b8f3-ff73ef9233f5_2_ID192MP3.mp3" type="audio/mpeg" length="57959468"></enclosure>
+      <itunes:title>Panelet: Særbo og flørting på Vipps</itunes:title>
+      <itunes:summary>Selma sletter alle datingapper, og Lars foreslår en ny sjekkemetode. Panelet diskuterer lytternes dilemmaer.</itunes:summary>
+      <itunes:duration>2414</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Martine Halvorsen: Å date i skjul</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_bf7c22b2-6f56-4d70-bc22-b26f56dd7027</link>
+      <description>Martine Halvorsen forteller om et hemmelig brudd, og om å forelske seg på nytt midt i kjærlighetssorgen.</description>
+      <guid isPermaLink="false">l_bf7c22b2-6f56-4d70-bc22-b26f56dd7027</guid>
+      <pubDate>Thu, 05 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/bf7c22b2-6f56-4d70-bc22-b26f56dd7027_1_ID192MP3.mp3" type="audio/mpeg" length="66838508"></enclosure>
+      <itunes:title>Martine Halvorsen: Å date i skjul</itunes:title>
+      <itunes:summary>Martine Halvorsen forteller om et hemmelig brudd, og om å forelske seg på nytt midt i kjærlighetssorgen.</itunes:summary>
+      <itunes:duration>2784</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CNzZEehLxh7RkeKr7f6YqAesCNWBFHDbCZXvBHVwlmgQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kevin Kildal: Lever i åpent forhold</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_4830c515-a012-436a-b0c5-15a012d36a9e</link>
+      <description>Komiker Kevin Kildal forteller om hvordan det er å leve i et åpent forhold med sitt livs kjærlighet og sitt syn på monogami.</description>
+      <guid isPermaLink="false">l_4830c515-a012-436a-b0c5-15a012d36a9e</guid>
+      <pubDate>Tue, 03 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/4830c515-a012-436a-b0c5-15a012d36a9e_1_ID192MP3.mp3" type="audio/mpeg" length="59712236"></enclosure>
+      <itunes:title>Kevin Kildal: Lever i åpent forhold</itunes:title>
+      <itunes:summary>Komiker Kevin Kildal forteller om hvordan det er å leve i et åpent forhold med sitt livs kjærlighet og sitt syn på monogami.</itunes:summary>
+      <itunes:duration>2487</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LQHMKQJfHWPMhojy1Q7DnAhLpalFmPbrJ7VzLp3QY_qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Blinddate og intim tannlegetime</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_9bb6be86-c150-4056-b6be-86c150405679</link>
+      <description>Selma forteller om en ekstra intim tannlegetime, og panelet diskuterer hva man gjør med en innpåsliten eks.</description>
+      <guid isPermaLink="false">l_9bb6be86-c150-4056-b6be-86c150405679</guid>
+      <pubDate>Sun, 01 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/9bb6be86-c150-4056-b6be-86c150405679_1_ID192MP3.mp3" type="audio/mpeg" length="50334956"></enclosure>
+      <itunes:title>Panelet: Blinddate og intim tannlegetime</itunes:title>
+      <itunes:summary>Selma forteller om en ekstra intim tannlegetime, og panelet diskuterer hva man gjør med en innpåsliten eks.</itunes:summary>
+      <itunes:duration>2097</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Isabelle Eriksen: Elsker livet som singel</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_8826d394-e93c-444b-a6d3-94e93ca44b48</link>
+      <description>Isabelle Eriksen forteller om singellivet, mannen hun dater, «Mr. Grey», og redselen for at noen skal ødelegge tilværelsen hun elsker.</description>
+      <guid isPermaLink="false">l_8826d394-e93c-444b-a6d3-94e93ca44b48</guid>
+      <pubDate>Thu, 26 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/8826d394-e93c-444b-a6d3-94e93ca44b48_1_ID192MP3.mp3" type="audio/mpeg" length="69391340"></enclosure>
+      <itunes:title>Isabelle Eriksen: Elsker livet som singel</itunes:title>
+      <itunes:summary>Isabelle Eriksen forteller om singellivet, mannen hun dater, «Mr. Grey», og redselen for at noen skal ødelegge tilværelsen hun elsker.</itunes:summary>
+      <itunes:duration>2891</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wSGYr-c_JKClehliRT9gegDvCbofegb5AusLFgwRvZpw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kasper Kvello: Å finne den rette som 20-åring</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_a8b3dfb5-13d3-4a6c-b3df-b513d34a6c18</link>
+      <description>Kasper Kvello forteller om frieri, et tårevått bryllup og hvordan hans egne utfordringer påvirket parforholdet.</description>
+      <guid isPermaLink="false">l_a8b3dfb5-13d3-4a6c-b3df-b513d34a6c18</guid>
+      <pubDate>Tue, 24 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/a8b3dfb5-13d3-4a6c-b3df-b513d34a6c18_1_ID192MP3.mp3" type="audio/mpeg" length="61005356"></enclosure>
+      <itunes:title>Kasper Kvello: Å finne den rette som 20-åring</itunes:title>
+      <itunes:summary>Kasper Kvello forteller om frieri, et tårevått bryllup og hvordan hans egne utfordringer påvirket parforholdet.</itunes:summary>
+      <itunes:duration>2541</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PmSAQcs6bwlRCcUCubrGuwMJVODWVStFf_Nb3PyHCW2A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Utroskap og menn på date</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_fee1db8c-a6b2-4bf3-a1db-8ca6b24bf3fc</link>
+      <description>Panelet diskuterer innsendte problemer og forskning om utroskap. Lars setter Selma opp på en blind date.</description>
+      <guid isPermaLink="false">l_fee1db8c-a6b2-4bf3-a1db-8ca6b24bf3fc</guid>
+      <pubDate>Sun, 22 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/fee1db8c-a6b2-4bf3-a1db-8ca6b24bf3fc_1_ID192MP3.mp3" type="audio/mpeg" length="46820780"></enclosure>
+      <itunes:title>Panelet: Utroskap og menn på date</itunes:title>
+      <itunes:summary>Panelet diskuterer innsendte problemer og forskning om utroskap. Lars setter Selma opp på en blind date.</itunes:summary>
+      <itunes:duration>1950</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sval Rosenløw Eeg: Å bære på en hemmelighet</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_629b5366-df09-4fc0-9b53-66df09dfc051</link>
+      <description>Sval Rosenløw Eeg forteller om hemmeligheten hun bar på i flere år og frykten for å bli avslørt.</description>
+      <guid isPermaLink="false">l_629b5366-df09-4fc0-9b53-66df09dfc051</guid>
+      <pubDate>Thu, 19 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/629b5366-df09-4fc0-9b53-66df09dfc051_1_ID192MP3.mp3" type="audio/mpeg" length="50515820"></enclosure>
+      <itunes:title>Sval Rosenløw Eeg: Å bære på en hemmelighet</itunes:title>
+      <itunes:summary>Sval Rosenløw Eeg forteller om hemmeligheten hun bar på i flere år og frykten for å bli avslørt.</itunes:summary>
+      <itunes:duration>2104</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2M_WnPS7DUld8QbyAMGKzgrmVzk5XIOS0lu-L3BXEJOg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Leo Ajkic: Forhold, dating og facebook-poking</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_282a66f6-7fda-4537-aa66-f67fda75371b</link>
+      <description>Leo Ajkic letter på sløret, gir Selma sine beste datingtips og deler av egne kjærlighetserfaringer.</description>
+      <guid isPermaLink="false">l_282a66f6-7fda-4537-aa66-f67fda75371b</guid>
+      <pubDate>Tue, 17 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/282a66f6-7fda-4537-aa66-f67fda75371b_1_ID192MP3.mp3" type="audio/mpeg" length="57255596"></enclosure>
+      <itunes:title>Leo Ajkic: Forhold, dating og facebook-poking</itunes:title>
+      <itunes:summary>Leo Ajkic letter på sløret, gir Selma sine beste datingtips og deler av egne kjærlighetserfaringer.</itunes:summary>
+      <itunes:duration>2385</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pIJpUnWWppDFHSIIYvm6Dg_31lrwyPUIUgSpjhouQcHA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sigrid Bonde Tusvik: Å tørre å elske igjen</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_02d844c2-6755-43c1-9844-c2675523c1d6</link>
+      <description>Med «tindertriks» og gode venner fant Sigrid Bonde Tusvik kjærligheten på ny, selv om hun ikke følte seg helt klar for det ennå.</description>
+      <guid isPermaLink="false">l_02d844c2-6755-43c1-9844-c2675523c1d6</guid>
+      <pubDate>Fri, 13 Feb 2026 05:58:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/02d844c2-6755-43c1-9844-c2675523c1d6_1_ID192MP3.mp3" type="audio/mpeg" length="58955948"></enclosure>
+      <itunes:title>Sigrid Bonde Tusvik: Å tørre å elske igjen</itunes:title>
+      <itunes:summary>Med «tindertriks» og gode venner fant Sigrid Bonde Tusvik kjærligheten på ny, selv om hun ikke følte seg helt klar for det ennå.</itunes:summary>
+      <itunes:duration>2456</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JIg181kBGsso81OqscUrsQ8wnJeM1GuVFfnouvzb4whw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Rasmus Wold: Fra desperat singel til full pakke</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_f45373b1-edb6-4046-9373-b1edb6c0468d</link>
+      <description>Da han ble singel i 30-årene, fryktet Rasmus Wold det verste. Takket være en svindler er han i dag både lykkelig pappa og forlovet.</description>
+      <guid isPermaLink="false">l_f45373b1-edb6-4046-9373-b1edb6c0468d</guid>
+      <pubDate>Fri, 13 Feb 2026 05:57:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/f45373b1-edb6-4046-9373-b1edb6c0468d_1_ID192MP3.mp3" type="audio/mpeg" length="62136620"></enclosure>
+      <itunes:title>Rasmus Wold: Fra desperat singel til full pakke</itunes:title>
+      <itunes:summary>Da han ble singel i 30-årene, fryktet Rasmus Wold det verste. Takket være en svindler er han i dag både lykkelig pappa og forlovet.</itunes:summary>
+      <itunes:duration>2588</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Wdide9TKjEtpOxh0hFNwngAjlIh48lso7CSPNY0cTKXg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Panelet: Sex på første date og ghosting</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_20f97fb1-a5f9-46ad-b97f-b1a5f966ad0c</link>
+      <description>Bli kjent med søndagspanelet vårt: Selma, psykolog Lars Dehli og Kai Thomas «Skrellex» Larsen. Send inn spørsmål.</description>
+      <guid isPermaLink="false">l_20f97fb1-a5f9-46ad-b97f-b1a5f966ad0c</guid>
+      <pubDate>Fri, 13 Feb 2026 05:56:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/20f97fb1-a5f9-46ad-b97f-b1a5f966ad0c_1_ID192MP3.mp3" type="audio/mpeg" length="43877420"></enclosure>
+      <itunes:title>Panelet: Sex på første date og ghosting</itunes:title>
+      <itunes:summary>Bli kjent med søndagspanelet vårt: Selma, psykolog Lars Dehli og Kai Thomas «Skrellex» Larsen. Send inn spørsmål.</itunes:summary>
+      <itunes:duration>1828</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVFVtjnPvoYlelOBrpiSGQBDWEiSAfLwGg9G7BsGWuSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

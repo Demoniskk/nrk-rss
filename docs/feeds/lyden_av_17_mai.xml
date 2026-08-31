@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lyden av 17. mai</title>
+    <link>https://radio.nrk.no/podkast/lyden_av_17_mai</link>
+    <description>NRK gir deg lyden du trenger for å komme i 17. mai-stemning. Velg mellom kjente situasjoner slik at du får det lydsporet som passer til din feiring. Lydopptakene er hentet fra NRKs rikholdige arkiv.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 08 May 2020 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lyden_av_17_mai.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>NRK gir deg lyden du trenger for å komme i 17. mai-stemning. Velg mellom kjente situasjoner slik at du får det lydsporet som passer til din feiring. Lydopptakene er hentet fra NRKs rikholdige arkiv.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/aFPwiQkteVOKhP0m_NNSnAypBXI6-fmNjDL5aHSTNMzg"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/aFPwiQkteVOKhP0m_NNSnAypBXI6-fmNjDL5aHSTNMzg</url>
+      <title>Lyden av 17. mai</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_17_mai</link>
+    </image>
+    <item>
+      <title>Pølsesalg og lek i skolegården</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_17_mai/l_81c2a6da-9846-49ed-82a6-da984619ed7c</link>
+      <description>Lyden av pølsesalg, lek og aktiviteter i skolegården 17. mai.</description>
+      <guid isPermaLink="false">l_81c2a6da-9846-49ed-82a6-da984619ed7c</guid>
+      <pubDate>Fri, 08 May 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_17_mai/1017d0e5-dbfd-4c6b-b37b-3316ef343b2a_0_ID192MP3.mp3" type="audio/mpeg" length="53897854"></enclosure>
+      <itunes:title>Pølsesalg og lek i skolegården</itunes:title>
+      <itunes:summary>Lyden av pølsesalg, lek og aktiviteter i skolegården 17. mai.</itunes:summary>
+      <itunes:duration>2245</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFPwiQkteVOKhP0m_NNSnAypBXI6-fmNjDL5aHSTNMzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Barnetog</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_17_mai/l_976d1f53-eba9-4ead-ad1f-53eba9eeadee</link>
+      <description>Lyden av jublende barnetog og korps på 17. mai.</description>
+      <guid isPermaLink="false">l_976d1f53-eba9-4ead-ad1f-53eba9eeadee</guid>
+      <pubDate>Thu, 07 May 2020 06:07:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_17_mai/41193220-3234-4557-a98c-a66a31d91ba5_0_ID192MP3.mp3" type="audio/mpeg" length="86133104"></enclosure>
+      <itunes:title>Barnetog</itunes:title>
+      <itunes:summary>Lyden av jublende barnetog og korps på 17. mai.</itunes:summary>
+      <itunes:duration>3588</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFPwiQkteVOKhP0m_NNSnAypBXI6-fmNjDL5aHSTNMzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>H. M. Kongens Garde</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_17_mai/l_ec5834e1-9df9-4b0a-9834-e19df9cb0abb</link>
+      <description>H. M. Kongens Garde på Karl Johan med marsj, drilloppvisning og vals. Avslutning foran Slottet med &#34;Gud signe vårt dyre fedreland&#34; og fanfare.</description>
+      <guid isPermaLink="false">l_ec5834e1-9df9-4b0a-9834-e19df9cb0abb</guid>
+      <pubDate>Thu, 07 May 2020 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_17_mai/76876d26-7c7c-4d97-b056-903aae3defd0_0_ID192MP3.mp3" type="audio/mpeg" length="32799547"></enclosure>
+      <itunes:title>H. M. Kongens Garde</itunes:title>
+      <itunes:summary>H. M. Kongens Garde på Karl Johan med marsj, drilloppvisning og vals. Avslutning foran Slottet med &#34;Gud signe vårt dyre fedreland&#34; og fanfare.</itunes:summary>
+      <itunes:duration>1366</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFPwiQkteVOKhP0m_NNSnAypBXI6-fmNjDL5aHSTNMzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kongefamilien hilses på Slottsplassen</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_17_mai/l_393734b9-2a66-40ac-b734-b92a66e0ac64</link>
+      <description>Kongefamilien kommer ut på Slottsbalkongen. Forsvarets Stabsmusikk spiller. Leder av Oslos 17. mai-komité, Erik Lunde, hilser kongefamilien. &#34;Kongesangen&#34; og &#34;Ja, vi elsker&#34;. Barnetoget starter.</description>
+      <guid isPermaLink="false">l_393734b9-2a66-40ac-b734-b92a66e0ac64</guid>
+      <pubDate>Thu, 07 May 2020 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_17_mai/6f78615e-79c4-404a-b088-6fe56776539e_0_ID192MP3.mp3" type="audio/mpeg" length="34665212"></enclosure>
+      <itunes:title>Kongefamilien hilses på Slottsplassen</itunes:title>
+      <itunes:summary>Kongefamilien kommer ut på Slottsbalkongen. Forsvarets Stabsmusikk spiller. Leder av Oslos 17. mai-komité, Erik Lunde, hilser kongefamilien. &#34;Kongesangen&#34; og &#34;Ja, vi elsker&#34;. Barnetoget starter.</itunes:summary>
+      <itunes:duration>1444</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFPwiQkteVOKhP0m_NNSnAypBXI6-fmNjDL5aHSTNMzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Buekorps 🥁</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_17_mai/l_72afbe5d-ed12-46ea-afbe-5ded12d6ea4b</link>
+      <description>Lyden av trommende buekorps i gatene i Bergen. 17. mai-tog med buekorps. 🥁🎺</description>
+      <guid isPermaLink="false">l_72afbe5d-ed12-46ea-afbe-5ded12d6ea4b</guid>
+      <pubDate>Thu, 07 May 2020 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_17_mai/1d47f94b-9bba-49f9-881e-8d3662ad1894_0_ID192MP3.mp3" type="audio/mpeg" length="33783344"></enclosure>
+      <itunes:title>Buekorps 🥁</itunes:title>
+      <itunes:summary>Lyden av trommende buekorps i gatene i Bergen. 17. mai-tog med buekorps. 🥁🎺</itunes:summary>
+      <itunes:duration>1407</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFPwiQkteVOKhP0m_NNSnAypBXI6-fmNjDL5aHSTNMzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Festkontentum</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_17_mai/l_ac1a9dc7-2810-42c5-9a9d-c7281052c555</link>
+      <description>Lyden av mange mennesker som prater, ler, drikker og spiser.</description>
+      <guid isPermaLink="false">l_ac1a9dc7-2810-42c5-9a9d-c7281052c555</guid>
+      <pubDate>Thu, 07 May 2020 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_17_mai/f13d55f3-e528-485e-8b7d-d25c99136c57_0_ID192MP3.mp3" type="audio/mpeg" length="45097141"></enclosure>
+      <itunes:title>Festkontentum</itunes:title>
+      <itunes:summary>Lyden av mange mennesker som prater, ler, drikker og spiser.</itunes:summary>
+      <itunes:duration>1878</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFPwiQkteVOKhP0m_NNSnAypBXI6-fmNjDL5aHSTNMzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Russetog</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_17_mai/l_ff5e2e96-47ac-4924-9e2e-9647aca9242a</link>
+      <description>Lyden av russetog på Karl Johan. Russerop, tuting, musikk. Litt slitne på slutten.</description>
+      <guid isPermaLink="false">l_ff5e2e96-47ac-4924-9e2e-9647aca9242a</guid>
+      <pubDate>Thu, 07 May 2020 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_17_mai/5319abb8-903b-4a61-95e9-5a2a15039bf8_0_ID192MP3.mp3" type="audio/mpeg" length="46060208"></enclosure>
+      <itunes:title>Russetog</itunes:title>
+      <itunes:summary>Lyden av russetog på Karl Johan. Russerop, tuting, musikk. Litt slitne på slutten.</itunes:summary>
+      <itunes:duration>1919</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFPwiQkteVOKhP0m_NNSnAypBXI6-fmNjDL5aHSTNMzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fuglesang</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_17_mai/l_fd863e35-a968-4b92-863e-35a9680b9245</link>
+      <description>Lyden av måltrost, rødstrupe, gjerdesmett, løvsanger, ringdue og bokfink. Opptak av Halfdan Bleken. Sted: Maridalen, Oslo. Tidspunkt: 1. mai 2020 (under korona-stillheten).</description>
+      <guid isPermaLink="false">l_fd863e35-a968-4b92-863e-35a9680b9245</guid>
+      <pubDate>Thu, 07 May 2020 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_17_mai/27704cfe-b4fc-4820-9cc4-1421e0992aeb_0_ID192MP3.mp3" type="audio/mpeg" length="43113393"></enclosure>
+      <itunes:title>Fuglesang</itunes:title>
+      <itunes:summary>Lyden av måltrost, rødstrupe, gjerdesmett, løvsanger, ringdue og bokfink. Opptak av Halfdan Bleken. Sted: Maridalen, Oslo. Tidspunkt: 1. mai 2020 (under korona-stillheten).</itunes:summary>
+      <itunes:duration>1796</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFPwiQkteVOKhP0m_NNSnAypBXI6-fmNjDL5aHSTNMzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Festsanger og korpsmusikk</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_17_mai/l_125d9df5-d3a7-4067-9d9d-f5d3a78067e8</link>
+      <description>Kjent, kjær og stemningsskapende lyd og musikk for 17. mai.</description>
+      <guid isPermaLink="false">l_125d9df5-d3a7-4067-9d9d-f5d3a78067e8</guid>
+      <pubDate>Thu, 07 May 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_17_mai/55aac3a9-5495-4129-a378-349cc468c12a_0_ID192MP3.mp3" type="audio/mpeg" length="33362869"></enclosure>
+      <itunes:title>Festsanger og korpsmusikk</itunes:title>
+      <itunes:summary>Kjent, kjær og stemningsskapende lyd og musikk for 17. mai.</itunes:summary>
+      <itunes:duration>1390</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFPwiQkteVOKhP0m_NNSnAypBXI6-fmNjDL5aHSTNMzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Russetreff og russefeiring</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_17_mai/l_ce7299fd-0fe8-4ba5-b299-fd0fe8fba5bc</link>
+      <description>Lyden av russ som feirer på russetreff landet rundt.</description>
+      <guid isPermaLink="false">l_ce7299fd-0fe8-4ba5-b299-fd0fe8fba5bc</guid>
+      <pubDate>Thu, 07 May 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_17_mai/bf637d4b-065f-434c-b228-be8f06111154_0_ID192MP3.mp3" type="audio/mpeg" length="16183106"></enclosure>
+      <itunes:title>Russetreff og russefeiring</itunes:title>
+      <itunes:summary>Lyden av russ som feirer på russetreff landet rundt.</itunes:summary>
+      <itunes:duration>674</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFPwiQkteVOKhP0m_NNSnAypBXI6-fmNjDL5aHSTNMzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

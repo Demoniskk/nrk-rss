@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nei nei nei</title>
+    <link>https://radio.nrk.no/podkast/nei_nei_nei</link>
+    <description>Pinligheter, flauser, blundere, tabber. Humorpodkast med den selvironiske duoen Martha Leivestad og Marlene Stavrum. Jentene  møtes ukentlig for å reflektere rundt sine egne og andres sosiale flauser.  Så kan vi le av dem sammen og kanskje føle oss litt mindre mislykka. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Thu, 07 Oct 2021 12:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/nei_nei_nei.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Pinligheter, flauser, blundere, tabber. Humorpodkast med den selvironiske duoen Martha Leivestad og Marlene Stavrum. Jentene  møtes ukentlig for å reflektere rundt sine egne og andres sosiale flauser.  Så kan vi le av dem sammen og kanskje føle oss litt mindre mislykka. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/7UsuD0NwQXdSmNppm_JkPAp44uQcqKx4J2v5HCt9MKcg"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/7UsuD0NwQXdSmNppm_JkPAp44uQcqKx4J2v5HCt9MKcg</url>
+      <title>Nei nei nei</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei</link>
+    </image>
+    <item>
+      <title> Mensen, analsex og SISTE EPISODE!</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_dfe75b49-fb4d-482a-a75b-49fb4db82a03</link>
+      <description> Martha forteller en sjokkerende historie fra eget sexliv, Marlene gjemmer seg på ny jobb og sammen dramatiserer de sin favoritthistorie fra en matros. TAKK FOR ALT!</description>
+      <guid isPermaLink="false">l_dfe75b49-fb4d-482a-a75b-49fb4db82a03</guid>
+      <pubDate>Thu, 07 Oct 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/a42b3540-bc12-41b1-8567-0ab8efe748a2_0_ID192MP3.mp3" type="audio/mpeg" length="87254253"></enclosure>
+      <itunes:title> Mensen, analsex og SISTE EPISODE!</itunes:title>
+      <itunes:summary> Martha forteller en sjokkerende historie fra eget sexliv, Marlene gjemmer seg på ny jobb og sammen dramatiserer de sin favoritthistorie fra en matros. TAKK FOR ALT!</itunes:summary>
+      <itunes:duration>3635</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/j7sSVTXot7RBVI7MbRzyuQ992frj529_0w_vuLNyCVdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Dansegulv, inderlig fyll og livsviktig fakta  </title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_fbbe94fd-95d8-48e2-be94-fd95d8e8e285</link>
+      <description>Marlene er fyllesyk, Martha har vært på hesteridning i Fyresdal og sammen har de en viktig nyhet til deg, kjære matros. </description>
+      <guid isPermaLink="false">l_fbbe94fd-95d8-48e2-be94-fd95d8e8e285</guid>
+      <pubDate>Thu, 30 Sep 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/d1446f40-fc8c-44bb-a157-f58333bd3a7a_0_ID192MP3.mp3" type="audio/mpeg" length="65274669"></enclosure>
+      <itunes:title>Dansegulv, inderlig fyll og livsviktig fakta  </itunes:title>
+      <itunes:summary>Marlene er fyllesyk, Martha har vært på hesteridning i Fyresdal og sammen har de en viktig nyhet til deg, kjære matros. </itunes:summary>
+      <itunes:duration>2719</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/i4n8q1lByusHCeWBpOntywOFnfLpJdMt8-T0A-sq2HSQ.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Lange negler, dansk forvirring og begravelse</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_4b825b1c-5afc-4b28-825b-1c5afc4b282c</link>
+      <description>Matros Gro-Anita serverer tidenes historie, Marlene har opplevd språktrøbbel, og Martha begraves. </description>
+      <guid isPermaLink="false">l_4b825b1c-5afc-4b28-825b-1c5afc4b282c</guid>
+      <pubDate>Thu, 23 Sep 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/e1d9a59b-b080-490b-b026-69bce2d0abbc_0_ID192MP3.mp3" type="audio/mpeg" length="64215405"></enclosure>
+      <itunes:title>Lange negler, dansk forvirring og begravelse</itunes:title>
+      <itunes:summary>Matros Gro-Anita serverer tidenes historie, Marlene har opplevd språktrøbbel, og Martha begraves. </itunes:summary>
+      <itunes:duration>2675</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/DEZ7LrroRUb5bIxseiaHXwHm904HbXC4s-CbiXjY8Irw.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Ikke lov å le, nazisketsj og lost på fjelltur  </title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_b4171e92-cf65-4e2f-971e-92cf657e2f54</link>
+      <description>Martha har vært med på &#34;Ikke lov å le på hytta&#34;, Marlene er syk og en stakkars matros har gjort sitt fornødne på feil sted til feil tid. </description>
+      <guid isPermaLink="false">l_b4171e92-cf65-4e2f-971e-92cf657e2f54</guid>
+      <pubDate>Thu, 16 Sep 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/42e907b4-67b6-4678-8ba9-ce6d3013afea_0_ID192MP3.mp3" type="audio/mpeg" length="61858989"></enclosure>
+      <itunes:title>Ikke lov å le, nazisketsj og lost på fjelltur  </itunes:title>
+      <itunes:summary>Martha har vært med på &#34;Ikke lov å le på hytta&#34;, Marlene er syk og en stakkars matros har gjort sitt fornødne på feil sted til feil tid. </itunes:summary>
+      <itunes:duration>2577</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Tso0zn5G-dGUpx1QKcxBXA42ta2ZLkFg1OGhWl9XVvJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Kansellerte fly, dokø og slampoesi  </title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_58792bd6-249b-421d-b92b-d6249bb21d71</link>
+      <description>Marlene har hatt en trøblete helg, en stakkars matros har ødelagt badet til svigers, og Martha er i ekstase over Marlenes slampoesi. </description>
+      <guid isPermaLink="false">l_58792bd6-249b-421d-b92b-d6249bb21d71</guid>
+      <pubDate>Thu, 09 Sep 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/25cf1231-3581-4d52-8638-c7f7df7d0c21_0_ID192MP3.mp3" type="audio/mpeg" length="71734509"></enclosure>
+      <itunes:title>Kansellerte fly, dokø og slampoesi  </itunes:title>
+      <itunes:summary>Marlene har hatt en trøblete helg, en stakkars matros har ødelagt badet til svigers, og Martha er i ekstase over Marlenes slampoesi. </itunes:summary>
+      <itunes:duration>2988</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Zx-tugu1fXea3YmZEFzYcg3_lXVilZjC0GVkbVbYx9BQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Fyllenerver, flesketits og fanfiction  </title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_691e594a-9c3c-4c3c-9e59-4a9c3cac3c00</link>
+      <description>Hverdagen har truffet jentene hardt etter en festfylt sommer, en matros har klina i vel ung alder og Martha serverer en overraskende sketsj til ukas utfordring. </description>
+      <guid isPermaLink="false">l_691e594a-9c3c-4c3c-9e59-4a9c3cac3c00</guid>
+      <pubDate>Thu, 02 Sep 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/c5ce59b8-59ce-4e8a-8061-08e4d0117780_0_ID192MP3.mp3" type="audio/mpeg" length="65804013"></enclosure>
+      <itunes:title>Fyllenerver, flesketits og fanfiction  </itunes:title>
+      <itunes:summary>Hverdagen har truffet jentene hardt etter en festfylt sommer, en matros har klina i vel ung alder og Martha serverer en overraskende sketsj til ukas utfordring. </itunes:summary>
+      <itunes:duration>2741</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4-mNXYOf9FXoLTGhWwD5jgeZ7yXuT4FplxJG-F7b70-Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Fadderskrekk, kleine møter og ghostetips</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_43e5b17f-947e-411e-a5b1-7f947ec11e3e</link>
+      <description>Marlene har stått stand up foran en woke generasjon, Martha har hylgrått og Erna Solberg gjør en staselig surprise visit.</description>
+      <guid isPermaLink="false">l_43e5b17f-947e-411e-a5b1-7f947ec11e3e</guid>
+      <pubDate>Thu, 26 Aug 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/88dbfef9-679e-4344-bafb-a7d380906425_0_ID192MP3.mp3" type="audio/mpeg" length="63817389"></enclosure>
+      <itunes:title>Fadderskrekk, kleine møter og ghostetips</itunes:title>
+      <itunes:summary>Marlene har stått stand up foran en woke generasjon, Martha har hylgrått og Erna Solberg gjør en staselig surprise visit.</itunes:summary>
+      <itunes:duration>2658</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/435aKanXvBGLQ_8Ta4nsngWo8F_YZokhsBarbD-IWSGw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Karaoke, komplimenter og oralsex  </title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_50fd28e7-1de7-4543-bd28-e71de7a54380</link>
+      <description>En stakkars matros har satt seg inn i feil bil, Marlene har sunget pinlig karaoke, og hva er egentlig det verste som kan skje under oralsex? </description>
+      <guid isPermaLink="false">l_50fd28e7-1de7-4543-bd28-e71de7a54380</guid>
+      <pubDate>Thu, 19 Aug 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/1cf04491-76d7-47ff-9b8e-677a7af4d67d_0_ID192MP3.mp3" type="audio/mpeg" length="60944877"></enclosure>
+      <itunes:title>Karaoke, komplimenter og oralsex  </itunes:title>
+      <itunes:summary>En stakkars matros har satt seg inn i feil bil, Marlene har sunget pinlig karaoke, og hva er egentlig det verste som kan skje under oralsex? </itunes:summary>
+      <itunes:duration>2539</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YHRGNc5ig1kz9SO2DmS8Dgsby5-aTXwRamydBTRENkKA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Dødelig ølkork, grusomme barn og roast </title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_743e8481-94eb-4162-be84-8194eb216284</link>
+      <description>Martha har blitt angrepet av en kork, Marlene forteller deg hvordan du unngår barn på best mulig måte, og en matros har likt Nei nei nei litt FOR godt. </description>
+      <guid isPermaLink="false">l_743e8481-94eb-4162-be84-8194eb216284</guid>
+      <pubDate>Thu, 12 Aug 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/dde1fe08-c079-429c-9675-735273fdfce3_0_ID192MP3.mp3" type="audio/mpeg" length="61266861"></enclosure>
+      <itunes:title>Dødelig ølkork, grusomme barn og roast </itunes:title>
+      <itunes:summary>Martha har blitt angrepet av en kork, Marlene forteller deg hvordan du unngår barn på best mulig måte, og en matros har likt Nei nei nei litt FOR godt. </itunes:summary>
+      <itunes:duration>2552</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7kpJiuMbNKa1J7zdoOiXMAVYd1NpMY84D1xa9qMLwOkQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Inderlig fylleprat, sjekking og brutal avvisning</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_f5eee053-567a-40db-aee0-53567a80db42</link>
+      <description>Martha og Marlene ringer Karsten Blomvik opp for å høre hva som eeegentlig skjedde da han avviste Marlene på live-show, en stakkars matros har tisset på feil sted til feil tid, og Marlene gir tips til hvordan du kan bli kvitt sommerflørten. </description>
+      <guid isPermaLink="false">l_f5eee053-567a-40db-aee0-53567a80db42</guid>
+      <pubDate>Thu, 05 Aug 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/44214f31-54cd-42b2-a8ff-52060028419b_0_ID192MP3.mp3" type="audio/mpeg" length="64260333"></enclosure>
+      <itunes:title>Inderlig fylleprat, sjekking og brutal avvisning</itunes:title>
+      <itunes:summary>Martha og Marlene ringer Karsten Blomvik opp for å høre hva som eeegentlig skjedde da han avviste Marlene på live-show, en stakkars matros har tisset på feil sted til feil tid, og Marlene gir tips til hvordan du kan bli kvitt sommerflørten. </itunes:summary>
+      <itunes:duration>2677</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6YToZWhOykJkBw7df04G1AAyioB-UQvIC3Bo4hw1Gj3g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Dickpic, pose med dritt og brennheit roast</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_d4b52a55-436f-4e91-b52a-55436f0e9168</link>
+      <description>Martha har fått spenstige meldinger på Happn, en stakkars matros har (bokstavelig talt) driti seg ut og Martha serverer roast i verdensklasse. </description>
+      <guid isPermaLink="false">l_d4b52a55-436f-4e91-b52a-55436f0e9168</guid>
+      <pubDate>Thu, 24 Jun 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/53c39ebc-e4ec-4cc0-bdb7-df6f4a724981_0_ID192MP3.mp3" type="audio/mpeg" length="57760173"></enclosure>
+      <itunes:title>Dickpic, pose med dritt og brennheit roast</itunes:title>
+      <itunes:summary>Martha har fått spenstige meldinger på Happn, en stakkars matros har (bokstavelig talt) driti seg ut og Martha serverer roast i verdensklasse. </itunes:summary>
+      <itunes:duration>2406</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ga8m2rfufAnHMsY6MUt-Cw3IljofUmW7KQvl0wHqT0dA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Dating, bursdagsblues og alderdom</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_a2c78067-9883-4be5-8780-6798838be58a</link>
+      <description>Marlene har bursdag! Både Martha og Marlene har vært på date, og matros Beate har nok fucka med feil fyr.</description>
+      <guid isPermaLink="false">l_a2c78067-9883-4be5-8780-6798838be58a</guid>
+      <pubDate>Thu, 17 Jun 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/5d509f45-bf37-43a0-8cb0-60148b11a17a_0_ID192MP3.mp3" type="audio/mpeg" length="51031917"></enclosure>
+      <itunes:title>Dating, bursdagsblues og alderdom</itunes:title>
+      <itunes:summary>Marlene har bursdag! Både Martha og Marlene har vært på date, og matros Beate har nok fucka med feil fyr.</itunes:summary>
+      <itunes:duration>2126</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wu8pXGqBkC-LIdQTrZ0E8wLxDWcfEFsqS9EMMOBk0cOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Bursdag, bootycall og sexyness</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_fa95fb76-5251-48b7-95fb-76525108b770</link>
+      <description>Marlene har blitt utsatt for ufrivillig bootycalling, Martha sliter med å gjemme vekk sexleketøy, og matros Jorunn har vært lemfeldig med tampong på fest. </description>
+      <guid isPermaLink="false">l_fa95fb76-5251-48b7-95fb-76525108b770</guid>
+      <pubDate>Thu, 10 Jun 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/8aad9c83-ecae-4105-920b-1f400595696b_0_ID192MP3.mp3" type="audio/mpeg" length="66496365"></enclosure>
+      <itunes:title>Bursdag, bootycall og sexyness</itunes:title>
+      <itunes:summary>Marlene har blitt utsatt for ufrivillig bootycalling, Martha sliter med å gjemme vekk sexleketøy, og matros Jorunn har vært lemfeldig med tampong på fest. </itunes:summary>
+      <itunes:duration>2770</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/crTqn9McO4pg-JTxfYCWOwQ7plMyQYeYYqMxKvPRuc2Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Voksing, sløsing og hvordan virke smart</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_8c1d3809-4a7e-4311-9d38-094a7e9311e2</link>
+      <description>Martha har brukt opp BSU-pengene sine, men ikke på bolig; Marlene gir tips og triks til hvordan du fremstår smart, og ikke alt gikk etter planen da en matros skulle vokse bikinilinjen…</description>
+      <guid isPermaLink="false">l_8c1d3809-4a7e-4311-9d38-094a7e9311e2</guid>
+      <pubDate>Thu, 03 Jun 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/3b637e8f-403a-46d9-ab4c-3f5e5ff19e87_0_ID192MP3.mp3" type="audio/mpeg" length="66657069"></enclosure>
+      <itunes:title>Voksing, sløsing og hvordan virke smart</itunes:title>
+      <itunes:summary>Martha har brukt opp BSU-pengene sine, men ikke på bolig; Marlene gir tips og triks til hvordan du fremstår smart, og ikke alt gikk etter planen da en matros skulle vokse bikinilinjen…</itunes:summary>
+      <itunes:duration>2777</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h5UcuwDlRCBNw3v7W-lyrwJph-BZL-DLohCaHnOToNSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Blotting, bombing og bæsj</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_eb931e3d-2982-42ed-931e-3d2982e2eda3</link>
+      <description>Marlene har bæsja på seg (og andre), en distré matros har vist frem litt av hvert, og Martha får kjenne hvor vondt det er å mislykkes med standup.</description>
+      <guid isPermaLink="false">l_eb931e3d-2982-42ed-931e-3d2982e2eda3</guid>
+      <pubDate>Thu, 27 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/327ceb1b-da2c-42b3-8172-729024beef18_0_ID192MP3.mp3" type="audio/mpeg" length="64000557"></enclosure>
+      <itunes:title>Blotting, bombing og bæsj</itunes:title>
+      <itunes:summary>Marlene har bæsja på seg (og andre), en distré matros har vist frem litt av hvert, og Martha får kjenne hvor vondt det er å mislykkes med standup.</itunes:summary>
+      <itunes:duration>2666</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ogX5Y7EN0AA24cFANJ00Qw1jEzSJeqA8rf3cd4uwdTeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Fyllesyk på jobb, Joe Exotic og tidenes verste svigerforeldre</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_56a6f3ea-8b7b-46bc-a6f3-ea8b7b46bcd8</link>
+      <description>Martha har glemt hvordan man er sosial etter halvannet år med pandemi, Marlene har vært fyllesyk på polet og en matros får hjelp til å takle en klein date.</description>
+      <guid isPermaLink="false">l_56a6f3ea-8b7b-46bc-a6f3-ea8b7b46bcd8</guid>
+      <pubDate>Thu, 20 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/c79d5d80-be6d-4918-87c5-f11fa0f9a744_0_ID192MP3.mp3" type="audio/mpeg" length="63145773"></enclosure>
+      <itunes:title>Fyllesyk på jobb, Joe Exotic og tidenes verste svigerforeldre</itunes:title>
+      <itunes:summary>Martha har glemt hvordan man er sosial etter halvannet år med pandemi, Marlene har vært fyllesyk på polet og en matros får hjelp til å takle en klein date.</itunes:summary>
+      <itunes:duration>2631</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lb3qpdKWOR8Zv1MOPViYxQBIUAWqJaKghVmbaRayU4cA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Ponni, pupp og politi</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_fa465719-1930-4592-8657-191930059274</link>
+      <description>Marlene har skammet seg på gård, en matros får hjelp til å takle noe flaut hun gjorde i fylla, og Martha og Marlene utforsker hva som er det verste som kan skje på en date.</description>
+      <guid isPermaLink="false">l_fa465719-1930-4592-8657-191930059274</guid>
+      <pubDate>Thu, 13 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/73f77c81-8b6c-4a42-bc0d-bc7805723b01_0_ID192MP3.mp3" type="audio/mpeg" length="69571053"></enclosure>
+      <itunes:title>Ponni, pupp og politi</itunes:title>
+      <itunes:summary>Marlene har skammet seg på gård, en matros får hjelp til å takle noe flaut hun gjorde i fylla, og Martha og Marlene utforsker hva som er det verste som kan skje på en date.</itunes:summary>
+      <itunes:duration>2898</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wRFqEPoGpSbG3YqDeNSpTQPUKZLP1k6JrpMBXro7S6sw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Tattis, triggerlåt og Tinder-dikt</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_dd1b5e7b-8c4c-471d-9b5e-7b8c4ce71dc3</link>
+      <description>Martha har tatt sin første tatovering, og faren hennes reagerer på motivet. En matros får råd etter å ha sunget feil sang på fest, og vi får høre hvordan det gikk da Marlene skulle sjekke opp en Tinder-fyr på rim.</description>
+      <guid isPermaLink="false">l_dd1b5e7b-8c4c-471d-9b5e-7b8c4ce71dc3</guid>
+      <pubDate>Thu, 06 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/a06d5be9-17e9-4d06-83c6-3b4a13e9a3a1_0_ID192MP3.mp3" type="audio/mpeg" length="49182957"></enclosure>
+      <itunes:title>Tattis, triggerlåt og Tinder-dikt</itunes:title>
+      <itunes:summary>Martha har tatt sin første tatovering, og faren hennes reagerer på motivet. En matros får råd etter å ha sunget feil sang på fest, og vi får høre hvordan det gikk da Marlene skulle sjekke opp en Tinder-fyr på rim.</itunes:summary>
+      <itunes:duration>2049</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Rf_Ezl2-ZlXhgqHFCm0pNg9kOXmrRxfF_OuU-cpkw8WA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Kostbare Martha, og dritbra diaretips</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_e3b5e3c0-8f84-4307-b5e3-c08f84e307bf</link>
+      <description>Martha har sjekket opp en fyr på jobben, Marlene gir tips til fattigfolk som vil fremstå rike, og det blir dessverre en god porsjon bæsj.</description>
+      <guid isPermaLink="false">l_e3b5e3c0-8f84-4307-b5e3-c08f84e307bf</guid>
+      <pubDate>Thu, 29 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/b28e1dea-339c-468f-955d-df6a8c382258_0_ID192MP3.mp3" type="audio/mpeg" length="53725293"></enclosure>
+      <itunes:title>Kostbare Martha, og dritbra diaretips</itunes:title>
+      <itunes:summary>Martha har sjekket opp en fyr på jobben, Marlene gir tips til fattigfolk som vil fremstå rike, og det blir dessverre en god porsjon bæsj.</itunes:summary>
+      <itunes:duration>2238</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/s_aeGdDOHZkQCJcqYmCJ5gmrl80wsSmxi8FDv00YEz6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Nei nei nei - Verdens verste uke og pappas flørtetips</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_7c2f4b68-848d-4bd9-af4b-68848dabd911</link>
+      <description>Marlene har satt halve Oslo i karantene etter positiv koronatest(!). Melina Johnsens misliker oppmerksomhet og vi blir servert en klein mikrofontabbe fra en matros.</description>
+      <guid isPermaLink="false">l_7c2f4b68-848d-4bd9-af4b-68848dabd911</guid>
+      <pubDate>Thu, 22 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/16e4208c-716b-49d3-bb37-914da3dacfb6_0_ID192MP3.mp3" type="audio/mpeg" length="49284333"></enclosure>
+      <itunes:title>Nei nei nei - Verdens verste uke og pappas flørtetips</itunes:title>
+      <itunes:summary>Marlene har satt halve Oslo i karantene etter positiv koronatest(!). Melina Johnsens misliker oppmerksomhet og vi blir servert en klein mikrofontabbe fra en matros.</itunes:summary>
+      <itunes:duration>2053</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/N4k-Ga8_3OoTV96BV4Aclgr24gefk-vIW23KKRrUBc_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Brotherfucking og raserianfall i manesjen </title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_6cd3b5bd-1563-4b71-93b5-bd15635b7167</link>
+      <description>Den grusomste opplevelsen til Marlene på stand up-scenen beskrives i detalj. En matros sin aller første &#34;voksenjobb&#34; ender i katastrofe, og Martha blir svært skuffet over Marlenes leveranse på ukens utfordring. </description>
+      <guid isPermaLink="false">l_6cd3b5bd-1563-4b71-93b5-bd15635b7167</guid>
+      <pubDate>Thu, 15 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/d5c03f33-b40f-4b66-bc67-1ee3b917b1e3_0_ID192MP3.mp3" type="audio/mpeg" length="37351535"></enclosure>
+      <itunes:title>Brotherfucking og raserianfall i manesjen </itunes:title>
+      <itunes:summary>Den grusomste opplevelsen til Marlene på stand up-scenen beskrives i detalj. En matros sin aller første &#34;voksenjobb&#34; ender i katastrofe, og Martha blir svært skuffet over Marlenes leveranse på ukens utfordring. </itunes:summary>
+      <itunes:duration>1556</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fb3ZuPIOhungPJl3dYStdwvEjv97d0VTpnJvM73Ig3Kg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Jomfru i trekant og trønder i nød</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_7c2d3d28-e597-4aa6-ad3d-28e597eaa6df</link>
+      <description>Marlene forteller om sin ydmykende rømning fra en one night stand som 17-åring, &#xA;og Martha blir tvunget til å endelig konfrontere Else Kåss Furuseth med sitt mest skamfulle øyeblikk.</description>
+      <guid isPermaLink="false">l_7c2d3d28-e597-4aa6-ad3d-28e597eaa6df</guid>
+      <pubDate>Thu, 08 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/445e1879-2128-4d7d-83f5-1fa30e8e05b1_0_ID192MP3.mp3" type="audio/mpeg" length="42601944"></enclosure>
+      <itunes:title>Jomfru i trekant og trønder i nød</itunes:title>
+      <itunes:summary>Marlene forteller om sin ydmykende rømning fra en one night stand som 17-åring, &#xA;og Martha blir tvunget til å endelig konfrontere Else Kåss Furuseth med sitt mest skamfulle øyeblikk.</itunes:summary>
+      <itunes:duration>1774</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NlUHJHesXo14XSNRbXyFig4FqMKbKaxe0-FNe4Wu8kug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Else Kåss-flause, diabetesdama og blackface</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_bae7c4c5-8e4f-4281-a7c4-c58e4f128138</link>
+      <description>Marlene avslører Marthas pinlige fyllemøte med Else Kåss Furuseth. En av båtfolket har vært på en svært mislykka treningsdate, og Marlene setter vennene sine i en ubehagelig situasjon. </description>
+      <guid isPermaLink="false">l_bae7c4c5-8e4f-4281-a7c4-c58e4f128138</guid>
+      <pubDate>Thu, 01 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/3a07d3be-1f0d-46db-96b9-36fb78dfbd0d_0_ID192MP3.mp3" type="audio/mpeg" length="45799320"></enclosure>
+      <itunes:title>Else Kåss-flause, diabetesdama og blackface</itunes:title>
+      <itunes:summary>Marlene avslører Marthas pinlige fyllemøte med Else Kåss Furuseth. En av båtfolket har vært på en svært mislykka treningsdate, og Marlene setter vennene sine i en ubehagelig situasjon. </itunes:summary>
+      <itunes:duration>1908</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0npEDra6Dpa71oo4TnbJ4QJrkrHlnkGhrs0t4LRFFJCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>«Sexy» skolejente, karaokemareritt og bloggeblunder</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_fcf05499-9bbe-4ae3-b054-999bbeaae3a2</link>
+      <description>Martha tråkker langt over en grense når hun skal gjøre sexpartneren opphisset. Marlene gir deg tipsene OG triksene til hvordan du best kan sjekke i koronatiden, og du får overhøre et særdeles pinlig morgenmøte i 4ETG-redaksjonen. </description>
+      <guid isPermaLink="false">l_fcf05499-9bbe-4ae3-b054-999bbeaae3a2</guid>
+      <pubDate>Thu, 25 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/19a98305-4e74-45a1-9487-b4121c5a261c_0_ID192MP3.mp3" type="audio/mpeg" length="39704507"></enclosure>
+      <itunes:title>«Sexy» skolejente, karaokemareritt og bloggeblunder</itunes:title>
+      <itunes:summary>Martha tråkker langt over en grense når hun skal gjøre sexpartneren opphisset. Marlene gir deg tipsene OG triksene til hvordan du best kan sjekke i koronatiden, og du får overhøre et særdeles pinlig morgenmøte i 4ETG-redaksjonen. </itunes:summary>
+      <itunes:duration>1654</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WCY9mFiRuKtwrNhdb67mvQTvETFpZ6_gj4TcA_TR3mZQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Sosialt selvmord, Ernas flåsete blunder og hvordan bli kvitt en venn</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_0898b6a2-3a03-4e3b-98b6-a23a03de3b62</link>
+      <description>Marlene forteller om hvorfor hun ble skolens mest ensomme og utstøtte student etter sin aller første fadderuke-fest. Vi får en historie om den uheldige kombinasjonen av tequila-spy og tissetrengthet, og trenger du å dumpe en venn så serveres det en tydelig guide.</description>
+      <guid isPermaLink="false">l_0898b6a2-3a03-4e3b-98b6-a23a03de3b62</guid>
+      <pubDate>Thu, 18 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/dce75c4e-38b0-4428-adba-97bc52575811_0_ID192MP3.mp3" type="audio/mpeg" length="42703344"></enclosure>
+      <itunes:title>Sosialt selvmord, Ernas flåsete blunder og hvordan bli kvitt en venn</itunes:title>
+      <itunes:summary>Marlene forteller om hvorfor hun ble skolens mest ensomme og utstøtte student etter sin aller første fadderuke-fest. Vi får en historie om den uheldige kombinasjonen av tequila-spy og tissetrengthet, og trenger du å dumpe en venn så serveres det en tydelig guide.</itunes:summary>
+      <itunes:duration>1779</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/knD80oFG8xjJ17RmO2p8GwJdnjVIBsqf0qw61ap9YAQA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>PREMIERE! Kari Jaquesson-galskap, blodig kott og Marthas festivaldo-tabbe</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_dbb09951-002b-4027-b099-51002b9027af</link>
+      <description>Premiereepisode! Martha utleverer seg selv med en sjelsettende historie om hvorfor favorittgenseren hennes aldri bør brukes igjen.&#xA;Marlene gir svært konkrete råd hvordan man helt enkelt får en kul personlighet, og en instagram-følger serverer en ydmykende nakenhistorie fra et kott.&#xA;</description>
+      <guid isPermaLink="false">l_dbb09951-002b-4027-b099-51002b9027af</guid>
+      <pubDate>Thu, 11 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/3a483c2a-dd67-43c6-b280-0c361f02259c_0_ID192MP3.mp3" type="audio/mpeg" length="37238232"></enclosure>
+      <itunes:title>PREMIERE! Kari Jaquesson-galskap, blodig kott og Marthas festivaldo-tabbe</itunes:title>
+      <itunes:summary>Premiereepisode! Martha utleverer seg selv med en sjelsettende historie om hvorfor favorittgenseren hennes aldri bør brukes igjen.&#xA;Marlene gir svært konkrete råd hvordan man helt enkelt får en kul personlighet, og en instagram-følger serverer en ydmykende nakenhistorie fra et kott.&#xA;</itunes:summary>
+      <itunes:duration>1551</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7UsuD0NwQXdSmNppm_JkPAp44uQcqKx4J2v5HCt9MKcg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Ny podkast 11. mars: Nei nei nei</title>
+      <link>https://radio.nrk.no/podkast/nei_nei_nei/l_af435343-1f26-41fb-8353-431f26b1fb50</link>
+      <description>Vi driter oss alle ut. Hele tiden. La oss snakke om det. Og ikke minst, le av det sammen. Hør ny podkast med Martha Leivestad og Marlene Stavrum torsdager i NRK Radio.</description>
+      <guid isPermaLink="false">l_af435343-1f26-41fb-8353-431f26b1fb50</guid>
+      <pubDate>Tue, 09 Mar 2021 11:40:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nei_nei_nei/eed14f7f-7f60-40fa-be82-15509c152eaf_0_ID192MP3.mp3" type="audio/mpeg" length="1164476"></enclosure>
+      <itunes:title>Ny podkast 11. mars: Nei nei nei</itunes:title>
+      <itunes:summary>Vi driter oss alle ut. Hele tiden. La oss snakke om det. Og ikke minst, le av det sammen. Hør ny podkast med Martha Leivestad og Marlene Stavrum torsdager i NRK Radio.</itunes:summary>
+      <itunes:duration>48</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7UsuD0NwQXdSmNppm_JkPAp44uQcqKx4J2v5HCt9MKcg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valg</title>
+    <link>https://radio.nrk.no/podkast/valg</link>
+    <description>Hør debatter, innslag og intervjuer fra NRKs valgdekning.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 03 Sep 2025 10:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/valg.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Hør debatter, innslag og intervjuer fra NRKs valgdekning.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/HVmwxKtHy37PuEI9sPy7MgSNqqUscjH82az-U0R-Odww"></itunes:image>
+    <itunes:category text="Nyheter"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/HVmwxKtHy37PuEI9sPy7MgSNqqUscjH82az-U0R-Odww</url>
+      <title>Valg</title>
+      <link>https://radio.nrk.no/podkast/valg</link>
+    </image>
+    <item>
+      <title>Fremskrittspartiet</title>
+      <link>https://radio.nrk.no/podkast/valg/l_61c9f091-8c03-4526-89f0-918c0325269e</link>
+      <description>Det er ingen hemmelighet at Frp vil legge ned Sametinget, men listetopp Ellen Eriksen vil ikke selv inn for å legge deŧ ned.</description>
+      <guid isPermaLink="false">l_61c9f091-8c03-4526-89f0-918c0325269e</guid>
+      <pubDate>Wed, 03 Sep 2025 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/61c9f091-8c03-4526-89f0-918c0325269e_ID192MP3.mp3" type="audio/mpeg" length="8987948"></enclosure>
+      <itunes:title>Fremskrittspartiet</itunes:title>
+      <itunes:summary>Det er ingen hemmelighet at Frp vil legge ned Sametinget, men listetopp Ellen Eriksen vil ikke selv inn for å legge deŧ ned.</itunes:summary>
+      <itunes:duration>374</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vHmvkOb_97BrSbETrw2FvgbTZMdH7HunKMHQdzRNm4XQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Industri- og næringsparti</title>
+      <link>https://radio.nrk.no/podkast/valg/l_ecfdb0a7-ceed-411c-bdb0-a7ceed211ce6</link>
+      <description>Listetoppen var på havet, og sendte fylkesleder Agnar Johansen i utspørring. Det er første gang de har liste i sametingsvalget.</description>
+      <guid isPermaLink="false">l_ecfdb0a7-ceed-411c-bdb0-a7ceed211ce6</guid>
+      <pubDate>Wed, 03 Sep 2025 09:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/ecfdb0a7-ceed-411c-bdb0-a7ceed211ce6_ID192MP3.mp3" type="audio/mpeg" length="14616620"></enclosure>
+      <itunes:title>Industri- og næringsparti</itunes:title>
+      <itunes:summary>Listetoppen var på havet, og sendte fylkesleder Agnar Johansen i utspørring. Det er første gang de har liste i sametingsvalget.</itunes:summary>
+      <itunes:duration>608</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mawbNQKf7LguHHkTXjn-2AnGK5Io6W-3NWz_I4kOj9Xg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Olgeš</title>
+      <link>https://radio.nrk.no/podkast/valg/l_60d97a2e-d65c-421b-997a-2ed65c821b27</link>
+      <description>Lars Filip Paulsen mielas galget sámi mánát oažžut albma julevsámegiel oahpahusa go bajásšaddet.</description>
+      <guid isPermaLink="false">l_60d97a2e-d65c-421b-997a-2ed65c821b27</guid>
+      <pubDate>Mon, 01 Sep 2025 09:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/60d97a2e-d65c-421b-997a-2ed65c821b27_ID192MP3.mp3" type="audio/mpeg" length="18834668"></enclosure>
+      <itunes:title>Olgeš</itunes:title>
+      <itunes:summary>Lars Filip Paulsen mielas galget sámi mánát oažžut albma julevsámegiel oahpahusa go bajásšaddet.</itunes:summary>
+      <itunes:duration>784</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xex1YEWu7FAUj8oovFaTBAqlEuy-_4eAL7EzKhHb7ucw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Norgga Sámiid Riikkasearvi</title>
+      <link>https://radio.nrk.no/podkast/valg/l_4760a704-1346-4cef-a0a7-0413463cef51</link>
+      <description>Silje Karine Muotka mielas leat dat eará presideantaevttohasat buori olbmot, muhto politihkkalaččat ii sáhte doarjut.</description>
+      <guid isPermaLink="false">l_4760a704-1346-4cef-a0a7-0413463cef51</guid>
+      <pubDate>Thu, 28 Aug 2025 09:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/4760a704-1346-4cef-a0a7-0413463cef51_ID192MP3.mp3" type="audio/mpeg" length="20653676"></enclosure>
+      <itunes:title>Norgga Sámiid Riikkasearvi</itunes:title>
+      <itunes:summary>Silje Karine Muotka mielas leat dat eará presideantaevttohasat buori olbmot, muhto politihkkalaččat ii sáhte doarjut.</itunes:summary>
+      <itunes:duration>860</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iKpmGQAAmME9ElOzG6n0dw0rLwmxxZndj6tja8qABe8w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Samefolkets parti</title>
+      <link>https://radio.nrk.no/podkast/valg/l_d07fc0df-30da-44d9-bfc0-df30da74d9b7</link>
+      <description>En av sakene i denne valgkampen har berørt Ann-Elise Finbog personlig.</description>
+      <guid isPermaLink="false">l_d07fc0df-30da-44d9-bfc0-df30da74d9b7</guid>
+      <pubDate>Tue, 26 Aug 2025 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/d07fc0df-30da-44d9-bfc0-df30da74d9b7_ID192MP3.mp3" type="audio/mpeg" length="20202092"></enclosure>
+      <itunes:title>Samefolkets parti</itunes:title>
+      <itunes:summary>En av sakene i denne valgkampen har berørt Ann-Elise Finbog personlig.</itunes:summary>
+      <itunes:duration>841</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/N_U3P27XuuXLcEhn9y1bnwh3CDGQVHeWZ3dtV9nH-_-Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sámeeatnanlista</title>
+      <link>https://radio.nrk.no/podkast/valg/l_faa1560c-8947-462f-a156-0c8947c62fe2</link>
+      <description>Sápmelaččat galget stivret Sámedikki, oaivvilda listonjunuš Sissel Gaup.</description>
+      <guid isPermaLink="false">l_faa1560c-8947-462f-a156-0c8947c62fe2</guid>
+      <pubDate>Tue, 26 Aug 2025 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/faa1560c-8947-462f-a156-0c8947c62fe2_ID192MP3.mp3" type="audio/mpeg" length="21370796"></enclosure>
+      <itunes:title>Sámeeatnanlista</itunes:title>
+      <itunes:summary>Sápmelaččat galget stivret Sámedikki, oaivvilda listonjunuš Sissel Gaup.</itunes:summary>
+      <itunes:duration>890</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BdxeHXrqpmSut1Dfuy6lEwNcLQF-QzF15pMTjc7m6EpQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Senterpartiet</title>
+      <link>https://radio.nrk.no/podkast/valg/l_ea992696-4f0d-49df-9926-964f0d09dfed</link>
+      <description>Samenes nasjonaldag bør ikke være en fridag, mener Tor Mikkola. Hva annet opptar partiet i denne valgkampen?</description>
+      <guid isPermaLink="false">l_ea992696-4f0d-49df-9926-964f0d09dfed</guid>
+      <pubDate>Sat, 23 Aug 2025 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/ea992696-4f0d-49df-9926-964f0d09dfed_ID192MP3.mp3" type="audio/mpeg" length="15002540"></enclosure>
+      <itunes:title>Senterpartiet</itunes:title>
+      <itunes:summary>Samenes nasjonaldag bør ikke være en fridag, mener Tor Mikkola. Hva annet opptar partiet i denne valgkampen?</itunes:summary>
+      <itunes:duration>625</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Yw8gETKB79Gb17N4bxuuCgqVhFORk1SdPJuDw0ce9svw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Johttisápmelaččaid listu</title>
+      <link>https://radio.nrk.no/podkast/valg/l_306cd576-8e0d-401a-acd5-768e0d101a98</link>
+      <description>Boazodoallu lea dehálaš ášši Berit Marie Eirai, muhto mat leat vel su váibmoáššit?</description>
+      <guid isPermaLink="false">l_306cd576-8e0d-401a-acd5-768e0d101a98</guid>
+      <pubDate>Sat, 23 Aug 2025 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/306cd576-8e0d-401a-acd5-768e0d101a98_ID192MP3.mp3" type="audio/mpeg" length="21288428"></enclosure>
+      <itunes:title>Johttisápmelaččaid listu</itunes:title>
+      <itunes:summary>Boazodoallu lea dehálaš ášši Berit Marie Eirai, muhto mat leat vel su váibmoáššit?</itunes:summary>
+      <itunes:duration>886</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TO7JsEMF9Cl9-wZTnNdG8wtcr4UsAWuRpienGnjM1g5A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bargiidbellodat</title>
+      <link>https://radio.nrk.no/podkast/valg/l_3df6784d-4eb0-4ac4-b678-4d4eb08ac44f</link>
+      <description>Presideantaevttohas Svein Atle Somby oaivvilda juoga lea dáhpáhuvvan; sámediggi ja sápmelaččat leat hádjánan.</description>
+      <guid isPermaLink="false">l_3df6784d-4eb0-4ac4-b678-4d4eb08ac44f</guid>
+      <pubDate>Sat, 23 Aug 2025 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/3df6784d-4eb0-4ac4-b678-4d4eb08ac44f_ID192MP3.mp3" type="audio/mpeg" length="24418412"></enclosure>
+      <itunes:title>Bargiidbellodat</itunes:title>
+      <itunes:summary>Presideantaevttohas Svein Atle Somby oaivvilda juoga lea dáhpáhuvvan; sámediggi ja sápmelaččat leat hádjánan.</itunes:summary>
+      <itunes:duration>1017</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qaXtHHt5ww0OYyNMwsDRDwDGla5-ArIfapbthol1PTBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Nordkalottfolket</title>
+      <link>https://radio.nrk.no/podkast/valg/l_997515ef-e655-4223-b515-efe655422308</link>
+      <description>Vi er hovedmotstanderen til NSR, sier Vibeke Larsen, presidentkandidaten til det største opposisjonspartiet på Sametinget.</description>
+      <guid isPermaLink="false">l_997515ef-e655-4223-b515-efe655422308</guid>
+      <pubDate>Sat, 23 Aug 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/997515ef-e655-4223-b515-efe655422308_ID192MP3.mp3" type="audio/mpeg" length="19312748"></enclosure>
+      <itunes:title>Nordkalottfolket</itunes:title>
+      <itunes:summary>Vi er hovedmotstanderen til NSR, sier Vibeke Larsen, presidentkandidaten til det største opposisjonspartiet på Sametinget.</itunes:summary>
+      <itunes:duration>804</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/akkddgep-9n_R8R4TO16hg4pR36U3AkpuKtlFK_RXAYQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Fitjar</title>
+      <link>https://radio.nrk.no/podkast/valg/l_4c56fa6d-1114-4efb-96fa-6d11147efb5b</link>
+      <description>Debatten mellom listetoppane i Fitjar kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_4c56fa6d-1114-4efb-96fa-6d11147efb5b</guid>
+      <pubDate>Mon, 04 Sep 2023 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/c604da79-ea12-4345-a126-2c8301c42999_0_ID192MP3.mp3" type="audio/mpeg" length="73787373"></enclosure>
+      <itunes:title>Valdebatt frå Fitjar</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Fitjar kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>3074</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/n08r3KdjuxJVpnDm7_YztAu7P37jfheJ9RdFZ_po6Ikg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Ullensvang</title>
+      <link>https://radio.nrk.no/podkast/valg/l_b6402e84-3a75-4c49-802e-843a75fc4995</link>
+      <description>Debatten mellom listetoppane i Ullensvang kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_b6402e84-3a75-4c49-802e-843a75fc4995</guid>
+      <pubDate>Fri, 01 Sep 2023 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/7a867d9e-07a6-4caa-b7ab-c7cfd58d9764_0_ID192MP3.mp3" type="audio/mpeg" length="77433453"></enclosure>
+      <itunes:title>Valdebatt frå Ullensvang</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Ullensvang kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>3226</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/XKlusRtLoXxfLTULbjwGfQPhVV1tvdq1h6qIjvYYkSXw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Stord</title>
+      <link>https://radio.nrk.no/podkast/valg/l_390b125f-b4b1-46ff-8b12-5fb4b1e6ffcf</link>
+      <description>Debatten mellom listetoppane i Stord kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_390b125f-b4b1-46ff-8b12-5fb4b1e6ffcf</guid>
+      <pubDate>Thu, 31 Aug 2023 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/f60edea1-948c-493d-bf41-42255dc98b34_0_ID192MP3.mp3" type="audio/mpeg" length="77871213"></enclosure>
+      <itunes:title>Valdebatt frå Stord</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Stord kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>3244</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Dk0RwQ8XGRGi6Ocqlc52Bw6TvJmXopjYnLxb_PYVLwHw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Sveio</title>
+      <link>https://radio.nrk.no/podkast/valg/l_01fca894-9f46-48b5-bca8-949f4608b563</link>
+      <description>Debatten mellom listetoppane i Sveio kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_01fca894-9f46-48b5-bca8-949f4608b563</guid>
+      <pubDate>Wed, 30 Aug 2023 10:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/389fdc41-8fc1-48c3-b2d6-7dfac32cfc34_0_ID192MP3.mp3" type="audio/mpeg" length="69795117"></enclosure>
+      <itunes:title>Valdebatt frå Sveio</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Sveio kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2908</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/z2yvbeYAGs7HDkONXrJylQUJRLXg134dBwTifIpeE_rw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Bømlo</title>
+      <link>https://radio.nrk.no/podkast/valg/l_c4eb1b1c-18a3-499e-ab1b-1c18a3599e95</link>
+      <description>Debatten mellom listetoppane i Bømlo kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_c4eb1b1c-18a3-499e-ab1b-1c18a3599e95</guid>
+      <pubDate>Wed, 30 Aug 2023 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/53c9d8fe-9b1c-4e53-86bd-1df3cadb3de2_0_ID192MP3.mp3" type="audio/mpeg" length="81084141"></enclosure>
+      <itunes:title>Valdebatt frå Bømlo</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Bømlo kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>3378</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YOUBF7bSxNHw-2NFjZg1twGhp2-2wCWc58ogpuo3VAyA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Etne</title>
+      <link>https://radio.nrk.no/podkast/valg/l_6d2d8632-4b95-442d-ad86-324b95e42de1</link>
+      <description>Debatten mellom listetoppane i Etne kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_6d2d8632-4b95-442d-ad86-324b95e42de1</guid>
+      <pubDate>Tue, 29 Aug 2023 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/19b83b45-20da-4a20-a03b-04f4f332142b_0_ID192MP3.mp3" type="audio/mpeg" length="71933805"></enclosure>
+      <itunes:title>Valdebatt frå Etne</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Etne kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2997</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SYKCOAtKvPq2Ta5OEcCtpAfTLXcY3v5dAxi-2bK06xBQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Kvinnherad</title>
+      <link>https://radio.nrk.no/podkast/valg/l_ff75d46f-44f4-4fc9-b5d4-6f44f45fc95b</link>
+      <description>Debatten mellom listetoppane i Kvinnherad kommune blir leia av Oddgeir Øystese</description>
+      <guid isPermaLink="false">l_ff75d46f-44f4-4fc9-b5d4-6f44f45fc95b</guid>
+      <pubDate>Mon, 28 Aug 2023 17:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/1fc49227-d092-403f-b27a-7ff04393c7ab_0_ID192MP3.mp3" type="audio/mpeg" length="86477805"></enclosure>
+      <itunes:title>Valdebatt frå Kvinnherad</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Kvinnherad kommune blir leia av Oddgeir Øystese</itunes:summary>
+      <itunes:duration>3603</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AGPBFWM-EjwK_t7FKr3dCAqlJ1pBVjmjkg_BjFnUC0AA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Eidfjord</title>
+      <link>https://radio.nrk.no/podkast/valg/l_029584b0-b815-45e2-9584-b0b81535e203</link>
+      <description>Debatten mellom listetoppane i Eidfjord kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_029584b0-b815-45e2-9584-b0b81535e203</guid>
+      <pubDate>Fri, 25 Aug 2023 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/f12c15ed-0c83-48b0-bc36-5e9825edde18_0_ID192MP3.mp3" type="audio/mpeg" length="55908333"></enclosure>
+      <itunes:title>Valdebatt frå Eidfjord</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Eidfjord kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2329</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zUZGwtiqzJYd7zx4S_MH-ACWMiegpaskWiJXhm74Pxhg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Ulvik</title>
+      <link>https://radio.nrk.no/podkast/valg/l_39531960-e577-487b-9319-60e577f87b70</link>
+      <description>Debatten mellom listetoppane i Ulvik kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_39531960-e577-487b-9319-60e577f87b70</guid>
+      <pubDate>Wed, 23 Aug 2023 12:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/a2e53f8c-6d0b-4909-8fb1-c02297dffcac_0_ID192MP3.mp3" type="audio/mpeg" length="53536365"></enclosure>
+      <itunes:title>Valdebatt frå Ulvik</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Ulvik kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2230</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8f3hqlZqd6SmrkPv2zJNpAG54njiWb6LpGOTBIn3GAQQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Masfjorden</title>
+      <link>https://radio.nrk.no/podkast/valg/l_d6bb6063-e65d-4cea-bb60-63e65d8cea8e</link>
+      <description>Debatten mellom listetoppane i Masfjorden kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_d6bb6063-e65d-4cea-bb60-63e65d8cea8e</guid>
+      <pubDate>Wed, 23 Aug 2023 12:42:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/36072a49-b8d2-4be9-a73b-ac3ca3897d59_0_ID192MP3.mp3" type="audio/mpeg" length="56215917"></enclosure>
+      <itunes:title>Valdebatt frå Masfjorden</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Masfjorden kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2342</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8TEAEu48YSwwd2joToAnbQE0sjN_WmS3XDNUC0l3QqYQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Årdal</title>
+      <link>https://radio.nrk.no/podkast/valg/l_496f7d53-bbc1-461e-af7d-53bbc1f61efd</link>
+      <description>Debatten mellom listetoppane i Årdal kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_496f7d53-bbc1-461e-af7d-53bbc1f61efd</guid>
+      <pubDate>Wed, 23 Aug 2023 12:41:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/53f55d54-a772-4c61-8518-d878edfa0f15_0_ID192MP3.mp3" type="audio/mpeg" length="43675821"></enclosure>
+      <itunes:title>Valdebatt frå Årdal</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Årdal kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>1819</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/y0zhVkh7P6vWCyGYB1eYRgLidi5rh9dPAH5W_xBi8nWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Øygarden</title>
+      <link>https://radio.nrk.no/podkast/valg/l_d7618436-8960-4e22-a184-368960be229c</link>
+      <description>Debatten mellom listetoppane i Øygarden kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_d7618436-8960-4e22-a184-368960be229c</guid>
+      <pubDate>Wed, 23 Aug 2023 12:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/d5c67826-b5d7-4e76-a009-318655b31ff3_0_ID192MP3.mp3" type="audio/mpeg" length="73080621"></enclosure>
+      <itunes:title>Valdebatt frå Øygarden</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Øygarden kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>3044</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YVlr9rkFhMa4Remgz9Sy8gn4PPpFQ77LuSxSd2MwmC3A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Voss</title>
+      <link>https://radio.nrk.no/podkast/valg/l_04a84116-fd71-4e93-a841-16fd71fe93ab</link>
+      <description>Debatten mellom listetoppane i Voss herad blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_04a84116-fd71-4e93-a841-16fd71fe93ab</guid>
+      <pubDate>Wed, 23 Aug 2023 12:39:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/16efa3db-241a-4353-b8af-1c1fe5f06adb_0_ID192MP3.mp3" type="audio/mpeg" length="80190189"></enclosure>
+      <itunes:title>Valdebatt frå Voss</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Voss herad blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>3341</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/K0fBM1yOTfWO6SCvek3G_QTY5vr2cTrTtaRkKCu2N81g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Vik</title>
+      <link>https://radio.nrk.no/podkast/valg/l_a8355f3e-bbe0-42ba-b55f-3ebbe052ba32</link>
+      <description>Debatten mellom listetoppane i Vik kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_a8355f3e-bbe0-42ba-b55f-3ebbe052ba32</guid>
+      <pubDate>Wed, 23 Aug 2023 12:38:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/315cc3c2-9895-43b8-b2db-3817d987d58b_0_ID192MP3.mp3" type="audio/mpeg" length="53978157"></enclosure>
+      <itunes:title>Valdebatt frå Vik</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Vik kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2249</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CjbMSf8T0mVR7iOQ_GwnPAEyka9PgliGRf3n9cdkBi5w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Vaksdal</title>
+      <link>https://radio.nrk.no/podkast/valg/l_8ef1adf0-de2d-4e50-b1ad-f0de2d5e5088</link>
+      <description>Debatten mellom listetoppane i Vaksdal kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_8ef1adf0-de2d-4e50-b1ad-f0de2d5e5088</guid>
+      <pubDate>Wed, 23 Aug 2023 12:37:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/badb2b2b-bc68-4d4a-9fb8-9ed97badd16d_0_ID192MP3.mp3" type="audio/mpeg" length="69549741"></enclosure>
+      <itunes:title>Valdebatt frå Vaksdal</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Vaksdal kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2897</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wB0yu-SHuloqvYPlssCj-gNCOtBSUBLBN7jjLqU3LM7g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Tysnes</title>
+      <link>https://radio.nrk.no/podkast/valg/l_268aabd4-3a4c-4ed8-8aab-d43a4c8ed83b</link>
+      <description>Debatten mellom listetoppane i Tysnes kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_268aabd4-3a4c-4ed8-8aab-d43a4c8ed83b</guid>
+      <pubDate>Wed, 23 Aug 2023 12:36:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/40cf1fbc-bc01-4617-81a5-510e039e0172_0_ID192MP3.mp3" type="audio/mpeg" length="67294701"></enclosure>
+      <itunes:title>Valdebatt frå Tysnes</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Tysnes kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2803</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TIF8mybEll8kFSVl-HZ_Qg9YheatjaVlqBS47r92VZqw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Sunnfjord</title>
+      <link>https://radio.nrk.no/podkast/valg/l_2d5ec260-f905-4c64-9ec2-60f9057c6421</link>
+      <description>Debatten mellom listetoppane i Sunnfjord kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_2d5ec260-f905-4c64-9ec2-60f9057c6421</guid>
+      <pubDate>Wed, 23 Aug 2023 12:35:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/c0b400b6-fd3b-42b4-9684-3e1b066d13d2_0_ID192MP3.mp3" type="audio/mpeg" length="88265709"></enclosure>
+      <itunes:title>Valdebatt frå Sunnfjord</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Sunnfjord kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>3677</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/o-KhkHLAHwWXr9EwNojvzwEjcJJSRWwrLSoKOtKpJkRg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Stryn</title>
+      <link>https://radio.nrk.no/podkast/valg/l_36fe146a-289e-4ca3-be14-6a289efca306</link>
+      <description>Debatten mellom listetoppane i Stryn kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_36fe146a-289e-4ca3-be14-6a289efca306</guid>
+      <pubDate>Wed, 23 Aug 2023 12:34:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/8e7397fa-011e-4cea-b873-3f0fa321269c_0_ID192MP3.mp3" type="audio/mpeg" length="69298605"></enclosure>
+      <itunes:title>Valdebatt frå Stryn</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Stryn kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2887</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bfWkzSy1YAvUr2k2yy6r7QPW_a2GANvcwCPd-fYVSY5Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Stad</title>
+      <link>https://radio.nrk.no/podkast/valg/l_b42d8001-cf84-411b-ad80-01cf84c11b06</link>
+      <description>Debatten mellom listetoppane i Stad kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_b42d8001-cf84-411b-ad80-01cf84c11b06</guid>
+      <pubDate>Wed, 23 Aug 2023 12:33:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/441e6ea5-4c2f-4cf0-a585-99a49f7c6b67_0_ID192MP3.mp3" type="audio/mpeg" length="84189357"></enclosure>
+      <itunes:title>Valdebatt frå Stad</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Stad kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>3507</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8dAMFB7iWGMyFlELucfPcgaxeBl7X2su0xuBqArV1nTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Solund</title>
+      <link>https://radio.nrk.no/podkast/valg/l_e9d6909f-a487-48ae-9690-9fa48728ae1f</link>
+      <description>Debatten mellom listetoppane i Solund kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_e9d6909f-a487-48ae-9690-9fa48728ae1f</guid>
+      <pubDate>Wed, 23 Aug 2023 12:32:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/68f2fed4-4dc5-4944-aaaf-26ab742cc2c1_0_ID192MP3.mp3" type="audio/mpeg" length="41177133"></enclosure>
+      <itunes:title>Valdebatt frå Solund</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Solund kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>1715</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FZGH4nZ8DmgSihzVFsjYYgFX2gIXgiNou30YpdtbZ2LA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Sogndal</title>
+      <link>https://radio.nrk.no/podkast/valg/l_7d005721-57fd-49a4-8057-2157fd69a43f</link>
+      <description>Debatten mellom listetoppane i Sogndal kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_7d005721-57fd-49a4-8057-2157fd69a43f</guid>
+      <pubDate>Wed, 23 Aug 2023 12:31:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/da3a2dac-e78d-4189-a2df-39946c7b14f0_0_ID192MP3.mp3" type="audio/mpeg" length="74630061"></enclosure>
+      <itunes:title>Valdebatt frå Sogndal</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Sogndal kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>3109</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/o_GpvResdd9z7An0rlNDFgINpmnr7QQFoFuIzouQqxbA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Samnanger</title>
+      <link>https://radio.nrk.no/podkast/valg/l_47d6a275-5172-4289-96a2-755172828940</link>
+      <description>Debatten mellom listetoppane i Samnanger kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_47d6a275-5172-4289-96a2-755172828940</guid>
+      <pubDate>Wed, 23 Aug 2023 12:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/4edef4ad-e768-4ffd-8453-5b2c976fef03_0_ID192MP3.mp3" type="audio/mpeg" length="62254125"></enclosure>
+      <itunes:title>Valdebatt frå Samnanger</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Samnanger kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2593</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6t-VP1erSAt6S5Z6qLwLdgLuFQYUhn12WW45i8JJzTkg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Osterøy</title>
+      <link>https://radio.nrk.no/podkast/valg/l_f28e11c7-6a99-4f6f-8e11-c76a995f6f9b</link>
+      <description>Debatten mellom listetoppane i Osterøy kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_f28e11c7-6a99-4f6f-8e11-c76a995f6f9b</guid>
+      <pubDate>Wed, 23 Aug 2023 12:29:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/99c36ddf-6f78-415b-9cb6-c51132d16c40_0_ID192MP3.mp3" type="audio/mpeg" length="69519789"></enclosure>
+      <itunes:title>Valdebatt frå Osterøy</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Osterøy kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2896</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/U0woTZBevRSVD5Tu2bAfmQheQPVpQnp6qy0S0RnKLCAA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Modalen</title>
+      <link>https://radio.nrk.no/podkast/valg/l_06ae10d6-fec1-4d92-ae10-d6fec1ad920c</link>
+      <description>Debatten mellom listetoppane i Modalen kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_06ae10d6-fec1-4d92-ae10-d6fec1ad920c</guid>
+      <pubDate>Wed, 23 Aug 2023 12:28:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/c675bbd9-4cb4-470e-b208-e3c512642920_0_ID192MP3.mp3" type="audio/mpeg" length="30098925"></enclosure>
+      <itunes:title>Valdebatt frå Modalen</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Modalen kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>1254</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/j9GgnzRmbVmtGCQlm7q4-AS9i5xB-36ryhsQDz5zlutA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Lærdal</title>
+      <link>https://radio.nrk.no/podkast/valg/l_e63204c1-a8e5-4582-b204-c1a8e585829d</link>
+      <description>Debatten mellom listetoppane i Lærdal kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_e63204c1-a8e5-4582-b204-c1a8e585829d</guid>
+      <pubDate>Wed, 23 Aug 2023 12:27:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/b3433152-f247-479b-8d1a-b9653c71bfd6_0_ID192MP3.mp3" type="audio/mpeg" length="46306413"></enclosure>
+      <itunes:title>Valdebatt frå Lærdal</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Lærdal kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>1929</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qr5ek6NNoWwFpR_mPt67YQ59czXL77Gfz0AEXFr4Kd-g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Luster</title>
+      <link>https://radio.nrk.no/podkast/valg/l_81454304-639e-4865-8543-04639e6865cf</link>
+      <description>Debatten mellom listetoppane i Luster kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_81454304-639e-4865-8543-04639e6865cf</guid>
+      <pubDate>Wed, 23 Aug 2023 12:26:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/c29da5f8-b579-49f7-9c7e-092b1ac8d40c_0_ID192MP3.mp3" type="audio/mpeg" length="64820781"></enclosure>
+      <itunes:title>Valdebatt frå Luster</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Luster kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2700</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Quvc03Gx-ET7DyGAJJFv6QTK6mayXme_lYk8FHNsmLEw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Kvam</title>
+      <link>https://radio.nrk.no/podkast/valg/l_b6098a81-6fcf-44d5-898a-816fcf24d56c</link>
+      <description>Debatten mellom listetoppane i Kvam herad blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_b6098a81-6fcf-44d5-898a-816fcf24d56c</guid>
+      <pubDate>Wed, 23 Aug 2023 12:25:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/75928e7f-9eba-4b76-94b0-2a6b54d874d2_0_ID192MP3.mp3" type="audio/mpeg" length="62986797"></enclosure>
+      <itunes:title>Valdebatt frå Kvam</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Kvam herad blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2624</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tEzTWs6s2kswBLqcBtD7vgh6BhGlE9abwse1LgWy2cIQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Kinn</title>
+      <link>https://radio.nrk.no/podkast/valg/l_50da6024-c16a-4468-9a60-24c16a54682b</link>
+      <description>Debatten mellom listetoppane i Kinn kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_50da6024-c16a-4468-9a60-24c16a54682b</guid>
+      <pubDate>Wed, 23 Aug 2023 12:24:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/09d8cce2-1613-476a-aa14-1b20515ee9a3_0_ID192MP3.mp3" type="audio/mpeg" length="85567725"></enclosure>
+      <itunes:title>Valdebatt frå Kinn</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Kinn kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>3565</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FW7a6TvSscycGwsETEVSLQSztpyZFjkh_opuB1LH1-fg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Høyanger</title>
+      <link>https://radio.nrk.no/podkast/valg/l_78b8c297-3c8a-427d-b8c2-973c8a227d76</link>
+      <description>Debatten mellom listetoppane i Høyanger kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_78b8c297-3c8a-427d-b8c2-973c8a227d76</guid>
+      <pubDate>Wed, 23 Aug 2023 12:23:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/1629e57b-c53e-45f3-8cac-f1281342ce60_0_ID192MP3.mp3" type="audio/mpeg" length="68699565"></enclosure>
+      <itunes:title>Valdebatt frå Høyanger</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Høyanger kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2862</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/we84jT6gFwAe7pFFPIaXqw4cOfisrZrIdJPIkdWwc8cA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Hyllestad</title>
+      <link>https://radio.nrk.no/podkast/valg/l_a2b452ee-fd6d-43bf-b452-eefd6df3bfa0</link>
+      <description>Debatten mellom listetoppane i Hyllestad kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_a2b452ee-fd6d-43bf-b452-eefd6df3bfa0</guid>
+      <pubDate>Wed, 23 Aug 2023 12:22:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/53376dfd-a076-4c81-9d23-f9d5fb685132_0_ID192MP3.mp3" type="audio/mpeg" length="43440237"></enclosure>
+      <itunes:title>Valdebatt frå Hyllestad</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Hyllestad kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>1809</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/euMgOLQRsq2PMQBqLe97GA6MXAQ40-VR_i18mHcTUemw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Gulen</title>
+      <link>https://radio.nrk.no/podkast/valg/l_d1e721ab-a8b7-4980-a721-aba8b729808b</link>
+      <description>Debatten mellom listetoppane i Gulen kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_d1e721ab-a8b7-4980-a721-aba8b729808b</guid>
+      <pubDate>Wed, 23 Aug 2023 12:21:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/5ee8e9f6-f265-4a35-bc39-aeb0a006bdb4_0_ID192MP3.mp3" type="audio/mpeg" length="48956589"></enclosure>
+      <itunes:title>Valdebatt frå Gulen</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Gulen kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2039</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Co2Hl9xo5VFSWWZsQDACrQJ3BhSTmd5f72wfIEgZlAng"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Gloppen</title>
+      <link>https://radio.nrk.no/podkast/valg/l_8c3cf828-fc5a-442b-bcf8-28fc5ac42b06</link>
+      <description>Debatten mellom listetoppane i Gloppen kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_8c3cf828-fc5a-442b-bcf8-28fc5ac42b06</guid>
+      <pubDate>Wed, 23 Aug 2023 12:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/f3a0a689-1ffe-4516-8135-0c1969e4cbcc_0_ID192MP3.mp3" type="audio/mpeg" length="74749293"></enclosure>
+      <itunes:title>Valdebatt frå Gloppen</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Gloppen kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>3114</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0-xCnYVvP2UXI0tz9MQMoQ1b4Jle7F-lB5cZFGA31sbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Fjaler</title>
+      <link>https://radio.nrk.no/podkast/valg/l_df0a6e4a-179a-4888-8a6e-4a179af8884a</link>
+      <description>Debatten mellom listetoppane i Fjaler kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_df0a6e4a-179a-4888-8a6e-4a179af8884a</guid>
+      <pubDate>Wed, 23 Aug 2023 12:19:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/5c8de127-2e35-4dd7-bf69-bfa366c1e19d_0_ID192MP3.mp3" type="audio/mpeg" length="57108141"></enclosure>
+      <itunes:title>Valdebatt frå Fjaler</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Fjaler kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2379</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mV073zaMXDUG84JAWdiYjQH0jVj3q2aZQjxkN7MmcV2w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Fedje</title>
+      <link>https://radio.nrk.no/podkast/valg/l_35b04cc1-2279-4ec2-b04c-c12279cec2ca</link>
+      <description>Debatten mellom listetoppane i Fedje kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_35b04cc1-2279-4ec2-b04c-c12279cec2ca</guid>
+      <pubDate>Wed, 23 Aug 2023 12:18:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/6db2e1a8-b51a-43c3-982e-96e1b6abb470_0_ID192MP3.mp3" type="audio/mpeg" length="36214893"></enclosure>
+      <itunes:title>Valdebatt frå Fedje</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Fedje kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>1508</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wPUS0ksr_Ee-hTJHb-ivDAItHKIzBIwXYlAsDHawa38A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Bremanger</title>
+      <link>https://radio.nrk.no/podkast/valg/l_0c8ef8e8-2db5-46ee-8ef8-e82db516ee9d</link>
+      <description>Debatten mellom listetoppane i Bremanger kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_0c8ef8e8-2db5-46ee-8ef8-e82db516ee9d</guid>
+      <pubDate>Wed, 23 Aug 2023 12:17:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/c831a238-93fb-482a-8862-c252ac601147_0_ID192MP3.mp3" type="audio/mpeg" length="54032877"></enclosure>
+      <itunes:title>Valdebatt frå Bremanger</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Bremanger kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2251</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tWuAUUE8dqO2wkuWNRN4HwtMuLYIxtT9pkxHGiR80few"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Bjørnafjorden</title>
+      <link>https://radio.nrk.no/podkast/valg/l_80301fab-aeaf-437f-b01f-abaeafe37fc8</link>
+      <description>Debatten mellom listetoppane i Bjørnafjorden kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_80301fab-aeaf-437f-b01f-abaeafe37fc8</guid>
+      <pubDate>Wed, 23 Aug 2023 12:16:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/7aa85633-ffba-4d32-bc00-28040353dc66_0_ID192MP3.mp3" type="audio/mpeg" length="94661613"></enclosure>
+      <itunes:title>Valdebatt frå Bjørnafjorden</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Bjørnafjorden kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>3944</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CIhDGKj9wix1JjdlKEbdcQClkcFx4Yq7AfNA2Srv7jbA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Austrheim</title>
+      <link>https://radio.nrk.no/podkast/valg/l_e4f5c8c3-f421-49dc-b5c8-c3f421e9dc41</link>
+      <description>Debatten mellom listetoppane i Austrheim kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_e4f5c8c3-f421-49dc-b5c8-c3f421e9dc41</guid>
+      <pubDate>Wed, 23 Aug 2023 12:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/2c5cc55b-0476-4513-8b5d-f258c5eb58e7_0_ID192MP3.mp3" type="audio/mpeg" length="56571885"></enclosure>
+      <itunes:title>Valdebatt frå Austrheim</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Austrheim kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2357</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/V0N9t38aBKG_u7lRuuhAcQ17FMuXiahGfWTDdYFSlcgg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Austevoll</title>
+      <link>https://radio.nrk.no/podkast/valg/l_ec3c95a8-16fc-45d2-bc95-a816fc15d263</link>
+      <description>Debatten mellom listetoppane i Austevoll kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_ec3c95a8-16fc-45d2-bc95-a816fc15d263</guid>
+      <pubDate>Wed, 23 Aug 2023 12:14:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/a075bc3c-123f-41ba-8178-3dfcfe77b551_0_ID192MP3.mp3" type="audio/mpeg" length="69677037"></enclosure>
+      <itunes:title>Valdebatt frå Austevoll</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Austevoll kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2903</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fufLj2MzejnTS5aaF20QZwg7Jbw5zjGqZRfR0bAkumFg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Aurland</title>
+      <link>https://radio.nrk.no/podkast/valg/l_2d85245c-259a-4b54-8524-5c259afb5494</link>
+      <description>Debatten mellom listetoppane i Aurland kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_2d85245c-259a-4b54-8524-5c259afb5494</guid>
+      <pubDate>Wed, 23 Aug 2023 12:13:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/5b2adeba-21c4-497f-b701-75bbf835df10_0_ID192MP3.mp3" type="audio/mpeg" length="60588333"></enclosure>
+      <itunes:title>Valdebatt frå Aurland</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Aurland kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2524</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/V-WCMlpBMDcHUNNkhdPiagrSsj4Fyh5YvZXCTKuMLRjg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Askøy</title>
+      <link>https://radio.nrk.no/podkast/valg/l_6651b413-21eb-42a1-91b4-1321ebb2a17c</link>
+      <description>Debatten mellom listetoppane i Askøy kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_6651b413-21eb-42a1-91b4-1321ebb2a17c</guid>
+      <pubDate>Wed, 23 Aug 2023 12:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/c1842466-5e7a-4d15-a23c-739a5563da02_0_ID192MP3.mp3" type="audio/mpeg" length="84394413"></enclosure>
+      <itunes:title>Valdebatt frå Askøy</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Askøy kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>3516</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xXuz83l3VDr6TUDWTbVZrwMCK--1ZESfw-Pf8s1cxUsw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Askvoll</title>
+      <link>https://radio.nrk.no/podkast/valg/l_2e57078d-ae57-49c6-9707-8dae57a9c6c1</link>
+      <description>Debatten mellom listetoppane i Askvoll kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_2e57078d-ae57-49c6-9707-8dae57a9c6c1</guid>
+      <pubDate>Wed, 23 Aug 2023 12:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/055eb625-6de3-48e0-8a2a-7054d9816ee8_0_ID192MP3.mp3" type="audio/mpeg" length="51154605"></enclosure>
+      <itunes:title>Valdebatt frå Askvoll</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Askvoll kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>2131</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/U25A8k-A7vZf9Te-KvBKrQGZMuVPXEeOfDDhUbRl_2lg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Valdebatt frå Alver</title>
+      <link>https://radio.nrk.no/podkast/valg/l_a118115d-0073-4026-9811-5d0073c02661</link>
+      <description>Debatten mellom listetoppane i Alver kommune blir leia av Oddgeir Øystese.</description>
+      <guid isPermaLink="false">l_a118115d-0073-4026-9811-5d0073c02661</guid>
+      <pubDate>Wed, 23 Aug 2023 12:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/cc386957-5ef6-4ff4-a53d-aadbc584641e_0_ID192MP3.mp3" type="audio/mpeg" length="94798701"></enclosure>
+      <itunes:title>Valdebatt frå Alver</itunes:title>
+      <itunes:summary>Debatten mellom listetoppane i Alver kommune blir leia av Oddgeir Øystese.</itunes:summary>
+      <itunes:duration>3949</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fJFe-co5CD5O7fxNAfp6wwIkKF8J_sOPUhkoD3NpcNbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ungdomsdebatt i Vestland</title>
+      <link>https://radio.nrk.no/podkast/valg/l_a82f032d-f12d-4842-af03-2df12da8428e</link>
+      <description>Valdebatt mellom ungdomskandidatane Elias Eide (Unge Høgre), Gaute Skjervø (AUF) og Tonje Såkvitne (Senterungdommen). Programleiar er Stian Sjursen Takle.</description>
+      <guid isPermaLink="false">l_a82f032d-f12d-4842-af03-2df12da8428e</guid>
+      <pubDate>Wed, 23 Aug 2023 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/2dc6a8dc-62ed-42e6-94c8-e18dd1f59356_0_ID192MP3.mp3" type="audio/mpeg" length="31640877"></enclosure>
+      <itunes:title>Ungdomsdebatt i Vestland</itunes:title>
+      <itunes:summary>Valdebatt mellom ungdomskandidatane Elias Eide (Unge Høgre), Gaute Skjervø (AUF) og Tonje Såkvitne (Senterungdommen). Programleiar er Stian Sjursen Takle.</itunes:summary>
+      <itunes:duration>1318</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WqRK7MVanScPsKUlm9yPGAWsb9D_-wJPUqU38gdh4jTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Utspørjing av Trude Brosvik (KrF)</title>
+      <link>https://radio.nrk.no/podkast/valg/l_a87d8e34-af4a-4c46-bd8e-34af4a3c4684</link>
+      <description>Trude Brosvik er Vestland KrF sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</description>
+      <guid isPermaLink="false">l_a87d8e34-af4a-4c46-bd8e-34af4a3c4684</guid>
+      <pubDate>Wed, 23 Aug 2023 11:55:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/4973288f-d0f9-42ba-9e1f-50b161afa41a_0_ID192MP3.mp3" type="audio/mpeg" length="33900525"></enclosure>
+      <itunes:title>Utspørjing av Trude Brosvik (KrF)</itunes:title>
+      <itunes:summary>Trude Brosvik er Vestland KrF sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</itunes:summary>
+      <itunes:duration>1412</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TeMORrxcKAaYKcUi3urrAQunOeFOGd8bmLzMPys1aIDw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Utspørjing av Terje Søviknes (Frp)</title>
+      <link>https://radio.nrk.no/podkast/valg/l_05dc4870-271f-4f12-9c48-70271f7f12df</link>
+      <description>Terje Søviknes er Vestland Frp sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</description>
+      <guid isPermaLink="false">l_05dc4870-271f-4f12-9c48-70271f7f12df</guid>
+      <pubDate>Wed, 23 Aug 2023 11:54:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/10f4a121-9ce4-4e5e-8e88-f77188a295d4_0_ID192MP3.mp3" type="audio/mpeg" length="34524909"></enclosure>
+      <itunes:title>Utspørjing av Terje Søviknes (Frp)</itunes:title>
+      <itunes:summary>Terje Søviknes er Vestland Frp sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</itunes:summary>
+      <itunes:duration>1438</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EsAun6XZ5_ThOPnYHPILDQD6vVZ4Csagsc9stzYkygBw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Utspørjing av Marthe Hammer (SV)</title>
+      <link>https://radio.nrk.no/podkast/valg/l_46cbae2d-4a32-4bcb-8bae-2d4a32fbcbb2</link>
+      <description>Marthe Hammer er Vestland SV sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</description>
+      <guid isPermaLink="false">l_46cbae2d-4a32-4bcb-8bae-2d4a32fbcbb2</guid>
+      <pubDate>Wed, 23 Aug 2023 11:53:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/b75a03b3-493b-482d-8216-de7938075c3d_0_ID192MP3.mp3" type="audio/mpeg" length="34231149"></enclosure>
+      <itunes:title>Utspørjing av Marthe Hammer (SV)</itunes:title>
+      <itunes:summary>Marthe Hammer er Vestland SV sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</itunes:summary>
+      <itunes:duration>1426</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/041cEsTtk683XM8ayp3RaQPbW7YQZPuOSSR8my3xRSnQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Utspørjing av Stian Davies (Ap)</title>
+      <link>https://radio.nrk.no/podkast/valg/l_6efe870b-ae4f-4de4-be87-0bae4f6de4c4</link>
+      <description>Stian Davies er Vestland Ap sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</description>
+      <guid isPermaLink="false">l_6efe870b-ae4f-4de4-be87-0bae4f6de4c4</guid>
+      <pubDate>Wed, 23 Aug 2023 11:52:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/e5bbe70f-7b25-4857-8fb2-ed7ffd53f39f_0_ID192MP3.mp3" type="audio/mpeg" length="35031789"></enclosure>
+      <itunes:title>Utspørjing av Stian Davies (Ap)</itunes:title>
+      <itunes:summary>Stian Davies er Vestland Ap sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</itunes:summary>
+      <itunes:duration>1459</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-CY8rVN57mYakm5t5RVm1AyfYoJeXF8_L2sNVv0i_h9Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Utspørjing av Nils-Anders Nøttseter (MDG)</title>
+      <link>https://radio.nrk.no/podkast/valg/l_d24d4701-4621-4e53-8d47-014621fe5366</link>
+      <description>Nils-Anders Nøttseter er Vestland MDG sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</description>
+      <guid isPermaLink="false">l_d24d4701-4621-4e53-8d47-014621fe5366</guid>
+      <pubDate>Wed, 23 Aug 2023 11:51:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/a74fb510-5f50-46ca-abd8-f59db8579a61_0_ID192MP3.mp3" type="audio/mpeg" length="35108973"></enclosure>
+      <itunes:title>Utspørjing av Nils-Anders Nøttseter (MDG)</itunes:title>
+      <itunes:summary>Nils-Anders Nøttseter er Vestland MDG sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</itunes:summary>
+      <itunes:duration>1462</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3iFpSbVu6OilhGLLNUqC0Au7Mzs27_e_F7t98uycwa4w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Utspørjing av Ann Jorun Hillersøy (INP)</title>
+      <link>https://radio.nrk.no/podkast/valg/l_4983f1b8-5f3e-4423-83f1-b85f3e74233a</link>
+      <description>Ann Jorun Hillersøy er Vestland INP (Industri- og næringspartiet) sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</description>
+      <guid isPermaLink="false">l_4983f1b8-5f3e-4423-83f1-b85f3e74233a</guid>
+      <pubDate>Wed, 23 Aug 2023 11:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/2eea3169-dbd6-4e8d-858b-2df700012db4_0_ID192MP3.mp3" type="audio/mpeg" length="33862509"></enclosure>
+      <itunes:title>Utspørjing av Ann Jorun Hillersøy (INP)</itunes:title>
+      <itunes:summary>Ann Jorun Hillersøy er Vestland INP (Industri- og næringspartiet) sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</itunes:summary>
+      <itunes:duration>1410</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pniIjT3a_JLeQ2okgvwzZQyr8qt2R2rriZE39KrTWIiA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Utspørjing av Silja Ekeland Bjørkly (H)</title>
+      <link>https://radio.nrk.no/podkast/valg/l_7bae35e9-dd9b-4b80-ae35-e9dd9b7b802e</link>
+      <description>Silja Ekeland Bjørkly er Vestland Høgre sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</description>
+      <guid isPermaLink="false">l_7bae35e9-dd9b-4b80-ae35-e9dd9b7b802e</guid>
+      <pubDate>Wed, 23 Aug 2023 11:49:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/37ea90f0-e002-46e0-96eb-c99cbadb1ec2_0_ID192MP3.mp3" type="audio/mpeg" length="34741485"></enclosure>
+      <itunes:title>Utspørjing av Silja Ekeland Bjørkly (H)</itunes:title>
+      <itunes:summary>Silja Ekeland Bjørkly er Vestland Høgre sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</itunes:summary>
+      <itunes:duration>1447</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nY5lI2F1da08bJBbS3RtAAkAKWh8_vIjZJX3KLKw08UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Utspørjing av Jon Askeland (Sp)</title>
+      <link>https://radio.nrk.no/podkast/valg/l_41a91dba-2868-4854-a91d-ba286858540b</link>
+      <description>Jon Askeland er Vestland Senterparti sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</description>
+      <guid isPermaLink="false">l_41a91dba-2868-4854-a91d-ba286858540b</guid>
+      <pubDate>Wed, 23 Aug 2023 11:48:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/e042b3e5-17c7-44b6-8860-0133460f19ff_0_ID192MP3.mp3" type="audio/mpeg" length="34054893"></enclosure>
+      <itunes:title>Utspørjing av Jon Askeland (Sp)</itunes:title>
+      <itunes:summary>Jon Askeland er Vestland Senterparti sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</itunes:summary>
+      <itunes:duration>1418</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PVxET9xE9xW607RR6is0rg-VH4qrtVJ9wuSlyvI4TzVg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Utspørjing av Åsta Årøen (V)</title>
+      <link>https://radio.nrk.no/podkast/valg/l_ab46adfa-acf9-4561-86ad-faacf9f561d3</link>
+      <description>Åsta Årøen er Vestland Venstre sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</description>
+      <guid isPermaLink="false">l_ab46adfa-acf9-4561-86ad-faacf9f561d3</guid>
+      <pubDate>Wed, 23 Aug 2023 11:47:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/67cb391d-bb00-4748-a66c-f40136cd621f_0_ID192MP3.mp3" type="audio/mpeg" length="35837037"></enclosure>
+      <itunes:title>Utspørjing av Åsta Årøen (V)</itunes:title>
+      <itunes:summary>Åsta Årøen er Vestland Venstre sin listetopp. Utspørjinga blir leia av Erlend Blaalid Oldeide.</itunes:summary>
+      <itunes:duration>1493</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4WNk8LpEoxE3aK2bci5I1APVNhrGKEGZ3hYRSH77yfzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Utspørjing av Jeanette Onarheim Syversen (R)</title>
+      <link>https://radio.nrk.no/podkast/valg/l_81bef828-d068-4750-bef8-28d068575026</link>
+      <description>Jeanette Onarheim Syversen er Raudt Vestland sin listetopp. Utspørjinga blir leia av Fredrik Johan Helland.</description>
+      <guid isPermaLink="false">l_81bef828-d068-4750-bef8-28d068575026</guid>
+      <pubDate>Wed, 23 Aug 2023 11:46:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/valg/c4ee0718-de5b-4fa4-8644-9864c2306623_0_ID192MP3.mp3" type="audio/mpeg" length="32912685"></enclosure>
+      <itunes:title>Utspørjing av Jeanette Onarheim Syversen (R)</itunes:title>
+      <itunes:summary>Jeanette Onarheim Syversen er Raudt Vestland sin listetopp. Utspørjinga blir leia av Fredrik Johan Helland.</itunes:summary>
+      <itunes:duration>1371</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UWvodzX381Zy4gEhJfC6wA1CRbl34swXbXm4L8N_k3Xw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vikinger</title>
+    <link>https://radio.nrk.no/podkast/vikinger</link>
+    <description>Serien som vekker vikingene til live. Dramatiserte fortellinger basert på Snorre Sturlassons udødelige historier.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Mon, 29 May 2023 04:01:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/vikinger.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Serien som vekker vikingene til live. Dramatiserte fortellinger basert på Snorre Sturlassons udødelige historier.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/M3xKXaVWQAm1ecAE-YfDRAH9RpEWv16hjM-HvfKIYCmw"></itunes:image>
+    <itunes:category text="Fiction"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/M3xKXaVWQAm1ecAE-YfDRAH9RpEWv16hjM-HvfKIYCmw</url>
+      <title>Vikinger</title>
+      <link>https://radio.nrk.no/podkast/vikinger</link>
+    </image>
+    <item>
+      <title>Harald Hardråde del 2:2</title>
+      <link>https://radio.nrk.no/podkast/vikinger/l_6b836b5f-934a-45ca-836b-5f934ab5cad6</link>
+      <description>Harald vender tilbake til Norge for å hevne sin brors død og gjenvinne tronen. Men i Norge er det nå brorens sønn, Magnus, som styrer landet.  &#xA;Forteller: Ola G. Furuseth. &#xA;Tjodolv:  Jan Martin Johnsen &#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig &#xA;Redaktør i NRK: Marianne Furevold-Boland</description>
+      <guid isPermaLink="false">l_6b836b5f-934a-45ca-836b-5f934ab5cad6</guid>
+      <pubDate>Mon, 29 May 2023 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vikinger/b7718b90-d78a-45d6-9775-627cc5ba26a9_0_ID192MP3.mp3" type="audio/mpeg" length="58178349"></enclosure>
+      <itunes:title>Harald Hardråde del 2:2</itunes:title>
+      <itunes:summary>Harald vender tilbake til Norge for å hevne sin brors død og gjenvinne tronen. Men i Norge er det nå brorens sønn, Magnus, som styrer landet.  &#xA;Forteller: Ola G. Furuseth. &#xA;Tjodolv:  Jan Martin Johnsen &#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig &#xA;Redaktør i NRK: Marianne Furevold-Boland</itunes:summary>
+      <itunes:duration>2424</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oKKx_QmQXg5quG_nHndxEAzFfi-XOenf7Ylq8FzCFlEQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Harald Hardråde del 1:2</title>
+      <link>https://radio.nrk.no/podkast/vikinger/l_48079059-670e-4796-8790-59670ef7962b</link>
+      <description>Harald Hardråde mister sin bror Olav i slaget på Stiklestad, og flykter med skalden Tjodolv. Målet er å én dag vende tilbake som Norges konge. &#xA;Forteller: Ola G. Furuseth. &#xA;Tjodolv:  Jan Martin Johnsen &#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig &#xA;Redaktør i NRK: Marianne Furevold-Boland&#xA;</description>
+      <guid isPermaLink="false">l_48079059-670e-4796-8790-59670ef7962b</guid>
+      <pubDate>Mon, 29 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vikinger/512a990f-c1c6-4460-80c1-a920e83562c2_0_ID192MP3.mp3" type="audio/mpeg" length="59403501"></enclosure>
+      <itunes:title>Harald Hardråde del 1:2</itunes:title>
+      <itunes:summary>Harald Hardråde mister sin bror Olav i slaget på Stiklestad, og flykter med skalden Tjodolv. Målet er å én dag vende tilbake som Norges konge. &#xA;Forteller: Ola G. Furuseth. &#xA;Tjodolv:  Jan Martin Johnsen &#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig &#xA;Redaktør i NRK: Marianne Furevold-Boland&#xA;</itunes:summary>
+      <itunes:duration>2475</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oKKx_QmQXg5quG_nHndxEAzFfi-XOenf7Ylq8FzCFlEQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ingegjerd Olofsdatter del 2:2</title>
+      <link>https://radio.nrk.no/podkast/vikinger/l_fe9ba9bf-5a3a-4770-9ba9-bf5a3ad7708f</link>
+      <description>Ingegjerd står ovenfor et vanskelig valg. Hun må velge mellom å følge sin far eller sitt eget hjerte og den norske kongen Olav Haraldsson.&#xA;Forteller: Ola G. Furuseth. &#xA;Ingegjerd: Kjersti Dalseide&#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye (BYY-E). &#xA;Oversettelse og regi: Marianne Sævig &#xA;Redaktør i NRK: Marianne Furevold-Boland&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_fe9ba9bf-5a3a-4770-9ba9-bf5a3ad7708f</guid>
+      <pubDate>Mon, 22 May 2023 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vikinger/1414b134-6fa8-4a4b-bbf5-26a313d057b3_0_ID192MP3.mp3" type="audio/mpeg" length="53272557"></enclosure>
+      <itunes:title>Ingegjerd Olofsdatter del 2:2</itunes:title>
+      <itunes:summary>Ingegjerd står ovenfor et vanskelig valg. Hun må velge mellom å følge sin far eller sitt eget hjerte og den norske kongen Olav Haraldsson.&#xA;Forteller: Ola G. Furuseth. &#xA;Ingegjerd: Kjersti Dalseide&#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye (BYY-E). &#xA;Oversettelse og regi: Marianne Sævig &#xA;Redaktør i NRK: Marianne Furevold-Boland&#xA;&#xA;</itunes:summary>
+      <itunes:duration>2219</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/O-GsU91EvoYum0Lk0yQ3UwOBJa9kox6VUamuGvuJm3Sg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ingegjerd Olofsdatter del 1:2</title>
+      <link>https://radio.nrk.no/podkast/vikinger/l_c35482e1-9929-4c4a-9482-e199294c4a43</link>
+      <description>Ingegjerd tvinges inn i et maktspill når hennes far, kongen av Sveariket, trues fra både kristendommens og åsatroens hold.  &#xA;Forteller: Ola G. Furuseth. &#xA;Ingegjerd: Kjersti Dalseide&#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig &#xA;Redaktør i NRK: Marianne Furevold-Boland&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_c35482e1-9929-4c4a-9482-e199294c4a43</guid>
+      <pubDate>Mon, 22 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vikinger/4683e96a-dede-4266-bde5-efa115e5c631_0_ID192MP3.mp3" type="audio/mpeg" length="55787949"></enclosure>
+      <itunes:title>Ingegjerd Olofsdatter del 1:2</itunes:title>
+      <itunes:summary>Ingegjerd tvinges inn i et maktspill når hennes far, kongen av Sveariket, trues fra både kristendommens og åsatroens hold.  &#xA;Forteller: Ola G. Furuseth. &#xA;Ingegjerd: Kjersti Dalseide&#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig &#xA;Redaktør i NRK: Marianne Furevold-Boland&#xA;&#xA;</itunes:summary>
+      <itunes:duration>2324</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/O-GsU91EvoYum0Lk0yQ3UwOBJa9kox6VUamuGvuJm3Sg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gudrid Thorbjørnsdatter del 2:2</title>
+      <link>https://radio.nrk.no/podkast/vikinger/l_6a2b71c5-1999-473e-ab71-c51999673e47</link>
+      <description>Thorstein overlever ikke den harde vinteren, men Gudrid hører Thorstein tale til henne – hun skal forfølge deres drøm om å seile til Vinland. &#xA;Forteller: Ola G. Furuseth. &#xA;Gudrid: Mari Dahl Sæther&#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig </description>
+      <guid isPermaLink="false">l_6a2b71c5-1999-473e-ab71-c51999673e47</guid>
+      <pubDate>Mon, 15 May 2023 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vikinger/44203830-4c3c-4aad-85dc-86e07b9a0a1f_0_ID192MP3.mp3" type="audio/mpeg" length="34405677"></enclosure>
+      <itunes:title>Gudrid Thorbjørnsdatter del 2:2</itunes:title>
+      <itunes:summary>Thorstein overlever ikke den harde vinteren, men Gudrid hører Thorstein tale til henne – hun skal forfølge deres drøm om å seile til Vinland. &#xA;Forteller: Ola G. Furuseth. &#xA;Gudrid: Mari Dahl Sæther&#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig </itunes:summary>
+      <itunes:duration>1433</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lFJAy6S00KgGsEji-mYdVQyGl3K-RzV0CGed3lwvB50g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gudrid Thorbjørnsdatter del 1:2</title>
+      <link>https://radio.nrk.no/podkast/vikinger/l_a0b5105a-87f2-41cc-b510-5a87f261ccbf</link>
+      <description>Gudrid seiler fra Island for å skape et nytt liv på Grønland. Hun gifter seg med Thorstein, men vinteren er hard og ektemannen blir alvorlig syk. &#xA;Forteller: Ola G. Furuseth. &#xA;Gudrid: Mari Dahl Sæther&#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig &#xA;Redaktør i NRK: Marianne Furevold-Boland&#xA;</description>
+      <guid isPermaLink="false">l_a0b5105a-87f2-41cc-b510-5a87f261ccbf</guid>
+      <pubDate>Mon, 15 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vikinger/bd8b3afe-72d0-4f66-a7be-9394b928deac_0_ID192MP3.mp3" type="audio/mpeg" length="47449197"></enclosure>
+      <itunes:title>Gudrid Thorbjørnsdatter del 1:2</itunes:title>
+      <itunes:summary>Gudrid seiler fra Island for å skape et nytt liv på Grønland. Hun gifter seg med Thorstein, men vinteren er hard og ektemannen blir alvorlig syk. &#xA;Forteller: Ola G. Furuseth. &#xA;Gudrid: Mari Dahl Sæther&#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig &#xA;Redaktør i NRK: Marianne Furevold-Boland&#xA;</itunes:summary>
+      <itunes:duration>1976</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lFJAy6S00KgGsEji-mYdVQyGl3K-RzV0CGed3lwvB50g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ragnar Lodbrok del 3:3</title>
+      <link>https://radio.nrk.no/podkast/vikinger/l_aab62af9-f5a3-417d-b62a-f9f5a3c17d45</link>
+      <description>Ragnar vil gifte seg på ny med kongsdatteren Ingeborg, men hans første kone Kråka spår ham en ond skjebne hvis han gjennomfører giftemålet. &#xA;Forteller: Ola G Furuseth&#xA;Ragnar: Morten Svartveit. &#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig&#xA;Redaktør i NRK: Marianne Furevold-Boland</description>
+      <guid isPermaLink="false">l_aab62af9-f5a3-417d-b62a-f9f5a3c17d45</guid>
+      <pubDate>Mon, 08 May 2023 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vikinger/9f0053b7-1429-4fdc-bb0d-f0af7d5c216f_0_ID192MP3.mp3" type="audio/mpeg" length="42469101"></enclosure>
+      <itunes:title>Ragnar Lodbrok del 3:3</itunes:title>
+      <itunes:summary>Ragnar vil gifte seg på ny med kongsdatteren Ingeborg, men hans første kone Kråka spår ham en ond skjebne hvis han gjennomfører giftemålet. &#xA;Forteller: Ola G Furuseth&#xA;Ragnar: Morten Svartveit. &#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig&#xA;Redaktør i NRK: Marianne Furevold-Boland</itunes:summary>
+      <itunes:duration>1769</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/shFJu1GgUSba0HcH3u-wigUT9aB2p97Sso32A2MVm8jQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ragnar Lodbrok del 2:3</title>
+      <link>https://radio.nrk.no/podkast/vikinger/l_5ca4fa56-e2ce-4918-a4fa-56e2cec9183f</link>
+      <description>Ragnar er utvalgt av krigsguden Odin, men da Ragnar sammen med sønnen Bjørn Jernside inntar Paris, viser det seg at Odin er en upålitelig alliert. &#xA;Forteller: Ola G Furuseth&#xA;Ragnar: Morten Svartveit. &#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig&#xA;Redaktør i NRK: Marianne Furevold-Boland</description>
+      <guid isPermaLink="false">l_5ca4fa56-e2ce-4918-a4fa-56e2cec9183f</guid>
+      <pubDate>Mon, 08 May 2023 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vikinger/bd3305fb-1a74-4452-bf0b-1802b589d8cb_0_ID192MP3.mp3" type="audio/mpeg" length="54572589"></enclosure>
+      <itunes:title>Ragnar Lodbrok del 2:3</itunes:title>
+      <itunes:summary>Ragnar er utvalgt av krigsguden Odin, men da Ragnar sammen med sønnen Bjørn Jernside inntar Paris, viser det seg at Odin er en upålitelig alliert. &#xA;Forteller: Ola G Furuseth&#xA;Ragnar: Morten Svartveit. &#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig&#xA;Redaktør i NRK: Marianne Furevold-Boland</itunes:summary>
+      <itunes:duration>2273</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/shFJu1GgUSba0HcH3u-wigUT9aB2p97Sso32A2MVm8jQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ragnar Lodbrok del 1:3</title>
+      <link>https://radio.nrk.no/podkast/vikinger/l_cb5abacf-d967-49dd-9aba-cfd967c9dd85</link>
+      <description>Ragnar drømmer om å bli en stor kriger, men tvinges på flukt. Da åpenbarer plutselig krigsguden Odin seg for ham. &#xA;Forteller: Ola G Furuseth&#xA;Ragnar: Morten Svartveit. &#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig&#xA;Redaktør i NRK: Marianne Furevold-Boland&#xA;</description>
+      <guid isPermaLink="false">l_cb5abacf-d967-49dd-9aba-cfd967c9dd85</guid>
+      <pubDate>Mon, 08 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vikinger/375721b0-a9dd-4a87-a209-989e34b36680_0_ID192MP3.mp3" type="audio/mpeg" length="45849069"></enclosure>
+      <itunes:title>Ragnar Lodbrok del 1:3</itunes:title>
+      <itunes:summary>Ragnar drømmer om å bli en stor kriger, men tvinges på flukt. Da åpenbarer plutselig krigsguden Odin seg for ham. &#xA;Forteller: Ola G Furuseth&#xA;Ragnar: Morten Svartveit. &#xA;Lyddesign: Hilde Rolfsnes. &#xA;Komponist Matti Bye &#xA;Oversettelse og regi: Marianne Sævig&#xA;Redaktør i NRK: Marianne Furevold-Boland&#xA;</itunes:summary>
+      <itunes:duration>1910</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/shFJu1GgUSba0HcH3u-wigUT9aB2p97Sso32A2MVm8jQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

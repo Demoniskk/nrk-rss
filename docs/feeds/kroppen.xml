@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kroppen</title>
+    <link>https://radio.nrk.no/podkast/kroppen</link>
+    <description>Trond-Viggo Torgersen i samtale om kroppen fra Litteraturhuset i Bergen</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Thu, 12 Jul 2018 13:13:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kroppen.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Trond-Viggo Torgersen i samtale om kroppen fra Litteraturhuset i Bergen</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ</url>
+      <title>Kroppen</title>
+      <link>https://radio.nrk.no/podkast/kroppen</link>
+    </image>
+    <item>
+      <title>Innvandrerhelse</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_38a09587-a3f1-4ce7-a095-87a3f1fce793</link>
+      <description>Innvandrere blir mindre syke enn etnisk norske, men er det noen forskjell på hva man blir syk av. Hør Trond-Viggo Torgersen i samtale med forsker Esperanza Diaz om innvandrerhelse. </description>
+      <guid isPermaLink="false">l_38a09587-a3f1-4ce7-a095-87a3f1fce793</guid>
+      <pubDate>Thu, 12 Jul 2018 15:13:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2018-07-12_1313_330.MP3" type="audio/mpeg" length="89102851"></enclosure>
+      <itunes:title>Innvandrerhelse</itunes:title>
+      <itunes:summary>Innvandrere blir mindre syke enn etnisk norske, men er det noen forskjell på hva man blir syk av. Hør Trond-Viggo Torgersen i samtale med forsker Esperanza Diaz om innvandrerhelse. </itunes:summary>
+      <itunes:duration>3708</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2018">201807</podcast:season>
+    </item>
+    <item>
+      <title>Transpersoner</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_dbb7576f-2427-4a25-b757-6f2427ba252a</link>
+      <description>Hva betyr det å være en transperson. Hør Trond-Viggo Torgersen i samtale med forsker Kari Jegerstedt om personer som bryter med de tradisjonelle kjønnsdefinisjonene.</description>
+      <guid isPermaLink="false">l_dbb7576f-2427-4a25-b757-6f2427ba252a</guid>
+      <pubDate>Thu, 12 Jul 2018 14:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2018-07-12_1211_62.MP3" type="audio/mpeg" length="84085460"></enclosure>
+      <itunes:title>Transpersoner</itunes:title>
+      <itunes:summary>Hva betyr det å være en transperson. Hør Trond-Viggo Torgersen i samtale med forsker Kari Jegerstedt om personer som bryter med de tradisjonelle kjønnsdefinisjonene.</itunes:summary>
+      <itunes:duration>3499</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2018">201807</podcast:season>
+    </item>
+    <item>
+      <title>Syk av jobben</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_9403a339-af1d-4dfa-83a3-39af1d9dfafd</link>
+      <description>Hvordan blir vi påvirket av stress, muskelspenninger, arbeidstid og luftkvalitet, og hvem har ansvaret for at slikt ikke skal påvirke oss negativt? Hør Trond-Viggo Torgersen i samtale fra Litteraturhuset i Bergen med lege Ole Jacob Møllerløkken om hvor mye jobben skal legge til rette. </description>
+      <guid isPermaLink="false">l_9403a339-af1d-4dfa-83a3-39af1d9dfafd</guid>
+      <pubDate>Thu, 12 Jul 2018 13:07:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2018-07-12_1107_811.MP3" type="audio/mpeg" length="91449483"></enclosure>
+      <itunes:title>Syk av jobben</itunes:title>
+      <itunes:summary>Hvordan blir vi påvirket av stress, muskelspenninger, arbeidstid og luftkvalitet, og hvem har ansvaret for at slikt ikke skal påvirke oss negativt? Hør Trond-Viggo Torgersen i samtale fra Litteraturhuset i Bergen med lege Ole Jacob Møllerløkken om hvor mye jobben skal legge til rette. </itunes:summary>
+      <itunes:duration>3806</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2018">201807</podcast:season>
+    </item>
+    <item>
+      <title>Syke barn</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_9a6a23b0-fcc1-4da7-aa23-b0fcc13da77f</link>
+      <description>Syke barn er ikke som syke voksne, og hvilke sykdommer rammes barn av? Hør Trond-Viggo Torgersen i samtale fra Litteraturhuset i Bergen med lege Asle Hirth om sykdommer som blir verre med alderen og hva man vokser av seg. </description>
+      <guid isPermaLink="false">l_9a6a23b0-fcc1-4da7-aa23-b0fcc13da77f</guid>
+      <pubDate>Thu, 05 Jul 2018 18:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2018-07-05_1606_2735.MP3" type="audio/mpeg" length="88145509"></enclosure>
+      <itunes:title>Syke barn</itunes:title>
+      <itunes:summary>Syke barn er ikke som syke voksne, og hvilke sykdommer rammes barn av? Hør Trond-Viggo Torgersen i samtale fra Litteraturhuset i Bergen med lege Asle Hirth om sykdommer som blir verre med alderen og hva man vokser av seg. </itunes:summary>
+      <itunes:duration>3668</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2018">201807</podcast:season>
+    </item>
+    <item>
+      <title>Sporty og makelig</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_17208669-5caa-4d00-a086-695caa7d0036</link>
+      <description>Har avstanden mellom de trente og de inaktive blitt større? Og hvor går grensen for overtrening, og når blir inaktivitet farlig? Hør Trond-Viggo Torgersen i samtale fra Litteraturhuset i Bergen med lege Thomas Mildestvedt. </description>
+      <guid isPermaLink="false">l_17208669-5caa-4d00-a086-695caa7d0036</guid>
+      <pubDate>Thu, 05 Jul 2018 16:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2018-07-05_1404_232.MP3" type="audio/mpeg" length="80063025"></enclosure>
+      <itunes:title>Sporty og makelig</itunes:title>
+      <itunes:summary>Har avstanden mellom de trente og de inaktive blitt større? Og hvor går grensen for overtrening, og når blir inaktivitet farlig? Hør Trond-Viggo Torgersen i samtale fra Litteraturhuset i Bergen med lege Thomas Mildestvedt. </itunes:summary>
+      <itunes:duration>3332</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2018">201807</podcast:season>
+    </item>
+    <item>
+      <title>Eldre og demens</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_d8ad8a61-e5bc-409d-ad8a-61e5bc309d57</link>
+      <description>Hvor glemsom er det vanlig å bli når man blir eldre, og hvor går grensene mellom glemsomhet og demens? Hør Trond-Viggo Torgersen i samtale på Litteraturhuset i Bergen med lege Bettina Husebø om sykdommer som rammer de eldste i samfunnet.</description>
+      <guid isPermaLink="false">l_d8ad8a61-e5bc-409d-ad8a-61e5bc309d57</guid>
+      <pubDate>Thu, 05 Jul 2018 14:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2018-07-05_1201_2259.MP3" type="audio/mpeg" length="83082355"></enclosure>
+      <itunes:title>Eldre og demens</itunes:title>
+      <itunes:summary>Hvor glemsom er det vanlig å bli når man blir eldre, og hvor går grensene mellom glemsomhet og demens? Hør Trond-Viggo Torgersen i samtale på Litteraturhuset i Bergen med lege Bettina Husebø om sykdommer som rammer de eldste i samfunnet.</itunes:summary>
+      <itunes:duration>3457</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2018">201807</podcast:season>
+    </item>
+    <item>
+      <title>Psyke barn</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_1a6da6f5-d7db-4623-ada6-f5d7dbc62371</link>
+      <description>Kan traumatiske opplevelser hos barn gi sykdommer som voksen, og hvordan er barns psyke annerledes enn voksne? Hør Trond-Viggo Torgersen i samtale fra Litteraturhuset i Bergen med psykiater Paul Joachim Bloch Thorsen. &#xA;</description>
+      <guid isPermaLink="false">l_1a6da6f5-d7db-4623-ada6-f5d7dbc62371</guid>
+      <pubDate>Thu, 05 Jul 2018 12:57:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2018-07-05_1057_2912.MP3" type="audio/mpeg" length="92737206"></enclosure>
+      <itunes:title>Psyke barn</itunes:title>
+      <itunes:summary>Kan traumatiske opplevelser hos barn gi sykdommer som voksen, og hvordan er barns psyke annerledes enn voksne? Hør Trond-Viggo Torgersen i samtale fra Litteraturhuset i Bergen med psykiater Paul Joachim Bloch Thorsen. &#xA;</itunes:summary>
+      <itunes:duration>3860</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2018">201807</podcast:season>
+    </item>
+    <item>
+      <title>Kan ikke få barn</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_b36fbdd7-7f08-4820-afbd-d77f082820cc</link>
+      <description>Er det en menneskerett å få barn? Ikke alle kan få barn på naturlig vis. Hva kan det komme av? Hør Trond-Viggo Torgersen i samtale på Litteraturhuset i Bergen med lege Martha Gunn Eide. </description>
+      <guid isPermaLink="false">l_b36fbdd7-7f08-4820-afbd-d77f082820cc</guid>
+      <pubDate>Mon, 25 Jun 2018 13:28:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2018-06-25_1128_710.MP3" type="audio/mpeg" length="78666200"></enclosure>
+      <itunes:title>Kan ikke få barn</itunes:title>
+      <itunes:summary>Er det en menneskerett å få barn? Ikke alle kan få barn på naturlig vis. Hva kan det komme av? Hør Trond-Viggo Torgersen i samtale på Litteraturhuset i Bergen med lege Martha Gunn Eide. </itunes:summary>
+      <itunes:duration>3273</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2018">201806</podcast:season>
+    </item>
+    <item>
+      <title>Det perfekte menneske</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_0b56f49e-64bc-4a76-96f4-9e64bc6a7637</link>
+      <description>Endres synet på hva som er det perfekte menneske? I så fall - hva bør vi gjøre for å nærme oss idealet? Hør Trond-Viggo Torgersen i samtale med filosof Espen Gamlund på Litteraturhuset i Bergen om vi er nærmere det perfekte nå enn for 100 år siden. </description>
+      <guid isPermaLink="false">l_0b56f49e-64bc-4a76-96f4-9e64bc6a7637</guid>
+      <pubDate>Mon, 25 Jun 2018 13:25:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2018-06-25_1125_94.MP3" type="audio/mpeg" length="84230921"></enclosure>
+      <itunes:title>Det perfekte menneske</itunes:title>
+      <itunes:summary>Endres synet på hva som er det perfekte menneske? I så fall - hva bør vi gjøre for å nærme oss idealet? Hør Trond-Viggo Torgersen i samtale med filosof Espen Gamlund på Litteraturhuset i Bergen om vi er nærmere det perfekte nå enn for 100 år siden. </itunes:summary>
+      <itunes:duration>3505</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2018">201806</podcast:season>
+    </item>
+    <item>
+      <title>Plastikkirurgi</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_c94cad65-2645-4ef4-8cad-6526452ef460</link>
+      <description>Det er vanligere å endre på utsende. For noe er endringen helt nødvendig, mens noe endringer er det mange vil kalle &#34;pynting&#34;. Hør Trond-Viggo Torgersen i samtale på Litteraturhuset i Bergen med lege Svein Arthur Jensen om hva leger anbefaler å fikse på, og hva de ikke anbefaler.</description>
+      <guid isPermaLink="false">l_c94cad65-2645-4ef4-8cad-6526452ef460</guid>
+      <pubDate>Tue, 19 Jun 2018 09:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2018-06-19_0710_714.MP3" type="audio/mpeg" length="92458853"></enclosure>
+      <itunes:title>Plastikkirurgi</itunes:title>
+      <itunes:summary>Det er vanligere å endre på utsende. For noe er endringen helt nødvendig, mens noe endringer er det mange vil kalle &#34;pynting&#34;. Hør Trond-Viggo Torgersen i samtale på Litteraturhuset i Bergen med lege Svein Arthur Jensen om hva leger anbefaler å fikse på, og hva de ikke anbefaler.</itunes:summary>
+      <itunes:duration>3848</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2018">201806</podcast:season>
+    </item>
+    <item>
+      <title>Matallergi og intoleranse</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_d412de34-e4f4-4068-92de-34e4f4e06807</link>
+      <description>Det kan virke som vi tåler færre mattyper, og at glutenallergikere øker. Hør Trond-Viggo Torgersen i samtale med lege Sverre Litleskare om tarmens følsomhet. </description>
+      <guid isPermaLink="false">l_d412de34-e4f4-4068-92de-34e4f4e06807</guid>
+      <pubDate>Tue, 19 Jun 2018 08:37:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2018-06-19_0637_700.MP3" type="audio/mpeg" length="98751445"></enclosure>
+      <itunes:title>Matallergi og intoleranse</itunes:title>
+      <itunes:summary>Det kan virke som vi tåler færre mattyper, og at glutenallergikere øker. Hør Trond-Viggo Torgersen i samtale med lege Sverre Litleskare om tarmens følsomhet. </itunes:summary>
+      <itunes:duration>4110</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2018">201806</podcast:season>
+    </item>
+    <item>
+      <title>Psyke ungdommer</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_086865f9-541a-43d0-a865-f9541a13d029</link>
+      <description>Kan dagens press og stress påføre ungdommer psykisk lidelse? Hva er egentlig psykose, og hva skal de voksne gjøre? Hør psykolog Else Marie Løberg i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om psyke ungdommer.  &#xA;&#xA;</description>
+      <guid isPermaLink="false">l_086865f9-541a-43d0-a865-f9541a13d029</guid>
+      <pubDate>Wed, 12 Jul 2017 10:37:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2017-07-12_0837_722.MP3" type="audio/mpeg" length="82573924"></enclosure>
+      <itunes:title>Psyke ungdommer</itunes:title>
+      <itunes:summary>Kan dagens press og stress påføre ungdommer psykisk lidelse? Hva er egentlig psykose, og hva skal de voksne gjøre? Hør psykolog Else Marie Løberg i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om psyke ungdommer.  &#xA;&#xA;</itunes:summary>
+      <itunes:duration>3436</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2017">201707</podcast:season>
+    </item>
+    <item>
+      <title>Sorg</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_8c71cdf2-1c68-449b-b1cd-f21c68449bf2</link>
+      <description>Kan vi sørge oss syke, kan det kjennes som fysisk smerte og hva skal vi si til en som sørger? Hør psykolog Atle Dyregrov i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om sorg.     </description>
+      <guid isPermaLink="false">l_8c71cdf2-1c68-449b-b1cd-f21c68449bf2</guid>
+      <pubDate>Mon, 10 Jul 2017 10:36:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2017-07-10_0836_4054.MP3" type="audio/mpeg" length="91762313"></enclosure>
+      <itunes:title>Sorg</itunes:title>
+      <itunes:summary>Kan vi sørge oss syke, kan det kjennes som fysisk smerte og hva skal vi si til en som sørger? Hør psykolog Atle Dyregrov i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om sorg.     </itunes:summary>
+      <itunes:duration>3819</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2017">201707</podcast:season>
+    </item>
+    <item>
+      <title>Det å bli eldre</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_64cf6eb0-9a16-47e6-8f6e-b09a1657e612</link>
+      <description>Hvordan få den optimale alderdom, og hvor tidlig bør man forberede seg praktisk på at man blir gammel? Hør lege Astrid Nøklebye Heiberg i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om det å bli eldre.</description>
+      <guid isPermaLink="false">l_64cf6eb0-9a16-47e6-8f6e-b09a1657e612</guid>
+      <pubDate>Wed, 05 Jul 2017 10:34:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2017-07-05_0834_3255.MP3" type="audio/mpeg" length="89644539"></enclosure>
+      <itunes:title>Det å bli eldre</itunes:title>
+      <itunes:summary>Hvordan få den optimale alderdom, og hvor tidlig bør man forberede seg praktisk på at man blir gammel? Hør lege Astrid Nøklebye Heiberg i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om det å bli eldre.</itunes:summary>
+      <itunes:duration>3731</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2017">201707</podcast:season>
+    </item>
+    <item>
+      <title>Hjerneinfarkt</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_4ddded52-125f-4ef3-9ded-52125f6ef3a7</link>
+      <description>Hva er forskjellen på infarkt og blødning, hva skjer om vi rammes, og hva kan vi gjøre for å unngå det? Hør lege Karsten Specht i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om hjerneinfarkt.</description>
+      <guid isPermaLink="false">l_4ddded52-125f-4ef3-9ded-52125f6ef3a7</guid>
+      <pubDate>Tue, 04 Jul 2017 10:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2017-07-04_0845_2676.MP3" type="audio/mpeg" length="82062322"></enclosure>
+      <itunes:title>Hjerneinfarkt</itunes:title>
+      <itunes:summary>Hva er forskjellen på infarkt og blødning, hva skjer om vi rammes, og hva kan vi gjøre for å unngå det? Hør lege Karsten Specht i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om hjerneinfarkt.</itunes:summary>
+      <itunes:duration>3415</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2017">201707</podcast:season>
+    </item>
+    <item>
+      <title>Hjertesykdommer</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_7d640d45-e20f-4af7-a40d-45e20ffaf7e3</link>
+      <description>Hjertesykdom skyldes forandringer i hjertet og/eller hjertets egne blodkar. Sykdommen kan være medfødt, og den kan komme som følge av andre sykdommer. Hør lege Hans Rune Fanebust i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om hjertesykdommer. </description>
+      <guid isPermaLink="false">l_7d640d45-e20f-4af7-a40d-45e20ffaf7e3</guid>
+      <pubDate>Wed, 28 Jun 2017 14:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2017-06-28_1240_1907.MP3" type="audio/mpeg" length="87456520"></enclosure>
+      <itunes:title>Hjertesykdommer</itunes:title>
+      <itunes:summary>Hjertesykdom skyldes forandringer i hjertet og/eller hjertets egne blodkar. Sykdommen kan være medfødt, og den kan komme som følge av andre sykdommer. Hør lege Hans Rune Fanebust i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om hjertesykdommer. </itunes:summary>
+      <itunes:duration>3640</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2017">201706</podcast:season>
+    </item>
+    <item>
+      <title>Diabetes</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_d4bb568a-3ed8-48a8-bb56-8a3ed8f8a808</link>
+      <description>Er diabetes mer vanlig nå enn tidligere, hva er forskjellen på type 1 og 2, og kan man bli helt frisk fra det? Hør lege Jørn Sagen i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om diabetes.  </description>
+      <guid isPermaLink="false">l_d4bb568a-3ed8-48a8-bb56-8a3ed8f8a808</guid>
+      <pubDate>Mon, 26 Jun 2017 15:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2017-06-26_1315_4.MP3" type="audio/mpeg" length="80325696"></enclosure>
+      <itunes:title>Diabetes</itunes:title>
+      <itunes:summary>Er diabetes mer vanlig nå enn tidligere, hva er forskjellen på type 1 og 2, og kan man bli helt frisk fra det? Hør lege Jørn Sagen i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om diabetes.  </itunes:summary>
+      <itunes:duration>3343</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2017">201706</podcast:season>
+    </item>
+    <item>
+      <title>Selvmedisinering</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_46fd6801-5cf8-4a37-bd68-015cf89a3729</link>
+      <description>Hva skjer når vi blander forskjellige reseptfrie medisiner, og kan du låne tabletter av naboen? Hør farmasøyt Gunvor Johnsen i samtale fra Litteraturhuset i Bergen med Trond-Viggo Torgersen om selvmedisinering.  </description>
+      <guid isPermaLink="false">l_46fd6801-5cf8-4a37-bd68-015cf89a3729</guid>
+      <pubDate>Wed, 21 Jun 2017 12:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2017-06-21_1001_653.MP3" type="audio/mpeg" length="86212044"></enclosure>
+      <itunes:title>Selvmedisinering</itunes:title>
+      <itunes:summary>Hva skjer når vi blander forskjellige reseptfrie medisiner, og kan du låne tabletter av naboen? Hør farmasøyt Gunvor Johnsen i samtale fra Litteraturhuset i Bergen med Trond-Viggo Torgersen om selvmedisinering.  </itunes:summary>
+      <itunes:duration>3588</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2017">201706</podcast:season>
+    </item>
+    <item>
+      <title>Vondt i ryggen</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_1b9ca32a-42ba-4e2e-9ca3-2a42baee2e40</link>
+      <description>Hvorfor har så mange vondt i ryggen, og hva skal vi gjøre når smertene kommer? Hør kiropraktor Steinar Forshei i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om hvordan ryggen er bygd opp og hva dette &#34;klikket&#34; er. </description>
+      <guid isPermaLink="false">l_1b9ca32a-42ba-4e2e-9ca3-2a42baee2e40</guid>
+      <pubDate>Mon, 19 Jun 2017 12:27:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2017-06-19_1027_1429.MP3" type="audio/mpeg" length="85687292"></enclosure>
+      <itunes:title>Vondt i ryggen</itunes:title>
+      <itunes:summary>Hvorfor har så mange vondt i ryggen, og hva skal vi gjøre når smertene kommer? Hør kiropraktor Steinar Forshei i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om hvordan ryggen er bygd opp og hva dette &#34;klikket&#34; er. </itunes:summary>
+      <itunes:duration>3566</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2017">201706</podcast:season>
+    </item>
+    <item>
+      <title>Søvn og depresjon</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_4942db43-d857-4197-82db-43d857b197b9</link>
+      <description>Er det en sammenheng mellom søvn, døgnrytme og depresjon? Hør forsker Janne Grønli i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om søvnens vidunderlighet, og hvordan den påvirkes av lyset.</description>
+      <guid isPermaLink="false">l_4942db43-d857-4197-82db-43d857b197b9</guid>
+      <pubDate>Thu, 15 Jun 2017 14:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2017-06-15_1215_549.MP3" type="audio/mpeg" length="80883696"></enclosure>
+      <itunes:title>Søvn og depresjon</itunes:title>
+      <itunes:summary>Er det en sammenheng mellom søvn, døgnrytme og depresjon? Hør forsker Janne Grønli i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om søvnens vidunderlighet, og hvordan den påvirkes av lyset.</itunes:summary>
+      <itunes:duration>3366</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2017">201706</podcast:season>
+    </item>
+    <item>
+      <title>Hypokondri</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_6874a289-5a27-47cc-b4a2-895a27c7ccc0</link>
+      <description>Hypokondri er en sykdom der folk føler de har en sykdom de i realiteten ikke har. Hør psykiater Ingvard Wilhelmsen i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om hvorfor noen mennesker ikke klarer å kontrollere angsten og blir hypokondere. </description>
+      <guid isPermaLink="false">l_6874a289-5a27-47cc-b4a2-895a27c7ccc0</guid>
+      <pubDate>Mon, 12 Jun 2017 15:51:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2017-06-12_1351_3472.MP3" type="audio/mpeg" length="82466085"></enclosure>
+      <itunes:title>Hypokondri</itunes:title>
+      <itunes:summary>Hypokondri er en sykdom der folk føler de har en sykdom de i realiteten ikke har. Hør psykiater Ingvard Wilhelmsen i samtale på Litteraturhuset i Bergen med Trond-Viggo Torgersen om hvorfor noen mennesker ikke klarer å kontrollere angsten og blir hypokondere. </itunes:summary>
+      <itunes:duration>3432</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2017">201706</podcast:season>
+    </item>
+    <item>
+      <title>Kreft</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_9f9aac93-74c6-48b1-9aac-9374c658b165</link>
+      <description>Dør vi med eller av kreft? Er man pasient for resten av livet når man får kreft? Er kreft en ulykke eller en forbigående sykdom? Kan man egentlig bli helt frisk fra kreft? Hør Trond-Viggo Torgersen i samtale med lege Olav Dahl.</description>
+      <guid isPermaLink="false">l_9f9aac93-74c6-48b1-9aac-9374c658b165</guid>
+      <pubDate>Thu, 11 Aug 2016 10:56:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2016-8-11_856_2578.MP3" type="audio/mpeg" length="55714923"></enclosure>
+      <itunes:title>Kreft</itunes:title>
+      <itunes:summary>Dør vi med eller av kreft? Er man pasient for resten av livet når man får kreft? Er kreft en ulykke eller en forbigående sykdom? Kan man egentlig bli helt frisk fra kreft? Hør Trond-Viggo Torgersen i samtale med lege Olav Dahl.</itunes:summary>
+      <itunes:duration>3482</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2016">201608</podcast:season>
+    </item>
+    <item>
+      <title>Døden</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_95341227-ff82-404d-b412-27ff82b04d76</link>
+      <description>Døden er livets punktum. De fleste av oss liker ikke å tenke på døden. Hva kan man gjøre som pårørende ved voldsom eller uventet dødsfall for å lindre sorgen? Finnes det gode råd til dem som har døende blant nære venner? </description>
+      <guid isPermaLink="false">l_95341227-ff82-404d-b412-27ff82b04d76</guid>
+      <pubDate>Thu, 04 Aug 2016 13:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2016-8-4_1120_3726.MP3" type="audio/mpeg" length="52501652"></enclosure>
+      <itunes:title>Døden</itunes:title>
+      <itunes:summary>Døden er livets punktum. De fleste av oss liker ikke å tenke på døden. Hva kan man gjøre som pårørende ved voldsom eller uventet dødsfall for å lindre sorgen? Finnes det gode råd til dem som har døende blant nære venner? </itunes:summary>
+      <itunes:duration>3281</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2016">201608</podcast:season>
+    </item>
+    <item>
+      <title>Depresjon</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_3e4ada6d-4740-4e40-8ada-6d47406e4021</link>
+      <description>Hvorfor blir vi deprimerte? Hvordan skal man komme seg ut av det?&#xA;Trond-Viggo Torgersen i samtale med Anders Lund om det å være deprimert.</description>
+      <guid isPermaLink="false">l_3e4ada6d-4740-4e40-8ada-6d47406e4021</guid>
+      <pubDate>Thu, 28 Jul 2016 10:31:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2016-7-28_831_139.MP3" type="audio/mpeg" length="58067197"></enclosure>
+      <itunes:title>Depresjon</itunes:title>
+      <itunes:summary>Hvorfor blir vi deprimerte? Hvordan skal man komme seg ut av det?&#xA;Trond-Viggo Torgersen i samtale med Anders Lund om det å være deprimert.</itunes:summary>
+      <itunes:duration>3629</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2016">201607</podcast:season>
+    </item>
+    <item>
+      <title>Antibiotika</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_75903a4b-9fd7-4595-903a-4b9fd79595a9</link>
+      <description>Når er det nødvendig å bruke antibiotika? Hva kan vi gjøre selv for å minske faren for antibiotikaresistens og hva kan gjøres på verdensbasis? Hør Trond-Viggo Torgersen i samtale med lege Ulf Dahle.</description>
+      <guid isPermaLink="false">l_75903a4b-9fd7-4595-903a-4b9fd79595a9</guid>
+      <pubDate>Thu, 21 Jul 2016 10:52:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2016-7-21_852_1206.MP3" type="audio/mpeg" length="55534364"></enclosure>
+      <itunes:title>Antibiotika</itunes:title>
+      <itunes:summary>Når er det nødvendig å bruke antibiotika? Hva kan vi gjøre selv for å minske faren for antibiotikaresistens og hva kan gjøres på verdensbasis? Hør Trond-Viggo Torgersen i samtale med lege Ulf Dahle.</itunes:summary>
+      <itunes:duration>3470</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2016">201607</podcast:season>
+    </item>
+    <item>
+      <title>Vaksinering</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_376b313d-2a98-4d03-ab31-3d2a98bd031e</link>
+      <description>Hvordan virker vaksiner? Hva kan være bivirkninger og hvor vanlige er de? Hvorfor vaksineres vi mot sykdommer vi ikke lenger har i Norge, og hvorfor sier vi at det er solidarisk å vaksinere seg? Hør Trond-Viggo Torgersen i samtale med lege Margrethe Greve-Isdahl.</description>
+      <guid isPermaLink="false">l_376b313d-2a98-4d03-ab31-3d2a98bd031e</guid>
+      <pubDate>Thu, 14 Jul 2016 09:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2016-7-14_750_789.MP3" type="audio/mpeg" length="54120826"></enclosure>
+      <itunes:title>Vaksinering</itunes:title>
+      <itunes:summary>Hvordan virker vaksiner? Hva kan være bivirkninger og hvor vanlige er de? Hvorfor vaksineres vi mot sykdommer vi ikke lenger har i Norge, og hvorfor sier vi at det er solidarisk å vaksinere seg? Hør Trond-Viggo Torgersen i samtale med lege Margrethe Greve-Isdahl.</itunes:summary>
+      <itunes:duration>3382</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2016">201607</podcast:season>
+    </item>
+    <item>
+      <title>Å bli foreldre</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_2a163488-b729-409b-9634-88b729309b15</link>
+      <description>Å bli foreldre er å passere en grense uten retrettmuligheter. Du er og blir barnets far eller mor resten av livet. Hvordan styrker man foreldreparets utvikling gjennom livsfasene fra småbarnsperioden og helt inn i besteforeldrerollen? Hvordan bygger man hverandre opp og ikke ned. Hvordan takler man sinne og frustrasjoner, slit og urettferdighet? Hør Trond-Viggo Torgersen i samtale med lege Irene Elgen.</description>
+      <guid isPermaLink="false">l_2a163488-b729-409b-9634-88b729309b15</guid>
+      <pubDate>Thu, 07 Jul 2016 10:44:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2016-7-7_844_2321.MP3" type="audio/mpeg" length="53168715"></enclosure>
+      <itunes:title>Å bli foreldre</itunes:title>
+      <itunes:summary>Å bli foreldre er å passere en grense uten retrettmuligheter. Du er og blir barnets far eller mor resten av livet. Hvordan styrker man foreldreparets utvikling gjennom livsfasene fra småbarnsperioden og helt inn i besteforeldrerollen? Hvordan bygger man hverandre opp og ikke ned. Hvordan takler man sinne og frustrasjoner, slit og urettferdighet? Hør Trond-Viggo Torgersen i samtale med lege Irene Elgen.</itunes:summary>
+      <itunes:duration>3323</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2016">201607</podcast:season>
+    </item>
+    <item>
+      <title>Født for tidlig</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_4cb899a2-1b87-483f-b899-a21b87b83f02</link>
+      <description>Er det forskjell på barn som fødes for tidlig og de som fødes til termin? Hva skjer med fosterutviklingen når den avbrytes av en fødsel? Hva skal til for at alt for tidlig fødte skal få en så normal start på livet som mulig? Kan for tidlig fødsel føre til senskader?</description>
+      <guid isPermaLink="false">l_4cb899a2-1b87-483f-b899-a21b87b83f02</guid>
+      <pubDate>Thu, 30 Jun 2016 11:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2016-6-30_94_2053.MP3" type="audio/mpeg" length="53506426"></enclosure>
+      <itunes:title>Født for tidlig</itunes:title>
+      <itunes:summary>Er det forskjell på barn som fødes for tidlig og de som fødes til termin? Hva skjer med fosterutviklingen når den avbrytes av en fødsel? Hva skal til for at alt for tidlig fødte skal få en så normal start på livet som mulig? Kan for tidlig fødsel føre til senskader?</itunes:summary>
+      <itunes:duration>3344</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2016">201606</podcast:season>
+    </item>
+    <item>
+      <title>Lykke</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_2ad3fc51-7632-4783-93fc-517632a7830a</link>
+      <description>Er lykken medfødt? Blir vi friske av å være lykkelige, og må vi ha mange venner for å være lykkelige? Går det an å bestemme seg for å være lykkelig, og finnes det varig lykke, eller bare lykkelige øyeblikk?</description>
+      <guid isPermaLink="false">l_2ad3fc51-7632-4783-93fc-517632a7830a</guid>
+      <pubDate>Wed, 22 Jun 2016 10:44:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2016-6-22_844_785.MP3" type="audio/mpeg" length="44825832"></enclosure>
+      <itunes:title>Lykke</itunes:title>
+      <itunes:summary>Er lykken medfødt? Blir vi friske av å være lykkelige, og må vi ha mange venner for å være lykkelige? Går det an å bestemme seg for å være lykkelig, og finnes det varig lykke, eller bare lykkelige øyeblikk?</itunes:summary>
+      <itunes:duration>2801</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2016">201606</podcast:season>
+    </item>
+    <item>
+      <title>Levevaner</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_9bf778ed-dded-45a8-b778-edddede5a83a</link>
+      <description>Hva begrenser våre valg av levevaner? Hva kan man endre selv for å få bedre helse? Hvilke sykdommer kan forårsakes av og forverres av levevaner? Finnes det andre veier til bedre helse enn å stumpe røyken, ruse seg mindre, spise sunt og bevege seg mer? Hva betyr fellesskapet og samfunnsutviklingen for den enkeltes helse?</description>
+      <guid isPermaLink="false">l_9bf778ed-dded-45a8-b778-edddede5a83a</guid>
+      <pubDate>Wed, 15 Jun 2016 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/kroppen_2016-6-15_648_3304.MP3" type="audio/mpeg" length="57799703"></enclosure>
+      <itunes:title>Levevaner</itunes:title>
+      <itunes:summary>Hva begrenser våre valg av levevaner? Hva kan man endre selv for å få bedre helse? Hvilke sykdommer kan forårsakes av og forverres av levevaner? Finnes det andre veier til bedre helse enn å stumpe røyken, ruse seg mindre, spise sunt og bevege seg mer? Hva betyr fellesskapet og samfunnsutviklingen for den enkeltes helse?</itunes:summary>
+      <itunes:duration>3612</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2016">201606</podcast:season>
+    </item>
+    <item>
+      <title>Immunforsvaret</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_8079c6b3-e3ea-4620-b9c6-b3e3ead62085</link>
+      <description>Samtale om immunforsvaret med lege Bjørn Blomberg </description>
+      <guid isPermaLink="false">l_8079c6b3-e3ea-4620-b9c6-b3e3ead62085</guid>
+      <pubDate>Wed, 17 Jun 2015 11:57:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/NRKLT61755_65B6C00341FE46158FC0CB8B4B99D306.MP3" type="audio/mpeg" length="61734789"></enclosure>
+      <itunes:title>Immunforsvaret</itunes:title>
+      <itunes:summary>Samtale om immunforsvaret med lege Bjørn Blomberg </itunes:summary>
+      <itunes:duration>3858</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2015">201506</podcast:season>
+    </item>
+    <item>
+      <title>Lukt og smak</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_544161c2-39a5-49ca-8161-c239a569ca38</link>
+      <description>Samtale om lukt og smak med lege Torgeir Storaas </description>
+      <guid isPermaLink="false">l_544161c2-39a5-49ca-8161-c239a569ca38</guid>
+      <pubDate>Wed, 17 Jun 2015 11:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/NRKLT61755_92B91E323B3A4282ABD7F48E3DBC7F4F.MP3" type="audio/mpeg" length="55559860"></enclosure>
+      <itunes:title>Lukt og smak</itunes:title>
+      <itunes:summary>Samtale om lukt og smak med lege Torgeir Storaas </itunes:summary>
+      <itunes:duration>3472</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2015">201506</podcast:season>
+    </item>
+    <item>
+      <title>Hørsel</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_2511855e-752c-4c36-9185-5e752cec3624</link>
+      <description>Samtale om hørsel med overlege Jeanette Hess-Erga </description>
+      <guid isPermaLink="false">l_2511855e-752c-4c36-9185-5e752cec3624</guid>
+      <pubDate>Wed, 17 Jun 2015 11:33:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/NRKLT61755_3D63BA0A1F124495939277C76173BE68.MP3" type="audio/mpeg" length="63218544"></enclosure>
+      <itunes:title>Hørsel</itunes:title>
+      <itunes:summary>Samtale om hørsel med overlege Jeanette Hess-Erga </itunes:summary>
+      <itunes:duration>3951</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2015">201506</podcast:season>
+    </item>
+    <item>
+      <title>Synet</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_00cf4959-3684-49a4-8f49-59368499a494</link>
+      <description>Samtale om synet med lege Eivind Rødahl </description>
+      <guid isPermaLink="false">l_00cf4959-3684-49a4-8f49-59368499a494</guid>
+      <pubDate>Wed, 17 Jun 2015 11:21:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/NRKLT61755_7E6343DEAA6B4E7B932888CEE3CAEE6C.MP3" type="audio/mpeg" length="61242015"></enclosure>
+      <itunes:title>Synet</itunes:title>
+      <itunes:summary>Samtale om synet med lege Eivind Rødahl </itunes:summary>
+      <itunes:duration>3827</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2015">201506</podcast:season>
+    </item>
+    <item>
+      <title>Underlivet</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_02e2c806-6ad3-46c2-a2c8-066ad336c261</link>
+      <description>Samtale om underlivet med overlege Jone Trovik </description>
+      <guid isPermaLink="false">l_02e2c806-6ad3-46c2-a2c8-066ad336c261</guid>
+      <pubDate>Wed, 17 Jun 2015 11:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/NRKLT61755_B59AE22133EA4CF89DF6EC7F13542220.MP3" type="audio/mpeg" length="60628869"></enclosure>
+      <itunes:title>Underlivet</itunes:title>
+      <itunes:summary>Samtale om underlivet med overlege Jone Trovik </itunes:summary>
+      <itunes:duration>3789</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2015">201506</podcast:season>
+    </item>
+    <item>
+      <title>Sansuelle hjernen</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_44e1ddd7-21d3-45d3-a1dd-d721d315d301</link>
+      <description>Samtale om hjernen med professor Kenneth Haugdahl </description>
+      <guid isPermaLink="false">l_44e1ddd7-21d3-45d3-a1dd-d721d315d301</guid>
+      <pubDate>Wed, 17 Jun 2015 10:57:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/NRKLT61755_B642925DE17143EFA3841F86BAB6A235.MP3" type="audio/mpeg" length="67254776"></enclosure>
+      <itunes:title>Sansuelle hjernen</itunes:title>
+      <itunes:summary>Samtale om hjernen med professor Kenneth Haugdahl </itunes:summary>
+      <itunes:duration>4203</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2015">201506</podcast:season>
+    </item>
+    <item>
+      <title>Angst</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_8b81ccdc-3b8e-47d4-81cc-dc3b8e17d486</link>
+      <description>Samtale om angst med psykolog Gerd Kvale</description>
+      <guid isPermaLink="false">l_8b81ccdc-3b8e-47d4-81cc-dc3b8e17d486</guid>
+      <pubDate>Wed, 17 Jun 2015 10:51:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/NRKLT61755_D915E2890127482485CFDAFFAC2173A1.MP3" type="audio/mpeg" length="63675373"></enclosure>
+      <itunes:title>Angst</itunes:title>
+      <itunes:summary>Samtale om angst med psykolog Gerd Kvale</itunes:summary>
+      <itunes:duration>3979</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2015">201506</podcast:season>
+    </item>
+    <item>
+      <title>Smerte</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_19d1b786-2692-4444-91b7-862692a444ff</link>
+      <description>Samtale om smerte med psykolog Borrik Schjødt</description>
+      <guid isPermaLink="false">l_19d1b786-2692-4444-91b7-862692a444ff</guid>
+      <pubDate>Wed, 17 Jun 2015 10:42:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/NRKLT61755_42C3CF42CEB94103B82F658F7BA70909.MP3" type="audio/mpeg" length="59037280"></enclosure>
+      <itunes:title>Smerte</itunes:title>
+      <itunes:summary>Samtale om smerte med psykolog Borrik Schjødt</itunes:summary>
+      <itunes:duration>3689</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2015">201506</podcast:season>
+    </item>
+    <item>
+      <title>Rus</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_37922a97-87e8-4d07-922a-9787e8dd076f</link>
+      <description>Samtale om rus med overlege Svein Skjøtskift</description>
+      <guid isPermaLink="false">l_37922a97-87e8-4d07-922a-9787e8dd076f</guid>
+      <pubDate>Wed, 17 Jun 2015 10:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/NRKLT61755_46AA40D33C2B4DA8BECA3E6C942B75B9.MP3" type="audio/mpeg" length="58273669"></enclosure>
+      <itunes:title>Rus</itunes:title>
+      <itunes:summary>Samtale om rus med overlege Svein Skjøtskift</itunes:summary>
+      <itunes:duration>3642</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2015">201506</podcast:season>
+    </item>
+    <item>
+      <title>Søvn</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_1ac3fcfc-2feb-4e60-83fc-fc2feb7e605a</link>
+      <description>Samtale om søvn med overlege Bjørn Bjorvatn</description>
+      <guid isPermaLink="false">l_1ac3fcfc-2feb-4e60-83fc-fc2feb7e605a</guid>
+      <pubDate>Wed, 17 Jun 2015 10:17:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/NRKLT61755_9E1EA43CECAE498DAAE57205AB682DA1.MP3" type="audio/mpeg" length="60327938"></enclosure>
+      <itunes:title>Søvn</itunes:title>
+      <itunes:summary>Samtale om søvn med overlege Bjørn Bjorvatn</itunes:summary>
+      <itunes:duration>3770</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2015">201506</podcast:season>
+    </item>
+    <item>
+      <title>Gener</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_457c86e3-4244-4666-bc86-e34244b66659</link>
+      <description>Samtale om gener med overlege Gunnar Houge</description>
+      <guid isPermaLink="false">l_457c86e3-4244-4666-bc86-e34244b66659</guid>
+      <pubDate>Mon, 23 Jun 2014 00:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/nrk_kroppen_2014-0620-1030_6353885704.mp3" type="audio/mpeg" length="69497311"></enclosure>
+      <itunes:title>Gener</itunes:title>
+      <itunes:summary>Samtale om gener med overlege Gunnar Houge</itunes:summary>
+      <itunes:duration>3803</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2014">201406</podcast:season>
+    </item>
+    <item>
+      <title>Fødsel</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_4e80ef12-fdd4-4aab-80ef-12fdd41aab20</link>
+      <description>Samtale om fødsel med jordmor Inger Sofie Stensland</description>
+      <guid isPermaLink="false">l_4e80ef12-fdd4-4aab-80ef-12fdd41aab20</guid>
+      <pubDate>Sun, 22 Jun 2014 22:34:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/nrk_kroppen_2014-0620-1234_6353886459.mp3" type="audio/mpeg" length="69401548"></enclosure>
+      <itunes:title>Fødsel</itunes:title>
+      <itunes:summary>Samtale om fødsel med jordmor Inger Sofie Stensland</itunes:summary>
+      <itunes:duration>4067</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2014">201406</podcast:season>
+    </item>
+    <item>
+      <title>Lunger</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_fc889369-2310-47a7-8893-69231017a78f</link>
+      <description>Samtale om lunger med overlege Per Bakke</description>
+      <guid isPermaLink="false">l_fc889369-2310-47a7-8893-69231017a78f</guid>
+      <pubDate>Sun, 22 Jun 2014 22:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/nrk_kroppen_2014-0620-1236_6353886465.mp3" type="audio/mpeg" length="72382430"></enclosure>
+      <itunes:title>Lunger</itunes:title>
+      <itunes:summary>Samtale om lunger med overlege Per Bakke</itunes:summary>
+      <itunes:duration>4253</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2014">201406</podcast:season>
+    </item>
+    <item>
+      <title>Hjerte</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_571aeb45-f0ab-492d-9aeb-45f0ab192d3e</link>
+      <description>Trond-Viggo Torgersen i samtale om hjerte på LiB med overlege Per Bakke</description>
+      <guid isPermaLink="false">l_571aeb45-f0ab-492d-9aeb-45f0ab192d3e</guid>
+      <pubDate>Sun, 22 Jun 2014 21:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/nrk_kroppen_2014-0620-1237_6353886479.mp3" type="audio/mpeg" length="72874362"></enclosure>
+      <itunes:title>Hjerte</itunes:title>
+      <itunes:summary>Trond-Viggo Torgersen i samtale om hjerte på LiB med overlege Per Bakke</itunes:summary>
+      <itunes:duration>4284</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2014">201406</podcast:season>
+    </item>
+    <item>
+      <title>Muskler og ledd</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_a8145438-c671-4420-9454-38c6717420bc</link>
+      <description>Trond-Viggo Torgersen i samtale om muskler og ledd på LiB med overlege Clara Gram Gjesdal. </description>
+      <guid isPermaLink="false">l_a8145438-c671-4420-9454-38c6717420bc</guid>
+      <pubDate>Sun, 22 Jun 2014 21:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/nrk_kroppen_2014-0620-1244_6353886512.mp3" type="audio/mpeg" length="64784043"></enclosure>
+      <itunes:title>Muskler og ledd</itunes:title>
+      <itunes:summary>Trond-Viggo Torgersen i samtale om muskler og ledd på LiB med overlege Clara Gram Gjesdal. </itunes:summary>
+      <itunes:duration>3238</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2014">201406</podcast:season>
+    </item>
+    <item>
+      <title>Tarmen</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_f9f9e5e2-88fb-41a1-b9e5-e288fbf1a1d9</link>
+      <description>Trond-Viggo Torgersen i samtale om tarmen på LiB med overlege Trygve Hausken. </description>
+      <guid isPermaLink="false">l_f9f9e5e2-88fb-41a1-b9e5-e288fbf1a1d9</guid>
+      <pubDate>Sun, 22 Jun 2014 20:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/nrk_kroppen_2014-0620-1245_6353886519.mp3" type="audio/mpeg" length="69158707"></enclosure>
+      <itunes:title>Tarmen</itunes:title>
+      <itunes:summary>Trond-Viggo Torgersen i samtale om tarmen på LiB med overlege Trygve Hausken. </itunes:summary>
+      <itunes:duration>4052</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2014">201406</podcast:season>
+    </item>
+    <item>
+      <title>Huden</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_b744e169-8dd4-4cb4-84e1-698dd46cb498</link>
+      <description>Trond-Viggo Torgersen i samtale om huden på LiB med overlege Lisbeth Rustad.</description>
+      <guid isPermaLink="false">l_b744e169-8dd4-4cb4-84e1-698dd46cb498</guid>
+      <pubDate>Sun, 22 Jun 2014 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/nrk_kroppen_2014-0620-1246_6353886528.mp3" type="audio/mpeg" length="72652010"></enclosure>
+      <itunes:title>Huden</itunes:title>
+      <itunes:summary>Trond-Viggo Torgersen i samtale om huden på LiB med overlege Lisbeth Rustad.</itunes:summary>
+      <itunes:duration>4270</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2014">201406</podcast:season>
+    </item>
+    <item>
+      <title>Akuttmedisin</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_164cdd18-2bd0-427a-8cdd-182bd0227a02</link>
+      <description>Trond-Viggo Torgersen i samtale om akuttmedsin på LiB med overlege Guttorm Brattebø. </description>
+      <guid isPermaLink="false">l_164cdd18-2bd0-427a-8cdd-182bd0227a02</guid>
+      <pubDate>Sun, 22 Jun 2014 18:49:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/nrk_kroppen_2014-0620-1249_6353886547.mp3" type="audio/mpeg" length="68685585"></enclosure>
+      <itunes:title>Akuttmedisin</itunes:title>
+      <itunes:summary>Trond-Viggo Torgersen i samtale om akuttmedsin på LiB med overlege Guttorm Brattebø. </itunes:summary>
+      <itunes:duration>4022</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2014">201406</podcast:season>
+    </item>
+    <item>
+      <title>Hormonene</title>
+      <link>https://radio.nrk.no/podkast/kroppen/l_38a042b3-6d40-4a92-a042-b36d40ca924d</link>
+      <description>Trond-Viggo Torgersen i samtale om hormonene på LiB med overlege Eystein Husebye. </description>
+      <guid isPermaLink="false">l_38a042b3-6d40-4a92-a042-b36d40ca924d</guid>
+      <pubDate>Sun, 22 Jun 2014 17:48:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kroppen/nrk_kroppen_2014-0620-1248_6353886537.mp3" type="audio/mpeg" length="71835330"></enclosure>
+      <itunes:title>Hormonene</itunes:title>
+      <itunes:summary>Trond-Viggo Torgersen i samtale om hormonene på LiB med overlege Eystein Husebye. </itunes:summary>
+      <itunes:duration>4219</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I7kzyE0DMHmNtK59tf5UggmnKpuYhaUAah_TrEXveFXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2014">201406</podcast:season>
+    </item>
+  </channel>
+</rss>

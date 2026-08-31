@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luođis luohtái</title>
+    <link>https://radio.nrk.no/podkast/luois_luohti</link>
+    <description>Luohti sáhttá govvidit ráhkesvuođa, muhto maiddái unohisvuođaid. Dás guorahallabage luđiid, maiddái olbmuiguin geain leat muitalusat ja vásáhusat.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 17 Jun 2026 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/luois_luohti.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Luohti sáhttá govvidit ráhkesvuođa, muhto maiddái unohisvuođaid. Dás guorahallabage luđiid, maiddái olbmuiguin geain leat muitalusat ja vásáhusat.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ</url>
+      <title>Luođis luohtái</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti</link>
+    </image>
+    <item>
+      <title>Golli vuorkkáin</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_386bf82f-44ae-4f87-abf8-2f44aeff874f</link>
+      <description>Vuorkkáin leat máŋggaid duháhiid luođit maid leat dolin bádden. Makkár erenoamášvuođaid ja oahpu sáhttá doppe viežžat?</description>
+      <guid isPermaLink="false">l_386bf82f-44ae-4f87-abf8-2f44aeff874f</guid>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/386bf82f-44ae-4f87-abf8-2f44aeff874f_1_ID192MP3.mp3" type="audio/mpeg" length="53943596"></enclosure>
+      <itunes:title>Golli vuorkkáin</itunes:title>
+      <itunes:summary>Vuorkkáin leat máŋggaid duháhiid luođit maid leat dolin bádden. Makkár erenoamášvuođaid ja oahpu sáhttá doppe viežžat?</itunes:summary>
+      <itunes:duration>2247</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Go luođi skeŋket</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_bbe3e1f2-0857-4382-a3e1-f208574382c7</link>
+      <description>Makkár njuolggadusat leat go bidjá luđiid ja mo de jus daid ii čuovo? Ánte Mihkkal Gaup lea guossin fátta birra humadit.</description>
+      <guid isPermaLink="false">l_bbe3e1f2-0857-4382-a3e1-f208574382c7</guid>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/bbe3e1f2-0857-4382-a3e1-f208574382c7_1_ID192MP3.mp3" type="audio/mpeg" length="63309932"></enclosure>
+      <itunes:title>Go luođi skeŋket</itunes:title>
+      <itunes:summary>Makkár njuolggadusat leat go bidjá luđiid ja mo de jus daid ii čuovo? Ánte Mihkkal Gaup lea guossin fátta birra humadit.</itunes:summary>
+      <itunes:duration>2637</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sámi guovssonásti</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_b50f41cf-22d5-49bd-8f41-cf22d5d9bda1</link>
+      <description>Mari Boine lea guossin go humadit movt luohti dovdui suddun, dáistaleapmi váhnemin ja movt válddi ruovttoluotta luođi ja juoigama.</description>
+      <guid isPermaLink="false">l_b50f41cf-22d5-49bd-8f41-cf22d5d9bda1</guid>
+      <pubDate>Wed, 03 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/b50f41cf-22d5-49bd-8f41-cf22d5d9bda1_1_ID192MP3.mp3" type="audio/mpeg" length="64721708"></enclosure>
+      <itunes:title>Sámi guovssonásti</itunes:title>
+      <itunes:summary>Mari Boine lea guossin go humadit movt luohti dovdui suddun, dáistaleapmi váhnemin ja movt válddi ruovttoluotta luođi ja juoigama.</itunes:summary>
+      <itunes:duration>2696</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Čájet dovdduid luđiin</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_6e235380-7a63-4735-a353-807a63473539</link>
+      <description>Makkár erohusat leat luđiin ja dajahusain ieš guđet guovlluin sámis. Máret Ingá Sara Pettersen lea guossin go buokčalit fáddái.</description>
+      <guid isPermaLink="false">l_6e235380-7a63-4735-a353-807a63473539</guid>
+      <pubDate>Wed, 27 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/6e235380-7a63-4735-a353-807a63473539_1_ID192MP3.mp3" type="audio/mpeg" length="45455660"></enclosure>
+      <itunes:title>Čájet dovdduid luđiin</itunes:title>
+      <itunes:summary>Makkár erohusat leat luđiin ja dajahusain ieš guđet guovlluin sámis. Máret Ingá Sara Pettersen lea guossin go buokčalit fáddái.</itunes:summary>
+      <itunes:duration>1893</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luođis lea čuvges boahtteáigi</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_a711460b-00c3-4c9d-9146-0b00c31c9d96</link>
+      <description>Per Bueng lea guossin go mii humadit movt luođi buoremusat seailluhit. Báddejuvvon giđđat 2025.</description>
+      <guid isPermaLink="false">l_a711460b-00c3-4c9d-9146-0b00c31c9d96</guid>
+      <pubDate>Wed, 20 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/a711460b-00c3-4c9d-9146-0b00c31c9d96_1_ID192MP3.mp3" type="audio/mpeg" length="55650284"></enclosure>
+      <itunes:title>Luođis lea čuvges boahtteáigi</itunes:title>
+      <itunes:summary>Per Bueng lea guossin go mii humadit movt luođi buoremusat seailluhit. Báddejuvvon giđđat 2025.</itunes:summary>
+      <itunes:duration>2318</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Garrarockajuoigan</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_fd1b4279-65c3-4a1f-9b42-7965c3aa1f7d</link>
+      <description>Kai Somby mearridii heaitit musihkain, muhto de son oaččui reivve ovttá beakkan vokalistas ja dat movttidahttii su joatkit.</description>
+      <guid isPermaLink="false">l_fd1b4279-65c3-4a1f-9b42-7965c3aa1f7d</guid>
+      <pubDate>Wed, 13 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/fd1b4279-65c3-4a1f-9b42-7965c3aa1f7d_1_ID192MP3.mp3" type="audio/mpeg" length="58307948"></enclosure>
+      <itunes:title>Garrarockajuoigan</itunes:title>
+      <itunes:summary>Kai Somby mearridii heaitit musihkain, muhto de son oaččui reivve ovttá beakkan vokalistas ja dat movttidahttii su joatkit.</itunes:summary>
+      <itunes:duration>2429</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Unnán nissonjuoigit</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_e0f093ae-1467-40f9-b093-ae1467a0f959</link>
+      <description>Manne eai searvva Sámi Grand Prix juoiganoassái seamma olu nissonolbmot go dievddut? Máret Ristiinna Hætta Sara lea guossin.</description>
+      <guid isPermaLink="false">l_e0f093ae-1467-40f9-b093-ae1467a0f959</guid>
+      <pubDate>Wed, 06 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/e0f093ae-1467-40f9-b093-ae1467a0f959_1_ID192MP3.mp3" type="audio/mpeg" length="42747884"></enclosure>
+      <itunes:title>Unnán nissonjuoigit</itunes:title>
+      <itunes:summary>Manne eai searvva Sámi Grand Prix juoiganoassái seamma olu nissonolbmot go dievddut? Máret Ristiinna Hætta Sara lea guossin.</itunes:summary>
+      <itunes:duration>1781</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luohteplagiáhta</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_44cffed4-565e-4239-8ffe-d4565e62397e</link>
+      <description>Jan Ole Hermansen lea guossin go mii ságastit fátta mii boktá garra dovdduid.</description>
+      <guid isPermaLink="false">l_44cffed4-565e-4239-8ffe-d4565e62397e</guid>
+      <pubDate>Wed, 29 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/44cffed4-565e-4239-8ffe-d4565e62397e_1_ID192MP3.mp3" type="audio/mpeg" length="55278188"></enclosure>
+      <itunes:title>Luohteplagiáhta</itunes:title>
+      <itunes:summary>Jan Ole Hermansen lea guossin go mii ságastit fátta mii boktá garra dovdduid.</itunes:summary>
+      <itunes:duration>2303</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luohteárbevierut joatkašuvve</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_6d2ec729-368c-4c26-aec7-29368c4c26ec</link>
+      <description>Soga luohtedutkan dagahii ahte Laura Tapiola oaččui áibbas eará dovddu luođi ektui.</description>
+      <guid isPermaLink="false">l_6d2ec729-368c-4c26-aec7-29368c4c26ec</guid>
+      <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/6d2ec729-368c-4c26-aec7-29368c4c26ec_1_ID192MP3.mp3" type="audio/mpeg" length="54845036"></enclosure>
+      <itunes:title>Luohteárbevierut joatkašuvve</itunes:title>
+      <itunes:summary>Soga luohtedutkan dagahii ahte Laura Tapiola oaččui áibbas eará dovddu luođi ektui.</itunes:summary>
+      <itunes:duration>2285</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dáloniid ja bajoniid luođit</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_6dd6c7a3-5681-46a3-96c7-a3568156a3fd</link>
+      <description>Terje Henriksen Joks lea mielde go mii čiekŋudit luohteerohusain ja imaštat leat go dálonat Kárášjogas heaitán juoigamis?!</description>
+      <guid isPermaLink="false">l_6dd6c7a3-5681-46a3-96c7-a3568156a3fd</guid>
+      <pubDate>Wed, 15 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/6dd6c7a3-5681-46a3-96c7-a3568156a3fd_1_ID192MP3.mp3" type="audio/mpeg" length="66282668"></enclosure>
+      <itunes:title>Dáloniid ja bajoniid luođit</itunes:title>
+      <itunes:summary>Terje Henriksen Joks lea mielde go mii čiekŋudit luohteerohusain ja imaštat leat go dálonat Kárášjogas heaitán juoigamis?!</itunes:summary>
+      <itunes:duration>2761</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lávdebargu riggodahkan</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_52d1fddc-c881-46d3-91fd-dcc881a6d3b2</link>
+      <description>Musihkkaoahpahus ja hárjehallan nanosmahttá mánáid iešdovddu.</description>
+      <guid isPermaLink="false">l_52d1fddc-c881-46d3-91fd-dcc881a6d3b2</guid>
+      <pubDate>Wed, 16 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/4659621f-5e46-4d84-bf30-c38fdce859d1_0_ID192MP3.mp3" type="audio/mpeg" length="34926957"></enclosure>
+      <itunes:title>Lávdebargu riggodahkan</itunes:title>
+      <itunes:summary>Musihkkaoahpahus ja hárjehallan nanosmahttá mánáid iešdovddu.</itunes:summary>
+      <itunes:duration>1455</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Juoigat musihkkii</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_d0d5331e-10ea-4c6d-9533-1e10eadc6d55</link>
+      <description>Juoigat musihkkii ii leat seamma go juoigat árbevirolaččat, go dalle báhcet dat mohkit mat leat árbevirolaš luođis.</description>
+      <guid isPermaLink="false">l_d0d5331e-10ea-4c6d-9533-1e10eadc6d55</guid>
+      <pubDate>Wed, 09 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/fd1792be-7d42-42d9-9689-127f71d84806_0_ID192MP3.mp3" type="audio/mpeg" length="36785709"></enclosure>
+      <itunes:title>Juoigat musihkkii</itunes:title>
+      <itunes:summary>Juoigat musihkkii ii leat seamma go juoigat árbevirolaččat, go dalle báhcet dat mohkit mat leat árbevirolaš luođis.</itunes:summary>
+      <itunes:duration>1532</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luohtemátki</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_525aa83e-d263-4ee9-9aa8-3ed2630ee9b4</link>
+      <description>Son  lea miehtá máilmmi jođašan luđiin ja dál son čuoččasta SGP-lávdái  juoiggastit iežas neabi.</description>
+      <guid isPermaLink="false">l_525aa83e-d263-4ee9-9aa8-3ed2630ee9b4</guid>
+      <pubDate>Wed, 02 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/efdbe754-2ff4-47f4-a0e2-6196ecc5bcae_0_ID192MP3.mp3" type="audio/mpeg" length="44642349"></enclosure>
+      <itunes:title>Luohtemátki</itunes:title>
+      <itunes:summary>Son  lea miehtá máilmmi jođašan luđiin ja dál son čuoččasta SGP-lávdái  juoiggastit iežas neabi.</itunes:summary>
+      <itunes:duration>1860</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dajahallamat</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_c8136e18-aa1f-4d5d-936e-18aa1f0d5db8</link>
+      <description>Dajahusain sáhttet leat čiekŋalat mearkkašumit ja lea juohkehačča duohken mo daid dulko.</description>
+      <guid isPermaLink="false">l_c8136e18-aa1f-4d5d-936e-18aa1f0d5db8</guid>
+      <pubDate>Wed, 26 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/dd9dd01a-c872-4962-ab89-fdfc3e770e0f_0_ID192MP3.mp3" type="audio/mpeg" length="46611117"></enclosure>
+      <itunes:title>Dajahallamat</itunes:title>
+      <itunes:summary>Dajahusain sáhttet leat čiekŋalat mearkkašumit ja lea juohkehačča duohken mo daid dulko.</itunes:summary>
+      <itunes:duration>1942</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dovddu mielde juoigat</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_6b0209a0-9166-454c-8209-a09166d54cfa</link>
+      <description>Olmmoš ii dárbbaš juoigat dušše luođi dihte, go juoiggadettiin sáhttá muitalit  suhtu, morraša, ráhkisvuođa dahje movtta.</description>
+      <guid isPermaLink="false">l_6b0209a0-9166-454c-8209-a09166d54cfa</guid>
+      <pubDate>Wed, 19 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/378e4931-e9a1-42cc-9e39-34b176f28485_0_ID192MP3.mp3" type="audio/mpeg" length="49685805"></enclosure>
+      <itunes:title>Dovddu mielde juoigat</itunes:title>
+      <itunes:summary>Olmmoš ii dárbbaš juoigat dušše luođi dihte, go juoiggadettiin sáhttá muitalit  suhtu, morraša, ráhkisvuođa dahje movtta.</itunes:summary>
+      <itunes:duration>2070</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luohteárvvoštallan</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_d4764ae8-39a1-447c-b64a-e839a1a47c23</link>
+      <description>Lea goalmmát geardde son árvvoštallá luđiid ja šuoŋaid mat leat mielde Sámi Grand Prixas.</description>
+      <guid isPermaLink="false">l_d4764ae8-39a1-447c-b64a-e839a1a47c23</guid>
+      <pubDate>Wed, 12 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/65d1b140-71eb-4ba6-a784-f8b5314d4478_0_ID192MP3.mp3" type="audio/mpeg" length="53116461"></enclosure>
+      <itunes:title>Luohteárvvoštallan</itunes:title>
+      <itunes:summary>Lea goalmmát geardde son árvvoštallá luđiid ja šuoŋaid mat leat mielde Sámi Grand Prixas.</itunes:summary>
+      <itunes:duration>2213</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/C74JR32wlAwgZLoXast0bQGh-91LDWF_lIQnjFlKAxgg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sarakka Juoiganmátki</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_d46e45bc-cc48-4247-ae45-bccc48d247cf</link>
+      <description>Árbevirolaš juoigamis lea son iežas mielas easkaálgi</description>
+      <guid isPermaLink="false">l_d46e45bc-cc48-4247-ae45-bccc48d247cf</guid>
+      <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/51c4fe5a-398b-49d0-a634-f181e18ae804_0_ID192MP3.mp3" type="audio/mpeg" length="55403757"></enclosure>
+      <itunes:title>Sarakka Juoiganmátki</itunes:title>
+      <itunes:summary>Árbevirolaš juoigamis lea son iežas mielas easkaálgi</itunes:summary>
+      <itunes:duration>2308</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/C74JR32wlAwgZLoXast0bQGh-91LDWF_lIQnjFlKAxgg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Musihkka oktasaš giellan</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_9a4a3a0a-224a-4258-8a3a-0a224a12588f</link>
+      <description>Amerihká eamiálbmogat jáhkke sápmelaččaid CIA-ageantan. Muhto go luohti gullui, de eahpádus maid jávkkihii.</description>
+      <guid isPermaLink="false">l_9a4a3a0a-224a-4258-8a3a-0a224a12588f</guid>
+      <pubDate>Wed, 26 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/071d9c30-0b21-411d-8770-c4e280cd191d_0_ID192MP3.mp3" type="audio/mpeg" length="52468461"></enclosure>
+      <itunes:title>Musihkka oktasaš giellan</itunes:title>
+      <itunes:summary>Amerihká eamiálbmogat jáhkke sápmelaččaid CIA-ageantan. Muhto go luohti gullui, de eahpádus maid jávkkihii.</itunes:summary>
+      <itunes:duration>2186</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luohti jeđđeda</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_d5eae4cd-9c4a-474f-aae4-cd9c4a774ff7</link>
+      <description>Luohti riegádii lossa dilis ja lei jeđđehussan ja attii ođđa vuoimmi.</description>
+      <guid isPermaLink="false">l_d5eae4cd-9c4a-474f-aae4-cd9c4a774ff7</guid>
+      <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/ac10e5c2-d9d6-4e70-b416-7160213564c3_0_ID192MP3.mp3" type="audio/mpeg" length="36171693"></enclosure>
+      <itunes:title>Luohti jeđđeda</itunes:title>
+      <itunes:summary>Luohti riegádii lossa dilis ja lei jeđđehussan ja attii ođđa vuoimmi.</itunes:summary>
+      <itunes:duration>1507</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ráhkisvuođain juoiggadit</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_dd9ce611-dcb0-41d4-9ce6-11dcb051d4c0</link>
+      <description>Prográmmajođiheaddji guovttos hirpmahuvvaba man poehtalaččat dajahusat leat luđiin, maid Biret Elle Láilá juoiggada dás.</description>
+      <guid isPermaLink="false">l_dd9ce611-dcb0-41d4-9ce6-11dcb051d4c0</guid>
+      <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/bcfaf528-3740-45e7-b4fd-50ea7110628e_0_ID192MP3.mp3" type="audio/mpeg" length="60008301"></enclosure>
+      <itunes:title>Ráhkisvuođain juoiggadit</itunes:title>
+      <itunes:summary>Prográmmajođiheaddji guovttos hirpmahuvvaba man poehtalaččat dajahusat leat luđiin, maid Biret Elle Láilá juoiggada dás.</itunes:summary>
+      <itunes:duration>2500</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/C74JR32wlAwgZLoXast0bQGh-91LDWF_lIQnjFlKAxgg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luohti eallá</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_68a0f706-9a63-49a5-a0f7-069a6369a583</link>
+      <description>Juoigit fertejit fievrredit viidaseappot luođi ja dajahallamiid vai seaillošedje, nu daddjui luohtelávddis Álttás ginttalbeaivve.</description>
+      <guid isPermaLink="false">l_68a0f706-9a63-49a5-a0f7-069a6369a583</guid>
+      <pubDate>Wed, 05 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/ed293ed3-c3ae-4ba6-a100-a9fb0834ba53_0_ID192MP3.mp3" type="audio/mpeg" length="81753453"></enclosure>
+      <itunes:title>Luohti eallá</itunes:title>
+      <itunes:summary>Juoigit fertejit fievrredit viidaseappot luođi ja dajahallamiid vai seaillošedje, nu daddjui luohtelávddis Álttás ginttalbeaivve.</itunes:summary>
+      <itunes:duration>3406</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Buoremus oasit</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_5453e80c-bb79-41aa-93e8-0cbb7911aa99</link>
+      <description>Dás gulat buoremus osiid vuosttaš áigodagas.</description>
+      <guid isPermaLink="false">l_5453e80c-bb79-41aa-93e8-0cbb7911aa99</guid>
+      <pubDate>Wed, 01 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/f8475933-fa0c-416d-9ca0-c508a4b1b597_0_ID192MP3.mp3" type="audio/mpeg" length="61762797"></enclosure>
+      <itunes:title>Buoremus oasit</itunes:title>
+      <itunes:summary>Dás gulat buoremus osiid vuosttaš áigodagas.</itunes:summary>
+      <itunes:duration>2573</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vuoiŋŋalaš juoigan</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_69e07b55-733b-429a-a07b-55733be29a81</link>
+      <description>Movttegis Máhtte lea moatte háve juoiggastan ipmilbálvalusas, sutnje lea lunddolaš ahte luohti maid gullá girkui.</description>
+      <guid isPermaLink="false">l_69e07b55-733b-429a-a07b-55733be29a81</guid>
+      <pubDate>Wed, 25 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/305941aa-b5d3-426e-a10f-ce8c8f041ff0_0_ID192MP3.mp3" type="audio/mpeg" length="47029869"></enclosure>
+      <itunes:title>Vuoiŋŋalaš juoigan</itunes:title>
+      <itunes:summary>Movttegis Máhtte lea moatte háve juoiggastan ipmilbálvalusas, sutnje lea lunddolaš ahte luohti maid gullá girkui.</itunes:summary>
+      <itunes:duration>1959</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luohtedoahpagat</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_e9fc9cf6-7735-4802-bc9c-f677357802e4</link>
+      <description>Javzedit, rohttestit, rovggodit dahje juo vuovaidit. Otná oasis lea Ánde Somby guossin hupmat doahpagiid birra.</description>
+      <guid isPermaLink="false">l_e9fc9cf6-7735-4802-bc9c-f677357802e4</guid>
+      <pubDate>Wed, 18 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/12f33aab-61e1-43b3-92b8-9cea6a83cbea_0_ID192MP3.mp3" type="audio/mpeg" length="67336749"></enclosure>
+      <itunes:title>Luohtedoahpagat</itunes:title>
+      <itunes:summary>Javzedit, rohttestit, rovggodit dahje juo vuovaidit. Otná oasis lea Ánde Somby guossin hupmat doahpagiid birra.</itunes:summary>
+      <itunes:duration>2805</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Go dajahusain leat riimmat</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_7260caf0-7790-4627-a0ca-f077909627c2</link>
+      <description>Várjjat-luđiin lea erenoamáš dajahallan ja guhkes fearánat. Øystein Birgitsen rohttesta ja muitala luđiid birra dán oasis.</description>
+      <guid isPermaLink="false">l_7260caf0-7790-4627-a0ca-f077909627c2</guid>
+      <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/5a671417-c84f-4eab-ba19-7b8d2f87d52e_0_ID192MP3.mp3" type="audio/mpeg" length="55320237"></enclosure>
+      <itunes:title>Go dajahusain leat riimmat</itunes:title>
+      <itunes:summary>Várjjat-luđiin lea erenoamáš dajahallan ja guhkes fearánat. Øystein Birgitsen rohttesta ja muitala luđiid birra dán oasis.</itunes:summary>
+      <itunes:duration>2304</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Miehtá máilmmi šaddá dovddusin</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_1a9b37cc-6489-4aa4-9b37-cc64899aa4bb</link>
+      <description>Lávre Johanin šaddá ságastallan movt luođi dahká dovddusin máilmmis.</description>
+      <guid isPermaLink="false">l_1a9b37cc-6489-4aa4-9b37-cc64899aa4bb</guid>
+      <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/2555f66d-36bd-4332-a4d9-26a515c1c7c8_0_ID192MP3.mp3" type="audio/mpeg" length="60856173"></enclosure>
+      <itunes:title>Miehtá máilmmi šaddá dovddusin</itunes:title>
+      <itunes:summary>Lávre Johanin šaddá ságastallan movt luođi dahká dovddusin máilmmis.</itunes:summary>
+      <itunes:duration>2535</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dearvvašmuvvat luđiin</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_beda337e-b2aa-4589-9a33-7eb2aa75891b</link>
+      <description>Juoigan šattai dálkkasin Máret Lajla Nedrejorda áhkkui go fáhtehalai dávdii ja návccahuvai.</description>
+      <guid isPermaLink="false">l_beda337e-b2aa-4589-9a33-7eb2aa75891b</guid>
+      <pubDate>Wed, 27 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/57f20e94-e052-4f2c-a964-80aa2ec43cb4_0_ID192MP3.mp3" type="audio/mpeg" length="46055853"></enclosure>
+      <itunes:title>Dearvvašmuvvat luđiin</itunes:title>
+      <itunes:summary>Juoigan šattai dálkkasin Máret Lajla Nedrejorda áhkkui go fáhtehalai dávdii ja návccahuvai.</itunes:summary>
+      <itunes:duration>1918</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dovdnema dehálašvuohta</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_2e2dff4d-f6ee-4c58-adff-4df6eefc58dd</link>
+      <description>Dovnnažiin lea oahpahan mánáide miehtá sámi juoigat. Inga Biret Márjá Triumf searvá hupmat dovdnema dehálašvuođas.</description>
+      <guid isPermaLink="false">l_2e2dff4d-f6ee-4c58-adff-4df6eefc58dd</guid>
+      <pubDate>Wed, 20 Nov 2024 09:45:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/586cc2f8-090c-45de-a81e-a3ec9255535e_0_ID192MP3.mp3" type="audio/mpeg" length="53978157"></enclosure>
+      <itunes:title>Dovdnema dehálašvuohta</itunes:title>
+      <itunes:summary>Dovnnažiin lea oahpahan mánáide miehtá sámi juoigat. Inga Biret Márjá Triumf searvá hupmat dovdnema dehálašvuođas.</itunes:summary>
+      <itunes:duration>2249</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vuostálastinluođit</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_cd2cc531-d655-45cf-acc5-31d65535cf4d</link>
+      <description>Luođis lei guovddáš sadji go fámolaččaid vuostá galggai dáistalit. Ella Marie Hætta Isaksen muitala vásáhusaideaset fovseákšuvnnain.</description>
+      <guid isPermaLink="false">l_cd2cc531-d655-45cf-acc5-31d65535cf4d</guid>
+      <pubDate>Wed, 13 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/3b0f90ed-ed52-48a2-8bb0-71e0d39961b8_0_ID192MP3.mp3" type="audio/mpeg" length="52442541"></enclosure>
+      <itunes:title>Vuostálastinluođit</itunes:title>
+      <itunes:summary>Luođis lei guovddáš sadji go fámolaččaid vuostá galggai dáistalit. Ella Marie Hætta Isaksen muitala vásáhusaideaset fovseákšuvnnain.</itunes:summary>
+      <itunes:duration>2185</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ollesolmmožin šattai juoigannásttiin</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_8f870811-981f-47db-8708-11981f77dbe4</link>
+      <description>Ii lean goasse almmolašvuođas juoigan ja máŋggas hirpmahuvve go vuohččan gulle su juoigamin.</description>
+      <guid isPermaLink="false">l_8f870811-981f-47db-8708-11981f77dbe4</guid>
+      <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/f2fee5ac-95b2-4bc3-9d71-8c1a538d225d_0_ID192MP3.mp3" type="audio/mpeg" length="57821229"></enclosure>
+      <itunes:title>Ollesolmmožin šattai juoigannásttiin</itunes:title>
+      <itunes:summary>Ii lean goasse almmolašvuođas juoigan ja máŋggas hirpmahuvve go vuohččan gulle su juoigamin.</itunes:summary>
+      <itunes:duration>2409</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luođi geahččaledje jávohuhttit</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_86771169-ac08-4c76-b711-69ac081c763f</link>
+      <description>Go gilde juoigat ja luođi birra hupmat skuvllas, de dat suhttadii Áillu muhto maiddai giktalii su álgit vel eambbo juoigat.</description>
+      <guid isPermaLink="false">l_86771169-ac08-4c76-b711-69ac081c763f</guid>
+      <pubDate>Wed, 30 Oct 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/4ed5c3e7-dc09-426e-8b1f-e28f4b2d9519_0_ID192MP3.mp3" type="audio/mpeg" length="62714349"></enclosure>
+      <itunes:title>Luođi geahččaledje jávohuhttit</itunes:title>
+      <itunes:summary>Go gilde juoigat ja luođi birra hupmat skuvllas, de dat suhttadii Áillu muhto maiddai giktalii su álgit vel eambbo juoigat.</itunes:summary>
+      <itunes:duration>2613</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Čuojahit dološ luđiid</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_de12d590-a234-4ece-92d5-90a2342ecee9</link>
+      <description>Dás leahkasteaba luohtegiissá.</description>
+      <guid isPermaLink="false">l_de12d590-a234-4ece-92d5-90a2342ecee9</guid>
+      <pubDate>Wed, 23 Oct 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/9f34294e-68b0-4af5-8e47-70069f57f211_0_ID192MP3.mp3" type="audio/mpeg" length="84196845"></enclosure>
+      <itunes:title>Čuojahit dološ luđiid</itunes:title>
+      <itunes:summary>Dás leahkasteaba luohtegiissá.</itunes:summary>
+      <itunes:duration>3508</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luohtevuorká</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_905122db-52a6-4f29-9122-db52a63f29da</link>
+      <description>Ol Johan Gaup lea guossin go son lea leamaš mielde almmuheamen luđiid mat leat luohtevuorkkás.</description>
+      <guid isPermaLink="false">l_905122db-52a6-4f29-9122-db52a63f29da</guid>
+      <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/e3b8d6d1-5ff5-4a86-98f5-a622f0f478cb_0_ID192MP3.mp3" type="audio/mpeg" length="61433325"></enclosure>
+      <itunes:title>Luohtevuorká</itunes:title>
+      <itunes:summary>Ol Johan Gaup lea guossin go son lea leamaš mielde almmuheamen luđiid mat leat luohtevuorkkás.</itunes:summary>
+      <itunes:duration>2559</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luohtevuoigatvuođat</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_8ce340de-452d-4ed1-a340-de452dbed18e</link>
+      <description>Gii eaiggáduššá luođi? Jurista čilge.</description>
+      <guid isPermaLink="false">l_8ce340de-452d-4ed1-a340-de452dbed18e</guid>
+      <pubDate>Wed, 09 Oct 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/1539c038-4154-49c2-862b-beab95dc5e58_0_ID192MP3.mp3" type="audio/mpeg" length="47974509"></enclosure>
+      <itunes:title>Luohtevuoigatvuođat</itunes:title>
+      <itunes:summary>Gii eaiggáduššá luođi? Jurista čilge.</itunes:summary>
+      <itunes:duration>1998</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luođis máŋga oamasteaddji</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_82b82427-0d48-4103-b824-270d48110310</link>
+      <description>Seamma luohti sáhttá leat juigojuvvon máŋgga olbmui. Muhto movt de go luohti beaggigoahtá ja buohkat dan juiget ovtta olbmui?</description>
+      <guid isPermaLink="false">l_82b82427-0d48-4103-b824-270d48110310</guid>
+      <pubDate>Wed, 02 Oct 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/31094f4e-ff0d-4603-88ad-32f9ad4c1987_0_ID192MP3.mp3" type="audio/mpeg" length="40425453"></enclosure>
+      <itunes:title>Luođis máŋga oamasteaddji</itunes:title>
+      <itunes:summary>Seamma luohti sáhttá leat juigojuvvon máŋgga olbmui. Muhto movt de go luohti beaggigoahtá ja buohkat dan juiget ovtta olbmui?</itunes:summary>
+      <itunes:duration>1684</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luohtebidjan</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_c2b77c20-bee7-4964-b77c-20bee7996483</link>
+      <description>Son lea vásihan ahte luohti dušše bođii sutnje, ja vásihii dan dušše luoikkasin ožžon.</description>
+      <guid isPermaLink="false">l_c2b77c20-bee7-4964-b77c-20bee7996483</guid>
+      <pubDate>Wed, 25 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/20530b01-e948-4ed9-85a4-532b29c647b4_0_ID192MP3.mp3" type="audio/mpeg" length="48338541"></enclosure>
+      <itunes:title>Luohtebidjan</itunes:title>
+      <itunes:summary>Son lea vásihan ahte luohti dušše bođii sutnje, ja vásihii dan dušše luoikkasin ožžon.</itunes:summary>
+      <itunes:duration>2014</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Givssidanluođit</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_4895fc51-7047-4ec1-95fc-5170471ec1f1</link>
+      <description>Maid dahkat dakkár luđiin, mii olbmui šaddá giksin?</description>
+      <guid isPermaLink="false">l_4895fc51-7047-4ec1-95fc-5170471ec1f1</guid>
+      <pubDate>Wed, 18 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/0e8ec546-ed07-4b01-9f38-6d99c2287c41_0_ID192MP3.mp3" type="audio/mpeg" length="44490861"></enclosure>
+      <itunes:title>Givssidanluođit</itunes:title>
+      <itunes:summary>Maid dahkat dakkár luđiin, mii olbmui šaddá giksin?</itunes:summary>
+      <itunes:duration>1853</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xzi-GZfm-GPTmVWLJ7LhNgCb7C8ROihqb6VpeFMB_pWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

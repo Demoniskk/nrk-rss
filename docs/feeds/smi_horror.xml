@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sámi Horror</title>
+    <link>https://radio.nrk.no/podkast/smi_horror</link>
+    <description>Sápmelaččain lea guhkes muitalanvierru ja mii leat viššalat baldalit nubbi nuppi. Čohkkehastte gullat issoras ja čilgetmeahttun fearániid.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Tue, 08 Apr 2025 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/smi_horror.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Sápmelaččain lea guhkes muitalanvierru ja mii leat viššalat baldalit nubbi nuppi. Čohkkehastte gullat issoras ja čilgetmeahttun fearániid.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA</url>
+      <title>Sámi Horror</title>
+      <link>https://radio.nrk.no/podkast/smi_horror</link>
+    </image>
+    <item>
+      <title>Spiritismma fámut</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_40babb0d-b663-4995-babb-0db6633995dc</link>
+      <description>Rávvejuvvui ahte dákkár fámuiguin ii galgga stoahkat.</description>
+      <guid isPermaLink="false">l_40babb0d-b663-4995-babb-0db6633995dc</guid>
+      <pubDate>Tue, 08 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/f334c17d-5c0b-47bb-8811-1dc672548923_0_ID192MP3.mp3" type="audio/mpeg" length="55054701"></enclosure>
+      <itunes:title>Spiritismma fámut</itunes:title>
+      <itunes:summary>Rávvejuvvui ahte dákkár fámuiguin ii galgga stoahkat.</itunes:summary>
+      <itunes:duration>2293</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ulddat bieguhit</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_fb59151a-6db1-4a25-9915-1a6db18a25cf</link>
+      <description>Ulddaid sáhttá duos dás vásihit.</description>
+      <guid isPermaLink="false">l_fb59151a-6db1-4a25-9915-1a6db18a25cf</guid>
+      <pubDate>Tue, 01 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/28f7a680-b0c6-4b42-9eb4-c955eaece614_0_ID192MP3.mp3" type="audio/mpeg" length="43150509"></enclosure>
+      <itunes:title>Ulddat bieguhit</itunes:title>
+      <itunes:summary>Ulddaid sáhttá duos dás vásihit.</itunes:summary>
+      <itunes:duration>1797</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Noaide-ádját</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_af2e945c-d87e-4823-ae94-5cd87ec82366</link>
+      <description>Muhtin noaide-ádjáid dagut leat beaggán ja begget ain viidát Sámis.</description>
+      <guid isPermaLink="false">l_af2e945c-d87e-4823-ae94-5cd87ec82366</guid>
+      <pubDate>Tue, 25 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/b72af039-e0c9-4f8c-b631-1b2c2fa60fee_0_ID192MP3.mp3" type="audio/mpeg" length="39093165"></enclosure>
+      <itunes:title>Noaide-ádját</itunes:title>
+      <itunes:summary>Muhtin noaide-ádjáid dagut leat beaggán ja begget ain viidát Sámis.</itunes:summary>
+      <itunes:duration>1628</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Unohisvuođaid vásihit</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_ac00de00-0e1e-41f6-80de-000e1e21f600</link>
+      <description>Olbmos sáhttet leat várjaleaddjit ja oaidnemeahttun veahkit.</description>
+      <guid isPermaLink="false">l_ac00de00-0e1e-41f6-80de-000e1e21f600</guid>
+      <pubDate>Tue, 18 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/7a34ebd1-7c0d-4676-91a9-352bc03884a0_0_ID192MP3.mp3" type="audio/mpeg" length="38658861"></enclosure>
+      <itunes:title>Unohisvuođaid vásihit</itunes:title>
+      <itunes:summary>Olbmos sáhttet leat várjaleaddjit ja oaidnemeahttun veahkit.</itunes:summary>
+      <itunes:duration>1610</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Albma vai ii</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_dd8ae0ea-a30d-4c1b-8ae0-eaa30d1c1bf2</link>
+      <description>Sáhttá go luohttit dasa maid oaidná?</description>
+      <guid isPermaLink="false">l_dd8ae0ea-a30d-4c1b-8ae0-eaa30d1c1bf2</guid>
+      <pubDate>Tue, 11 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/71df8b80-3aeb-4cb3-a3be-758eed2a59e0_0_ID192MP3.mp3" type="audio/mpeg" length="42132141"></enclosure>
+      <itunes:title>Albma vai ii</itunes:title>
+      <itunes:summary>Sáhttá go luohttit dasa maid oaidná?</itunes:summary>
+      <itunes:duration>1755</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Oainnáhusat</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_32a1d848-0d7b-4886-a1d8-480d7b0886bf</link>
+      <description>Oainnáhusat sáhttet maid leat sáhkaovdosat, ja dieđusge balddihit olbmo.</description>
+      <guid isPermaLink="false">l_32a1d848-0d7b-4886-a1d8-480d7b0886bf</guid>
+      <pubDate>Tue, 04 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/4265e9b0-28c8-441f-865d-21ddc1db7a6a_0_ID192MP3.mp3" type="audio/mpeg" length="40044717"></enclosure>
+      <itunes:title>Oainnáhusat</itunes:title>
+      <itunes:summary>Oainnáhusat sáhttet maid leat sáhkaovdosat, ja dieđusge balddihit olbmo.</itunes:summary>
+      <itunes:duration>1668</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kqQjiMj9C_p-IkxP32YX4QDwSdtlp92_QI2WEq08BQdw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Eahpáraš</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_06e48db0-9f0b-4437-a48d-b09f0bb437e7</link>
+      <description>Jos gulažat goassege eahpáračča bárgumin, de dat sáhttá leat čuorvumin alcces gástta.</description>
+      <guid isPermaLink="false">l_06e48db0-9f0b-4437-a48d-b09f0bb437e7</guid>
+      <pubDate>Tue, 25 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/a8122642-cc85-4563-9cf5-6a1098ca9cc8_0_ID192MP3.mp3" type="audio/mpeg" length="39704877"></enclosure>
+      <itunes:title>Eahpáraš</itunes:title>
+      <itunes:summary>Jos gulažat goassege eahpáračča bárgumin, de dat sáhttá leat čuorvumin alcces gástta.</itunes:summary>
+      <itunes:duration>1654</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ráfehisbáikkit</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_bbf440ff-5496-495a-b440-ff5496b95a28</link>
+      <description>Ruoktu lea dábálaččat oadjebasbáiki, muhto muhtomin sáhttet boahtit oaidnemeahttumat guossái.</description>
+      <guid isPermaLink="false">l_bbf440ff-5496-495a-b440-ff5496b95a28</guid>
+      <pubDate>Tue, 18 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/725e8226-58ec-424c-bbc7-c526e253af5e_0_ID192MP3.mp3" type="audio/mpeg" length="50881581"></enclosure>
+      <itunes:title>Ráfehisbáikkit</itunes:title>
+      <itunes:summary>Ruoktu lea dábálaččat oadjebasbáiki, muhto muhtomin sáhttet boahtit oaidnemeahttumat guossái.</itunes:summary>
+      <itunes:duration>2120</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kqQjiMj9C_p-IkxP32YX4QDwSdtlp92_QI2WEq08BQdw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luonddu ipmašat</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_911369ac-4683-4448-9369-ac4683844875</link>
+      <description>Jaskatvuođas sáhttá gullat ja oaidnit vaikko makkár ipmašiid, muhtumin sáhttet maid veahkkin leat.</description>
+      <guid isPermaLink="false">l_911369ac-4683-4448-9369-ac4683844875</guid>
+      <pubDate>Tue, 11 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/edcfe459-ce48-44f3-b51e-fca887d30242_0_ID192MP3.mp3" type="audio/mpeg" length="37177965"></enclosure>
+      <itunes:title>Luonddu ipmašat</itunes:title>
+      <itunes:summary>Jaskatvuođas sáhttá gullat ja oaidnit vaikko makkár ipmašiid, muhtumin sáhttet maid veahkkin leat.</itunes:summary>
+      <itunes:duration>1549</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kqQjiMj9C_p-IkxP32YX4QDwSdtlp92_QI2WEq08BQdw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Oainnáhusat</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_e5a766b0-527a-4a44-a766-b0527afa446b</link>
+      <description>Jođi buoret go oru, dalle sáhttá vaikko maid vásihit ja oaidnit.</description>
+      <guid isPermaLink="false">l_e5a766b0-527a-4a44-a766-b0527afa446b</guid>
+      <pubDate>Tue, 04 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/142fc9b9-0fba-45ea-9be1-9026088d1553_0_ID192MP3.mp3" type="audio/mpeg" length="55749357"></enclosure>
+      <itunes:title>Oainnáhusat</itunes:title>
+      <itunes:summary>Jođi buoret go oru, dalle sáhttá vaikko maid vásihit ja oaidnit.</itunes:summary>
+      <itunes:duration>2322</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kqQjiMj9C_p-IkxP32YX4QDwSdtlp92_QI2WEq08BQdw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ruojusvuohta</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_8717f754-8b96-4e07-97f7-548b968e0729</link>
+      <description>Viesuin sáhttet leat vuoiŋŋat ja ipmašat mat ilmmuhit iežaset olbmuide iešguđetge láhkai. Dás gulat mo daiguin sáhttá birgehallat.</description>
+      <guid isPermaLink="false">l_8717f754-8b96-4e07-97f7-548b968e0729</guid>
+      <pubDate>Tue, 28 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/9cc99dee-2b07-4415-b869-d0de53a3683a_0_ID192MP3.mp3" type="audio/mpeg" length="45830637"></enclosure>
+      <itunes:title>Ruojusvuohta</itunes:title>
+      <itunes:summary>Viesuin sáhttet leat vuoiŋŋat ja ipmašat mat ilmmuhit iežaset olbmuide iešguđetge láhkai. Dás gulat mo daiguin sáhttá birgehallat.</itunes:summary>
+      <itunes:duration>1909</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kqQjiMj9C_p-IkxP32YX4QDwSdtlp92_QI2WEq08BQdw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Imaš dáhpáhusat</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_893b0478-0ab8-472c-bb04-780ab8972cb3</link>
+      <description>Almmi ja eatnama gaskkas ollu čilgetmeahttunvuođat maid olmmoš sáhttá vásihit feara gos.</description>
+      <guid isPermaLink="false">l_893b0478-0ab8-472c-bb04-780ab8972cb3</guid>
+      <pubDate>Tue, 21 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/c427098b-348e-4827-b608-4474de033e7a_0_ID192MP3.mp3" type="audio/mpeg" length="46599021"></enclosure>
+      <itunes:title>Imaš dáhpáhusat</itunes:title>
+      <itunes:summary>Almmi ja eatnama gaskkas ollu čilgetmeahttunvuođat maid olmmoš sáhttá vásihit feara gos.</itunes:summary>
+      <itunes:duration>1941</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ovdosat addet dieđu</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_16637c75-a900-41cf-a37c-75a90031cf1e</link>
+      <description>Gullá go boahtá, iige olle lusa, iige oidno mihkkege, iige vuhtto mihkkege, muhto de maŋŋá ilbmuda iežas.</description>
+      <guid isPermaLink="false">l_16637c75-a900-41cf-a37c-75a90031cf1e</guid>
+      <pubDate>Tue, 14 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/bdd7227b-a11e-4506-95bf-6903daade0c7_0_ID192MP3.mp3" type="audio/mpeg" length="36241389"></enclosure>
+      <itunes:title>Ovdosat addet dieđu</itunes:title>
+      <itunes:summary>Gullá go boahtá, iige olle lusa, iige oidno mihkkege, iige vuhtto mihkkege, muhto de maŋŋá ilbmuda iežas.</itunes:summary>
+      <itunes:duration>1510</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ulddat ja hálddit</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_95bbe997-05df-44cd-bbe9-9705df44cd94</link>
+      <description>Ulddat ja hálddit ellet maid iežaset eallima Sámis. Ja šiella lea buorre reaidu mainna olmmoš suddje iežas.</description>
+      <guid isPermaLink="false">l_95bbe997-05df-44cd-bbe9-9705df44cd94</guid>
+      <pubDate>Tue, 07 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/71a5b48b-9c7c-4b44-a661-3bec1c43f5b5_0_ID192MP3.mp3" type="audio/mpeg" length="39657645"></enclosure>
+      <itunes:title>Ulddat ja hálddit</itunes:title>
+      <itunes:summary>Ulddat ja hálddit ellet maid iežaset eallima Sámis. Ja šiella lea buorre reaidu mainna olmmoš suddje iežas.</itunes:summary>
+      <itunes:duration>1652</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jápmán olbmot</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_0d7d2ec2-2795-4e9f-bd2e-c22795ae9f0c</link>
+      <description>Dat lei oainnáhus, dat lei dakkár mii ii lean albma.</description>
+      <guid isPermaLink="false">l_0d7d2ec2-2795-4e9f-bd2e-c22795ae9f0c</guid>
+      <pubDate>Tue, 31 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/5e058d5c-3a41-4889-bb4e-ec64ad1f5606_0_ID192MP3.mp3" type="audio/mpeg" length="38229165"></enclosure>
+      <itunes:title>Jápmán olbmot</itunes:title>
+      <itunes:summary>Dat lei oainnáhus, dat lei dakkár mii ii lean albma.</itunes:summary>
+      <itunes:duration>1592</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ovdosat</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_71ce7f2b-6c58-4f75-8e7f-2b6c582f75dd</link>
+      <description>Jos olmmoš berošta dulkot ovdosiid, de sáhttá diehtit ovdalgihtii mii lea vuordagasas, leš dal buorre dahje heajos dáhpáhus.</description>
+      <guid isPermaLink="false">l_71ce7f2b-6c58-4f75-8e7f-2b6c582f75dd</guid>
+      <pubDate>Tue, 24 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/153e394b-98d7-4041-93a8-f9f3893e697e_0_ID192MP3.mp3" type="audio/mpeg" length="42230061"></enclosure>
+      <itunes:title>Ovdosat</itunes:title>
+      <itunes:summary>Jos olmmoš berošta dulkot ovdosiid, de sáhttá diehtit ovdalgihtii mii lea vuordagasas, leš dal buorre dahje heajos dáhpáhus.</itunes:summary>
+      <itunes:duration>1759</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Oaidnemeahttun mánát</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_22e3f334-ca2c-43b5-a3f3-34ca2c03b562</link>
+      <description>Silisávžžis leat olu olbmot vásihan čilgetmeahttun dáhpáhusaid. Ja gosa vulggii mánná garra dálkin okto, imaštallá muitaleaddji.</description>
+      <guid isPermaLink="false">l_22e3f334-ca2c-43b5-a3f3-34ca2c03b562</guid>
+      <pubDate>Tue, 17 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/aec35753-eac6-4142-aaec-cdb17835890f_0_ID192MP3.mp3" type="audio/mpeg" length="42344109"></enclosure>
+      <itunes:title>Oaidnemeahttun mánát</itunes:title>
+      <itunes:summary>Silisávžžis leat olu olbmot vásihan čilgetmeahttun dáhpáhusaid. Ja gosa vulggii mánná garra dálkin okto, imaštallá muitaleaddji.</itunes:summary>
+      <itunes:duration>1764</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Idjadanbáikki imašlašvuođat</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_30d91be9-b749-4ba3-991b-e9b749cba380</link>
+      <description>Idjadanlobi gal gánneha jearrat vai jođidettiin bálle báikkis ráfis vuoiŋŋastit ja nohkastit.&#xA;Muitaleaddjit leat Mihkkal Issáha Niillas, Mikkel M.M. Logje, Edel Marit Gaino ja &#xA;Mihkkal Issáha Johan Mihkkal.</description>
+      <guid isPermaLink="false">l_30d91be9-b749-4ba3-991b-e9b749cba380</guid>
+      <pubDate>Tue, 10 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/df79a7f3-5dc1-4176-819c-a4ff5e53ed0e_0_ID192MP3.mp3" type="audio/mpeg" length="40801581"></enclosure>
+      <itunes:title>Idjadanbáikki imašlašvuođat</itunes:title>
+      <itunes:summary>Idjadanlobi gal gánneha jearrat vai jođidettiin bálle báikkis ráfis vuoiŋŋastit ja nohkastit.&#xA;Muitaleaddjit leat Mihkkal Issáha Niillas, Mikkel M.M. Logje, Edel Marit Gaino ja &#xA;Mihkkal Issáha Johan Mihkkal.</itunes:summary>
+      <itunes:duration>1700</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luondu</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_39f90881-1ec3-4af8-b908-811ec35af8bf</link>
+      <description>Luondu lea báiki mii sáhttá sihke buoridit ja baldit olbmo. Ii leat álot buorre diehtit &#xA;leago ealli dahje juoga eará mii gullo, ja lei go oainnáhus vai dušše dábálaš ealli. &#xA;Muitaleaddjit leat Mihkkal Issáha Niillas, Mikkel M.M. Logje, Máhte Ristiinna ja Bikku &#xA;Áillu Johan-Heandarat.</description>
+      <guid isPermaLink="false">l_39f90881-1ec3-4af8-b908-811ec35af8bf</guid>
+      <pubDate>Tue, 03 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/f047e686-8ef3-4d61-b9cf-73898c3de5a8_0_ID192MP3.mp3" type="audio/mpeg" length="54039213"></enclosure>
+      <itunes:title>Luondu</itunes:title>
+      <itunes:summary>Luondu lea báiki mii sáhttá sihke buoridit ja baldit olbmo. Ii leat álot buorre diehtit &#xA;leago ealli dahje juoga eará mii gullo, ja lei go oainnáhus vai dušše dábálaš ealli. &#xA;Muitaleaddjit leat Mihkkal Issáha Niillas, Mikkel M.M. Logje, Máhte Ristiinna ja Bikku &#xA;Áillu Johan-Heandarat.</itunes:summary>
+      <itunes:duration>2251</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sieiddit</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_ba7e1598-35d9-43ee-be15-9835d983eef1</link>
+      <description>Dácca čalbmái sáhttá okta sieidi leat dušše dábálaš geađgi, muhto mii geat dáppe &#xA;leat vánddardan agi beaivve diehtit ahte sieiddis lea earenoamáš fápmu. &#xA;Muitaleaddjit leat Mihkkal Issáha Niillas, Bikku Áillu Johan-Heandarat, Mihkkal &#xA;Issáha Johan Mihkkal ja Sámmolaš Máhte Jon Niillas.</description>
+      <guid isPermaLink="false">l_ba7e1598-35d9-43ee-be15-9835d983eef1</guid>
+      <pubDate>Tue, 03 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/73965fd4-b47b-4771-b7da-0248c9cc4e55_0_ID192MP3.mp3" type="audio/mpeg" length="48551661"></enclosure>
+      <itunes:title>Sieiddit</itunes:title>
+      <itunes:summary>Dácca čalbmái sáhttá okta sieidi leat dušše dábálaš geađgi, muhto mii geat dáppe &#xA;leat vánddardan agi beaivve diehtit ahte sieiddis lea earenoamáš fápmu. &#xA;Muitaleaddjit leat Mihkkal Issáha Niillas, Bikku Áillu Johan-Heandarat, Mihkkal &#xA;Issáha Johan Mihkkal ja Sámmolaš Máhte Jon Niillas.</itunes:summary>
+      <itunes:duration>2022</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Čilgetmeahttun vásáhusat / Uforklarlige fenomen</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_843420f0-1068-41cb-b420-f0106891cb6c</link>
+      <description>Lehkos dál návli seainnis dahje imašlágán olbmot, de leat čilgetmeahttun vásáhusat vuolggahan min muitalusaid dás, ja daiguin min nai heaitit dán geardái.&#xA;&#xA;Vare seg en spik i veggen eller rare mennesker, så har uforklarlige fenomen vært begynnelsen på historiene og det er der vi også slutter for denne gang.</description>
+      <guid isPermaLink="false">l_843420f0-1068-41cb-b420-f0106891cb6c</guid>
+      <pubDate>Tue, 22 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/292c6f8b-afb1-4d22-93b1-d29a10d4b4a5_0_ID192MP3.mp3" type="audio/mpeg" length="41817645"></enclosure>
+      <itunes:title>Čilgetmeahttun vásáhusat / Uforklarlige fenomen</itunes:title>
+      <itunes:summary>Lehkos dál návli seainnis dahje imašlágán olbmot, de leat čilgetmeahttun vásáhusat vuolggahan min muitalusaid dás, ja daiguin min nai heaitit dán geardái.&#xA;&#xA;Vare seg en spik i veggen eller rare mennesker, så har uforklarlige fenomen vært begynnelsen på historiene og det er der vi også slutter for denne gang.</itunes:summary>
+      <itunes:duration>1742</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jápmin ja oainnáhusat / Døden og syner</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_b125a4d8-bf7b-4e5a-a5a4-d8bf7b3e5a11</link>
+      <description>Jápmin láve dávjá boahtit vuorddegeahtta, ja eará gerddiid fas lea vuordimis. &#xA;Odne mis leat muitalusat jápmimis ja imaš oainnáhusain.&#xA;Døden kommer ofte uventet, men ibland vet vi at den kommer.&#xA;Denne episoden forteller om døden og syner.&#xA;</description>
+      <guid isPermaLink="false">l_b125a4d8-bf7b-4e5a-a5a4-d8bf7b3e5a11</guid>
+      <pubDate>Tue, 15 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/80bea1ca-d164-41d4-a811-44f5e97cc7fb_0_ID192MP3.mp3" type="audio/mpeg" length="37873773"></enclosure>
+      <itunes:title>Jápmin ja oainnáhusat / Døden og syner</itunes:title>
+      <itunes:summary>Jápmin láve dávjá boahtit vuorddegeahtta, ja eará gerddiid fas lea vuordimis. &#xA;Odne mis leat muitalusat jápmimis ja imaš oainnáhusain.&#xA;Døden kommer ofte uventet, men ibland vet vi at den kommer.&#xA;Denne episoden forteller om døden og syner.&#xA;</itunes:summary>
+      <itunes:duration>1578</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Imaš oainnáhusat / Rare syner (episode 22)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_114e2a45-35d1-4d34-8e2a-4535d1ed3474</link>
+      <description>Muhtomin sáhttá vásihit juoga maid lea váttis čilget, muhto maiddai váttis ipmirdit. Imašlágán oainnáhusat sáhttet ihtit vaikko goas.&#xA;Ibland blir det vanskelig å forklare det man har sett, men også vanskelig å forstå. Rare syner kommer når man minste aner.&#xA;</description>
+      <guid isPermaLink="false">l_114e2a45-35d1-4d34-8e2a-4535d1ed3474</guid>
+      <pubDate>Tue, 08 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/972d9439-d226-42fa-bd29-f4fbade0ae39_0_ID192MP3.mp3" type="audio/mpeg" length="39001005"></enclosure>
+      <itunes:title>Imaš oainnáhusat / Rare syner (episode 22)</itunes:title>
+      <itunes:summary>Muhtomin sáhttá vásihit juoga maid lea váttis čilget, muhto maiddai váttis ipmirdit. Imašlágán oainnáhusat sáhttet ihtit vaikko goas.&#xA;Ibland blir det vanskelig å forklare det man har sett, men også vanskelig å forstå. Rare syner kommer når man minste aner.&#xA;</itunes:summary>
+      <itunes:duration>1624</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7sW1sPpH09sENgGdvEMFyAdLne4mQsPKDQ_M1XWoVJMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kárášjoga riebanfárbma / Revefarmen i Karasjok (episode 21)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_71bc59da-7fb5-4599-bc59-da7fb5a59901</link>
+      <description>Mii leat máŋgga báikkis leamaš dán podcastas gos duođas lea gomit, ja odne mii fitnat báikkis gos eai oru nohkame fearánat.</description>
+      <guid isPermaLink="false">l_71bc59da-7fb5-4599-bc59-da7fb5a59901</guid>
+      <pubDate>Tue, 01 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/6673daea-2872-4daa-b9f8-339365c061fe_0_ID192MP3.mp3" type="audio/mpeg" length="41513517"></enclosure>
+      <itunes:title>Kárášjoga riebanfárbma / Revefarmen i Karasjok (episode 21)</itunes:title>
+      <itunes:summary>Mii leat máŋgga báikkis leamaš dán podcastas gos duođas lea gomit, ja odne mii fitnat báikkis gos eai oru nohkame fearánat.</itunes:summary>
+      <itunes:duration>1729</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ipmašat / Rare syner (episode 20)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_81ebca78-8b39-4c7b-abca-788b39dc7b60</link>
+      <description>Dát min vásáhusat sáhttet boahtit vaikko makkár hámis, ja muhtomin šaddá váttisin čilget vásáhusa. De lávet daid dušše gohččodit ipmašin.&#xA;Våre opplevelser kommer i mange former, og iblant er de vanskelige å forklare. Da kaller vi dem bare for rare syner.</description>
+      <guid isPermaLink="false">l_81ebca78-8b39-4c7b-abca-788b39dc7b60</guid>
+      <pubDate>Tue, 22 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/a5c164c4-2973-4bf4-8eba-1d9a313384de_0_ID192MP3.mp3" type="audio/mpeg" length="44286957"></enclosure>
+      <itunes:title>Ipmašat / Rare syner (episode 20)</itunes:title>
+      <itunes:summary>Dát min vásáhusat sáhttet boahtit vaikko makkár hámis, ja muhtomin šaddá váttisin čilget vásáhusa. De lávet daid dušše gohččodit ipmašin.&#xA;Våre opplevelser kommer i mange former, og iblant er de vanskelige å forklare. Da kaller vi dem bare for rare syner.</itunes:summary>
+      <itunes:duration>1845</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vuoiŋŋat / Ånder (episode 19)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_ebe5c780-ceb3-45ae-a5c7-80ceb335ae2f</link>
+      <description>Dain min ipmašiin maid gullat ja oaidnit leat ollu namat, ja muhtomin min lávet daid gohčodit vuoigŋan.&#xA;Våre ubeskrivelige syner har mange navn, og iblant kaller vi dem for ånder.</description>
+      <guid isPermaLink="false">l_ebe5c780-ceb3-45ae-a5c7-80ceb335ae2f</guid>
+      <pubDate>Tue, 15 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/d0c74b9b-2c0d-4f20-8441-2a1f4db1e652_0_ID192MP3.mp3" type="audio/mpeg" length="41593005"></enclosure>
+      <itunes:title>Vuoiŋŋat / Ånder (episode 19)</itunes:title>
+      <itunes:summary>Dain min ipmašiin maid gullat ja oaidnit leat ollu namat, ja muhtomin min lávet daid gohčodit vuoigŋan.&#xA;Våre ubeskrivelige syner har mange navn, og iblant kaller vi dem for ånder.</itunes:summary>
+      <itunes:duration>1732</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Stobut ja ulddát / Hytter og huldrer (episode 18)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_c837eb73-a909-41dc-b7eb-73a90961dc2a</link>
+      <description>Duoppet dáppe sámis gávdnojit stobut gos agis lea gávdnon juoga mii ii leat min máilbmái gullevaš, ja muhton stobuin sáhttet ulddát nai jođašit.&#xA;I Sápmi har vi hytter hvor det sies at det finns noe umenneskelig, og i noen av dem så bruker huldrene hilse på.</description>
+      <guid isPermaLink="false">l_c837eb73-a909-41dc-b7eb-73a90961dc2a</guid>
+      <pubDate>Tue, 08 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/cc7468db-c2fb-4c84-914c-05325bc0f9cd_0_ID192MP3.mp3" type="audio/mpeg" length="37181997"></enclosure>
+      <itunes:title>Stobut ja ulddát / Hytter og huldrer (episode 18)</itunes:title>
+      <itunes:summary>Duoppet dáppe sámis gávdnojit stobut gos agis lea gávdnon juoga mii ii leat min máilbmái gullevaš, ja muhton stobuin sáhttet ulddát nai jođašit.&#xA;I Sápmi har vi hytter hvor det sies at det finns noe umenneskelig, og i noen av dem så bruker huldrene hilse på.</itunes:summary>
+      <itunes:duration>1549</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Niegut / Drømmer (episode 17)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_becdeb71-4e30-4d7b-8deb-714e306d7b2c</link>
+      <description>Oađidettiin láve olmmoš ráfáleamoš dilis leahkit, muhto niegut maid lávejit min sihke ráfehuhttit ja veahkehit.&#xA;Den største roen kommer med søvn, men drømmer kan også forstyrre roen eller hjelpe.</description>
+      <guid isPermaLink="false">l_becdeb71-4e30-4d7b-8deb-714e306d7b2c</guid>
+      <pubDate>Tue, 01 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/cf64e378-8b13-4ace-bb67-ea87620a9369_0_ID192MP3.mp3" type="audio/mpeg" length="55472877"></enclosure>
+      <itunes:title>Niegut / Drømmer (episode 17)</itunes:title>
+      <itunes:summary>Oađidettiin láve olmmoš ráfáleamoš dilis leahkit, muhto niegut maid lávejit min sihke ráfehuhttit ja veahkehit.&#xA;Den største roen kommer med søvn, men drømmer kan også forstyrre roen eller hjelpe.</itunes:summary>
+      <itunes:duration>2311</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fas seinniid siskobealde / Innenfor veggene igjen (episode 16)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_dd10f745-576f-4254-90f7-45576f42540f</link>
+      <description>De mii galgat fas seinniid siskobeallái vuolgit. Daidda báikkiide gos ii soaitte álot nu buhtis dahje ráffi.&#xA;&#xA;Da skal vi innenfor veggene igjen. Til de plassene som er verken rene eller fridfulle.&#xA;</description>
+      <guid isPermaLink="false">l_dd10f745-576f-4254-90f7-45576f42540f</guid>
+      <pubDate>Tue, 25 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/73a48098-295e-4d88-9e19-70283bcef21b_0_ID192MP3.mp3" type="audio/mpeg" length="44224173"></enclosure>
+      <itunes:title>Fas seinniid siskobealde / Innenfor veggene igjen (episode 16)</itunes:title>
+      <itunes:summary>De mii galgat fas seinniid siskobeallái vuolgit. Daidda báikkiide gos ii soaitte álot nu buhtis dahje ráffi.&#xA;&#xA;Da skal vi innenfor veggene igjen. Til de plassene som er verken rene eller fridfulle.&#xA;</itunes:summary>
+      <itunes:duration>1842</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mátkis / På reise (episode 15)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_f37450e0-53d4-429b-b450-e053d4d29b43</link>
+      <description>Mátkosteaddji láve dávjá golgame amas báikkiin, muhto gal amas diŋggat sáhtet ihtit oahpes báikkiin nai.&#xA;Ofte reiser vi på fremmede plasser, men fremmede syner kan også komme på kjente plasser.</description>
+      <guid isPermaLink="false">l_f37450e0-53d4-429b-b450-e053d4d29b43</guid>
+      <pubDate>Tue, 18 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/0190af53-a088-4dae-9f21-a2d4a4d3da96_0_ID192MP3.mp3" type="audio/mpeg" length="41708781"></enclosure>
+      <itunes:title>Mátkis / På reise (episode 15)</itunes:title>
+      <itunes:summary>Mátkosteaddji láve dávjá golgame amas báikkiin, muhto gal amas diŋggat sáhtet ihtit oahpes báikkiin nai.&#xA;Ofte reiser vi på fremmede plasser, men fremmede syner kan også komme på kjente plasser.</itunes:summary>
+      <itunes:duration>1737</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hástaleapmi / Å utfordre (episode 14)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_5b8497fe-ccf0-4049-8497-feccf06049c7</link>
+      <description>Balddonasat ja vuoiŋŋat eai láve ihtit buohkaide, ja lávejit lohkat ahte son guhte gierdá, son oaidná.&#xA;Muhtomin gal lávejit boahtit go olmmoš dáhttu. Hástaleapmi dahje hiistaleapmi, leage juoga maid máŋggas leat geahccalan.&#xA;Ikke alle ser spøkelser, og man bruker si at bare dem som tåler, ser dem. Ibland kommer dem når man ber om det, og mange har prøvd å utfordre spøkelser.</description>
+      <guid isPermaLink="false">l_5b8497fe-ccf0-4049-8497-feccf06049c7</guid>
+      <pubDate>Tue, 11 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/26a533e5-7857-4118-ba95-55e38103df6c_0_ID192MP3.mp3" type="audio/mpeg" length="45958509"></enclosure>
+      <itunes:title>Hástaleapmi / Å utfordre (episode 14)</itunes:title>
+      <itunes:summary>Balddonasat ja vuoiŋŋat eai láve ihtit buohkaide, ja lávejit lohkat ahte son guhte gierdá, son oaidná.&#xA;Muhtomin gal lávejit boahtit go olmmoš dáhttu. Hástaleapmi dahje hiistaleapmi, leage juoga maid máŋggas leat geahccalan.&#xA;Ikke alle ser spøkelser, og man bruker si at bare dem som tåler, ser dem. Ibland kommer dem når man ber om det, og mange har prøvd å utfordre spøkelser.</itunes:summary>
+      <itunes:duration>1914</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Luonddus / I naturen (episode 13)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_70bfdad8-78d2-4bf8-bfda-d878d2abf88f</link>
+      <description>Odná oasis mii fas vuolgit lundui, doppe mii orrutge vásihan buot eanemus ipmašiid. Luondu mii lea midjiide nu oahpis, muhto lihkká nu amas.&#xA;&#xA;I dagens episode er vi i naturen igjen, dersom det virker være en plass hvor vi mest opplever merkelige ting. Naturen som er vår trygghet, men likevel så ukjent for oss.</description>
+      <guid isPermaLink="false">l_70bfdad8-78d2-4bf8-bfda-d878d2abf88f</guid>
+      <pubDate>Tue, 04 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/faafb8f1-148f-499f-9fc0-cf18d9e4494a_0_ID192MP3.mp3" type="audio/mpeg" length="48737709"></enclosure>
+      <itunes:title>Luonddus / I naturen (episode 13)</itunes:title>
+      <itunes:summary>Odná oasis mii fas vuolgit lundui, doppe mii orrutge vásihan buot eanemus ipmašiid. Luondu mii lea midjiide nu oahpis, muhto lihkká nu amas.&#xA;&#xA;I dagens episode er vi i naturen igjen, dersom det virker være en plass hvor vi mest opplever merkelige ting. Naturen som er vår trygghet, men likevel så ukjent for oss.</itunes:summary>
+      <itunes:duration>2030</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jápmin ja girku  Døden og kirken  (episode 12)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_3e324de7-bba5-43ba-b24d-e7bba5e3ba42</link>
+      <description>Olbmo jápmin lea eallima mannu, ja das ii beasa okta eret. Muhtomin eai láve vuoiŋŋat ge beassat viidáseabbon, vaikko vel girku čađa leat bidjojuvvon hávdái.&#xA;&#xA;Døden er en del av livet, og det kommer ingen unna. Men noen døde kommer seg ikke videre, selv om de er gravlagt gjennom kirken.</description>
+      <guid isPermaLink="false">l_3e324de7-bba5-43ba-b24d-e7bba5e3ba42</guid>
+      <pubDate>Tue, 14 Dec 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/8f2586d1-7cd9-48f4-af11-74d97f9ec4de_0_ID192MP3.mp3" type="audio/mpeg" length="47981421"></enclosure>
+      <itunes:title>Jápmin ja girku  Døden og kirken  (episode 12)</itunes:title>
+      <itunes:summary>Olbmo jápmin lea eallima mannu, ja das ii beasa okta eret. Muhtomin eai láve vuoiŋŋat ge beassat viidáseabbon, vaikko vel girku čađa leat bidjojuvvon hávdái.&#xA;&#xA;Døden er en del av livet, og det kommer ingen unna. Men noen døde kommer seg ikke videre, selv om de er gravlagt gjennom kirken.</itunes:summary>
+      <itunes:duration>1999</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jienat  Fremmede lyder  (episode 11)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_6d0ace08-1af6-4788-8ace-081af6378847</link>
+      <description>Čilgemeahtton jietna lea issoras, ja vel eambbo issorasat šaddá go jietna boahtá doppe gos jietna ii livčče galgan gullot.&#xA;&#xA;Uforklarlige lyder er skumle, og spesielt skumle er de når de kommer fra steder der det ikke skal komme lyder.</description>
+      <guid isPermaLink="false">l_6d0ace08-1af6-4788-8ace-081af6378847</guid>
+      <pubDate>Tue, 07 Dec 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/8c6a7b9b-105d-4e05-8698-0d8a674bc509_0_ID192MP3.mp3" type="audio/mpeg" length="43348077"></enclosure>
+      <itunes:title>Jienat  Fremmede lyder  (episode 11)</itunes:title>
+      <itunes:summary>Čilgemeahtton jietna lea issoras, ja vel eambbo issorasat šaddá go jietna boahtá doppe gos jietna ii livčče galgan gullot.&#xA;&#xA;Uforklarlige lyder er skumle, og spesielt skumle er de når de kommer fra steder der det ikke skal komme lyder.</itunes:summary>
+      <itunes:duration>1806</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Meahcis  I skogen  (episode 10)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_5f03fd6a-d089-45a0-83fd-6ad08915a007</link>
+      <description>Luondu láve dáppe sámis leat ráfálaš baikin, gos ii nu dávjá oainne olbmuid. Muhto ii meahcci leat šat nu oadjebas dalle go vuoiŋŋat bohtet ovdii.&#xA;&#xA;Når man befinner seg utendørs i Sápmi er det vanligvis ro og fred overalt, og man treffer ikke så mange mennesker. Men skogen er ikke lenger så trygg når man møter på ånder.</description>
+      <guid isPermaLink="false">l_5f03fd6a-d089-45a0-83fd-6ad08915a007</guid>
+      <pubDate>Tue, 30 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/70fec20d-b1a7-4e84-ac41-37827f499e87_0_ID192MP3.mp3" type="audio/mpeg" length="56218797"></enclosure>
+      <itunes:title>Meahcis  I skogen  (episode 10)</itunes:title>
+      <itunes:summary>Luondu láve dáppe sámis leat ráfálaš baikin, gos ii nu dávjá oainne olbmuid. Muhto ii meahcci leat šat nu oadjebas dalle go vuoiŋŋat bohtet ovdii.&#xA;&#xA;Når man befinner seg utendørs i Sápmi er det vanligvis ro og fred overalt, og man treffer ikke så mange mennesker. Men skogen er ikke lenger så trygg når man møter på ånder.</itunes:summary>
+      <itunes:duration>2342</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mátkis ja viesus  På reise og hjemme  (episode 9)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_9e14b264-6180-4154-94b2-6461803154e2</link>
+      <description>Moskus seinniid siskobealde mii gal leat gullan ipmašiid, muhto gal čilgemeahttun vásáhusat lávejit maiddai boahtit dalle go olmmoš lea golgame.&#xA;&#xA;Det finnes vegger der det ikke finnes ro, der det oppstår uforklarlige syn, men også på reise oppstår slikt som ikke lar seg forklare.</description>
+      <guid isPermaLink="false">l_9e14b264-6180-4154-94b2-6461803154e2</guid>
+      <pubDate>Tue, 23 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/b271ceb7-273a-4d12-adf8-c3f7f8699541_0_ID192MP3.mp3" type="audio/mpeg" length="49718061"></enclosure>
+      <itunes:title>Mátkis ja viesus  På reise og hjemme  (episode 9)</itunes:title>
+      <itunes:summary>Moskus seinniid siskobealde mii gal leat gullan ipmašiid, muhto gal čilgemeahttun vásáhusat lávejit maiddai boahtit dalle go olmmoš lea golgame.&#xA;&#xA;Det finnes vegger der det ikke finnes ro, der det oppstår uforklarlige syn, men også på reise oppstår slikt som ikke lar seg forklare.</itunes:summary>
+      <itunes:duration>2071</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jienat ja oainnáhusat / Fremmede lyder og merkelige syn (episode 8)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_20078f82-4cc7-4c19-878f-824cc73c1974</link>
+      <description>Imaš jienaiguin ja ártegis oainnáhusaiguin ruohtesta varra ja guolggat hirragit. Muhtomin mii dušše oaidnit, dahje dušše gullat, ja earát fas dušše dovdet.&#xA;Fremmede lyder og merkelige syn gjør at blodet pumper og håret i nakken reiser seg. Noen ganger ser vi, andre ganger hører vi, og noen ganger føler man bare. &#xA;</description>
+      <guid isPermaLink="false">l_20078f82-4cc7-4c19-878f-824cc73c1974</guid>
+      <pubDate>Tue, 16 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/8eb3add4-5c95-4483-92c5-25cfa7052ae4_0_ID192MP3.mp3" type="audio/mpeg" length="42398829"></enclosure>
+      <itunes:title>Jienat ja oainnáhusat / Fremmede lyder og merkelige syn (episode 8)</itunes:title>
+      <itunes:summary>Imaš jienaiguin ja ártegis oainnáhusaiguin ruohtesta varra ja guolggat hirragit. Muhtomin mii dušše oaidnit, dahje dušše gullat, ja earát fas dušše dovdet.&#xA;Fremmede lyder og merkelige syn gjør at blodet pumper og håret i nakken reiser seg. Noen ganger ser vi, andre ganger hører vi, og noen ganger føler man bare. &#xA;</itunes:summary>
+      <itunes:duration>1766</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vuomit, mearra ja duottar / Skogen, havet og vidda (episode  7)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_624a8dd3-f7bd-450e-8a8d-d3f7bd550e3d</link>
+      <description>Gosa mii fal mannat, de lea álot soames gii oaidnit juoga. Lehkos dál duottar, vuopmi dahje mearragáddi. Doppe leat mii vásihan eanemusat, ja eai vásáhusat gal noga.&#xA;Hvor enn man drar, så er det alltid noen som er ser noe. Uansett om man befinner seg på vidda, i skogen eller på kysten. Der har det skjedd mye, og det blir aldri tomt for opplevelser.&#xA;</description>
+      <guid isPermaLink="false">l_624a8dd3-f7bd-450e-8a8d-d3f7bd550e3d</guid>
+      <pubDate>Tue, 09 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/c092c069-f8c3-4ec4-a4be-ae41baf4f73a_0_ID192MP3.mp3" type="audio/mpeg" length="45338157"></enclosure>
+      <itunes:title>Vuomit, mearra ja duottar / Skogen, havet og vidda (episode  7)</itunes:title>
+      <itunes:summary>Gosa mii fal mannat, de lea álot soames gii oaidnit juoga. Lehkos dál duottar, vuopmi dahje mearragáddi. Doppe leat mii vásihan eanemusat, ja eai vásáhusat gal noga.&#xA;Hvor enn man drar, så er det alltid noen som er ser noe. Uansett om man befinner seg på vidda, i skogen eller på kysten. Der har det skjedd mye, og det blir aldri tomt for opplevelser.&#xA;</itunes:summary>
+      <itunes:duration>1889</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UjRq0Ed3YqSJ8g0yEbUFbAomFS1mJapzjhRup2dxn5Ug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Seinniid siskobealde / Inne i veggene (episode 6)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_bbeea6ec-b54d-404d-aea6-ecb54d904da0</link>
+      <description>Earret go meahcis, de leat vásihan eanemus ipmašiid seinniid siskobealde. Eat mii dieđe leat go mii olbmot geat eat soaba seinniid siskobeallái, vai leat go ieš balddonasat geat hálidit olggos beassat.&#xA;Det er oftest innendørs man opplever merkelige ting. Vi vet ikke om det er folk som ikke klarer å enes innenfor fire vegger, eller er det spøkelser som prøver å komme seg ut. &#xA;</description>
+      <guid isPermaLink="false">l_bbeea6ec-b54d-404d-aea6-ecb54d904da0</guid>
+      <pubDate>Tue, 02 Nov 2021 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/511be635-d005-4d7a-a561-773fb4e49d83_0_ID192MP3.mp3" type="audio/mpeg" length="47927853"></enclosure>
+      <itunes:title>Seinniid siskobealde / Inne i veggene (episode 6)</itunes:title>
+      <itunes:summary>Earret go meahcis, de leat vásihan eanemus ipmašiid seinniid siskobealde. Eat mii dieđe leat go mii olbmot geat eat soaba seinniid siskobeallái, vai leat go ieš balddonasat geat hálidit olggos beassat.&#xA;Det er oftest innendørs man opplever merkelige ting. Vi vet ikke om det er folk som ikke klarer å enes innenfor fire vegger, eller er det spøkelser som prøver å komme seg ut. &#xA;</itunes:summary>
+      <itunes:duration>1996</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UjRq0Ed3YqSJ8g0yEbUFbAomFS1mJapzjhRup2dxn5Ug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ulddát ja hálddit / Underjordiske vesen (episode 5)</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_0981f3e9-d2da-400f-81f3-e9d2da300fbc</link>
+      <description>Ulddát ja hálddit leat min searvvis vánddardan guhká, ja sii ihtet ain duollet dálle.&#xA;Eat mii dieđe gos sii bohtet ja geat sii leat, muhto diehtit ahte sii leat doppe.&#xA;Underjordiske vesen har funnets blant oss lenge, og noen ganger gjør de seg til kjenne. Vi vet ikke hvor de kommer fra eller hvem de er, men vi vet at de er der. &#xA;</description>
+      <guid isPermaLink="false">l_0981f3e9-d2da-400f-81f3-e9d2da300fbc</guid>
+      <pubDate>Tue, 26 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/a1198022-cb26-4651-b0ea-5ab6a1a8e7b9_0_ID192MP3.mp3" type="audio/mpeg" length="39988269"></enclosure>
+      <itunes:title>Ulddát ja hálddit / Underjordiske vesen (episode 5)</itunes:title>
+      <itunes:summary>Ulddát ja hálddit leat min searvvis vánddardan guhká, ja sii ihtet ain duollet dálle.&#xA;Eat mii dieđe gos sii bohtet ja geat sii leat, muhto diehtit ahte sii leat doppe.&#xA;Underjordiske vesen har funnets blant oss lenge, og noen ganger gjør de seg til kjenne. Vi vet ikke hvor de kommer fra eller hvem de er, men vi vet at de er der. &#xA;</itunes:summary>
+      <itunes:duration>1666</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UjRq0Ed3YqSJ8g0yEbUFbAomFS1mJapzjhRup2dxn5Ug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Silisávži ja nuppi máilmmisoahti</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_45ef042d-a0fa-4085-af04-2da0fa9085b3</link>
+      <description>Čiekŋalis ávžžit ja dološ nuppi máilmmisoađi dáhpáhusat leat min álot baldán, ja juohke geardde go lahkonisgoahtá sevdnjes ávžži lávejit guolggat hirragit.</description>
+      <guid isPermaLink="false">l_45ef042d-a0fa-4085-af04-2da0fa9085b3</guid>
+      <pubDate>Tue, 19 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/9a0a08db-4a50-4d3e-9baf-42be707e7cab_0_ID192MP3.mp3" type="audio/mpeg" length="42912045"></enclosure>
+      <itunes:title>Silisávži ja nuppi máilmmisoahti</itunes:title>
+      <itunes:summary>Čiekŋalis ávžžit ja dološ nuppi máilmmisoađi dáhpáhusat leat min álot baldán, ja juohke geardde go lahkonisgoahtá sevdnjes ávžži lávejit guolggat hirragit.</itunes:summary>
+      <itunes:duration>1787</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Eahpáraččat ja jeakkit</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_9865f159-3ee5-4c7e-a5f1-593ee5fc7ec9</link>
+      <description>Jeakkit ja balssat leat várra leamašan váralaš juo doloža rájis, danne go doppe leat oaidnán sihke eahpáraččaid ja imaš olbmuid.</description>
+      <guid isPermaLink="false">l_9865f159-3ee5-4c7e-a5f1-593ee5fc7ec9</guid>
+      <pubDate>Tue, 12 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/8dd0fde7-d3de-4ebb-98a1-74b7d5c400b1_0_ID192MP3.mp3" type="audio/mpeg" length="41386221"></enclosure>
+      <itunes:title>Eahpáraččat ja jeakkit</itunes:title>
+      <itunes:summary>Jeakkit ja balssat leat várra leamašan váralaš juo doloža rájis, danne go doppe leat oaidnán sihke eahpáraččaid ja imaš olbmuid.</itunes:summary>
+      <itunes:duration>1724</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Meahcis</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_4f371cec-eff4-4d7f-b71c-eceff40d7f63</link>
+      <description>Sápmi lea stuoris ja viddis, ja go oktii lea vuolgán meahccái vánddardit de ii soaitte nuppi olbmo oaidnit máŋgga vahkkui. Vaikko meahcci orru leamen guoros, de it lea goitge okto.</description>
+      <guid isPermaLink="false">l_4f371cec-eff4-4d7f-b71c-eceff40d7f63</guid>
+      <pubDate>Tue, 05 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/bda52f88-de0a-4f60-ae54-d6aade53741f_0_ID192MP3.mp3" type="audio/mpeg" length="39757869"></enclosure>
+      <itunes:title>Meahcis</itunes:title>
+      <itunes:summary>Sápmi lea stuoris ja viddis, ja go oktii lea vuolgán meahccái vánddardit de ii soaitte nuppi olbmo oaidnit máŋgga vahkkui. Vaikko meahcci orru leamen guoros, de it lea goitge okto.</itunes:summary>
+      <itunes:duration>1656</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Seinniid siskobealde</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_95dae8ea-848e-4179-9ae8-ea848eb179e6</link>
+      <description>Lávejit lohkat ahte sápmelačča njunnái galga biegga bossut, leage várra danne mii vásihit ipmašiid go šaddat moskus gámmárii.</description>
+      <guid isPermaLink="false">l_95dae8ea-848e-4179-9ae8-ea848eb179e6</guid>
+      <pubDate>Tue, 05 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/24b5b695-6492-4697-88d1-17e0791e5d41_0_ID192MP3.mp3" type="audio/mpeg" length="45168237"></enclosure>
+      <itunes:title>Seinniid siskobealde</itunes:title>
+      <itunes:summary>Lávejit lohkat ahte sápmelačča njunnái galga biegga bossut, leage várra danne mii vásihit ipmašiid go šaddat moskus gámmárii.</itunes:summary>
+      <itunes:duration>1881</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sami Horror</title>
+      <link>https://radio.nrk.no/podkast/smi_horror/l_54f31760-b2c4-4a9f-b317-60b2c41a9fee</link>
+      <description>Sápmelaččain lea guhkes muitalanvierru ja mii leat viššalat baldalit nubbi nuppi. Golggotmánu 5. beaivvi rájes gulat issoras muitalusažiid.</description>
+      <guid isPermaLink="false">l_54f31760-b2c4-4a9f-b317-60b2c41a9fee</guid>
+      <pubDate>Tue, 28 Sep 2021 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smi_horror/90c4b853-c4ba-4289-86a9-14bc43c57886_0_ID192MP3.mp3" type="audio/mpeg" length="720045"></enclosure>
+      <itunes:title>Sami Horror</itunes:title>
+      <itunes:summary>Sápmelaččain lea guhkes muitalanvierru ja mii leat viššalat baldalit nubbi nuppi. Golggotmánu 5. beaivvi rájes gulat issoras muitalusažiid.</itunes:summary>
+      <itunes:duration>29</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3PsMF0P0EK-vohYt5cU3PwtZ4K4WdWHShgwIz1P0HzWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

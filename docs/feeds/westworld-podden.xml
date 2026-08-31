@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Westworld-podden</title>
+    <link>https://radio.nrk.no/podkast/westworld-podden</link>
+    <description>Filmpolitiet elsker å nerde om Westworld! I denne podkasten oppsummerer Sigurd og Marte forrige episode, de kaster seg ut i fanteoriland og svarer på spørsmål fra deg som hører på. Ofte med gjester, alltid med engasjement!&#xA;&#xA;</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 13 Mar 2020 11:02:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/westworld-podden.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Filmpolitiet elsker å nerde om Westworld! I denne podkasten oppsummerer Sigurd og Marte forrige episode, de kaster seg ut i fanteoriland og svarer på spørsmål fra deg som hører på. Ofte med gjester, alltid med engasjement!&#xA;&#xA;</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g</url>
+      <title>Westworld-podden</title>
+      <link>https://radio.nrk.no/podkast/westworld-podden</link>
+    </image>
+    <item>
+      <title>Straks klart for sesong 3!</title>
+      <link>https://radio.nrk.no/podkast/westworld-podden/l_dbe59ac2-f529-4451-a59a-c2f529f4513d</link>
+      <description>Hør vår Westworld-spesial med fanteorigrubling og intervju med Ingrid Bolsø Berdal i Filmpolitiet sin podkast!</description>
+      <guid isPermaLink="false">l_dbe59ac2-f529-4451-a59a-c2f529f4513d</guid>
+      <pubDate>Fri, 13 Mar 2020 12:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/westworld-podden/acf1dc9c-f595-4fab-9f78-bba132df16bb_0_ID192MP3.mp3" type="audio/mpeg" length="1650628"></enclosure>
+      <itunes:title>Straks klart for sesong 3!</itunes:title>
+      <itunes:summary>Hør vår Westworld-spesial med fanteorigrubling og intervju med Ingrid Bolsø Berdal i Filmpolitiet sin podkast!</itunes:summary>
+      <itunes:duration>68</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Westworld S02 Debrif</title>
+      <link>https://radio.nrk.no/podkast/westworld-podden/l_356c297f-fce6-4388-ac29-7ffce6a388ab</link>
+      <description>Sesong 2 er over og vi tar en liten debrif , svarer på spørsmål fra lytterne og går gjennom noen av fanteoriene som florerer på nett.&#xA;&#xA;Torkil Risan, blant annet kjent fra TVseriepodkasten, er ukas gjest, men han er ikke spesielt fornøyd med sesong 2 av Westworld. &#xA;&#xA;Vi snakker blant annet om hva som gjør at vi slår opp med serier, viktigheten av å ha noen å heie på og om hvem som kommer til å kline i sesong tre!</description>
+      <guid isPermaLink="false">l_356c297f-fce6-4388-ac29-7ffce6a388ab</guid>
+      <pubDate>Fri, 06 Jul 2018 10:33:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/westworld-podden/westworld-podden_2018-07-06_0833_3150.MP3" type="audio/mpeg" length="114305516"></enclosure>
+      <itunes:title>Westworld S02 Debrif</itunes:title>
+      <itunes:summary>Sesong 2 er over og vi tar en liten debrif , svarer på spørsmål fra lytterne og går gjennom noen av fanteoriene som florerer på nett.&#xA;&#xA;Torkil Risan, blant annet kjent fra TVseriepodkasten, er ukas gjest, men han er ikke spesielt fornøyd med sesong 2 av Westworld. &#xA;&#xA;Vi snakker blant annet om hva som gjør at vi slår opp med serier, viktigheten av å ha noen å heie på og om hvem som kommer til å kline i sesong tre!</itunes:summary>
+      <itunes:duration>4762</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Westworld S02E10 The Passenger</title>
+      <link>https://radio.nrk.no/podkast/westworld-podden/l_739c1435-3305-450a-9c14-353305750ac0</link>
+      <description>For en sesongfinale! Vi ble nesten utslitt av alt som skjedde i finaleepisoden The Passenger, og vi er heller ikke helt enige i hvor bra episoden egentlig var.&#xA;&#xA;Dermed blir det stort engasjement når sesongfinalen diskuteres. Vi krangler om robotregler og menneskesyn, syter over at vi ikke fikk alle svarene vi ville ha, og ruster oss for krig mellom roboter og mennesker.&#xA;&#xA;Sigurd og Marte er på plass i studio, ukas gjest er Remi Horgar.</description>
+      <guid isPermaLink="false">l_739c1435-3305-450a-9c14-353305750ac0</guid>
+      <pubDate>Thu, 28 Jun 2018 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/westworld-podden/westworld-podden_2018-06-28_1300_1079.MP3" type="audio/mpeg" length="144884204"></enclosure>
+      <itunes:title>Westworld S02E10 The Passenger</itunes:title>
+      <itunes:summary>For en sesongfinale! Vi ble nesten utslitt av alt som skjedde i finaleepisoden The Passenger, og vi er heller ikke helt enige i hvor bra episoden egentlig var.&#xA;&#xA;Dermed blir det stort engasjement når sesongfinalen diskuteres. Vi krangler om robotregler og menneskesyn, syter over at vi ikke fikk alle svarene vi ville ha, og ruster oss for krig mellom roboter og mennesker.&#xA;&#xA;Sigurd og Marte er på plass i studio, ukas gjest er Remi Horgar.</itunes:summary>
+      <itunes:duration>6036</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Westworld S02E09 Vanishing Point</title>
+      <link>https://radio.nrk.no/podkast/westworld-podden/l_b2015e5b-3d09-4ad2-815e-5b3d095ad20a</link>
+      <description>I ukas Westworld-episode &#34;Vanishing Point&#34; merker vi at det blåser opp til en blodig finale-episode! Tidslinjene møtes, planer avsløres og familieforbindelsene settes virkelig på prøve.&#xA;&#xA;Vi kaster cowboyhatten og gyver løs på fanteorier, diskuterer hva som skjuler seg ved døra, hvem som lurer hvem og småkrangler om baderomsinnredning.&#xA;&#xA;Sigurd og Marte leder an, ukas gjest er Erlend Lånke Solbu.</description>
+      <guid isPermaLink="false">l_b2015e5b-3d09-4ad2-815e-5b3d095ad20a</guid>
+      <pubDate>Thu, 21 Jun 2018 16:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/westworld-podden/westworld-podden_2018-06-21_1403_156.MP3" type="audio/mpeg" length="110549420"></enclosure>
+      <itunes:title>Westworld S02E09 Vanishing Point</itunes:title>
+      <itunes:summary>I ukas Westworld-episode &#34;Vanishing Point&#34; merker vi at det blåser opp til en blodig finale-episode! Tidslinjene møtes, planer avsløres og familieforbindelsene settes virkelig på prøve.&#xA;&#xA;Vi kaster cowboyhatten og gyver løs på fanteorier, diskuterer hva som skjuler seg ved døra, hvem som lurer hvem og småkrangler om baderomsinnredning.&#xA;&#xA;Sigurd og Marte leder an, ukas gjest er Erlend Lånke Solbu.</itunes:summary>
+      <itunes:duration>4606</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Westworld S02E08 Kiksuya</title>
+      <link>https://radio.nrk.no/podkast/westworld-podden/l_c4cf8072-449b-4290-8f80-72449b229052</link>
+      <description>Westworld-podden konstaterer at ukas episode er den beste i hele sesong to. Episoden Kiksuya tok oss med på en reise som bergtok oss fullstendig.&#xA;&#xA;Vi lot oss fascinere av Akecheta, ble rørt av Maeve og er sykt spente på veien videre. Og Marte konstaterer at Akecheta herved er hennes nye favorittfigur!&#xA;&#xA;Newtons Lydia Gieselmann er ukas gjest, og NRK Vitens Erlend Lånke Solbu vikarierer som host sammen med Marte. </description>
+      <guid isPermaLink="false">l_c4cf8072-449b-4290-8f80-72449b229052</guid>
+      <pubDate>Thu, 14 Jun 2018 15:18:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/westworld-podden/westworld-podden_2018-06-14_1318_2790.MP3" type="audio/mpeg" length="77242430"></enclosure>
+      <itunes:title>Westworld S02E08 Kiksuya</itunes:title>
+      <itunes:summary>Westworld-podden konstaterer at ukas episode er den beste i hele sesong to. Episoden Kiksuya tok oss med på en reise som bergtok oss fullstendig.&#xA;&#xA;Vi lot oss fascinere av Akecheta, ble rørt av Maeve og er sykt spente på veien videre. Og Marte konstaterer at Akecheta herved er hennes nye favorittfigur!&#xA;&#xA;Newtons Lydia Gieselmann er ukas gjest, og NRK Vitens Erlend Lånke Solbu vikarierer som host sammen med Marte. </itunes:summary>
+      <itunes:duration>3214</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Westworld S02E07 Les Écorchés</title>
+      <link>https://radio.nrk.no/podkast/westworld-podden/l_4d3407b9-893e-4e5c-b407-b9893ede5ca9</link>
+      <description>For en episode! Det var utrolig mye som skjedde i episoden Les Écorchés denne uka. Vi kosa oss med pen action, synes synd på Bernard og synes Angela var kul. Vi diskuterer Fords gudekomplekser, hvor langt Dolores er villig til å gå, og om The Man in Black i det hele tatt var nødvendig i denne episoden. Og vet vi nå hva som skjer i finaleepisoden?&#xA;&#xA;Ting begynner å tilspisse seg i sesong to av Westworld nå, og Sigurd og Marte er tilsvarende gira. Det er også ukas gjest, sjølvaste Dr. Jones, kjent fra P3morgen og Lørdagsrådet. </description>
+      <guid isPermaLink="false">l_4d3407b9-893e-4e5c-b407-b9893ede5ca9</guid>
+      <pubDate>Thu, 07 Jun 2018 12:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/westworld-podden/westworld-podden_2018-06-07_1010_1246.MP3" type="audio/mpeg" length="90062711"></enclosure>
+      <itunes:title>Westworld S02E07 Les Écorchés</itunes:title>
+      <itunes:summary>For en episode! Det var utrolig mye som skjedde i episoden Les Écorchés denne uka. Vi kosa oss med pen action, synes synd på Bernard og synes Angela var kul. Vi diskuterer Fords gudekomplekser, hvor langt Dolores er villig til å gå, og om The Man in Black i det hele tatt var nødvendig i denne episoden. Og vet vi nå hva som skjer i finaleepisoden?&#xA;&#xA;Ting begynner å tilspisse seg i sesong to av Westworld nå, og Sigurd og Marte er tilsvarende gira. Det er også ukas gjest, sjølvaste Dr. Jones, kjent fra P3morgen og Lørdagsrådet. </itunes:summary>
+      <itunes:duration>3748</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Westworld S02E06 Phase Space</title>
+      <link>https://radio.nrk.no/podkast/westworld-podden/l_d9578f3c-8559-4fa0-978f-3c85590fa001</link>
+      <description>Westworld-podden konstaterer at ukas Westworld-episode er &#34;nesten orgasmisk bra&#34;. Bernard var knalltøff, Teddy var kul og Dolores ga oss en aha-opplevelse! &#xA;&#xA;I ukas podkast diskuterer vi hva The Cradle er, om Arnold har blitt klonet og hvilke hemmeligheter som skjuler seg bak The Man in Black. Så slår vi et slag for Dolores og retter kritikk mot skiltvesenet i Delos-parkene.&#xA;&#xA;Sigurd og Marte leder an som vanlig, og ukas gjest er Remi Horgar.</description>
+      <guid isPermaLink="false">l_d9578f3c-8559-4fa0-978f-3c85590fa001</guid>
+      <pubDate>Thu, 31 May 2018 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/westworld-podden/westworld-podden_2018-05-31_0600_531.MP3" type="audio/mpeg" length="144355610"></enclosure>
+      <itunes:title>Westworld S02E06 Phase Space</itunes:title>
+      <itunes:summary>Westworld-podden konstaterer at ukas Westworld-episode er &#34;nesten orgasmisk bra&#34;. Bernard var knalltøff, Teddy var kul og Dolores ga oss en aha-opplevelse! &#xA;&#xA;I ukas podkast diskuterer vi hva The Cradle er, om Arnold har blitt klonet og hvilke hemmeligheter som skjuler seg bak The Man in Black. Så slår vi et slag for Dolores og retter kritikk mot skiltvesenet i Delos-parkene.&#xA;&#xA;Sigurd og Marte leder an som vanlig, og ukas gjest er Remi Horgar.</itunes:summary>
+      <itunes:duration>6011</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Westworld S02E04-05</title>
+      <link>https://radio.nrk.no/podkast/westworld-podden/l_74ef5610-8c6e-49ed-af56-108c6e79edca</link>
+      <description>I ukas podkast går vi inn på episodene The Riddle of the Sphinx og Akane no Mai. Vi diskuterer robotbabyer, tvillingroboter, stilig retrofuturisme og dritkjipe næringslivsledere.  &#xA;&#xA;Erlend Lånke Solbu fra NRKs vitenskapspodkast Kuriøs, er ukas gjest, og han er drita lei av The Man in Black. Marte synes Dolores begynner å bli litt vel brutal og Sigurd er misunnelig på rumpa til Teddy...</description>
+      <guid isPermaLink="false">l_74ef5610-8c6e-49ed-af56-108c6e79edca</guid>
+      <pubDate>Fri, 25 May 2018 15:54:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/westworld-podden/westworld-podden_2018-05-25_1354_3192.MP3" type="audio/mpeg" length="118306933"></enclosure>
+      <itunes:title>Westworld S02E04-05</itunes:title>
+      <itunes:summary>I ukas podkast går vi inn på episodene The Riddle of the Sphinx og Akane no Mai. Vi diskuterer robotbabyer, tvillingroboter, stilig retrofuturisme og dritkjipe næringslivsledere.  &#xA;&#xA;Erlend Lånke Solbu fra NRKs vitenskapspodkast Kuriøs, er ukas gjest, og han er drita lei av The Man in Black. Marte synes Dolores begynner å bli litt vel brutal og Sigurd er misunnelig på rumpa til Teddy...</itunes:summary>
+      <itunes:duration>4925</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Westworld S02E03 Virtù e Fortuna</title>
+      <link>https://radio.nrk.no/podkast/westworld-podden/l_5798ae53-470c-465b-98ae-53470ca65b48</link>
+      <description>Ingrid Bolsø Berdal gjorde en heftig entré  i ukas Westworld-episode, og park nummer 6 ble avduket - vi kosa oss!&#xA;&#xA;Adelina fra Norske tilstander er ukas gjest og vi diskuterer blant annet hvor frigjort Teddy er fra programmeringen sin, hvor langt Dolores er villig til å gå for å oppnå det hun vil, og om Ghost Nation egentlig bare vil deg vel, selv om de truer med å skalpere deg...&#xA;&#xA;Innsendte fanteorier skal også til pers! Er Westworld under vann, og hva betyr egentlig arret Bernard har i panna?</description>
+      <guid isPermaLink="false">l_5798ae53-470c-465b-98ae-53470ca65b48</guid>
+      <pubDate>Thu, 10 May 2018 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/westworld-podden/westworld-podden_2018-05-10_0600_1582.MP3" type="audio/mpeg" length="155884076"></enclosure>
+      <itunes:title>Westworld S02E03 Virtù e Fortuna</itunes:title>
+      <itunes:summary>Ingrid Bolsø Berdal gjorde en heftig entré  i ukas Westworld-episode, og park nummer 6 ble avduket - vi kosa oss!&#xA;&#xA;Adelina fra Norske tilstander er ukas gjest og vi diskuterer blant annet hvor frigjort Teddy er fra programmeringen sin, hvor langt Dolores er villig til å gå for å oppnå det hun vil, og om Ghost Nation egentlig bare vil deg vel, selv om de truer med å skalpere deg...&#xA;&#xA;Innsendte fanteorier skal også til pers! Er Westworld under vann, og hva betyr egentlig arret Bernard har i panna?</itunes:summary>
+      <itunes:duration>6495</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Westworld S02E02 Reunion</title>
+      <link>https://radio.nrk.no/podkast/westworld-podden/l_7adf88de-8f5c-4f78-9f88-de8f5cff78ac</link>
+      <description>En av de beste Westworld-episodene så langt! Vi diskuterer robotsex, forsikringsproblemene med roboter i den virkelige verden og om Logan egentlig er kulere enn William. Og så krangler vi om møtet mellom våre to heltinner. Vi gjetter også på hvor mange sesonger vi kommer til å få og avslutter praten med en fanteori som gir oss kraftig hodepine.</description>
+      <guid isPermaLink="false">l_7adf88de-8f5c-4f78-9f88-de8f5cff78ac</guid>
+      <pubDate>Thu, 03 May 2018 17:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/westworld-podden/westworld-podden_2018-05-03_1503_225.MP3" type="audio/mpeg" length="112724972"></enclosure>
+      <itunes:title>Westworld S02E02 Reunion</itunes:title>
+      <itunes:summary>En av de beste Westworld-episodene så langt! Vi diskuterer robotsex, forsikringsproblemene med roboter i den virkelige verden og om Logan egentlig er kulere enn William. Og så krangler vi om møtet mellom våre to heltinner. Vi gjetter også på hvor mange sesonger vi kommer til å få og avslutter praten med en fanteori som gir oss kraftig hodepine.</itunes:summary>
+      <itunes:duration>4696</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Westworld S02E01 Journey Into Night</title>
+      <link>https://radio.nrk.no/podkast/westworld-podden/l_507fffe2-de79-40f6-bfff-e2de7980f606</link>
+      <description>Westworld sesong 2 er i gang, og vi diskuterer robotmoral, maurtuer og hevnoppgjør - og så lurer vi på hva i all verden Delos egentlig holder på med der ute i ørkenen. Vi deler ut ris og ros og innser at vi nok er vel så spent på fortiden som framtiden til den nå småskumle fornøyelsesparken. Som ukas gjest har Sigurd og Marte fått besøk av Erlend Lånke Solbu fra vitenskapspodden Kuriøs.</description>
+      <guid isPermaLink="false">l_507fffe2-de79-40f6-bfff-e2de7980f606</guid>
+      <pubDate>Thu, 26 Apr 2018 17:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/westworld-podden/westworld-podden_2018-04-26_1515_1575.MP3" type="audio/mpeg" length="87326764"></enclosure>
+      <itunes:title>Westworld S02E01 Journey Into Night</itunes:title>
+      <itunes:summary>Westworld sesong 2 er i gang, og vi diskuterer robotmoral, maurtuer og hevnoppgjør - og så lurer vi på hva i all verden Delos egentlig holder på med der ute i ørkenen. Vi deler ut ris og ros og innser at vi nok er vel så spent på fortiden som framtiden til den nå småskumle fornøyelsesparken. Som ukas gjest har Sigurd og Marte fått besøk av Erlend Lånke Solbu fra vitenskapspodden Kuriøs.</itunes:summary>
+      <itunes:duration>3634</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Westworld: Fanteorier og alt vi vet om sesong 2</title>
+      <link>https://radio.nrk.no/podkast/westworld-podden/l_4a6f23d5-0035-4240-af23-d50035324079</link>
+      <description>Velkommen til Filmpolitiets Westworld-podkast. Sigurd og Marte gleder seg veldig til sesong 2 som er rett rundt hjørnet. &#xA;&#xA;Vi ser tilbake på høydepunktene fra sesong 1, serverer alle fakta om sesong 2 og bruker fanteorier og trailere til å se nærmere på hva vi kan vente oss fra både roboter og mennesker i den kommende sesongen.&#xA;&#xA; Er Ford i live? Har egentlig noen av Robotene klart å komme seg ut av labyrinten? Og hvor blodig kommer den samuraiinspirerte Shogunworld til å bli? Vi tar debatten! Og vi kommer tilbake med flere Westworld-podkaster når serien starter opp igjen den 23. april.</description>
+      <guid isPermaLink="false">l_4a6f23d5-0035-4240-af23-d50035324079</guid>
+      <pubDate>Tue, 10 Apr 2018 11:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/westworld-podden/westworld-podden_2018-04-10_0915_2551.MP3" type="audio/mpeg" length="108149287"></enclosure>
+      <itunes:title>Westworld: Fanteorier og alt vi vet om sesong 2</itunes:title>
+      <itunes:summary>Velkommen til Filmpolitiets Westworld-podkast. Sigurd og Marte gleder seg veldig til sesong 2 som er rett rundt hjørnet. &#xA;&#xA;Vi ser tilbake på høydepunktene fra sesong 1, serverer alle fakta om sesong 2 og bruker fanteorier og trailere til å se nærmere på hva vi kan vente oss fra både roboter og mennesker i den kommende sesongen.&#xA;&#xA; Er Ford i live? Har egentlig noen av Robotene klart å komme seg ut av labyrinten? Og hvor blodig kommer den samuraiinspirerte Shogunworld til å bli? Vi tar debatten! Og vi kommer tilbake med flere Westworld-podkaster når serien starter opp igjen den 23. april.</itunes:summary>
+      <itunes:duration>4502</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bUPDHGtITtsFM7o-kfY66QX7fE_ZeW9ndwksw0NOGH0g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

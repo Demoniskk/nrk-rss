@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andregenerasjonen</title>
+    <link>https://radio.nrk.no/podkast/andregenerasjonen</link>
+    <description>Adam, Mutta og Cengiz  gir  deg ærlige diskusjoner om livet, damer og samfunnet. - Vi er her for å sette litt sukker i ørene deres. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Thu, 21 Mar 2019 20:48:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andregenerasjonen.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Adam, Mutta og Cengiz  gir  deg ærlige diskusjoner om livet, damer og samfunnet. - Vi er her for å sette litt sukker i ørene deres. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA</url>
+      <title>Andregenerasjonen</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen</link>
+    </image>
+    <item>
+      <title>Alkohol, Sophie Elise og Kristin Gjelsvik debatt og klimastreik.</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_a5b3aea9-1f74-41e7-b3ae-a91f74b1e7a2</link>
+      <description>Andregenerasjonen går inn i en stor diskusjon om «er det bare bare å slutte å drikke»  denne diskusjonen er vært å få med seg! Videre svarer gutta på «Hvordan øve best mulig til eksamen». Adam tar opp diskusjonen mellom Sophie Elise og Kristin Gjelsvik, og spør Cengiz og Mutta om hva de mener om det. Burde hasj være lov eller ikke? Gutta oppfordrer studenter til å delta i klimastreiken!</description>
+      <guid isPermaLink="false">l_a5b3aea9-1f74-41e7-b3ae-a91f74b1e7a2</guid>
+      <pubDate>Thu, 21 Mar 2019 21:48:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2019-03-21_2031_920.MP3" type="audio/mpeg" length="60991552"></enclosure>
+      <itunes:title>Alkohol, Sophie Elise og Kristin Gjelsvik debatt og klimastreik.</itunes:title>
+      <itunes:summary>Andregenerasjonen går inn i en stor diskusjon om «er det bare bare å slutte å drikke»  denne diskusjonen er vært å få med seg! Videre svarer gutta på «Hvordan øve best mulig til eksamen». Adam tar opp diskusjonen mellom Sophie Elise og Kristin Gjelsvik, og spør Cengiz og Mutta om hva de mener om det. Burde hasj være lov eller ikke? Gutta oppfordrer studenter til å delta i klimastreiken!</itunes:summary>
+      <itunes:duration>2537</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2019">201903</podcast:season>
+    </item>
+    <item>
+      <title>Andregenerasjonen </title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_7bcda1b5-a7b9-4a32-8da1-b5a7b95a326e</link>
+      <description>Andregenerasjonen er gira og svarer på sinnsykt mange bra spørsmål fra lytterne. Cengiz har atta med seg alias i håp om at han har blitt bedre til å forklare ord, fordi gutta mener at han er helt elendig. Mutta snakker om &#34;ostetrend&#34; på youtube, mens Cengiz er redd for Momo trenden som g¨år rundt på youtube. </description>
+      <guid isPermaLink="false">l_7bcda1b5-a7b9-4a32-8da1-b5a7b95a326e</guid>
+      <pubDate>Thu, 14 Mar 2019 21:43:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2019-03-14_2043_4000.MP3" type="audio/mpeg" length="59271249"></enclosure>
+      <itunes:title>Andregenerasjonen </itunes:title>
+      <itunes:summary>Andregenerasjonen er gira og svarer på sinnsykt mange bra spørsmål fra lytterne. Cengiz har atta med seg alias i håp om at han har blitt bedre til å forklare ord, fordi gutta mener at han er helt elendig. Mutta snakker om &#34;ostetrend&#34; på youtube, mens Cengiz er redd for Momo trenden som g¨år rundt på youtube. </itunes:summary>
+      <itunes:duration>2465</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2019">201903</podcast:season>
+    </item>
+    <item>
+      <title>andregenerasjonen podcast kultur</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_04f110b2-062f-4599-b110-b2062fd59918</link>
+      <description>Dagens sending er fylt med mye latter og stemning. Gutta deler sine tanker og opplevelser, og hører hva de andre har å si om det! Denne episoden blir det snakket om forsøpling, Nicki Minaj kysset, Adam som klarte å punktere dekket sitt på motorveien, krysskulturell humor, og mange andre gøyale ting!!</description>
+      <guid isPermaLink="false">l_04f110b2-062f-4599-b110-b2062fd59918</guid>
+      <pubDate>Thu, 07 Mar 2019 21:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2019-03-07_2030_689.MP3" type="audio/mpeg" length="65436581"></enclosure>
+      <itunes:title>andregenerasjonen podcast kultur</itunes:title>
+      <itunes:summary>Dagens sending er fylt med mye latter og stemning. Gutta deler sine tanker og opplevelser, og hører hva de andre har å si om det! Denne episoden blir det snakket om forsøpling, Nicki Minaj kysset, Adam som klarte å punktere dekket sitt på motorveien, krysskulturell humor, og mange andre gøyale ting!!</itunes:summary>
+      <itunes:duration>2722</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2019">201903</podcast:season>
+    </item>
+    <item>
+      <title>Andregenerasjonen, politiske hjertesaker.</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_41608d98-3585-4d3e-a08d-983585ad3edb</link>
+      <description>Andregenerasjonen forteller om hver sin politiske saker, en drøm om bilfri by. Elbusser som skal ta over kollektivtransport og målet om å være Oslo by med nullutslippsby innen 2030, får vi det til? Muttas teori om mobilbruk. Andregenerasjonen diskuterer videre om «Norges beste rappere». Adam forteller om en random debatt han deltok i, og konkluderer videre at dette skal han gjøre oftere. Hvordan livene våres tok retning etter Vgs. Hva betyr egentlig vareimeen. Småtjenester er noe viktigste man kan gjør i hverdagen.</description>
+      <guid isPermaLink="false">l_41608d98-3585-4d3e-a08d-983585ad3edb</guid>
+      <pubDate>Thu, 28 Feb 2019 21:45:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2019-02-28_2045_3505.MP3" type="audio/mpeg" length="58598561"></enclosure>
+      <itunes:title>Andregenerasjonen, politiske hjertesaker.</itunes:title>
+      <itunes:summary>Andregenerasjonen forteller om hver sin politiske saker, en drøm om bilfri by. Elbusser som skal ta over kollektivtransport og målet om å være Oslo by med nullutslippsby innen 2030, får vi det til? Muttas teori om mobilbruk. Andregenerasjonen diskuterer videre om «Norges beste rappere». Adam forteller om en random debatt han deltok i, og konkluderer videre at dette skal han gjøre oftere. Hvordan livene våres tok retning etter Vgs. Hva betyr egentlig vareimeen. Småtjenester er noe viktigste man kan gjør i hverdagen.</itunes:summary>
+      <itunes:duration>2437</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2019">201902</podcast:season>
+    </item>
+    <item>
+      <title>Medison Beer, Guttastemning vs. Jentestemning og Kriminell politi. </title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_54135f7d-3aa6-48e5-935f-7d3aa6f8e51a</link>
+      <description>Andregenerasjonen fikk møte  Medison Beer på P3! Videre så svarer gutta på spørsmål fra lytteren lurer, blant annet «kan dere bli sammen med ikke muslimske jenter?». Andregenerasjonen definerer, morsom, moro, gøy og lattis. Guttastemning vs. Jentestemning. Gutta prøver å hjelpe en lytter med et problem. Hvordan komme inn på allerede etablert vennegjeng. Andregenerasjonen tenker på hvorfor ikke kriminelle kan være politi? Kanskje det finnes gode veier til at de kan bli Politi. </description>
+      <guid isPermaLink="false">l_54135f7d-3aa6-48e5-935f-7d3aa6f8e51a</guid>
+      <pubDate>Thu, 21 Feb 2019 21:45:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2019-02-21_2045_3940.MP3" type="audio/mpeg" length="61529526"></enclosure>
+      <itunes:title>Medison Beer, Guttastemning vs. Jentestemning og Kriminell politi. </itunes:title>
+      <itunes:summary>Andregenerasjonen fikk møte  Medison Beer på P3! Videre så svarer gutta på spørsmål fra lytteren lurer, blant annet «kan dere bli sammen med ikke muslimske jenter?». Andregenerasjonen definerer, morsom, moro, gøy og lattis. Guttastemning vs. Jentestemning. Gutta prøver å hjelpe en lytter med et problem. Hvordan komme inn på allerede etablert vennegjeng. Andregenerasjonen tenker på hvorfor ikke kriminelle kan være politi? Kanskje det finnes gode veier til at de kan bli Politi. </itunes:summary>
+      <itunes:duration>2559</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2019">201902</podcast:season>
+    </item>
+    <item>
+      <title>Valentines day og overraskelsesdate på lufta</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_b2321751-e1b3-40ab-b217-51e1b310ab43</link>
+      <description>Det er Valentine spesial! Cengiz og Mutta satt opp Adam på date under livesending. Det var ikke bare en jente, men to. Videre er det også et litt mer seriøst tema, svarer gutta på; Økning i kriminalitet i Oslo. Norske uttrykk er selvfølgelig med. </description>
+      <guid isPermaLink="false">l_b2321751-e1b3-40ab-b217-51e1b310ab43</guid>
+      <pubDate>Fri, 15 Feb 2019 10:36:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2019-02-15_0936_498.MP3" type="audio/mpeg" length="58197268"></enclosure>
+      <itunes:title>Valentines day og overraskelsesdate på lufta</itunes:title>
+      <itunes:summary>Det er Valentine spesial! Cengiz og Mutta satt opp Adam på date under livesending. Det var ikke bare en jente, men to. Videre er det også et litt mer seriøst tema, svarer gutta på; Økning i kriminalitet i Oslo. Norske uttrykk er selvfølgelig med. </itunes:summary>
+      <itunes:duration>2421</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2019">201902</podcast:season>
+    </item>
+    <item>
+      <title>Sleep walking, norske uttrykk og Michael Jackson</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_519ddbd4-f789-4ab7-9ddb-d4f7895ab7f7</link>
+      <description>Er det kleint å se noen falle? Adam kommer opp med kloke tanker om hva han selv hadde hatt med på et øde øy for å overleve. Og som alltid får du også morsomme norske uttrykk! Cengiz har en veldig sinnsykt «Sleep walking» historie, som har skjedd på ekte. Gutta snakker videre om Michael Jakcson sin nye dokumentar serier, der han blir anklaget for pedofili.  </description>
+      <guid isPermaLink="false">l_519ddbd4-f789-4ab7-9ddb-d4f7895ab7f7</guid>
+      <pubDate>Fri, 08 Feb 2019 09:56:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2019-02-08_0856_3569.MP3" type="audio/mpeg" length="59066898"></enclosure>
+      <itunes:title>Sleep walking, norske uttrykk og Michael Jackson</itunes:title>
+      <itunes:summary>Er det kleint å se noen falle? Adam kommer opp med kloke tanker om hva han selv hadde hatt med på et øde øy for å overleve. Og som alltid får du også morsomme norske uttrykk! Cengiz har en veldig sinnsykt «Sleep walking» historie, som har skjedd på ekte. Gutta snakker videre om Michael Jakcson sin nye dokumentar serier, der han blir anklaget for pedofili.  </itunes:summary>
+      <itunes:duration>2457</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2019">201902</podcast:season>
+    </item>
+    <item>
+      <title>Slossing, lykke og urettferdighet</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_1d4fbe32-e9b8-47b6-8fbe-32e9b897b626</link>
+      <description>Hvordan ser den perfekte dagen ut? Gutta gir serietips, og snakker om nye serien «YOU» på netflix. Det er psykologisk bevis på at man blir mer motivert, positiv og lykkeligere av å dra på Eventer, Cengiz angrer på at han ikke dro på et event Adam var på i helgen. Skal man gripe inn når man ser noen sloss? Gutta diskuterer hva man bør gjøre hvis man ser en slåsskamp. Adam forteller opplevelsen hans, da han ble ransaket før han skulle på opptre på konsert. </description>
+      <guid isPermaLink="false">l_1d4fbe32-e9b8-47b6-8fbe-32e9b897b626</guid>
+      <pubDate>Thu, 31 Jan 2019 21:08:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2019-01-31_2008_468.MP3" type="audio/mpeg" length="66906738"></enclosure>
+      <itunes:title>Slossing, lykke og urettferdighet</itunes:title>
+      <itunes:summary>Hvordan ser den perfekte dagen ut? Gutta gir serietips, og snakker om nye serien «YOU» på netflix. Det er psykologisk bevis på at man blir mer motivert, positiv og lykkeligere av å dra på Eventer, Cengiz angrer på at han ikke dro på et event Adam var på i helgen. Skal man gripe inn når man ser noen sloss? Gutta diskuterer hva man bør gjøre hvis man ser en slåsskamp. Adam forteller opplevelsen hans, da han ble ransaket før han skulle på opptre på konsert. </itunes:summary>
+      <itunes:duration>2784</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2019">201901</podcast:season>
+    </item>
+    <item>
+      <title>Gåter, musikkanalyse og surrealistisk motorsykkeltur</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_92a114d0-6739-43fb-a114-d0673933fb7e</link>
+      <description>I dag blir vi med inn i en surrealistisk historie fra guttas ferie i Marokko. Det blir også analyse av musikktekster, gåter og pinlige historier fra Bali. </description>
+      <guid isPermaLink="false">l_92a114d0-6739-43fb-a114-d0673933fb7e</guid>
+      <pubDate>Fri, 18 Jan 2019 09:29:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2019-01-18_0829_2029.MP3" type="audio/mpeg" length="73132891"></enclosure>
+      <itunes:title>Gåter, musikkanalyse og surrealistisk motorsykkeltur</itunes:title>
+      <itunes:summary>I dag blir vi med inn i en surrealistisk historie fra guttas ferie i Marokko. Det blir også analyse av musikktekster, gåter og pinlige historier fra Bali. </itunes:summary>
+      <itunes:duration>3043</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2019">201901</podcast:season>
+    </item>
+    <item>
+      <title>Terror, ferie og kusma</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_d0db4ff8-fce3-40c3-9b4f-f8fce3f0c324</link>
+      <description>Gutta har vært på ferie og har kommet tilbake med masse opplevelser om reisen. Adam og Mutta snakker om terror angrepet i Marokko, hvordan det føltes og være der nede, mens hendelsen skjedde. Andregenerasjonens nyttårsforsetter. Verste opplevelsen i 2018, Adam har fått nemlig KUSMA!</description>
+      <guid isPermaLink="false">l_d0db4ff8-fce3-40c3-9b4f-f8fce3f0c324</guid>
+      <pubDate>Thu, 10 Jan 2019 21:07:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2019-01-10_2007_3270.MP3" type="audio/mpeg" length="77331454"></enclosure>
+      <itunes:title>Terror, ferie og kusma</itunes:title>
+      <itunes:summary>Gutta har vært på ferie og har kommet tilbake med masse opplevelser om reisen. Adam og Mutta snakker om terror angrepet i Marokko, hvordan det føltes og være der nede, mens hendelsen skjedde. Andregenerasjonens nyttårsforsetter. Verste opplevelsen i 2018, Adam har fått nemlig KUSMA!</itunes:summary>
+      <itunes:duration>3218</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2019">201901</podcast:season>
+    </item>
+    <item>
+      <title>Nyttårsaften, søvnparalyse og brukket kragebein</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_504fd9a6-f01a-4dc6-8fd9-a6f01acdc641</link>
+      <description>Hvor hadde dere reist hvis dere hadde deres eget privatfly? Andregenerasjonen snakker om drømmedestinasjoner. Cengiz forteller den sykeste opplevelsen han hadde på en scene da han dansa. Cengiz skjønner ikke noe av norske utrykket, ikke en gang forklaringen av det. Mutta har problemer med å sove under stresset situasjoner, det viser seg at det han går igjennom søvnen er så kaldt søvnparalyse. Adam forteller om dagen han brakk kragebeinet. </description>
+      <guid isPermaLink="false">l_504fd9a6-f01a-4dc6-8fd9-a6f01acdc641</guid>
+      <pubDate>Thu, 13 Dec 2018 21:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-12-13_2003_65.MP3" type="audio/mpeg" length="75120290"></enclosure>
+      <itunes:title>Nyttårsaften, søvnparalyse og brukket kragebein</itunes:title>
+      <itunes:summary>Hvor hadde dere reist hvis dere hadde deres eget privatfly? Andregenerasjonen snakker om drømmedestinasjoner. Cengiz forteller den sykeste opplevelsen han hadde på en scene da han dansa. Cengiz skjønner ikke noe av norske utrykket, ikke en gang forklaringen av det. Mutta har problemer med å sove under stresset situasjoner, det viser seg at det han går igjennom søvnen er så kaldt søvnparalyse. Adam forteller om dagen han brakk kragebeinet. </itunes:summary>
+      <itunes:duration>3126</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2018">201812</podcast:season>
+    </item>
+    <item>
+      <title>06.12.18 Adam har hatt bursdag!</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_5bf05357-654e-4bd5-b053-57654e0bd56b</link>
+      <description>Adam har blitt overrasket på sin bursdag, og Cengiz har nesten blitt scammed på nettet! Gutta beskriver sine drømmehytter, hvordan det skal se ut og hvor det skal ligge. &#xA;Prestasjonen under norske ord og uttrykk viser seg å være ganske bra, men de failer fremdeles litt. Mutta og Cengiz overrasket Adam med bursdagsgave under blindtest. Mutta tar opp et viktig tema om fordommer som går alle til å tenke litt ekstra. &#xA;</description>
+      <guid isPermaLink="false">l_5bf05357-654e-4bd5-b053-57654e0bd56b</guid>
+      <pubDate>Thu, 06 Dec 2018 21:12:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-12-06_2012_2910.MP3" type="audio/mpeg" length="76908290"></enclosure>
+      <itunes:title>06.12.18 Adam har hatt bursdag!</itunes:title>
+      <itunes:summary>Adam har blitt overrasket på sin bursdag, og Cengiz har nesten blitt scammed på nettet! Gutta beskriver sine drømmehytter, hvordan det skal se ut og hvor det skal ligge. &#xA;Prestasjonen under norske ord og uttrykk viser seg å være ganske bra, men de failer fremdeles litt. Mutta og Cengiz overrasket Adam med bursdagsgave under blindtest. Mutta tar opp et viktig tema om fordommer som går alle til å tenke litt ekstra. &#xA;</itunes:summary>
+      <itunes:duration>3200</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2018">201812</podcast:season>
+    </item>
+    <item>
+      <title>P3Gull, barnenavn og kattehat</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_c7a9fdd7-d71d-4b5b-a9fd-d7d71ddb5b68</link>
+      <description>Gutta tar for seg dagens tema, nemlig P3Gull! Det blir sladder fra etterfesten, backstage og det hele! Vi blir også med på den beste opplevelsen til Andregenerasjonen hadde sammen. Det blir også diskusjon om man skal ha hund eller katt og hva deres fremtidige barn skal hete. </description>
+      <guid isPermaLink="false">l_c7a9fdd7-d71d-4b5b-a9fd-d7d71ddb5b68</guid>
+      <pubDate>Thu, 29 Nov 2018 21:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-11-29_2000_742.MP3" type="audio/mpeg" length="68084748"></enclosure>
+      <itunes:title>P3Gull, barnenavn og kattehat</itunes:title>
+      <itunes:summary>Gutta tar for seg dagens tema, nemlig P3Gull! Det blir sladder fra etterfesten, backstage og det hele! Vi blir også med på den beste opplevelsen til Andregenerasjonen hadde sammen. Det blir også diskusjon om man skal ha hund eller katt og hva deres fremtidige barn skal hete. </itunes:summary>
+      <itunes:duration>2833</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>Gir Andregenerasjonen julegaver?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_cddc7cce-c8a2-4733-9c7c-cec8a29733ea</link>
+      <description>Andregenerasjonen er som vanlig klare for torsdagskvelden. Det er Mutta som har med blindtest og samtlige står helt fast på dagens norske uttrykk. I tillegg skal det avgjøres hvem av gutta som er best å bo med og jula nærmer seg!</description>
+      <guid isPermaLink="false">l_cddc7cce-c8a2-4733-9c7c-cec8a29733ea</guid>
+      <pubDate>Sat, 24 Nov 2018 10:17:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-11-24_0917_741.MP3" type="audio/mpeg" length="75117126"></enclosure>
+      <itunes:title>Gir Andregenerasjonen julegaver?</itunes:title>
+      <itunes:summary>Andregenerasjonen er som vanlig klare for torsdagskvelden. Det er Mutta som har med blindtest og samtlige står helt fast på dagens norske uttrykk. I tillegg skal det avgjøres hvem av gutta som er best å bo med og jula nærmer seg!</itunes:summary>
+      <itunes:duration>3126</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>Aldri ut eller aldri inn i Norge?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_264708b1-cba0-46f9-8708-b1cba026f9fb</link>
+      <description>Gutta har fått Cengiz tilbake! De har vært på spillkveld hos tre lyttere i Sarpsborg hvor Cengiz vant i Alias for første gang.  De tar også dilemmaet &#34;Aldri dra ut av Norge eller forlate Norge og aldri komme inn igjen?&#34;&#xA;</description>
+      <guid isPermaLink="false">l_264708b1-cba0-46f9-8708-b1cba026f9fb</guid>
+      <pubDate>Thu, 15 Nov 2018 21:10:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-11-15_2010_181.MP3" type="audio/mpeg" length="74142238"></enclosure>
+      <itunes:title>Aldri ut eller aldri inn i Norge?</itunes:title>
+      <itunes:summary>Gutta har fått Cengiz tilbake! De har vært på spillkveld hos tre lyttere i Sarpsborg hvor Cengiz vant i Alias for første gang.  De tar også dilemmaet &#34;Aldri dra ut av Norge eller forlate Norge og aldri komme inn igjen?&#34;&#xA;</itunes:summary>
+      <itunes:duration>3085</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>Hjemme alene-fest!</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_dfb3d467-e787-4e62-b3d4-67e7870e6252</link>
+      <description>Mutta og Adam sørger over Cengiz sitt fravær, men det stopper ikke den gode stemningen. Hummer og kanari, rosin i pølsa, HVA VIL DET SI? Er det egentlig greit å lyve??</description>
+      <guid isPermaLink="false">l_dfb3d467-e787-4e62-b3d4-67e7870e6252</guid>
+      <pubDate>Thu, 08 Nov 2018 21:14:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-11-08_2014_1146.MP3" type="audio/mpeg" length="68126103"></enclosure>
+      <itunes:title>Hjemme alene-fest!</itunes:title>
+      <itunes:summary>Mutta og Adam sørger over Cengiz sitt fravær, men det stopper ikke den gode stemningen. Hummer og kanari, rosin i pølsa, HVA VIL DET SI? Er det egentlig greit å lyve??</itunes:summary>
+      <itunes:duration>2834</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>01.11.18 Halloween-debrief</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_3da8920c-168b-4fe9-a892-0c168bcfe9cb</link>
+      <description>Et utrolig morsomt spørsmål kom fra en lytter. Cengiz holdt på å falle av stolen, og lo så han fikk tårer i øynene. Adam forteller om sin Halloweenskrekk som henger igjen fra barndommen. Og hva betyr egentlig det å &#34;Bli tatt på senga?&#34; </description>
+      <guid isPermaLink="false">l_3da8920c-168b-4fe9-a892-0c168bcfe9cb</guid>
+      <pubDate>Thu, 01 Nov 2018 21:09:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-11-01_2009_2140.MP3" type="audio/mpeg" length="65597678"></enclosure>
+      <itunes:title>01.11.18 Halloween-debrief</itunes:title>
+      <itunes:summary>Et utrolig morsomt spørsmål kom fra en lytter. Cengiz holdt på å falle av stolen, og lo så han fikk tårer i øynene. Adam forteller om sin Halloweenskrekk som henger igjen fra barndommen. Og hva betyr egentlig det å &#34;Bli tatt på senga?&#34; </itunes:summary>
+      <itunes:duration>2729</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>Har Mutta ditcha Cengiz?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_24ceac4c-8243-4962-8eac-4c8243c96260</link>
+      <description>Det blir både krangling og kjærlighet i dagens sending. Cengiz konfronterer Mutta med at han ikke kom i bursdagen hans, Adam har med ny uttrykk og det blir selvsagt blindtest. </description>
+      <guid isPermaLink="false">l_24ceac4c-8243-4962-8eac-4c8243c96260</guid>
+      <pubDate>Thu, 25 Oct 2018 21:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-10-25_1900_3470.MP3" type="audio/mpeg" length="69447702"></enclosure>
+      <itunes:title>Har Mutta ditcha Cengiz?</itunes:title>
+      <itunes:summary>Det blir både krangling og kjærlighet i dagens sending. Cengiz konfronterer Mutta med at han ikke kom i bursdagen hans, Adam har med ny uttrykk og det blir selvsagt blindtest. </itunes:summary>
+      <itunes:duration>2889</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2018">201810</podcast:season>
+    </item>
+    <item>
+      <title>Vår flaueste opplevelse</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_b988c130-ebe6-4d89-88c1-30ebe6cd89c5</link>
+      <description>Hva er vårt flaueste øyeblikk? Mange morsomme spørsmål fra lytterne. Adam klarte å søle Pepsi over hele jingelbordet…!! Og selvfølgelig går vi aldri tomme for morsomme norske uttrykk.</description>
+      <guid isPermaLink="false">l_b988c130-ebe6-4d89-88c1-30ebe6cd89c5</guid>
+      <pubDate>Thu, 04 Oct 2018 20:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-10-04_1809_2991.MP3" type="audio/mpeg" length="66144987"></enclosure>
+      <itunes:title>Vår flaueste opplevelse</itunes:title>
+      <itunes:summary>Hva er vårt flaueste øyeblikk? Mange morsomme spørsmål fra lytterne. Adam klarte å søle Pepsi over hele jingelbordet…!! Og selvfølgelig går vi aldri tomme for morsomme norske uttrykk.</itunes:summary>
+      <itunes:duration>2752</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2018">201810</podcast:season>
+    </item>
+    <item>
+      <title>Hva pUnsker vi på i dag? </title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_d361326a-fce5-407c-a132-6afce5d07cc6</link>
+      <description>Når er det best å trene egentlig? Det er viktig å ha rutiner i hverdagen, og ha positiv energi. Cengiz mener at paprika og brunost er en perfekt match - hva mener Mutta og Adam? Det dukker også opp en meget spennende blindtest! </description>
+      <guid isPermaLink="false">l_d361326a-fce5-407c-a132-6afce5d07cc6</guid>
+      <pubDate>Thu, 27 Sep 2018 21:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-09-27_1911_896.MP3" type="audio/mpeg" length="69062774"></enclosure>
+      <itunes:title>Hva pUnsker vi på i dag? </itunes:title>
+      <itunes:summary>Når er det best å trene egentlig? Det er viktig å ha rutiner i hverdagen, og ha positiv energi. Cengiz mener at paprika og brunost er en perfekt match - hva mener Mutta og Adam? Det dukker også opp en meget spennende blindtest! </itunes:summary>
+      <itunes:duration>2873</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Fremtidsplaner og beste sjekketriks</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_2272eb35-ad86-44f1-b2eb-35ad8634f1c3</link>
+      <description>Adam, Mutta og Cengiz snakker om å føle seg utenfor, hvor de vil være om ti år og prøver å forstå Norske uttrykk. Lytterne sender inn sine beste sjekkereplikker og Cengiz forteller om sjekkereplikken som kapret hans kjærestes hjerte. I tillegg har Mutta en blindtest til Cengiz og Adam.&#xA;</description>
+      <guid isPermaLink="false">l_2272eb35-ad86-44f1-b2eb-35ad8634f1c3</guid>
+      <pubDate>Thu, 20 Sep 2018 21:16:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-09-20_1916_343.MP3" type="audio/mpeg" length="61985272"></enclosure>
+      <itunes:title>Fremtidsplaner og beste sjekketriks</itunes:title>
+      <itunes:summary>Adam, Mutta og Cengiz snakker om å føle seg utenfor, hvor de vil være om ti år og prøver å forstå Norske uttrykk. Lytterne sender inn sine beste sjekkereplikker og Cengiz forteller om sjekkereplikken som kapret hans kjærestes hjerte. I tillegg har Mutta en blindtest til Cengiz og Adam.&#xA;</itunes:summary>
+      <itunes:duration>2578</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Andregenerasjonen er tilbake: Vil vi flytte fra Norge?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_7637be17-005d-4c41-b7be-17005dac415f</link>
+      <description>Andregenerasjonen får spørsmål fra lytterne, og kårer vinner av beste spørsmål. Adam har glemt igjen baggen i flyet, og Cengiz får ikke bake fordi han kan dø av det..? &#xA;Endelig er vi tilbake!&#xA;</description>
+      <guid isPermaLink="false">l_7637be17-005d-4c41-b7be-17005dac415f</guid>
+      <pubDate>Thu, 13 Sep 2018 21:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-09-13_1910_1421.MP3" type="audio/mpeg" length="67538077"></enclosure>
+      <itunes:title>Andregenerasjonen er tilbake: Vil vi flytte fra Norge?</itunes:title>
+      <itunes:summary>Andregenerasjonen får spørsmål fra lytterne, og kårer vinner av beste spørsmål. Adam har glemt igjen baggen i flyet, og Cengiz får ikke bake fordi han kan dø av det..? &#xA;Endelig er vi tilbake!&#xA;</itunes:summary>
+      <itunes:duration>2810</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Hvordan går det med ramadan? </title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_36989a3b-80ae-405f-989a-3b80ae005faf</link>
+      <description>Gutta er midt i ramadan og snakker om hvorfor de faster, diskuterer mat til de begynner å sikle og forteller om tradisjoner og feiring. Hva er det beste med ramadan - maten eller å leke boksen går i mørket? </description>
+      <guid isPermaLink="false">l_36989a3b-80ae-405f-989a-3b80ae005faf</guid>
+      <pubDate>Thu, 31 May 2018 10:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-05-31_0802_2351.MP3" type="audio/mpeg" length="45846599"></enclosure>
+      <itunes:title>Hvordan går det med ramadan? </itunes:title>
+      <itunes:summary>Gutta er midt i ramadan og snakker om hvorfor de faster, diskuterer mat til de begynner å sikle og forteller om tradisjoner og feiring. Hva er det beste med ramadan - maten eller å leke boksen går i mørket? </itunes:summary>
+      <itunes:duration>1906</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2018">201805</podcast:season>
+    </item>
+    <item>
+      <title>Kan man avfølge en venn? </title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_e6d047bc-b0f6-41c6-9047-bcb0f6c1c659</link>
+      <description>Adam har slettet Snapchat til de andres fortvilelse, gutta diskuterer sosiale medie-trender, den mørke siden av Internett og kjendistilværelsen. Hvilken hendelse fikk det til å koke over for Cengiz? </description>
+      <guid isPermaLink="false">l_e6d047bc-b0f6-41c6-9047-bcb0f6c1c659</guid>
+      <pubDate>Thu, 24 May 2018 10:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-05-24_0805_604.MP3" type="audio/mpeg" length="48743070"></enclosure>
+      <itunes:title>Kan man avfølge en venn? </itunes:title>
+      <itunes:summary>Adam har slettet Snapchat til de andres fortvilelse, gutta diskuterer sosiale medie-trender, den mørke siden av Internett og kjendistilværelsen. Hvilken hendelse fikk det til å koke over for Cengiz? </itunes:summary>
+      <itunes:duration>2027</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2018">201805</podcast:season>
+    </item>
+    <item>
+      <title>Kan en somalier gå i bunad? </title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_376ac78b-1f43-4d38-aac7-8b1f431d38cc</link>
+      <description>Gutta snakker om 17. mai! De diskuterer om alle faktisk kan gå i bunad, Adam mener at det kun skal være lov med norske flagg på Norges nasjonaldag, Cengiz forteller om sin faste 17. mai tradisjon og de diskuterer konseptet sjampanjefrokost. </description>
+      <guid isPermaLink="false">l_376ac78b-1f43-4d38-aac7-8b1f431d38cc</guid>
+      <pubDate>Wed, 16 May 2018 10:54:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-05-16_0854_1760.MP3" type="audio/mpeg" length="36852550"></enclosure>
+      <itunes:title>Kan en somalier gå i bunad? </itunes:title>
+      <itunes:summary>Gutta snakker om 17. mai! De diskuterer om alle faktisk kan gå i bunad, Adam mener at det kun skal være lov med norske flagg på Norges nasjonaldag, Cengiz forteller om sin faste 17. mai tradisjon og de diskuterer konseptet sjampanjefrokost. </itunes:summary>
+      <itunes:duration>1531</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2018">201805</podcast:season>
+    </item>
+    <item>
+      <title>Tar du dine egne valg?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_3dbfd0b8-45be-43aa-bfd0-b845be93aaea</link>
+      <description>Guttene diskuterer små og store valg i livet, tenker over viktige valg de har tatt og Mutta og Adam forteller om en taxitur som satt dem helt ut. </description>
+      <guid isPermaLink="false">l_3dbfd0b8-45be-43aa-bfd0-b845be93aaea</guid>
+      <pubDate>Thu, 10 May 2018 07:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-05-10_0500_284.MP3" type="audio/mpeg" length="35053847"></enclosure>
+      <itunes:title>Tar du dine egne valg?</itunes:title>
+      <itunes:summary>Guttene diskuterer små og store valg i livet, tenker over viktige valg de har tatt og Mutta og Adam forteller om en taxitur som satt dem helt ut. </itunes:summary>
+      <itunes:duration>1456</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2018">201805</podcast:season>
+    </item>
+    <item>
+      <title>Hvorfor ruser man seg?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_2ad84e6f-3ae2-4aca-984e-6f3ae2baca32</link>
+      <description>Gutta har fått en melding fra en gutt som har mange venner som røyker weed. Er det greit? Hva tenker egentlig guttene om weed? Det blir diskusjoner rundt rusmidler, venner, musikkmiljøet og studentlivet i dagens episode. </description>
+      <guid isPermaLink="false">l_2ad84e6f-3ae2-4aca-984e-6f3ae2baca32</guid>
+      <pubDate>Thu, 03 May 2018 11:49:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-05-03_0949_1159.MP3" type="audio/mpeg" length="48477231"></enclosure>
+      <itunes:title>Hvorfor ruser man seg?</itunes:title>
+      <itunes:summary>Gutta har fått en melding fra en gutt som har mange venner som røyker weed. Er det greit? Hva tenker egentlig guttene om weed? Det blir diskusjoner rundt rusmidler, venner, musikkmiljøet og studentlivet i dagens episode. </itunes:summary>
+      <itunes:duration>2016</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2018">201805</podcast:season>
+    </item>
+    <item>
+      <title>Hva tenker du om russetida?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_8e339c33-daa4-4626-b39c-33daa4662659</link>
+      <description>Guttene snakker om da de selv var russ, forteller historier fra rulling og diskuterer positive og negative sider ved det å være russ. Hvilken av guttene tror du sov på skolen i russetida?</description>
+      <guid isPermaLink="false">l_8e339c33-daa4-4626-b39c-33daa4662659</guid>
+      <pubDate>Thu, 26 Apr 2018 11:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-04-26_0911_850.MP3" type="audio/mpeg" length="55000535"></enclosure>
+      <itunes:title>Hva tenker du om russetida?</itunes:title>
+      <itunes:summary>Guttene snakker om da de selv var russ, forteller historier fra rulling og diskuterer positive og negative sider ved det å være russ. Hvilken av guttene tror du sov på skolen i russetida?</itunes:summary>
+      <itunes:duration>2287</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2018">201804</podcast:season>
+    </item>
+    <item>
+      <title>Husker du da vi var små? </title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_5f069a72-8ead-4c59-869a-728ead8c59d5</link>
+      <description>Gutta snakker om hobbyer de hadde som barn og Adam kommer med en sjokkerende avsløring. Hvilket NM var Adam med i? &#xA;De mimrer tilbake til historier fra barndommen, både nær-døden-opplevelser, å finne snarveier og å spise brennesle. </description>
+      <guid isPermaLink="false">l_5f069a72-8ead-4c59-869a-728ead8c59d5</guid>
+      <pubDate>Thu, 19 Apr 2018 09:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-04-19_0711_393.MP3" type="audio/mpeg" length="45502411"></enclosure>
+      <itunes:title>Husker du da vi var små? </itunes:title>
+      <itunes:summary>Gutta snakker om hobbyer de hadde som barn og Adam kommer med en sjokkerende avsløring. Hvilket NM var Adam med i? &#xA;De mimrer tilbake til historier fra barndommen, både nær-døden-opplevelser, å finne snarveier og å spise brennesle. </itunes:summary>
+      <itunes:duration>1892</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2018">201804</podcast:season>
+    </item>
+    <item>
+      <title>Når bør man flytte hjemmefra? </title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_b2107737-416b-4382-9077-37416be38217</link>
+      <description>Adam vurderer å flytte hjemmefra og ber om råd fra de andre. Gutta diskuterer klesvask og romkamerater. Mutta er i eksamensperioden og trenger motivasjon. Adam forteller om da han sovnet på eksamen og Cengiz kommer med en guide til hvordan man skal pugge pensum. </description>
+      <guid isPermaLink="false">l_b2107737-416b-4382-9077-37416be38217</guid>
+      <pubDate>Thu, 12 Apr 2018 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-04-12_0800_3767.MP3" type="audio/mpeg" length="42388417"></enclosure>
+      <itunes:title>Når bør man flytte hjemmefra? </itunes:title>
+      <itunes:summary>Adam vurderer å flytte hjemmefra og ber om råd fra de andre. Gutta diskuterer klesvask og romkamerater. Mutta er i eksamensperioden og trenger motivasjon. Adam forteller om da han sovnet på eksamen og Cengiz kommer med en guide til hvordan man skal pugge pensum. </itunes:summary>
+      <itunes:duration>1762</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2018">201804</podcast:season>
+    </item>
+    <item>
+      <title>Er tjenester bare egoistiske? </title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_fac2ec3f-e965-40ff-82ec-3fe96550ff77</link>
+      <description>Gutta diskuterer hvem som er best til å danse. Adam har fått en melding av en gutt som har blitt dumpa, og alle kommer med råd. Mutta lurer på hvor ofte og hvorfor guttene gjør tjenester for andre, og det blir heftig diskusjon rundt temaet. </description>
+      <guid isPermaLink="false">l_fac2ec3f-e965-40ff-82ec-3fe96550ff77</guid>
+      <pubDate>Thu, 05 Apr 2018 11:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-04-05_0903_1985.MP3" type="audio/mpeg" length="49027067"></enclosure>
+      <itunes:title>Er tjenester bare egoistiske? </itunes:title>
+      <itunes:summary>Gutta diskuterer hvem som er best til å danse. Adam har fått en melding av en gutt som har blitt dumpa, og alle kommer med råd. Mutta lurer på hvor ofte og hvorfor guttene gjør tjenester for andre, og det blir heftig diskusjon rundt temaet. </itunes:summary>
+      <itunes:duration>2039</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2018">201804</podcast:season>
+    </item>
+    <item>
+      <title>Er førsteinntrykket viktig? </title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_3576f8a2-9a02-42e0-b6f8-a29a02d2e009</link>
+      <description>Gutta diskuterer hvorfor vi feirer påske og snakker om egne tradisjoner. &#xA;Cengiz forteller om et hemmelig oppdrag Mutta fikk i bursdagen til dama hans. &#xA;Mutta forteller om det dårligste førsteinntrykket han har gitt og de diskuterer hva som er et godt førsteinntrykk. Adam deler sitt beste spaminne og Cengiz forteller om en snill mann han møtte i Afrika og stiller gutta et moralsk spørsmål. </description>
+      <guid isPermaLink="false">l_3576f8a2-9a02-42e0-b6f8-a29a02d2e009</guid>
+      <pubDate>Thu, 29 Mar 2018 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-03-29_0600_2981.MP3" type="audio/mpeg" length="41879969"></enclosure>
+      <itunes:title>Er førsteinntrykket viktig? </itunes:title>
+      <itunes:summary>Gutta diskuterer hvorfor vi feirer påske og snakker om egne tradisjoner. &#xA;Cengiz forteller om et hemmelig oppdrag Mutta fikk i bursdagen til dama hans. &#xA;Mutta forteller om det dårligste førsteinntrykket han har gitt og de diskuterer hva som er et godt førsteinntrykk. Adam deler sitt beste spaminne og Cengiz forteller om en snill mann han møtte i Afrika og stiller gutta et moralsk spørsmål. </itunes:summary>
+      <itunes:duration>1741</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2018">201803</podcast:season>
+    </item>
+    <item>
+      <title>Hva er religion for deg?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_c9f93fc6-1555-4651-b93f-c615553651fe</link>
+      <description>Cengiz drømmer seg tilbake til da guttene var på Roskilde, og de deler sine beste og verste minner fra festivalen. &#xA;Mutta lurer på hva de andre definerer som en god venn. &#xA;Adam forteller om da han på ungdomsskolen bestemte seg for å bli muslim, og gutta deler tanker rundt egen tro. </description>
+      <guid isPermaLink="false">l_c9f93fc6-1555-4651-b93f-c615553651fe</guid>
+      <pubDate>Thu, 22 Mar 2018 09:55:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-03-22_0855_3428.MP3" type="audio/mpeg" length="55352877"></enclosure>
+      <itunes:title>Hva er religion for deg?</itunes:title>
+      <itunes:summary>Cengiz drømmer seg tilbake til da guttene var på Roskilde, og de deler sine beste og verste minner fra festivalen. &#xA;Mutta lurer på hva de andre definerer som en god venn. &#xA;Adam forteller om da han på ungdomsskolen bestemte seg for å bli muslim, og gutta deler tanker rundt egen tro. </itunes:summary>
+      <itunes:duration>2302</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2018">201803</podcast:season>
+    </item>
+    <item>
+      <title>Lyver du til foreldrene dine?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_f4568660-cf4b-4a49-9686-60cf4bca49e8</link>
+      <description>Mutta forteller om da han ble beskyldt for å være full, Cengiz mener han aldri har løyet til moren sin og alle reflekterer over sitt eget forhold til foreldrene sine. </description>
+      <guid isPermaLink="false">l_f4568660-cf4b-4a49-9686-60cf4bca49e8</guid>
+      <pubDate>Thu, 15 Mar 2018 09:35:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-03-15_0835_3759.MP3" type="audio/mpeg" length="56440001"></enclosure>
+      <itunes:title>Lyver du til foreldrene dine?</itunes:title>
+      <itunes:summary>Mutta forteller om da han ble beskyldt for å være full, Cengiz mener han aldri har løyet til moren sin og alle reflekterer over sitt eget forhold til foreldrene sine. </itunes:summary>
+      <itunes:duration>2347</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2018">201803</podcast:season>
+    </item>
+    <item>
+      <title>Kan man si bitch?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_4af34ff6-5452-4bd6-b34f-f654521bd6d5</link>
+      <description>Gutta diskuterer likestilling i sporten, guttehumor og om det egentlig er noen forskjell på gutter og jenter. </description>
+      <guid isPermaLink="false">l_4af34ff6-5452-4bd6-b34f-f654521bd6d5</guid>
+      <pubDate>Thu, 08 Mar 2018 10:36:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-03-08_0936_610.MP3" type="audio/mpeg" length="51637635"></enclosure>
+      <itunes:title>Kan man si bitch?</itunes:title>
+      <itunes:summary>Gutta diskuterer likestilling i sporten, guttehumor og om det egentlig er noen forskjell på gutter og jenter. </itunes:summary>
+      <itunes:duration>2147</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2018">201803</podcast:season>
+    </item>
+    <item>
+      <title>Må man drikke på fest?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_f97ebab0-6a89-4296-beba-b06a89e296f1</link>
+      <description>Andregenerasjonen snakker om sitt forhold til alkohol, deler egne opplevelser med gruppepress og diskuterer hvorfor folk ikke snakker sammen på bussen. Dagens sitat: Spre positiv energi!</description>
+      <guid isPermaLink="false">l_f97ebab0-6a89-4296-beba-b06a89e296f1</guid>
+      <pubDate>Thu, 01 Mar 2018 09:43:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-03-01_0843_1853.MP3" type="audio/mpeg" length="49068451"></enclosure>
+      <itunes:title>Må man drikke på fest?</itunes:title>
+      <itunes:summary>Andregenerasjonen snakker om sitt forhold til alkohol, deler egne opplevelser med gruppepress og diskuterer hvorfor folk ikke snakker sammen på bussen. Dagens sitat: Spre positiv energi!</itunes:summary>
+      <itunes:duration>2040</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2018">201803</podcast:season>
+    </item>
+    <item>
+      <title>Kan gutter og jenter være bare venner?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_f4540ff0-fe7a-4c36-940f-f0fe7a2c36ae</link>
+      <description>Gutta har fått inn en melding fra et kjærestepar som sliter med aksept fra foreldrene, gir hverandre dilemmaer og diskuterer hvordan vennskap ofte oppfattes som flørting. </description>
+      <guid isPermaLink="false">l_f4540ff0-fe7a-4c36-940f-f0fe7a2c36ae</guid>
+      <pubDate>Thu, 22 Feb 2018 10:08:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-02-22_0908_3015.MP3" type="audio/mpeg" length="56116514"></enclosure>
+      <itunes:title>Kan gutter og jenter være bare venner?</itunes:title>
+      <itunes:summary>Gutta har fått inn en melding fra et kjærestepar som sliter med aksept fra foreldrene, gir hverandre dilemmaer og diskuterer hvordan vennskap ofte oppfattes som flørting. </itunes:summary>
+      <itunes:duration>2334</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2018">201802</podcast:season>
+    </item>
+    <item>
+      <title>Er du en mobber?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_e109bdd1-dbcf-43ad-89bd-d1dbcfd3ad88</link>
+      <description>Andregenerasjonen røper det mest ulovlige de har gjort, byr på egne erfaringer med mobbing og blir &#34;lavarøde&#34; når de diskuterer medievinklinger.</description>
+      <guid isPermaLink="false">l_e109bdd1-dbcf-43ad-89bd-d1dbcfd3ad88</guid>
+      <pubDate>Thu, 15 Feb 2018 11:08:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-02-15_1008_1392.MP3" type="audio/mpeg" length="57397947"></enclosure>
+      <itunes:title>Er du en mobber?</itunes:title>
+      <itunes:summary>Andregenerasjonen røper det mest ulovlige de har gjort, byr på egne erfaringer med mobbing og blir &#34;lavarøde&#34; når de diskuterer medievinklinger.</itunes:summary>
+      <itunes:duration>2387</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2018">201802</podcast:season>
+    </item>
+    <item>
+      <title>Er politiet rasister?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_8258000f-675e-43eb-9800-0f675e83eb76</link>
+      <description>Gutta diskuterer hverdagsrasisme, kleskoder på byen og bryter ut i allsang når Cengiz snakker om minner fra barndommen. &#xA;</description>
+      <guid isPermaLink="false">l_8258000f-675e-43eb-9800-0f675e83eb76</guid>
+      <pubDate>Thu, 08 Feb 2018 15:18:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-02-08_1418_1387.MP3" type="audio/mpeg" length="37892643"></enclosure>
+      <itunes:title>Er politiet rasister?</itunes:title>
+      <itunes:summary>Gutta diskuterer hverdagsrasisme, kleskoder på byen og bryter ut i allsang når Cengiz snakker om minner fra barndommen. &#xA;</itunes:summary>
+      <itunes:duration>1575</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2018">201802</podcast:season>
+    </item>
+    <item>
+      <title>Hva gjør du når dama får kompis?</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_2b7098e8-beff-490d-b098-e8beff890d2c</link>
+      <description>Gutta er ikke enige om hva man gjør når dama får seg en litt vel god kompis og diskuterer klær, penger og selvtillit. </description>
+      <guid isPermaLink="false">l_2b7098e8-beff-490d-b098-e8beff890d2c</guid>
+      <pubDate>Thu, 01 Feb 2018 09:19:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-02-01_0819_191.MP3" type="audio/mpeg" length="56821172"></enclosure>
+      <itunes:title>Hva gjør du når dama får kompis?</itunes:title>
+      <itunes:summary>Gutta er ikke enige om hva man gjør når dama får seg en litt vel god kompis og diskuterer klær, penger og selvtillit. </itunes:summary>
+      <itunes:duration>2363</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2018">201802</podcast:season>
+    </item>
+    <item>
+      <title>Snart kommer Andregenerasjonen!</title>
+      <link>https://radio.nrk.no/podkast/andregenerasjonen/l_5a060c60-d752-4708-860c-60d752c70890</link>
+      <description>Ballonggutta fra SKAM har sprengt ballongene, nå skal du bli skikkelig kjent med Adam, Mutta, Cengiz og Simo. Gutta deler sine tanker og følelser, og bryter ned fordommer gjennom diskusjoner, humor og egne erfaringer. &#xA;&#xA;Ny episode hver torsdag -  fra 1. februar.</description>
+      <guid isPermaLink="false">l_5a060c60-d752-4708-860c-60d752c70890</guid>
+      <pubDate>Wed, 31 Jan 2018 12:48:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andregenerasjonen/andregenerasjonen_2018-01-31_1148_1300.MP3" type="audio/mpeg" length="384745"></enclosure>
+      <itunes:title>Snart kommer Andregenerasjonen!</itunes:title>
+      <itunes:summary>Ballonggutta fra SKAM har sprengt ballongene, nå skal du bli skikkelig kjent med Adam, Mutta, Cengiz og Simo. Gutta deler sine tanker og følelser, og bryter ned fordommer gjennom diskusjoner, humor og egne erfaringer. &#xA;&#xA;Ny episode hver torsdag -  fra 1. februar.</itunes:summary>
+      <itunes:duration>12</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hSVe5IIuydNnPPPlJjEBHAbJD9-aC1Io6zviLhQgxIWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2018">201801</podcast:season>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meininga med livet</title>
+    <link>https://radio.nrk.no/podkast/meininga_med_livet</link>
+    <description>Live og Ronny elskar å prate, aller helst saman. Kvar veke prøver dei å finne små og store augeblikk som gir livet (litt) meir meining.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 21 Feb 2024 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/meininga_med_livet.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Live og Ronny elskar å prate, aller helst saman. Kvar veke prøver dei å finne små og store augeblikk som gir livet (litt) meir meining.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA</url>
+      <title>Meininga med livet</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet</link>
+    </image>
+    <item>
+      <title>Vi legg podkasten i kunstig koma</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_80834335-9693-4c9e-8343-3596932c9ebc</link>
+      <description>Live og Ronny gir deg meininga med livet for siste gong. For no. </description>
+      <guid isPermaLink="false">l_80834335-9693-4c9e-8343-3596932c9ebc</guid>
+      <pubDate>Wed, 21 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/1c192995-706f-4865-a93b-2f2276a71038_0_ID192MP3.mp3" type="audio/mpeg" length="45823725"></enclosure>
+      <itunes:title>Vi legg podkasten i kunstig koma</itunes:title>
+      <itunes:summary>Live og Ronny gir deg meininga med livet for siste gong. For no. </itunes:summary>
+      <itunes:duration>1909</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Levd liv Nelvik</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_fddd59c5-911b-406b-9d59-c5911ba06bc9</link>
+      <description>Ronny har snike i ølkø og trur ryktet hans er øydelagd, og Live spør seg om verda rundt ho har blitt surare.</description>
+      <guid isPermaLink="false">l_fddd59c5-911b-406b-9d59-c5911ba06bc9</guid>
+      <pubDate>Wed, 14 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/625f1fae-cae3-4b29-80b3-96e0a3e71ed6_0_ID192MP3.mp3" type="audio/mpeg" length="56602989"></enclosure>
+      <itunes:title>Levd liv Nelvik</itunes:title>
+      <itunes:summary>Ronny har snike i ølkø og trur ryktet hans er øydelagd, og Live spør seg om verda rundt ho har blitt surare.</itunes:summary>
+      <itunes:duration>2358</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tvungen bålkos</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_61d3c965-70ab-4816-93c9-6570ab18160b</link>
+      <description>Ronny har vore ute i uhyggeleg føre, men fann lukka likevel. Live har funne livets sitat, på eit treningssenter.</description>
+      <guid isPermaLink="false">l_61d3c965-70ab-4816-93c9-6570ab18160b</guid>
+      <pubDate>Wed, 07 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/b8d0183a-e623-4b9b-9e39-d33a73d103dc_0_ID192MP3.mp3" type="audio/mpeg" length="61997229"></enclosure>
+      <itunes:title>Tvungen bålkos</itunes:title>
+      <itunes:summary>Ronny har vore ute i uhyggeleg føre, men fann lukka likevel. Live har funne livets sitat, på eit treningssenter.</itunes:summary>
+      <itunes:duration>2583</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hatar du deg sjølv? Ta ein dusj</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_ffe9bf81-08b2-48cd-a9bf-8108b258cde6</link>
+      <description>Live har late seg inspirere av visdom på Instagram, medan Ronny har feila i kvardagslivet.</description>
+      <guid isPermaLink="false">l_ffe9bf81-08b2-48cd-a9bf-8108b258cde6</guid>
+      <pubDate>Wed, 31 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/5dfb847e-55a9-4f3a-aa50-5ca3f426395b_0_ID192MP3.mp3" type="audio/mpeg" length="55789677"></enclosure>
+      <itunes:title>Hatar du deg sjølv? Ta ein dusj</itunes:title>
+      <itunes:summary>Live har late seg inspirere av visdom på Instagram, medan Ronny har feila i kvardagslivet.</itunes:summary>
+      <itunes:duration>2324</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Burde hatt broddar</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_df6040fd-3b51-4603-a040-fd3b518603c5</link>
+      <description>Ronny vedgår plagiat, Live har vore eit vrak på turné og dei ringer Nord-Noreg att, for å spørje om dei framleis ler.  </description>
+      <guid isPermaLink="false">l_df6040fd-3b51-4603-a040-fd3b518603c5</guid>
+      <pubDate>Wed, 24 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/4bd0c06b-1c38-45fb-9075-dff472c8fdad_0_ID192MP3.mp3" type="audio/mpeg" length="44725293"></enclosure>
+      <itunes:title>Burde hatt broddar</itunes:title>
+      <itunes:summary>Ronny vedgår plagiat, Live har vore eit vrak på turné og dei ringer Nord-Noreg att, for å spørje om dei framleis ler.  </itunes:summary>
+      <itunes:duration>1863</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kølle i varebil</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_7f133b5f-4f31-4b17-933b-5f4f31eb17fd</link>
+      <description>Ronny er attende og har begynt å sove med hanskar. Live har irritert seg over ein småleg sjåfør i trafikken. </description>
+      <guid isPermaLink="false">l_7f133b5f-4f31-4b17-933b-5f4f31eb17fd</guid>
+      <pubDate>Wed, 17 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/3c4a22b8-89d9-44b3-bc66-5810af61d72b_0_ID192MP3.mp3" type="audio/mpeg" length="53462637"></enclosure>
+      <itunes:title>Kølle i varebil</itunes:title>
+      <itunes:summary>Ronny er attende og har begynt å sove med hanskar. Live har irritert seg over ein småleg sjåfør i trafikken. </itunes:summary>
+      <itunes:duration>2227</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mindre skjerm, meir badekar</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_aeab2c9c-4958-4417-ab2c-9c4958f4174c</link>
+      <description>Live har kalt inn ein supervikar i Ronny sitt fråver. Det er sjølvaste kunnskapsminister Kari Nessa Nordtun.</description>
+      <guid isPermaLink="false">l_aeab2c9c-4958-4417-ab2c-9c4958f4174c</guid>
+      <pubDate>Wed, 10 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/1f212896-0800-4c6d-a1f5-d7751efbf231_0_ID192MP3.mp3" type="audio/mpeg" length="57093741"></enclosure>
+      <itunes:title>Mindre skjerm, meir badekar</itunes:title>
+      <itunes:summary>Live har kalt inn ein supervikar i Ronny sitt fråver. Det er sjølvaste kunnskapsminister Kari Nessa Nordtun.</itunes:summary>
+      <itunes:duration>2378</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Meininga mimrar</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_f720539c-a7ae-4cf9-a053-9ca7ae6cf9ef</link>
+      <description>Ronny og Live startar det nye året med å minnast nokre av høgdepunkta i 2023. </description>
+      <guid isPermaLink="false">l_f720539c-a7ae-4cf9-a053-9ca7ae6cf9ef</guid>
+      <pubDate>Wed, 03 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/0767ccd5-d3e7-4630-87f3-969f98786888_0_ID192MP3.mp3" type="audio/mpeg" length="50595309"></enclosure>
+      <itunes:title>Meininga mimrar</itunes:title>
+      <itunes:summary>Ronny og Live startar det nye året med å minnast nokre av høgdepunkta i 2023. </itunes:summary>
+      <itunes:duration>2108</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Raslar det i bjellene, Nelvik?</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_fd95a2e0-4c05-4412-95a2-e04c05341219</link>
+      <description>Denne veka kjem det ein anna podkast frå Ronny og Live . Endeleg attende i kottet! Hjartleg velkommen til å følgje Julestemning frå 1. desember. </description>
+      <guid isPermaLink="false">l_fd95a2e0-4c05-4412-95a2-e04c05341219</guid>
+      <pubDate>Wed, 29 Nov 2023 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/0e51aee3-92e9-4035-96e8-36cd90a503d8_0_ID192MP3.mp3" type="audio/mpeg" length="5056749"></enclosure>
+      <itunes:title>Raslar det i bjellene, Nelvik?</itunes:title>
+      <itunes:summary>Denne veka kjem det ein anna podkast frå Ronny og Live . Endeleg attende i kottet! Hjartleg velkommen til å følgje Julestemning frå 1. desember. </itunes:summary>
+      <itunes:duration>210</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hyggeleg kjensle midt i driten.</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_b9be2abe-0cb4-4843-be2a-be0cb47843cc</link>
+      <description>Sjølv om du står midt i noko kjipt, er Live og Ronny sitt mål at du skal få det litt hyggelegare saman med dei.  </description>
+      <guid isPermaLink="false">l_b9be2abe-0cb4-4843-be2a-be0cb47843cc</guid>
+      <pubDate>Wed, 22 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/6a2d7b94-c574-4408-9cf3-3b1a3b870df7_0_ID192MP3.mp3" type="audio/mpeg" length="51485805"></enclosure>
+      <itunes:title>Hyggeleg kjensle midt i driten.</itunes:title>
+      <itunes:summary>Sjølv om du står midt i noko kjipt, er Live og Ronny sitt mål at du skal få det litt hyggelegare saman med dei.  </itunes:summary>
+      <itunes:duration>2145</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Har aldri stole kondom</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_95806a9b-66a0-4322-806a-9b66a0232289</link>
+      <description>Ein kjend person har blitt teken for steling att, og Ronny og Live røper om dei nokon gong har stole noko</description>
+      <guid isPermaLink="false">l_95806a9b-66a0-4322-806a-9b66a0232289</guid>
+      <pubDate>Wed, 15 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/5c144d0a-42a6-41c8-a4c7-e59200fc26f4_0_ID192MP3.mp3" type="audio/mpeg" length="43613037"></enclosure>
+      <itunes:title>Har aldri stole kondom</itunes:title>
+      <itunes:summary>Ein kjend person har blitt teken for steling att, og Ronny og Live røper om dei nokon gong har stole noko</itunes:summary>
+      <itunes:duration>1817</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Flaut å bli rørt</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_87b0a922-630f-4e6a-b0a9-22630f9e6ac5</link>
+      <description>Ronny trur han veit kvifor det er flaut å bli rørt blant folk, Live meiner konklusjonen er genial.</description>
+      <guid isPermaLink="false">l_87b0a922-630f-4e6a-b0a9-22630f9e6ac5</guid>
+      <pubDate>Wed, 08 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/be065d3a-3786-4580-82f7-c662205e0ca5_0_ID192MP3.mp3" type="audio/mpeg" length="62481645"></enclosure>
+      <itunes:title>Flaut å bli rørt</itunes:title>
+      <itunes:summary>Ronny trur han veit kvifor det er flaut å bli rørt blant folk, Live meiner konklusjonen er genial.</itunes:summary>
+      <itunes:duration>2603</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dei ler av oss</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_b4088224-159b-411e-8882-24159bd11e6b</link>
+      <description>Ronny og Live er opprørte over kva som skjer i verda no, og har ei melding til folket. Og har ringt til Nord-Noreg for å bekrefte noko. </description>
+      <guid isPermaLink="false">l_b4088224-159b-411e-8882-24159bd11e6b</guid>
+      <pubDate>Wed, 01 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/15e320fe-50ad-4fc0-9d82-676295378ef6_0_ID192MP3.mp3" type="audio/mpeg" length="60859053"></enclosure>
+      <itunes:title>Dei ler av oss</itunes:title>
+      <itunes:summary>Ronny og Live er opprørte over kva som skjer i verda no, og har ei melding til folket. Og har ringt til Nord-Noreg for å bekrefte noko. </itunes:summary>
+      <itunes:duration>2535</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Rydd-it som Beckham</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_0c9c1dc5-27d1-4a85-9c1d-c527d1ba8590</link>
+      <description>Live vil bli som garderobeskapet til fotball-legenda David Beckham.</description>
+      <guid isPermaLink="false">l_0c9c1dc5-27d1-4a85-9c1d-c527d1ba8590</guid>
+      <pubDate>Wed, 25 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/bd833655-0f1a-4d1b-8386-353339ebce23_0_ID192MP3.mp3" type="audio/mpeg" length="56560365"></enclosure>
+      <itunes:title>Rydd-it som Beckham</itunes:title>
+      <itunes:summary>Live vil bli som garderobeskapet til fotball-legenda David Beckham.</itunes:summary>
+      <itunes:duration>2356</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ronny vil bli fritidsminister</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_7ab7b181-eb08-45d5-b7b1-81eb0835d52b</link>
+      <description>Og Live hadde sagt eit rungande ja, om statsministeren tilbaud ho posten som kunnskapsminister.</description>
+      <guid isPermaLink="false">l_7ab7b181-eb08-45d5-b7b1-81eb0835d52b</guid>
+      <pubDate>Wed, 18 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/a1b7d93e-3312-402d-aa07-d7e4df6c216b_0_ID192MP3.mp3" type="audio/mpeg" length="41059053"></enclosure>
+      <itunes:title>Ronny vil bli fritidsminister</itunes:title>
+      <itunes:summary>Og Live hadde sagt eit rungande ja, om statsministeren tilbaud ho posten som kunnskapsminister.</itunes:summary>
+      <itunes:duration>1710</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kake er nøkkelen til glede</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_eb967444-eb6b-4039-9674-44eb6b5039f0</link>
+      <description>For Live og Ronny er lykka i livet ei tynn kake med trippel glasur.</description>
+      <guid isPermaLink="false">l_eb967444-eb6b-4039-9674-44eb6b5039f0</guid>
+      <pubDate>Wed, 11 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/f08cb707-aea1-4cd8-82a4-82ba75327a9a_0_ID192MP3.mp3" type="audio/mpeg" length="56757357"></enclosure>
+      <itunes:title>Kake er nøkkelen til glede</itunes:title>
+      <itunes:summary>For Live og Ronny er lykka i livet ei tynn kake med trippel glasur.</itunes:summary>
+      <itunes:duration>2364</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kur mot aldersangst</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_c714509f-2e8e-4a07-9450-9f2e8e8a0710</link>
+      <description>Ronny føler seg gammal, men Live har funne ein kur.</description>
+      <guid isPermaLink="false">l_c714509f-2e8e-4a07-9450-9f2e8e8a0710</guid>
+      <pubDate>Wed, 04 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/8627bc0b-c7ed-4943-af49-aff5b5c766eb_0_ID192MP3.mp3" type="audio/mpeg" length="45460845"></enclosure>
+      <itunes:title>Kur mot aldersangst</itunes:title>
+      <itunes:summary>Ronny føler seg gammal, men Live har funne ein kur.</itunes:summary>
+      <itunes:duration>1894</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ikkje føl på luseskam!</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_5bd102ab-38db-4091-9102-ab38dba091e7</link>
+      <description>Ronny konkurrerer mot kunstig intelligens i sang, medan Live har slitt med ein heim full av luseegg. </description>
+      <guid isPermaLink="false">l_5bd102ab-38db-4091-9102-ab38dba091e7</guid>
+      <pubDate>Wed, 27 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/18aa86a4-94bc-4989-b6e4-e89590c48757_0_ID192MP3.mp3" type="audio/mpeg" length="48701997"></enclosure>
+      <itunes:title>Ikkje føl på luseskam!</itunes:title>
+      <itunes:summary>Ronny konkurrerer mot kunstig intelligens i sang, medan Live har slitt med ein heim full av luseegg. </itunes:summary>
+      <itunes:duration>2029</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bunnsolid ekteskap</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_ad1743d9-689d-4456-9743-d9689df4560d</link>
+      <description>Ronny testar ekteskapet til Live i gameshowet «Tillit eller ikkje tillit».&#xA;</description>
+      <guid isPermaLink="false">l_ad1743d9-689d-4456-9743-d9689df4560d</guid>
+      <pubDate>Wed, 20 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/dc4c8014-97a1-41a6-8229-ec9dfb027156_0_ID192MP3.mp3" type="audio/mpeg" length="45148077"></enclosure>
+      <itunes:title>Bunnsolid ekteskap</itunes:title>
+      <itunes:summary>Ronny testar ekteskapet til Live i gameshowet «Tillit eller ikkje tillit».&#xA;</itunes:summary>
+      <itunes:duration>1881</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TTqWauG3PIulgaRQbXlerwG0Chz0g4XttTUC_hEGMQ3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Meininga er å møtast</title>
+      <link>https://radio.nrk.no/podkast/meininga_med_livet/l_c24fb516-8495-4cbc-8fb5-168495dcbc72</link>
+      <description>Live er ufrivillig tanntrekkar, og Ronny vil gå med shorts i september.</description>
+      <guid isPermaLink="false">l_c24fb516-8495-4cbc-8fb5-168495dcbc72</guid>
+      <pubDate>Wed, 13 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/meininga_med_livet/bbe60f84-ba39-42f8-8230-f5e3e342c3a5_0_ID192MP3.mp3" type="audio/mpeg" length="52251885"></enclosure>
+      <itunes:title>Meininga er å møtast</itunes:title>
+      <itunes:summary>Live er ufrivillig tanntrekkar, og Ronny vil gå med shorts i september.</itunes:summary>
+      <itunes:duration>2177</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0rrYbMdEYOmobWIzbfXvNg1RVEJzz7zvRETFO5OBoCCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

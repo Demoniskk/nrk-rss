@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XL – podkasten</title>
+    <link>https://radio.nrk.no/podkast/xl_podkasten</link>
+    <description>XL er en podkast som trakasserer menigmann under mottoet: &#34;Man sparker der man kan&#34;. Programledere er Linn Skåber og  Espen Thoresen. Sistnevnte legger lite i mellom når han tramper inn i komfortsonen.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 17 Jun 2022 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/xl_podkasten.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>XL er en podkast som trakasserer menigmann under mottoet: &#34;Man sparker der man kan&#34;. Programledere er Linn Skåber og  Espen Thoresen. Sistnevnte legger lite i mellom når han tramper inn i komfortsonen.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/nqIRlhtxyF35TlALDzD0ggObot8931ArkY8dqAP2ctew"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/nqIRlhtxyF35TlALDzD0ggObot8931ArkY8dqAP2ctew</url>
+      <title>XL – podkasten</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten</link>
+    </image>
+    <item>
+      <title>Penisforlengere i verdensrommet.</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_f95e4171-0635-4f15-9e41-7106356f15cb</link>
+      <description>Dennis Siva Lie: Dropouts og Area 51&#xA;Benjamin Baarli Silseth: Homofile på «the poop deck» er som Enhjørninger.&#xA;Per &#34;Huspoet&#34; Larsen: Kjendiser gir samlivsråd&#xA;</description>
+      <guid isPermaLink="false">l_f95e4171-0635-4f15-9e41-7106356f15cb</guid>
+      <pubDate>Fri, 17 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/1798592a-77c1-468b-a38d-9ca7f5366107_0_ID192MP3.mp3" type="audio/mpeg" length="52369389"></enclosure>
+      <itunes:title>Penisforlengere i verdensrommet.</itunes:title>
+      <itunes:summary>Dennis Siva Lie: Dropouts og Area 51&#xA;Benjamin Baarli Silseth: Homofile på «the poop deck» er som Enhjørninger.&#xA;Per &#34;Huspoet&#34; Larsen: Kjendiser gir samlivsråd&#xA;</itunes:summary>
+      <itunes:duration>2182</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Jzwejegkz1813NGGpzmXRQTwGDjHKXGglLoX_v3ywscw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sædens nye bruksområder</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_ea6666a4-c6d6-4058-a666-a4c6d61058d1</link>
+      <description>Marte Bratberg i førersetet.&#xA;Espen har en dritt dag.&#xA;Siste nytt på sæd-fronten.&#xA;Pride: Ole Christian Øen - By Vs Bygd.&#xA;Jon Niklas Rønning - Jobber med helten sin.&#xA;</description>
+      <guid isPermaLink="false">l_ea6666a4-c6d6-4058-a666-a4c6d61058d1</guid>
+      <pubDate>Fri, 10 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/65fb6b8e-29f9-42ef-aed8-4d9f7f49fd63_0_ID192MP3.mp3" type="audio/mpeg" length="50684589"></enclosure>
+      <itunes:title>Sædens nye bruksområder</itunes:title>
+      <itunes:summary>Marte Bratberg i førersetet.&#xA;Espen har en dritt dag.&#xA;Siste nytt på sæd-fronten.&#xA;Pride: Ole Christian Øen - By Vs Bygd.&#xA;Jon Niklas Rønning - Jobber med helten sin.&#xA;</itunes:summary>
+      <itunes:duration>2111</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bfRKiXeKnhZfcNlEoKa4xQhNQBBPFy9qfqyDun3ZxsLw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ufrivillige ereksjoner og bakterier i skrittet.</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_1594a82a-7aeb-4ccd-94a8-2a7aeb0ccdbd</link>
+      <description>Henrik Mestad: Ufrivillige ereksjoner&#xA;Lars Berrum: Hundebakterier på hodet og i skrittet.&#xA;Hvordan være en god vert.&#xA;</description>
+      <guid isPermaLink="false">l_1594a82a-7aeb-4ccd-94a8-2a7aeb0ccdbd</guid>
+      <pubDate>Fri, 03 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/7d83af7e-00a3-411b-a818-31e56716f45d_0_ID192MP3.mp3" type="audio/mpeg" length="40942701"></enclosure>
+      <itunes:title>Ufrivillige ereksjoner og bakterier i skrittet.</itunes:title>
+      <itunes:summary>Henrik Mestad: Ufrivillige ereksjoner&#xA;Lars Berrum: Hundebakterier på hodet og i skrittet.&#xA;Hvordan være en god vert.&#xA;</itunes:summary>
+      <itunes:duration>1705</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zriOFVPOU0G6NIk4Z2XpdgK6R2s9kco-6yp6qIeSJZtQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Historier fra gata!</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_1bc40a30-e95f-4b3d-840a-30e95feb3d8f</link>
+      <description>Johnny Depp og Amber Heard rettsaken den siste uken.&#xA;Brukket beinet 16 ganger.&#xA;Varslingsbrev fra Anges.&#xA;</description>
+      <guid isPermaLink="false">l_1bc40a30-e95f-4b3d-840a-30e95feb3d8f</guid>
+      <pubDate>Fri, 27 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/e2a30874-b38a-47b5-9610-87d2fd595c8f_0_ID192MP3.mp3" type="audio/mpeg" length="43178157"></enclosure>
+      <itunes:title>Historier fra gata!</itunes:title>
+      <itunes:summary>Johnny Depp og Amber Heard rettsaken den siste uken.&#xA;Brukket beinet 16 ganger.&#xA;Varslingsbrev fra Anges.&#xA;</itunes:summary>
+      <itunes:duration>1799</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/cJsqnl4QQIazGfhFMZ1JPwOldB6_QamxDiTpqVmcAI0g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Har du noensinne gjort alt for kjærligheten?</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_5b317e26-42e2-4612-b17e-2642e29612f2</link>
+      <description>Når du blir så forbanna at du slår av ditt eget radioprogram!&#xA;Teater Vs Revy: Hvem er de største rasshølene?&#xA;</description>
+      <guid isPermaLink="false">l_5b317e26-42e2-4612-b17e-2642e29612f2</guid>
+      <pubDate>Fri, 20 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/a0a207c9-f3c2-4289-84c1-298238230a63_0_ID192MP3.mp3" type="audio/mpeg" length="57654765"></enclosure>
+      <itunes:title>Har du noensinne gjort alt for kjærligheten?</itunes:title>
+      <itunes:summary>Når du blir så forbanna at du slår av ditt eget radioprogram!&#xA;Teater Vs Revy: Hvem er de største rasshølene?&#xA;</itunes:summary>
+      <itunes:duration>2402</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/P6NEXfSNpdc7YO_3-XlF7w_jv_ymnnLY76D0Dajxu2iw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Når døden kommer fra venstre</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_b8d02288-13c3-4800-9022-8813c39800eb</link>
+      <description>Norge suger: Grei arkitektur - kjedelige omgivelser&#xA;Når en hunds ereksjon kan gi deg trøbbel&#xA;Usanne sannheter&#xA;Per Larsen Quiz&#xA;Linn Skåber hilser på døden</description>
+      <guid isPermaLink="false">l_b8d02288-13c3-4800-9022-8813c39800eb</guid>
+      <pubDate>Fri, 13 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/1d62c522-169a-48ff-b84a-21cf74680fd8_0_ID192MP3.mp3" type="audio/mpeg" length="48498669"></enclosure>
+      <itunes:title>Når døden kommer fra venstre</itunes:title>
+      <itunes:summary>Norge suger: Grei arkitektur - kjedelige omgivelser&#xA;Når en hunds ereksjon kan gi deg trøbbel&#xA;Usanne sannheter&#xA;Per Larsen Quiz&#xA;Linn Skåber hilser på døden</itunes:summary>
+      <itunes:duration>2020</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_8Y-xtwhaD92wzlqlKi-5QuKSCOu56K7WjLN9oq11yrQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Toppløs koffertjakt og Linns tafsende hjelper</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_735a7238-bb91-415a-9a72-38bb91c15a25</link>
+      <description>Einar Tørnquist: Da dritfulle Lollo og Bernie reddet Lille Norge&#xA;Per &#34;Huspoet&#34; Larsen: Blåtur sagaen fortsetter...&#xA;Ole Christian Øen: Homoane kjem&#xA;Släskiga Espen&#xA;</description>
+      <guid isPermaLink="false">l_735a7238-bb91-415a-9a72-38bb91c15a25</guid>
+      <pubDate>Fri, 06 May 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/462a7635-204b-4353-ab9a-d1de7536c71a_0_ID192MP3.mp3" type="audio/mpeg" length="63502893"></enclosure>
+      <itunes:title>Toppløs koffertjakt og Linns tafsende hjelper</itunes:title>
+      <itunes:summary>Einar Tørnquist: Da dritfulle Lollo og Bernie reddet Lille Norge&#xA;Per &#34;Huspoet&#34; Larsen: Blåtur sagaen fortsetter...&#xA;Ole Christian Øen: Homoane kjem&#xA;Släskiga Espen&#xA;</itunes:summary>
+      <itunes:duration>2645</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LezQe0PyszyI5bDeFnb-PA0YRpZYFteS_CjAwRUBIqkw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvorfor har ikke trylling kommet på radio før nå?!</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_2df899b9-03a7-4765-b899-b903a7d76569</link>
+      <description>Reale mennesker på besøk!&#xA;Hege Schøyen og hennes økonomiske råd.&#xA;Per Schjerven favorittdag.&#xA;Per &#34;Huspoet &#34; Larsen, som har med seg en Illusjonist.</description>
+      <guid isPermaLink="false">l_2df899b9-03a7-4765-b899-b903a7d76569</guid>
+      <pubDate>Fri, 29 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/009c62f1-565e-45de-8950-2b7504fadd09_0_ID192MP3.mp3" type="audio/mpeg" length="62588205"></enclosure>
+      <itunes:title>Hvorfor har ikke trylling kommet på radio før nå?!</itunes:title>
+      <itunes:summary>Reale mennesker på besøk!&#xA;Hege Schøyen og hennes økonomiske råd.&#xA;Per Schjerven favorittdag.&#xA;Per &#34;Huspoet &#34; Larsen, som har med seg en Illusjonist.</itunes:summary>
+      <itunes:duration>2607</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mSEMUzDcJ4uW8M4xeGry9Ayd-8mjVSBSJnck9wQhcNvQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title> Hestebegravelse, verandaleppe og usanne sannheter!</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_84bbdcbb-6604-4679-bbdc-bb66044679a4</link>
+      <description>Illustratøren Lisa Aisato tegnet seg til blods.&#xA;Hvor godt er det egentlig å klemme folk?&#xA;Kulturjournalist Siss Vik er hekta på mobilspill.&#xA;Huspoet Per Larsens hørespill.</description>
+      <guid isPermaLink="false">l_84bbdcbb-6604-4679-bbdc-bb66044679a4</guid>
+      <pubDate>Fri, 22 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/3596d8af-6415-4db4-aac6-8a6836a3ba12_0_ID192MP3.mp3" type="audio/mpeg" length="54251181"></enclosure>
+      <itunes:title> Hestebegravelse, verandaleppe og usanne sannheter!</itunes:title>
+      <itunes:summary>Illustratøren Lisa Aisato tegnet seg til blods.&#xA;Hvor godt er det egentlig å klemme folk?&#xA;Kulturjournalist Siss Vik er hekta på mobilspill.&#xA;Huspoet Per Larsens hørespill.</itunes:summary>
+      <itunes:duration>2260</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-1YoeGSM11DheMqFr7NrfgAAOvfXHZOGH2qNqzRgPP-Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Klining på torget, tro og påskekrim</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_8f00971a-ecb6-4d58-8097-1aecb6ad589e</link>
+      <description>Linn har sett byen fra Espens motorsykkel. &#xA;Merkelige påsketradisjoner: Påskeharry og Påske-Eggum. &#xA;Impulsive Dora Thorhallsdottir bor i Drammen uten grunn. &#xA;Vebjørn Selbekks ungdomstid i Livets Ord. </description>
+      <guid isPermaLink="false">l_8f00971a-ecb6-4d58-8097-1aecb6ad589e</guid>
+      <pubDate>Fri, 15 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/1868ff38-5a33-4965-947d-60ff4eccba26_0_ID192MP3.mp3" type="audio/mpeg" length="47253933"></enclosure>
+      <itunes:title>Klining på torget, tro og påskekrim</itunes:title>
+      <itunes:summary>Linn har sett byen fra Espens motorsykkel. &#xA;Merkelige påsketradisjoner: Påskeharry og Påske-Eggum. &#xA;Impulsive Dora Thorhallsdottir bor i Drammen uten grunn. &#xA;Vebjørn Selbekks ungdomstid i Livets Ord. </itunes:summary>
+      <itunes:duration>1968</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nqIRlhtxyF35TlALDzD0ggObot8931ArkY8dqAP2ctew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Uventa problemer på soverommet og parterapi</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_24d6aa49-a961-424f-96aa-49a961724f3e</link>
+      <description>Aggressiv tegnsetting og andre språklige finurligheter.&#xA;Parterapeut Sissel Gran rydder opp mellom Linn og Espen.&#xA;Skuespiller Ine Jansen drodler nye sitcom-konsepter.&#xA;Huspoet Per Larsen og cliffhangeren.</description>
+      <guid isPermaLink="false">l_24d6aa49-a961-424f-96aa-49a961724f3e</guid>
+      <pubDate>Fri, 08 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/0e422e5d-b9dd-4ffd-b740-fe018875bfb1_0_ID192MP3.mp3" type="audio/mpeg" length="50537133"></enclosure>
+      <itunes:title>Uventa problemer på soverommet og parterapi</itunes:title>
+      <itunes:summary>Aggressiv tegnsetting og andre språklige finurligheter.&#xA;Parterapeut Sissel Gran rydder opp mellom Linn og Espen.&#xA;Skuespiller Ine Jansen drodler nye sitcom-konsepter.&#xA;Huspoet Per Larsen og cliffhangeren.</itunes:summary>
+      <itunes:duration>2105</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GxzrCqK-HwxdN3te-RsJywAwbPvQYF0jjN0p990XleAQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bursdagsbarnet Linn møter verdens dårligste vits</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_016fcb45-f123-4e9d-afcb-45f1231e9d7e</link>
+      <description>Verdens fineste navn og båten Bix.&#xA;Egil &#34;Bare Egil&#34; Hegerberg fornærmet hele Ågna... eller Ogna.&#xA;Hans Olav Brenner anmelder huspoeten vår Per Larsen.&#xA;</description>
+      <guid isPermaLink="false">l_016fcb45-f123-4e9d-afcb-45f1231e9d7e</guid>
+      <pubDate>Fri, 01 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/96c585cf-3039-4739-bda1-8865749621c5_0_ID192MP3.mp3" type="audio/mpeg" length="54896877"></enclosure>
+      <itunes:title>Bursdagsbarnet Linn møter verdens dårligste vits</itunes:title>
+      <itunes:summary>Verdens fineste navn og båten Bix.&#xA;Egil &#34;Bare Egil&#34; Hegerberg fornærmet hele Ågna... eller Ogna.&#xA;Hans Olav Brenner anmelder huspoeten vår Per Larsen.&#xA;</itunes:summary>
+      <itunes:duration>2287</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hPmaO97-PExxRF82wdKgjAmcBZySnHIt-HppkaS5oxlA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dickpicks, One night stands og en flykaptein med Downs</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_192e4a77-fea3-4ce0-ae4a-77fea30ce0c5</link>
+      <description>Espen og Linn har vært ute på byen. &#xA;Knut Nærum: Hvorfor han forlot Nytt på nytt.&#xA;Tommy Akerholt: Analt Rockenach på Rjukan.&#xA;Per &#34;Huspoet &#34;Larsen:  Astrologi og Mordet i vaskekjelleren.&#xA;</description>
+      <guid isPermaLink="false">l_192e4a77-fea3-4ce0-ae4a-77fea30ce0c5</guid>
+      <pubDate>Fri, 25 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/8139d8fb-b76f-4bd6-8698-d9eda471e0ba_0_ID192MP3.mp3" type="audio/mpeg" length="62267373"></enclosure>
+      <itunes:title>Dickpicks, One night stands og en flykaptein med Downs</itunes:title>
+      <itunes:summary>Espen og Linn har vært ute på byen. &#xA;Knut Nærum: Hvorfor han forlot Nytt på nytt.&#xA;Tommy Akerholt: Analt Rockenach på Rjukan.&#xA;Per &#34;Huspoet &#34;Larsen:  Astrologi og Mordet i vaskekjelleren.&#xA;</itunes:summary>
+      <itunes:duration>2594</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FaxEd0YcifTTifHWBZqJ6AHKhZXqQhfunQMPGMIcvylA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kunst, alkohol og kvakksalveri</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_ffd4844f-babe-477b-9484-4fbabeb77bd1</link>
+      <description>Kunstner Nikolai Torgersen - Hjemløs i Paris&#xA;Komiker Yousef Hadaoui - Sjekking av damer&#xA;Huspoet Per Larsen - Krimen som ikke vil dø&#xA;Når en kvakksalver reddet dagen</description>
+      <guid isPermaLink="false">l_ffd4844f-babe-477b-9484-4fbabeb77bd1</guid>
+      <pubDate>Fri, 18 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/744fd1fd-4633-4293-b809-e3ba90303bf6_0_ID192MP3.mp3" type="audio/mpeg" length="59112045"></enclosure>
+      <itunes:title>Kunst, alkohol og kvakksalveri</itunes:title>
+      <itunes:summary>Kunstner Nikolai Torgersen - Hjemløs i Paris&#xA;Komiker Yousef Hadaoui - Sjekking av damer&#xA;Huspoet Per Larsen - Krimen som ikke vil dø&#xA;Når en kvakksalver reddet dagen</itunes:summary>
+      <itunes:duration>2462</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FaxEd0YcifTTifHWBZqJ6AHKhZXqQhfunQMPGMIcvylA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vårslapp Vs Våryr og Zoofili med Afrikas 5 store</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_d814fe17-87a6-438f-94fe-1787a6d38f88</link>
+      <description>Eva Sannum og den andre sannheten.&#xA;Regissør Atle Knudsen og det tvilsomme tivoli.&#xA;Huspoet Per Larsen og The Never Ending Krim.&#xA;Jakketyven.&#xA;Den triste middagen.&#xA;</description>
+      <guid isPermaLink="false">l_d814fe17-87a6-438f-94fe-1787a6d38f88</guid>
+      <pubDate>Fri, 11 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/b6beeb68-db63-4d5c-a448-205646e14c3f_0_ID192MP3.mp3" type="audio/mpeg" length="59222637"></enclosure>
+      <itunes:title>Vårslapp Vs Våryr og Zoofili med Afrikas 5 store</itunes:title>
+      <itunes:summary>Eva Sannum og den andre sannheten.&#xA;Regissør Atle Knudsen og det tvilsomme tivoli.&#xA;Huspoet Per Larsen og The Never Ending Krim.&#xA;Jakketyven.&#xA;Den triste middagen.&#xA;</itunes:summary>
+      <itunes:duration>2467</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1bq1m5mRyM7pBFHxi6c8rATktKzMv76UMGaD0lEMJKjQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Impromptu sang, en glemt 50 årsdag og døden!</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_9ec6f0ff-d13a-4dbe-86f0-ffd13a3dbeeb</link>
+      <description>* Linn har glemt sendingen og har havnet i Trondheim.&#xA;* Byrådsleder Raymond Johansen om mannsrollen.&#xA;* Anne B. Ragde snakker med karakterene sine når hun skriver bøker.&#xA;* Huspoet Per Larsens Krim: Mordet i vaskekjelleren episode 7 av 2.</description>
+      <guid isPermaLink="false">l_9ec6f0ff-d13a-4dbe-86f0-ffd13a3dbeeb</guid>
+      <pubDate>Fri, 04 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/263efa1e-6960-432f-9cef-3079935f1cf9_0_ID192MP3.mp3" type="audio/mpeg" length="41863149"></enclosure>
+      <itunes:title>Impromptu sang, en glemt 50 årsdag og døden!</itunes:title>
+      <itunes:summary>* Linn har glemt sendingen og har havnet i Trondheim.&#xA;* Byrådsleder Raymond Johansen om mannsrollen.&#xA;* Anne B. Ragde snakker med karakterene sine når hun skriver bøker.&#xA;* Huspoet Per Larsens Krim: Mordet i vaskekjelleren episode 7 av 2.</itunes:summary>
+      <itunes:duration>1744</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hPrPojFG12nK1FlH8_0qEgP6j4KB0tz4kUm6NcB5A7qg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ømme foodora-bud, baklengs på do og kabelen til Clooney</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_515437ae-125a-49ab-9437-ae125ae9ab48</link>
+      <description>Består Øde Nerdrum folkelighetstesten?&#xA;Hvem tror du at du er, Mina Hadjian?&#xA;Kan psykiater Trude Fixdal hjelpe oss?&#xA;Huspoet Per Larsens Krim: Mordet i vaskekjelleren episode 6 av 2.</description>
+      <guid isPermaLink="false">l_515437ae-125a-49ab-9437-ae125ae9ab48</guid>
+      <pubDate>Fri, 25 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/7d7b684e-0eaf-4c88-b79d-b7dddd8795e9_0_ID192MP3.mp3" type="audio/mpeg" length="48204333"></enclosure>
+      <itunes:title>Ømme foodora-bud, baklengs på do og kabelen til Clooney</itunes:title>
+      <itunes:summary>Består Øde Nerdrum folkelighetstesten?&#xA;Hvem tror du at du er, Mina Hadjian?&#xA;Kan psykiater Trude Fixdal hjelpe oss?&#xA;Huspoet Per Larsens Krim: Mordet i vaskekjelleren episode 6 av 2.</itunes:summary>
+      <itunes:duration>2008</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xC_nvW7lvIt05RwIMAO1XgKXvsnnuPk36dSIY9gX3V-Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Alkohol,  kunst, musikk og mord</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_a8457376-a2dd-4826-8573-76a2dd882626</link>
+      <description>Menn mot offentlig amming Vs menn som er veeeldig for offentlig amming?&#xA;Kjæledyr sier hva?&#xA;Stian Carstensen - Hva skylder tyskerne oss?&#xA;Sverre Bjertnæs - Alkohol Vs Kunst.&#xA;Huspoet Per Larsens Krim: Mordet i vaskekjelleren episode 5 av 2.</description>
+      <guid isPermaLink="false">l_a8457376-a2dd-4826-8573-76a2dd882626</guid>
+      <pubDate>Fri, 18 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/b823cb16-5a3f-4370-bc3e-8faedc5e2d22_0_ID192MP3.mp3" type="audio/mpeg" length="52113069"></enclosure>
+      <itunes:title>Alkohol,  kunst, musikk og mord</itunes:title>
+      <itunes:summary>Menn mot offentlig amming Vs menn som er veeeldig for offentlig amming?&#xA;Kjæledyr sier hva?&#xA;Stian Carstensen - Hva skylder tyskerne oss?&#xA;Sverre Bjertnæs - Alkohol Vs Kunst.&#xA;Huspoet Per Larsens Krim: Mordet i vaskekjelleren episode 5 av 2.</itunes:summary>
+      <itunes:duration>2171</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aeIg_RLrhgafRri4sEqXZg-iClDk4UpL28z1Lj8zppdg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mick Jagger og Linn... Ingen kommentar!</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_4435ede3-00cb-4996-b5ed-e300cba9964e</link>
+      <description>Overfladiske dansker og Bombekofferten.&#xA;Benny Borgs boxershorts.&#xA;Jonis Josefs ekle og fine isolasjonstips.&#xA;Linns møte med Mick Jagger.</description>
+      <guid isPermaLink="false">l_4435ede3-00cb-4996-b5ed-e300cba9964e</guid>
+      <pubDate>Fri, 11 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/63e52a06-1728-426c-ba32-90f11fe2a60d_0_ID192MP3.mp3" type="audio/mpeg" length="54908973"></enclosure>
+      <itunes:title>Mick Jagger og Linn... Ingen kommentar!</itunes:title>
+      <itunes:summary>Overfladiske dansker og Bombekofferten.&#xA;Benny Borgs boxershorts.&#xA;Jonis Josefs ekle og fine isolasjonstips.&#xA;Linns møte med Mick Jagger.</itunes:summary>
+      <itunes:duration>2287</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gqqMl_xfCrRJfYB6TuCAwQW1WlyXDQxDpdYHwcrZgawg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Obsternasig bråkmaker og Hora på Lamberseter </title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_bb61ff59-1dcb-45d7-a1ff-591dcb95d72a</link>
+      <description>Linns gode heiskompis Harald Stanghelle.&#xA;Fitte i posten.&#xA;Etterlyst internasjonalt.&#xA;Bruker du dopapir?&#xA;Hus-homoen gir deg svarene du trenger.</description>
+      <guid isPermaLink="false">l_bb61ff59-1dcb-45d7-a1ff-591dcb95d72a</guid>
+      <pubDate>Fri, 04 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/afd0340e-2372-4bf2-8707-00e43cfa1327_0_ID192MP3.mp3" type="audio/mpeg" length="44130285"></enclosure>
+      <itunes:title>Obsternasig bråkmaker og Hora på Lamberseter </itunes:title>
+      <itunes:summary>Linns gode heiskompis Harald Stanghelle.&#xA;Fitte i posten.&#xA;Etterlyst internasjonalt.&#xA;Bruker du dopapir?&#xA;Hus-homoen gir deg svarene du trenger.</itunes:summary>
+      <itunes:duration>1838</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PnM9WcvqBJT5mjRrAWJGYQij8lKsEKbg8EqNB2elnawQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Godteposen til Linn Skåber og toer&#39;n til Per Heimly</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_54c45939-5841-4970-8459-395841497013</link>
+      <description>Linn Skåber er ny medprogramleder, og har noen tvilsomme ideer til julekort - mens Per Heimly drar ned buksa og viser toer&#39;n sin - før Espen og Linn deler kjipe opplevelser med fans.</description>
+      <guid isPermaLink="false">l_54c45939-5841-4970-8459-395841497013</guid>
+      <pubDate>Fri, 28 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/658c5859-bfb7-489d-ab68-c3a800b89b28_0_ID192MP3.mp3" type="audio/mpeg" length="45761517"></enclosure>
+      <itunes:title>Godteposen til Linn Skåber og toer&#39;n til Per Heimly</itunes:title>
+      <itunes:summary>Linn Skåber er ny medprogramleder, og har noen tvilsomme ideer til julekort - mens Per Heimly drar ned buksa og viser toer&#39;n sin - før Espen og Linn deler kjipe opplevelser med fans.</itunes:summary>
+      <itunes:duration>1906</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nqIRlhtxyF35TlALDzD0ggObot8931ArkY8dqAP2ctew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vi vil alle ende opp på to ben selv om TV 2 får terningkast 2 og Kasakhstan kanskje ikke er så bra</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_38d045ef-b2b4-4372-9045-efb2b4637237</link>
+      <description>Hva hvis man aldri lærte å gå på to ben, ville man da fortsatt å krabbe? Og er egentlig Kasakhstan et fint sted? Eksistensielle spørsmål blir drøftet i XL-podkasten.</description>
+      <guid isPermaLink="false">l_38d045ef-b2b4-4372-9045-efb2b4637237</guid>
+      <pubDate>Sat, 22 Jan 2022 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/2548d84a-fdce-4801-82c9-1fe68788d19c_0_ID192MP3.mp3" type="audio/mpeg" length="47074221"></enclosure>
+      <itunes:title>Vi vil alle ende opp på to ben selv om TV 2 får terningkast 2 og Kasakhstan kanskje ikke er så bra</itunes:title>
+      <itunes:summary>Hva hvis man aldri lærte å gå på to ben, ville man da fortsatt å krabbe? Og er egentlig Kasakhstan et fint sted? Eksistensielle spørsmål blir drøftet i XL-podkasten.</itunes:summary>
+      <itunes:duration>1961</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/POVZjZCfgcwaIlX_c2nZVApIMMC7FJlFbY281OfVG91Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sexy sykepleier kaller en spade for en spade</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_af3b8b6b-c748-4c86-bb8b-6bc748cc865f</link>
+      <description>Cecilie Kjensli skal bli sexy sykepleier.&#xA;Rune Gokstad kommer kanskje ut av skapet på neste tur.&#xA;Vi ringer en som har covid.</description>
+      <guid isPermaLink="false">l_af3b8b6b-c748-4c86-bb8b-6bc748cc865f</guid>
+      <pubDate>Fri, 21 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/3ecc8537-c091-429d-808f-37b3deb57b23_0_ID192MP3.mp3" type="audio/mpeg" length="43317549"></enclosure>
+      <itunes:title>Sexy sykepleier kaller en spade for en spade</itunes:title>
+      <itunes:summary>Cecilie Kjensli skal bli sexy sykepleier.&#xA;Rune Gokstad kommer kanskje ut av skapet på neste tur.&#xA;Vi ringer en som har covid.</itunes:summary>
+      <itunes:duration>1804</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FJ1ot7IzGF-t-znd1iEzfw4Y6dr2hp2XyOg9ss6piBmQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Om Gud og sex på Farmen med Vebjørn Selbekk</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_d6bd3e0e-dd0d-4c52-bd3e-0edd0d5c5242</link>
+      <description>De rike snobber nedover, sier kulturtopp. Og vil noen ligge med hverandre på Farmen kjendis. Vi spør deltaker og redaktør Vebjørn Selbekk.</description>
+      <guid isPermaLink="false">l_d6bd3e0e-dd0d-4c52-bd3e-0edd0d5c5242</guid>
+      <pubDate>Sat, 15 Jan 2022 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/501194f1-9148-4fc2-afed-a541799610af_0_ID192MP3.mp3" type="audio/mpeg" length="46191213"></enclosure>
+      <itunes:title>Om Gud og sex på Farmen med Vebjørn Selbekk</itunes:title>
+      <itunes:summary>De rike snobber nedover, sier kulturtopp. Og vil noen ligge med hverandre på Farmen kjendis. Vi spør deltaker og redaktør Vebjørn Selbekk.</itunes:summary>
+      <itunes:duration>1924</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Jv-AkGg4__UXWf2Cy1uQkg7yufEb1JMiihlSRHEtITEw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>10 enkle steg for å bli stjerne!</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_1c4a9d58-9948-4d42-8a9d-5899487d4220</link>
+      <description>Få oppskriften på hvordan man blir en stjerne i dagens samfunn.&#xA;80% er idioter under gjennomsnittet.&#xA;Trine Grung gir Espen innføring i blogging.</description>
+      <guid isPermaLink="false">l_1c4a9d58-9948-4d42-8a9d-5899487d4220</guid>
+      <pubDate>Fri, 14 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/ce37a2d4-d389-4e12-bbdf-5306d9fb0a00_0_ID192MP3.mp3" type="audio/mpeg" length="42375789"></enclosure>
+      <itunes:title>10 enkle steg for å bli stjerne!</itunes:title>
+      <itunes:summary>Få oppskriften på hvordan man blir en stjerne i dagens samfunn.&#xA;80% er idioter under gjennomsnittet.&#xA;Trine Grung gir Espen innføring i blogging.</itunes:summary>
+      <itunes:duration>1765</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/U3tMR6QewjGwNWboM6Ms5QmNhElPuhSu0MNZ2Qs3fhmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nakenradio med Christer Falck </title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_382d5c89-782a-45d3-ad5c-89782a85d3f8</link>
+      <description>Christer Falck forteller om hvordan man går ned 20 kilo på noen uker - du ville klart det du og! Og så pranker vi Statsministerens kontor og har en prat med sjefen.  XL - podkasten er et sammendrag av radiosendingen på P1 fredag klokken 11.</description>
+      <guid isPermaLink="false">l_382d5c89-782a-45d3-ad5c-89782a85d3f8</guid>
+      <pubDate>Sat, 08 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/02937145-c6cd-47b0-9de1-8e129456da12_0_ID192MP3.mp3" type="audio/mpeg" length="39773421"></enclosure>
+      <itunes:title>Nakenradio med Christer Falck </itunes:title>
+      <itunes:summary>Christer Falck forteller om hvordan man går ned 20 kilo på noen uker - du ville klart det du og! Og så pranker vi Statsministerens kontor og har en prat med sjefen.  XL - podkasten er et sammendrag av radiosendingen på P1 fredag klokken 11.</itunes:summary>
+      <itunes:duration>1657</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-wnophaTGak83HtHT_Xd-AZ0E7dvJvESkxY8-F_t9YmQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>USA Spesial: Blir det borgerkrig, Anders?</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_ded4b3d2-4bc1-4174-94b3-d24bc1a17490</link>
+      <description>Hva i svarte er det med USA?  Ett år etter stormingen av kongressen, så er det blitt verre der borte. Anders, hva skjer a?  ANDERS!!  Gi oss noen svar! Tidligere USA-korrespondent Anders Giæver er hovedgjest, og beroliger oss ikke. </description>
+      <guid isPermaLink="false">l_ded4b3d2-4bc1-4174-94b3-d24bc1a17490</guid>
+      <pubDate>Fri, 07 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/df2a3caa-7d0e-4e06-9479-d234d46a4a2d_0_ID192MP3.mp3" type="audio/mpeg" length="46552941"></enclosure>
+      <itunes:title>USA Spesial: Blir det borgerkrig, Anders?</itunes:title>
+      <itunes:summary>Hva i svarte er det med USA?  Ett år etter stormingen av kongressen, så er det blitt verre der borte. Anders, hva skjer a?  ANDERS!!  Gi oss noen svar! Tidligere USA-korrespondent Anders Giæver er hovedgjest, og beroliger oss ikke. </itunes:summary>
+      <itunes:duration>1939</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/px3J8KIlqCdYf_JoKB2tOwSnCQaxAotTFrKreU6bNRmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Rus, one night stands - og harmoni</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_46c964a7-c52d-4868-8964-a7c52d686814</link>
+      <description>Hva gjør du når du våkner opp etter tidenes nachtspiel, og ikke husker navnet på hen ved siden av deg i senga?  Dagens gjester er Leo Ajkic, Anita Skorgan og selveste nachtspieldronninga. </description>
+      <guid isPermaLink="false">l_46c964a7-c52d-4868-8964-a7c52d686814</guid>
+      <pubDate>Sat, 18 Dec 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/0eb844ae-1916-4ced-9928-cd8dd09990c3_0_ID192MP3.mp3" type="audio/mpeg" length="44041581"></enclosure>
+      <itunes:title>Rus, one night stands - og harmoni</itunes:title>
+      <itunes:summary>Hva gjør du når du våkner opp etter tidenes nachtspiel, og ikke husker navnet på hen ved siden av deg i senga?  Dagens gjester er Leo Ajkic, Anita Skorgan og selveste nachtspieldronninga. </itunes:summary>
+      <itunes:duration>1835</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xISOiXex1eEOXSY92yoJ7Qo9jgAaH8hvn-rBv9uZot7w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nazimarsj og nakensjokk på danskebåten</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_8a1c959e-08a7-437c-9c95-9e08a7237c75</link>
+      <description>Espen har gått i nazimarsj, nakensjokk på julebordet og prostituert postkassemann. Dette - og Signy Fardal - er noen av godbitene i ukas podkast.</description>
+      <guid isPermaLink="false">l_8a1c959e-08a7-437c-9c95-9e08a7237c75</guid>
+      <pubDate>Sat, 11 Dec 2021 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/321d264c-bdc6-4ada-a034-d26b1237a40b_0_ID192MP3.mp3" type="audio/mpeg" length="27952173"></enclosure>
+      <itunes:title>Nazimarsj og nakensjokk på danskebåten</itunes:title>
+      <itunes:summary>Espen har gått i nazimarsj, nakensjokk på julebordet og prostituert postkassemann. Dette - og Signy Fardal - er noen av godbitene i ukas podkast.</itunes:summary>
+      <itunes:duration>1164</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nEMo_xvkDqp-D243JT7ULA--I7Kihz3vIJBgNu9D-vbw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kulturministeren raste: Lesbiske nektet sex!</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_27f91596-a154-4ac9-b915-96a154eac942</link>
+      <description>Kulturminister Anette Trettebergstuen forteller om den gangen hun trodde Regjeringen skulle forby sex mellom lesbiske. Alt var en spøk som involverte norske myndigheter og NATO. &#xA;Vil du bli D-kjendis eller B-kjendis - eller kanskje er du en gammal A-kjendis som er blitt ex-kjendis, men vil øke statusen? Vi får besøk av hun som plukker dere ut til reality-show, og hun gir deg løsningene. &#xA;</description>
+      <guid isPermaLink="false">l_27f91596-a154-4ac9-b915-96a154eac942</guid>
+      <pubDate>Sat, 04 Dec 2021 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/5b9c54d9-eeda-47cd-bb89-d24c72bb792a_0_ID192MP3.mp3" type="audio/mpeg" length="48430125"></enclosure>
+      <itunes:title>Kulturministeren raste: Lesbiske nektet sex!</itunes:title>
+      <itunes:summary>Kulturminister Anette Trettebergstuen forteller om den gangen hun trodde Regjeringen skulle forby sex mellom lesbiske. Alt var en spøk som involverte norske myndigheter og NATO. &#xA;Vil du bli D-kjendis eller B-kjendis - eller kanskje er du en gammal A-kjendis som er blitt ex-kjendis, men vil øke statusen? Vi får besøk av hun som plukker dere ut til reality-show, og hun gir deg løsningene. &#xA;</itunes:summary>
+      <itunes:duration>2017</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FPGdrT4RDFCzglhDn9Xg6QfoAp0ZnIWDBQun-c0irT5w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>NRK tilbake i Qatar</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_2080c93d-b560-483a-80c9-3db560183ae9</link>
+      <description>Med et gammelt kamera og opptaksutstyr sendte NRK sin eldste reporter til Qatar (kun kameraet og opptaksutstyret var forsikret). Hør avsløringen hans her. Og Trine Skei Grande kommer i denne episoden med hoderystende avsløringer om livet på Stortinget, og spåkona som ble milliardær på grunn av en folkevalgt Ap-politiker...</description>
+      <guid isPermaLink="false">l_2080c93d-b560-483a-80c9-3db560183ae9</guid>
+      <pubDate>Sat, 27 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/e2fc2ff8-a87a-447e-bd56-8d5d0d4b39e7_0_ID192MP3.mp3" type="audio/mpeg" length="40287789"></enclosure>
+      <itunes:title>NRK tilbake i Qatar</itunes:title>
+      <itunes:summary>Med et gammelt kamera og opptaksutstyr sendte NRK sin eldste reporter til Qatar (kun kameraet og opptaksutstyret var forsikret). Hør avsløringen hans her. Og Trine Skei Grande kommer i denne episoden med hoderystende avsløringer om livet på Stortinget, og spåkona som ble milliardær på grunn av en folkevalgt Ap-politiker...</itunes:summary>
+      <itunes:duration>1678</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3F-d6L29xg_sNtRAV_rn_goKZHemSjGtNRFNoT2q9eDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Da Christer Falck ble Bård Tufte Johansen</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_07ffa26a-4a55-4509-bfa2-6a4a55c50987</link>
+      <description>Christer Falck om da han utga seg for å være Bård Tufte Johansen. Og så er vi med politiet på hybelen til x-stortingspresident, og litt om selfie i burka og siste  homonytt.</description>
+      <guid isPermaLink="false">l_07ffa26a-4a55-4509-bfa2-6a4a55c50987</guid>
+      <pubDate>Sat, 20 Nov 2021 14:20:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/45d73d34-98aa-4ec7-a797-46f137b2cb69_0_ID192MP3.mp3" type="audio/mpeg" length="43342317"></enclosure>
+      <itunes:title>Da Christer Falck ble Bård Tufte Johansen</itunes:title>
+      <itunes:summary>Christer Falck om da han utga seg for å være Bård Tufte Johansen. Og så er vi med politiet på hybelen til x-stortingspresident, og litt om selfie i burka og siste  homonytt.</itunes:summary>
+      <itunes:duration>1805</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/XmOqlNWRBReZ1kXUUYFNDgV7EhOiOCWioaCLJ4LUeTmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Spøkelsesjegere, telefonrulett og verdens verste vits</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_1d0f03e7-7cf3-4154-8f03-e77cf361546a</link>
+      <description>De er der ute, sier spøkelsesjeger, verdens verste vits og en telefonrulett som gikk forferdelig feil.</description>
+      <guid isPermaLink="false">l_1d0f03e7-7cf3-4154-8f03-e77cf361546a</guid>
+      <pubDate>Sat, 13 Nov 2021 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/09eb3af6-375a-4a9a-8ced-40bce92bee3a_0_ID192MP3.mp3" type="audio/mpeg" length="74482029"></enclosure>
+      <itunes:title>Spøkelsesjegere, telefonrulett og verdens verste vits</itunes:title>
+      <itunes:summary>De er der ute, sier spøkelsesjeger, verdens verste vits og en telefonrulett som gikk forferdelig feil.</itunes:summary>
+      <itunes:duration>3103</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gdpFInQ8NKVBHBIfUjw-YgNqxVxgDpGv7gD8619x6Edg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Porno på t-banen og løsning på klimakrisen</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_a9fe37da-b22d-4f15-be37-dab22ddf15bc</link>
+      <description>Derfor er vi alle horer og klimaverstinger</description>
+      <guid isPermaLink="false">l_a9fe37da-b22d-4f15-be37-dab22ddf15bc</guid>
+      <pubDate>Sat, 06 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/90c58984-87a1-40bf-9500-0ff8c479706f_0_ID192MP3.mp3" type="audio/mpeg" length="45573741"></enclosure>
+      <itunes:title>Porno på t-banen og løsning på klimakrisen</itunes:title>
+      <itunes:summary>Derfor er vi alle horer og klimaverstinger</itunes:summary>
+      <itunes:duration>1898</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gdpFInQ8NKVBHBIfUjw-YgDGvfmgnAJnei9dfsCpfi0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kvinne føder fisk, pepperkaker og rumpedebatt</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_303def4e-4eef-419d-bdef-4e4eef219d4e</link>
+      <description>Kan kona til Espen føde en fisk, er det ok og komplimentere en fin rumpe og er musikkjournalistikken død?</description>
+      <guid isPermaLink="false">l_303def4e-4eef-419d-bdef-4e4eef219d4e</guid>
+      <pubDate>Sat, 30 Oct 2021 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/6c61489f-ef0c-4f3a-9160-4ab361897a73_0_ID192MP3.mp3" type="audio/mpeg" length="81135405"></enclosure>
+      <itunes:title>Kvinne føder fisk, pepperkaker og rumpedebatt</itunes:title>
+      <itunes:summary>Kan kona til Espen føde en fisk, er det ok og komplimentere en fin rumpe og er musikkjournalistikken død?</itunes:summary>
+      <itunes:duration>3380</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gdpFInQ8NKVBHBIfUjw-YgNqxVxgDpGv7gD8619x6Edg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Espen anmelder Munch-museet og pruter oppover </title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_8316b711-e5ba-42c5-96b7-11e5ba72c593</link>
+      <description>Hva er hemmeligheten bak legeromanens popularitet, har Mina blitt morsom og kan Petter Schjerven løse mysteriet om det fulle vinglasset?&#xA;</description>
+      <guid isPermaLink="false">l_8316b711-e5ba-42c5-96b7-11e5ba72c593</guid>
+      <pubDate>Sat, 23 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/4837d1fe-e871-4146-8580-16ce31033db6_0_ID192MP3.mp3" type="audio/mpeg" length="80267949"></enclosure>
+      <itunes:title>Espen anmelder Munch-museet og pruter oppover </itunes:title>
+      <itunes:summary>Hva er hemmeligheten bak legeromanens popularitet, har Mina blitt morsom og kan Petter Schjerven løse mysteriet om det fulle vinglasset?&#xA;</itunes:summary>
+      <itunes:duration>3344</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gdpFInQ8NKVBHBIfUjw-YgNqxVxgDpGv7gD8619x6Edg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title> Sulten vagina, samtykkelov og tulletelefon</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_62381153-f2a3-4afa-b811-53f2a3aafa3c</link>
+      <description>Espen stiller Afrika-Tomm til veggs,  debatt om samtykkeloven og XL-gjengen gjør narr av Dyrebeskyttelsen, som ikke vet forskjell på lemen og hamster.  </description>
+      <guid isPermaLink="false">l_62381153-f2a3-4afa-b811-53f2a3aafa3c</guid>
+      <pubDate>Sat, 16 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/623ee180-67f2-4b02-a8ec-f908603feefa_0_ID192MP3.mp3" type="audio/mpeg" length="96479469"></enclosure>
+      <itunes:title> Sulten vagina, samtykkelov og tulletelefon</itunes:title>
+      <itunes:summary>Espen stiller Afrika-Tomm til veggs,  debatt om samtykkeloven og XL-gjengen gjør narr av Dyrebeskyttelsen, som ikke vet forskjell på lemen og hamster.  </itunes:summary>
+      <itunes:duration>4019</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gdpFInQ8NKVBHBIfUjw-YgNqxVxgDpGv7gD8619x6Edg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Alt Durek kan gjøre, kan jeg gjøre bedre </title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_de2fb259-2c29-46c8-afb2-592c2906c887</link>
+      <description>Klein stemning hos den finske ambassaden i København når Espen trenger penger for å komme seg hjem til Oslo. Hett og intimt møte mellom Espen og sjaman Durek, og er XL-venninne Jannecke Weeden gmilf eller cougar?</description>
+      <guid isPermaLink="false">l_de2fb259-2c29-46c8-afb2-592c2906c887</guid>
+      <pubDate>Sat, 09 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/3dda67f7-3fd2-4461-bcb9-1b0ccd711b8a_0_ID192MP3.mp3" type="audio/mpeg" length="81216045"></enclosure>
+      <itunes:title>Alt Durek kan gjøre, kan jeg gjøre bedre </itunes:title>
+      <itunes:summary>Klein stemning hos den finske ambassaden i København når Espen trenger penger for å komme seg hjem til Oslo. Hett og intimt møte mellom Espen og sjaman Durek, og er XL-venninne Jannecke Weeden gmilf eller cougar?</itunes:summary>
+      <itunes:duration>3383</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gdpFInQ8NKVBHBIfUjw-YgNqxVxgDpGv7gD8619x6Edg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vi er alle paranoide narsissister! Ny podkast! </title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_f50ed3c1-d1f5-40dc-8ed3-c1d1f5c0dc3c</link>
+      <description>Det er gærningenes tidsalder og USA har gått bananas! Demokratiet der står for fall, og hva skjer egentlig med Norge? Espen har invitert Sofie Høgestøl for å få noen svar. En iransk frafallen muslim vil bli stand up`er, og debuterer i XL. Og vaktene i NRK har fått beskjed om å låse alle dører, for Espen vil ikke ha mer uinvitert besøk i studio av Per Larsen. </description>
+      <guid isPermaLink="false">l_f50ed3c1-d1f5-40dc-8ed3-c1d1f5c0dc3c</guid>
+      <pubDate>Sat, 25 Sep 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/89b6947d-7c78-414d-863d-621a7dd6f589_0_ID192MP3.mp3" type="audio/mpeg" length="72671661"></enclosure>
+      <itunes:title>Vi er alle paranoide narsissister! Ny podkast! </itunes:title>
+      <itunes:summary>Det er gærningenes tidsalder og USA har gått bananas! Demokratiet der står for fall, og hva skjer egentlig med Norge? Espen har invitert Sofie Høgestøl for å få noen svar. En iransk frafallen muslim vil bli stand up`er, og debuterer i XL. Og vaktene i NRK har fått beskjed om å låse alle dører, for Espen vil ikke ha mer uinvitert besøk i studio av Per Larsen. </itunes:summary>
+      <itunes:duration>3027</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gdpFInQ8NKVBHBIfUjw-YgNqxVxgDpGv7gD8619x6Edg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ny humorserie fra NRK</title>
+      <link>https://radio.nrk.no/podkast/xl_podkasten/l_9b630dfd-acd9-468e-a30d-fdacd9468e14</link>
+      <description>Espen Thoresen vrenger sjela. XL – podkasten kommer 25. september i appen NRK Radio.</description>
+      <guid isPermaLink="false">l_9b630dfd-acd9-468e-a30d-fdacd9468e14</guid>
+      <pubDate>Sat, 18 Sep 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/xl_podkasten/3121b005-d8be-4b7b-84b9-b5ad45f08d38_0_ID192MP3.mp3" type="audio/mpeg" length="1528173"></enclosure>
+      <itunes:title>Ny humorserie fra NRK</itunes:title>
+      <itunes:summary>Espen Thoresen vrenger sjela. XL – podkasten kommer 25. september i appen NRK Radio.</itunes:summary>
+      <itunes:duration>63</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gdpFInQ8NKVBHBIfUjw-YgNqxVxgDpGv7gD8619x6Edg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

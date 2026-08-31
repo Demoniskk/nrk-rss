@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harald V</title>
+    <link>https://radio.nrk.no/podkast/harald_v</link>
+    <description>Harald V var konge i Norge fra 1991 til 2026. Her kan du høre viktige lydklipp i forbindelse med tronskiftet. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Sat, 29 Aug 2026 17:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/harald_v.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Harald V var konge i Norge fra 1991 til 2026. Her kan du høre viktige lydklipp i forbindelse med tronskiftet. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+    <itunes:category text="Nyheter"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ</url>
+      <title>Harald V</title>
+      <link>https://radio.nrk.no/podkast/harald_v</link>
+    </image>
+    <item>
+      <title>Den nye kongens første tale til folket</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_7d27f48b-a51d-4016-a7f4-8ba51d3016ed</link>
+      <description>Kong Haakon VIII sin første tale til folket som konge. En minnetale over sin far, kong Harald.</description>
+      <guid isPermaLink="false">l_7d27f48b-a51d-4016-a7f4-8ba51d3016ed</guid>
+      <pubDate>Sat, 29 Aug 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/7d27f48b-a51d-4016-a7f4-8ba51d3016ed_1_ID192MP3.mp3" type="audio/mpeg" length="12568940"></enclosure>
+      <itunes:title>Den nye kongens første tale til folket</itunes:title>
+      <itunes:summary>Kong Haakon VIII sin første tale til folket som konge. En minnetale over sin far, kong Harald.</itunes:summary>
+      <itunes:duration>523</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tSwXr-W80cCT4grvsa5gXwECwiTD1hONWAnUF2WlhptQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sogneprest på Svalbard</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_641bef93-e92e-4117-9bef-93e92e611732</link>
+      <description>– Det her er verdens nordligste kirkeklokker, sier sogneprest Siv Limstrand. Kongens død ble markert ved at kirkeklokkene i Longyearbyen ringte i en time.</description>
+      <guid isPermaLink="false">l_641bef93-e92e-4117-9bef-93e92e611732</guid>
+      <pubDate>Fri, 28 Aug 2026 16:35:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/641bef93-e92e-4117-9bef-93e92e611732_1_ID192MP3.mp3" type="audio/mpeg" length="6356204"></enclosure>
+      <itunes:title>Sogneprest på Svalbard</itunes:title>
+      <itunes:summary>– Det her er verdens nordligste kirkeklokker, sier sogneprest Siv Limstrand. Kongens død ble markert ved at kirkeklokkene i Longyearbyen ringte i en time.</itunes:summary>
+      <itunes:duration>264</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Pressekonferansen med statsministeren</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_8b1b3af6-4ebb-4349-9b3a-f64ebba34944</link>
+      <description>Statsminister Jonas Gahr Støre møter pressen etter kong Harald Vs død.</description>
+      <guid isPermaLink="false">l_8b1b3af6-4ebb-4349-9b3a-f64ebba34944</guid>
+      <pubDate>Fri, 28 Aug 2026 15:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/8b1b3af6-4ebb-4349-9b3a-f64ebba34944_1_ID192MP3.mp3" type="audio/mpeg" length="88217900"></enclosure>
+      <itunes:title>Pressekonferansen med statsministeren</itunes:title>
+      <itunes:summary>Statsminister Jonas Gahr Støre møter pressen etter kong Harald Vs død.</itunes:summary>
+      <itunes:duration>3675</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kondolanser fra verdens kongehus og statsoverhoder</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_2c8236c2-e9bb-4ece-8236-c2e9bb5eced6</link>
+      <description>– Onkel Harald fikk alle til å føle seg vel i sitt selskap, skriver det danske kongehuset.</description>
+      <guid isPermaLink="false">l_2c8236c2-e9bb-4ece-8236-c2e9bb5eced6</guid>
+      <pubDate>Fri, 28 Aug 2026 15:07:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/2c8236c2-e9bb-4ece-8236-c2e9bb5eced6_1_ID192MP3.mp3" type="audio/mpeg" length="5849900"></enclosure>
+      <itunes:title>Kondolanser fra verdens kongehus og statsoverhoder</itunes:title>
+      <itunes:summary>– Onkel Harald fikk alle til å føle seg vel i sitt selskap, skriver det danske kongehuset.</itunes:summary>
+      <itunes:duration>243</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Intervjuer med folk på Slottsplassen</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_5ba857ab-a0a9-4b13-a857-aba0a96b1327</link>
+      <description>Folk strømmer til slottsplassen for å legge ned blomster og hilsner.</description>
+      <guid isPermaLink="false">l_5ba857ab-a0a9-4b13-a857-aba0a96b1327</guid>
+      <pubDate>Fri, 28 Aug 2026 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/5ba857ab-a0a9-4b13-a857-aba0a96b1327_1_ID192MP3.mp3" type="audio/mpeg" length="6232364"></enclosure>
+      <itunes:title>Intervjuer med folk på Slottsplassen</itunes:title>
+      <itunes:summary>Folk strømmer til slottsplassen for å legge ned blomster og hilsner.</itunes:summary>
+      <itunes:duration>259</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Intervju med unge minoriteter</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_1b6d7039-233e-4ad6-ad70-39233e1ad657</link>
+      <description>Flere minoriteter uttrykker takknemlighet for kong Haralds arbeid.</description>
+      <guid isPermaLink="false">l_1b6d7039-233e-4ad6-ad70-39233e1ad657</guid>
+      <pubDate>Fri, 28 Aug 2026 14:56:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/1b6d7039-233e-4ad6-ad70-39233e1ad657_1_ID192MP3.mp3" type="audio/mpeg" length="11145068"></enclosure>
+      <itunes:title>Intervju med unge minoriteter</itunes:title>
+      <itunes:summary>Flere minoriteter uttrykker takknemlighet for kong Haralds arbeid.</itunes:summary>
+      <itunes:duration>464</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Titler i det norske kongehuset</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_9c844d2b-057e-4c88-844d-2b057e8c88b4</link>
+      <description>Norges nye konge har tatt navnet Kong Haakon VIII.</description>
+      <guid isPermaLink="false">l_9c844d2b-057e-4c88-844d-2b057e8c88b4</guid>
+      <pubDate>Fri, 28 Aug 2026 14:48:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/9c844d2b-057e-4c88-844d-2b057e8c88b4_1_ID192MP3.mp3" type="audio/mpeg" length="933164"></enclosure>
+      <itunes:title>Titler i det norske kongehuset</itunes:title>
+      <itunes:summary>Norges nye konge har tatt navnet Kong Haakon VIII.</itunes:summary>
+      <itunes:duration>38</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kong Haakons uttalelse fra statsråd</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_8359dd9e-fb78-4215-99dd-9efb78721538</link>
+      <description>Fra studio leses kong Haakons uttalelse fra statsråd.</description>
+      <guid isPermaLink="false">l_8359dd9e-fb78-4215-99dd-9efb78721538</guid>
+      <pubDate>Fri, 28 Aug 2026 14:47:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/8359dd9e-fb78-4215-99dd-9efb78721538_1_ID192MP3.mp3" type="audio/mpeg" length="2457260"></enclosure>
+      <itunes:title>Kong Haakons uttalelse fra statsråd</itunes:title>
+      <itunes:summary>Fra studio leses kong Haakons uttalelse fra statsråd.</itunes:summary>
+      <itunes:duration>102</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Preses i Den norske kirkes minnetale</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_ceb959d7-63c0-4f4e-b959-d763c08f4eb9</link>
+      <description>– I dag er vi fylt av vemod og sorg, sier preses  i Den norske kirke Olav Fykse Tveit.</description>
+      <guid isPermaLink="false">l_ceb959d7-63c0-4f4e-b959-d763c08f4eb9</guid>
+      <pubDate>Fri, 28 Aug 2026 14:43:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/ceb959d7-63c0-4f4e-b959-d763c08f4eb9_1_ID192MP3.mp3" type="audio/mpeg" length="6233516"></enclosure>
+      <itunes:title>Preses i Den norske kirkes minnetale</itunes:title>
+      <itunes:summary>– I dag er vi fylt av vemod og sorg, sier preses  i Den norske kirke Olav Fykse Tveit.</itunes:summary>
+      <itunes:duration>259</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Y298YF2gQP3qVfocYuHdnAWcVihY0QEggnc4GgRZVqJQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Samtingspresidentens minnetale</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_f929af89-7a91-4257-a9af-897a91e2574e</link>
+      <description>Samtingspresident Silje Karine Muotka holder sin minnetale.</description>
+      <guid isPermaLink="false">l_f929af89-7a91-4257-a9af-897a91e2574e</guid>
+      <pubDate>Fri, 28 Aug 2026 14:42:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/f929af89-7a91-4257-a9af-897a91e2574e_1_ID192MP3.mp3" type="audio/mpeg" length="8334188"></enclosure>
+      <itunes:title>Samtingspresidentens minnetale</itunes:title>
+      <itunes:summary>Samtingspresident Silje Karine Muotka holder sin minnetale.</itunes:summary>
+      <itunes:duration>347</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WmXDPGblBXIFsI7JFzy2hQIvIM_t7mVTOCUC9bkRSlCg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Høyesterettsjustitiarius  minnetale</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_8a551f1a-5a7f-465e-951f-1a5a7f165ee6</link>
+      <description>– Kongen var bevisst hvilke grunnleggende verdier vår rettsstat var bygget på, sier høyesterettsjustitiarius Toril Maria Øie.</description>
+      <guid isPermaLink="false">l_8a551f1a-5a7f-465e-951f-1a5a7f165ee6</guid>
+      <pubDate>Fri, 28 Aug 2026 14:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/8a551f1a-5a7f-465e-951f-1a5a7f165ee6_1_ID192MP3.mp3" type="audio/mpeg" length="8387756"></enclosure>
+      <itunes:title>Høyesterettsjustitiarius  minnetale</itunes:title>
+      <itunes:summary>– Kongen var bevisst hvilke grunnleggende verdier vår rettsstat var bygget på, sier høyesterettsjustitiarius Toril Maria Øie.</itunes:summary>
+      <itunes:duration>349</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xpCgLwBjv-tkbECEH4WNRQfKIUr7pAv-Q47-vk1zdqsw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Statsministerens minnetale</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_1230eb00-b364-4c1f-b0eb-00b364bc1fc8</link>
+      <description>– En nasjon er i sorg, sier statsminister Jonas Gahr Støre.</description>
+      <guid isPermaLink="false">l_1230eb00-b364-4c1f-b0eb-00b364bc1fc8</guid>
+      <pubDate>Fri, 28 Aug 2026 13:33:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/1230eb00-b364-4c1f-b0eb-00b364bc1fc8_1_ID192MP3.mp3" type="audio/mpeg" length="9978092"></enclosure>
+      <itunes:title>Statsministerens minnetale</itunes:title>
+      <itunes:summary>– En nasjon er i sorg, sier statsminister Jonas Gahr Støre.</itunes:summary>
+      <itunes:duration>415</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/l0qIdnz67SmbVnGgfYupPAEU34jLpCM1TJ3dkSG7wD-g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Stortingspresidentens minnetale</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_1b12a406-e23b-4e92-92a4-06e23b9e9272</link>
+      <description>– Stortinget har mottatt dødsbudskapet med stor sorg, sier stortingspresident Masud Gharahkhani.</description>
+      <guid isPermaLink="false">l_1b12a406-e23b-4e92-92a4-06e23b9e9272</guid>
+      <pubDate>Fri, 28 Aug 2026 13:32:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/1b12a406-e23b-4e92-92a4-06e23b9e9272_1_ID192MP3.mp3" type="audio/mpeg" length="8027180"></enclosure>
+      <itunes:title>Stortingspresidentens minnetale</itunes:title>
+      <itunes:summary>– Stortinget har mottatt dødsbudskapet med stor sorg, sier stortingspresident Masud Gharahkhani.</itunes:summary>
+      <itunes:duration>334</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/X8cC1Ht7lPvMKxUJF-HBmQFYbE1PWr7tWyQSKUyELvKg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Biskop i Oslo Sunniva Gylver</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_1f84742a-a3b9-4a81-8474-2aa3b94a8187</link>
+      <description>Klokken 12 ringte kirkeklokkene over hele landet.</description>
+      <guid isPermaLink="false">l_1f84742a-a3b9-4a81-8474-2aa3b94a8187</guid>
+      <pubDate>Fri, 28 Aug 2026 13:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/1f84742a-a3b9-4a81-8474-2aa3b94a8187_1_ID192MP3.mp3" type="audio/mpeg" length="5464556"></enclosure>
+      <itunes:title>Biskop i Oslo Sunniva Gylver</itunes:title>
+      <itunes:summary>Klokken 12 ringte kirkeklokkene over hele landet.</itunes:summary>
+      <itunes:duration>227</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sørgefloret blir hengt opp på slottsbalkongen</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_d89c9ca8-2fc0-495e-9c9c-a82fc0f95e2d</link>
+      <description>Kongeflagget heises til topps på slottet for å vise at Norge offisielt har en ny konge.</description>
+      <guid isPermaLink="false">l_d89c9ca8-2fc0-495e-9c9c-a82fc0f95e2d</guid>
+      <pubDate>Fri, 28 Aug 2026 12:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/d89c9ca8-2fc0-495e-9c9c-a82fc0f95e2d_1_ID192MP3.mp3" type="audio/mpeg" length="4043564"></enclosure>
+      <itunes:title>Sørgefloret blir hengt opp på slottsbalkongen</itunes:title>
+      <itunes:summary>Kongeflagget heises til topps på slottet for å vise at Norge offisielt har en ny konge.</itunes:summary>
+      <itunes:duration>168</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sametingspresident Silje Karine Muotka</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_61237e7f-25a7-41ac-a37e-7f25a771ac4b</link>
+      <description>– Våre tanker går til dronning Sonja, kongefamilien og alle som stod kong Harald nær, sier sametingspresident Silje Karine Muotka.</description>
+      <guid isPermaLink="false">l_61237e7f-25a7-41ac-a37e-7f25a771ac4b</guid>
+      <pubDate>Fri, 28 Aug 2026 12:32:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/61237e7f-25a7-41ac-a37e-7f25a771ac4b_1_ID192MP3.mp3" type="audio/mpeg" length="6684524"></enclosure>
+      <itunes:title>Sametingspresident Silje Karine Muotka</itunes:title>
+      <itunes:summary>– Våre tanker går til dronning Sonja, kongefamilien og alle som stod kong Harald nær, sier sametingspresident Silje Karine Muotka.</itunes:summary>
+      <itunes:duration>278</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Det gjøres klart for sørgesalutt på Akershus festning</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_267327db-9d38-49a2-b327-db9d38c9a2c4</link>
+      <description>Den avdøde kongen hedres med sørgesalutt over hele landet.</description>
+      <guid isPermaLink="false">l_267327db-9d38-49a2-b327-db9d38c9a2c4</guid>
+      <pubDate>Fri, 28 Aug 2026 12:24:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/267327db-9d38-49a2-b327-db9d38c9a2c4_1_ID192MP3.mp3" type="audio/mpeg" length="9130220"></enclosure>
+      <itunes:title>Det gjøres klart for sørgesalutt på Akershus festning</itunes:title>
+      <itunes:summary>Den avdøde kongen hedres med sørgesalutt over hele landet.</itunes:summary>
+      <itunes:duration>380</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Regjeringen signerer kondolanseprotokoll</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_b1c5699a-1486-48fb-8569-9a148648fb8d</link>
+      <description>Regjeringen signerer kondolanseprotokoll på slottet.</description>
+      <guid isPermaLink="false">l_b1c5699a-1486-48fb-8569-9a148648fb8d</guid>
+      <pubDate>Fri, 28 Aug 2026 12:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/b1c5699a-1486-48fb-8569-9a148648fb8d_1_ID192MP3.mp3" type="audio/mpeg" length="16945388"></enclosure>
+      <itunes:title>Regjeringen signerer kondolanseprotokoll</itunes:title>
+      <itunes:summary>Regjeringen signerer kondolanseprotokoll på slottet.</itunes:summary>
+      <itunes:duration>705</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Statsråd med kongen og kronprinsessen</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_5791972e-4f8d-48ff-9197-2e4f8dd8ff02</link>
+      <description>Det første statsrådet med den nye kongen og kronprinsessen.</description>
+      <guid isPermaLink="false">l_5791972e-4f8d-48ff-9197-2e4f8dd8ff02</guid>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/5791972e-4f8d-48ff-9197-2e4f8dd8ff02_1_ID192MP3.mp3" type="audio/mpeg" length="6071660"></enclosure>
+      <itunes:title>Statsråd med kongen og kronprinsessen</itunes:title>
+      <itunes:summary>Det første statsrådet med den nye kongen og kronprinsessen.</itunes:summary>
+      <itunes:duration>252</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tronskifte 2026</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_88388448-ef9a-4a1c-b884-48ef9a6a1cb4</link>
+      <description>Hør nyhetsmeldingen om kongens død. Kunngjøringen kom klokken 08.36, 28. august 2026.</description>
+      <guid isPermaLink="false">l_88388448-ef9a-4a1c-b884-48ef9a6a1cb4</guid>
+      <pubDate>Fri, 28 Aug 2026 08:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/88388448-ef9a-4a1c-b884-48ef9a6a1cb4_1_ID192MP3.mp3" type="audio/mpeg" length="1661228"></enclosure>
+      <itunes:title>Tronskifte 2026</itunes:title>
+      <itunes:summary>Hør nyhetsmeldingen om kongens død. Kunngjøringen kom klokken 08.36, 28. august 2026.</itunes:summary>
+      <itunes:duration>69</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tronskifte 1991</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_3e415e83-3ca0-4ab1-815e-833ca01ab152</link>
+      <description>53 år gammel overtok kong Harald tronen etter sin far.</description>
+      <guid isPermaLink="false">l_3e415e83-3ca0-4ab1-815e-833ca01ab152</guid>
+      <pubDate>Fri, 28 Aug 2026 08:44:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/3e415e83-3ca0-4ab1-815e-833ca01ab152_1_ID192MP3.mp3" type="audio/mpeg" length="34892396"></enclosure>
+      <itunes:title>Tronskifte 1991</itunes:title>
+      <itunes:summary>53 år gammel overtok kong Harald tronen etter sin far.</itunes:summary>
+      <itunes:duration>1453</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VoBtjYynYWncMqCAR-O4TAYsnSv5Dt3U-Dgs9lVwP-bA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>– Hun vil bli min kone</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_6edd6725-5bf7-4f1f-9d67-255bf7bf1fbf</link>
+      <description>Et lykkelig nyforlovet par svarte på pressens små og store spørsmål.</description>
+      <guid isPermaLink="false">l_6edd6725-5bf7-4f1f-9d67-255bf7bf1fbf</guid>
+      <pubDate>Fri, 28 Aug 2026 08:43:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/6edd6725-5bf7-4f1f-9d67-255bf7bf1fbf_1_ID192MP3.mp3" type="audio/mpeg" length="16978220"></enclosure>
+      <itunes:title>– Hun vil bli min kone</itunes:title>
+      <itunes:summary>Et lykkelig nyforlovet par svarte på pressens små og store spørsmål.</itunes:summary>
+      <itunes:duration>707</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6-o_T0HVnNAN0ObRgzo14wALu_M5e2VKYKENTAVqTcsQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kronprins Haralds 21-årsdag</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_ea4ae4e7-4be4-486d-8ae4-e74be4d86d74</link>
+      <description>På myndighetsdagen talte kronprinsen om gleder og utfordringer i livet.</description>
+      <guid isPermaLink="false">l_ea4ae4e7-4be4-486d-8ae4-e74be4d86d74</guid>
+      <pubDate>Fri, 28 Aug 2026 08:42:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/ea4ae4e7-4be4-486d-8ae4-e74be4d86d74_1_ID192MP3.mp3" type="audio/mpeg" length="7123436"></enclosure>
+      <itunes:title>Kronprins Haralds 21-årsdag</itunes:title>
+      <itunes:summary>På myndighetsdagen talte kronprinsen om gleder og utfordringer i livet.</itunes:summary>
+      <itunes:duration>296</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/RJ6G_abQ2P5q05MecQWKUwd2BTOOpznQ4mWCqhxMN2bA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>En tale til bestefar</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_e77f324c-73ca-41ec-bf32-4c73ca71ec59</link>
+      <description>Uker før bestefarens død, ga prinsen en varm tale til til ham.</description>
+      <guid isPermaLink="false">l_e77f324c-73ca-41ec-bf32-4c73ca71ec59</guid>
+      <pubDate>Fri, 28 Aug 2026 08:41:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/e77f324c-73ca-41ec-bf32-4c73ca71ec59_1_ID192MP3.mp3" type="audio/mpeg" length="5313068"></enclosure>
+      <itunes:title>En tale til bestefar</itunes:title>
+      <itunes:summary>Uker før bestefarens død, ga prinsen en varm tale til til ham.</itunes:summary>
+      <itunes:duration>221</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/J3wDSM9Eo7_IspZhNtn4sAKlRKyj_AnzjY7QUEIaBaVQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>En ivrig seiler</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_9b18ccb2-1c4f-44cb-98cc-b21c4f54cb49</link>
+      <description>I 1954 vant prins Harald sitt første skolemesterskap i seiling.</description>
+      <guid isPermaLink="false">l_9b18ccb2-1c4f-44cb-98cc-b21c4f54cb49</guid>
+      <pubDate>Fri, 28 Aug 2026 08:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/9b18ccb2-1c4f-44cb-98cc-b21c4f54cb49_1_ID192MP3.mp3" type="audio/mpeg" length="2495276"></enclosure>
+      <itunes:title>En ivrig seiler</itunes:title>
+      <itunes:summary>I 1954 vant prins Harald sitt første skolemesterskap i seiling.</itunes:summary>
+      <itunes:duration>103</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ftfv7-ECzD5MkOY822ojQAEvgIxY1pArhM2e2QYNrB5Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Julehilsen til det norske folk</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_8ec831b5-2ef5-4e41-8831-b52ef53e41e0</link>
+      <description>Under okkupasjonen ga prins Harald og søstrene en hilsen fra USA.</description>
+      <guid isPermaLink="false">l_8ec831b5-2ef5-4e41-8831-b52ef53e41e0</guid>
+      <pubDate>Fri, 28 Aug 2026 08:39:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/8ec831b5-2ef5-4e41-8831-b52ef53e41e0_1_ID192MP3.mp3" type="audio/mpeg" length="3468716"></enclosure>
+      <itunes:title>Julehilsen til det norske folk</itunes:title>
+      <itunes:summary>Under okkupasjonen ga prins Harald og søstrene en hilsen fra USA.</itunes:summary>
+      <itunes:duration>144</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-RpCjHj8Le5J7bwzkcYk5Aq8gX1XIrdafXuCfCVrswYg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Prins Haralds dåp</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_b48a32d4-8a38-45d8-8a32-d48a38b5d842</link>
+      <description>Slottskapellet i Oslo var fylt av gjester da Norges arveprins ble døpt.</description>
+      <guid isPermaLink="false">l_b48a32d4-8a38-45d8-8a32-d48a38b5d842</guid>
+      <pubDate>Fri, 28 Aug 2026 08:38:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/b48a32d4-8a38-45d8-8a32-d48a38b5d842_1_ID192MP3.mp3" type="audio/mpeg" length="39530348"></enclosure>
+      <itunes:title>Prins Haralds dåp</itunes:title>
+      <itunes:summary>Slottskapellet i Oslo var fylt av gjester da Norges arveprins ble døpt.</itunes:summary>
+      <itunes:duration>1647</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3ylZ7RtqAI7vO1JVm15z2AWZYWXnsgIImNT8MLoOVtqQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

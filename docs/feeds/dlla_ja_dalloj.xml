@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dálla ja dalloj</title>
+    <link>https://radio.nrk.no/podkast/dlla_ja_dalloj</link>
+    <description>Naima káfastallá vuorrasap ulmutjij, guládalátjit sijáj girjagis subtsasijda viessomájgijnisá. Majt máhttep boarrásijs oahppat? </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 27 Mar 2024 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dlla_ja_dalloj.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Naima káfastallá vuorrasap ulmutjij, guládalátjit sijáj girjagis subtsasijda viessomájgijnisá. Majt máhttep boarrásijs oahppat? </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/R9v-zpiM4CbusgxB8A23gwmzgu5J429R5oit4kpu-g5A"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/R9v-zpiM4CbusgxB8A23gwmzgu5J429R5oit4kpu-g5A</url>
+      <title>Dálla ja dalloj</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj</link>
+    </image>
+    <item>
+      <title>Tjuottjoj dasik oajvve gærssulattjáj</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_b826658e-c35d-45f8-a665-8ec35dd5f8e1</link>
+      <description>Ållu sajev ednamij dagáj gå tjuottjoj badjelasj guokta jánndura goadev adnalime. Gåktu manáj? Gula divna gå Sander giehttu live Bådådjon.&#xA;</description>
+      <guid isPermaLink="false">l_b826658e-c35d-45f8-a665-8ec35dd5f8e1</guid>
+      <pubDate>Wed, 27 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/1baa0e6b-4cb7-457b-960b-5c77d5412137_0_ID192MP3.mp3" type="audio/mpeg" length="67790637"></enclosure>
+      <itunes:title>Tjuottjoj dasik oajvve gærssulattjáj</itunes:title>
+      <itunes:summary>Ållu sajev ednamij dagáj gå tjuottjoj badjelasj guokta jánndura goadev adnalime. Gåktu manáj? Gula divna gå Sander giehttu live Bådådjon.&#xA;</itunes:summary>
+      <itunes:duration>2824</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OhuVBFv6kr4zBsp34JejggHIilbigXM4gh1vlNFDRfQw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Jesus ittjij Tjierregin riegáda </title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_9beb3821-595b-4fce-ab38-21595bcfce30</link>
+      <description>Gåktu lidjijn Sonja viddjura gå jáhkij áhttjes lij ájnna guhti diedij Jubmela bárnne galgaj riegádit? Guosse: Sonja Rimpi.</description>
+      <guid isPermaLink="false">l_9beb3821-595b-4fce-ab38-21595bcfce30</guid>
+      <pubDate>Wed, 20 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/87588053-95bb-41f8-b7c4-6e5ea61bb2df_0_ID192MP3.mp3" type="audio/mpeg" length="28887597"></enclosure>
+      <itunes:title>Jesus ittjij Tjierregin riegáda </itunes:title>
+      <itunes:summary>Gåktu lidjijn Sonja viddjura gå jáhkij áhttjes lij ájnna guhti diedij Jubmela bárnne galgaj riegádit? Guosse: Sonja Rimpi.</itunes:summary>
+      <itunes:duration>1203</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NWSULeWCFf8cnLv2NdurtAeSljctMiOKsPvGbwYxswLA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Iednegiella la mærkkan gudi lip</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_63e3fd6c-15aa-40d5-a3fd-6c15aaf0d54a</link>
+      <description>– Allit val goassak guode julevsámegielav! Da la má dat mij dahka vaj diehtep gudi lip. Guosse: Harrieth Aira</description>
+      <guid isPermaLink="false">l_63e3fd6c-15aa-40d5-a3fd-6c15aaf0d54a</guid>
+      <pubDate>Wed, 13 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/d15a8bf1-98d4-41f7-a0fe-159c9c3028a1_0_ID192MP3.mp3" type="audio/mpeg" length="28719405"></enclosure>
+      <itunes:title>Iednegiella la mærkkan gudi lip</itunes:title>
+      <itunes:summary>– Allit val goassak guode julevsámegielav! Da la má dat mij dahka vaj diehtep gudi lip. Guosse: Harrieth Aira</itunes:summary>
+      <itunes:duration>1196</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fPRtHjD62O1wScZpVv0orwOSSWU_U45QBAZy9-w_7zpA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Tjervas gå jávrre atsij</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_7327fe48-855b-4d70-a7fe-48855bad7010</link>
+      <description>Snjierájt njuovvat lij dal akta dåjmajs gå lijga unnagattja. Valla mij ienemusát vájkkudij lej gå jávrev dulvvadin? Guosse: Gunnar ja Asta.</description>
+      <guid isPermaLink="false">l_7327fe48-855b-4d70-a7fe-48855bad7010</guid>
+      <pubDate>Wed, 06 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/17d76d06-4166-45b1-b2ba-65511ffb965f_0_ID192MP3.mp3" type="audio/mpeg" length="37787949"></enclosure>
+      <itunes:title>Tjervas gå jávrre atsij</itunes:title>
+      <itunes:summary>Snjierájt njuovvat lij dal akta dåjmajs gå lijga unnagattja. Valla mij ienemusát vájkkudij lej gå jávrev dulvvadin? Guosse: Gunnar ja Asta.</itunes:summary>
+      <itunes:duration>1574</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2cv40k9BldDjVWGDzC9L1wXn4zoKsun7x3NYADYsgP3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Vuorastuváj gå hærrá giedav biejaj oajvváj</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_834e41df-8c9c-47a9-8e41-df8c9c17a975</link>
+      <description>Lufuohtguollim, rievsakbivddo ja duot dát majna Nilssa juo árrat álgij barggat barggon. Guosse: Nils O.Nilsen</description>
+      <guid isPermaLink="false">l_834e41df-8c9c-47a9-8e41-df8c9c17a975</guid>
+      <pubDate>Wed, 28 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/72d262c2-2cf2-460d-92a5-22715cbc1beb_0_ID192MP3.mp3" type="audio/mpeg" length="35137197"></enclosure>
+      <itunes:title>Vuorastuváj gå hærrá giedav biejaj oajvváj</itunes:title>
+      <itunes:summary>Lufuohtguollim, rievsakbivddo ja duot dát majna Nilssa juo árrat álgij barggat barggon. Guosse: Nils O.Nilsen</itunes:summary>
+      <itunes:duration>1464</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wAHpOuvUW73RmvSI2swOigsS88iwYvsQT7JIIdpCYbJw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Dålen ålov skælmmodin</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_01e381b5-4898-45aa-a381-b54898b5aaae</link>
+      <description>Suohttasa ja skælmmodago lij luondulasj oasse nuorajda dålen. Udnásj sebrudahka i lim gal gierddat dajt dagojt. Guosse: Mareno Mikkelsen.</description>
+      <guid isPermaLink="false">l_01e381b5-4898-45aa-a381-b54898b5aaae</guid>
+      <pubDate>Wed, 21 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/40eaa4b8-91c1-417b-9509-f845cd783cdc_0_ID192MP3.mp3" type="audio/mpeg" length="21453165"></enclosure>
+      <itunes:title>Dålen ålov skælmmodin</itunes:title>
+      <itunes:summary>Suohttasa ja skælmmodago lij luondulasj oasse nuorajda dålen. Udnásj sebrudahka i lim gal gierddat dajt dagojt. Guosse: Mareno Mikkelsen.</itunes:summary>
+      <itunes:duration>893</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/XTtlLA89_if51wn4noKApg8LqgEN8j8NUVxiabaHnN8A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Mánnávuodahæjmma tjáhtje vuolláj gádoj</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_ef413376-a64d-418f-8133-76a64de18fe7</link>
+      <description>18 jagágin vierttij sån Luspes jåhtet tjáhtjedulvvadime diehti. Gåktu lij viessom danna åvddåla ja majt dahkin? Guosse: Lisbeth Kielatis.</description>
+      <guid isPermaLink="false">l_ef413376-a64d-418f-8133-76a64de18fe7</guid>
+      <pubDate>Wed, 14 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/9d826814-6923-4aea-a976-28b8fbfce751_0_ID192MP3.mp3" type="audio/mpeg" length="34308333"></enclosure>
+      <itunes:title>Mánnávuodahæjmma tjáhtje vuolláj gádoj</itunes:title>
+      <itunes:summary>18 jagágin vierttij sån Luspes jåhtet tjáhtjedulvvadime diehti. Gåktu lij viessom danna åvddåla ja majt dahkin? Guosse: Lisbeth Kielatis.</itunes:summary>
+      <itunes:duration>1429</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/btcgjyfLfSzJOknYDkUbwgYhajk8L4d07zCEcss6vaiA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Ålggodivrre Sander (2:2)</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_05a14d93-473f-4e8a-a14d-93473f5e8af8</link>
+      <description>Mujna ij la ietjam, valla dåbdåv suv degu mánnám. Guosse: Sander Andersen</description>
+      <guid isPermaLink="false">l_05a14d93-473f-4e8a-a14d-93473f5e8af8</guid>
+      <pubDate>Wed, 07 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/cc6882c1-35d0-404c-bd6e-c5ac73a2a527_0_ID192MP3.mp3" type="audio/mpeg" length="42308397"></enclosure>
+      <itunes:title>Ålggodivrre Sander (2:2)</itunes:title>
+      <itunes:summary>Mujna ij la ietjam, valla dåbdåv suv degu mánnám. Guosse: Sander Andersen</itunes:summary>
+      <itunes:duration>1762</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Haq9yooIqbBewU6k0I_ItgcXhIfAO3DaoT_Fw5fxL6Pw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Ålggodivrre Sander (1:2)</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_0012e91e-b483-4de7-92e9-1eb483bde789</link>
+      <description>Gånnå l ájn Vijkká ja gåktu lij Sandera mánnávuohta dåppe? Majna smállin dajt ájgijt? Guosse: Sander Andersen.</description>
+      <guid isPermaLink="false">l_0012e91e-b483-4de7-92e9-1eb483bde789</guid>
+      <pubDate>Wed, 31 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/404b44c8-d28a-4f09-97ba-8c233fb59a9a_0_ID192MP3.mp3" type="audio/mpeg" length="31984173"></enclosure>
+      <itunes:title>Ålggodivrre Sander (1:2)</itunes:title>
+      <itunes:summary>Gånnå l ájn Vijkká ja gåktu lij Sandera mánnávuohta dåppe? Majna smállin dajt ájgijt? Guosse: Sander Andersen.</itunes:summary>
+      <itunes:duration>1332</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/L2uaEWnea6oGQKiVta0qJgtOaUkCls8sWDQJlGzWf0Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Liekkas guhket viessomav</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_5cea16b2-cfa9-4e81-aa16-b2cfa98e81a5</link>
+      <description>Dalloj lidjin moatten degu guosseviesso, ettjin biednigij mávse årromsajes farra væhkádallin nubbe nuppijt. Guosse: Seth Ivan Eriksson.</description>
+      <guid isPermaLink="false">l_5cea16b2-cfa9-4e81-aa16-b2cfa98e81a5</guid>
+      <pubDate>Wed, 24 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/ae1ce98d-3e90-4ccf-a641-9f3ffdd1360a_0_ID192MP3.mp3" type="audio/mpeg" length="31605165"></enclosure>
+      <itunes:title>Liekkas guhket viessomav</itunes:title>
+      <itunes:summary>Dalloj lidjin moatten degu guosseviesso, ettjin biednigij mávse årromsajes farra væhkádallin nubbe nuppijt. Guosse: Seth Ivan Eriksson.</itunes:summary>
+      <itunes:duration>1316</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rRqNGeN7fbe21_J7tf9yzATtv80g4El0My6S6qwHuNNA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Jávrre rudáv luojkká ja viessomvuojnnu</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_93a386ca-dcd9-48dd-a386-cadcd998dda7</link>
+      <description>Gávnnuji gus fámo ma mijájt stivrriji ja viehkedi? Dålen lij nav suohtas gullat gå giehttujin, valla mav giehttun? Guosse: Per-Eric Kuoljok.</description>
+      <guid isPermaLink="false">l_93a386ca-dcd9-48dd-a386-cadcd998dda7</guid>
+      <pubDate>Wed, 17 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/355ea193-7ef8-4130-9aa8-15303e5c5cc1_0_ID192MP3.mp3" type="audio/mpeg" length="29251629"></enclosure>
+      <itunes:title>Jávrre rudáv luojkká ja viessomvuojnnu</itunes:title>
+      <itunes:summary>Gávnnuji gus fámo ma mijájt stivrriji ja viehkedi? Dålen lij nav suohtas gullat gå giehttujin, valla mav giehttun? Guosse: Per-Eric Kuoljok.</itunes:summary>
+      <itunes:duration>1218</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Zx8odZhV1SkvmE4rLZMqlgyczirVlNVdEjMgz8DMvYDA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>I galga iját barggat</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_539519f9-f4c0-4512-9519-f9f4c02512c1</link>
+      <description>Juojddá la balldám Katarinav ijájt barggamis, uddni gulá majt. Guosse: Katarina Spik Skum.</description>
+      <guid isPermaLink="false">l_539519f9-f4c0-4512-9519-f9f4c02512c1</guid>
+      <pubDate>Wed, 10 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/b9a0d9f1-f0b5-4c6a-bf81-eeac133042a7_0_ID192MP3.mp3" type="audio/mpeg" length="30841389"></enclosure>
+      <itunes:title>I galga iját barggat</itunes:title>
+      <itunes:summary>Juojddá la balldám Katarinav ijájt barggamis, uddni gulá majt. Guosse: Katarina Spik Skum.</itunes:summary>
+      <itunes:duration>1285</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iHkFSFnnOvRfV75V22b0Qws5UcA7czP_n7CZe1Bu3R8w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Rádjalåvsså ja vierrevuohta</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_830a47ec-cce0-47f1-8a47-eccce0c7f16a</link>
+      <description>Ingara láhka fuolkke lij rádjálåvsså ja vierttij Vuonas bahtarit. Sån feraj madin ulmutja tjajmmin. Guosse: Ingar Nikolaisen Kuoljok. </description>
+      <guid isPermaLink="false">l_830a47ec-cce0-47f1-8a47-eccce0c7f16a</guid>
+      <pubDate>Wed, 27 Dec 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/f8b00a28-340a-4d75-912f-eb102de8a3ca_0_ID192MP3.mp3" type="audio/mpeg" length="30480813"></enclosure>
+      <itunes:title>Rádjalåvsså ja vierrevuohta</itunes:title>
+      <itunes:summary>Ingara láhka fuolkke lij rádjálåvsså ja vierttij Vuonas bahtarit. Sån feraj madin ulmutja tjajmmin. Guosse: Ingar Nikolaisen Kuoljok. </itunes:summary>
+      <itunes:duration>1269</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UR18toTi3k7LEtTfHNn37gko-0uxcvWHZH_UBUMJiKVA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Manen mij válljip gåktu válljip?</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_0bf24eee-a77f-48b6-b24e-eea77fe8b6df</link>
+      <description>Dat mij ij la luondulasj dunji ij la nav álkke dahkat. Harrieth la guoradallam dákkár dilijt. Guosse: Harrieth Aira.</description>
+      <guid isPermaLink="false">l_0bf24eee-a77f-48b6-b24e-eea77fe8b6df</guid>
+      <pubDate>Wed, 20 Dec 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/0dbff085-3cb1-4759-974b-5a18d92708df_0_ID192MP3.mp3" type="audio/mpeg" length="40267629"></enclosure>
+      <itunes:title>Manen mij válljip gåktu válljip?</itunes:title>
+      <itunes:summary>Dat mij ij la luondulasj dunji ij la nav álkke dahkat. Harrieth la guoradallam dákkár dilijt. Guosse: Harrieth Aira.</itunes:summary>
+      <itunes:duration>1677</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dzHfA736JFA5J-67PytEzwRN9kfqwqGCUrmj_rG2ZoEQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Tjáppa nuorra næjtso li gáhtum</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_5115f1df-87e1-404b-95f1-df87e1704b4f</link>
+      <description>Maktas lidjin valástallamgilposa åvddål? Gåktu Per Anders iejvvij áhkátjisáv? Máhttá ælov jåhtet duolmunijn?  Guosse: Per Anders Vannar. </description>
+      <guid isPermaLink="false">l_5115f1df-87e1-404b-95f1-df87e1704b4f</guid>
+      <pubDate>Wed, 13 Dec 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/442e3eee-36d8-434c-b7a2-34c9ee06929b_0_ID192MP3.mp3" type="audio/mpeg" length="23998509"></enclosure>
+      <itunes:title>Tjáppa nuorra næjtso li gáhtum</itunes:title>
+      <itunes:summary>Maktas lidjin valástallamgilposa åvddål? Gåktu Per Anders iejvvij áhkátjisáv? Máhttá ælov jåhtet duolmunijn?  Guosse: Per Anders Vannar. </itunes:summary>
+      <itunes:duration>999</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GJXUfU8vtP6bcMCpVr-zMQ2KzXBlxzk1UiuFiVZw5Z8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Dåssju birek gå áhttjes jámij</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_142fe39a-e13e-4e31-afe3-9ae13e1e316d</link>
+      <description>Áhttjes hæhkkat jámij gå Sigmund lij gietja jagák. Uddni sån dan birra rabás mielajn giehttu. Guosse: Sigmund Johnsen. </description>
+      <guid isPermaLink="false">l_142fe39a-e13e-4e31-afe3-9ae13e1e316d</guid>
+      <pubDate>Wed, 06 Dec 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/5af9d132-4a55-4efa-8800-e47aef6208da_0_ID192MP3.mp3" type="audio/mpeg" length="26944749"></enclosure>
+      <itunes:title>Dåssju birek gå áhttjes jámij</itunes:title>
+      <itunes:summary>Áhttjes hæhkkat jámij gå Sigmund lij gietja jagák. Uddni sån dan birra rabás mielajn giehttu. Guosse: Sigmund Johnsen. </itunes:summary>
+      <itunes:duration>1122</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Lmy8qIPodrcPce3RWlnsnQaJjDaId1TMgDxr6SNeE2Iw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Dålusj láddim ja hæsstafámo</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_89c5a68e-fe20-4cc9-85a6-8efe20ecc905</link>
+      <description>Mareno dal diehtá láddimájgge la barggoájgge, avta giese láddijin 900 kg ja hæssta lij tjabu viehkken. Guosse: Mareno Mikkelsen.</description>
+      <guid isPermaLink="false">l_89c5a68e-fe20-4cc9-85a6-8efe20ecc905</guid>
+      <pubDate>Wed, 29 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/db811105-f08a-42fa-8140-d0c91185e9a6_0_ID192MP3.mp3" type="audio/mpeg" length="31856877"></enclosure>
+      <itunes:title>Dålusj láddim ja hæsstafámo</itunes:title>
+      <itunes:summary>Mareno dal diehtá láddimájgge la barggoájgge, avta giese láddijin 900 kg ja hæssta lij tjabu viehkken. Guosse: Mareno Mikkelsen.</itunes:summary>
+      <itunes:duration>1327</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iREEYsC4EpDJ901396LlIAXLFIKUxHin-v6yBZa0l84w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title> Liege mihá sábmen</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_ac8cfce6-209d-4751-8cfc-e6209dc75132</link>
+      <description>Karin åhtsålij sámeviessomij, dajnas de hiejtij stuoves virges ja álgij gielajn ja duojijn barggat. Guosse: Karin Tuolja.</description>
+      <guid isPermaLink="false">l_ac8cfce6-209d-4751-8cfc-e6209dc75132</guid>
+      <pubDate>Wed, 22 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/1eda3c04-06b4-4749-9ae6-4a84eb0a9184_0_ID192MP3.mp3" type="audio/mpeg" length="21900717"></enclosure>
+      <itunes:title> Liege mihá sábmen</itunes:title>
+      <itunes:summary>Karin åhtsålij sámeviessomij, dajnas de hiejtij stuoves virges ja álgij gielajn ja duojijn barggat. Guosse: Karin Tuolja.</itunes:summary>
+      <itunes:duration>912</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FNfVnxxuzpXyhsAfVX70cAcxtbCmDUaEjfuMt176b73w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Dån i diede jus i gatjáda</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_8235cf47-b669-4869-b5cf-47b669586939</link>
+      <description>Dákkir diedojt tjaddnum luondduj ij gávna moatten sajen, valla Elli Karin dajt diehtá ja giehttu midjij. Guosse: Elli Karin Pavval.</description>
+      <guid isPermaLink="false">l_8235cf47-b669-4869-b5cf-47b669586939</guid>
+      <pubDate>Wed, 15 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/f9096bb8-6138-4ce3-9bd0-1b6563ffd3b9_0_ID192MP3.mp3" type="audio/mpeg" length="24196653"></enclosure>
+      <itunes:title>Dån i diede jus i gatjáda</itunes:title>
+      <itunes:summary>Dákkir diedojt tjaddnum luondduj ij gávna moatten sajen, valla Elli Karin dajt diehtá ja giehttu midjij. Guosse: Elli Karin Pavval.</itunes:summary>
+      <itunes:duration>1008</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TmRfQ3mt6CjKSz_OTPKe4Qv8VWV-cLhcthaACPdfs44w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Vájmogiella</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_da4127d7-965a-4550-8127-d7965ae550e6</link>
+      <description>Katarina la vásedam ij la ber álkke vájmogielav oahppat. Guosse: Katarina Spik Skum.</description>
+      <guid isPermaLink="false">l_da4127d7-965a-4550-8127-d7965ae550e6</guid>
+      <pubDate>Wed, 08 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/3a9a3698-cfe8-4aed-8b91-9016c9ff5763_0_ID192MP3.mp3" type="audio/mpeg" length="27481581"></enclosure>
+      <itunes:title>Vájmogiella</itunes:title>
+      <itunes:summary>Katarina la vásedam ij la ber álkke vájmogielav oahppat. Guosse: Katarina Spik Skum.</itunes:summary>
+      <itunes:duration>1145</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ARZKr31G6aNrjgsueut9fg4Yet2tPzi2-cdyLF8H1Cpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Surggo buolvas buolvvaj </title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_58ba2989-f78e-48b7-ba29-89f78e18b737</link>
+      <description>Dålen ettjin vuojka ságasta surgoj birra, sjávodisvuohta giehtoj valla dav de Ann Maj rievddá. Guosse: Ann Maj Kuoljok Albinsson.</description>
+      <guid isPermaLink="false">l_58ba2989-f78e-48b7-ba29-89f78e18b737</guid>
+      <pubDate>Wed, 01 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/e0e9d2a2-00e4-489f-97b5-77d1da7486a4_0_ID192MP3.mp3" type="audio/mpeg" length="26709741"></enclosure>
+      <itunes:title>Surggo buolvas buolvvaj </itunes:title>
+      <itunes:summary>Dålen ettjin vuojka ságasta surgoj birra, sjávodisvuohta giehtoj valla dav de Ann Maj rievddá. Guosse: Ann Maj Kuoljok Albinsson.</itunes:summary>
+      <itunes:duration>1112</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/c3ErSGEntyiPgVr4MFPVvwLGaPsNOS-IpHliXkTw257Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Sámij James Bonda</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_caeb6589-6ba1-4a9f-ab65-896ba1fa9f28</link>
+      <description>Suv árggabiejve li muhttijn degu James Bond filma. Akti sån muohtavuojájnis givnnjahin helikoptera vuolen. Guosse: Per Anders Vannar. </description>
+      <guid isPermaLink="false">l_caeb6589-6ba1-4a9f-ab65-896ba1fa9f28</guid>
+      <pubDate>Wed, 25 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/35eefd5c-c242-43fb-858c-ee0084b25c41_0_ID192MP3.mp3" type="audio/mpeg" length="22399533"></enclosure>
+      <itunes:title>Sámij James Bonda</itunes:title>
+      <itunes:summary>Suv árggabiejve li muhttijn degu James Bond filma. Akti sån muohtavuojájnis givnnjahin helikoptera vuolen. Guosse: Per Anders Vannar. </itunes:summary>
+      <itunes:duration>933</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GJXUfU8vtP6bcMCpVr-zMQ2KzXBlxzk1UiuFiVZw5Z8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+    <item>
+      <title>Dálla ja dalloj boahtá gålgådismáno 25. b.</title>
+      <link>https://radio.nrk.no/podkast/dlla_ja_dalloj/l_395b1eee-535f-4514-9b1e-ee535f55143b</link>
+      <description>Naima káfastallá guládalátjit vuorrasappojs girjak subttsasijda viessomájgijstisá. Majt máhttep boarrásijs oahppat?</description>
+      <guid isPermaLink="false">l_395b1eee-535f-4514-9b1e-ee535f55143b</guid>
+      <pubDate>Thu, 19 Oct 2023 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dlla_ja_dalloj/ca922bef-4560-4f65-8efb-4753a8f85568_0_ID192MP3.mp3" type="audio/mpeg" length="1802925"></enclosure>
+      <itunes:title>Dálla ja dalloj boahtá gålgådismáno 25. b.</itunes:title>
+      <itunes:summary>Naima káfastallá guládalátjit vuorrasappojs girjak subttsasijda viessomájgijstisá. Majt máhttep boarrásijs oahppat?</itunes:summary>
+      <itunes:duration>75</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R9v-zpiM4CbusgxB8A23gwmzgu5J429R5oit4kpu-g5A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2023">2023</podcast:season>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nokke for seg sjøl</title>
+    <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel</link>
+    <description>«Eg e&#39;kje fra Norge, eg e fra Bergen», heiter det. Kva er eigentleg greia med det «bergenske» og korleis har det blitt sånn? </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 23 Feb 2022 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/nokke_for_seg_sjoel.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>«Eg e&#39;kje fra Norge, eg e fra Bergen», heiter det. Kva er eigentleg greia med det «bergenske» og korleis har det blitt sånn? </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"></itunes:image>
+    <itunes:category text="History"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA</url>
+      <title>Nokke for seg sjøl</title>
+      <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel</link>
+    </image>
+    <item>
+      <title>Korleis bli bergensar</title>
+      <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel/l_6963138a-758d-4475-a313-8a758dc475f2</link>
+      <description>Må du ha slekt og djupe røter til Bergen, eller kan du lære deg å bli «ekte» byborgar?</description>
+      <guid isPermaLink="false">l_6963138a-758d-4475-a313-8a758dc475f2</guid>
+      <pubDate>Wed, 23 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/b5e08638-2ddb-4769-bbba-c431a2899223_0_ID192MP3.mp3" type="audio/mpeg" length="46679085"></enclosure>
+      <itunes:title>Korleis bli bergensar</itunes:title>
+      <itunes:summary>Må du ha slekt og djupe røter til Bergen, eller kan du lære deg å bli «ekte» byborgar?</itunes:summary>
+      <itunes:duration>1944</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bergen i raudt, kvitt og blått</title>
+      <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel/l_70235355-c6f2-41ac-a353-55c6f2d1ac68</link>
+      <description>17. mai er Noregs nasjonaldag. «Den søttendes», derimot, er ei feiring av det bergenske.&#xA;</description>
+      <guid isPermaLink="false">l_70235355-c6f2-41ac-a353-55c6f2d1ac68</guid>
+      <pubDate>Wed, 16 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/0c45254a-4d29-4c6f-b7f0-851c61665f40_0_ID192MP3.mp3" type="audio/mpeg" length="41732973"></enclosure>
+      <itunes:title>Bergen i raudt, kvitt og blått</itunes:title>
+      <itunes:summary>17. mai er Noregs nasjonaldag. «Den søttendes», derimot, er ei feiring av det bergenske.&#xA;</itunes:summary>
+      <itunes:duration>1738</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bymann og stril</title>
+      <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel/l_8f870881-9d6b-439e-8708-819d6b539e8b</link>
+      <description>Bygdefolket har tradisjonelt blitt sett ned på i Bergen. Korleis gjekk «stril» frå å vere eit skjellsord til ei merkevare?</description>
+      <guid isPermaLink="false">l_8f870881-9d6b-439e-8708-819d6b539e8b</guid>
+      <pubDate>Wed, 09 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/4b3b9c66-03e4-4673-82f5-3dec0b3bff56_0_ID192MP3.mp3" type="audio/mpeg" length="40680045"></enclosure>
+      <itunes:title>Bymann og stril</itunes:title>
+      <itunes:summary>Bygdefolket har tradisjonelt blitt sett ned på i Bergen. Korleis gjekk «stril» frå å vere eit skjellsord til ei merkevare?</itunes:summary>
+      <itunes:duration>1694</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Den bergenske ironi</title>
+      <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel/l_20db77e2-9c8a-40d5-9b77-e29c8ab0d5d4</link>
+      <description>Bergensarar har sjølvironi. Men det kan ikkje vere så lett å forstå for verda rundt.</description>
+      <guid isPermaLink="false">l_20db77e2-9c8a-40d5-9b77-e29c8ab0d5d4</guid>
+      <pubDate>Wed, 02 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/4e99f62e-c389-4140-8d07-4f9aabe9bdd6_0_ID192MP3.mp3" type="audio/mpeg" length="44610669"></enclosure>
+      <itunes:title>Den bergenske ironi</itunes:title>
+      <itunes:summary>Bergensarar har sjølvironi. Men det kan ikkje vere så lett å forstå for verda rundt.</itunes:summary>
+      <itunes:duration>1858</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Politimeisteren med tversoversløyfa</title>
+      <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel/l_8811ad74-7c72-49a9-91ad-747c7249a9e5</link>
+      <description>Den joviale austlendingen Rolf B. Wegner blei populær i Bergen. Sjølv etter å ha blitt etterforska og sikta, blei han hylla med folkefest.</description>
+      <guid isPermaLink="false">l_8811ad74-7c72-49a9-91ad-747c7249a9e5</guid>
+      <pubDate>Wed, 26 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/617b8aad-713e-4747-95f0-18e67c6b32df_0_ID192MP3.mp3" type="audio/mpeg" length="23603373"></enclosure>
+      <itunes:title>Politimeisteren med tversoversløyfa</itunes:title>
+      <itunes:summary>Den joviale austlendingen Rolf B. Wegner blei populær i Bergen. Sjølv etter å ha blitt etterforska og sikta, blei han hylla med folkefest.</itunes:summary>
+      <itunes:duration>983</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Då Eurovision kom til Bergen</title>
+      <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel/l_6faf05af-cf18-4b38-af05-afcf187b3895</link>
+      <description>Med Europas auge retta mot seg, viste bergensarane at dei kan lage folkefest. Belgia tok Grand Prix-sigeren, men det var Bergen som vann.</description>
+      <guid isPermaLink="false">l_6faf05af-cf18-4b38-af05-afcf187b3895</guid>
+      <pubDate>Wed, 19 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/cef8bf8a-4b16-4797-97d5-6670810580bf_0_ID192MP3.mp3" type="audio/mpeg" length="36545517"></enclosure>
+      <itunes:title>Då Eurovision kom til Bergen</itunes:title>
+      <itunes:summary>Med Europas auge retta mot seg, viste bergensarane at dei kan lage folkefest. Belgia tok Grand Prix-sigeren, men det var Bergen som vann.</itunes:summary>
+      <itunes:duration>1522</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Det heilage bergenske byrom</title>
+      <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel/l_97b58efe-b10d-4af3-b58e-feb10d9af345</link>
+      <description>Bergen er jo verdas vakraste by. Då har &#34;barbiebein&#34; ingenting på Torgallmenningen å gjere.&#xA;&#xA;Med lydklipp frå dokumentaren &#34;Blant søyler og patrioter&#34; av Lene Midling-Jenssen</description>
+      <guid isPermaLink="false">l_97b58efe-b10d-4af3-b58e-feb10d9af345</guid>
+      <pubDate>Wed, 12 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/877c4594-f6ff-4ad0-bda1-2a255e057447_0_ID192MP3.mp3" type="audio/mpeg" length="47930157"></enclosure>
+      <itunes:title>Det heilage bergenske byrom</itunes:title>
+      <itunes:summary>Bergen er jo verdas vakraste by. Då har &#34;barbiebein&#34; ingenting på Torgallmenningen å gjere.&#xA;&#xA;Med lydklipp frå dokumentaren &#34;Blant søyler og patrioter&#34; av Lene Midling-Jenssen</itunes:summary>
+      <itunes:duration>1997</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Slaget om Bybanen og Bryggen</title>
+      <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel/l_795e570d-692c-49cc-9e57-0d692ca9ccd4</link>
+      <description>I nesten ti år har debatten om bybane gjennom sentrum ridd bergenspolitikken som ei mare. Kvifor er det så vanskeleg? </description>
+      <guid isPermaLink="false">l_795e570d-692c-49cc-9e57-0d692ca9ccd4</guid>
+      <pubDate>Wed, 05 Jan 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/a1bc70c0-49bc-4b7a-ac61-2125bf949f69_0_ID192MP3.mp3" type="audio/mpeg" length="55518381"></enclosure>
+      <itunes:title>Slaget om Bybanen og Bryggen</itunes:title>
+      <itunes:summary>I nesten ti år har debatten om bybane gjennom sentrum ridd bergenspolitikken som ei mare. Kvifor er det så vanskeleg? </itunes:summary>
+      <itunes:duration>2313</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Då Bella fjerna Bergenssangen</title>
+      <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel/l_f649584c-e414-4c28-8958-4ce4145c2801</link>
+      <description>Ein islandsk festspilldirektør skaffa seg mange uvenner då ho kutta byens nasjonalsong frå opninga. Men bergensarane nekta å bøye seg.</description>
+      <guid isPermaLink="false">l_f649584c-e414-4c28-8958-4ce4145c2801</guid>
+      <pubDate>Wed, 29 Dec 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/cb2c834b-0994-494a-b3e2-74858b98d237_0_ID192MP3.mp3" type="audio/mpeg" length="28086381"></enclosure>
+      <itunes:title>Då Bella fjerna Bergenssangen</itunes:title>
+      <itunes:summary>Ein islandsk festspilldirektør skaffa seg mange uvenner då ho kutta byens nasjonalsong frå opninga. Men bergensarane nekta å bøye seg.</itunes:summary>
+      <itunes:duration>1170</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Frelsaren som skulle redde Brann</title>
+      <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel/l_10867e07-1a41-4dc0-867e-071a41ddc028</link>
+      <description>Sportsklubben Brann er i krise, men det er ikkje første gong. Ein svensk trenar vart tatt i mot som ein Messias då han skulle berge klubben.</description>
+      <guid isPermaLink="false">l_10867e07-1a41-4dc0-867e-071a41ddc028</guid>
+      <pubDate>Wed, 22 Dec 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/63e8b69b-33a9-4816-99b1-3b1dc2ca5503_0_ID192MP3.mp3" type="audio/mpeg" length="51268077"></enclosure>
+      <itunes:title>Frelsaren som skulle redde Brann</itunes:title>
+      <itunes:summary>Sportsklubben Brann er i krise, men det er ikkje første gong. Ein svensk trenar vart tatt i mot som ein Messias då han skulle berge klubben.</itunes:summary>
+      <itunes:duration>2136</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sykkelfesten og bakrusen</title>
+      <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel/l_79cade5f-4e6c-4276-8ade-5f4e6c927694</link>
+      <description>Bergensarar elskar ein god fest, og sykkel-VM 2017 blei ein folkefest av dei sjeldne. Men oppryddinga vart alt anna enn festleg.</description>
+      <guid isPermaLink="false">l_79cade5f-4e6c-4276-8ade-5f4e6c927694</guid>
+      <pubDate>Wed, 15 Dec 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/c4c72986-fa5a-4daa-88bb-f6d4a6e1f7d5_0_ID192MP3.mp3" type="audio/mpeg" length="32002605"></enclosure>
+      <itunes:title>Sykkelfesten og bakrusen</itunes:title>
+      <itunes:summary>Bergensarar elskar ein god fest, og sykkel-VM 2017 blei ein folkefest av dei sjeldne. Men oppryddinga vart alt anna enn festleg.</itunes:summary>
+      <itunes:duration>1333</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Du køddar ikkje med Jernbanestasjonen</title>
+      <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel/l_6cfb6aee-9ffd-4fa5-bb6a-ee9ffdbfa579</link>
+      <description>Eit nytt skilt gjer bergensarane forbanna. Ingen seier jo «Bergen stasjon»! I Oslo sit dei ansvarlege og lurer på kva dei har stelt i stand. </description>
+      <guid isPermaLink="false">l_6cfb6aee-9ffd-4fa5-bb6a-ee9ffdbfa579</guid>
+      <pubDate>Wed, 08 Dec 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/441a5e9b-90e6-4e22-8cd7-c8b531b370f9_0_ID192MP3.mp3" type="audio/mpeg" length="40793517"></enclosure>
+      <itunes:title>Du køddar ikkje med Jernbanestasjonen</itunes:title>
+      <itunes:summary>Eit nytt skilt gjer bergensarane forbanna. Ingen seier jo «Bergen stasjon»! I Oslo sit dei ansvarlege og lurer på kva dei har stelt i stand. </itunes:summary>
+      <itunes:duration>1699</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Smakebit: Nokke for seg sjøl</title>
+      <link>https://radio.nrk.no/podkast/nokke_for_seg_sjoel/l_2ce8bb7d-5ef7-439a-a8bb-7d5ef7139aa7</link>
+      <description>Bergensarane er kjent for å vere særeigne – og dei elskar å dyrke bildet av seg som annleis. Men kvifor er dei slik? Det skal programleiar Elise Farestveit og historieprofessor Morten Hammerborg på Høgskulen på Vestlandet prøve å svare på. &#xA;Premiere: 8. desember</description>
+      <guid isPermaLink="false">l_2ce8bb7d-5ef7-439a-a8bb-7d5ef7139aa7</guid>
+      <pubDate>Wed, 01 Dec 2021 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nokke_for_seg_sjoel/2682fb49-665f-44f0-a794-e3673ec9bb20_0_ID192MP3.mp3" type="audio/mpeg" length="3177837"></enclosure>
+      <itunes:title>Smakebit: Nokke for seg sjøl</itunes:title>
+      <itunes:summary>Bergensarane er kjent for å vere særeigne – og dei elskar å dyrke bildet av seg som annleis. Men kvifor er dei slik? Det skal programleiar Elise Farestveit og historieprofessor Morten Hammerborg på Høgskulen på Vestlandet prøve å svare på. &#xA;Premiere: 8. desember</itunes:summary>
+      <itunes:duration>132</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fherG5xcdlhgzxbwUFIMOQh_ra0wfu9b1YILyqBreHmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

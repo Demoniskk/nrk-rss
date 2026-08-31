@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smartere på 10 minutter</title>
+    <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter</link>
+    <description>Hvorfor sier vi «hallo»? Er 5G helseskadelig? Finnes det noe som lever evig? Selda Ekiz gir deg vitenskapelige fun facts – så du kan briljere blant vennene dine!</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 16 Apr 2021 03:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/smartere_paa_10_minutter.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Hvorfor sier vi «hallo»? Er 5G helseskadelig? Finnes det noe som lever evig? Selda Ekiz gir deg vitenskapelige fun facts – så du kan briljere blant vennene dine!</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w</url>
+      <title>Smartere på 10 minutter</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter</link>
+    </image>
+    <item>
+      <title>Kan planter tenke?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_c3b8c0be-b706-49ad-b8c0-beb70679ad7d</link>
+      <description>Mye tyder på at planter faktisk kan lære. Men hvordan kan noe uten en hjerne ta valg som fram til nå har vært forbeholdt oss med hjerneceller?</description>
+      <guid isPermaLink="false">l_c3b8c0be-b706-49ad-b8c0-beb70679ad7d</guid>
+      <pubDate>Fri, 16 Apr 2021 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/40e2d7ac-d5fa-49a1-9380-e72759c64e64_0_ID192MP3.mp3" type="audio/mpeg" length="9847691"></enclosure>
+      <itunes:title>Kan planter tenke?</itunes:title>
+      <itunes:summary>Mye tyder på at planter faktisk kan lære. Men hvordan kan noe uten en hjerne ta valg som fram til nå har vært forbeholdt oss med hjerneceller?</itunes:summary>
+      <itunes:duration>410</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2021">202104</podcast:season>
+    </item>
+    <item>
+      <title> Hvorfor er nesa en så fascinerende og viktig kroppsdel? </title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_954e71d1-a19e-4064-8e71-d1a19ec06409</link>
+      <description>En stor del av identiteten din er bestemt av nesa. I tillegg jobber den knallhardt for å gi resten av kroppen en så enkel jobb som mulig. Hvordan da? </description>
+      <guid isPermaLink="false">l_954e71d1-a19e-4064-8e71-d1a19ec06409</guid>
+      <pubDate>Fri, 09 Apr 2021 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/d3be4493-89f7-4cbd-907e-8455a062c222_0_ID192MP3.mp3" type="audio/mpeg" length="12593519"></enclosure>
+      <itunes:title> Hvorfor er nesa en så fascinerende og viktig kroppsdel? </itunes:title>
+      <itunes:summary>En stor del av identiteten din er bestemt av nesa. I tillegg jobber den knallhardt for å gi resten av kroppen en så enkel jobb som mulig. Hvordan da? </itunes:summary>
+      <itunes:duration>524</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2021">202104</podcast:season>
+    </item>
+    <item>
+      <title>Hvorfor er tenårene så forferdelige? </title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_a0ff9f29-8919-4703-bf9f-298919c703dc</link>
+      <description>Hva er det som skjer i hjernen og kroppen som gjør at man går gjennom en periode i livet hvor alt er så utrolig trått?</description>
+      <guid isPermaLink="false">l_a0ff9f29-8919-4703-bf9f-298919c703dc</guid>
+      <pubDate>Fri, 02 Apr 2021 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/dd50d091-1e3c-431e-8e0f-802a24e5cc02_0_ID192MP3.mp3" type="audio/mpeg" length="11869468"></enclosure>
+      <itunes:title>Hvorfor er tenårene så forferdelige? </itunes:title>
+      <itunes:summary>Hva er det som skjer i hjernen og kroppen som gjør at man går gjennom en periode i livet hvor alt er så utrolig trått?</itunes:summary>
+      <itunes:duration>494</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2021">202104</podcast:season>
+    </item>
+    <item>
+      <title>Ligger løsningen på fremtidens utfordringer i navlene våre? </title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_32a3a911-b000-47d7-a3a9-11b000d7d76d</link>
+      <description>Det bor nesten et helt univers av bakterier i hulrommet midt på magen din. Kan de være til hjelp for menneskeheten? </description>
+      <guid isPermaLink="false">l_32a3a911-b000-47d7-a3a9-11b000d7d76d</guid>
+      <pubDate>Fri, 26 Mar 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/e107f9c4-209d-4b38-8c61-ecbbaa4eab1c_0_ID192MP3.mp3" type="audio/mpeg" length="10345394"></enclosure>
+      <itunes:title>Ligger løsningen på fremtidens utfordringer i navlene våre? </itunes:title>
+      <itunes:summary>Det bor nesten et helt univers av bakterier i hulrommet midt på magen din. Kan de være til hjelp for menneskeheten? </itunes:summary>
+      <itunes:duration>430</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2021">202103</podcast:season>
+    </item>
+    <item>
+      <title>Gjør gaming oss mer aggressive? </title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_1432ec5b-9a39-441f-b2ec-5b9a39641f71</link>
+      <description>Gaming er mer populært enn noensinne, men er det sånn at man blir mer aggressiv av en viss type spill, og tar det ut i virkeligheten?</description>
+      <guid isPermaLink="false">l_1432ec5b-9a39-441f-b2ec-5b9a39641f71</guid>
+      <pubDate>Fri, 19 Mar 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/4c478942-805a-4f75-9157-4e444a515d87_0_ID192MP3.mp3" type="audio/mpeg" length="11316504"></enclosure>
+      <itunes:title>Gjør gaming oss mer aggressive? </itunes:title>
+      <itunes:summary>Gaming er mer populært enn noensinne, men er det sånn at man blir mer aggressiv av en viss type spill, og tar det ut i virkeligheten?</itunes:summary>
+      <itunes:duration>471</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2021">202103</podcast:season>
+    </item>
+    <item>
+      <title>Hvorfor bruker vi ordet “hallo”? </title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_c3955412-990e-4995-9554-12990ec995e1</link>
+      <description>“Hallo” er et av de mest brukte ordene når vi tiltaler hverandre, men hvorfor sier vi det? Hvor kommer det fra? </description>
+      <guid isPermaLink="false">l_c3955412-990e-4995-9554-12990ec995e1</guid>
+      <pubDate>Fri, 12 Mar 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/2183166e-7321-4b72-a300-17eb5a985890_0_ID192MP3.mp3" type="audio/mpeg" length="12537621"></enclosure>
+      <itunes:title>Hvorfor bruker vi ordet “hallo”? </itunes:title>
+      <itunes:summary>“Hallo” er et av de mest brukte ordene når vi tiltaler hverandre, men hvorfor sier vi det? Hvor kommer det fra? </itunes:summary>
+      <itunes:duration>522</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2021">202103</podcast:season>
+    </item>
+    <item>
+      <title>Hvilke oppfinnelser sto Albert Einstein bak?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_b095b042-64ae-41a5-95b0-4264ae11a562</link>
+      <description>Albert Einstein er en av verdenshistorien mest kjente fysikere, som det er sagt og skrevet mye om. Likevel står han bak enda flere oppfinnelser enn vi kanskje er klar over. Her er noen av dem!</description>
+      <guid isPermaLink="false">l_b095b042-64ae-41a5-95b0-4264ae11a562</guid>
+      <pubDate>Fri, 05 Mar 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/d57cc308-e04f-4073-9efb-421e0d79ed74_0_ID192MP3.mp3" type="audio/mpeg" length="11247977"></enclosure>
+      <itunes:title>Hvilke oppfinnelser sto Albert Einstein bak?</itunes:title>
+      <itunes:summary>Albert Einstein er en av verdenshistorien mest kjente fysikere, som det er sagt og skrevet mye om. Likevel står han bak enda flere oppfinnelser enn vi kanskje er klar over. Her er noen av dem!</itunes:summary>
+      <itunes:duration>468</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2021">202103</podcast:season>
+    </item>
+    <item>
+      <title>Hvorfor blir man mer sliten av videomøter enn fysiske møter? </title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_e13570d0-4f67-49f2-b570-d04f67f9f27c</link>
+      <description>Det siste året har vært preget av at fysiske møtepunkter har blitt erstattet med digitale møter. Forskning tyder på at vi blir mer slitne av denne møteformen, men hvorfor det?&#xA;Programleder: Selda Ekiz&#xA;Manus: Selda Ekiz, Andreas Hedemann &amp; Markus Støle&#xA;Regi: Andreas Hedemann&#xA;Klipp: Kent Kampesveen&#xA;Produsent: Andreas Hedemann&#xA;Produksjonsselskap: ANTI&#xA;Ansvarlig Produsent: Elisabeth Stabell</description>
+      <guid isPermaLink="false">l_e13570d0-4f67-49f2-b570-d04f67f9f27c</guid>
+      <pubDate>Fri, 26 Feb 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/8b0d4cad-ff02-48a6-a2ee-9657fe451485_0_ID192MP3.mp3" type="audio/mpeg" length="7859374"></enclosure>
+      <itunes:title>Hvorfor blir man mer sliten av videomøter enn fysiske møter? </itunes:title>
+      <itunes:summary>Det siste året har vært preget av at fysiske møtepunkter har blitt erstattet med digitale møter. Forskning tyder på at vi blir mer slitne av denne møteformen, men hvorfor det?&#xA;Programleder: Selda Ekiz&#xA;Manus: Selda Ekiz, Andreas Hedemann &amp; Markus Støle&#xA;Regi: Andreas Hedemann&#xA;Klipp: Kent Kampesveen&#xA;Produsent: Andreas Hedemann&#xA;Produksjonsselskap: ANTI&#xA;Ansvarlig Produsent: Elisabeth Stabell</itunes:summary>
+      <itunes:duration>327</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2021">202102</podcast:season>
+    </item>
+    <item>
+      <title>Gir LP-plater bedre lyd?  </title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_7762d29b-623f-427e-a2d2-9b623f927eb6</link>
+      <description>Vinylplater har fått en ny vår. Flere og flere nyter musikk ved å lytte til LP-plater. Men hvordan fungerer de egentlig, og gir de bedre lyd?</description>
+      <guid isPermaLink="false">l_7762d29b-623f-427e-a2d2-9b623f927eb6</guid>
+      <pubDate>Fri, 19 Feb 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/18de8c4f-1697-46ca-bd53-fa472b77be0f_0_ID192MP3.mp3" type="audio/mpeg" length="13909643"></enclosure>
+      <itunes:title>Gir LP-plater bedre lyd?  </itunes:title>
+      <itunes:summary>Vinylplater har fått en ny vår. Flere og flere nyter musikk ved å lytte til LP-plater. Men hvordan fungerer de egentlig, og gir de bedre lyd?</itunes:summary>
+      <itunes:duration>579</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2021">202102</podcast:season>
+    </item>
+    <item>
+      <title>Hva og hvor mye vet vi om øyet? </title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_2dd2bd91-9176-40c0-92bd-919176c0c0da</link>
+      <description>Øyet er et av de mest komplekse organene vi har, og nesten halve hjernen er involvert når øyet ser. Men hvordan fungerer egentlig øyet?</description>
+      <guid isPermaLink="false">l_2dd2bd91-9176-40c0-92bd-919176c0c0da</guid>
+      <pubDate>Fri, 12 Feb 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/1f78fe14-e8db-480b-b967-4e5efee62230_0_ID192MP3.mp3" type="audio/mpeg" length="13414289"></enclosure>
+      <itunes:title>Hva og hvor mye vet vi om øyet? </itunes:title>
+      <itunes:summary>Øyet er et av de mest komplekse organene vi har, og nesten halve hjernen er involvert når øyet ser. Men hvordan fungerer egentlig øyet?</itunes:summary>
+      <itunes:duration>558</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2021">202102</podcast:season>
+    </item>
+    <item>
+      <title>Hvor stort og gammelt er universet? </title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_81166372-fc47-48b3-9663-72fc4798b39d</link>
+      <description>Universet er ett av de vitenskapelige temaene menneskene har klødd seg i hodene over siden tidenes morgen. Men kan vi vite hvor stort og gammelt det egentlig er? </description>
+      <guid isPermaLink="false">l_81166372-fc47-48b3-9663-72fc4798b39d</guid>
+      <pubDate>Fri, 05 Feb 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/282b7d47-1679-4d89-9707-8a542534d75e_0_ID192MP3.mp3" type="audio/mpeg" length="10134549"></enclosure>
+      <itunes:title>Hvor stort og gammelt er universet? </itunes:title>
+      <itunes:summary>Universet er ett av de vitenskapelige temaene menneskene har klødd seg i hodene over siden tidenes morgen. Men kan vi vite hvor stort og gammelt det egentlig er? </itunes:summary>
+      <itunes:duration>422</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2021">202102</podcast:season>
+    </item>
+    <item>
+      <title>Hvorfor får vestlige menn stadig dårligere sædkvalitet? </title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_f73acf08-0e36-405a-bacf-080e36c05aa5</link>
+      <description>I løpet av bare 40 år har vestlige menns sædkvalitet falt med 40-50%. Hvorfor det? </description>
+      <guid isPermaLink="false">l_f73acf08-0e36-405a-bacf-080e36c05aa5</guid>
+      <pubDate>Fri, 29 Jan 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/9d885462-00b5-41b8-911f-b9b9be69bd50_0_ID192MP3.mp3" type="audio/mpeg" length="9231400"></enclosure>
+      <itunes:title>Hvorfor får vestlige menn stadig dårligere sædkvalitet? </itunes:title>
+      <itunes:summary>I løpet av bare 40 år har vestlige menns sædkvalitet falt med 40-50%. Hvorfor det? </itunes:summary>
+      <itunes:duration>384</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2021">202101</podcast:season>
+    </item>
+    <item>
+      <title>Hvordan fungerer egentlig en strekkode?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_12fb2093-b31e-49c7-bb20-93b31ee9c7c4</link>
+      <description>Vi ser strekkoder nesten hver eneste dag, men hvem fant den opp og hvordan fungerer den egentlig? </description>
+      <guid isPermaLink="false">l_12fb2093-b31e-49c7-bb20-93b31ee9c7c4</guid>
+      <pubDate>Fri, 22 Jan 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/d562fe68-6472-4f82-87a8-8081b52431ab_0_ID192MP3.mp3" type="audio/mpeg" length="11706456"></enclosure>
+      <itunes:title>Hvordan fungerer egentlig en strekkode?</itunes:title>
+      <itunes:summary>Vi ser strekkoder nesten hver eneste dag, men hvem fant den opp og hvordan fungerer den egentlig? </itunes:summary>
+      <itunes:duration>487</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2021">202101</podcast:season>
+    </item>
+    <item>
+      <title>Hvor mange sanser har egentlig mennesket?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_208aa685-c1fb-41e2-8aa6-85c1fb21e234</link>
+      <description>Det er en etablert sannhet at mennesket har fem sanser, men stemmer dette, eller har vi flere?</description>
+      <guid isPermaLink="false">l_208aa685-c1fb-41e2-8aa6-85c1fb21e234</guid>
+      <pubDate>Fri, 15 Jan 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/85f61c18-0ed7-4f79-bd3a-5807f3ea6ef0_0_ID192MP3.mp3" type="audio/mpeg" length="7695772"></enclosure>
+      <itunes:title>Hvor mange sanser har egentlig mennesket?</itunes:title>
+      <itunes:summary>Det er en etablert sannhet at mennesket har fem sanser, men stemmer dette, eller har vi flere?</itunes:summary>
+      <itunes:duration>320</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2021">202101</podcast:season>
+    </item>
+    <item>
+      <title>Finnes det fenomener vitenskapen ikke kan forklare?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_37328078-3a73-4132-b280-783a73913278</link>
+      <description>Selv om vitenskapen har tatt store steg de siste årene, er det mange ting vi ikke vet hvorfor skjer. Her er fire av dem! </description>
+      <guid isPermaLink="false">l_37328078-3a73-4132-b280-783a73913278</guid>
+      <pubDate>Fri, 08 Jan 2021 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/dc8077df-8772-4abc-94c9-82a3a2dbb1ad_0_ID192MP3.mp3" type="audio/mpeg" length="10979573"></enclosure>
+      <itunes:title>Finnes det fenomener vitenskapen ikke kan forklare?</itunes:title>
+      <itunes:summary>Selv om vitenskapen har tatt store steg de siste årene, er det mange ting vi ikke vet hvorfor skjer. Her er fire av dem! </itunes:summary>
+      <itunes:duration>457</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2021">202101</podcast:season>
+    </item>
+    <item>
+      <title>Hva er historien til sankt bernhardshunden? </title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_2482b99c-aeac-4297-82b9-9caeac029795</link>
+      <description>Vi har alle sett bilder av en livreddende sankt Bernhardshund med whiskytønne rundt halsen. Hva er grunnen til det? </description>
+      <guid isPermaLink="false">l_2482b99c-aeac-4297-82b9-9caeac029795</guid>
+      <pubDate>Fri, 18 Dec 2020 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/a489f438-3158-4754-aeaa-ae315c429f26_0_ID192MP3.mp3" type="audio/mpeg" length="8700900"></enclosure>
+      <itunes:title>Hva er historien til sankt bernhardshunden? </itunes:title>
+      <itunes:summary>Vi har alle sett bilder av en livreddende sankt Bernhardshund med whiskytønne rundt halsen. Hva er grunnen til det? </itunes:summary>
+      <itunes:duration>362</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2020">202012</podcast:season>
+    </item>
+    <item>
+      <title>Hvilke vitenskapelige myter er faktisk helt feil?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_9a7579ef-2d23-48e8-b579-ef2d2328e8f7</link>
+      <description>Det finnes mange oppleste og vedtatte sannheter der ute, som ikke stemmer i det hele tatt. Her er fem av dem! &#xA;</description>
+      <guid isPermaLink="false">l_9a7579ef-2d23-48e8-b579-ef2d2328e8f7</guid>
+      <pubDate>Fri, 11 Dec 2020 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/37a7255e-f5b3-4589-b31f-411b9d93cf2f_0_ID192MP3.mp3" type="audio/mpeg" length="11817622"></enclosure>
+      <itunes:title>Hvilke vitenskapelige myter er faktisk helt feil?</itunes:title>
+      <itunes:summary>Det finnes mange oppleste og vedtatte sannheter der ute, som ikke stemmer i det hele tatt. Her er fem av dem! &#xA;</itunes:summary>
+      <itunes:duration>492</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2020">202012</podcast:season>
+    </item>
+    <item>
+      <title>Hva er egentlig 5G, og er det helseskadelig? </title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_c6dc574d-6579-47ca-9c57-4d6579b7caf4</link>
+      <description>Debatten rundt mobilnettverk har rast i årevis, men hva betyr egentlig 4G og 5G, og finnes det vitenskapelige beviser for at det kan være helseskadelig?</description>
+      <guid isPermaLink="false">l_c6dc574d-6579-47ca-9c57-4d6579b7caf4</guid>
+      <pubDate>Fri, 04 Dec 2020 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/64a6a463-9c87-42a5-96cc-1a6abfb10625_0_ID192MP3.mp3" type="audio/mpeg" length="15337566"></enclosure>
+      <itunes:title>Hva er egentlig 5G, og er det helseskadelig? </itunes:title>
+      <itunes:summary>Debatten rundt mobilnettverk har rast i årevis, men hva betyr egentlig 4G og 5G, og finnes det vitenskapelige beviser for at det kan være helseskadelig?</itunes:summary>
+      <itunes:duration>638</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2020">202012</podcast:season>
+    </item>
+    <item>
+      <title>Finnes det områder i verden ingen eier?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_6672b50d-3390-4336-b2b5-0d339093362c</link>
+      <description>Har du i 2020 fortsatt mulighet til å erklære noen områder i verden for dine egne?</description>
+      <guid isPermaLink="false">l_6672b50d-3390-4336-b2b5-0d339093362c</guid>
+      <pubDate>Fri, 27 Nov 2020 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/f295b229-c531-4a7b-a71c-89d6fd279a23_0_ID192MP3.mp3" type="audio/mpeg" length="8643284"></enclosure>
+      <itunes:title>Finnes det områder i verden ingen eier?</itunes:title>
+      <itunes:summary>Har du i 2020 fortsatt mulighet til å erklære noen områder i verden for dine egne?</itunes:summary>
+      <itunes:duration>360</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2020">202011</podcast:season>
+    </item>
+    <item>
+      <title>Er kråker de smarteste fuglene vi har?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_94beac11-cd1c-4719-beac-11cd1c271926</link>
+      <description>Det sies at kråker er blant de aller smarteste fuglene. Hva gjør dem fortjent til den beskrivelsen? </description>
+      <guid isPermaLink="false">l_94beac11-cd1c-4719-beac-11cd1c271926</guid>
+      <pubDate>Fri, 20 Nov 2020 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/110763f0-e1ad-4cdf-9ccc-3ab9eb272247_0_ID192MP3.mp3" type="audio/mpeg" length="12872275"></enclosure>
+      <itunes:title>Er kråker de smarteste fuglene vi har?</itunes:title>
+      <itunes:summary>Det sies at kråker er blant de aller smarteste fuglene. Hva gjør dem fortjent til den beskrivelsen? </itunes:summary>
+      <itunes:duration>536</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2020">202011</podcast:season>
+    </item>
+    <item>
+      <title>Var Kristian Birkeland Norges viktigste forsker? </title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_02c929db-36e3-41d2-8929-db36e381d24f</link>
+      <description>Bill Gates mener Kristian Birkeland reddet 2 milliarder menneskeliv med sin feilslåtte oppfinnelse. Hvem var han, og hva var oppfinnelsen? </description>
+      <guid isPermaLink="false">l_02c929db-36e3-41d2-8929-db36e381d24f</guid>
+      <pubDate>Fri, 13 Nov 2020 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/279f0378-26a1-4e92-ba9a-2cb2d45af85c_0_ID192MP3.mp3" type="audio/mpeg" length="10499148"></enclosure>
+      <itunes:title>Var Kristian Birkeland Norges viktigste forsker? </itunes:title>
+      <itunes:summary>Bill Gates mener Kristian Birkeland reddet 2 milliarder menneskeliv med sin feilslåtte oppfinnelse. Hvem var han, og hva var oppfinnelsen? </itunes:summary>
+      <itunes:duration>437</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2020">202011</podcast:season>
+    </item>
+    <item>
+      <title>Hva er det med luftballonger?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_f7ee1231-0f60-40f8-ae12-310f6040f863</link>
+      <description>Luftballonger har historisk vært upraktiske og vanskelige å styre. Så hvorfor tør man å fly dem, og hvorfor ble de så viktige? &#xA;</description>
+      <guid isPermaLink="false">l_f7ee1231-0f60-40f8-ae12-310f6040f863</guid>
+      <pubDate>Fri, 06 Nov 2020 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/14ff79cc-dd34-4074-98ce-7c8f2fc29f6f_0_ID192MP3.mp3" type="audio/mpeg" length="11011777"></enclosure>
+      <itunes:title>Hva er det med luftballonger?</itunes:title>
+      <itunes:summary>Luftballonger har historisk vært upraktiske og vanskelige å styre. Så hvorfor tør man å fly dem, og hvorfor ble de så viktige? &#xA;</itunes:summary>
+      <itunes:duration>458</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2020">202011</podcast:season>
+    </item>
+    <item>
+      <title>Hva vet vi om den myteomspunnede kjempeblekkspruten?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_6d7b7547-b936-41ae-bb75-47b93641ae1e</link>
+      <description>Langt, langt nede i havdypet svømmer en av de farligste rovdyrene i havet: kjempeblekkspruten. Hva vet vi egentlig om den?&#xA;</description>
+      <guid isPermaLink="false">l_6d7b7547-b936-41ae-bb75-47b93641ae1e</guid>
+      <pubDate>Fri, 30 Oct 2020 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/dbaf97d9-ed98-46e4-ad53-55a2ec5a238d_0_ID192MP3.mp3" type="audio/mpeg" length="10220353"></enclosure>
+      <itunes:title>Hva vet vi om den myteomspunnede kjempeblekkspruten?</itunes:title>
+      <itunes:summary>Langt, langt nede i havdypet svømmer en av de farligste rovdyrene i havet: kjempeblekkspruten. Hva vet vi egentlig om den?&#xA;</itunes:summary>
+      <itunes:duration>425</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2020">202010</podcast:season>
+    </item>
+    <item>
+      <title>Hvor mye veier en sky?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_a86b3d2c-5238-4ea9-ab3d-2c52389ea9ac</link>
+      <description>Kanskje ikke noe du har tenkt over, men: ville du ha overlevd hvis du fikk vekten av en sky i hodet?</description>
+      <guid isPermaLink="false">l_a86b3d2c-5238-4ea9-ab3d-2c52389ea9ac</guid>
+      <pubDate>Fri, 23 Oct 2020 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/ac44f089-9f8a-4ec4-a611-20def8ca6f4b_0_ID192MP3.mp3" type="audio/mpeg" length="7222876"></enclosure>
+      <itunes:title>Hvor mye veier en sky?</itunes:title>
+      <itunes:summary>Kanskje ikke noe du har tenkt over, men: ville du ha overlevd hvis du fikk vekten av en sky i hodet?</itunes:summary>
+      <itunes:duration>300</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2020">202010</podcast:season>
+    </item>
+    <item>
+      <title>Hvorfor er soppen så viktig for oss?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_ca160320-1ece-4c49-9603-201ece3c494c</link>
+      <description>Sopp har reddet menneskeheten gang på gang. Noen forskere mener også den vil være vår redning i fremtiden. Hvorfor det? </description>
+      <guid isPermaLink="false">l_ca160320-1ece-4c49-9603-201ece3c494c</guid>
+      <pubDate>Fri, 16 Oct 2020 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/4625fb71-8b5a-4c35-8b99-fc1088cce290_0_ID192MP3.mp3" type="audio/mpeg" length="12726518"></enclosure>
+      <itunes:title>Hvorfor er soppen så viktig for oss?</itunes:title>
+      <itunes:summary>Sopp har reddet menneskeheten gang på gang. Noen forskere mener også den vil være vår redning i fremtiden. Hvorfor det? </itunes:summary>
+      <itunes:duration>530</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2020">202010</podcast:season>
+    </item>
+    <item>
+      <title>Hvorfor vasker man teppet sitt ute i Finland?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_9af1ac98-9340-4d95-b1ac-9893405d956b</link>
+      <description>I Finland vasker de regelmessig teppene sine i naturen. Er det fordi finske tepper er ekstra skitne?</description>
+      <guid isPermaLink="false">l_9af1ac98-9340-4d95-b1ac-9893405d956b</guid>
+      <pubDate>Fri, 09 Oct 2020 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/40376438-c061-4f4a-bdc8-b2eb156ebcc2_0_ID192MP3.mp3" type="audio/mpeg" length="7723388"></enclosure>
+      <itunes:title>Hvorfor vasker man teppet sitt ute i Finland?</itunes:title>
+      <itunes:summary>I Finland vasker de regelmessig teppene sine i naturen. Er det fordi finske tepper er ekstra skitne?</itunes:summary>
+      <itunes:duration>321</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JTWdfL5HvZ3qaHXOLH1D7A9KM-gFq3pyg9dhvqWxOP0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2020">202010</podcast:season>
+    </item>
+    <item>
+      <title>Kan antistoffer redde oss fra covid-19?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_f9e23eda-9410-49f5-a23e-da941099f5ff</link>
+      <description>Kanskje! Men hva er egentlig dette våpenet og hvordan fungerer det?</description>
+      <guid isPermaLink="false">l_f9e23eda-9410-49f5-a23e-da941099f5ff</guid>
+      <pubDate>Fri, 11 Sep 2020 05:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/6f1e71a4-0d49-40fb-b214-027f6a313f9c_0_ID192MP3.mp3" type="audio/mpeg" length="9321235"></enclosure>
+      <itunes:title>Kan antistoffer redde oss fra covid-19?</itunes:title>
+      <itunes:summary>Kanskje! Men hva er egentlig dette våpenet og hvordan fungerer det?</itunes:summary>
+      <itunes:duration>388</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2020">202009</podcast:season>
+    </item>
+    <item>
+      <title>Høna eller egget?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_ea6b76c3-53c6-4e7a-ab76-c353c6de7a01</link>
+      <description>Nå kan du en gang for alle få svaret på dette evige spørsmålet, for det finnes faktisk et svar.</description>
+      <guid isPermaLink="false">l_ea6b76c3-53c6-4e7a-ab76-c353c6de7a01</guid>
+      <pubDate>Fri, 11 Sep 2020 05:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/83b662cc-22a6-4168-8174-0a878e1006fc_0_ID192MP3.mp3" type="audio/mpeg" length="7963032"></enclosure>
+      <itunes:title>Høna eller egget?</itunes:title>
+      <itunes:summary>Nå kan du en gang for alle få svaret på dette evige spørsmålet, for det finnes faktisk et svar.</itunes:summary>
+      <itunes:duration>331</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2020">202009</podcast:season>
+    </item>
+    <item>
+      <title>Hvorfor var straff så grusomt før i tiden?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_a7819552-971d-4367-8195-52971d5367fc</link>
+      <description>Hvordan gikk vi fra å knuse alle beina i kroppen på de som brøt loven, til å forsøke å få folk på rett kjøl med fengsel?</description>
+      <guid isPermaLink="false">l_a7819552-971d-4367-8195-52971d5367fc</guid>
+      <pubDate>Fri, 11 Sep 2020 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/a2724436-e62c-44d7-a668-b268117d3ef8_0_ID192MP3.mp3" type="audio/mpeg" length="13780053"></enclosure>
+      <itunes:title>Hvorfor var straff så grusomt før i tiden?</itunes:title>
+      <itunes:summary>Hvordan gikk vi fra å knuse alle beina i kroppen på de som brøt loven, til å forsøke å få folk på rett kjøl med fengsel?</itunes:summary>
+      <itunes:duration>574</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2020">202009</podcast:season>
+    </item>
+    <item>
+      <title>Finnes det noe som lever evig?</title>
+      <link>https://radio.nrk.no/podkast/smartere_paa_10_minutter/l_733cd3c3-d273-49da-bcd3-c3d273c9da94</link>
+      <description>Det finnes faktisk en skapning som ikke dør, men hva er dette lille rovdyrets hemmelighet?</description>
+      <guid isPermaLink="false">l_733cd3c3-d273-49da-bcd3-c3d273c9da94</guid>
+      <pubDate>Fri, 11 Sep 2020 03:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/smartere_paa_10_minutter/13132564-7752-45d7-8076-2dcc7c74daa9_0_ID192MP3.mp3" type="audio/mpeg" length="8168639"></enclosure>
+      <itunes:title>Finnes det noe som lever evig?</itunes:title>
+      <itunes:summary>Det finnes faktisk en skapning som ikke dør, men hva er dette lille rovdyrets hemmelighet?</itunes:summary>
+      <itunes:duration>340</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tK6iEHgODwx9S6JNSZTR7w-dQwbYcFMS6O9YqyZZHu1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2020">202009</podcast:season>
+    </item>
+  </channel>
+</rss>

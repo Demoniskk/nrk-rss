@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reiseradioens sommerleker</title>
+    <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker</link>
+    <description>Kviss og sommermoro hvor alle kan delta og svare på oppgaver i appen NRK Radio. Rune Nilson er programleder.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 16 Aug 2024 11:48:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/reiseradioens_sommerleker.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Kviss og sommermoro hvor alle kan delta og svare på oppgaver i appen NRK Radio. Rune Nilson er programleder.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q</url>
+      <title>Reiseradioens sommerleker</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker</link>
+    </image>
+    <item>
+      <title>Hvem blir årets podkastlytter?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_c705c15d-dced-48c8-85c1-5ddced48c85f</link>
+      <description>Rune Nilson er klar for å dele ut sjokolade i årets siste episode av Reiseradioens sommerleker og for å kåre årets podkastlytter!</description>
+      <guid isPermaLink="false">l_c705c15d-dced-48c8-85c1-5ddced48c85f</guid>
+      <pubDate>Fri, 16 Aug 2024 13:48:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/25649111-773b-413c-a80f-be727329f06d_0_ID192MP3.mp3" type="audio/mpeg" length="51944301"></enclosure>
+      <itunes:title>Hvem blir årets podkastlytter?</itunes:title>
+      <itunes:summary>Rune Nilson er klar for å dele ut sjokolade i årets siste episode av Reiseradioens sommerleker og for å kåre årets podkastlytter!</itunes:summary>
+      <itunes:duration>2164</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva er soloppgangens land?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_3d2ffd8f-15e6-431c-affd-8f15e6331c4c</link>
+      <description>Sjømannen som har vært overalt, pensjonisten som elsker jenteturer og et blomster-lag har vi med oss i dagens sommerleker!</description>
+      <guid isPermaLink="false">l_3d2ffd8f-15e6-431c-affd-8f15e6331c4c</guid>
+      <pubDate>Thu, 15 Aug 2024 13:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/2951f011-b6e1-4c08-8a99-56f63fe73566_0_ID192MP3.mp3" type="audio/mpeg" length="46616877"></enclosure>
+      <itunes:title>Hva er soloppgangens land?</itunes:title>
+      <itunes:summary>Sjømannen som har vært overalt, pensjonisten som elsker jenteturer og et blomster-lag har vi med oss i dagens sommerleker!</itunes:summary>
+      <itunes:duration>1942</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva betyr merci?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_74fc226d-4cf5-4685-bc22-6d4cf5b68552</link>
+      <description>I dag har vi med ei som vil vinne sekk for sin venn, en som kaller seg for bygdetulling og en som er korpsglad. Let&#39;s goooo!</description>
+      <guid isPermaLink="false">l_74fc226d-4cf5-4685-bc22-6d4cf5b68552</guid>
+      <pubDate>Wed, 14 Aug 2024 13:18:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/ff734d8f-03cf-41e6-b0ce-bf14300a6fa6_0_ID192MP3.mp3" type="audio/mpeg" length="44925165"></enclosure>
+      <itunes:title>Hva betyr merci?</itunes:title>
+      <itunes:summary>I dag har vi med ei som vil vinne sekk for sin venn, en som kaller seg for bygdetulling og en som er korpsglad. Let&#39;s goooo!</itunes:summary>
+      <itunes:duration>1871</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Har hunder svettekjertler?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_df29b27e-5718-4eaf-a9b2-7e57189eafd7</link>
+      <description>Stein Viggo lever opp til navnet, Esben kan temme papegøyer, og Bjørn Erik koser seg i pappaperm. Men hvor gode er de på kviss?</description>
+      <guid isPermaLink="false">l_df29b27e-5718-4eaf-a9b2-7e57189eafd7</guid>
+      <pubDate>Tue, 13 Aug 2024 13:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/f2b29d45-1857-4328-b811-30cf210609f8_0_ID192MP3.mp3" type="audio/mpeg" length="46574829"></enclosure>
+      <itunes:title>Har hunder svettekjertler?</itunes:title>
+      <itunes:summary>Stein Viggo lever opp til navnet, Esben kan temme papegøyer, og Bjørn Erik koser seg i pappaperm. Men hvor gode er de på kviss?</itunes:summary>
+      <itunes:duration>1940</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kan struts fly?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_1026b39e-3662-4af0-a6b3-9e36621af086</link>
+      <description>I dag er det jordmor Inger, kokken Hans Espen og ordfører Alf Erik som skal i sjokolade-ilden!</description>
+      <guid isPermaLink="false">l_1026b39e-3662-4af0-a6b3-9e36621af086</guid>
+      <pubDate>Mon, 12 Aug 2024 14:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/908a5702-973e-4f85-964b-c06560bf5042_0_ID192MP3.mp3" type="audio/mpeg" length="56438253"></enclosure>
+      <itunes:title>Kan struts fly?</itunes:title>
+      <itunes:summary>I dag er det jordmor Inger, kokken Hans Espen og ordfører Alf Erik som skal i sjokolade-ilden!</itunes:summary>
+      <itunes:duration>2351</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvor bor Pelle Politibil?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_3b6c9bb6-14f7-43a7-ac9b-b614f793a759</link>
+      <description>Jarand har fått valp, Unni har begynt med isbading og Andreas kjører en lastebil full av luft?! Dagens quizdeltakere er klare!</description>
+      <guid isPermaLink="false">l_3b6c9bb6-14f7-43a7-ac9b-b614f793a759</guid>
+      <pubDate>Fri, 09 Aug 2024 14:36:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/d65e02d1-e89f-4e6e-8f22-f6629e4fc9a6_0_ID192MP3.mp3" type="audio/mpeg" length="55586925"></enclosure>
+      <itunes:title>Hvor bor Pelle Politibil?</itunes:title>
+      <itunes:summary>Jarand har fått valp, Unni har begynt med isbading og Andreas kjører en lastebil full av luft?! Dagens quizdeltakere er klare!</itunes:summary>
+      <itunes:duration>2316</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Har gresshopper lunger?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_ecde05f6-831f-4999-9e05-f6831fb99981</link>
+      <description>Eggebonden Hans Martin, ligretto-entusiastene Thea og Valentina OG fødeklare Guro quizzes så det synger i dagens sommerleker!</description>
+      <guid isPermaLink="false">l_ecde05f6-831f-4999-9e05-f6831fb99981</guid>
+      <pubDate>Thu, 08 Aug 2024 14:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/ed8f8bc3-90e9-4dca-873c-ce7f8b74bc76_0_ID192MP3.mp3" type="audio/mpeg" length="47283309"></enclosure>
+      <itunes:title>Har gresshopper lunger?</itunes:title>
+      <itunes:summary>Eggebonden Hans Martin, ligretto-entusiastene Thea og Valentina OG fødeklare Guro quizzes så det synger i dagens sommerleker!</itunes:summary>
+      <itunes:duration>1970</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvem bor i toppen av et tre?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_76d82882-4eda-4a75-9828-824edaaa752d</link>
+      <description>Hvor mye kan du om tv-serien &#34;Stranger Things&#34;?  Eller om Norge på 60-tallet? Kan du mer enn dagens quizdeltakere?</description>
+      <guid isPermaLink="false">l_76d82882-4eda-4a75-9828-824edaaa752d</guid>
+      <pubDate>Wed, 07 Aug 2024 13:53:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/a8cdbd1b-927c-494d-97d4-2738ce56f5e9_0_ID192MP3.mp3" type="audio/mpeg" length="43568685"></enclosure>
+      <itunes:title>Hvem bor i toppen av et tre?</itunes:title>
+      <itunes:summary>Hvor mye kan du om tv-serien &#34;Stranger Things&#34;?  Eller om Norge på 60-tallet? Kan du mer enn dagens quizdeltakere?</itunes:summary>
+      <itunes:duration>1815</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvilken fugl er Norges minste?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_79647c7e-e010-4184-a47c-7ee01001841e</link>
+      <description>Hva er det høyeste fjellet i Afrika? Hva jobber Bastian i Kardemomme by som? Og hvem står bak monsterhiten &#34;Jag kommer&#34;?</description>
+      <guid isPermaLink="false">l_79647c7e-e010-4184-a47c-7ee01001841e</guid>
+      <pubDate>Tue, 06 Aug 2024 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/b9023ccc-d072-41da-9706-2ba4fa5efbcc_0_ID192MP3.mp3" type="audio/mpeg" length="42822765"></enclosure>
+      <itunes:title>Hvilken fugl er Norges minste?</itunes:title>
+      <itunes:summary>Hva er det høyeste fjellet i Afrika? Hva jobber Bastian i Kardemomme by som? Og hvem står bak monsterhiten &#34;Jag kommer&#34;?</itunes:summary>
+      <itunes:duration>1784</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvilken farge har flamingoen?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_5e7991e8-cd43-4591-b991-e8cd43f5914a</link>
+      <description>I dag har vi med oss en som digger campinglivet, en som har arrangert festival, og en som har kjørt rundt med store stjerner.</description>
+      <guid isPermaLink="false">l_5e7991e8-cd43-4591-b991-e8cd43f5914a</guid>
+      <pubDate>Mon, 05 Aug 2024 15:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/71f0ffec-90bc-4dc5-8fa4-0b7c6201b975_0_ID192MP3.mp3" type="audio/mpeg" length="60281325"></enclosure>
+      <itunes:title>Hvilken farge har flamingoen?</itunes:title>
+      <itunes:summary>I dag har vi med oss en som digger campinglivet, en som har arrangert festival, og en som har kjørt rundt med store stjerner.</itunes:summary>
+      <itunes:duration>2511</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Er jorda større enn Mars?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_201da67d-4a60-402b-9da6-7d4a60c02bae</link>
+      <description>Hva har du mest bruk for når det er knust? Hva er navnet på det største havet på jorda? Og hvor mange mennesker har gått på månen?</description>
+      <guid isPermaLink="false">l_201da67d-4a60-402b-9da6-7d4a60c02bae</guid>
+      <pubDate>Fri, 02 Aug 2024 14:55:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/6d4d8d75-0e65-4260-89db-f952a30b8564_0_ID192MP3.mp3" type="audio/mpeg" length="48287277"></enclosure>
+      <itunes:title>Er jorda større enn Mars?</itunes:title>
+      <itunes:summary>Hva har du mest bruk for når det er knust? Hva er navnet på det største havet på jorda? Og hvor mange mennesker har gått på månen?</itunes:summary>
+      <itunes:duration>2011</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bor det isbjørner på Sydpolen?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_500a8384-f366-4341-8a83-84f36633419b</link>
+      <description>En fnisete duo, en som ikke har dusja på fire uker og en som deler hemmeligheten bak et langt forhold er dagens quizdeltakere.</description>
+      <guid isPermaLink="false">l_500a8384-f366-4341-8a83-84f36633419b</guid>
+      <pubDate>Thu, 01 Aug 2024 13:17:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/35d26ba2-2f2b-4b69-9a5a-3427af0170bf_0_ID192MP3.mp3" type="audio/mpeg" length="43513389"></enclosure>
+      <itunes:title>Bor det isbjørner på Sydpolen?</itunes:title>
+      <itunes:summary>En fnisete duo, en som ikke har dusja på fire uker og en som deler hemmeligheten bak et langt forhold er dagens quizdeltakere.</itunes:summary>
+      <itunes:duration>1813</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva er Olivia Rodrigo kjent for?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_43a12d36-0995-47fc-a12d-36099517fcde</link>
+      <description>Maj Britt har vært på kaninkafe, Jens Petter har sett magiske fjell og Ingunn har kjøleskapsproblemer. Og alle er klare for quiz.</description>
+      <guid isPermaLink="false">l_43a12d36-0995-47fc-a12d-36099517fcde</guid>
+      <pubDate>Wed, 31 Jul 2024 13:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/1d6b55f7-5535-480c-ae15-ef1970402d98_0_ID192MP3.mp3" type="audio/mpeg" length="43857837"></enclosure>
+      <itunes:title>Hva er Olivia Rodrigo kjent for?</itunes:title>
+      <itunes:summary>Maj Britt har vært på kaninkafe, Jens Petter har sett magiske fjell og Ingunn har kjøleskapsproblemer. Og alle er klare for quiz.</itunes:summary>
+      <itunes:duration>1827</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>100 pølser i året?!</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_f3caecff-6856-4bc8-8aec-ff6856bbc87f</link>
+      <description>Klarer Trude Sofie å slå søsteren sin i quiz? Hvor mye kan landmåleren Eivind om gris? Og hva er forskjellen på høtt og hytte?</description>
+      <guid isPermaLink="false">l_f3caecff-6856-4bc8-8aec-ff6856bbc87f</guid>
+      <pubDate>Tue, 30 Jul 2024 13:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/e203d5bb-72c1-470d-a711-ef1d293b6ff0_0_ID192MP3.mp3" type="audio/mpeg" length="42995565"></enclosure>
+      <itunes:title>100 pølser i året?!</itunes:title>
+      <itunes:summary>Klarer Trude Sofie å slå søsteren sin i quiz? Hvor mye kan landmåleren Eivind om gris? Og hva er forskjellen på høtt og hytte?</itunes:summary>
+      <itunes:duration>1791</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva heter dama til Skipper&#39;n?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_b12c1f84-aa7e-4132-ac1f-84aa7ee13240</link>
+      <description>Quiz om berømte rødtopper og hundeglade gjester som venter 10 valper(!) kan du høre i dagens episode av Reiseradioens sommerleker.</description>
+      <guid isPermaLink="false">l_b12c1f84-aa7e-4132-ac1f-84aa7ee13240</guid>
+      <pubDate>Mon, 29 Jul 2024 14:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/bdfbc720-6898-43e2-8757-adce2d62d61f_0_ID192MP3.mp3" type="audio/mpeg" length="59547501"></enclosure>
+      <itunes:title>Hva heter dama til Skipper&#39;n?</itunes:title>
+      <itunes:summary>Quiz om berømte rødtopper og hundeglade gjester som venter 10 valper(!) kan du høre i dagens episode av Reiseradioens sommerleker.</itunes:summary>
+      <itunes:duration>2481</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>En kviss med all respekt?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_01ae0f96-ae18-48c3-ae0f-96ae1808c35a</link>
+      <description>Sandeep Singh og Tara Lina Shahin er på besøk, og vi skal finne ut hvem som er den beste kvisseren!</description>
+      <guid isPermaLink="false">l_01ae0f96-ae18-48c3-ae0f-96ae1808c35a</guid>
+      <pubDate>Fri, 26 Jul 2024 12:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/3f440f60-35e8-4f4d-a752-7e3c5343f6e7_0_ID192MP3.mp3" type="audio/mpeg" length="47124909"></enclosure>
+      <itunes:title>En kviss med all respekt?</itunes:title>
+      <itunes:summary>Sandeep Singh og Tara Lina Shahin er på besøk, og vi skal finne ut hvem som er den beste kvisseren!</itunes:summary>
+      <itunes:duration>1963</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvem vinner av Team Bachstad?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_0d74da72-6ab8-4b75-b4da-726ab8db7555</link>
+      <description>Rune har fått besøk av Team Bachstad. Begge skal kvisses, men bare én kan vinne!</description>
+      <guid isPermaLink="false">l_0d74da72-6ab8-4b75-b4da-726ab8db7555</guid>
+      <pubDate>Thu, 25 Jul 2024 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/23143fb9-86ea-4ad4-890c-4d83701d0aec_0_ID192MP3.mp3" type="audio/mpeg" length="45590445"></enclosure>
+      <itunes:title>Hvem vinner av Team Bachstad?</itunes:title>
+      <itunes:summary>Rune har fått besøk av Team Bachstad. Begge skal kvisses, men bare én kan vinne!</itunes:summary>
+      <itunes:duration>1899</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva slags dyr er Lillefot? </title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_7ed87961-50a5-4f03-9879-6150a5cf03f6</link>
+      <description>Hva er Afrikas lengste elv og hvilket bilmerke har modellen Punto?  Svaret får du i dagens episode!</description>
+      <guid isPermaLink="false">l_7ed87961-50a5-4f03-9879-6150a5cf03f6</guid>
+      <pubDate>Wed, 24 Jul 2024 13:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/6f39c614-3550-47e7-93ba-11ba25068faa_0_ID192MP3.mp3" type="audio/mpeg" length="42641901"></enclosure>
+      <itunes:title>Hva slags dyr er Lillefot? </itunes:title>
+      <itunes:summary>Hva er Afrikas lengste elv og hvilket bilmerke har modellen Punto?  Svaret får du i dagens episode!</itunes:summary>
+      <itunes:duration>1776</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvilken gris er redd for Heffalumper?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_4445ccc7-b8b0-4484-85cc-c7b8b09484cd</link>
+      <description>Hva kan svogerne på vei til Tromsø om syke dyr?</description>
+      <guid isPermaLink="false">l_4445ccc7-b8b0-4484-85cc-c7b8b09484cd</guid>
+      <pubDate>Tue, 23 Jul 2024 13:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/c4da8d76-f0eb-4846-b195-eaa61cddb4f1_0_ID192MP3.mp3" type="audio/mpeg" length="46302381"></enclosure>
+      <itunes:title>Hvilken gris er redd for Heffalumper?</itunes:title>
+      <itunes:summary>Hva kan svogerne på vei til Tromsø om syke dyr?</itunes:summary>
+      <itunes:duration>1929</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Er månen laget av ost?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_e2739165-3a2c-47b6-b391-653a2c07b601</link>
+      <description>I dag har vi med oss en gårdbruker som vanligvis slakter gris, men klarer han å slakte quizen?</description>
+      <guid isPermaLink="false">l_e2739165-3a2c-47b6-b391-653a2c07b601</guid>
+      <pubDate>Mon, 22 Jul 2024 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/9667e023-45ba-4dc5-a814-2132d01600f1_0_ID192MP3.mp3" type="audio/mpeg" length="54001197"></enclosure>
+      <itunes:title>Er månen laget av ost?</itunes:title>
+      <itunes:summary>I dag har vi med oss en gårdbruker som vanligvis slakter gris, men klarer han å slakte quizen?</itunes:summary>
+      <itunes:duration>2249</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvor mange riller er det på en LP-plate?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_ac138134-7bf6-466e-9381-347bf6f66e94</link>
+      <description>Hva heter Norges eneste giftslange? Hva er Norges nordligste by?</description>
+      <guid isPermaLink="false">l_ac138134-7bf6-466e-9381-347bf6f66e94</guid>
+      <pubDate>Fri, 19 Jul 2024 13:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/b69cef57-73de-4bd8-b5d3-7fbe4f0d9469_0_ID192MP3.mp3" type="audio/mpeg" length="55493037"></enclosure>
+      <itunes:title>Hvor mange riller er det på en LP-plate?</itunes:title>
+      <itunes:summary>Hva heter Norges eneste giftslange? Hva er Norges nordligste by?</itunes:summary>
+      <itunes:duration>2312</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvem skjuler seg i Reiseradioens kjølebag?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_95b778af-d327-4e7e-b778-afd3275e7e5a</link>
+      <description>Et par som leter etter gjemte bokser, et annet som skal til IKEA i finværet og en bergenspatriot - alle er klare for quiz!</description>
+      <guid isPermaLink="false">l_95b778af-d327-4e7e-b778-afd3275e7e5a</guid>
+      <pubDate>Thu, 18 Jul 2024 13:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/ab9943b4-d7e4-45bc-a44f-307e305c6c90_0_ID192MP3.mp3" type="audio/mpeg" length="42378093"></enclosure>
+      <itunes:title>Hvem skjuler seg i Reiseradioens kjølebag?</itunes:title>
+      <itunes:summary>Et par som leter etter gjemte bokser, et annet som skal til IKEA i finværet og en bergenspatriot - alle er klare for quiz!</itunes:summary>
+      <itunes:duration>1765</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sokker i sandalene - hot or not?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_22da8392-c3d8-4809-9a83-92c3d8580932</link>
+      <description>Hva kan du om 80-tallet, romantiske komedier og biler?</description>
+      <guid isPermaLink="false">l_22da8392-c3d8-4809-9a83-92c3d8580932</guid>
+      <pubDate>Wed, 17 Jul 2024 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/fa20b9bf-9d0a-463d-8615-c55e8550ae6b_0_ID192MP3.mp3" type="audio/mpeg" length="39843117"></enclosure>
+      <itunes:title>Sokker i sandalene - hot or not?</itunes:title>
+      <itunes:summary>Hva kan du om 80-tallet, romantiske komedier og biler?</itunes:summary>
+      <itunes:duration>1660</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvilken lyd lager eslet?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_35acc845-203e-4303-acc8-45203ec30350</link>
+      <description>Vet du hvor mye en liter gull veier? Og hvem sa &#34;Verden er min østers&#34;?</description>
+      <guid isPermaLink="false">l_35acc845-203e-4303-acc8-45203ec30350</guid>
+      <pubDate>Tue, 16 Jul 2024 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/854e34ac-3a3e-4d68-b072-09763d4f6a94_0_ID192MP3.mp3" type="audio/mpeg" length="49251501"></enclosure>
+      <itunes:title>Hvilken lyd lager eslet?</itunes:title>
+      <itunes:summary>Vet du hvor mye en liter gull veier? Og hvem sa &#34;Verden er min østers&#34;?</itunes:summary>
+      <itunes:duration>2052</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva er en pangolin?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_37443f18-62d9-4baf-843f-1862d90baf41</link>
+      <description>Hva er verdens største øy? Hvem i Norge fortjener en hilsen?</description>
+      <guid isPermaLink="false">l_37443f18-62d9-4baf-843f-1862d90baf41</guid>
+      <pubDate>Mon, 15 Jul 2024 13:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/60e10a2b-0878-4831-b41d-fbfda3df6177_0_ID192MP3.mp3" type="audio/mpeg" length="58538925"></enclosure>
+      <itunes:title>Hva er en pangolin?</itunes:title>
+      <itunes:summary>Hva er verdens største øy? Hvem i Norge fortjener en hilsen?</itunes:summary>
+      <itunes:duration>2439</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Er det lov å gifte seg med sin enkes søster?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_881e65f5-be83-4a55-9e65-f5be83da55eb</link>
+      <description>Hvor god er du på gåter? Og hva kan du egentlig om løk?</description>
+      <guid isPermaLink="false">l_881e65f5-be83-4a55-9e65-f5be83da55eb</guid>
+      <pubDate>Fri, 12 Jul 2024 14:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/8c6c1f94-09b6-4506-998d-f5d08a34edb3_0_ID192MP3.mp3" type="audio/mpeg" length="53369325"></enclosure>
+      <itunes:title>Er det lov å gifte seg med sin enkes søster?</itunes:title>
+      <itunes:summary>Hvor god er du på gåter? Og hva kan du egentlig om løk?</itunes:summary>
+      <itunes:duration>2223</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva slags dyr er en tumler?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_c1e02eb6-45e3-48f7-a02e-b645e338f76f</link>
+      <description>Og hvem fant opp den elektriske lyspæra?</description>
+      <guid isPermaLink="false">l_c1e02eb6-45e3-48f7-a02e-b645e338f76f</guid>
+      <pubDate>Thu, 11 Jul 2024 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/6c034a49-d642-4c1f-a2d2-eb49e47a0598_0_ID192MP3.mp3" type="audio/mpeg" length="48139245"></enclosure>
+      <itunes:title>Hva slags dyr er en tumler?</itunes:title>
+      <itunes:summary>Og hvem fant opp den elektriske lyspæra?</itunes:summary>
+      <itunes:duration>2005</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AvVCZpjb3KquzNSicFZBAAVyONhn40pDNrmTO2GRIMjQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sommerparadis med og uten regn</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_5609602b-7f48-4f61-8960-2b7f488f619a</link>
+      <description>Filmrebus og ting på G!</description>
+      <guid isPermaLink="false">l_5609602b-7f48-4f61-8960-2b7f488f619a</guid>
+      <pubDate>Wed, 10 Jul 2024 13:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/3cabbdf6-0cf7-43c0-b62d-1cf8e886cec9_0_ID192MP3.mp3" type="audio/mpeg" length="43206381"></enclosure>
+      <itunes:title>Sommerparadis med og uten regn</itunes:title>
+      <itunes:summary>Filmrebus og ting på G!</itunes:summary>
+      <itunes:duration>1800</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AvVCZpjb3KquzNSicFZBAAVyONhn40pDNrmTO2GRIMjQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sjøpattedyrbonanza!</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_4de61dda-ba7a-49a8-a61d-daba7a79a877</link>
+      <description>Fra blåhval til Frodo Baggins, og nesten ny verdensrekord til Bergen!</description>
+      <guid isPermaLink="false">l_4de61dda-ba7a-49a8-a61d-daba7a79a877</guid>
+      <pubDate>Tue, 09 Jul 2024 13:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/9a36419c-af6a-48f0-a02f-d772f8141f7b_0_ID192MP3.mp3" type="audio/mpeg" length="42879789"></enclosure>
+      <itunes:title>Sjøpattedyrbonanza!</itunes:title>
+      <itunes:summary>Fra blåhval til Frodo Baggins, og nesten ny verdensrekord til Bergen!</itunes:summary>
+      <itunes:duration>1786</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AvVCZpjb3KquzNSicFZBAAVyONhn40pDNrmTO2GRIMjQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva vokser egentlig banene på?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_1d74554d-6839-48c8-b455-4d683918c85b</link>
+      <description>Det er bærfest i Reiseradioens sommerleker!</description>
+      <guid isPermaLink="false">l_1d74554d-6839-48c8-b455-4d683918c85b</guid>
+      <pubDate>Mon, 08 Jul 2024 13:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/cd0a1b21-a148-4c38-86d0-5d5095880168_0_ID192MP3.mp3" type="audio/mpeg" length="57006189"></enclosure>
+      <itunes:title>Hva vokser egentlig banene på?</itunes:title>
+      <itunes:summary>Det er bærfest i Reiseradioens sommerleker!</itunes:summary>
+      <itunes:duration>2375</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AvVCZpjb3KquzNSicFZBAAVyONhn40pDNrmTO2GRIMjQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvor mye kan du om dinosaurer?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_6c8acebd-4924-4303-8ace-bd4924b3039c</link>
+      <description>Dinosaurekspert og boksende damer</description>
+      <guid isPermaLink="false">l_6c8acebd-4924-4303-8ace-bd4924b3039c</guid>
+      <pubDate>Fri, 05 Jul 2024 14:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/9ab4f2e4-f138-4244-959c-7d3a19003c17_0_ID192MP3.mp3" type="audio/mpeg" length="45342189"></enclosure>
+      <itunes:title>Hvor mye kan du om dinosaurer?</itunes:title>
+      <itunes:summary>Dinosaurekspert og boksende damer</itunes:summary>
+      <itunes:duration>1889</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvilken festival er best?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_28362aa7-7335-4be7-b62a-a77335ebe75d</link>
+      <description>Hvilket instrument forsvant? Og hva heter Langbein i Danmark?</description>
+      <guid isPermaLink="false">l_28362aa7-7335-4be7-b62a-a77335ebe75d</guid>
+      <pubDate>Thu, 04 Jul 2024 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/4d161de6-9087-434c-a23a-1de5614215c0_0_ID192MP3.mp3" type="audio/mpeg" length="40642605"></enclosure>
+      <itunes:title>Hvilken festival er best?</itunes:title>
+      <itunes:summary>Hvilket instrument forsvant? Og hva heter Langbein i Danmark?</itunes:summary>
+      <itunes:duration>1693</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Stor solhatt eller vind i håret?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_e9bdb9a2-c520-49cd-bdb9-a2c52049cd0e</link>
+      <description>Entusiastisk festivalleder, Karmøy-kvinnen som flyttet til Moss for kjærligheten og en japan beboer(!) er blant quizdeltakerne i dag.</description>
+      <guid isPermaLink="false">l_e9bdb9a2-c520-49cd-bdb9-a2c52049cd0e</guid>
+      <pubDate>Wed, 03 Jul 2024 13:32:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/7d805f82-c113-4045-a023-90a21b09acd9_0_ID192MP3.mp3" type="audio/mpeg" length="41653485"></enclosure>
+      <itunes:title>Stor solhatt eller vind i håret?</itunes:title>
+      <itunes:summary>Entusiastisk festivalleder, Karmøy-kvinnen som flyttet til Moss for kjærligheten og en japan beboer(!) er blant quizdeltakerne i dag.</itunes:summary>
+      <itunes:duration>1735</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kan elefanter hoppe?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_bc5995bb-98c6-44a7-9995-bb98c6f4a7a2</link>
+      <description>Varaordfører, barn i baksetet, boblebad-entusiast - alle elsker quiz!</description>
+      <guid isPermaLink="false">l_bc5995bb-98c6-44a7-9995-bb98c6f4a7a2</guid>
+      <pubDate>Tue, 02 Jul 2024 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/aa9be2f0-b560-471d-8d32-64420d00e8d7_0_ID192MP3.mp3" type="audio/mpeg" length="31375341"></enclosure>
+      <itunes:title>Kan elefanter hoppe?</itunes:title>
+      <itunes:summary>Varaordfører, barn i baksetet, boblebad-entusiast - alle elsker quiz!</itunes:summary>
+      <itunes:duration>1307</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvilken blomst lukter best?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_1285286b-2a9f-4dba-8528-6b2a9ffdbaa7</link>
+      <description>Hvordan lager man safran? Og er myggen dyret som dreper mest?</description>
+      <guid isPermaLink="false">l_1285286b-2a9f-4dba-8528-6b2a9ffdbaa7</guid>
+      <pubDate>Mon, 01 Jul 2024 15:35:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/d0959f7a-0e4b-43b4-a5ec-d898ed8e210d_0_ID192MP3.mp3" type="audio/mpeg" length="51106797"></enclosure>
+      <itunes:title>Hvilken blomst lukter best?</itunes:title>
+      <itunes:summary>Hvordan lager man safran? Og er myggen dyret som dreper mest?</itunes:summary>
+      <itunes:duration>2129</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tog, fly, bil eller sykkel? Hva foretrekker du?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_d52e9770-4274-48f8-ae97-704274d8f872</link>
+      <description>Hva heter fobien mot hunder? Og hvilket norsk ord blir alltid uttalt feil?</description>
+      <guid isPermaLink="false">l_d52e9770-4274-48f8-ae97-704274d8f872</guid>
+      <pubDate>Fri, 28 Jun 2024 15:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/a0eeff3d-d66f-4423-bc6f-b193fdba6d9b_0_ID192MP3.mp3" type="audio/mpeg" length="53991981"></enclosure>
+      <itunes:title>Tog, fly, bil eller sykkel? Hva foretrekker du?</itunes:title>
+      <itunes:summary>Hva heter fobien mot hunder? Og hvilket norsk ord blir alltid uttalt feil?</itunes:summary>
+      <itunes:duration>2249</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvor ofte bør man klippe plenen?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_db523aac-72d8-4162-923a-ac72d81162ef</link>
+      <description>Hvilken eventyrskikkelse sa &#34;Klippe klippe&#34;? Klarer du å gjette lyden?</description>
+      <guid isPermaLink="false">l_db523aac-72d8-4162-923a-ac72d81162ef</guid>
+      <pubDate>Thu, 27 Jun 2024 13:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/b46486aa-feb8-4be3-87f6-0f2c499c1437_0_ID192MP3.mp3" type="audio/mpeg" length="40681773"></enclosure>
+      <itunes:title>Hvor ofte bør man klippe plenen?</itunes:title>
+      <itunes:summary>Hvilken eventyrskikkelse sa &#34;Klippe klippe&#34;? Klarer du å gjette lyden?</itunes:summary>
+      <itunes:duration>1695</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva er best på grillen?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_588f0eab-b6e3-42a2-8f0e-abb6e382a240</link>
+      <description>Hvem er Phillip Boardman? Og hva er den største fisken i verden?</description>
+      <guid isPermaLink="false">l_588f0eab-b6e3-42a2-8f0e-abb6e382a240</guid>
+      <pubDate>Wed, 26 Jun 2024 14:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/8ada5abf-6ca6-4dd8-83fb-30543739295f_0_ID192MP3.mp3" type="audio/mpeg" length="38606445"></enclosure>
+      <itunes:title>Hva er best på grillen?</itunes:title>
+      <itunes:summary>Hvem er Phillip Boardman? Og hva er den største fisken i verden?</itunes:summary>
+      <itunes:duration>1608</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvilket kjæledyr er best?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_c04d3573-5bd3-46ad-8d35-735bd396ad35</link>
+      <description>Det skjedde om sommeren, og et dyr er borte. Hva er Canadas nasjonaldyr?</description>
+      <guid isPermaLink="false">l_c04d3573-5bd3-46ad-8d35-735bd396ad35</guid>
+      <pubDate>Tue, 25 Jun 2024 13:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/2a1f6818-7eb3-4deb-9c97-427ac3da600a_0_ID192MP3.mp3" type="audio/mpeg" length="43060653"></enclosure>
+      <itunes:title>Hvilket kjæledyr er best?</itunes:title>
+      <itunes:summary>Det skjedde om sommeren, og et dyr er borte. Hva er Canadas nasjonaldyr?</itunes:summary>
+      <itunes:duration>1794</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva er Norges beste sommerby?</title>
+      <link>https://radio.nrk.no/podkast/reiseradioens_sommerleker/l_e1f3624d-cb93-4371-b362-4dcb93a37142</link>
+      <description>Iskrem som ikke finnes lenger og historisk lydrebus. Dessuten, hvor mange bein har en reke?</description>
+      <guid isPermaLink="false">l_e1f3624d-cb93-4371-b362-4dcb93a37142</guid>
+      <pubDate>Mon, 24 Jun 2024 14:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/reiseradioens_sommerleker/adeb5ceb-bad7-499c-a632-f9cede23dff5_0_ID192MP3.mp3" type="audio/mpeg" length="43590573"></enclosure>
+      <itunes:title>Hva er Norges beste sommerby?</itunes:title>
+      <itunes:summary>Iskrem som ikke finnes lenger og historisk lydrebus. Dessuten, hvor mange bein har en reke?</itunes:summary>
+      <itunes:duration>1816</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sh7a1osNx5hjcErgN9DbaQKEZH1UxsCBg94a4VW_GQ6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventyrerne: Jakten på spektralsteinene</title>
+    <link>https://radio.nrk.no/podkast/eventyrerne</link>
+    <description>Tre drevne underholdere kaster seg ut i et eventyr skapt av spillmester Aslak Maurstad. Hvor langt vil fantasi, kløkt og terninger ta dem?</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Thu, 29 Jan 2026 05:01:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/eventyrerne.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Tre drevne underholdere kaster seg ut i et eventyr skapt av spillmester Aslak Maurstad. Hvor langt vil fantasi, kløkt og terninger ta dem?</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q</url>
+      <title>Eventyrerne: Jakten på spektralsteinene</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne</link>
+    </image>
+    <item>
+      <title>Oppgjørets time (18:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_61b6320e-7c7e-4541-b632-0e7c7e054131</link>
+      <description>Verdens skjebne skal avgjøres i evighetens hage når eventyrerne står ovenfor en gammel fiende.</description>
+      <guid isPermaLink="false">l_61b6320e-7c7e-4541-b632-0e7c7e054131</guid>
+      <pubDate>Thu, 29 Jan 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/61b6320e-7c7e-4541-b632-0e7c7e054131_ID192MP3.mp3" type="audio/mpeg" length="45514988"></enclosure>
+      <itunes:title>Oppgjørets time (18:18)</itunes:title>
+      <itunes:summary>Verdens skjebne skal avgjøres i evighetens hage når eventyrerne står ovenfor en gammel fiende.</itunes:summary>
+      <itunes:duration>1896</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Forhandlinger på Dovrefjell (17:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_bc6621b7-d0d3-4045-a621-b7d0d3804536</link>
+      <description>Noen følger nøye med mens eventyrerne løser en vrien byttehandel dypt nede i gruvene på Dovrefjell.</description>
+      <guid isPermaLink="false">l_bc6621b7-d0d3-4045-a621-b7d0d3804536</guid>
+      <pubDate>Thu, 29 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/bc6621b7-d0d3-4045-a621-b7d0d3804536_ID192MP3.mp3" type="audio/mpeg" length="45124460"></enclosure>
+      <itunes:title>Forhandlinger på Dovrefjell (17:18)</itunes:title>
+      <itunes:summary>Noen følger nøye med mens eventyrerne løser en vrien byttehandel dypt nede i gruvene på Dovrefjell.</itunes:summary>
+      <itunes:duration>1880</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>En gammel bekjent (16:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_cf7903ee-df63-4a8a-b903-eedf637a8ae2</link>
+      <description>En gammel kjenning gir eventyrerne trøbbel. Og hvordan skal de klare å mobilisere til kamp mot trollene når alle har gitt opp?</description>
+      <guid isPermaLink="false">l_cf7903ee-df63-4a8a-b903-eedf637a8ae2</guid>
+      <pubDate>Thu, 22 Jan 2026 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/cf7903ee-df63-4a8a-b903-eedf637a8ae2_ID192MP3.mp3" type="audio/mpeg" length="46875500"></enclosure>
+      <itunes:title>En gammel bekjent (16:18)</itunes:title>
+      <itunes:summary>En gammel kjenning gir eventyrerne trøbbel. Og hvordan skal de klare å mobilisere til kamp mot trollene når alle har gitt opp?</itunes:summary>
+      <itunes:duration>1953</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dansker, troll og tryllestav (15:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_4d290bf5-e2b9-4b60-a90b-f5e2b99b60f9</link>
+      <description>Vibeke får nye krefter, mens Vidar lider et stort tap. På vei mot Dovre må eventyrerne gjøre opp en gammel gjeld.</description>
+      <guid isPermaLink="false">l_4d290bf5-e2b9-4b60-a90b-f5e2b99b60f9</guid>
+      <pubDate>Thu, 22 Jan 2026 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/4d290bf5-e2b9-4b60-a90b-f5e2b99b60f9_ID192MP3.mp3" type="audio/mpeg" length="47241260"></enclosure>
+      <itunes:title>Dansker, troll og tryllestav (15:18)</itunes:title>
+      <itunes:summary>Vibeke får nye krefter, mens Vidar lider et stort tap. På vei mot Dovre må eventyrerne gjøre opp en gammel gjeld.</itunes:summary>
+      <itunes:duration>1968</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gåter og farer (14:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_e3f013c5-6736-4777-b013-c56736c7777f</link>
+      <description>På den farefulle reisen for å finne professor Drøvel må eventyrerne hamle opp med en sint teatertrupp og løse uløste gåter.</description>
+      <guid isPermaLink="false">l_e3f013c5-6736-4777-b013-c56736c7777f</guid>
+      <pubDate>Thu, 22 Jan 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/e3f013c5-6736-4777-b013-c56736c7777f_ID192MP3.mp3" type="audio/mpeg" length="48784940"></enclosure>
+      <itunes:title>Gåter og farer (14:18)</itunes:title>
+      <itunes:summary>På den farefulle reisen for å finne professor Drøvel må eventyrerne hamle opp med en sint teatertrupp og løse uløste gåter.</itunes:summary>
+      <itunes:duration>2032</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mulighetenes portal (13:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_4913f3f2-7d41-4d14-93f3-f27d410d1494</link>
+      <description>I en mystisk portal møter eventyrerne noen folkekjære figurer og får tålmodigheten satt på prøve.</description>
+      <guid isPermaLink="false">l_4913f3f2-7d41-4d14-93f3-f27d410d1494</guid>
+      <pubDate>Thu, 22 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/4913f3f2-7d41-4d14-93f3-f27d410d1494_ID192MP3.mp3" type="audio/mpeg" length="39599468"></enclosure>
+      <itunes:title>Mulighetenes portal (13:18)</itunes:title>
+      <itunes:summary>I en mystisk portal møter eventyrerne noen folkekjære figurer og får tålmodigheten satt på prøve.</itunes:summary>
+      <itunes:duration>1649</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dødens dampbåt (12:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_599bdd53-90cf-4055-9bdd-5390cff0551c</link>
+      <description>Eventyrernes tidligere handlinger innhenter dem når oppgjørets time kommer til «Ville Vesten».</description>
+      <guid isPermaLink="false">l_599bdd53-90cf-4055-9bdd-5390cff0551c</guid>
+      <pubDate>Thu, 15 Jan 2026 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/599bdd53-90cf-4055-9bdd-5390cff0551c_1_ID192MP3.mp3" type="audio/mpeg" length="36728108"></enclosure>
+      <itunes:title>Dødens dampbåt (12:18)</itunes:title>
+      <itunes:summary>Eventyrernes tidligere handlinger innhenter dem når oppgjørets time kommer til «Ville Vesten».</itunes:summary>
+      <itunes:duration>1530</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Den flyvende lavvo (11:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_4b8d4a3e-bbef-4cea-8d4a-3ebbef0cea8c</link>
+      <description>Eventyrerne er strandet i en nådeløs ørken, og får bruk for sine kreative evner.&#xA;Men så dukker en mystisk skikkelse opp.</description>
+      <guid isPermaLink="false">l_4b8d4a3e-bbef-4cea-8d4a-3ebbef0cea8c</guid>
+      <pubDate>Thu, 15 Jan 2026 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/4b8d4a3e-bbef-4cea-8d4a-3ebbef0cea8c_1_ID192MP3.mp3" type="audio/mpeg" length="41861996"></enclosure>
+      <itunes:title>Den flyvende lavvo (11:18)</itunes:title>
+      <itunes:summary>Eventyrerne er strandet i en nådeløs ørken, og får bruk for sine kreative evner.&#xA;Men så dukker en mystisk skikkelse opp.</itunes:summary>
+      <itunes:duration>1744</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Togranet (10:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_502683d6-9a54-4e23-a683-d69a540e2347</link>
+      <description>Eventyrerne er klare for å utføre et spektakulært ran. Nå må bare terningene være på deres side.</description>
+      <guid isPermaLink="false">l_502683d6-9a54-4e23-a683-d69a540e2347</guid>
+      <pubDate>Thu, 15 Jan 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/502683d6-9a54-4e23-a683-d69a540e2347_1_ID192MP3.mp3" type="audio/mpeg" length="37044908"></enclosure>
+      <itunes:title>Togranet (10:18)</itunes:title>
+      <itunes:summary>Eventyrerne er klare for å utføre et spektakulært ran. Nå må bare terningene være på deres side.</itunes:summary>
+      <itunes:duration>1543</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hjelp, vi er på togtur! (9:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_ad1f3418-cb20-4280-9f34-18cb200280c4</link>
+      <description>Hvordan skal eventyrerne få kloa i en tungt bevoktet tidsmaskin på et tog fullt av farer og sirkusrekvisitter?</description>
+      <guid isPermaLink="false">l_ad1f3418-cb20-4280-9f34-18cb200280c4</guid>
+      <pubDate>Thu, 15 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/ad1f3418-cb20-4280-9f34-18cb200280c4_ID192MP3.mp3" type="audio/mpeg" length="40480748"></enclosure>
+      <itunes:title>Hjelp, vi er på togtur! (9:18)</itunes:title>
+      <itunes:summary>Hvordan skal eventyrerne få kloa i en tungt bevoktet tidsmaskin på et tog fullt av farer og sirkusrekvisitter?</itunes:summary>
+      <itunes:duration>1686</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Farvel, New Cactus (8:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_db9f292e-d454-4ce6-9f29-2ed454bce6d1</link>
+      <description>I en revolverduell står Vibeke Vi mot general Kaviarstjerne – det gode mot det onde. Hvem vil seire?</description>
+      <guid isPermaLink="false">l_db9f292e-d454-4ce6-9f29-2ed454bce6d1</guid>
+      <pubDate>Thu, 08 Jan 2026 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/db9f292e-d454-4ce6-9f29-2ed454bce6d1_ID192MP3.mp3" type="audio/mpeg" length="43785260"></enclosure>
+      <itunes:title>Farvel, New Cactus (8:18)</itunes:title>
+      <itunes:summary>I en revolverduell står Vibeke Vi mot general Kaviarstjerne – det gode mot det onde. Hvem vil seire?</itunes:summary>
+      <itunes:duration>1824</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Poker og gledespiker (7:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_6aa4e9a9-594c-4369-a4e9-a9594c0369bb</link>
+      <description>Eventyrerne må hamle opp med en general som vet hvor tidsmaskinen er. Hvis noen har et ess i ermet, gjelder det å spille det nå!</description>
+      <guid isPermaLink="false">l_6aa4e9a9-594c-4369-a4e9-a9594c0369bb</guid>
+      <pubDate>Thu, 08 Jan 2026 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/6aa4e9a9-594c-4369-a4e9-a9594c0369bb_ID192MP3.mp3" type="audio/mpeg" length="43827308"></enclosure>
+      <itunes:title>Poker og gledespiker (7:18)</itunes:title>
+      <itunes:summary>Eventyrerne må hamle opp med en general som vet hvor tidsmaskinen er. Hvis noen har et ess i ermet, gjelder det å spille det nå!</itunes:summary>
+      <itunes:duration>1826</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Flamme, pensel, katt (6:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_7233c478-9a5a-4b94-b3c4-789a5a7b943f</link>
+      <description>Bak en stor bunkerdør ligger eventyrernes eneste håp. Men hvem er på den andre siden, og hva vil vedkommende med spektralsteinen?</description>
+      <guid isPermaLink="false">l_7233c478-9a5a-4b94-b3c4-789a5a7b943f</guid>
+      <pubDate>Thu, 08 Jan 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/7233c478-9a5a-4b94-b3c4-789a5a7b943f_ID192MP3.mp3" type="audio/mpeg" length="40681196"></enclosure>
+      <itunes:title>Flamme, pensel, katt (6:18)</itunes:title>
+      <itunes:summary>Bak en stor bunkerdør ligger eventyrernes eneste håp. Men hvem er på den andre siden, og hva vil vedkommende med spektralsteinen?</itunes:summary>
+      <itunes:duration>1695</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Post-apokalyptisk stress (5:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_f7dc1aa8-8885-4b55-9c1a-a88885db55d8</link>
+      <description>Vil Geir og Vibeke klare å redde Ågot før hun blir spist av kannibalen Slafse-Sivert?</description>
+      <guid isPermaLink="false">l_f7dc1aa8-8885-4b55-9c1a-a88885db55d8</guid>
+      <pubDate>Thu, 08 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/f7dc1aa8-8885-4b55-9c1a-a88885db55d8_ID192MP3.mp3" type="audio/mpeg" length="47886380"></enclosure>
+      <itunes:title>Post-apokalyptisk stress (5:18)</itunes:title>
+      <itunes:summary>Vil Geir og Vibeke klare å redde Ågot før hun blir spist av kannibalen Slafse-Sivert?</itunes:summary>
+      <itunes:duration>1995</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Et uhyggelig Oslo (4:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_7c47ac3e-fb22-4bdc-87ac-3efb22cbdc8e</link>
+      <description>I en nifs versjon av hovedstaden må eventyrerne på jakt etter en ny del til tidsmaskinen. Hvordan skal de skille venn fra fiende?</description>
+      <guid isPermaLink="false">l_7c47ac3e-fb22-4bdc-87ac-3efb22cbdc8e</guid>
+      <pubDate>Thu, 01 Jan 2026 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/7c47ac3e-fb22-4bdc-87ac-3efb22cbdc8e_ID192MP3.mp3" type="audio/mpeg" length="37697516"></enclosure>
+      <itunes:title>Et uhyggelig Oslo (4:18)</itunes:title>
+      <itunes:summary>I en nifs versjon av hovedstaden må eventyrerne på jakt etter en ny del til tidsmaskinen. Hvordan skal de skille venn fra fiende?</itunes:summary>
+      <itunes:duration>1570</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>«Når er vi?» (3:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_53a6ac7d-5266-4279-a6ac-7d526642796f</link>
+      <description>En students oppfinnelse blir løsningen når eventyrerne må oppspore en ettertraktet spektralstein. Men flere agenter er i spill.</description>
+      <guid isPermaLink="false">l_53a6ac7d-5266-4279-a6ac-7d526642796f</guid>
+      <pubDate>Thu, 01 Jan 2026 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/53a6ac7d-5266-4279-a6ac-7d526642796f_1_ID192MP3.mp3" type="audio/mpeg" length="40504940"></enclosure>
+      <itunes:title>«Når er vi?» (3:18)</itunes:title>
+      <itunes:summary>En students oppfinnelse blir løsningen når eventyrerne må oppspore en ettertraktet spektralstein. Men flere agenter er i spill.</itunes:summary>
+      <itunes:duration>1687</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Blod og sjekketriks (2:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_44b8053d-c82d-4ec8-b805-3dc82d1ec8a7</link>
+      <description>I en kamp på liv og død fanger eventyrerne opp et hint som gir håp. Men både vikinger og ulver setter livene deres i fare.</description>
+      <guid isPermaLink="false">l_44b8053d-c82d-4ec8-b805-3dc82d1ec8a7</guid>
+      <pubDate>Thu, 01 Jan 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/44b8053d-c82d-4ec8-b805-3dc82d1ec8a7_1_ID192MP3.mp3" type="audio/mpeg" length="47537900"></enclosure>
+      <itunes:title>Blod og sjekketriks (2:18)</itunes:title>
+      <itunes:summary>I en kamp på liv og død fanger eventyrerne opp et hint som gir håp. Men både vikinger og ulver setter livene deres i fare.</itunes:summary>
+      <itunes:duration>1980</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Et nytt bekjentskap (1:18)</title>
+      <link>https://radio.nrk.no/podkast/eventyrerne/l_12c2e489-7e51-44cd-82e4-897e5184cd21</link>
+      <description>Tre fremmede våkner opp i vikingtida, der kun en kappekledd skikkelse virker til å sitte på svarene.</description>
+      <guid isPermaLink="false">l_12c2e489-7e51-44cd-82e4-897e5184cd21</guid>
+      <pubDate>Thu, 01 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyrerne/12c2e489-7e51-44cd-82e4-897e5184cd21_1_ID192MP3.mp3" type="audio/mpeg" length="38303468"></enclosure>
+      <itunes:title>Et nytt bekjentskap (1:18)</itunes:title>
+      <itunes:summary>Tre fremmede våkner opp i vikingtida, der kun en kappekledd skikkelse virker til å sitte på svarene.</itunes:summary>
+      <itunes:duration>1595</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dntXhoz10OFz1QlpkmjDHQNaJjPdkGa3Kw743LLOE14Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

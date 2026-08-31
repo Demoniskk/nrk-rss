@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mørke fortellinger</title>
+    <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim</link>
+    <description>Spennende fiksjonsserier fra NRK. Tips! Bruk hodetelefoner når du lytter for optimal opplevelse.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 08 Apr 2022 04:03:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/radioteatrets_paaskekrim.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Spennende fiksjonsserier fra NRK. Tips! Bruk hodetelefoner når du lytter for optimal opplevelse.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/UjRzlAbJHlzAaDrI_8WpuQKevBbh4rAGjtT1SKmuXPvQ"></itunes:image>
+    <itunes:category text="Fiction"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/UjRzlAbJHlzAaDrI_8WpuQKevBbh4rAGjtT1SKmuXPvQ</url>
+      <title>Mørke fortellinger</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim</link>
+    </image>
+    <item>
+      <title>Skygger: Naboen</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_d457bbe0-fae6-4f2a-97bb-e0fae6bf2a7a</link>
+      <description>Jørgen lengter hjem etter en periode på plattform, men samboeren har forandret seg mens Jørgen har vært borte. Kan det ha noe med de nye naboene å gjøre?</description>
+      <guid isPermaLink="false">l_d457bbe0-fae6-4f2a-97bb-e0fae6bf2a7a</guid>
+      <pubDate>Fri, 08 Apr 2022 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/8319df1f-a05b-4378-8d2c-a4bd7d16fa07_0_ID192MP3.mp3" type="audio/mpeg" length="43509357"></enclosure>
+      <itunes:title>Skygger: Naboen</itunes:title>
+      <itunes:summary>Jørgen lengter hjem etter en periode på plattform, men samboeren har forandret seg mens Jørgen har vært borte. Kan det ha noe med de nye naboene å gjøre?</itunes:summary>
+      <itunes:duration>1812</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6BdxtKnuBB9GbQPaKswMnA6OYp-ZFUvAhGKYH1XS-KZA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Skygger: Leieboeren</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_c3a91c22-9e8b-468e-a91c-229e8bc68e40</link>
+      <description>Nora og Erlend er klare for nytt hus og ny start, men allerede første natten blir Nora vekket av noe fra fortiden som har fulgt med på lasset.</description>
+      <guid isPermaLink="false">l_c3a91c22-9e8b-468e-a91c-229e8bc68e40</guid>
+      <pubDate>Fri, 08 Apr 2022 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/01ba08b5-e5b8-4781-9da3-34ce90a60f13_0_ID192MP3.mp3" type="audio/mpeg" length="50118957"></enclosure>
+      <itunes:title>Skygger: Leieboeren</itunes:title>
+      <itunes:summary>Nora og Erlend er klare for nytt hus og ny start, men allerede første natten blir Nora vekket av noe fra fortiden som har fulgt med på lasset.</itunes:summary>
+      <itunes:duration>2088</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6BdxtKnuBB9GbQPaKswMnA6OYp-ZFUvAhGKYH1XS-KZA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Skygger: Helten </title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_dde4b201-e46b-4a63-a4b2-01e46b0a63c9</link>
+      <description>Vekteren John føler seg underlegen blant de polerte BI-studentene, men når han redder en jente fra en overgriper, åpnes dørene på gløtt til en verden John vil inn i.</description>
+      <guid isPermaLink="false">l_dde4b201-e46b-4a63-a4b2-01e46b0a63c9</guid>
+      <pubDate>Fri, 08 Apr 2022 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/cd6a76f5-967c-4335-8c2e-e382127c7828_0_ID192MP3.mp3" type="audio/mpeg" length="49904685"></enclosure>
+      <itunes:title>Skygger: Helten </itunes:title>
+      <itunes:summary>Vekteren John føler seg underlegen blant de polerte BI-studentene, men når han redder en jente fra en overgriper, åpnes dørene på gløtt til en verden John vil inn i.</itunes:summary>
+      <itunes:duration>2079</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6BdxtKnuBB9GbQPaKswMnA6OYp-ZFUvAhGKYH1XS-KZA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Skygger: Vennen</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_d5fe7de6-7241-450f-be7d-e67241d50f8b</link>
+      <description>Camilla gjør sitt beste for å bygge opp et godt liv for seg og sønnen, men når Even åpner døren for en ubuden gjest, begynner fasaden å slå sprekker.</description>
+      <guid isPermaLink="false">l_d5fe7de6-7241-450f-be7d-e67241d50f8b</guid>
+      <pubDate>Fri, 08 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/1394f505-ac0a-4071-9200-b8097d4ba9e9_0_ID192MP3.mp3" type="audio/mpeg" length="49019949"></enclosure>
+      <itunes:title>Skygger: Vennen</itunes:title>
+      <itunes:summary>Camilla gjør sitt beste for å bygge opp et godt liv for seg og sønnen, men når Even åpner døren for en ubuden gjest, begynner fasaden å slå sprekker.</itunes:summary>
+      <itunes:duration>2042</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6BdxtKnuBB9GbQPaKswMnA6OYp-ZFUvAhGKYH1XS-KZA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Revnen: Nattverden</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_aa314c2a-a026-43ce-b14c-2aa02633ceff</link>
+      <description>Leah reiser ut til en øy i havgapet og skal være borte tre måneder for å forske på en utryddingstruet fugleart. Men hva har skjedd med Leah når hun returnerer til fastlandet? &#xA;&#xA;Skuespillere: Amanda Hedvig Lie Strand, Ravdeep Singh Bajwa, Marit Synnøve Berg, Frank Kjosås, Henriette Marø og Markus Tønseth&#xA;&#xA;Manus: Thea Svensson &#xA;Regi: Robert Næss&#xA;Lyddesign: Viljar Losnegård og Jens Mathias Falkenberg&#xA;Produsent Ingrid Torjesen&#xA;Redaktør: Ivar Køhn</description>
+      <guid isPermaLink="false">l_aa314c2a-a026-43ce-b14c-2aa02633ceff</guid>
+      <pubDate>Fri, 30 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/94f5c7d3-1d7a-4410-9689-f214c626311f_0_ID192MP3.mp3" type="audio/mpeg" length="51803757"></enclosure>
+      <itunes:title>Revnen: Nattverden</itunes:title>
+      <itunes:summary>Leah reiser ut til en øy i havgapet og skal være borte tre måneder for å forske på en utryddingstruet fugleart. Men hva har skjedd med Leah når hun returnerer til fastlandet? &#xA;&#xA;Skuespillere: Amanda Hedvig Lie Strand, Ravdeep Singh Bajwa, Marit Synnøve Berg, Frank Kjosås, Henriette Marø og Markus Tønseth&#xA;&#xA;Manus: Thea Svensson &#xA;Regi: Robert Næss&#xA;Lyddesign: Viljar Losnegård og Jens Mathias Falkenberg&#xA;Produsent Ingrid Torjesen&#xA;Redaktør: Ivar Køhn</itunes:summary>
+      <itunes:duration>2158</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9o0vgfrpC4IC0Dl7s54AfwVpLQBcdHrOwFZ4oIruvMJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Revnen: Vikaren </title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_5c04276d-7caa-42e2-8427-6d7caa92e20c</link>
+      <description>Andreas har en sykedag, dagen etter er han tilbake på jobb og blir hyllet av kollegaer for en fantastisk innsats dagen før. Men, han var jo syk hjemme? &#xA;&#xA;Skuespillere: Fredrik Høyer, Gine Cornelia Pedersen, Jonas Strand Gravli, Mattis Herman Nyquist, Sarah Francesca Brænne og Thomas Teige &#xA;Manus: Robert Næss&#xA;Regi: Robert Næss&#xA;Lyddesign: Viljar Losnegård og Jens Mathias Falkenberg&#xA;Produsent Ingrid Torjesen&#xA;Redaktør: Ivar Køhn</description>
+      <guid isPermaLink="false">l_5c04276d-7caa-42e2-8427-6d7caa92e20c</guid>
+      <pubDate>Fri, 23 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/32f61e7b-af76-405d-8980-5001054436a2_0_ID192MP3.mp3" type="audio/mpeg" length="50617197"></enclosure>
+      <itunes:title>Revnen: Vikaren </itunes:title>
+      <itunes:summary>Andreas har en sykedag, dagen etter er han tilbake på jobb og blir hyllet av kollegaer for en fantastisk innsats dagen før. Men, han var jo syk hjemme? &#xA;&#xA;Skuespillere: Fredrik Høyer, Gine Cornelia Pedersen, Jonas Strand Gravli, Mattis Herman Nyquist, Sarah Francesca Brænne og Thomas Teige &#xA;Manus: Robert Næss&#xA;Regi: Robert Næss&#xA;Lyddesign: Viljar Losnegård og Jens Mathias Falkenberg&#xA;Produsent Ingrid Torjesen&#xA;Redaktør: Ivar Køhn</itunes:summary>
+      <itunes:duration>2108</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9o0vgfrpC4IC0Dl7s54AfwVpLQBcdHrOwFZ4oIruvMJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Revnen: Grotten</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_301ecab1-6915-4e3b-9eca-b16915ae3bda</link>
+      <description>Søstrene Anna og Iselin har utforsket mange grotter før, men denne grotten viser seg å være helt spesiell. &#xA;&#xA;Skuespillere: Sarah Francesca Brænne, Mathilde Thomine Storm, Tarjei Sandvik Moe og Nils Johnson&#xA;Manus: Vegard Steiro Amundsen&#xA;Regi: Robert Næss&#xA;Lyddesign: Viljar Losnegård og Jens Mathias Falkenberg&#xA;Produsent Ingrid Torjesen&#xA;Redaktør: Ivar Køhn&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_301ecab1-6915-4e3b-9eca-b16915ae3bda</guid>
+      <pubDate>Fri, 16 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/d56c980e-113f-4046-94a1-22f191dd7b12_0_ID192MP3.mp3" type="audio/mpeg" length="42920685"></enclosure>
+      <itunes:title>Revnen: Grotten</itunes:title>
+      <itunes:summary>Søstrene Anna og Iselin har utforsket mange grotter før, men denne grotten viser seg å være helt spesiell. &#xA;&#xA;Skuespillere: Sarah Francesca Brænne, Mathilde Thomine Storm, Tarjei Sandvik Moe og Nils Johnson&#xA;Manus: Vegard Steiro Amundsen&#xA;Regi: Robert Næss&#xA;Lyddesign: Viljar Losnegård og Jens Mathias Falkenberg&#xA;Produsent Ingrid Torjesen&#xA;Redaktør: Ivar Køhn&#xA;&#xA;</itunes:summary>
+      <itunes:duration>1788</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9o0vgfrpC4IC0Dl7s54AfwVpLQBcdHrOwFZ4oIruvMJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Revnen: Far</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_b59b89bd-20a6-4d85-9b89-bd20a64d8503</link>
+      <description>Pål vil gjerne ta vare på faren sin, men hvem er det egentlig som flytter hjem til Pål og Kathrine?&#xA;&#xA;Skuespillere: Ellen Birgitte Winther, Thorbjørn Harr, Bjørn Skagestad og Marika Enstad &#xA;Manus: Vegard Steiro Amundsen&#xA;Regi: Robert Næss&#xA;Lyddesign: Viljar Losnegård og Jens Mathias Falkenberg&#xA;Produsent Ingrid Torjesen&#xA;Redaktør: Ivar Køhn&#xA;</description>
+      <guid isPermaLink="false">l_b59b89bd-20a6-4d85-9b89-bd20a64d8503</guid>
+      <pubDate>Fri, 09 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/2ef38fd0-15c1-48e5-9be2-4cf8f5c146e8_0_ID192MP3.mp3" type="audio/mpeg" length="40912363"></enclosure>
+      <itunes:title>Revnen: Far</itunes:title>
+      <itunes:summary>Pål vil gjerne ta vare på faren sin, men hvem er det egentlig som flytter hjem til Pål og Kathrine?&#xA;&#xA;Skuespillere: Ellen Birgitte Winther, Thorbjørn Harr, Bjørn Skagestad og Marika Enstad &#xA;Manus: Vegard Steiro Amundsen&#xA;Regi: Robert Næss&#xA;Lyddesign: Viljar Losnegård og Jens Mathias Falkenberg&#xA;Produsent Ingrid Torjesen&#xA;Redaktør: Ivar Køhn&#xA;</itunes:summary>
+      <itunes:duration>1704</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9o0vgfrpC4IC0Dl7s54AfwVpLQBcdHrOwFZ4oIruvMJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Revnen: 803</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_58c66486-a50c-43a7-8664-86a50c93a7aa</link>
+      <description>Emma flytter inn på studenthybel 803. Men hybeltilværelsen blir noe helt annet enn forventet. &#xA;&#xA;Skuespillere: Maja Christiansen, Mathilde Thomine Storm, Trine Wiggen, Anders T Andersen m flere. &#xA;Regi og manus: Robert Næss&#xA;Lyddesign: Viljar Losnegård og Jens Mathias Falkenberg&#xA;Produsent: Ingrid Torjesen.&#xA;Redaktør: Ivar Køhn&#xA;</description>
+      <guid isPermaLink="false">l_58c66486-a50c-43a7-8664-86a50c93a7aa</guid>
+      <pubDate>Thu, 01 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/33d8df5d-1f7b-4830-bb00-178d1a1881a9_0_ID192MP3.mp3" type="audio/mpeg" length="48975344"></enclosure>
+      <itunes:title>Revnen: 803</itunes:title>
+      <itunes:summary>Emma flytter inn på studenthybel 803. Men hybeltilværelsen blir noe helt annet enn forventet. &#xA;&#xA;Skuespillere: Maja Christiansen, Mathilde Thomine Storm, Trine Wiggen, Anders T Andersen m flere. &#xA;Regi og manus: Robert Næss&#xA;Lyddesign: Viljar Losnegård og Jens Mathias Falkenberg&#xA;Produsent: Ingrid Torjesen.&#xA;Redaktør: Ivar Køhn&#xA;</itunes:summary>
+      <itunes:duration>2040</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9o0vgfrpC4IC0Dl7s54AfwVpLQBcdHrOwFZ4oIruvMJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Revnen: Frieriet</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_0740091f-3ab4-4107-8009-1f3ab48107fc</link>
+      <description>Helene tror hun skal på romantisk helgetur, men Marius har planlagt noe helt annet. &#xA;&#xA;Skuespillere: Alexandra Gjerpen, Lars Berge m.fl.&#xA;Manus og regi: Robert Næss&#xA;Lyddesign: Viljar Losnegård og Jens Mathias Falkenberg&#xA;Produsent: Ingrid Torjesen.&#xA;Redaktør: Ivar Køhn&#xA;</description>
+      <guid isPermaLink="false">l_0740091f-3ab4-4107-8009-1f3ab48107fc</guid>
+      <pubDate>Fri, 26 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/30dd3fdb-e8cd-4b98-bc78-5fd43780b610_0_ID192MP3.mp3" type="audio/mpeg" length="47380405"></enclosure>
+      <itunes:title>Revnen: Frieriet</itunes:title>
+      <itunes:summary>Helene tror hun skal på romantisk helgetur, men Marius har planlagt noe helt annet. &#xA;&#xA;Skuespillere: Alexandra Gjerpen, Lars Berge m.fl.&#xA;Manus og regi: Robert Næss&#xA;Lyddesign: Viljar Losnegård og Jens Mathias Falkenberg&#xA;Produsent: Ingrid Torjesen.&#xA;Redaktør: Ivar Køhn&#xA;</itunes:summary>
+      <itunes:duration>1974</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/X-O5GHdKdFBtWH0AeM16awRo9-ry2CxK4JXyonhBx0Jg.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Den lyse natten</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_a3773e30-af05-4f68-b73e-30af052f688c</link>
+      <description>Løsningen er alltid der du minst forventer den.</description>
+      <guid isPermaLink="false">l_a3773e30-af05-4f68-b73e-30af052f688c</guid>
+      <pubDate>Mon, 06 Apr 2020 23:19:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/a783e168-7309-487a-be6c-d86a20b31546_0_ID192MP3.mp3" type="audio/mpeg" length="54997214"></enclosure>
+      <itunes:title>Den lyse natten</itunes:title>
+      <itunes:summary>Løsningen er alltid der du minst forventer den.</itunes:summary>
+      <itunes:duration>2291</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0iwFBMuhxnIkdbmYuGZFPQk__caCNx78r3hiGWOZOYfA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>De svarte skipene</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_962847f8-5fed-4a24-a847-f85fed7a2402</link>
+      <description>Som svarte likkister glir de lydløst forbi i horisonten.</description>
+      <guid isPermaLink="false">l_962847f8-5fed-4a24-a847-f85fed7a2402</guid>
+      <pubDate>Sat, 04 Apr 2020 09:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/0bd3c9eb-640e-4508-b127-d861f64b1522_0_ID192MP3.mp3" type="audio/mpeg" length="43495646"></enclosure>
+      <itunes:title>De svarte skipene</itunes:title>
+      <itunes:summary>Som svarte likkister glir de lydløst forbi i horisonten.</itunes:summary>
+      <itunes:duration>1812</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0iwFBMuhxnIkdbmYuGZFPQk__caCNx78r3hiGWOZOYfA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Døden på isen</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_56d765c3-d413-4be5-9765-c3d4136be5f5</link>
+      <description>Et rovdyr går nødvendigvis ikke på fire ben.</description>
+      <guid isPermaLink="false">l_56d765c3-d413-4be5-9765-c3d4136be5f5</guid>
+      <pubDate>Fri, 03 Apr 2020 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/5d95ac59-76f5-4849-afc3-e4bbd9be288a_0_ID192MP3.mp3" type="audio/mpeg" length="57836898"></enclosure>
+      <itunes:title>Døden på isen</itunes:title>
+      <itunes:summary>Et rovdyr går nødvendigvis ikke på fire ben.</itunes:summary>
+      <itunes:duration>2409</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0iwFBMuhxnIkdbmYuGZFPQk__caCNx78r3hiGWOZOYfA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>83. breddegrad</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_c31c6820-f447-4ba6-9c68-20f4478ba68a</link>
+      <description>En forsker avsløres som spion og blir drept i et mistenkelig uhell. Privatetterforsker Oberon Qvist kobles på saken og følger sporene videre til et forskningsskip i Arktis. Droner overvåker den endeløse isen for rovdyr, så begynner mannskapet å forsvinne, en etter en. </description>
+      <guid isPermaLink="false">l_c31c6820-f447-4ba6-9c68-20f4478ba68a</guid>
+      <pubDate>Fri, 03 Apr 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/1afa9028-c7e6-4042-bde1-b37fd50ebac1_0_ID192MP3.mp3" type="audio/mpeg" length="57533922"></enclosure>
+      <itunes:title>83. breddegrad</itunes:title>
+      <itunes:summary>En forsker avsløres som spion og blir drept i et mistenkelig uhell. Privatetterforsker Oberon Qvist kobles på saken og følger sporene videre til et forskningsskip i Arktis. Droner overvåker den endeløse isen for rovdyr, så begynner mannskapet å forsvinne, en etter en. </itunes:summary>
+      <itunes:duration>2397</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0iwFBMuhxnIkdbmYuGZFPQk__caCNx78r3hiGWOZOYfA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>System i galskapen</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_3b797e7a-8581-48b6-b97e-7a8581d8b617</link>
+      <description>Mobilen til Mons Gram blir funnet. Kan Njål ha sendt tekstmeldingene selv? Liket til Mons er forsvunnet, og Njål dukker plutselig opp og virker mer underlig enn noen gang.</description>
+      <guid isPermaLink="false">l_3b797e7a-8581-48b6-b97e-7a8581d8b617</guid>
+      <pubDate>Sat, 13 Apr 2019 06:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/radioteatrets_paaskekrim_2019-04-11_1225_182.MP3" type="audio/mpeg" length="74960415"></enclosure>
+      <itunes:title>System i galskapen</itunes:title>
+      <itunes:summary>Mobilen til Mons Gram blir funnet. Kan Njål ha sendt tekstmeldingene selv? Liket til Mons er forsvunnet, og Njål dukker plutselig opp og virker mer underlig enn noen gang.</itunes:summary>
+      <itunes:duration>3119</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tzLc1ymtQDbTKmbXQfySrQbEU4y7JyTFbWqF2cQnuCcA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Mannen med den hvite hatten</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_cfb7db30-def3-4e03-b7db-30def3de03ad</link>
+      <description>Et tegn i gulvteppe ser ut til å være den myrdedes forsøk på å si hvem som drepte onkel. Det ser ut som en bokstav. Er det en N for Njål, eller Z for Sara? Njål er fremdeles på seiltur, og tar ikke telefonen.</description>
+      <guid isPermaLink="false">l_cfb7db30-def3-4e03-b7db-30def3de03ad</guid>
+      <pubDate>Sat, 13 Apr 2019 06:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/radioteatrets_paaskekrim_2019-04-11_1119_1712.MP3" type="audio/mpeg" length="53078370"></enclosure>
+      <itunes:title>Mannen med den hvite hatten</itunes:title>
+      <itunes:summary>Et tegn i gulvteppe ser ut til å være den myrdedes forsøk på å si hvem som drepte onkel. Det ser ut som en bokstav. Er det en N for Njål, eller Z for Sara? Njål er fremdeles på seiltur, og tar ikke telefonen.</itunes:summary>
+      <itunes:duration>2207</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tzLc1ymtQDbTKmbXQfySrQbEU4y7JyTFbWqF2cQnuCcA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Tegnet i teppet</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_39e93947-c5d3-4531-a939-47c5d33531f8</link>
+      <description>Det er fare for onkel Emils liv, og Kjell ber han holde seg inne bak lukkede dører og vinduer. Han stusser over Njål som drar på seiltur rett etter at han har forsøkt å drepe sin onkel. Hvordan kan han våre så uberørt av nattens hendelser? </description>
+      <guid isPermaLink="false">l_39e93947-c5d3-4531-a939-47c5d33531f8</guid>
+      <pubDate>Sat, 13 Apr 2019 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/radioteatrets_paaskekrim_2019-04-11_1050_1544.MP3" type="audio/mpeg" length="51608209"></enclosure>
+      <itunes:title>Tegnet i teppet</itunes:title>
+      <itunes:summary>Det er fare for onkel Emils liv, og Kjell ber han holde seg inne bak lukkede dører og vinduer. Han stusser over Njål som drar på seiltur rett etter at han har forsøkt å drepe sin onkel. Hvordan kan han våre så uberørt av nattens hendelser? </itunes:summary>
+      <itunes:duration>2146</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tzLc1ymtQDbTKmbXQfySrQbEU4y7JyTFbWqF2cQnuCcA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rottejakten</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_374d68b5-043f-41b4-8d68-b5043fc1b4df</link>
+      <description>Njål drikker seg full og oppfører seg rabiat. Har mannen fra Haiti laget det blodtilsmurte voodoo-offerstedet i hagen til Njåls familie? Og var det giftig innhold i konvolutten Mons Gram aldri fikk? Kjell skjønner han må be privatdetektiven Oberon Qvist om hjelp.</description>
+      <guid isPermaLink="false">l_374d68b5-043f-41b4-8d68-b5043fc1b4df</guid>
+      <pubDate>Sat, 13 Apr 2019 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/radioteatrets_paaskekrim_2019-04-11_1029_2476.MP3" type="audio/mpeg" length="70378160"></enclosure>
+      <itunes:title>Rottejakten</itunes:title>
+      <itunes:summary>Njål drikker seg full og oppfører seg rabiat. Har mannen fra Haiti laget det blodtilsmurte voodoo-offerstedet i hagen til Njåls familie? Og var det giftig innhold i konvolutten Mons Gram aldri fikk? Kjell skjønner han må be privatdetektiven Oberon Qvist om hjelp.</itunes:summary>
+      <itunes:duration>2928</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tzLc1ymtQDbTKmbXQfySrQbEU4y7JyTFbWqF2cQnuCcA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>De døde reiser under jorden</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_ce6118ce-2bad-4fc3-a118-ce2bad2fc3f8</link>
+      <description>Studenten Njål drar hjem til farens begravelse, men føler noe er galt. Så får han en SMS fra faren som er begravet hvor det står: Jeg ble myrdet. Skal han kontakte politiet? </description>
+      <guid isPermaLink="false">l_ce6118ce-2bad-4fc3-a118-ce2bad2fc3f8</guid>
+      <pubDate>Sat, 13 Apr 2019 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/radioteatrets_paaskekrim_2019-04-11_1010_766.MP3" type="audio/mpeg" length="60058098"></enclosure>
+      <itunes:title>De døde reiser under jorden</itunes:title>
+      <itunes:summary>Studenten Njål drar hjem til farens begravelse, men føler noe er galt. Så får han en SMS fra faren som er begravet hvor det står: Jeg ble myrdet. Skal han kontakte politiet? </itunes:summary>
+      <itunes:duration>2498</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tzLc1ymtQDbTKmbXQfySrQbEU4y7JyTFbWqF2cQnuCcA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En våt grav</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_36aac78d-023f-460a-aac7-8d023f260a7e</link>
+      <description>Wolff overlever et opphold i skrekkens hus, men føler at han går fra asken til ilden da han stifter bekjentskap med et av okkupasjonstidens mest utspekulerte torturinstrumenter. Her finner han ut hvorfor de druknede har oppklorte fingerer. Og, ikke minst, han løser gåten som startet med mannen i tønnen. </description>
+      <guid isPermaLink="false">l_36aac78d-023f-460a-aac7-8d023f260a7e</guid>
+      <pubDate>Mon, 19 Mar 2018 04:09:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/radioteatrets_paaskekrim_2018-03-19_0306_3191.MP3" type="audio/mpeg" length="50432058"></enclosure>
+      <itunes:title>En våt grav</itunes:title>
+      <itunes:summary>Wolff overlever et opphold i skrekkens hus, men føler at han går fra asken til ilden da han stifter bekjentskap med et av okkupasjonstidens mest utspekulerte torturinstrumenter. Her finner han ut hvorfor de druknede har oppklorte fingerer. Og, ikke minst, han løser gåten som startet med mannen i tønnen. </itunes:summary>
+      <itunes:duration>2097</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HMiAjL9pHJZsQVvwF1onUw_pJlaJXSGS3n94z6Vnp4Ew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Innlagt på ubestemt tid</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_292d9152-22c2-44a7-ad91-5222c2f4a7a5</link>
+      <description>Et mistenkelig dødsfall rammer en av brevmottakerne. Wolff reiser på et hjembesøk med ladd pistol i lommen. Enda et lik trekkes opp av elva med oppklorte fingrer, og Wolff får blackout og våkner opp som fange og i hjelpeløs tilstand. </description>
+      <guid isPermaLink="false">l_292d9152-22c2-44a7-ad91-5222c2f4a7a5</guid>
+      <pubDate>Mon, 19 Mar 2018 04:06:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/radioteatrets_paaskekrim_2018-03-16_0304_3346.MP3" type="audio/mpeg" length="49615169"></enclosure>
+      <itunes:title>Innlagt på ubestemt tid</itunes:title>
+      <itunes:summary>Et mistenkelig dødsfall rammer en av brevmottakerne. Wolff reiser på et hjembesøk med ladd pistol i lommen. Enda et lik trekkes opp av elva med oppklorte fingrer, og Wolff får blackout og våkner opp som fange og i hjelpeløs tilstand. </itunes:summary>
+      <itunes:duration>2063</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HMiAjL9pHJZsQVvwF1onUw_pJlaJXSGS3n94z6Vnp4Ew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>En hemmelig verden</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_2f046e6b-e4cb-4ae7-846e-6be4cb2ae7db</link>
+      <description>To innbrudd. Ett som slår feil og bringer Wolff en anmeldelse på nakken, og ett som gir ham viktige spor å følge. Ulla forteller om en druknet mann med fingrene oppklort inntil beinet, og Wolff får en mystisk forfølger.</description>
+      <guid isPermaLink="false">l_2f046e6b-e4cb-4ae7-846e-6be4cb2ae7db</guid>
+      <pubDate>Mon, 19 Mar 2018 04:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/radioteatrets_paaskekrim_2018-03-19_0300_215.MP3" type="audio/mpeg" length="52400028"></enclosure>
+      <itunes:title>En hemmelig verden</itunes:title>
+      <itunes:summary>To innbrudd. Ett som slår feil og bringer Wolff en anmeldelse på nakken, og ett som gir ham viktige spor å følge. Ulla forteller om en druknet mann med fingrene oppklort inntil beinet, og Wolff får en mystisk forfølger.</itunes:summary>
+      <itunes:duration>2179</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HMiAjL9pHJZsQVvwF1onUw_pJlaJXSGS3n94z6Vnp4Ew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Til den rette</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_92dc1777-fd1e-42b1-9c17-77fd1eb2b1c9</link>
+      <description>En brutal slåsskamp, en ung jente forsvinner, og Wolff skaffer seg nådeløse fiender med store motorsykler. Politietterforsker Ulla Stevenson kobles på saken, men hun er ikke overvettes begeistret over Wolffs innblanding.&#xA;</description>
+      <guid isPermaLink="false">l_92dc1777-fd1e-42b1-9c17-77fd1eb2b1c9</guid>
+      <pubDate>Mon, 19 Mar 2018 04:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/radioteatrets_paaskekrim_2018-03-16_1246_768.MP3" type="audio/mpeg" length="57322123"></enclosure>
+      <itunes:title>Til den rette</itunes:title>
+      <itunes:summary>En brutal slåsskamp, en ung jente forsvinner, og Wolff skaffer seg nådeløse fiender med store motorsykler. Politietterforsker Ulla Stevenson kobles på saken, men hun er ikke overvettes begeistret over Wolffs innblanding.&#xA;</itunes:summary>
+      <itunes:duration>2384</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HMiAjL9pHJZsQVvwF1onUw_pJlaJXSGS3n94z6Vnp4Ew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ingen rettferdighet for sånne som oss</title>
+      <link>https://radio.nrk.no/podkast/radioteatrets_paaskekrim/l_8c79a4f7-be1e-4bb9-b9a4-f7be1e8bb999</link>
+      <description>En mann begår selvmord ved å sprenge seg selv i luften. Han har på forhånd invitert femten personer til å overvære seansen, fordi han mener at det er deres skyld. Men de inviterte kjenner ikke hverandre og vet heller ikke hvem selvmorderen er. Nicolay Wolff, som er blant de inviterte, tenker at noe må knytte dem sammen, og bestemmer seg for å finne ut hva det er. Men mørke krefter vil noe annet.   </description>
+      <guid isPermaLink="false">l_8c79a4f7-be1e-4bb9-b9a4-f7be1e8bb999</guid>
+      <pubDate>Mon, 19 Mar 2018 04:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radioteatrets_paaskekrim/radioteatrets_paaskekrim_2018-03-16_1239_760.MP3" type="audio/mpeg" length="54297788"></enclosure>
+      <itunes:title>Ingen rettferdighet for sånne som oss</itunes:title>
+      <itunes:summary>En mann begår selvmord ved å sprenge seg selv i luften. Han har på forhånd invitert femten personer til å overvære seansen, fordi han mener at det er deres skyld. Men de inviterte kjenner ikke hverandre og vet heller ikke hvem selvmorderen er. Nicolay Wolff, som er blant de inviterte, tenker at noe må knytte dem sammen, og bestemmer seg for å finne ut hva det er. Men mørke krefter vil noe annet.   </itunes:summary>
+      <itunes:duration>2258</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HMiAjL9pHJZsQVvwF1onUw_pJlaJXSGS3n94z6Vnp4Ew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

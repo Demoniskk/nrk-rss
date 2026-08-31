@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dilemmaklemma</title>
+    <link>https://radio.nrk.no/podkast/dilemmaklemma</link>
+    <description>Kva er eigentleg verst: Synge alt du seier eller alltid ha med seg fiskestong? Barn diskuterer vanskelege, morosame og absurde dilemma!</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 10 Jun 2022 04:06:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dilemmaklemma.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Kva er eigentleg verst: Synge alt du seier eller alltid ha med seg fiskestong? Barn diskuterer vanskelege, morosame og absurde dilemma!</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/OMkIlMzAoX4VdYsJtAr64QmFyTMdwHnoDg9A1UWWgYiw"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/OMkIlMzAoX4VdYsJtAr64QmFyTMdwHnoDg9A1UWWgYiw</url>
+      <title>Dilemmaklemma</title>
+      <link>https://radio.nrk.no/podkast/dilemmaklemma</link>
+    </image>
+    <item>
+      <title>Banan med skal på eller is med papir på? (7:7)</title>
+      <link>https://radio.nrk.no/podkast/dilemmaklemma/l_8ccca1b3-349e-4da1-8ca1-b3349e1da17b</link>
+      <description>Lurer du på kva som er verst av å bade i bæsj eller sniglar? Reidar, Gabriel og Elida hjelper deg med akkurat det!</description>
+      <guid isPermaLink="false">l_8ccca1b3-349e-4da1-8ca1-b3349e1da17b</guid>
+      <pubDate>Fri, 10 Jun 2022 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dilemmaklemma/bbae5d4a-882e-43ce-b6dd-23208a5b6276_0_ID192MP3.mp3" type="audio/mpeg" length="8780013"></enclosure>
+      <itunes:title>Banan med skal på eller is med papir på? (7:7)</itunes:title>
+      <itunes:summary>Lurer du på kva som er verst av å bade i bæsj eller sniglar? Reidar, Gabriel og Elida hjelper deg med akkurat det!</itunes:summary>
+      <itunes:duration>365</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OMkIlMzAoX4VdYsJtAr64QmFyTMdwHnoDg9A1UWWgYiw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Alt du ønsker deg eller fred på jord? (6:7)</title>
+      <link>https://radio.nrk.no/podkast/dilemmaklemma/l_fd4b02c3-ee38-46f0-8b02-c3ee38c6f04e</link>
+      <description>Denne gongen må Oliver Leander, Ida og Victoria sjå føre seg ei seng av meitemark! Det blir ekkelt.</description>
+      <guid isPermaLink="false">l_fd4b02c3-ee38-46f0-8b02-c3ee38c6f04e</guid>
+      <pubDate>Fri, 10 Jun 2022 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dilemmaklemma/4a8c1eae-162d-44cb-8b71-2be7f05336d2_0_ID192MP3.mp3" type="audio/mpeg" length="8665389"></enclosure>
+      <itunes:title>Alt du ønsker deg eller fred på jord? (6:7)</itunes:title>
+      <itunes:summary>Denne gongen må Oliver Leander, Ida og Victoria sjå føre seg ei seng av meitemark! Det blir ekkelt.</itunes:summary>
+      <itunes:duration>361</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OMkIlMzAoX4VdYsJtAr64QmFyTMdwHnoDg9A1UWWgYiw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Alltid hikke eller alltid prompe? (5:7)</title>
+      <link>https://radio.nrk.no/podkast/dilemmaklemma/l_2532c9aa-5fd3-4622-b2c9-aa5fd3062276</link>
+      <description>Elida, Gabriel og Reidar diskuterer vanskelege og ekle dilemma. Klarer dei å bli einige om det er best å alltid hikke eller alltid prompe? </description>
+      <guid isPermaLink="false">l_2532c9aa-5fd3-4622-b2c9-aa5fd3062276</guid>
+      <pubDate>Fri, 10 Jun 2022 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dilemmaklemma/19c02b00-b97d-471a-8997-aea01e1d550e_0_ID192MP3.mp3" type="audio/mpeg" length="9799533"></enclosure>
+      <itunes:title>Alltid hikke eller alltid prompe? (5:7)</itunes:title>
+      <itunes:summary>Elida, Gabriel og Reidar diskuterer vanskelege og ekle dilemma. Klarer dei å bli einige om det er best å alltid hikke eller alltid prompe? </itunes:summary>
+      <itunes:duration>408</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OMkIlMzAoX4VdYsJtAr64QmFyTMdwHnoDg9A1UWWgYiw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gifte seg i morgon eller aldri gifte seg? (4:7)</title>
+      <link>https://radio.nrk.no/podkast/dilemmaklemma/l_42f2530a-be9c-4755-b253-0abe9cf7553a</link>
+      <description>Oliver Leander, Ida og Victoria blir ikkje heilt einige om kva som er best: Springe naken gjennom klasserommet eller få ei flis i fingeren.</description>
+      <guid isPermaLink="false">l_42f2530a-be9c-4755-b253-0abe9cf7553a</guid>
+      <pubDate>Fri, 10 Jun 2022 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dilemmaklemma/fd7e4787-4be6-4a9a-bfac-7eb116595f87_0_ID192MP3.mp3" type="audio/mpeg" length="9629037"></enclosure>
+      <itunes:title>Gifte seg i morgon eller aldri gifte seg? (4:7)</itunes:title>
+      <itunes:summary>Oliver Leander, Ida og Victoria blir ikkje heilt einige om kva som er best: Springe naken gjennom klasserommet eller få ei flis i fingeren.</itunes:summary>
+      <itunes:duration>401</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OMkIlMzAoX4VdYsJtAr64QmFyTMdwHnoDg9A1UWWgYiw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Masse ketchup eller litt sand på maten? (3:7)</title>
+      <link>https://radio.nrk.no/podkast/dilemmaklemma/l_75cfd114-4fd4-409f-8fd1-144fd4309f1c</link>
+      <description>Det blir mange omsyn å ta når Elida, Gabriel og Reidar blant anna må velje om dei alltid skal sove når dei høyrer namnet sitt!</description>
+      <guid isPermaLink="false">l_75cfd114-4fd4-409f-8fd1-144fd4309f1c</guid>
+      <pubDate>Fri, 10 Jun 2022 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dilemmaklemma/fdfce50c-395d-4c42-9ac2-cc52fc1c5614_0_ID192MP3.mp3" type="audio/mpeg" length="8499501"></enclosure>
+      <itunes:title>Masse ketchup eller litt sand på maten? (3:7)</itunes:title>
+      <itunes:summary>Det blir mange omsyn å ta når Elida, Gabriel og Reidar blant anna må velje om dei alltid skal sove når dei høyrer namnet sitt!</itunes:summary>
+      <itunes:duration>354</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OMkIlMzAoX4VdYsJtAr64QmFyTMdwHnoDg9A1UWWgYiw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ingen tenner eller ingen fingrar? (2:7)</title>
+      <link>https://radio.nrk.no/podkast/dilemmaklemma/l_4c5a1f12-d93c-4e8a-9a1f-12d93cce8a5a</link>
+      <description>Victoria, Ida og Oliver Leander prøver å velje mellom vanskelege dilemma. Kva kan vere verdt å gå ekstra lenge på skulen for?</description>
+      <guid isPermaLink="false">l_4c5a1f12-d93c-4e8a-9a1f-12d93cce8a5a</guid>
+      <pubDate>Fri, 10 Jun 2022 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dilemmaklemma/f88aa47f-612e-4f9e-996a-f56458b067fd_0_ID192MP3.mp3" type="audio/mpeg" length="9532269"></enclosure>
+      <itunes:title>Ingen tenner eller ingen fingrar? (2:7)</itunes:title>
+      <itunes:summary>Victoria, Ida og Oliver Leander prøver å velje mellom vanskelege dilemma. Kva kan vere verdt å gå ekstra lenge på skulen for?</itunes:summary>
+      <itunes:duration>397</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OMkIlMzAoX4VdYsJtAr64QmFyTMdwHnoDg9A1UWWgYiw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Reise hundre år fram eller tilbake i tid? (1:7)</title>
+      <link>https://radio.nrk.no/podkast/dilemmaklemma/l_b714fdb1-3d3b-4bd4-94fd-b13d3b1bd477</link>
+      <description>Gabriel, Reidar og Elida diskuterer vanskelege, morosame og absurde dilemma. Kva hadde du valt?</description>
+      <guid isPermaLink="false">l_b714fdb1-3d3b-4bd4-94fd-b13d3b1bd477</guid>
+      <pubDate>Fri, 10 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dilemmaklemma/35861d78-9992-48d4-bd34-8f576fe8ab58_0_ID192MP3.mp3" type="audio/mpeg" length="9078381"></enclosure>
+      <itunes:title>Reise hundre år fram eller tilbake i tid? (1:7)</itunes:title>
+      <itunes:summary>Gabriel, Reidar og Elida diskuterer vanskelege, morosame og absurde dilemma. Kva hadde du valt?</itunes:summary>
+      <itunes:duration>378</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OMkIlMzAoX4VdYsJtAr64QmFyTMdwHnoDg9A1UWWgYiw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musikk fra NRK Super</title>
+    <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super</link>
+    <description>Hør NRK Super sine beste sanger!</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 14 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/musikk_fra_nrk_super.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Hør NRK Super sine beste sanger!</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/MVL3ZhlYtM7CuXQ_giFXmAfd8TLVlIZ31mbz0Rj0KQ3Q"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/MVL3ZhlYtM7CuXQ_giFXmAfd8TLVlIZ31mbz0Rj0KQ3Q</url>
+      <title>Musikk fra NRK Super</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super</link>
+    </image>
+    <item>
+      <title>Dyredilla</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_67c5ba4a-348f-47f3-85ba-4a348f07f38c</link>
+      <description>Er du glad i dyr og liker å le? Da er Dyredilla rette sted.</description>
+      <guid isPermaLink="false">l_67c5ba4a-348f-47f3-85ba-4a348f07f38c</guid>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/67c5ba4a-348f-47f3-85ba-4a348f07f38c_2_ID192MP3.mp3" type="audio/mpeg" length="4409900"></enclosure>
+      <itunes:title>Dyredilla</itunes:title>
+      <itunes:summary>Er du glad i dyr og liker å le? Da er Dyredilla rette sted.</itunes:summary>
+      <itunes:duration>183</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uXgpWmiLuNzZyWwwfRoiNA4ADlluvfkWP-tZBYHAelnQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vi er kule og vi er rare</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_bbab83f6-5f1f-4b0c-ab83-f65f1f0b0cf5</link>
+      <description>Fantorangen og Pivi har laget en rap-sang du garantert vil få på hjernen.</description>
+      <guid isPermaLink="false">l_bbab83f6-5f1f-4b0c-ab83-f65f1f0b0cf5</guid>
+      <pubDate>Fri, 03 Jul 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/bbab83f6-5f1f-4b0c-ab83-f65f1f0b0cf5_1_ID192MP3.mp3" type="audio/mpeg" length="2996972"></enclosure>
+      <itunes:title>Vi er kule og vi er rare</itunes:title>
+      <itunes:summary>Fantorangen og Pivi har laget en rap-sang du garantert vil få på hjernen.</itunes:summary>
+      <itunes:duration>124</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Td0ZtVWLKURrGS56Yl_kQg99EwxyFsWLELt9FxPcrxxA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Disko under vann</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_e92c08a3-ae1b-4e25-ac08-a3ae1bae2548</link>
+      <description>Fantorangen og Pivi har dansefest under vann.</description>
+      <guid isPermaLink="false">l_e92c08a3-ae1b-4e25-ac08-a3ae1bae2548</guid>
+      <pubDate>Fri, 26 Jun 2026 06:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/e92c08a3-ae1b-4e25-ac08-a3ae1bae2548_1_ID192MP3.mp3" type="audio/mpeg" length="2507948"></enclosure>
+      <itunes:title>Disko under vann</itunes:title>
+      <itunes:summary>Fantorangen og Pivi har dansefest under vann.</itunes:summary>
+      <itunes:duration>104</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zS7ro9dnZ60UaOQT9j_LRg0ibv825KoLXj2jyi3EHXVA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ferie er snabelbra</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_02982596-cec6-4644-9825-96cec606443a</link>
+      <description>Fantorangen, Pivi og Fantus koser seg på campingferie.</description>
+      <guid isPermaLink="false">l_02982596-cec6-4644-9825-96cec606443a</guid>
+      <pubDate>Fri, 26 Jun 2026 06:07:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/02982596-cec6-4644-9825-96cec606443a_1_ID192MP3.mp3" type="audio/mpeg" length="3003308"></enclosure>
+      <itunes:title>Ferie er snabelbra</itunes:title>
+      <itunes:summary>Fantorangen, Pivi og Fantus koser seg på campingferie.</itunes:summary>
+      <itunes:duration>125</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I_R_TEkO1wzGX5cvPf8-8w-4D_qd5iSErz0djO9BgOqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bursdagsdansen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_948a40ae-8e7c-430a-8a40-ae8e7c230ac7</link>
+      <description>Fantorangen, Pivi og Fantus lager bursdagsfest.</description>
+      <guid isPermaLink="false">l_948a40ae-8e7c-430a-8a40-ae8e7c230ac7</guid>
+      <pubDate>Fri, 26 Jun 2026 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/948a40ae-8e7c-430a-8a40-ae8e7c230ac7_1_ID192MP3.mp3" type="audio/mpeg" length="2909420"></enclosure>
+      <itunes:title>Bursdagsdansen</itunes:title>
+      <itunes:summary>Fantorangen, Pivi og Fantus lager bursdagsfest.</itunes:summary>
+      <itunes:duration>121</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/DeGXtSkZenMyO5WskZqQkw7xwToOWRtETur_pd1e7U2Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bæsjesangen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_7733df85-6d87-4e44-b3df-856d876e44cb</link>
+      <description>Alle bæsjer! Til og med Fantorangen.</description>
+      <guid isPermaLink="false">l_7733df85-6d87-4e44-b3df-856d876e44cb</guid>
+      <pubDate>Fri, 26 Jun 2026 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/7733df85-6d87-4e44-b3df-856d876e44cb_1_ID192MP3.mp3" type="audio/mpeg" length="2055788"></enclosure>
+      <itunes:title>Bæsjesangen</itunes:title>
+      <itunes:summary>Alle bæsjer! Til og med Fantorangen.</itunes:summary>
+      <itunes:duration>85</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1YuoTQRbsddZ_U-hlZR5tA_pDVim2W5uUT_TcsNbbudQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fantorangens bokstavsang</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_5ce6d003-5fa6-4a4d-a6d0-035fa63a4dde</link>
+      <description>Fantorangen øver på bokstavene.</description>
+      <guid isPermaLink="false">l_5ce6d003-5fa6-4a4d-a6d0-035fa63a4dde</guid>
+      <pubDate>Fri, 26 Jun 2026 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/5ce6d003-5fa6-4a4d-a6d0-035fa63a4dde_1_ID192MP3.mp3" type="audio/mpeg" length="2805740"></enclosure>
+      <itunes:title>Fantorangens bokstavsang</itunes:title>
+      <itunes:summary>Fantorangen øver på bokstavene.</itunes:summary>
+      <itunes:duration>116</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Gp6OzT6Glim8mx1gl3mkSwD58z9Di-aJq6QFDQEitVGg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Tallsangen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_5e1b5f7f-abe9-4c8a-9b5f-7fabe9bc8a9f</link>
+      <description>Lær å telle med Fantorangens og Pivis tallsang</description>
+      <guid isPermaLink="false">l_5e1b5f7f-abe9-4c8a-9b5f-7fabe9bc8a9f</guid>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/5e1b5f7f-abe9-4c8a-9b5f-7fabe9bc8a9f_1_ID192MP3.mp3" type="audio/mpeg" length="3225068"></enclosure>
+      <itunes:title>Tallsangen</itunes:title>
+      <itunes:summary>Lær å telle med Fantorangens og Pivis tallsang</itunes:summary>
+      <itunes:duration>134</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EkIO-cmF-FbPsdvMWAmQMA76HkzMLc2XFC8XDHbg9o-Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! – Her for deg/Lean álo dás – 2026</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_c9f8e827-5d7f-4203-b8e8-275d7fa20397</link>
+      <description>Viljar &amp; Máijá med BlimE!-sangen 2026.</description>
+      <guid isPermaLink="false">l_c9f8e827-5d7f-4203-b8e8-275d7fa20397</guid>
+      <pubDate>Wed, 22 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c9f8e827-5d7f-4203-b8e8-275d7fa20397_1_ID192MP3.mp3" type="audio/mpeg" length="4453676"></enclosure>
+      <itunes:title>BlimE! – Her for deg/Lean álo dás – 2026</itunes:title>
+      <itunes:summary>Viljar &amp; Máijá med BlimE!-sangen 2026.</itunes:summary>
+      <itunes:duration>185</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SA9FNaYKtqu8_5ou0wSdDAq6gBE02kusEXj1Pe0K9q3A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Være med - 2025</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_ee431198-066e-4814-8311-98066e98148b</link>
+      <description>Matoma &amp; Agnete Saba med BlimE!-sangen 2025.</description>
+      <guid isPermaLink="false">l_ee431198-066e-4814-8311-98066e98148b</guid>
+      <pubDate>Fri, 06 Jun 2025 12:44:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/7dd23ae9-c5ac-476e-aafc-6b68eb1ebd5a_0_ID192MP3.mp3" type="audio/mpeg" length="4135149"></enclosure>
+      <itunes:title>BlimE! - Være med - 2025</itunes:title>
+      <itunes:summary>Matoma &amp; Agnete Saba med BlimE!-sangen 2025.</itunes:summary>
+      <itunes:duration>172</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WVY2KGVjpZH3Q-Z9d3XPDwz-cdFXDEp-GIqS5LLg1oSA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Vuolgge mielde - 2025</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_fa806399-ff18-477c-8063-99ff18577c15</link>
+      <description>Matoma og Agnete Saba med den samiske BlimE!-låta 2025.</description>
+      <guid isPermaLink="false">l_fa806399-ff18-477c-8063-99ff18577c15</guid>
+      <pubDate>Fri, 06 Jun 2025 12:42:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/149673cd-d880-4a5b-a1e6-7ae3ebb575da_0_ID192MP3.mp3" type="audio/mpeg" length="4034349"></enclosure>
+      <itunes:title>BlimE! - Vuolgge mielde - 2025</itunes:title>
+      <itunes:summary>Matoma og Agnete Saba med den samiske BlimE!-låta 2025.</itunes:summary>
+      <itunes:duration>168</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xNgIYouxw_gVMMcgYcOqUA1JKR7SjAa5LgadrqSthfwg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Ferdig snakka - 2024</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_227c72ee-f0d8-477e-bc72-eef0d8877e3e</link>
+      <description>Ane Norum Kvistad synger BlimE-låta 2024.</description>
+      <guid isPermaLink="false">l_227c72ee-f0d8-477e-bc72-eef0d8877e3e</guid>
+      <pubDate>Fri, 06 Jun 2025 12:22:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/3afc134e-7699-4b68-bb44-b5dd678307b1_0_ID192MP3.mp3" type="audio/mpeg" length="3517101"></enclosure>
+      <itunes:title>BlimE! - Ferdig snakka - 2024</itunes:title>
+      <itunes:summary>Ane Norum Kvistad synger BlimE-låta 2024.</itunes:summary>
+      <itunes:duration>146</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p7nsQmVxUdACxb5VCHpydATJjZXVIdbOMVvaoLGJH_PQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Jupptsagárre - 2024</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_5b7c58fd-7e42-4e02-bc58-fd7e426e0254</link>
+      <description>Ailo Thomassen synger den samiske BlimE!-sangen 2024.</description>
+      <guid isPermaLink="false">l_5b7c58fd-7e42-4e02-bc58-fd7e426e0254</guid>
+      <pubDate>Fri, 06 Jun 2025 12:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c3f85372-0657-4c96-b176-80a7667efbe6_0_ID192MP3.mp3" type="audio/mpeg" length="3475629"></enclosure>
+      <itunes:title>BlimE! - Jupptsagárre - 2024</itunes:title>
+      <itunes:summary>Ailo Thomassen synger den samiske BlimE!-sangen 2024.</itunes:summary>
+      <itunes:duration>144</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MoudSTtlZATjd3ux_47IzgBCRFlQzK5K-g-Q6YfCPy0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Sveve høyt - 2023</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_ff643c27-b82e-44bd-a43c-27b82e34bd5f</link>
+      <description>Martin Lilleberg synger BlimE!-låta 2023.</description>
+      <guid isPermaLink="false">l_ff643c27-b82e-44bd-a43c-27b82e34bd5f</guid>
+      <pubDate>Fri, 06 Jun 2025 12:19:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/bb348ac5-9ae5-4d18-8376-99dcc0723ede_0_ID192MP3.mp3" type="audio/mpeg" length="4591917"></enclosure>
+      <itunes:title>BlimE! - Sveve høyt - 2023</itunes:title>
+      <itunes:summary>Martin Lilleberg synger BlimE!-låta 2023.</itunes:summary>
+      <itunes:duration>191</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yKGM7Zze0OAGvY97EmSIYgO7sgmhxs_ddskPfPw1L-Gg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Moai Girde - 2023</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_946c676b-a47f-4ca1-ac67-6ba47faca1ef</link>
+      <description>Ánde synger den samiske BlimE!-låta 2023.</description>
+      <guid isPermaLink="false">l_946c676b-a47f-4ca1-ac67-6ba47faca1ef</guid>
+      <pubDate>Fri, 06 Jun 2025 12:17:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/f74fb87b-38fe-4e73-bf78-072844b560a3_0_ID192MP3.mp3" type="audio/mpeg" length="4621869"></enclosure>
+      <itunes:title>BlimE! - Moai Girde - 2023</itunes:title>
+      <itunes:summary>Ánde synger den samiske BlimE!-låta 2023.</itunes:summary>
+      <itunes:duration>192</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/W-C3zJCCybDi9L4KLldHvQ0lFoZsocAS43d5fN7VUqQw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Den Ene - 2022</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_20d01c71-6712-4ee3-901c-7167122ee3ad</link>
+      <description>Selma synger BlimE!-sangen 2022.</description>
+      <guid isPermaLink="false">l_20d01c71-6712-4ee3-901c-7167122ee3ad</guid>
+      <pubDate>Fri, 06 Jun 2025 12:16:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/b56a8b6d-c79b-4325-85f1-60a8ea12b675_0_ID192MP3.mp3" type="audio/mpeg" length="4813101"></enclosure>
+      <itunes:title>BlimE! - Den Ene - 2022</itunes:title>
+      <itunes:summary>Selma synger BlimE!-sangen 2022.</itunes:summary>
+      <itunes:duration>200</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/P0UEZ2gSY4yUeanRbHyyFgbUi9D49eqbYVtZ4q-i0v7Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Boerehke - 2022</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_fe79528f-31f3-437e-b952-8f31f3337ea0</link>
+      <description>Åvla synger BlimE!-låta 2022.</description>
+      <guid isPermaLink="false">l_fe79528f-31f3-437e-b952-8f31f3337ea0</guid>
+      <pubDate>Fri, 06 Jun 2025 12:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/ccbe9042-0b70-4301-8320-d530ad83a5e9_0_ID192MP3.mp3" type="audio/mpeg" length="4793517"></enclosure>
+      <itunes:title>BlimE! - Boerehke - 2022</itunes:title>
+      <itunes:summary>Åvla synger BlimE!-låta 2022.</itunes:summary>
+      <itunes:duration>199</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4hQ2512fLJ-m4Kux-vsS_QcQP82V37rr1uZJFnk-LIIw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Dynamitt - 2021</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_2a2d7975-67b3-48e2-ad79-7567b3c8e2ba</link>
+      <description>Nicolay Ramm synger BlimE!-sangen 2021.</description>
+      <guid isPermaLink="false">l_2a2d7975-67b3-48e2-ad79-7567b3c8e2ba</guid>
+      <pubDate>Fri, 06 Jun 2025 12:13:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/4a8cabe3-12cd-40a7-be3b-9f4831145c66_0_ID192MP3.mp3" type="audio/mpeg" length="4074669"></enclosure>
+      <itunes:title>BlimE! - Dynamitt - 2021</itunes:title>
+      <itunes:summary>Nicolay Ramm synger BlimE!-sangen 2021.</itunes:summary>
+      <itunes:duration>169</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/sLQSxg38SAJsbOFsNd7xawzRBbdXtAH3bnAJz8DJa8Pw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Bávkkanas - 2021</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_00cfd733-f5b5-44c9-8fd7-33f5b5b4c9be</link>
+      <description>Elin Oskal synger den samiske BlimE!-låta 2021.</description>
+      <guid isPermaLink="false">l_00cfd733-f5b5-44c9-8fd7-33f5b5b4c9be</guid>
+      <pubDate>Fri, 06 Jun 2025 12:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/bb727d3a-d3fc-451b-b2d2-5747731307ab_0_ID192MP3.mp3" type="audio/mpeg" length="4094829"></enclosure>
+      <itunes:title>BlimE! - Bávkkanas - 2021</itunes:title>
+      <itunes:summary>Elin Oskal synger den samiske BlimE!-låta 2021.</itunes:summary>
+      <itunes:duration>170</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3Uc0nLxtKsEdfhNio1XpOAF2hO_g_K7LEZWv3RtYRVJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Ser deg - 2020</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_d8d2e266-5ed9-41e0-92e2-665ed9b1e074</link>
+      <description>Victor Sotberg synger BlimE!-sangen fra 2020.</description>
+      <guid isPermaLink="false">l_d8d2e266-5ed9-41e0-92e2-665ed9b1e074</guid>
+      <pubDate>Fri, 06 Jun 2025 12:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/8fd2cbb4-ab49-429e-8de4-a2a64aef9d26_0_ID192MP3.mp3" type="audio/mpeg" length="4495149"></enclosure>
+      <itunes:title>BlimE! - Ser deg - 2020</itunes:title>
+      <itunes:summary>Victor Sotberg synger BlimE!-sangen fra 2020.</itunes:summary>
+      <itunes:duration>187</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9AzRtWqm7yMtVooz4dC-DQ08iePZEcbnwt-pfRkk_b6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Oainnán du - 2020</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_06ab4e9f-b11b-46a4-ab4e-9fb11b86a4c0</link>
+      <description>Vegard Bjørsmo synger den samiske BlimE!-sangen 2020.</description>
+      <guid isPermaLink="false">l_06ab4e9f-b11b-46a4-ab4e-9fb11b86a4c0</guid>
+      <pubDate>Fri, 06 Jun 2025 12:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/16fd3b67-bcc9-417c-bc30-e56ed1b746e5_0_ID192MP3.mp3" type="audio/mpeg" length="4470957"></enclosure>
+      <itunes:title>BlimE! - Oainnán du - 2020</itunes:title>
+      <itunes:summary>Vegard Bjørsmo synger den samiske BlimE!-sangen 2020.</itunes:summary>
+      <itunes:duration>186</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vjY6QY3EQtof7ztvskapHgDFNY6HqaorSwTpbFHF5nkw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Mer enn god nok - 2019</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_9c41f697-5bee-4a60-81f6-975beeda6078</link>
+      <description>Stina Talling fremfører BlimE!-låta fra 2019.</description>
+      <guid isPermaLink="false">l_9c41f697-5bee-4a60-81f6-975beeda6078</guid>
+      <pubDate>Fri, 06 Jun 2025 12:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c9da2228-204f-4c9a-8fb9-ecde24afa452_0_ID192MP3.mp3" type="audio/mpeg" length="4480749"></enclosure>
+      <itunes:title>BlimE! - Mer enn god nok - 2019</itunes:title>
+      <itunes:summary>Stina Talling fremfører BlimE!-låta fra 2019.</itunes:summary>
+      <itunes:duration>186</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/IQMg9b3XMC9pu0wTEgRi0AhlggC4Zu-pZF66HfMtu6PQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - 2018</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_c30d4162-b336-48a6-8d41-62b336c8a602</link>
+      <description>Freddy Kalas synger BlimE!-sangen fra 2018.</description>
+      <guid isPermaLink="false">l_c30d4162-b336-48a6-8d41-62b336c8a602</guid>
+      <pubDate>Fri, 06 Jun 2025 12:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/210495e6-64a0-4d97-90e1-e298c4159205_0_ID192MP3.mp3" type="audio/mpeg" length="5323437"></enclosure>
+      <itunes:title>BlimE! - 2018</itunes:title>
+      <itunes:summary>Freddy Kalas synger BlimE!-sangen fra 2018.</itunes:summary>
+      <itunes:duration>221</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-3E5HQaOKhfDYWN8YGHtMQkqIpvYTmNRJ0S9vseX2VOA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Venn -  2017</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_b36d0dee-bc95-48d6-ad0d-eebc95d8d6a9</link>
+      <description>TRXD ft. Ramón med BlimE!-låta fra 2017.</description>
+      <guid isPermaLink="false">l_b36d0dee-bc95-48d6-ad0d-eebc95d8d6a9</guid>
+      <pubDate>Fri, 06 Jun 2025 12:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/3685c5b2-ba8e-4fac-99c2-5cd87c8ec822_0_ID192MP3.mp3" type="audio/mpeg" length="4182957"></enclosure>
+      <itunes:title>BlimE! - Venn -  2017</itunes:title>
+      <itunes:summary>TRXD ft. Ramón med BlimE!-låta fra 2017.</itunes:summary>
+      <itunes:duration>174</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2Q_4XBh2MWV6e5nnTVX4kQEU1aND8o7XzQbFgSjdiW1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! -  Kom igjen &#39;a - 2016</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_bd313b9d-5f6b-44a1-b13b-9d5f6b84a16b</link>
+      <description>Madcon fremfører BlimE!-låta 2016.</description>
+      <guid isPermaLink="false">l_bd313b9d-5f6b-44a1-b13b-9d5f6b84a16b</guid>
+      <pubDate>Fri, 06 Jun 2025 12:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/0d19b956-d36f-4b65-9c9c-22ac584a8e09_0_ID192MP3.mp3" type="audio/mpeg" length="4544109"></enclosure>
+      <itunes:title>BlimE! -  Kom igjen &#39;a - 2016</itunes:title>
+      <itunes:summary>Madcon fremfører BlimE!-låta 2016.</itunes:summary>
+      <itunes:duration>189</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QFVgZNrq060IdIBZknR_Lgbt3kEn8BZMgt8wkwEMwUZA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE - Dilla på -  2015</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_51ae2ba6-eae9-4505-ae2b-a6eae99505e3</link>
+      <description>Raylee synger BlimE!-låta fra 2015.</description>
+      <guid isPermaLink="false">l_51ae2ba6-eae9-4505-ae2b-a6eae99505e3</guid>
+      <pubDate>Fri, 06 Jun 2025 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/16d9fdbe-80eb-4402-937e-9cc203e2ed93_0_ID192MP3.mp3" type="audio/mpeg" length="4770477"></enclosure>
+      <itunes:title>BlimE - Dilla på -  2015</itunes:title>
+      <itunes:summary>Raylee synger BlimE!-låta fra 2015.</itunes:summary>
+      <itunes:duration>198</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_XKUh_al36yYN306dBTpwFdj1VfMiEYKN3GtxNyR2Rw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - Ekte venner - 2014</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_5564927d-8fa2-4f13-a492-7d8fa2ef1345</link>
+      <description>Markus Bailey og Mathea-Mari med BlimE!-sangen 2014.</description>
+      <guid isPermaLink="false">l_5564927d-8fa2-4f13-a492-7d8fa2ef1345</guid>
+      <pubDate>Fri, 06 Jun 2025 11:58:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/ad202552-a770-4e9a-a2e7-0c2d1eb988e7_0_ID192MP3.mp3" type="audio/mpeg" length="4197357"></enclosure>
+      <itunes:title>BlimE! - Ekte venner - 2014</itunes:title>
+      <itunes:summary>Markus Bailey og Mathea-Mari med BlimE!-sangen 2014.</itunes:summary>
+      <itunes:duration>174</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JcRmy5WkcC95vIMr72jbqA_gl6S0K_dBKsQul94yApcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - 2013</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_31292837-5b14-46d8-a928-375b1466d80f</link>
+      <description>Kash King (Kashfa King Gashamura) med BlimE!-sangen 2013.</description>
+      <guid isPermaLink="false">l_31292837-5b14-46d8-a928-375b1466d80f</guid>
+      <pubDate>Fri, 06 Jun 2025 11:56:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c486206e-48ab-4114-8ab4-955f7a36aff7_0_ID192MP3.mp3" type="audio/mpeg" length="4157037"></enclosure>
+      <itunes:title>BlimE! - 2013</itunes:title>
+      <itunes:summary>Kash King (Kashfa King Gashamura) med BlimE!-sangen 2013.</itunes:summary>
+      <itunes:duration>173</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/blpX2-5P_sJYYp500aFisg7-mTC904iuQZ2zIgYTrsvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>BlimE! - 2011 og 2012</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_0d4e967f-e2ff-4764-8e96-7fe2ff47647a</link>
+      <description>Noah og Eline med BlimE!-sangen fra 2011 og 2012.</description>
+      <guid isPermaLink="false">l_0d4e967f-e2ff-4764-8e96-7fe2ff47647a</guid>
+      <pubDate>Fri, 06 Jun 2025 11:52:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/e78b7719-1254-49fd-afd3-47d3a442be42_0_ID192MP3.mp3" type="audio/mpeg" length="4184109"></enclosure>
+      <itunes:title>BlimE! - 2011 og 2012</itunes:title>
+      <itunes:summary>Noah og Eline med BlimE!-sangen fra 2011 og 2012.</itunes:summary>
+      <itunes:duration>174</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/00_RJ5Irc1HL4dS6E_FceA_Sn4iFjfVv4Ws0hhRe02zw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vi er jegere</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_eff347d3-b16d-417e-b347-d3b16d817edb</link>
+      <description>Visste du at edderkopper og øyenstikkere er fantastiske insektsjegere?</description>
+      <guid isPermaLink="false">l_eff347d3-b16d-417e-b347-d3b16d817edb</guid>
+      <pubDate>Mon, 14 Apr 2025 06:19:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/8b06c52e-b22f-4889-8a3f-e2442cee4712_0_ID192MP3.mp3" type="audio/mpeg" length="3926637"></enclosure>
+      <itunes:title>Vi er jegere</itunes:title>
+      <itunes:summary>Visste du at edderkopper og øyenstikkere er fantastiske insektsjegere?</itunes:summary>
+      <itunes:duration>163</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vi er mat</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_f56f23e2-ab56-465f-af23-e2ab56e65f1b</link>
+      <description>Visste du at mus og mygg er mat for mange andre dyr?</description>
+      <guid isPermaLink="false">l_f56f23e2-ab56-465f-af23-e2ab56e65f1b</guid>
+      <pubDate>Mon, 14 Apr 2025 06:18:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c51c3455-e29b-4407-8314-a4357a2c976a_0_ID192MP3.mp3" type="audio/mpeg" length="3040749"></enclosure>
+      <itunes:title>Vi er mat</itunes:title>
+      <itunes:summary>Visste du at mus og mygg er mat for mange andre dyr?</itunes:summary>
+      <itunes:duration>126</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fem små hjerter</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_fcc2d1ef-59ca-4f34-82d1-ef59ca1f3481</link>
+      <description>Visste du at meitemarken har fem hjerter? Og at meitemarken og flua rydder i naturen?</description>
+      <guid isPermaLink="false">l_fcc2d1ef-59ca-4f34-82d1-ef59ca1f3481</guid>
+      <pubDate>Mon, 14 Apr 2025 06:17:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/8a0ee0e2-4849-46d3-82cb-71bd104f0b9f_0_ID192MP3.mp3" type="audio/mpeg" length="3534957"></enclosure>
+      <itunes:title>Fem små hjerter</itunes:title>
+      <itunes:summary>Visste du at meitemarken har fem hjerter? Og at meitemarken og flua rydder i naturen?</itunes:summary>
+      <itunes:duration>147</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Familiedyr</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_883cf5bc-87f1-410b-bcf5-bc87f1d10bfa</link>
+      <description>Visste du at måsene og vepsene er familiedyr som passer veldig godt på familien sin?</description>
+      <guid isPermaLink="false">l_883cf5bc-87f1-410b-bcf5-bc87f1d10bfa</guid>
+      <pubDate>Mon, 14 Apr 2025 06:16:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/06df3cbe-b208-47d5-a215-20b65d0bf522_0_ID192MP3.mp3" type="audio/mpeg" length="3941037"></enclosure>
+      <itunes:title>Familiedyr</itunes:title>
+      <itunes:summary>Visste du at måsene og vepsene er familiedyr som passer veldig godt på familien sin?</itunes:summary>
+      <itunes:duration>164</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Småkryp</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_7e5e89aa-ff78-4887-9e89-aaff789887ab</link>
+      <description>Småkryp i naturen kan være irriterende, men er samtidig veldig viktige for oss alle.</description>
+      <guid isPermaLink="false">l_7e5e89aa-ff78-4887-9e89-aaff789887ab</guid>
+      <pubDate>Mon, 14 Apr 2025 06:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/a6eba479-feb6-451d-8119-5f669b7a55d4_0_ID192MP3.mp3" type="audio/mpeg" length="3843117"></enclosure>
+      <itunes:title>Småkryp</itunes:title>
+      <itunes:summary>Småkryp i naturen kan være irriterende, men er samtidig veldig viktige for oss alle.</itunes:summary>
+      <itunes:duration>160</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Oksygen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_175c192b-35fc-4d21-9c19-2b35fcdd21b2</link>
+      <description>Pust ut - pust inn, og kjenn hva kroppen gjør med kroppen din.  En sang om oksygen.</description>
+      <guid isPermaLink="false">l_175c192b-35fc-4d21-9c19-2b35fcdd21b2</guid>
+      <pubDate>Mon, 14 Apr 2025 06:14:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/f7a71da7-8fbb-4a6c-ae9e-3eecd5aa846e_0_ID192MP3.mp3" type="audio/mpeg" length="6717357"></enclosure>
+      <itunes:title>Oksygen</itunes:title>
+      <itunes:summary>Pust ut - pust inn, og kjenn hva kroppen gjør med kroppen din.  En sang om oksygen.</itunes:summary>
+      <itunes:duration>279</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Plast i havet</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_0464b1a9-4486-41d9-a4b1-a9448621d9a8</link>
+      <description>Det er for mye plast i havet. Nå skal vi rydde, nå skal vi få det bort.</description>
+      <guid isPermaLink="false">l_0464b1a9-4486-41d9-a4b1-a9448621d9a8</guid>
+      <pubDate>Mon, 14 Apr 2025 06:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/67aa163c-df0a-4ff1-a963-7919cef300c4_0_ID192MP3.mp3" type="audio/mpeg" length="2542509"></enclosure>
+      <itunes:title>Plast i havet</itunes:title>
+      <itunes:summary>Det er for mye plast i havet. Nå skal vi rydde, nå skal vi få det bort.</itunes:summary>
+      <itunes:duration>105</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Halloween</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_2ae9578e-b9ef-4451-a957-8eb9ef0451f2</link>
+      <description>Bli med og gå knask eller knep.</description>
+      <guid isPermaLink="false">l_2ae9578e-b9ef-4451-a957-8eb9ef0451f2</guid>
+      <pubDate>Mon, 14 Apr 2025 06:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/f68aef57-4185-4da8-9680-e791b14e0196_0_ID192MP3.mp3" type="audio/mpeg" length="3903597"></enclosure>
+      <itunes:title>Halloween</itunes:title>
+      <itunes:summary>Bli med og gå knask eller knep.</itunes:summary>
+      <itunes:duration>162</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Naturens beste venn</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_91b4f431-49ff-46b0-b4f4-3149ff76b08f</link>
+      <description>Man er aldri for liten til å gjøre noe stort og alle kan gjøre litt.</description>
+      <guid isPermaLink="false">l_91b4f431-49ff-46b0-b4f4-3149ff76b08f</guid>
+      <pubDate>Mon, 14 Apr 2025 06:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/418a05e3-2297-4ff9-b087-a832f61ef232_0_ID192MP3.mp3" type="audio/mpeg" length="3684141"></enclosure>
+      <itunes:title>Naturens beste venn</itunes:title>
+      <itunes:summary>Man er aldri for liten til å gjøre noe stort og alle kan gjøre litt.</itunes:summary>
+      <itunes:duration>153</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Planetpatruljen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_2f4f3d86-1d5d-44f0-8f3d-861d5d54f053</link>
+      <description>Man er aldri for liten til å gjøre noe stort og alle kan gjøre litt.</description>
+      <guid isPermaLink="false">l_2f4f3d86-1d5d-44f0-8f3d-861d5d54f053</guid>
+      <pubDate>Mon, 14 Apr 2025 06:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/2f5aab62-8b50-4511-9060-e584f7e05432_0_ID192MP3.mp3" type="audio/mpeg" length="2014317"></enclosure>
+      <itunes:title>Planetpatruljen</itunes:title>
+      <itunes:summary>Man er aldri for liten til å gjøre noe stort og alle kan gjøre litt.</itunes:summary>
+      <itunes:duration>83</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vinterdyr</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_933c83de-7ad0-4078-bc83-de7ad0707813</link>
+      <description>Hva gjør dyrene om vinteren?</description>
+      <guid isPermaLink="false">l_933c83de-7ad0-4078-bc83-de7ad0707813</guid>
+      <pubDate>Mon, 14 Apr 2025 06:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/446f8c28-f3bc-4601-a0fe-4320dc38eb6e_0_ID192MP3.mp3" type="audio/mpeg" length="4135149"></enclosure>
+      <itunes:title>Vinterdyr</itunes:title>
+      <itunes:summary>Hva gjør dyrene om vinteren?</itunes:summary>
+      <itunes:duration>172</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Naturen er for alle</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_cdb9d69c-3fff-4c48-b9d6-9c3fffcc4867</link>
+      <description>Visste du at naturen tilhører alle, ikke bare menneskene?</description>
+      <guid isPermaLink="false">l_cdb9d69c-3fff-4c48-b9d6-9c3fffcc4867</guid>
+      <pubDate>Mon, 14 Apr 2025 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/f300ed78-f1ef-4b0f-b9ca-b9e9a399814d_0_ID192MP3.mp3" type="audio/mpeg" length="3124269"></enclosure>
+      <itunes:title>Naturen er for alle</itunes:title>
+      <itunes:summary>Visste du at naturen tilhører alle, ikke bare menneskene?</itunes:summary>
+      <itunes:duration>130</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kom deg ut!</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_a9d3b73b-e66b-41cd-93b7-3be66b71cd83</link>
+      <description>Hva er verdens største lekeland?</description>
+      <guid isPermaLink="false">l_a9d3b73b-e66b-41cd-93b7-3be66b71cd83</guid>
+      <pubDate>Mon, 14 Apr 2025 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/597a6102-824b-49c6-a471-8d55b102a679_0_ID192MP3.mp3" type="audio/mpeg" length="3362157"></enclosure>
+      <itunes:title>Kom deg ut!</itunes:title>
+      <itunes:summary>Hva er verdens største lekeland?</itunes:summary>
+      <itunes:duration>140</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kildesortering</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_d5fbe339-4f45-4044-bbe3-394f453044fe</link>
+      <description>Kildesortering er viktig, og noe vi alle enkelt kan bidra med!</description>
+      <guid isPermaLink="false">l_d5fbe339-4f45-4044-bbe3-394f453044fe</guid>
+      <pubDate>Mon, 14 Apr 2025 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/7f1ed760-8f25-4cd0-a501-2bc9ee034ee5_0_ID192MP3.mp3" type="audio/mpeg" length="3379437"></enclosure>
+      <itunes:title>Kildesortering</itunes:title>
+      <itunes:summary>Kildesortering er viktig, og noe vi alle enkelt kan bidra med!</itunes:summary>
+      <itunes:duration>140</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Gave til en venn</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_4195ae8f-a339-453f-95ae-8fa339b53f29</link>
+      <description>En gave til en venn trenger ikke alltid være noe nytt du kjøper i butikken.</description>
+      <guid isPermaLink="false">l_4195ae8f-a339-453f-95ae-8fa339b53f29</guid>
+      <pubDate>Mon, 14 Apr 2025 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/3c9397c6-8762-43bb-86d9-a1ab147eb262_0_ID192MP3.mp3" type="audio/mpeg" length="3234861"></enclosure>
+      <itunes:title>Gave til en venn</itunes:title>
+      <itunes:summary>En gave til en venn trenger ikke alltid være noe nytt du kjøper i butikken.</itunes:summary>
+      <itunes:duration>134</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Det står om livet</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_7ddf1f32-5036-4f67-9f1f-3250363f672d</link>
+      <description>Man er aldri for liten til å gjøre noe stort og alle kan gjøre litt.</description>
+      <guid isPermaLink="false">l_7ddf1f32-5036-4f67-9f1f-3250363f672d</guid>
+      <pubDate>Mon, 14 Apr 2025 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/ea9890d3-1cb0-4af9-955f-11a3a24619d9_0_ID192MP3.mp3" type="audio/mpeg" length="4246317"></enclosure>
+      <itunes:title>Det står om livet</itunes:title>
+      <itunes:summary>Man er aldri for liten til å gjøre noe stort og alle kan gjøre litt.</itunes:summary>
+      <itunes:duration>176</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Spis oss, ikke kast oss</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_bdfb9812-448c-467a-bb98-12448cc67a62</link>
+      <description>Har du tenkt over at det er mye som burde spises før det kastes?</description>
+      <guid isPermaLink="false">l_bdfb9812-448c-467a-bb98-12448cc67a62</guid>
+      <pubDate>Mon, 14 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/f151117f-ea50-4341-a92d-d1b04799ddfc_0_ID192MP3.mp3" type="audio/mpeg" length="3272301"></enclosure>
+      <itunes:title>Spis oss, ikke kast oss</itunes:title>
+      <itunes:summary>Har du tenkt over at det er mye som burde spises før det kastes?</itunes:summary>
+      <itunes:duration>136</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/S_2v4c7SGTca-BVldT7dMgn1Rf6DkCT7ayLVo_XfqqdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Snibel Snabel</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_b34a81e1-a911-4824-8a81-e1a9118824e2</link>
+      <description>Vær like snibel, snabel, snubel glad som Fantorangen.</description>
+      <guid isPermaLink="false">l_b34a81e1-a911-4824-8a81-e1a9118824e2</guid>
+      <pubDate>Fri, 11 Apr 2025 06:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/cffc1a1d-fbbf-4a10-a62b-019749cc50bc_0_ID192MP3.mp3" type="audio/mpeg" length="2044269"></enclosure>
+      <itunes:title>Snibel Snabel</itunes:title>
+      <itunes:summary>Vær like snibel, snabel, snubel glad som Fantorangen.</itunes:summary>
+      <itunes:duration>85</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Tannpussesangen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_d2c4eeae-55c8-4cfc-84ee-ae55c80cfc0d</link>
+      <description>Alt du trenger å vite for å pusse tennnen dine.</description>
+      <guid isPermaLink="false">l_d2c4eeae-55c8-4cfc-84ee-ae55c80cfc0d</guid>
+      <pubDate>Fri, 11 Apr 2025 06:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/fd5808a5-f60c-43e9-a1ab-f54e8ef1f32c_0_ID192MP3.mp3" type="audio/mpeg" length="2647341"></enclosure>
+      <itunes:title>Tannpussesangen</itunes:title>
+      <itunes:summary>Alt du trenger å vite for å pusse tennnen dine.</itunes:summary>
+      <itunes:duration>110</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Pytt Pytt Pott</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_fe9ea004-f3f8-42ce-9ea0-04f3f842ceca</link>
+      <description>Hva skal du gjøre med en sølepytt?</description>
+      <guid isPermaLink="false">l_fe9ea004-f3f8-42ce-9ea0-04f3f842ceca</guid>
+      <pubDate>Fri, 11 Apr 2025 06:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/5cbe8f4b-c7fc-4f6f-9cc1-cdcb76dfd910_0_ID192MP3.mp3" type="audio/mpeg" length="2384109"></enclosure>
+      <itunes:title>Pytt Pytt Pott</itunes:title>
+      <itunes:summary>Hva skal du gjøre med en sølepytt?</itunes:summary>
+      <itunes:duration>99</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Påskesangen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_1682cbf7-b167-4f3b-82cb-f7b167ef3b47</link>
+      <description>Hva er inne i et påskeegg? Og hva skjer når Fantus forsvinner, er det påskeharen som har tatt Fantus?</description>
+      <guid isPermaLink="false">l_1682cbf7-b167-4f3b-82cb-f7b167ef3b47</guid>
+      <pubDate>Fri, 11 Apr 2025 06:19:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/4366f9aa-2afa-4a97-a716-127b8a57d1b7_0_ID192MP3.mp3" type="audio/mpeg" length="2693997"></enclosure>
+      <itunes:title>Påskesangen</itunes:title>
+      <itunes:summary>Hva er inne i et påskeegg? Og hva skjer når Fantus forsvinner, er det påskeharen som har tatt Fantus?</itunes:summary>
+      <itunes:duration>112</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ryddesang</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_6c29c28c-69a1-43ef-a9c2-8c69a1b3efab</link>
+      <description>Det er mye gøyere å rydde når du har en ryddesang.</description>
+      <guid isPermaLink="false">l_6c29c28c-69a1-43ef-a9c2-8c69a1b3efab</guid>
+      <pubDate>Fri, 11 Apr 2025 06:19:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/55d87f77-53f3-4a2d-b731-f110f2ebdded_0_ID192MP3.mp3" type="audio/mpeg" length="1619757"></enclosure>
+      <itunes:title>Ryddesang</itunes:title>
+      <itunes:summary>Det er mye gøyere å rydde når du har en ryddesang.</itunes:summary>
+      <itunes:duration>67</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sjøbanan</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_08f018af-0656-48dd-b018-af065638ddd4</link>
+      <description>Alt du trenger er en sjøbanan.</description>
+      <guid isPermaLink="false">l_08f018af-0656-48dd-b018-af065638ddd4</guid>
+      <pubDate>Fri, 11 Apr 2025 06:18:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/38bffff6-41c8-4671-9b6c-1a4dc85a8acf_0_ID192MP3.mp3" type="audio/mpeg" length="2381229"></enclosure>
+      <itunes:title>Sjøbanan</itunes:title>
+      <itunes:summary>Alt du trenger er en sjøbanan.</itunes:summary>
+      <itunes:duration>99</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Trøst</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_6f0096dd-8664-4a25-8096-dd86642a257d</link>
+      <description>Hvordan kan du få trøst?</description>
+      <guid isPermaLink="false">l_6f0096dd-8664-4a25-8096-dd86642a257d</guid>
+      <pubDate>Fri, 11 Apr 2025 06:16:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/b6e694b6-cb59-440d-a624-793b8436a90c_0_ID192MP3.mp3" type="audio/mpeg" length="2294829"></enclosure>
+      <itunes:title>Trøst</itunes:title>
+      <itunes:summary>Hvordan kan du få trøst?</itunes:summary>
+      <itunes:duration>95</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vil du være vennen min?</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_ccf9230e-6611-4af2-b923-0e6611caf205</link>
+      <description>Fantorangen vil være vennen din.</description>
+      <guid isPermaLink="false">l_ccf9230e-6611-4af2-b923-0e6611caf205</guid>
+      <pubDate>Fri, 11 Apr 2025 06:16:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/23bb6a2a-4af0-4c6c-8369-be5512eb11c2_0_ID192MP3.mp3" type="audio/mpeg" length="2178477"></enclosure>
+      <itunes:title>Vil du være vennen min?</itunes:title>
+      <itunes:summary>Fantorangen vil være vennen din.</itunes:summary>
+      <itunes:duration>90</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bæ bæ lille lam</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_fc09569c-d353-4ca6-8956-9cd353fca610</link>
+      <description>Fantorangen synger &#34;Bæ bæ lille lam&#34; med sin egen lille nye versjon av sangen. Yeay!</description>
+      <guid isPermaLink="false">l_fc09569c-d353-4ca6-8956-9cd353fca610</guid>
+      <pubDate>Fri, 11 Apr 2025 06:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/acec4fa1-813d-4c73-96c2-9fb8f183c474_0_ID192MP3.mp3" type="audio/mpeg" length="2026989"></enclosure>
+      <itunes:title>Bæ bæ lille lam</itunes:title>
+      <itunes:summary>Fantorangen synger &#34;Bæ bæ lille lam&#34; med sin egen lille nye versjon av sangen. Yeay!</itunes:summary>
+      <itunes:duration>84</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hjulene på bussen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_b3f08f9f-9e40-408b-b08f-9f9e40108b6a</link>
+      <description>Fantorangen synger &#34;Hjulene på bussen&#34;.</description>
+      <guid isPermaLink="false">l_b3f08f9f-9e40-408b-b08f-9f9e40108b6a</guid>
+      <pubDate>Fri, 11 Apr 2025 06:14:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/90463362-5b5e-40fa-9892-56d838f3e545_0_ID192MP3.mp3" type="audio/mpeg" length="2109357"></enclosure>
+      <itunes:title>Hjulene på bussen</itunes:title>
+      <itunes:summary>Fantorangen synger &#34;Hjulene på bussen&#34;.</itunes:summary>
+      <itunes:duration>87</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rotesangen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_22ca2c1b-a8d7-42c0-8a2c-1ba8d792c0d5</link>
+      <description>Tante Liss går i søvne og roter alt Fantorangen, Fantus og Pivi har ryddet.</description>
+      <guid isPermaLink="false">l_22ca2c1b-a8d7-42c0-8a2c-1ba8d792c0d5</guid>
+      <pubDate>Fri, 11 Apr 2025 06:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/246e4979-f120-486d-a473-28f16b7aaa76_0_ID192MP3.mp3" type="audio/mpeg" length="2745261"></enclosure>
+      <itunes:title>Rotesangen</itunes:title>
+      <itunes:summary>Tante Liss går i søvne og roter alt Fantorangen, Fantus og Pivi har ryddet.</itunes:summary>
+      <itunes:duration>114</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Du skal bli min</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_13090e18-37a5-4dad-890e-1837a5ddad56</link>
+      <description>Pivi har forelsket seg i en svane.</description>
+      <guid isPermaLink="false">l_13090e18-37a5-4dad-890e-1837a5ddad56</guid>
+      <pubDate>Fri, 11 Apr 2025 06:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c7ab7900-034e-422c-925b-f21fe251239f_0_ID192MP3.mp3" type="audio/mpeg" length="1274157"></enclosure>
+      <itunes:title>Du skal bli min</itunes:title>
+      <itunes:summary>Pivi har forelsket seg i en svane.</itunes:summary>
+      <itunes:duration>53</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Med krøllet hale</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_75f99375-2311-4461-b993-752311e461df</link>
+      <description>Med krøllet hale og nese vis, i bingen springer en gris.</description>
+      <guid isPermaLink="false">l_75f99375-2311-4461-b993-752311e461df</guid>
+      <pubDate>Fri, 11 Apr 2025 06:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/3d195359-81dd-4bd6-af04-1fbd44bb6553_0_ID192MP3.mp3" type="audio/mpeg" length="1672749"></enclosure>
+      <itunes:title>Med krøllet hale</itunes:title>
+      <itunes:summary>Med krøllet hale og nese vis, i bingen springer en gris.</itunes:summary>
+      <itunes:duration>69</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Liten potet</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_0539c495-331c-4833-b9c4-95331c983373</link>
+      <description>Pivi har funnet en potet som ser ut som farmor.</description>
+      <guid isPermaLink="false">l_0539c495-331c-4833-b9c4-95331c983373</guid>
+      <pubDate>Fri, 11 Apr 2025 06:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/ddf3409e-0ca3-41d1-8f29-4b6b57cb03b4_0_ID192MP3.mp3" type="audio/mpeg" length="2477997"></enclosure>
+      <itunes:title>Liten potet</itunes:title>
+      <itunes:summary>Pivi har funnet en potet som ser ut som farmor.</itunes:summary>
+      <itunes:duration>103</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kua mi</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_184d0d69-e4ba-4316-8d0d-69e4bad3165a</link>
+      <description>Fantorangen synger &#34;Kua mi&#34;.</description>
+      <guid isPermaLink="false">l_184d0d69-e4ba-4316-8d0d-69e4bad3165a</guid>
+      <pubDate>Fri, 11 Apr 2025 06:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/16ffc3b5-43f6-4365-927d-6a8cfdabc000_0_ID192MP3.mp3" type="audio/mpeg" length="1771821"></enclosure>
+      <itunes:title>Kua mi</itunes:title>
+      <itunes:summary>Fantorangen synger &#34;Kua mi&#34;.</itunes:summary>
+      <itunes:duration>73</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fola fola blakken</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_2d303e98-bfb4-489f-b03e-98bfb4189f25</link>
+      <description>Fantorangen synger &#34;Fola fola blakken&#34;.</description>
+      <guid isPermaLink="false">l_2d303e98-bfb4-489f-b03e-98bfb4189f25</guid>
+      <pubDate>Fri, 11 Apr 2025 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/1f4edf8e-34ae-47d7-a350-1abc72d70b90_0_ID192MP3.mp3" type="audio/mpeg" length="1786797"></enclosure>
+      <itunes:title>Fola fola blakken</itunes:title>
+      <itunes:summary>Fantorangen synger &#34;Fola fola blakken&#34;.</itunes:summary>
+      <itunes:duration>74</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kommode på mitt hode</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_b23666b1-5cbe-4453-b666-b15cbeb45335</link>
+      <description>Hvordan er det å få en kommode på hodet?</description>
+      <guid isPermaLink="false">l_b23666b1-5cbe-4453-b666-b15cbeb45335</guid>
+      <pubDate>Fri, 11 Apr 2025 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/0143d0d2-fd57-44b5-9ed5-317ac0cde3a1_0_ID192MP3.mp3" type="audio/mpeg" length="1906029"></enclosure>
+      <itunes:title>Kommode på mitt hode</itunes:title>
+      <itunes:summary>Hvordan er det å få en kommode på hodet?</itunes:summary>
+      <itunes:duration>79</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kråkesangen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_502f3ce5-f934-44d9-af3c-e5f934a4d975</link>
+      <description>Hvordan skal Fantorangen og Pivi skremme vekk alle kråkene i Pivis gresskaråker?</description>
+      <guid isPermaLink="false">l_502f3ce5-f934-44d9-af3c-e5f934a4d975</guid>
+      <pubDate>Fri, 11 Apr 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/de1f1380-bf1c-462d-875f-1f11b522ad0e_0_ID192MP3.mp3" type="audio/mpeg" length="2366829"></enclosure>
+      <itunes:title>Kråkesangen</itunes:title>
+      <itunes:summary>Hvordan skal Fantorangen og Pivi skremme vekk alle kråkene i Pivis gresskaråker?</itunes:summary>
+      <itunes:duration>98</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vi er to snømenner</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_adf122c5-4091-4fe0-b122-c540915fe085</link>
+      <description>Fantorangen synger &#34;Vi er to snømenner&#34;.</description>
+      <guid isPermaLink="false">l_adf122c5-4091-4fe0-b122-c540915fe085</guid>
+      <pubDate>Fri, 11 Apr 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/381e5e37-a24e-4dfd-95ca-7e177b93433d_0_ID192MP3.mp3" type="audio/mpeg" length="1494189"></enclosure>
+      <itunes:title>Vi er to snømenner</itunes:title>
+      <itunes:summary>Fantorangen synger &#34;Vi er to snømenner&#34;.</itunes:summary>
+      <itunes:duration>62</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Det falt et lite snøfnugg</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_e9bc96cd-31a9-4aee-bc96-cd31a9eaeea7</link>
+      <description>Fantorangen synger &#34;Det falt et lite snøfnugg&#34;.</description>
+      <guid isPermaLink="false">l_e9bc96cd-31a9-4aee-bc96-cd31a9eaeea7</guid>
+      <pubDate>Fri, 11 Apr 2025 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/49d95c9b-56ac-40ed-aed6-ef2a563a60a9_0_ID192MP3.mp3" type="audio/mpeg" length="1555821"></enclosure>
+      <itunes:title>Det falt et lite snøfnugg</itunes:title>
+      <itunes:summary>Fantorangen synger &#34;Det falt et lite snøfnugg&#34;.</itunes:summary>
+      <itunes:duration>64</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Se nå snør det</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_eb123217-e6aa-47ea-9232-17e6aa67eaf9</link>
+      <description>Fantorangen synger &#34;Se nå snør det&#34;.</description>
+      <guid isPermaLink="false">l_eb123217-e6aa-47ea-9232-17e6aa67eaf9</guid>
+      <pubDate>Fri, 11 Apr 2025 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/e8005038-3bc6-493d-8b8b-847afa8caf7f_0_ID192MP3.mp3" type="audio/mpeg" length="1982061"></enclosure>
+      <itunes:title>Se nå snør det</itunes:title>
+      <itunes:summary>Fantorangen synger &#34;Se nå snør det&#34;.</itunes:summary>
+      <itunes:duration>82</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kålorm</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_3ae8753f-e342-4bf5-a875-3fe3423bf526</link>
+      <description>Kålormen som ble til en sommerfugl.</description>
+      <guid isPermaLink="false">l_3ae8753f-e342-4bf5-a875-3fe3423bf526</guid>
+      <pubDate>Fri, 11 Apr 2025 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/ffa322f1-4674-4bf9-8921-7fac8ce99198_0_ID192MP3.mp3" type="audio/mpeg" length="1999341"></enclosure>
+      <itunes:title>Kålorm</itunes:title>
+      <itunes:summary>Kålormen som ble til en sommerfugl.</itunes:summary>
+      <itunes:duration>83</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fantorangen på ski</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_484c3a6a-c317-445b-8c3a-6ac317a45bf2</link>
+      <description>Fantorangen kaster seg ut på ski.</description>
+      <guid isPermaLink="false">l_484c3a6a-c317-445b-8c3a-6ac317a45bf2</guid>
+      <pubDate>Fri, 11 Apr 2025 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/f05c6b12-85a7-4b32-9b8e-9eb405b60935_0_ID192MP3.mp3" type="audio/mpeg" length="2204397"></enclosure>
+      <itunes:title>Fantorangen på ski</itunes:title>
+      <itunes:summary>Fantorangen kaster seg ut på ski.</itunes:summary>
+      <itunes:duration>91</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Honningdogg</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_6d4b77b3-f03d-445e-8b77-b3f03d345e54</link>
+      <description>Hva er det beste Maurora og søskene hennes vet, jo honningdogg.</description>
+      <guid isPermaLink="false">l_6d4b77b3-f03d-445e-8b77-b3f03d345e54</guid>
+      <pubDate>Fri, 11 Apr 2025 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/3cdf8f84-79cf-41ef-b69c-d7cccedd4e7c_0_ID192MP3.mp3" type="audio/mpeg" length="1717101"></enclosure>
+      <itunes:title>Honningdogg</itunes:title>
+      <itunes:summary>Hva er det beste Maurora og søskene hennes vet, jo honningdogg.</itunes:summary>
+      <itunes:duration>71</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eg flyg</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_8688db04-1861-4118-88db-0418612118f8</link>
+      <description>Maurora er en maur, men hun kan fly.</description>
+      <guid isPermaLink="false">l_8688db04-1861-4118-88db-0418612118f8</guid>
+      <pubDate>Fri, 11 Apr 2025 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/43bcba6a-8ede-45ff-aab0-ed5c52930d63_0_ID192MP3.mp3" type="audio/mpeg" length="2434221"></enclosure>
+      <itunes:title>Eg flyg</itunes:title>
+      <itunes:summary>Maurora er en maur, men hun kan fly.</itunes:summary>
+      <itunes:duration>101</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Per Spelmann</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_cf68d9b8-eb0f-4e40-a8d9-b8eb0f2e40a7</link>
+      <description>Fantorangen synger &#34;Per Spelmann&#34;.</description>
+      <guid isPermaLink="false">l_cf68d9b8-eb0f-4e40-a8d9-b8eb0f2e40a7</guid>
+      <pubDate>Fri, 11 Apr 2025 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/84f20ec7-3abc-446e-b629-d35eb0232cde_0_ID192MP3.mp3" type="audio/mpeg" length="2419821"></enclosure>
+      <itunes:title>Per Spelmann</itunes:title>
+      <itunes:summary>Fantorangen synger &#34;Per Spelmann&#34;.</itunes:summary>
+      <itunes:duration>100</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kroppen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_e87740d6-72ee-4995-b740-d672eec99580</link>
+      <description>Fantorangen er stolt av kroppen vi har.</description>
+      <guid isPermaLink="false">l_e87740d6-72ee-4995-b740-d672eec99580</guid>
+      <pubDate>Fri, 11 Apr 2025 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/1a2bdcf1-f774-4621-bc0d-eef04c626e93_0_ID192MP3.mp3" type="audio/mpeg" length="2395629"></enclosure>
+      <itunes:title>Kroppen</itunes:title>
+      <itunes:summary>Fantorangen er stolt av kroppen vi har.</itunes:summary>
+      <itunes:duration>99</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>På låven sitter nissen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_02c6dd96-3c18-4bb0-86dd-963c180bb0db</link>
+      <description>Fantorangen synger &#34;På låven sitter nissen&#34;.</description>
+      <guid isPermaLink="false">l_02c6dd96-3c18-4bb0-86dd-963c180bb0db</guid>
+      <pubDate>Fri, 11 Apr 2025 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/31081373-26ef-47ec-902e-e3b1658ca8ba_0_ID192MP3.mp3" type="audio/mpeg" length="1901421"></enclosure>
+      <itunes:title>På låven sitter nissen</itunes:title>
+      <itunes:summary>Fantorangen synger &#34;På låven sitter nissen&#34;.</itunes:summary>
+      <itunes:duration>79</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FCkiak29SWx-Ox0eEB7g1QfGbotDrns2P3oehdirb6AQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Substantiv</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_2a691543-5906-4ade-a915-435906aade88</link>
+      <description>Substantiv er ordene vi bruker om ting, navn og steder.</description>
+      <guid isPermaLink="false">l_2a691543-5906-4ade-a915-435906aade88</guid>
+      <pubDate>Mon, 07 Apr 2025 06:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/e07ff604-54a3-4d11-86f2-49f2ef10fb22_0_ID192MP3.mp3" type="audio/mpeg" length="2274669"></enclosure>
+      <itunes:title>Substantiv</itunes:title>
+      <itunes:summary>Substantiv er ordene vi bruker om ting, navn og steder.</itunes:summary>
+      <itunes:duration>94</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-LaXniHia4W0zoJ2yKq59A83T9cABmgTxfaCvzSgiKWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Adjektiv</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_7e9e5188-6729-4f32-9e51-8867297f3231</link>
+      <description>Adjektiv er ordene vi bruker for å beskrive substantivene.</description>
+      <guid isPermaLink="false">l_7e9e5188-6729-4f32-9e51-8867297f3231</guid>
+      <pubDate>Mon, 07 Apr 2025 06:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/011aafd3-732d-4d79-9761-7b46bc1dd610_0_ID192MP3.mp3" type="audio/mpeg" length="2101869"></enclosure>
+      <itunes:title>Adjektiv</itunes:title>
+      <itunes:summary>Adjektiv er ordene vi bruker for å beskrive substantivene.</itunes:summary>
+      <itunes:duration>87</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-LaXniHia4W0zoJ2yKq59A83T9cABmgTxfaCvzSgiKWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Verb</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_fec8b158-91be-42d3-88b1-5891be52d335</link>
+      <description>Verb er gjøreord, altså ordene vi bruker om en handling.</description>
+      <guid isPermaLink="false">l_fec8b158-91be-42d3-88b1-5891be52d335</guid>
+      <pubDate>Mon, 07 Apr 2025 06:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/ecd9ffca-32b4-4e7d-aef2-1b7e2c1573cb_0_ID192MP3.mp3" type="audio/mpeg" length="2623149"></enclosure>
+      <itunes:title>Verb</itunes:title>
+      <itunes:summary>Verb er gjøreord, altså ordene vi bruker om en handling.</itunes:summary>
+      <itunes:duration>109</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-LaXniHia4W0zoJ2yKq59A83T9cABmgTxfaCvzSgiKWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dobbel konsonant</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_0dfca4ea-dcf3-4656-bca4-eadcf3e6562f</link>
+      <description>Takk, eller taaak? Om ordet har dobbel eller enkel konsonant, bestemmer om ordene får kort eller laaang voookaaal!</description>
+      <guid isPermaLink="false">l_0dfca4ea-dcf3-4656-bca4-eadcf3e6562f</guid>
+      <pubDate>Mon, 07 Apr 2025 06:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/85138d9d-51d1-4765-b8ca-a65a4738cc3b_0_ID192MP3.mp3" type="audio/mpeg" length="2057517"></enclosure>
+      <itunes:title>Dobbel konsonant</itunes:title>
+      <itunes:summary>Takk, eller taaak? Om ordet har dobbel eller enkel konsonant, bestemmer om ordene får kort eller laaang voookaaal!</itunes:summary>
+      <itunes:duration>85</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-LaXniHia4W0zoJ2yKq59A83T9cABmgTxfaCvzSgiKWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Spørreord</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_2997efbb-ec33-45be-97ef-bbec33f5be96</link>
+      <description>Spørreord er ordene vi bruker for å innlede spørsmål.</description>
+      <guid isPermaLink="false">l_2997efbb-ec33-45be-97ef-bbec33f5be96</guid>
+      <pubDate>Mon, 07 Apr 2025 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/61e177c6-dca8-45ec-bba4-fe372b29c6a4_0_ID192MP3.mp3" type="audio/mpeg" length="2435949"></enclosure>
+      <itunes:title>Spørreord</itunes:title>
+      <itunes:summary>Spørreord er ordene vi bruker for å innlede spørsmål.</itunes:summary>
+      <itunes:duration>101</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-LaXniHia4W0zoJ2yKq59A83T9cABmgTxfaCvzSgiKWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Interjeksjoner</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_b1255987-bcac-4ea2-a559-87bcacdea2cb</link>
+      <description>Interjeksjoner er utropsord – altså ord vi bruker for å uttrykke ulike reaksjoner, følelser og lyder.</description>
+      <guid isPermaLink="false">l_b1255987-bcac-4ea2-a559-87bcacdea2cb</guid>
+      <pubDate>Mon, 07 Apr 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/e0896745-f0c0-4521-ac02-397ef71f90db_0_ID192MP3.mp3" type="audio/mpeg" length="2114541"></enclosure>
+      <itunes:title>Interjeksjoner</itunes:title>
+      <itunes:summary>Interjeksjoner er utropsord – altså ord vi bruker for å uttrykke ulike reaksjoner, følelser og lyder.</itunes:summary>
+      <itunes:duration>88</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-LaXniHia4W0zoJ2yKq59A83T9cABmgTxfaCvzSgiKWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Preposisjoner</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_277546e7-69c8-4b7e-b546-e769c89b7e39</link>
+      <description>Preposisjoner er ordene vi bruker for å forklare hvor noe er plassert i forhold til noe annet.</description>
+      <guid isPermaLink="false">l_277546e7-69c8-4b7e-b546-e769c89b7e39</guid>
+      <pubDate>Mon, 07 Apr 2025 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/09a87cea-ac9e-4e81-9042-7ee9a4d3f41b_0_ID192MP3.mp3" type="audio/mpeg" length="1937709"></enclosure>
+      <itunes:title>Preposisjoner</itunes:title>
+      <itunes:summary>Preposisjoner er ordene vi bruker for å forklare hvor noe er plassert i forhold til noe annet.</itunes:summary>
+      <itunes:duration>80</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-LaXniHia4W0zoJ2yKq59A83T9cABmgTxfaCvzSgiKWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Synonymer</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_58c0402e-3bbb-4175-8040-2e3bbbf17572</link>
+      <description>Synonymer er ord med samme eller nesten den samme betydningen.</description>
+      <guid isPermaLink="false">l_58c0402e-3bbb-4175-8040-2e3bbbf17572</guid>
+      <pubDate>Mon, 07 Apr 2025 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/63cf430c-a05a-4463-ad8e-44519baa81fa_0_ID192MP3.mp3" type="audio/mpeg" length="2763117"></enclosure>
+      <itunes:title>Synonymer</itunes:title>
+      <itunes:summary>Synonymer er ord med samme eller nesten den samme betydningen.</itunes:summary>
+      <itunes:duration>115</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-LaXniHia4W0zoJ2yKq59A83T9cABmgTxfaCvzSgiKWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fantus musikantus</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_fc2b0dd4-35c9-41cb-ab0d-d435c951cb56</link>
+      <description>Hør sangen fra Fantus musikantus!</description>
+      <guid isPermaLink="false">l_fc2b0dd4-35c9-41cb-ab0d-d435c951cb56</guid>
+      <pubDate>Tue, 01 Apr 2025 06:22:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/068e566d-5157-4517-a4ec-4359569db48c_0_ID192MP3.mp3" type="audio/mpeg" length="1241901"></enclosure>
+      <itunes:title>Fantus musikantus</itunes:title>
+      <itunes:summary>Hør sangen fra Fantus musikantus!</itunes:summary>
+      <itunes:duration>51</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ha det, Fantus musikantus</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_381e260b-8196-4063-9e26-0b8196e063c8</link>
+      <description>Ha det, Fantus!</description>
+      <guid isPermaLink="false">l_381e260b-8196-4063-9e26-0b8196e063c8</guid>
+      <pubDate>Tue, 01 Apr 2025 06:21:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/d0f00272-82df-46fd-8550-b7524628eebc_0_ID192MP3.mp3" type="audio/mpeg" length="628461"></enclosure>
+      <itunes:title>Ha det, Fantus musikantus</itunes:title>
+      <itunes:summary>Ha det, Fantus!</itunes:summary>
+      <itunes:duration>26</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eggesangen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_7514e801-f102-40bf-94e8-01f10200bffb</link>
+      <description>Eggene synger mimi-mama-mo-sangen.</description>
+      <guid isPermaLink="false">l_7514e801-f102-40bf-94e8-01f10200bffb</guid>
+      <pubDate>Tue, 01 Apr 2025 06:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/957d8eb7-5ad7-48fe-9c8c-4081e345bc5d_0_ID192MP3.mp3" type="audio/mpeg" length="2027565"></enclosure>
+      <itunes:title>Eggesangen</itunes:title>
+      <itunes:summary>Eggene synger mimi-mama-mo-sangen.</itunes:summary>
+      <itunes:duration>84</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Klappesangen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_a0ef8d4a-c61d-4009-af8d-4ac61d3009ad</link>
+      <description>Klapp, hopp og sprett sammen med barna.</description>
+      <guid isPermaLink="false">l_a0ef8d4a-c61d-4009-af8d-4ac61d3009ad</guid>
+      <pubDate>Tue, 01 Apr 2025 06:19:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/20a3633c-ef5b-4c84-a345-ec337d7146d5_0_ID192MP3.mp3" type="audio/mpeg" length="2211309"></enclosure>
+      <itunes:title>Klappesangen</itunes:title>
+      <itunes:summary>Klapp, hopp og sprett sammen med barna.</itunes:summary>
+      <itunes:duration>92</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Snurredansen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_e1a6f7fb-93d0-4743-a6f7-fb93d017436c</link>
+      <description>Snurredans med Fantus og barna.</description>
+      <guid isPermaLink="false">l_e1a6f7fb-93d0-4743-a6f7-fb93d017436c</guid>
+      <pubDate>Tue, 01 Apr 2025 06:18:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/12ac861c-4890-4ed9-9852-9632cebba31c_0_ID192MP3.mp3" type="audio/mpeg" length="1353645"></enclosure>
+      <itunes:title>Snurredansen</itunes:title>
+      <itunes:summary>Snurredans med Fantus og barna.</itunes:summary>
+      <itunes:duration>56</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Brødristersangen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_2e4bdcd2-097f-4b76-8bdc-d2097fdb762e</link>
+      <description>Tenk at en brødrister kan synge!</description>
+      <guid isPermaLink="false">l_2e4bdcd2-097f-4b76-8bdc-d2097fdb762e</guid>
+      <pubDate>Tue, 01 Apr 2025 06:17:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/fe660739-c2b2-47e7-918d-b7c2e47db10b_0_ID192MP3.mp3" type="audio/mpeg" length="729837"></enclosure>
+      <itunes:title>Brødristersangen</itunes:title>
+      <itunes:summary>Tenk at en brødrister kan synge!</itunes:summary>
+      <itunes:duration>30</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hoppe som haren</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_4f1c69ae-e9e2-455c-9c69-aee9e2e55caa</link>
+      <description>Hopp med Fantus, barna og dyra!</description>
+      <guid isPermaLink="false">l_4f1c69ae-e9e2-455c-9c69-aee9e2e55caa</guid>
+      <pubDate>Tue, 01 Apr 2025 06:17:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/ffb10a94-73fc-48ea-ad53-a35c721d7950_0_ID192MP3.mp3" type="audio/mpeg" length="2661741"></enclosure>
+      <itunes:title>Hoppe som haren</itunes:title>
+      <itunes:summary>Hopp med Fantus, barna og dyra!</itunes:summary>
+      <itunes:duration>110</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fantus gynger</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_d50e8c7e-b718-4b9f-8e8c-7eb7185b9f48</link>
+      <description>Fantus synger gyngesangen sammen med deg.</description>
+      <guid isPermaLink="false">l_d50e8c7e-b718-4b9f-8e8c-7eb7185b9f48</guid>
+      <pubDate>Tue, 01 Apr 2025 06:16:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/b0381507-84e0-4f75-b8bf-4d94153210c0_0_ID192MP3.mp3" type="audio/mpeg" length="2113965"></enclosure>
+      <itunes:title>Fantus gynger</itunes:title>
+      <itunes:summary>Fantus synger gyngesangen sammen med deg.</itunes:summary>
+      <itunes:duration>88</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dyresalsa</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_a6118171-b1d3-4e88-9181-71b1d32e88fd</link>
+      <description>Alle dyrene danser salsa.</description>
+      <guid isPermaLink="false">l_a6118171-b1d3-4e88-9181-71b1d32e88fd</guid>
+      <pubDate>Tue, 01 Apr 2025 06:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c14c3a66-5fa8-46f2-b565-6a7881edfbe5_0_ID192MP3.mp3" type="audio/mpeg" length="2177325"></enclosure>
+      <itunes:title>Dyresalsa</itunes:title>
+      <itunes:summary>Alle dyrene danser salsa.</itunes:summary>
+      <itunes:duration>90</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fantus vandrer</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_2b2ba337-e6df-4a05-aba3-37e6df8a052f</link>
+      <description>Fantus og barna går i skogen.</description>
+      <guid isPermaLink="false">l_2b2ba337-e6df-4a05-aba3-37e6df8a052f</guid>
+      <pubDate>Tue, 01 Apr 2025 06:14:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/a0f052ea-1768-40e6-a18a-0bcc84e59fb9_0_ID192MP3.mp3" type="audio/mpeg" length="1869741"></enclosure>
+      <itunes:title>Fantus vandrer</itunes:title>
+      <itunes:summary>Fantus og barna går i skogen.</itunes:summary>
+      <itunes:duration>77</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Mozart-egg</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_225355f2-e1db-4361-9355-f2e1dba361be</link>
+      <description>Eggene synger opera.</description>
+      <guid isPermaLink="false">l_225355f2-e1db-4361-9355-f2e1dba361be</guid>
+      <pubDate>Tue, 01 Apr 2025 06:13:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/2cc80c46-f887-4b95-af40-f9db7e933d7f_0_ID192MP3.mp3" type="audio/mpeg" length="1373229"></enclosure>
+      <itunes:title>Mozart-egg</itunes:title>
+      <itunes:summary>Eggene synger opera.</itunes:summary>
+      <itunes:duration>57</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Alle barna</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_79e080d5-206c-4c65-a080-d5206ccc659c</link>
+      <description>Synge sammen med barna!</description>
+      <guid isPermaLink="false">l_79e080d5-206c-4c65-a080-d5206ccc659c</guid>
+      <pubDate>Tue, 01 Apr 2025 06:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/46902d11-0589-4736-89b3-9ac8f281c524_0_ID192MP3.mp3" type="audio/mpeg" length="2426733"></enclosure>
+      <itunes:title>Alle barna</itunes:title>
+      <itunes:summary>Synge sammen med barna!</itunes:summary>
+      <itunes:duration>101</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hjulene på bussen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_25663b06-aad8-4b84-a63b-06aad84b841a</link>
+      <description>Katten, hunden og mus kjører buss.</description>
+      <guid isPermaLink="false">l_25663b06-aad8-4b84-a63b-06aad84b841a</guid>
+      <pubDate>Tue, 01 Apr 2025 06:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/8d8595dd-50a5-4bfa-b3b2-9da8ada7ca9b_0_ID192MP3.mp3" type="audio/mpeg" length="3117933"></enclosure>
+      <itunes:title>Hjulene på bussen</itunes:title>
+      <itunes:summary>Katten, hunden og mus kjører buss.</itunes:summary>
+      <itunes:duration>129</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fader Jakob</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_d121604d-3d7f-4c8c-a160-4d3d7f9c8cc9</link>
+      <description>Syng med!</description>
+      <guid isPermaLink="false">l_d121604d-3d7f-4c8c-a160-4d3d7f9c8cc9</guid>
+      <pubDate>Tue, 01 Apr 2025 06:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/01949cbe-ae0e-4864-ab4f-973f8f5d7455_0_ID192MP3.mp3" type="audio/mpeg" length="3098349"></enclosure>
+      <itunes:title>Fader Jakob</itunes:title>
+      <itunes:summary>Syng med!</itunes:summary>
+      <itunes:duration>129</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Plystresangen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_c6857d6e-508e-408e-857d-6e508e308ed4</link>
+      <description>Putene plystrer, og du kan bli med!</description>
+      <guid isPermaLink="false">l_c6857d6e-508e-408e-857d-6e508e308ed4</guid>
+      <pubDate>Tue, 01 Apr 2025 06:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/b1ee3e7d-fe60-4cf6-a528-ebbde4346a95_0_ID192MP3.mp3" type="audio/mpeg" length="1325421"></enclosure>
+      <itunes:title>Plystresangen</itunes:title>
+      <itunes:summary>Putene plystrer, og du kan bli med!</itunes:summary>
+      <itunes:duration>55</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Doppidopp</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_f8b3d6ad-49b3-4546-b3d6-ad49b3c54691</link>
+      <description>Danse med Fantus!</description>
+      <guid isPermaLink="false">l_f8b3d6ad-49b3-4546-b3d6-ad49b3c54691</guid>
+      <pubDate>Tue, 01 Apr 2025 06:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/fdca436c-a5b3-4ddf-8794-679bffc3461e_0_ID192MP3.mp3" type="audio/mpeg" length="1533357"></enclosure>
+      <itunes:title>Doppidopp</itunes:title>
+      <itunes:summary>Danse med Fantus!</itunes:summary>
+      <itunes:duration>63</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Putesangen</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_60fff95e-6595-4da9-bff9-5e65958da930</link>
+      <description>Putene synger!</description>
+      <guid isPermaLink="false">l_60fff95e-6595-4da9-bff9-5e65958da930</guid>
+      <pubDate>Tue, 01 Apr 2025 06:07:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/e7908e25-2a99-4320-a50b-967426cd0d08_0_ID192MP3.mp3" type="audio/mpeg" length="1851309"></enclosure>
+      <itunes:title>Putesangen</itunes:title>
+      <itunes:summary>Putene synger!</itunes:summary>
+      <itunes:duration>77</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eggesangen (Høne og kylling-versjon)</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_4f613ec3-e5ff-4621-a13e-c3e5ff5621a4</link>
+      <description>Eggene synger sammen med høna og kyllingen.</description>
+      <guid isPermaLink="false">l_4f613ec3-e5ff-4621-a13e-c3e5ff5621a4</guid>
+      <pubDate>Tue, 01 Apr 2025 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/9178160f-2a1d-4bd2-9e81-a5da56a0b50d_0_ID192MP3.mp3" type="audio/mpeg" length="2024685"></enclosure>
+      <itunes:title>Eggesangen (Høne og kylling-versjon)</itunes:title>
+      <itunes:summary>Eggene synger sammen med høna og kyllingen.</itunes:summary>
+      <itunes:duration>84</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Mozart-kuler</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_50cf0e88-35a4-47b8-8f0e-8835a447b86a</link>
+      <description>Ballongene synger opera.</description>
+      <guid isPermaLink="false">l_50cf0e88-35a4-47b8-8f0e-8835a447b86a</guid>
+      <pubDate>Tue, 01 Apr 2025 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/e84ca169-9050-4dcd-a95f-68c59f9801ec_0_ID192MP3.mp3" type="audio/mpeg" length="1853613"></enclosure>
+      <itunes:title>Mozart-kuler</itunes:title>
+      <itunes:summary>Ballongene synger opera.</itunes:summary>
+      <itunes:duration>77</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ma me mo</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_704cb2d9-785e-4907-8cb2-d9785e490790</link>
+      <description>Synge med barna og Fantus.</description>
+      <guid isPermaLink="false">l_704cb2d9-785e-4907-8cb2-d9785e490790</guid>
+      <pubDate>Tue, 01 Apr 2025 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/2c2c355a-4d0a-49b8-a796-99771f0c9db7_0_ID192MP3.mp3" type="audio/mpeg" length="1639341"></enclosure>
+      <itunes:title>Ma me mo</itunes:title>
+      <itunes:summary>Synge med barna og Fantus.</itunes:summary>
+      <itunes:duration>68</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Putesangen (Instrumental)</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_eb6b2d57-7636-48bf-ab2d-57763618bf77</link>
+      <description>Putesangen (Instrumental) </description>
+      <guid isPermaLink="false">l_eb6b2d57-7636-48bf-ab2d-57763618bf77</guid>
+      <pubDate>Tue, 01 Apr 2025 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/c3ff6ad2-90ae-41d0-aa45-2da60e3bf51c_0_ID192MP3.mp3" type="audio/mpeg" length="1466541"></enclosure>
+      <itunes:title>Putesangen (Instrumental)</itunes:title>
+      <itunes:summary>Putesangen (Instrumental) </itunes:summary>
+      <itunes:duration>61</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Doppidopp (instrumental)</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_497f061c-c877-4f6b-bf06-1cc8775f6b20</link>
+      <description>Doppidopp (instrumental)  </description>
+      <guid isPermaLink="false">l_497f061c-c877-4f6b-bf06-1cc8775f6b20</guid>
+      <pubDate>Tue, 01 Apr 2025 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/0d6a9919-0fcc-41a3-9ed5-1f40b61f930e_0_ID192MP3.mp3" type="audio/mpeg" length="1566765"></enclosure>
+      <itunes:title>Doppidopp (instrumental)</itunes:title>
+      <itunes:summary>Doppidopp (instrumental)  </itunes:summary>
+      <itunes:duration>65</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VX1O0X2PPr17xIkSs1fE-gdJQqBY8L3tpFuuO49qa4Dw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

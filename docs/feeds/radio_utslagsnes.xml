@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radio Utslagsnes</title>
+    <link>https://radio.nrk.no/podkast/radio_utslagsnes</link>
+    <description>Ståle Utslagsnes starter sin egen radiostasjon og går motvillig med på at Rune Nilson får publisere sendingene hans som podkast for NRK. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Thu, 07 Mar 2024 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/radio_utslagsnes.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Ståle Utslagsnes starter sin egen radiostasjon og går motvillig med på at Rune Nilson får publisere sendingene hans som podkast for NRK. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg</url>
+      <title>Radio Utslagsnes</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes</link>
+    </image>
+    <item>
+      <title>Evaluering: Alt kommer for en dag</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_afb76dd0-446e-439e-b76d-d0446ec39ecf</link>
+      <description>Etter hvert, hvis Steve kommer ut av sitt katatoniske sjokk.</description>
+      <guid isPermaLink="false">l_afb76dd0-446e-439e-b76d-d0446ec39ecf</guid>
+      <pubDate>Thu, 07 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/9d2a78bd-ca85-497c-9f8f-df0769bcaa66_0_ID192MP3.mp3" type="audio/mpeg" length="14725485"></enclosure>
+      <itunes:title>Evaluering: Alt kommer for en dag</itunes:title>
+      <itunes:summary>Etter hvert, hvis Steve kommer ut av sitt katatoniske sjokk.</itunes:summary>
+      <itunes:duration>613</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Til og med brennevin er laget av vann</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_8e015b98-174d-4a3f-815b-98174dba3f31</link>
+      <description>Radio Utslagsnes synger og samler inn penger til vann- og avløpsetaten.</description>
+      <guid isPermaLink="false">l_8e015b98-174d-4a3f-815b-98174dba3f31</guid>
+      <pubDate>Wed, 06 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/52b34c72-1ee8-4f37-ba7a-b265ccc1ded4_0_ID192MP3.mp3" type="audio/mpeg" length="54974061"></enclosure>
+      <itunes:title>Til og med brennevin er laget av vann</itunes:title>
+      <itunes:summary>Radio Utslagsnes synger og samler inn penger til vann- og avløpsetaten.</itunes:summary>
+      <itunes:duration>2290</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mwj_H11vqeI1juUhiZDX4AJF2tIyqI2HUcTU3dYn_1TA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Steve har et transportoppdrag</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_49c05624-75a8-4262-8056-2475a83262c7</link>
+      <description>Og selvsagt fortjener vann- og avløpsetaten i Fættvika en innsamlingsaksjon!</description>
+      <guid isPermaLink="false">l_49c05624-75a8-4262-8056-2475a83262c7</guid>
+      <pubDate>Thu, 29 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/3f3f6283-433f-401c-acee-dde270eaa2f2_0_ID192MP3.mp3" type="audio/mpeg" length="9528813"></enclosure>
+      <itunes:title>Evaluering: Steve har et transportoppdrag</itunes:title>
+      <itunes:summary>Og selvsagt fortjener vann- og avløpsetaten i Fættvika en innsamlingsaksjon!</itunes:summary>
+      <itunes:duration>396</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Radiomerking av trøndere</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_db859f47-5928-4346-859f-475928834635</link>
+      <description>Bjørnar Barleggquist vil finne ut hvor trøndere trekker om vinteren. Jan Olsen og Dagny B. Singsås debatterer om snusbeger av trolldeig.</description>
+      <guid isPermaLink="false">l_db859f47-5928-4346-859f-475928834635</guid>
+      <pubDate>Wed, 28 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/43df59a7-634b-4182-9f55-37936ba7525a_0_ID192MP3.mp3" type="audio/mpeg" length="53337645"></enclosure>
+      <itunes:title>Radiomerking av trøndere</itunes:title>
+      <itunes:summary>Bjørnar Barleggquist vil finne ut hvor trøndere trekker om vinteren. Jan Olsen og Dagny B. Singsås debatterer om snusbeger av trolldeig.</itunes:summary>
+      <itunes:duration>2222</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/i3Rb-wVlr2KX20VPm0snuw8qEURDVXp4DQyoXjgQOR9g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Hvorfor stoppes ikke Obersten?</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_93ef30dd-3af8-47f9-af30-dd3af8c7f9e3</link>
+      <description>Og har egentlig ornitologen peiling på fugl?</description>
+      <guid isPermaLink="false">l_93ef30dd-3af8-47f9-af30-dd3af8c7f9e3</guid>
+      <pubDate>Thu, 22 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/3050d43e-a3e1-4ec3-bc6a-a23a868c77e0_0_ID192MP3.mp3" type="audio/mpeg" length="12507309"></enclosure>
+      <itunes:title>Evaluering: Hvorfor stoppes ikke Obersten?</itunes:title>
+      <itunes:summary>Og har egentlig ornitologen peiling på fugl?</itunes:summary>
+      <itunes:duration>521</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Det smeller alltid noen apparater på åpen dag</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_abc4edaa-1fff-4260-84ed-aa1fff1260e2</link>
+      <description>&#34;Ornotilogen&#34; er tilbake og Vigdis er i kjempeform.</description>
+      <guid isPermaLink="false">l_abc4edaa-1fff-4260-84ed-aa1fff1260e2</guid>
+      <pubDate>Wed, 21 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/aabfadf9-50ac-46e8-8b34-c9d302095488_0_ID192MP3.mp3" type="audio/mpeg" length="38169261"></enclosure>
+      <itunes:title>Det smeller alltid noen apparater på åpen dag</itunes:title>
+      <itunes:summary>&#34;Ornotilogen&#34; er tilbake og Vigdis er i kjempeform.</itunes:summary>
+      <itunes:duration>1590</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bFXF4hT96AkU7mlAP53LNAtG33l5kXQeZGgaX7sxeUwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Rotblaute på radio</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_cfedf230-0c7f-463c-adf2-300c7f163c3c</link>
+      <description>Pesskveld er tradisjon, det er ikke noe mer å snakke om!</description>
+      <guid isPermaLink="false">l_cfedf230-0c7f-463c-adf2-300c7f163c3c</guid>
+      <pubDate>Thu, 15 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/c0cc8494-de4d-43a1-a378-1a6351f77960_0_ID192MP3.mp3" type="audio/mpeg" length="9210285"></enclosure>
+      <itunes:title>Evaluering: Rotblaute på radio</itunes:title>
+      <itunes:summary>Pesskveld er tradisjon, det er ikke noe mer å snakke om!</itunes:summary>
+      <itunes:duration>383</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Pesskveld spesial</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_1f233d3a-9c9b-4dad-a33d-3a9c9bbdad3f</link>
+      <description>Steve styrer sendinga mens Ståle roper &#34;sprit eller pess&#34;.</description>
+      <guid isPermaLink="false">l_1f233d3a-9c9b-4dad-a33d-3a9c9bbdad3f</guid>
+      <pubDate>Wed, 14 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/d80c8208-00a5-4ec3-a413-6b47d034040c_0_ID192MP3.mp3" type="audio/mpeg" length="49219245"></enclosure>
+      <itunes:title>Pesskveld spesial</itunes:title>
+      <itunes:summary>Steve styrer sendinga mens Ståle roper &#34;sprit eller pess&#34;.</itunes:summary>
+      <itunes:duration>2050</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/sjn-ZoTe99P7FWyVLIlb6AhMSA4j9Uws71NkflcXb3ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Dagkirurgi i butikk</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_cf0a4e58-3d3e-4d98-8a4e-583d3e2d982d</link>
+      <description>Ekstremværet Lars Torvald Johannesen var ingen fønvind fra svenskegrensa.</description>
+      <guid isPermaLink="false">l_cf0a4e58-3d3e-4d98-8a4e-583d3e2d982d</guid>
+      <pubDate>Thu, 08 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/a74fb78d-1991-4161-b782-5374f8474184_0_ID192MP3.mp3" type="audio/mpeg" length="12363309"></enclosure>
+      <itunes:title>Evaluering: Dagkirurgi i butikk</itunes:title>
+      <itunes:summary>Ekstremværet Lars Torvald Johannesen var ingen fønvind fra svenskegrensa.</itunes:summary>
+      <itunes:duration>515</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Makrellen spiser lik</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_2ca8b70b-7f8a-460d-a8b7-0b7f8a460db5</link>
+      <description>Lansering av dronedassen og idrettsrevy med boccia-avsløringer.</description>
+      <guid isPermaLink="false">l_2ca8b70b-7f8a-460d-a8b7-0b7f8a460db5</guid>
+      <pubDate>Wed, 07 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/ffbf5c34-0d96-4d63-99f1-f7f0e3f3b461_0_ID192MP3.mp3" type="audio/mpeg" length="48051693"></enclosure>
+      <itunes:title>Makrellen spiser lik</itunes:title>
+      <itunes:summary>Lansering av dronedassen og idrettsrevy med boccia-avsløringer.</itunes:summary>
+      <itunes:duration>2002</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mZ8bghoRaqUBU274msj0hweNP4qoOPBua0FyulVt6qnA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Mange har ikke etternavn</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_d451ba59-28eb-45d3-91ba-5928eb95d3ce</link>
+      <description>Og hvor nær slekt er det egentlig lov å ha med på radio?</description>
+      <guid isPermaLink="false">l_d451ba59-28eb-45d3-91ba-5928eb95d3ce</guid>
+      <pubDate>Thu, 01 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/4f11c3f8-78ff-497a-9ecc-0e36a63ed957_0_ID192MP3.mp3" type="audio/mpeg" length="12242349"></enclosure>
+      <itunes:title>Evaluering: Mange har ikke etternavn</itunes:title>
+      <itunes:summary>Og hvor nær slekt er det egentlig lov å ha med på radio?</itunes:summary>
+      <itunes:duration>510</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bolletur til Rabbstadnuten</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_ed91cec7-18dd-4199-91ce-c718dd6199a1</link>
+      <description>Klageforeningen i Bergen tar kontakt og en høne sperrer veien.</description>
+      <guid isPermaLink="false">l_ed91cec7-18dd-4199-91ce-c718dd6199a1</guid>
+      <pubDate>Wed, 31 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/dd3b468a-5815-478c-834a-f563bb5a86dc_0_ID192MP3.mp3" type="audio/mpeg" length="36955053"></enclosure>
+      <itunes:title>Bolletur til Rabbstadnuten</itunes:title>
+      <itunes:summary>Klageforeningen i Bergen tar kontakt og en høne sperrer veien.</itunes:summary>
+      <itunes:duration>1539</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OwlzThiuKJnGgP08Tw0aoQTypLBSPUPVlHkVbnfH09Vg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Alkoreklame er fortsatt ulovlig</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_19c74527-1f6f-4779-8745-271f6f177905</link>
+      <description>Men det er ingen som helst problemer med dronedassene.</description>
+      <guid isPermaLink="false">l_19c74527-1f6f-4779-8745-271f6f177905</guid>
+      <pubDate>Thu, 25 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/268e01e4-8c1a-4979-8421-6b8a65066d5f_0_ID192MP3.mp3" type="audio/mpeg" length="11115117"></enclosure>
+      <itunes:title>Evaluering: Alkoreklame er fortsatt ulovlig</itunes:title>
+      <itunes:summary>Men det er ingen som helst problemer med dronedassene.</itunes:summary>
+      <itunes:duration>463</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Inneholder produktplassering</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_b85f771f-8ac4-4191-9f77-1f8ac4e1916a</link>
+      <description>Hvalsprenging og lansering av ny hjemmebrentkolleksjon.</description>
+      <guid isPermaLink="false">l_b85f771f-8ac4-4191-9f77-1f8ac4e1916a</guid>
+      <pubDate>Wed, 24 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/4ec1f8d1-1b1e-43c9-988d-3d8723a1e9ca_0_ID192MP3.mp3" type="audio/mpeg" length="42607917"></enclosure>
+      <itunes:title>Inneholder produktplassering</itunes:title>
+      <itunes:summary>Hvalsprenging og lansering av ny hjemmebrentkolleksjon.</itunes:summary>
+      <itunes:duration>1775</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ok1oq_tjqyVtyfo06UcYkAn5pJUxH1Abj_F4boVbj4iw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Løypemerker tatt og veid</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_e4d7d0ce-fffe-4021-97d0-cefffe00216d</link>
+      <description>Bjørnar Barleggquist fanger mer enn elg ute i skogen.</description>
+      <guid isPermaLink="false">l_e4d7d0ce-fffe-4021-97d0-cefffe00216d</guid>
+      <pubDate>Thu, 18 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/886665cc-419f-4792-8473-27683b43a63e_0_ID192MP3.mp3" type="audio/mpeg" length="13010157"></enclosure>
+      <itunes:title>Evaluering: Løypemerker tatt og veid</itunes:title>
+      <itunes:summary>Bjørnar Barleggquist fanger mer enn elg ute i skogen.</itunes:summary>
+      <itunes:duration>542</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Catch and release av elg</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_990fccf0-4f95-4ef2-8fcc-f04f95def21c</link>
+      <description>Artistintervju fra USA og åpning av pallemuseet.</description>
+      <guid isPermaLink="false">l_990fccf0-4f95-4ef2-8fcc-f04f95def21c</guid>
+      <pubDate>Wed, 17 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/7fc8e7cc-2273-4296-aa1e-2dc11a436846_0_ID192MP3.mp3" type="audio/mpeg" length="50898861"></enclosure>
+      <itunes:title>Catch and release av elg</itunes:title>
+      <itunes:summary>Artistintervju fra USA og åpning av pallemuseet.</itunes:summary>
+      <itunes:duration>2120</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xEgjQYwwpxVWJg2Vvs76iQoZpDtWQHMz1aeUAroumpFg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Hva er en dronedass?</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_7b17b355-2147-4de7-97b3-5521471de79c</link>
+      <description>Det er forskjell på innovasjon og invasjon.</description>
+      <guid isPermaLink="false">l_7b17b355-2147-4de7-97b3-5521471de79c</guid>
+      <pubDate>Thu, 11 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/36183f1d-202a-4609-86d8-0a425fc1c424_0_ID192MP3.mp3" type="audio/mpeg" length="12700269"></enclosure>
+      <itunes:title>Evaluering: Hva er en dronedass?</itunes:title>
+      <itunes:summary>Det er forskjell på innovasjon og invasjon.</itunes:summary>
+      <itunes:duration>529</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ørnen lander</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_8e1483d5-6e72-4198-9483-d56e727198b5</link>
+      <description>Mystisk ornitolog ankommer Utslagsnes, det blir performancekunst med ku og ny låt fra Sølvkråkebolle.</description>
+      <guid isPermaLink="false">l_8e1483d5-6e72-4198-9483-d56e727198b5</guid>
+      <pubDate>Wed, 10 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/9cb6e4ed-05b9-4abe-828a-99fb64c089f7_0_ID192MP3.mp3" type="audio/mpeg" length="49495725"></enclosure>
+      <itunes:title>Ørnen lander</itunes:title>
+      <itunes:summary>Mystisk ornitolog ankommer Utslagsnes, det blir performancekunst med ku og ny låt fra Sølvkråkebolle.</itunes:summary>
+      <itunes:duration>2062</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kcQJw73PZRM78_Wpm0xrkg1ZNWE4g1fOhqdrGxer8f2A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Du er den fjerde statsmakt</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_6f9dca3b-51ba-4eb9-9dca-3b51ba4eb905</link>
+      <description>Vi diskuterer trenden med vassing og smaker på tørr-maneter.</description>
+      <guid isPermaLink="false">l_6f9dca3b-51ba-4eb9-9dca-3b51ba4eb905</guid>
+      <pubDate>Thu, 04 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/75d02817-5e31-41e8-ab16-da4a06ffd90a_0_ID192MP3.mp3" type="audio/mpeg" length="15772077"></enclosure>
+      <itunes:title>Evaluering: Du er den fjerde statsmakt</itunes:title>
+      <itunes:summary>Vi diskuterer trenden med vassing og smaker på tørr-maneter.</itunes:summary>
+      <itunes:duration>657</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Olsenvirus og turistattraksjoner</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_33013c45-6cc5-4a10-813c-456cc50a1005</link>
+      <description>Johnnyjohnny er tilbake, og lensmannen har tvilsomme formaninger.</description>
+      <guid isPermaLink="false">l_33013c45-6cc5-4a10-813c-456cc50a1005</guid>
+      <pubDate>Wed, 03 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/4dc261c0-4c7f-4b78-983b-d2b3e8789b97_0_ID192MP3.mp3" type="audio/mpeg" length="51416109"></enclosure>
+      <itunes:title>Olsenvirus og turistattraksjoner</itunes:title>
+      <itunes:summary>Johnnyjohnny er tilbake, og lensmannen har tvilsomme formaninger.</itunes:summary>
+      <itunes:duration>2142</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-IumlsOSD2Emms5Sgbq5cAkhSss6C-b-Wb2ArcfszfTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Klar for nye radioeventyr</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_a560cebc-85c8-4f53-a0ce-bc85c81f53ab</link>
+      <description>Det er forskjell på å bli beskyldt, eller bare mistenkt for svindel.</description>
+      <guid isPermaLink="false">l_a560cebc-85c8-4f53-a0ce-bc85c81f53ab</guid>
+      <pubDate>Tue, 02 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/4f200b8e-88e9-480b-80c4-7c629c3d3d3f_0_ID192MP3.mp3" type="audio/mpeg" length="9596205"></enclosure>
+      <itunes:title>Klar for nye radioeventyr</itunes:title>
+      <itunes:summary>Det er forskjell på å bli beskyldt, eller bare mistenkt for svindel.</itunes:summary>
+      <itunes:duration>399</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6V79P6ZFM_6Bt7r4aqt6egfRehOBLWe55xmBsjXSSUOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Dett var dett</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_65e61690-6ea0-49dd-a616-906ea019dd92</link>
+      <description>Ståle tar Runes dårlige nyheter med fatning.</description>
+      <guid isPermaLink="false">l_65e61690-6ea0-49dd-a616-906ea019dd92</guid>
+      <pubDate>Thu, 26 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/6713916e-f9e0-43dd-a30f-b2a790227e7a_0_ID192MP3.mp3" type="audio/mpeg" length="9778797"></enclosure>
+      <itunes:title>Evaluering: Dett var dett</itunes:title>
+      <itunes:summary>Ståle tar Runes dårlige nyheter med fatning.</itunes:summary>
+      <itunes:duration>407</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>BINGO!</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_3cffc4ef-c306-4af7-bfc4-efc3069af7da</link>
+      <description>Hører du? Bingo! Tre rekker i samme rubrikk.</description>
+      <guid isPermaLink="false">l_3cffc4ef-c306-4af7-bfc4-efc3069af7da</guid>
+      <pubDate>Wed, 25 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/9340c658-9191-47dd-a5b6-730f131a9027_0_ID192MP3.mp3" type="audio/mpeg" length="39654765"></enclosure>
+      <itunes:title>BINGO!</itunes:title>
+      <itunes:summary>Hører du? Bingo! Tre rekker i samme rubrikk.</itunes:summary>
+      <itunes:duration>1652</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TR0I0zVAy2oIQgCNbSHLMQ0CXSRJRv4aLDdNJB6N_gzw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Rødvin og lotterioppsyn</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_e69adfd2-9bf3-4cc0-9adf-d29bf3acc04c</link>
+      <description>Billige Bodil, rødvin og konfekt gir bingotillatelse.</description>
+      <guid isPermaLink="false">l_e69adfd2-9bf3-4cc0-9adf-d29bf3acc04c</guid>
+      <pubDate>Thu, 19 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/d135fb1a-e955-4952-8cc3-ef7f464e2b7d_0_ID192MP3.mp3" type="audio/mpeg" length="10447533"></enclosure>
+      <itunes:title>Evaluering: Rødvin og lotterioppsyn</itunes:title>
+      <itunes:summary>Billige Bodil, rødvin og konfekt gir bingotillatelse.</itunes:summary>
+      <itunes:duration>435</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ni fingre, ei øks</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_a69a90f4-9b00-421c-9a90-f49b00721c52</link>
+      <description>Fangst fra Barleggquist og tragisk historie fra Bollan.</description>
+      <guid isPermaLink="false">l_a69a90f4-9b00-421c-9a90-f49b00721c52</guid>
+      <pubDate>Wed, 18 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/10ee27a6-eb3e-4819-806c-42c93cf94330_0_ID192MP3.mp3" type="audio/mpeg" length="43243821"></enclosure>
+      <itunes:title>Ni fingre, ei øks</itunes:title>
+      <itunes:summary>Fangst fra Barleggquist og tragisk historie fra Bollan.</itunes:summary>
+      <itunes:duration>1801</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Rhu6IL_PZLl0317pIeVtqwQ9kl-dOHjigOp1AeU1Z9Lw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Sundquist er en vanlig mann</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_417efa7a-fb73-472e-befa-7afb73972e62</link>
+      <description>Ståle har dramatiske nyheter. Er det kroken på døra?</description>
+      <guid isPermaLink="false">l_417efa7a-fb73-472e-befa-7afb73972e62</guid>
+      <pubDate>Thu, 12 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/0c521760-b19a-4440-a1e5-a93840a6f89b_0_ID192MP3.mp3" type="audio/mpeg" length="12045933"></enclosure>
+      <itunes:title>Evaluering: Sundquist er en vanlig mann</itunes:title>
+      <itunes:summary>Ståle har dramatiske nyheter. Er det kroken på døra?</itunes:summary>
+      <itunes:duration>501</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nesten en rein kopi av Se &amp; Hør</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_c9128383-5065-4ce3-9283-835065cce326</link>
+      <description>Generalprøve på Fættvikaspelet og test av kopimaskin.</description>
+      <guid isPermaLink="false">l_c9128383-5065-4ce3-9283-835065cce326</guid>
+      <pubDate>Wed, 11 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/f77c2d06-4362-4f27-a780-0014f3b1e378_0_ID192MP3.mp3" type="audio/mpeg" length="38492397"></enclosure>
+      <itunes:title>Nesten en rein kopi av Se &amp; Hør</itunes:title>
+      <itunes:summary>Generalprøve på Fættvikaspelet og test av kopimaskin.</itunes:summary>
+      <itunes:duration>1603</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eHzGAA7u0FABvMRI0bOLzgkTk27-7Ojp7y7TZWu5qbNw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Sykehjem i butikk</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_db13c8ab-8871-4cdb-93c8-ab88719cdb24</link>
+      <description>Kan man bosette gammel dame i kolonial?</description>
+      <guid isPermaLink="false">l_db13c8ab-8871-4cdb-93c8-ab88719cdb24</guid>
+      <pubDate>Thu, 05 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/eff42e4d-6589-47a5-8752-6e45c4b2bbe0_0_ID192MP3.mp3" type="audio/mpeg" length="9220077"></enclosure>
+      <itunes:title>Evaluering: Sykehjem i butikk</itunes:title>
+      <itunes:summary>Kan man bosette gammel dame i kolonial?</itunes:summary>
+      <itunes:duration>384</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Uten billett kommer du faen ikke inn</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_78f6fba9-fd54-4adb-b6fb-a9fd549adbd9</link>
+      <description>Sending fra Feskslodagan og konsert med Bollan.</description>
+      <guid isPermaLink="false">l_78f6fba9-fd54-4adb-b6fb-a9fd549adbd9</guid>
+      <pubDate>Wed, 04 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/88acd311-23aa-403c-ba5c-31b3a42745ea_0_ID192MP3.mp3" type="audio/mpeg" length="38145645"></enclosure>
+      <itunes:title>Uten billett kommer du faen ikke inn</itunes:title>
+      <itunes:summary>Sending fra Feskslodagan og konsert med Bollan.</itunes:summary>
+      <itunes:duration>1589</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x4zERf6uGfat0lh-1H5v1AaG-nA97Lsovvp6eTdSD-UQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Hvorfor gikk du med på det?</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_8eac42bd-3b29-4dbf-ac42-bd3b290dbfd3</link>
+      <description>Røykeforliket og omtalen av Edel i kiosken diskuteres. Igjen.</description>
+      <guid isPermaLink="false">l_8eac42bd-3b29-4dbf-ac42-bd3b290dbfd3</guid>
+      <pubDate>Thu, 28 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/d11cf088-2345-4082-9a56-e6ee864cb6cd_0_ID192MP3.mp3" type="audio/mpeg" length="8836461"></enclosure>
+      <itunes:title>Evaluering: Hvorfor gikk du med på det?</itunes:title>
+      <itunes:summary>Røykeforliket og omtalen av Edel i kiosken diskuteres. Igjen.</itunes:summary>
+      <itunes:duration>368</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fotball med kniv eller kjepp?</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_c2b6a385-5749-4bed-b6a3-855749fbed41</link>
+      <description>Lokaloppgjør, musikalske patroner og ny låt fra Sølvkråkebolle.</description>
+      <guid isPermaLink="false">l_c2b6a385-5749-4bed-b6a3-855749fbed41</guid>
+      <pubDate>Wed, 27 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/a7108c77-2a98-445f-97bb-621d75ff8b77_0_ID192MP3.mp3" type="audio/mpeg" length="28968813"></enclosure>
+      <itunes:title>Fotball med kniv eller kjepp?</itunes:title>
+      <itunes:summary>Lokaloppgjør, musikalske patroner og ny låt fra Sølvkråkebolle.</itunes:summary>
+      <itunes:duration>1206</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WOT9-PFmSMktCUybcr8V4QwZkb15RfZIEJAo8wi1yx-w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Du ser ikke med din egen hånd</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_5af6b97a-853e-4d08-b6b9-7a853e7d08dc</link>
+      <description>Oppheta diskusjon om refleksbruk og maktfordelingsprinsippet.</description>
+      <guid isPermaLink="false">l_5af6b97a-853e-4d08-b6b9-7a853e7d08dc</guid>
+      <pubDate>Thu, 21 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/2bd087ea-7dab-4a99-96ec-0365180d59a2_0_ID192MP3.mp3" type="audio/mpeg" length="10449261"></enclosure>
+      <itunes:title>Evaluering: Du ser ikke med din egen hånd</itunes:title>
+      <itunes:summary>Oppheta diskusjon om refleksbruk og maktfordelingsprinsippet.</itunes:summary>
+      <itunes:duration>435</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vær nøktern med refleksbruken</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_32281851-369a-4d7b-a818-51369a5d7b16</link>
+      <description>Ståle blir tobakk-saksøkt og “Vattenmelonsukker høgt” spilles live.</description>
+      <guid isPermaLink="false">l_32281851-369a-4d7b-a818-51369a5d7b16</guid>
+      <pubDate>Wed, 20 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/7f3d1757-08e0-43ad-bbd9-09c607aa0a20_0_ID192MP3.mp3" type="audio/mpeg" length="34934445"></enclosure>
+      <itunes:title>Vær nøktern med refleksbruken</itunes:title>
+      <itunes:summary>Ståle blir tobakk-saksøkt og “Vattenmelonsukker høgt” spilles live.</itunes:summary>
+      <itunes:duration>1455</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MFwauOBtnNg7xHU2W3QmaAtnoyq97MI-CNp5rT7ixG3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: I en båt av trolldeig</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_1256c83d-cbab-4db1-96c8-3dcbab1db102</link>
+      <description>Hva er greia mellom Ståle og Dagny B. Singsaas?</description>
+      <guid isPermaLink="false">l_1256c83d-cbab-4db1-96c8-3dcbab1db102</guid>
+      <pubDate>Thu, 14 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/083f3bf5-3d26-49af-88e8-72cf2c10ad2d_0_ID192MP3.mp3" type="audio/mpeg" length="10286253"></enclosure>
+      <itunes:title>Evaluering: I en båt av trolldeig</itunes:title>
+      <itunes:summary>Hva er greia mellom Ståle og Dagny B. Singsaas?</itunes:summary>
+      <itunes:duration>428</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kaffe eller bare kaffe?</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_e81b6728-0656-473e-9b67-280656373e38</link>
+      <description>Camp-fluensere og ny låt fra Sølvkråkebolle.</description>
+      <guid isPermaLink="false">l_e81b6728-0656-473e-9b67-280656373e38</guid>
+      <pubDate>Wed, 13 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/8db4a152-e815-4775-8f43-f491dd3ec96c_0_ID192MP3.mp3" type="audio/mpeg" length="34874541"></enclosure>
+      <itunes:title>Kaffe eller bare kaffe?</itunes:title>
+      <itunes:summary>Camp-fluensere og ny låt fra Sølvkråkebolle.</itunes:summary>
+      <itunes:duration>1453</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Nbu3KdYpEobeC6EPEzVEnweUVCw1OdNFSP8PNxCOHc9w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Hvor mye kan man kjederøyke?</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_98091bca-bc71-4c9f-891b-cabc718c9ff9</link>
+      <description>Diskusjon om grevlinger i studio og Edel i kiosken.</description>
+      <guid isPermaLink="false">l_98091bca-bc71-4c9f-891b-cabc718c9ff9</guid>
+      <pubDate>Thu, 07 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/bfdfaeee-2abb-42e0-a607-6cc8e0b2a0ff_0_ID192MP3.mp3" type="audio/mpeg" length="8035821"></enclosure>
+      <itunes:title>Evaluering: Hvor mye kan man kjederøyke?</itunes:title>
+      <itunes:summary>Diskusjon om grevlinger i studio og Edel i kiosken.</itunes:summary>
+      <itunes:duration>334</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Trapp opp i himmelen</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_78664653-9a53-4d51-a646-539a53fd510c</link>
+      <description>Levende grevling i studio og engelske klassikere på norsk.</description>
+      <guid isPermaLink="false">l_78664653-9a53-4d51-a646-539a53fd510c</guid>
+      <pubDate>Wed, 06 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/b67dcbc7-8d27-4163-afc7-6ca3d4ce8e53_0_ID192MP3.mp3" type="audio/mpeg" length="33627501"></enclosure>
+      <itunes:title>Trapp opp i himmelen</itunes:title>
+      <itunes:summary>Levende grevling i studio og engelske klassikere på norsk.</itunes:summary>
+      <itunes:duration>1401</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/F3lFhFH6o4KXuNy35H_SMgrweNZLGAkeG0cjeUMu4Yrw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Det er ikke min stemme</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_941aa4e0-10a1-4fb1-9aa4-e010a1afb165</link>
+      <description>Er det mulig å gjøre stemmen sin ugjenkjennelig?</description>
+      <guid isPermaLink="false">l_941aa4e0-10a1-4fb1-9aa4-e010a1afb165</guid>
+      <pubDate>Thu, 31 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/d7dbe70d-525f-4645-bf1e-3ef5b490db47_0_ID192MP3.mp3" type="audio/mpeg" length="9798957"></enclosure>
+      <itunes:title>Evaluering: Det er ikke min stemme</itunes:title>
+      <itunes:summary>Er det mulig å gjøre stemmen sin ugjenkjennelig?</itunes:summary>
+      <itunes:duration>408</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mye mentalt og en god del følelser</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_03ead5aa-758c-4e5c-aad5-aa758c7e5ccb</link>
+      <description>Lokalhistorie i Fættvika og Sølvkråkebolles tunge tid.</description>
+      <guid isPermaLink="false">l_03ead5aa-758c-4e5c-aad5-aa758c7e5ccb</guid>
+      <pubDate>Wed, 30 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/cbcf95c8-e05c-46fd-bb00-f48acad90953_0_ID192MP3.mp3" type="audio/mpeg" length="35941869"></enclosure>
+      <itunes:title>Mye mentalt og en god del følelser</itunes:title>
+      <itunes:summary>Lokalhistorie i Fættvika og Sølvkråkebolles tunge tid.</itunes:summary>
+      <itunes:duration>1497</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3hYRFOLDam5A3QS1E2i1kgPAFATMFB8EMRPV5Me51Yng"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Evaluering: Kan alle lese reklame?</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_65a0f976-4974-4a13-a0f9-7649742a139b</link>
+      <description>Ståle må gjøre endringer på reklamefronten.</description>
+      <guid isPermaLink="false">l_65a0f976-4974-4a13-a0f9-7649742a139b</guid>
+      <pubDate>Thu, 24 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/6be67a47-008b-4559-9b4e-e0d59a2dcd44_0_ID192MP3.mp3" type="audio/mpeg" length="8343405"></enclosure>
+      <itunes:title>Evaluering: Kan alle lese reklame?</itunes:title>
+      <itunes:summary>Ståle må gjøre endringer på reklamefronten.</itunes:summary>
+      <itunes:duration>347</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SZQ6hvJMernIa1j1jS65mgL-M4_htIh375ZL98ZFR0Ug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Premiere på Radio Utslagsnes</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_43a384c2-444e-4392-a384-c2444e6392ba</link>
+      <description>Høytidelig åpning og fanfaremaskin fra Murmansk.</description>
+      <guid isPermaLink="false">l_43a384c2-444e-4392-a384-c2444e6392ba</guid>
+      <pubDate>Wed, 23 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/45349707-6f55-4cad-9eb6-e32dda8c6188_0_ID192MP3.mp3" type="audio/mpeg" length="23636205"></enclosure>
+      <itunes:title>Premiere på Radio Utslagsnes</itunes:title>
+      <itunes:summary>Høytidelig åpning og fanfaremaskin fra Murmansk.</itunes:summary>
+      <itunes:duration>984</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UybsJkxdlSVEqjY7JwKRXgTBibWM_Aezr5mFA-1sjT5A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Testing one two three</title>
+      <link>https://radio.nrk.no/podkast/radio_utslagsnes/l_de533589-5832-4ca0-9335-8958324ca060</link>
+      <description>Bare sjekker at det funker her</description>
+      <guid isPermaLink="false">l_de533589-5832-4ca0-9335-8958324ca060</guid>
+      <pubDate>Wed, 16 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radio_utslagsnes/044f674b-5f8c-4685-97fe-9f242a1f7354_0_ID192MP3.mp3" type="audio/mpeg" length="4182381"></enclosure>
+      <itunes:title>Testing one two three</itunes:title>
+      <itunes:summary>Bare sjekker at det funker her</itunes:summary>
+      <itunes:duration>174</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ifcPRz1Psh-HScaGwRebognK8q2jCa1Hvmwc4SBZsrQg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

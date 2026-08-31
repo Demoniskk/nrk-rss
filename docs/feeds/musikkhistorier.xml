@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musikkhistorier</title>
+    <link>https://radio.nrk.no/podkast/musikkhistorier</link>
+    <description>Hør historiene bak musikken og artistene du elsker.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 27 May 2026 12:03:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/musikkhistorier.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Hør historiene bak musikken og artistene du elsker.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/LJiZ3Tf30RzgEzvmJs8OWgkHbADPrVMPKVD4k8OOenWQ"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/LJiZ3Tf30RzgEzvmJs8OWgkHbADPrVMPKVD4k8OOenWQ</url>
+      <title>Musikkhistorier</title>
+      <link>https://radio.nrk.no/podkast/musikkhistorier</link>
+    </image>
+    <item>
+      <title>4: Sjelesørgeren</title>
+      <link>https://radio.nrk.no/podkast/musikkhistorier/l_0f78641e-0456-4c10-b864-1e0456cc10e9</link>
+      <description>Da sorgen etter tragediene nesten ble for mye, var det fansen som hjalp Nick Cave over kneika. Sammen skapte de noe unikt.</description>
+      <guid isPermaLink="false">l_0f78641e-0456-4c10-b864-1e0456cc10e9</guid>
+      <pubDate>Wed, 27 May 2026 14:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikkhistorier/0f78641e-0456-4c10-b864-1e0456cc10e9_1_ID192MP3.mp3" type="audio/mpeg" length="82103660"></enclosure>
+      <itunes:title>4: Sjelesørgeren</itunes:title>
+      <itunes:summary>Da sorgen etter tragediene nesten ble for mye, var det fansen som hjalp Nick Cave over kneika. Sammen skapte de noe unikt.</itunes:summary>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NsOcPR9gT1HOdmT-t9mlcAeOLdYr5bDf1Gn-XEmpT4jw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>3: Allemannseie</title>
+      <link>https://radio.nrk.no/podkast/musikkhistorier/l_09410b65-e3dc-4562-810b-65e3dc7562ee</link>
+      <description>Ufrivillig befinner han seg på hitlistene. Det kaotiske livet fører til kjærlighetssorg – og noen veldig vakre plater.</description>
+      <guid isPermaLink="false">l_09410b65-e3dc-4562-810b-65e3dc7562ee</guid>
+      <pubDate>Wed, 27 May 2026 14:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikkhistorier/09410b65-e3dc-4562-810b-65e3dc7562ee_1_ID192MP3.mp3" type="audio/mpeg" length="82097324"></enclosure>
+      <itunes:title>3: Allemannseie</itunes:title>
+      <itunes:summary>Ufrivillig befinner han seg på hitlistene. Det kaotiske livet fører til kjærlighetssorg – og noen veldig vakre plater.</itunes:summary>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NsOcPR9gT1HOdmT-t9mlcAeOLdYr5bDf1Gn-XEmpT4jw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>2: De sinte årene</title>
+      <link>https://radio.nrk.no/podkast/musikkhistorier/l_44b64039-46f6-4c9d-b640-3946f61c9d2f</link>
+      <description>Post-punkeren lever et omflakkende liv på rus og rockemyter. Så en en dag finner han sin indre ballademaker.</description>
+      <guid isPermaLink="false">l_44b64039-46f6-4c9d-b640-3946f61c9d2f</guid>
+      <pubDate>Wed, 27 May 2026 14:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikkhistorier/44b64039-46f6-4c9d-b640-3946f61c9d2f_1_ID192MP3.mp3" type="audio/mpeg" length="82101932"></enclosure>
+      <itunes:title>2: De sinte årene</itunes:title>
+      <itunes:summary>Post-punkeren lever et omflakkende liv på rus og rockemyter. Så en en dag finner han sin indre ballademaker.</itunes:summary>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NsOcPR9gT1HOdmT-t9mlcAeOLdYr5bDf1Gn-XEmpT4jw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>1: Lys i mørket</title>
+      <link>https://radio.nrk.no/podkast/musikkhistorier/l_385a7c29-823a-4d11-9a7c-29823aad1174</link>
+      <description>Han er junkie-punkeren som gikk fra bølle til bestevenn. Hva er det som gjør Nick Cave så spesiell?</description>
+      <guid isPermaLink="false">l_385a7c29-823a-4d11-9a7c-29823aad1174</guid>
+      <pubDate>Wed, 27 May 2026 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikkhistorier/385a7c29-823a-4d11-9a7c-29823aad1174_1_ID192MP3.mp3" type="audio/mpeg" length="82098476"></enclosure>
+      <itunes:title>1: Lys i mørket</itunes:title>
+      <itunes:summary>Han er junkie-punkeren som gikk fra bølle til bestevenn. Hva er det som gjør Nick Cave så spesiell?</itunes:summary>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NsOcPR9gT1HOdmT-t9mlcAeOLdYr5bDf1Gn-XEmpT4jw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>6: Arven</title>
+      <link>https://radio.nrk.no/podkast/musikkhistorier/l_8adfcaef-d363-4835-9fca-efd3638835fc</link>
+      <description>Et siste raseriutbrudd tar til slutt livet hans.</description>
+      <guid isPermaLink="false">l_8adfcaef-d363-4835-9fca-efd3638835fc</guid>
+      <pubDate>Thu, 14 May 2026 06:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikkhistorier/8adfcaef-d363-4835-9fca-efd3638835fc_2_ID192MP3.mp3" type="audio/mpeg" length="82101932"></enclosure>
+      <itunes:title>6: Arven</itunes:title>
+      <itunes:summary>Et siste raseriutbrudd tar til slutt livet hans.</itunes:summary>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/sH9kecAWm3iy2cdLstweQwt3eXGwAgKcLF1T0hXhwesg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>5: Elektrisk Miles</title>
+      <link>https://radio.nrk.no/podkast/musikkhistorier/l_a56fc363-b3f0-427d-afc3-63b3f0127d30</link>
+      <description>Jazz er umoderne. Er det pengenød som lokker Miles inn i funk og rock?</description>
+      <guid isPermaLink="false">l_a56fc363-b3f0-427d-afc3-63b3f0127d30</guid>
+      <pubDate>Thu, 14 May 2026 06:16:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikkhistorier/a56fc363-b3f0-427d-afc3-63b3f0127d30_3_ID192MP3.mp3" type="audio/mpeg" length="82046060"></enclosure>
+      <itunes:title>5: Elektrisk Miles</itunes:title>
+      <itunes:summary>Jazz er umoderne. Er det pengenød som lokker Miles inn i funk og rock?</itunes:summary>
+      <itunes:duration>3418</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KMvHCgSeu__FupL8HKlPXwgHumJa73tjtqIJYCd-8U8g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>4: Kind of Blue</title>
+      <link>https://radio.nrk.no/podkast/musikkhistorier/l_abb5b795-1221-4748-b5b7-9512215748a7</link>
+      <description>Jazzhistoriens vakreste og viktigste 45 minutter.</description>
+      <guid isPermaLink="false">l_abb5b795-1221-4748-b5b7-9512215748a7</guid>
+      <pubDate>Thu, 14 May 2026 06:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikkhistorier/abb5b795-1221-4748-b5b7-9512215748a7_3_ID192MP3.mp3" type="audio/mpeg" length="82111724"></enclosure>
+      <itunes:title>4: Kind of Blue</itunes:title>
+      <itunes:summary>Jazzhistoriens vakreste og viktigste 45 minutter.</itunes:summary>
+      <itunes:duration>3421</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FdyQ-QhNOGzVLFU_kJNkCAx-X0EOKS6LHJ-Tsp-LWPWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>3: Annenrangs borger</title>
+      <link>https://radio.nrk.no/podkast/musikkhistorier/l_2a0b1085-c306-46a0-8b10-85c306d6a010</link>
+      <description>Er det rasismen i USA som gjør Miles narkoman?</description>
+      <guid isPermaLink="false">l_2a0b1085-c306-46a0-8b10-85c306d6a010</guid>
+      <pubDate>Thu, 14 May 2026 06:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikkhistorier/2a0b1085-c306-46a0-8b10-85c306d6a010_2_ID192MP3.mp3" type="audio/mpeg" length="82076588"></enclosure>
+      <itunes:title>3: Annenrangs borger</itunes:title>
+      <itunes:summary>Er det rasismen i USA som gjør Miles narkoman?</itunes:summary>
+      <itunes:duration>3419</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OvclSudIYQRPqGz278Mejg8ZQDtJJMj270PwpYceiruQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>2: Rolig nå!</title>
+      <link>https://radio.nrk.no/podkast/musikkhistorier/l_d91740d8-7f04-43b3-9740-d87f0433b394</link>
+      <description>Skaper Miles en ny type jazz fordi han ikke orket bebobens tempo?</description>
+      <guid isPermaLink="false">l_d91740d8-7f04-43b3-9740-d87f0433b394</guid>
+      <pubDate>Thu, 14 May 2026 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikkhistorier/d91740d8-7f04-43b3-9740-d87f0433b394_4_ID192MP3.mp3" type="audio/mpeg" length="82031084"></enclosure>
+      <itunes:title>2: Rolig nå!</itunes:title>
+      <itunes:summary>Skaper Miles en ny type jazz fordi han ikke orket bebobens tempo?</itunes:summary>
+      <itunes:duration>3417</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/q9eaKkHoWJZYgjH6oBudywgzflc9n-DCqq3j38pd1Qdw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>1: Forbannelsen</title>
+      <link>https://radio.nrk.no/podkast/musikkhistorier/l_b3b3ad33-6357-4ccd-b3ad-3363579ccdd1</link>
+      <description>Fornyelsen er en forbannelse for ham. Sånn endrer Miles Davis musikkhistorien flere ganger.</description>
+      <guid isPermaLink="false">l_b3b3ad33-6357-4ccd-b3ad-3363579ccdd1</guid>
+      <pubDate>Thu, 14 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikkhistorier/b3b3ad33-6357-4ccd-b3ad-3363579ccdd1_2_ID192MP3.mp3" type="audio/mpeg" length="82123820"></enclosure>
+      <itunes:title>1: Forbannelsen</itunes:title>
+      <itunes:summary>Fornyelsen er en forbannelse for ham. Sånn endrer Miles Davis musikkhistorien flere ganger.</itunes:summary>
+      <itunes:duration>3421</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3IrILSNpbgqH4cNa-hWRJgryFWUOmvDvpXOAgx_8UEHA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Tidskapselen åpnes (2:2)</title>
+      <link>https://radio.nrk.no/podkast/musikkhistorier/l_b3dc72fd-315a-49dc-9c72-fd315a39dc6e</link>
+      <description>Stemmer fra 1800-tallet og unike lydskatter trer fram. Hør hvilke hemmeligheter som skjuler seg i den 120 år gamle tidskapselen.</description>
+      <guid isPermaLink="false">l_b3dc72fd-315a-49dc-9c72-fd315a39dc6e</guid>
+      <pubDate>Tue, 20 Jan 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikkhistorier/b3dc72fd-315a-49dc-9c72-fd315a39dc6e_ID192MP3.mp3" type="audio/mpeg" length="77823980"></enclosure>
+      <itunes:title>Tidskapselen åpnes (2:2)</itunes:title>
+      <itunes:summary>Stemmer fra 1800-tallet og unike lydskatter trer fram. Hør hvilke hemmeligheter som skjuler seg i den 120 år gamle tidskapselen.</itunes:summary>
+      <itunes:duration>3242</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UI4xqR7MVNOCLg4ilrCPZQSr9EhsjJmMb-OawNsvAi9w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Jørisdalrullene (1:2)</title>
+      <link>https://radio.nrk.no/podkast/musikkhistorier/l_6f0c81a3-4e1c-4cee-8c81-a34e1c0cee7c</link>
+      <description>Inneholder den 120 år gamle tidskapselen i det hele tatt lyd? Drømmen om folkemusikkens gull starter jakten til John Ole Morken.</description>
+      <guid isPermaLink="false">l_6f0c81a3-4e1c-4cee-8c81-a34e1c0cee7c</guid>
+      <pubDate>Tue, 20 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikkhistorier/6f0c81a3-4e1c-4cee-8c81-a34e1c0cee7c_ID192MP3.mp3" type="audio/mpeg" length="54736748"></enclosure>
+      <itunes:title>Jørisdalrullene (1:2)</itunes:title>
+      <itunes:summary>Inneholder den 120 år gamle tidskapselen i det hele tatt lyd? Drømmen om folkemusikkens gull starter jakten til John Ole Morken.</itunes:summary>
+      <itunes:duration>2280</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UI4xqR7MVNOCLg4ilrCPZQSr9EhsjJmMb-OawNsvAi9w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

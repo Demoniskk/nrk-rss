@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SOS Nødtelefonen</title>
+    <link>https://radio.nrk.no/podkast/sos_noedtelefonen</link>
+    <description>Når en ulykke inntreffer, ringer vi nødtelefon. I denne podkasten får du historiene om hva som skjedde før, under og etter de skjebnesvangre minuttene. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Mon, 11 Apr 2022 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sos_noedtelefonen.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Når en ulykke inntreffer, ringer vi nødtelefon. I denne podkasten får du historiene om hva som skjedde før, under og etter de skjebnesvangre minuttene. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg"></itunes:image>
+    <itunes:category text="History"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg</url>
+      <title>SOS Nødtelefonen</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen</link>
+    </image>
+    <item>
+      <title>Kim mot naturkreftene</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_03a15f26-5430-4670-a15f-265430c67034</link>
+      <description>Snowboarderen Kim Christiansen velger å kjøre Hemsedals urørte fjellsider alene, langt fra skianlegget. Det skal få store konsekvenser.</description>
+      <guid isPermaLink="false">l_03a15f26-5430-4670-a15f-265430c67034</guid>
+      <pubDate>Mon, 11 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/7e47d92f-bb1b-49a9-944c-08fb5b97815e_0_ID192MP3.mp3" type="audio/mpeg" length="48165741"></enclosure>
+      <itunes:title>Kim mot naturkreftene</itunes:title>
+      <itunes:summary>Snowboarderen Kim Christiansen velger å kjøre Hemsedals urørte fjellsider alene, langt fra skianlegget. Det skal få store konsekvenser.</itunes:summary>
+      <itunes:duration>2006</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sidecross-ulykken</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_56368f03-8a5b-4b63-b68f-038a5bfb6317</link>
+      <description>Per Thomas våkner på Ullevål med stort hukommelsestap. Har han barn, og hvem er hun som stadig kommer på besøk? Det viser seg at Per Thomas har drevet med motorsport, og at han var på vei mot VM i sidecross.</description>
+      <guid isPermaLink="false">l_56368f03-8a5b-4b63-b68f-038a5bfb6317</guid>
+      <pubDate>Mon, 04 Apr 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/ffdd8ac3-01f9-447b-9794-578d946f2da1_0_ID192MP3.mp3" type="audio/mpeg" length="41137965"></enclosure>
+      <itunes:title>Sidecross-ulykken</itunes:title>
+      <itunes:summary>Per Thomas våkner på Ullevål med stort hukommelsestap. Har han barn, og hvem er hun som stadig kommer på besøk? Det viser seg at Per Thomas har drevet med motorsport, og at han var på vei mot VM i sidecross.</itunes:summary>
+      <itunes:duration>1714</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Pappa faller om</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_1d4afd39-4a0b-426e-8afd-394a0b326e72</link>
+      <description>13 år gamle Anna Linnea er på tur med faren sin. De skal bare ta en kort hvilepause når han plutselig faller om og blir liggende livløs på en benk.</description>
+      <guid isPermaLink="false">l_1d4afd39-4a0b-426e-8afd-394a0b326e72</guid>
+      <pubDate>Mon, 28 Mar 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/cfd37b87-d704-498f-b7b4-bd9b9b96d7df_0_ID192MP3.mp3" type="audio/mpeg" length="39622509"></enclosure>
+      <itunes:title>Pappa faller om</itunes:title>
+      <itunes:summary>13 år gamle Anna Linnea er på tur med faren sin. De skal bare ta en kort hvilepause når han plutselig faller om og blir liggende livløs på en benk.</itunes:summary>
+      <itunes:duration>1650</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fødsel på Ring 3</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_689a9170-a99b-4b9e-9a91-70a99bab9e51</link>
+      <description>Høygravide Mari har rier og er seks dager over termin, men på fødemottaket tror de det kan ta tid før fødselen er i gang. Det skal få dramatiske følger.</description>
+      <guid isPermaLink="false">l_689a9170-a99b-4b9e-9a91-70a99bab9e51</guid>
+      <pubDate>Mon, 21 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/a94a223c-d69a-426d-b6cd-af5d07938405_0_ID192MP3.mp3" type="audio/mpeg" length="46569069"></enclosure>
+      <itunes:title>Fødsel på Ring 3</itunes:title>
+      <itunes:summary>Høygravide Mari har rier og er seks dager over termin, men på fødemottaket tror de det kan ta tid før fødselen er i gang. Det skal få dramatiske følger.</itunes:summary>
+      <itunes:duration>1940</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lille Jonas</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_768f23b8-eb7f-42e6-8f23-b8eb7fb2e6a6</link>
+      <description>På en avsidesliggende hytte opplever familien sitt verste mareritt når noe alvorlig skjer med sønnen på halvannet år.  </description>
+      <guid isPermaLink="false">l_768f23b8-eb7f-42e6-8f23-b8eb7fb2e6a6</guid>
+      <pubDate>Mon, 14 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/42463875-92db-4b3d-8841-43a6a06a2068_0_ID192MP3.mp3" type="audio/mpeg" length="38309805"></enclosure>
+      <itunes:title>Lille Jonas</itunes:title>
+      <itunes:summary>På en avsidesliggende hytte opplever familien sitt verste mareritt når noe alvorlig skjer med sønnen på halvannet år.  </itunes:summary>
+      <itunes:duration>1596</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QaL4giPJkiWf2lUwvk0y9QwlNYuSx5CvxEb8ca7Dfu2g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Einars siste stup</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_fb3b9dc4-d0f8-4f3f-bb9d-c4d0f88f3fc6</link>
+      <description>Ved familiehytta på en avsidesliggende øy i Trøndelag drar familien Stordahl for å bade. Når pappa Einar skal stupe fra berget slik han alltid har gjort, går det fryktelig galt.</description>
+      <guid isPermaLink="false">l_fb3b9dc4-d0f8-4f3f-bb9d-c4d0f88f3fc6</guid>
+      <pubDate>Mon, 07 Mar 2022 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/3999735e-6f8e-437e-b1dd-e502a35293d9_0_ID192MP3.mp3" type="audio/mpeg" length="39764781"></enclosure>
+      <itunes:title>Einars siste stup</itunes:title>
+      <itunes:summary>Ved familiehytta på en avsidesliggende øy i Trøndelag drar familien Stordahl for å bade. Når pappa Einar skal stupe fra berget slik han alltid har gjort, går det fryktelig galt.</itunes:summary>
+      <itunes:duration>1656</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QaL4giPJkiWf2lUwvk0y9QwlNYuSx5CvxEb8ca7Dfu2g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Redningsskøyta Ægirs siste oppdrag</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_4940df43-ad78-4b5d-80df-43ad784b5d89</link>
+      <description>En stormfull høstkveld drar en redningsbåt ut på søk etter to turister som har blåst på sjøen. Det voldsomme været skaper en livsfarlig redningsaksjon, og det er flere enn turistene som må reddes.</description>
+      <guid isPermaLink="false">l_4940df43-ad78-4b5d-80df-43ad784b5d89</guid>
+      <pubDate>Mon, 28 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/715c3325-de12-402f-8f5e-8582cfcc1fc8_0_ID192MP3.mp3" type="audio/mpeg" length="40083309"></enclosure>
+      <itunes:title>Redningsskøyta Ægirs siste oppdrag</itunes:title>
+      <itunes:summary>En stormfull høstkveld drar en redningsbåt ut på søk etter to turister som har blåst på sjøen. Det voldsomme været skaper en livsfarlig redningsaksjon, og det er flere enn turistene som må reddes.</itunes:summary>
+      <itunes:duration>1670</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QaL4giPJkiWf2lUwvk0y9QwlNYuSx5CvxEb8ca7Dfu2g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Halloweendrapet</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_78a4a723-7aff-4f97-a4a7-237aff9f975c</link>
+      <description>Et studentkollektiv i Oslo blir åstedet for et ubegripelig angrep. Hva skjedde egentlig den skjebnesvangre halloween-natten i 2011? </description>
+      <guid isPermaLink="false">l_78a4a723-7aff-4f97-a4a7-237aff9f975c</guid>
+      <pubDate>Mon, 21 Feb 2022 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/5f7d272b-bf5d-4af0-943b-08766bcf943f_0_ID192MP3.mp3" type="audio/mpeg" length="52803117"></enclosure>
+      <itunes:title>Halloweendrapet</itunes:title>
+      <itunes:summary>Et studentkollektiv i Oslo blir åstedet for et ubegripelig angrep. Hva skjedde egentlig den skjebnesvangre halloween-natten i 2011? </itunes:summary>
+      <itunes:duration>2200</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ronnys styrt</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_5affc4f9-6088-4bd2-bfc4-f960880bd236</link>
+      <description>Et plutselig værskifte får svært dramatiske konsekvenser for Ronny som flyr paraglider fra Spillumsfjellet i 2015.</description>
+      <guid isPermaLink="false">l_5affc4f9-6088-4bd2-bfc4-f960880bd236</guid>
+      <pubDate>Mon, 21 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/a3a73e47-86db-43fa-a958-4164415bcc98_0_ID192MP3.mp3" type="audio/mpeg" length="45188397"></enclosure>
+      <itunes:title>Ronnys styrt</itunes:title>
+      <itunes:summary>Et plutselig værskifte får svært dramatiske konsekvenser for Ronny som flyr paraglider fra Spillumsfjellet i 2015.</itunes:summary>
+      <itunes:duration>1882</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ny sesong kommer</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_a6bd68b8-f359-4003-bd68-b8f3599003ea</link>
+      <description>Når en ulykke inntreffer, ringer vi nødtelefon. I denne podkasten får du historiene om hva som skjedde før, under og etter de skjebnesvangre minuttene.</description>
+      <guid isPermaLink="false">l_a6bd68b8-f359-4003-bd68-b8f3599003ea</guid>
+      <pubDate>Mon, 14 Feb 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/d43a0d24-941d-4cc3-88ca-2976fe3cd6ba_0_ID192MP3.mp3" type="audio/mpeg" length="1671597"></enclosure>
+      <itunes:title>Ny sesong kommer</itunes:title>
+      <itunes:summary>Når en ulykke inntreffer, ringer vi nødtelefon. I denne podkasten får du historiene om hva som skjedde før, under og etter de skjebnesvangre minuttene.</itunes:summary>
+      <itunes:duration>69</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Reindriftsulykken</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_e42ae85b-5618-4d18-aae8-5b56183d1857</link>
+      <description>Nils Per jobber som reindriftsutøver. I oktober 2020 tar arbeidsdagen en brå vending da han får ansiktet knust mellom en stein og sin egen ATV.</description>
+      <guid isPermaLink="false">l_e42ae85b-5618-4d18-aae8-5b56183d1857</guid>
+      <pubDate>Mon, 17 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/6bc20a46-2bb2-4ba8-b945-51a388e518f0_0_ID192MP3.mp3" type="audio/mpeg" length="38653101"></enclosure>
+      <itunes:title>Reindriftsulykken</itunes:title>
+      <itunes:summary>Nils Per jobber som reindriftsutøver. I oktober 2020 tar arbeidsdagen en brå vending da han får ansiktet knust mellom en stein og sin egen ATV.</itunes:summary>
+      <itunes:duration>1610</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sykkelulykken</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_fee78470-4f5c-4265-a784-704f5ca2654a</link>
+      <description>Ronny sykler ned en bratt bakke, sykkelen treffer en stein og han flyr som en prosjektil gjennom luften før han med hodet treffer en enda en stein.</description>
+      <guid isPermaLink="false">l_fee78470-4f5c-4265-a784-704f5ca2654a</guid>
+      <pubDate>Mon, 10 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/afb2d847-51d2-4e84-a8cf-8be27bd96296_0_ID192MP3.mp3" type="audio/mpeg" length="36800448"></enclosure>
+      <itunes:title>Sykkelulykken</itunes:title>
+      <itunes:summary>Ronny sykler ned en bratt bakke, sykkelen treffer en stein og han flyr som en prosjektil gjennom luften før han med hodet treffer en enda en stein.</itunes:summary>
+      <itunes:duration>1533</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fju1t9v7AMF7rXvsag10pwfP25FBngWWJj02S2LItCSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hjertestans</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_2f32a58e-7a76-47f9-b2a5-8e7a76d7f909</link>
+      <description>Da Renates ektemann får hjertestans i sengen ved siden av henne, er eget forsøk på hjerte- og lungeredning hennes eneste sjanse til å redde ham.</description>
+      <guid isPermaLink="false">l_2f32a58e-7a76-47f9-b2a5-8e7a76d7f909</guid>
+      <pubDate>Mon, 03 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/53256f24-6f1c-460d-8ead-4caea738a2d4_0_ID192MP3.mp3" type="audio/mpeg" length="24475768"></enclosure>
+      <itunes:title>Hjertestans</itunes:title>
+      <itunes:summary>Da Renates ektemann får hjertestans i sengen ved siden av henne, er eget forsøk på hjerte- og lungeredning hennes eneste sjanse til å redde ham.</itunes:summary>
+      <itunes:duration>1019</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/raDWuXjCCJlpj2K1eJUilgFcuSXLqnN0hmu4522SwrhA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Skitt fiske</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_18d64dde-0f63-4f08-964d-de0f634f083a</link>
+      <description>Kristian blir strandet på en liten øy uten mulighet til å komme seg på land. Redningaksjonen ekskalerer og flere nødetater involveres. </description>
+      <guid isPermaLink="false">l_18d64dde-0f63-4f08-964d-de0f634f083a</guid>
+      <pubDate>Mon, 26 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/9d942925-a162-4ab1-8a1c-c262903826cf_0_ID192MP3.mp3" type="audio/mpeg" length="34934218"></enclosure>
+      <itunes:title>Skitt fiske</itunes:title>
+      <itunes:summary>Kristian blir strandet på en liten øy uten mulighet til å komme seg på land. Redningaksjonen ekskalerer og flere nødetater involveres. </itunes:summary>
+      <itunes:duration>1455</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/obBRX7y4PfzmH0YOdAehVAj5pzXHVqmOraveNrtg5OQg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fallet fra Hurrungane</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_fe95267d-60f4-46fd-9526-7d60f426fd6d</link>
+      <description>Jørgen og Espen er to erfarne fjellfolk. Likevel går det fryktelig galt da Jørgen faller 15 meter ned i steinura.</description>
+      <guid isPermaLink="false">l_fe95267d-60f4-46fd-9526-7d60f426fd6d</guid>
+      <pubDate>Mon, 19 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/42abc829-24e0-4612-ad69-ff478b527d12_0_ID192MP3.mp3" type="audio/mpeg" length="47160389"></enclosure>
+      <itunes:title>Fallet fra Hurrungane</itunes:title>
+      <itunes:summary>Jørgen og Espen er to erfarne fjellfolk. Likevel går det fryktelig galt da Jørgen faller 15 meter ned i steinura.</itunes:summary>
+      <itunes:duration>1964</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fal6QLxfDpaLoaGfLjWb0QBdGYVR26694vR0LkwSJfuw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Norge på tvers</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_462a7dd6-c0f8-45b6-aa7d-d6c0f8c5b675</link>
+      <description>Simen og Jan Kåre legger ut på en ekspedisjon, Norge på tvers, med 20 hunder. Men da Jan Kåre velter hundespannet, står turen i fare.</description>
+      <guid isPermaLink="false">l_462a7dd6-c0f8-45b6-aa7d-d6c0f8c5b675</guid>
+      <pubDate>Mon, 12 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/8ce66ee3-e19a-477a-b564-e7774e5cb29b_0_ID192MP3.mp3" type="audio/mpeg" length="44352961"></enclosure>
+      <itunes:title>Norge på tvers</itunes:title>
+      <itunes:summary>Simen og Jan Kåre legger ut på en ekspedisjon, Norge på tvers, med 20 hunder. Men da Jan Kåre velter hundespannet, står turen i fare.</itunes:summary>
+      <itunes:duration>1847</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/U5dlGQW4pESh2BT-4QN9VQKw3GoIekn_fAYZa0qwItOQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Motorsykkelulykken på Finnmarksvidda</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_b1daeb87-c806-4707-9aeb-87c8065707ab</link>
+      <description>Pia og Kenneth sitt motorsykkel-eventyr fra Nordkapp til Cape Town tar en brå vending da veien de kjører på plutselig opphører.</description>
+      <guid isPermaLink="false">l_b1daeb87-c806-4707-9aeb-87c8065707ab</guid>
+      <pubDate>Mon, 05 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/8a182367-f998-4630-9293-be98f6ca32c0_0_ID192MP3.mp3" type="audio/mpeg" length="34514904"></enclosure>
+      <itunes:title>Motorsykkelulykken på Finnmarksvidda</itunes:title>
+      <itunes:summary>Pia og Kenneth sitt motorsykkel-eventyr fra Nordkapp til Cape Town tar en brå vending da veien de kjører på plutselig opphører.</itunes:summary>
+      <itunes:duration>1438</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kdAHJSw4CSLNiUa8MxsC7AFuFFkbZ54G60D5twMqtsXg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>René på villspor</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_d56eb1fd-74fa-4cd3-aeb1-fd74fa9cd3f7</link>
+      <description>På teltturen våkner René av at han må på do. Han går et stykke inn i skogen for å gjøre sitt fornødne, men husker plutselig ikke veien tilbake. </description>
+      <guid isPermaLink="false">l_d56eb1fd-74fa-4cd3-aeb1-fd74fa9cd3f7</guid>
+      <pubDate>Mon, 29 Mar 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/8a65787f-608f-4449-bf8f-5f83ec75f321_0_ID192MP3.mp3" type="audio/mpeg" length="29213391"></enclosure>
+      <itunes:title>René på villspor</itunes:title>
+      <itunes:summary>På teltturen våkner René av at han må på do. Han går et stykke inn i skogen for å gjøre sitt fornødne, men husker plutselig ikke veien tilbake. </itunes:summary>
+      <itunes:duration>1217</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JTbat5rlEhtIRGCPu0v2jw31lOd8asxIq9rr9oXDirOA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Eksplosjonen på Lena</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_c7686772-d78f-41fd-a867-72d78fe1fd2a</link>
+      <description>I en silo på Toten oppstår det ulmebrann, som utvikler seg til en eksplosjonsbrann. Midt i flammene fra eksplosjonen står Sander (21).</description>
+      <guid isPermaLink="false">l_c7686772-d78f-41fd-a867-72d78fe1fd2a</guid>
+      <pubDate>Mon, 22 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/95d14768-2697-4fc9-895e-0a069996b4c4_0_ID192MP3.mp3" type="audio/mpeg" length="25895635"></enclosure>
+      <itunes:title>Eksplosjonen på Lena</itunes:title>
+      <itunes:summary>I en silo på Toten oppstår det ulmebrann, som utvikler seg til en eksplosjonsbrann. Midt i flammene fra eksplosjonen står Sander (21).</itunes:summary>
+      <itunes:duration>1078</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4SgyYSzhu1lKeMAJDC_b9AirKvN8l-3sea-xPCgQrUeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mannen som ble tatt av uværet</title>
+      <link>https://radio.nrk.no/podkast/sos_noedtelefonen/l_1f22dd59-df41-4e2b-a2dd-59df41ce2b8a</link>
+      <description>På en topptur i Røldal skiller kompisene Dan og Åsbjørn lag. Avgjørelsen skal bli skjebnesvanger, da et voldsomt uvær er på vei. </description>
+      <guid isPermaLink="false">l_1f22dd59-df41-4e2b-a2dd-59df41ce2b8a</guid>
+      <pubDate>Mon, 15 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sos_noedtelefonen/05b7c5c3-a45a-47c8-8785-de3e6e3da35b_0_ID192MP3.mp3" type="audio/mpeg" length="38961355"></enclosure>
+      <itunes:title>Mannen som ble tatt av uværet</itunes:title>
+      <itunes:summary>På en topptur i Røldal skiller kompisene Dan og Åsbjørn lag. Avgjørelsen skal bli skjebnesvanger, da et voldsomt uvær er på vei. </itunes:summary>
+      <itunes:duration>1623</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7WDhW3ya_sIxVw2-d40nxgkO2Zr3VEw09vhTnyi_NxTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

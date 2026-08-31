@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kringkastingsorkestret </title>
+    <link>https://radio.nrk.no/podkast/kringkastingsorkestret_</link>
+    <description>Kork gir deg musikk for alle stemninger og anledninger.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Thu, 18 Jun 2026 04:20:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kringkastingsorkestret_.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Kork gir deg musikk for alle stemninger og anledninger.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQW5fFXrNoL3STCVOAsJQaBg"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/bUxGv0Sq_Vx0torVqM5tBQW5fFXrNoL3STCVOAsJQaBg</url>
+      <title>Kringkastingsorkestret </title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_</link>
+    </image>
+    <item>
+      <title>Sommer-feeling</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_5851455f-0e94-405a-9145-5f0e94905a78</link>
+      <description>Ole Ivars og Kork om sommer og kjærlighet.</description>
+      <guid isPermaLink="false">l_5851455f-0e94-405a-9145-5f0e94905a78</guid>
+      <pubDate>Thu, 18 Jun 2026 06:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/5851455f-0e94-405a-9145-5f0e94905a78_1_ID192MP3.mp3" type="audio/mpeg" length="4201388"></enclosure>
+      <itunes:title>Sommer-feeling</itunes:title>
+      <itunes:summary>Ole Ivars og Kork om sommer og kjærlighet.</itunes:summary>
+      <itunes:duration>175</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>(For her er det) solskinn og sang</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_9ea3f277-b908-418d-a3f2-77b908518dea</link>
+      <description>Sommer-Prøysen à la salsa!</description>
+      <guid isPermaLink="false">l_9ea3f277-b908-418d-a3f2-77b908518dea</guid>
+      <pubDate>Thu, 18 Jun 2026 06:19:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/9ea3f277-b908-418d-a3f2-77b908518dea_1_ID192MP3.mp3" type="audio/mpeg" length="5559020"></enclosure>
+      <itunes:title>(For her er det) solskinn og sang</itunes:title>
+      <itunes:summary>Sommer-Prøysen à la salsa!</itunes:summary>
+      <itunes:duration>231</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sommernatt ved fjorden</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_60393e1c-d8a9-4caa-b93e-1cd8a93caa1d</link>
+      <description>Vår vakreste sommersang? Med Isa Gericke og Tine Thing Helseth</description>
+      <guid isPermaLink="false">l_60393e1c-d8a9-4caa-b93e-1cd8a93caa1d</guid>
+      <pubDate>Thu, 18 Jun 2026 06:18:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/60393e1c-d8a9-4caa-b93e-1cd8a93caa1d_1_ID192MP3.mp3" type="audio/mpeg" length="4467500"></enclosure>
+      <itunes:title>Sommernatt ved fjorden</itunes:title>
+      <itunes:summary>Vår vakreste sommersang? Med Isa Gericke og Tine Thing Helseth</itunes:summary>
+      <itunes:duration>186</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Tico Tico</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_3b427b71-7b10-43ec-827b-717b1013eccb</link>
+      <description>Brasiliansk sommerstemning med Kork!</description>
+      <guid isPermaLink="false">l_3b427b71-7b10-43ec-827b-717b1013eccb</guid>
+      <pubDate>Thu, 18 Jun 2026 06:17:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/3b427b71-7b10-43ec-827b-717b1013eccb_1_ID192MP3.mp3" type="audio/mpeg" length="3704300"></enclosure>
+      <itunes:title>Tico Tico</itunes:title>
+      <itunes:summary>Brasiliansk sommerstemning med Kork!</itunes:summary>
+      <itunes:duration>154</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hvite seil i solgangsbris</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_ef6143f2-2c8f-4665-a143-f22c8f866538</link>
+      <description>En skikkelig Kork-klassiker!</description>
+      <guid isPermaLink="false">l_ef6143f2-2c8f-4665-a143-f22c8f866538</guid>
+      <pubDate>Thu, 18 Jun 2026 06:16:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/ef6143f2-2c8f-4665-a143-f22c8f866538_1_ID192MP3.mp3" type="audio/mpeg" length="5745644"></enclosure>
+      <itunes:title>Hvite seil i solgangsbris</itunes:title>
+      <itunes:summary>En skikkelig Kork-klassiker!</itunes:summary>
+      <itunes:duration>239</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Summertime</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_952149e7-4542-444d-a149-e74542444dc6</link>
+      <description>Angelina Jordan med Gershwins klassiker</description>
+      <guid isPermaLink="false">l_952149e7-4542-444d-a149-e74542444dc6</guid>
+      <pubDate>Thu, 18 Jun 2026 06:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/952149e7-4542-444d-a149-e74542444dc6_1_ID192MP3.mp3" type="audio/mpeg" length="4762412"></enclosure>
+      <itunes:title>Summertime</itunes:title>
+      <itunes:summary>Angelina Jordan med Gershwins klassiker</itunes:summary>
+      <itunes:duration>198</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Morgenstemning</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_1482b314-8402-491f-82b3-148402591f01</link>
+      <description>Fra Peer Gynt-suiten av Grieg</description>
+      <guid isPermaLink="false">l_1482b314-8402-491f-82b3-148402591f01</guid>
+      <pubDate>Thu, 18 Jun 2026 06:14:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/1482b314-8402-491f-82b3-148402591f01_1_ID192MP3.mp3" type="audio/mpeg" length="6353900"></enclosure>
+      <itunes:title>Morgenstemning</itunes:title>
+      <itunes:summary>Fra Peer Gynt-suiten av Grieg</itunes:summary>
+      <itunes:duration>264</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>(Sittin&#39; On) The Dock Of The Bay</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_eb8902ee-bd24-4872-8902-eebd24a87246</link>
+      <description>Med Come Shine</description>
+      <guid isPermaLink="false">l_eb8902ee-bd24-4872-8902-eebd24a87246</guid>
+      <pubDate>Thu, 18 Jun 2026 06:13:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/eb8902ee-bd24-4872-8902-eebd24a87246_1_ID192MP3.mp3" type="audio/mpeg" length="8493164"></enclosure>
+      <itunes:title>(Sittin&#39; On) The Dock Of The Bay</itunes:title>
+      <itunes:summary>Med Come Shine</itunes:summary>
+      <itunes:duration>353</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Tranøy fyr</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_5ce74452-1cf2-49f0-a744-521cf2d9f0d1</link>
+      <description>Moddi med Kork i Vesterålen</description>
+      <guid isPermaLink="false">l_5ce74452-1cf2-49f0-a744-521cf2d9f0d1</guid>
+      <pubDate>Thu, 18 Jun 2026 06:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/5ce74452-1cf2-49f0-a744-521cf2d9f0d1_1_ID192MP3.mp3" type="audio/mpeg" length="5399468"></enclosure>
+      <itunes:title>Tranøy fyr</itunes:title>
+      <itunes:summary>Moddi med Kork i Vesterålen</itunes:summary>
+      <itunes:duration>224</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Blåklokkevikua</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_5e7cfffb-1fee-48f7-bcff-fb1fee58f7ed</link>
+      <description>Prøysens sommerklassiker med Wenche Myhre</description>
+      <guid isPermaLink="false">l_5e7cfffb-1fee-48f7-bcff-fb1fee58f7ed</guid>
+      <pubDate>Thu, 18 Jun 2026 06:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/5e7cfffb-1fee-48f7-bcff-fb1fee58f7ed_1_ID192MP3.mp3" type="audio/mpeg" length="4421996"></enclosure>
+      <itunes:title>Blåklokkevikua</itunes:title>
+      <itunes:summary>Prøysens sommerklassiker med Wenche Myhre</itunes:summary>
+      <itunes:duration>184</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sommer&#39;n med bil</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_719e080e-4f63-4a49-9e08-0e4f631a4979</link>
+      <description>Frida Ånnevik</description>
+      <guid isPermaLink="false">l_719e080e-4f63-4a49-9e08-0e4f631a4979</guid>
+      <pubDate>Thu, 18 Jun 2026 06:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/719e080e-4f63-4a49-9e08-0e4f631a4979_1_ID192MP3.mp3" type="audio/mpeg" length="6323372"></enclosure>
+      <itunes:title>Sommer&#39;n med bil</itunes:title>
+      <itunes:summary>Frida Ånnevik</itunes:summary>
+      <itunes:duration>263</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Han hadde båt</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_aa282e40-dc27-4417-a82e-40dc27041746</link>
+      <description>Øystein Sunde, Halvdan Sivertsen og Kork.</description>
+      <guid isPermaLink="false">l_aa282e40-dc27-4417-a82e-40dc27041746</guid>
+      <pubDate>Thu, 18 Jun 2026 06:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/aa282e40-dc27-4417-a82e-40dc27041746_1_ID192MP3.mp3" type="audio/mpeg" length="4320044"></enclosure>
+      <itunes:title>Han hadde båt</itunes:title>
+      <itunes:summary>Øystein Sunde, Halvdan Sivertsen og Kork.</itunes:summary>
+      <itunes:duration>179</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ljos</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_280ebbd2-7fe1-4793-8ebb-d27fe1879382</link>
+      <description>Ingebjørg Bratland og Kork</description>
+      <guid isPermaLink="false">l_280ebbd2-7fe1-4793-8ebb-d27fe1879382</guid>
+      <pubDate>Thu, 18 Jun 2026 06:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/280ebbd2-7fe1-4793-8ebb-d27fe1879382_1_ID192MP3.mp3" type="audio/mpeg" length="5521580"></enclosure>
+      <itunes:title>Ljos</itunes:title>
+      <itunes:summary>Ingebjørg Bratland og Kork</itunes:summary>
+      <itunes:duration>230</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Mjelle</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_6917e781-09b1-4f88-97e7-8109b15f88e6</link>
+      <description>Terje Nilsen synger om et magisk sommersted.</description>
+      <guid isPermaLink="false">l_6917e781-09b1-4f88-97e7-8109b15f88e6</guid>
+      <pubDate>Thu, 18 Jun 2026 06:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/6917e781-09b1-4f88-97e7-8109b15f88e6_1_ID192MP3.mp3" type="audio/mpeg" length="7436780"></enclosure>
+      <itunes:title>Mjelle</itunes:title>
+      <itunes:summary>Terje Nilsen synger om et magisk sommersted.</itunes:summary>
+      <itunes:duration>309</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kongen av campingplassen</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_cb561eb9-17fa-4a53-961e-b917faba5366</link>
+      <description>Ole Ivars og Kork</description>
+      <guid isPermaLink="false">l_cb561eb9-17fa-4a53-961e-b917faba5366</guid>
+      <pubDate>Thu, 18 Jun 2026 06:07:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/cb561eb9-17fa-4a53-961e-b917faba5366_1_ID192MP3.mp3" type="audio/mpeg" length="5617196"></enclosure>
+      <itunes:title>Kongen av campingplassen</itunes:title>
+      <itunes:summary>Ole Ivars og Kork</itunes:summary>
+      <itunes:duration>234</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>13 humler</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_86d2c8cd-74e6-4d10-92c8-cd74e6dd1019</link>
+      <description>Vamps sommerklassiker</description>
+      <guid isPermaLink="false">l_86d2c8cd-74e6-4d10-92c8-cd74e6dd1019</guid>
+      <pubDate>Thu, 18 Jun 2026 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/86d2c8cd-74e6-4d10-92c8-cd74e6dd1019_1_ID192MP3.mp3" type="audio/mpeg" length="7465004"></enclosure>
+      <itunes:title>13 humler</itunes:title>
+      <itunes:summary>Vamps sommerklassiker</itunes:summary>
+      <itunes:duration>310</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Tenker på deg</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_2253868b-ed32-42e8-9386-8bed32e2e854</link>
+      <description>Gabrielle og Kork</description>
+      <guid isPermaLink="false">l_2253868b-ed32-42e8-9386-8bed32e2e854</guid>
+      <pubDate>Thu, 18 Jun 2026 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/2253868b-ed32-42e8-9386-8bed32e2e854_1_ID192MP3.mp3" type="audio/mpeg" length="5857388"></enclosure>
+      <itunes:title>Tenker på deg</itunes:title>
+      <itunes:summary>Gabrielle og Kork</itunes:summary>
+      <itunes:duration>244</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Jeg tror på neste sommer</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_f6978de0-b599-450b-978d-e0b599450b18</link>
+      <description>To sommerlåter i én med Hovedøen Social Club.</description>
+      <guid isPermaLink="false">l_f6978de0-b599-450b-978d-e0b599450b18</guid>
+      <pubDate>Thu, 18 Jun 2026 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/f6978de0-b599-450b-978d-e0b599450b18_1_ID192MP3.mp3" type="audio/mpeg" length="8511020"></enclosure>
+      <itunes:title>Jeg tror på neste sommer</itunes:title>
+      <itunes:summary>To sommerlåter i én med Hovedøen Social Club.</itunes:summary>
+      <itunes:duration>354</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Synder i sommersol</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_be7bc066-1d27-4ac9-bbc0-661d27fac936</link>
+      <description>CC Cowboys og Kork</description>
+      <guid isPermaLink="false">l_be7bc066-1d27-4ac9-bbc0-661d27fac936</guid>
+      <pubDate>Thu, 18 Jun 2026 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/be7bc066-1d27-4ac9-bbc0-661d27fac936_1_ID192MP3.mp3" type="audio/mpeg" length="8390060"></enclosure>
+      <itunes:title>Synder i sommersol</itunes:title>
+      <itunes:summary>CC Cowboys og Kork</itunes:summary>
+      <itunes:duration>349</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Neste sommer</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_0b15bdd4-3c45-4761-95bd-d43c4547610d</link>
+      <description>deLillos og Kork på Frognerseteren</description>
+      <guid isPermaLink="false">l_0b15bdd4-3c45-4761-95bd-d43c4547610d</guid>
+      <pubDate>Thu, 18 Jun 2026 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/0b15bdd4-3c45-4761-95bd-d43c4547610d_1_ID192MP3.mp3" type="audio/mpeg" length="6638444"></enclosure>
+      <itunes:title>Neste sommer</itunes:title>
+      <itunes:summary>deLillos og Kork på Frognerseteren</itunes:summary>
+      <itunes:duration>276</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Somebody</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_fd05bf5e-baf7-442f-85bf-5ebaf7542f97</link>
+      <description>Dagny og Kork</description>
+      <guid isPermaLink="false">l_fd05bf5e-baf7-442f-85bf-5ebaf7542f97</guid>
+      <pubDate>Thu, 18 Jun 2026 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/fd05bf5e-baf7-442f-85bf-5ebaf7542f97_1_ID192MP3.mp3" type="audio/mpeg" length="4825196"></enclosure>
+      <itunes:title>Somebody</itunes:title>
+      <itunes:summary>Dagny og Kork</itunes:summary>
+      <itunes:duration>201</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kjærlighetsvisa</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_040744fd-cf6f-499c-8744-fdcf6fc99cdd</link>
+      <description>Halvdan Sivertsen</description>
+      <guid isPermaLink="false">l_040744fd-cf6f-499c-8744-fdcf6fc99cdd</guid>
+      <pubDate>Thu, 18 Jun 2026 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/040744fd-cf6f-499c-8744-fdcf6fc99cdd_1_ID192MP3.mp3" type="audio/mpeg" length="6709292"></enclosure>
+      <itunes:title>Kjærlighetsvisa</itunes:title>
+      <itunes:summary>Halvdan Sivertsen</itunes:summary>
+      <itunes:duration>279</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Kid from Red Bank</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_77fe2416-6c6a-4cd0-be24-166c6a3cd086</link>
+      <description>Reiseradioens kjenning gjennom mange år.</description>
+      <guid isPermaLink="false">l_77fe2416-6c6a-4cd0-be24-166c6a3cd086</guid>
+      <pubDate>Thu, 18 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/77fe2416-6c6a-4cd0-be24-166c6a3cd086_1_ID192MP3.mp3" type="audio/mpeg" length="2510252"></enclosure>
+      <itunes:title>The Kid from Red Bank</itunes:title>
+      <itunes:summary>Reiseradioens kjenning gjennom mange år.</itunes:summary>
+      <itunes:duration>104</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Oiz5hEEMd3cK-IeTfFIx8gyNvF3b0NEsO_y7OmmE4BCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Pastoralesymfonien, 2. sats</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_a1cad31a-0623-459f-8ad3-1a0623059f5b</link>
+      <description>Ludwig van Beethoven</description>
+      <guid isPermaLink="false">l_a1cad31a-0623-459f-8ad3-1a0623059f5b</guid>
+      <pubDate>Fri, 24 Apr 2026 16:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/a1cad31a-0623-459f-8ad3-1a0623059f5b_1_ID192MP3.mp3" type="audio/mpeg" length="18048428"></enclosure>
+      <itunes:title>Pastoralesymfonien, 2. sats</itunes:title>
+      <itunes:summary>Ludwig van Beethoven</itunes:summary>
+      <itunes:duration>751</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Largo fra cembalokonsert</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_f320157d-91a7-45c8-a015-7d91a735c82c</link>
+      <description>Johann S. Bach. Med Christian Eggen, piano</description>
+      <guid isPermaLink="false">l_f320157d-91a7-45c8-a015-7d91a735c82c</guid>
+      <pubDate>Fri, 24 Apr 2026 16:14:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/f320157d-91a7-45c8-a015-7d91a735c82c_1_ID192MP3.mp3" type="audio/mpeg" length="4022828"></enclosure>
+      <itunes:title>Largo fra cembalokonsert</itunes:title>
+      <itunes:summary>Johann S. Bach. Med Christian Eggen, piano</itunes:summary>
+      <itunes:duration>167</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rosamunde</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_d976ab74-3b76-44f6-b6ab-743b76c4f624</link>
+      <description>Franz Schubert</description>
+      <guid isPermaLink="false">l_d976ab74-3b76-44f6-b6ab-743b76c4f624</guid>
+      <pubDate>Fri, 24 Apr 2026 16:13:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/d976ab74-3b76-44f6-b6ab-743b76c4f624_1_ID192MP3.mp3" type="audio/mpeg" length="9970028"></enclosure>
+      <itunes:title>Rosamunde</itunes:title>
+      <itunes:summary>Franz Schubert</itunes:summary>
+      <itunes:duration>415</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Klaverkonsert nr. 23, 2. sats</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_37d765c7-a188-44c8-9765-c7a188b4c80b</link>
+      <description>W. A. Mozart. Med Sunwook Kim, piano</description>
+      <guid isPermaLink="false">l_37d765c7-a188-44c8-9765-c7a188b4c80b</guid>
+      <pubDate>Fri, 24 Apr 2026 16:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/37d765c7-a188-44c8-9765-c7a188b4c80b_1_ID192MP3.mp3" type="audio/mpeg" length="10051244"></enclosure>
+      <itunes:title>Klaverkonsert nr. 23, 2. sats</itunes:title>
+      <itunes:summary>W. A. Mozart. Med Sunwook Kim, piano</itunes:summary>
+      <itunes:duration>418</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Intermezzo fra Symfoni nr. 2</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_8878db09-5230-42f1-b8db-09523002f176</link>
+      <description>Johan Halvorsen</description>
+      <guid isPermaLink="false">l_8878db09-5230-42f1-b8db-09523002f176</guid>
+      <pubDate>Fri, 24 Apr 2026 16:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/8878db09-5230-42f1-b8db-09523002f176_1_ID192MP3.mp3" type="audio/mpeg" length="6754220"></enclosure>
+      <itunes:title>Intermezzo fra Symfoni nr. 2</itunes:title>
+      <itunes:summary>Johan Halvorsen</itunes:summary>
+      <itunes:duration>281</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Nocturne</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_0c395731-b3b1-486f-b957-31b3b1786fbc</link>
+      <description>Felix Mendelssohn. Fra En midtsommernattsdrøm</description>
+      <guid isPermaLink="false">l_0c395731-b3b1-486f-b957-31b3b1786fbc</guid>
+      <pubDate>Fri, 24 Apr 2026 16:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/0c395731-b3b1-486f-b957-31b3b1786fbc_1_ID192MP3.mp3" type="audio/mpeg" length="8581868"></enclosure>
+      <itunes:title>Nocturne</itunes:title>
+      <itunes:summary>Felix Mendelssohn. Fra En midtsommernattsdrøm</itunes:summary>
+      <itunes:duration>357</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>A-mollkonserten, 2. sats</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_02e7113a-c3a3-4c59-a711-3ac3a33c590d</link>
+      <description>Edvard Grieg. Med Christian Ihle Hadland, piano</description>
+      <guid isPermaLink="false">l_02e7113a-c3a3-4c59-a711-3ac3a33c590d</guid>
+      <pubDate>Fri, 24 Apr 2026 16:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/02e7113a-c3a3-4c59-a711-3ac3a33c590d_1_ID192MP3.mp3" type="audio/mpeg" length="8617580"></enclosure>
+      <itunes:title>A-mollkonserten, 2. sats</itunes:title>
+      <itunes:summary>Edvard Grieg. Med Christian Ihle Hadland, piano</itunes:summary>
+      <itunes:duration>359</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Symfoni nr 3, 3. sats</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_a7ac8f5d-24fd-40cd-ac8f-5d24fdb0cd20</link>
+      <description>Johannes Brahms</description>
+      <guid isPermaLink="false">l_a7ac8f5d-24fd-40cd-ac8f-5d24fdb0cd20</guid>
+      <pubDate>Fri, 24 Apr 2026 16:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/a7ac8f5d-24fd-40cd-ac8f-5d24fdb0cd20_1_ID192MP3.mp3" type="audio/mpeg" length="9106028"></enclosure>
+      <itunes:title>Symfoni nr 3, 3. sats</itunes:title>
+      <itunes:summary>Johannes Brahms</itunes:summary>
+      <itunes:duration>379</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Pavane for en død prinsesse</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_430081e7-057a-4c49-8081-e7057adc4952</link>
+      <description>Maurice Ravel</description>
+      <guid isPermaLink="false">l_430081e7-057a-4c49-8081-e7057adc4952</guid>
+      <pubDate>Fri, 24 Apr 2026 16:07:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/430081e7-057a-4c49-8081-e7057adc4952_1_ID192MP3.mp3" type="audio/mpeg" length="8417708"></enclosure>
+      <itunes:title>Pavane for en død prinsesse</itunes:title>
+      <itunes:summary>Maurice Ravel</itunes:summary>
+      <itunes:duration>350</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rondo for fiolin og orkester</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_5a156d14-26cd-404c-956d-1426cd604c23</link>
+      <description>W. A. Mozart. Med Christian Tetzlaff, fiolin</description>
+      <guid isPermaLink="false">l_5a156d14-26cd-404c-956d-1426cd604c23</guid>
+      <pubDate>Fri, 24 Apr 2026 16:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/5a156d14-26cd-404c-956d-1426cd604c23_1_ID192MP3.mp3" type="audio/mpeg" length="7795052"></enclosure>
+      <itunes:title>Rondo for fiolin og orkester</itunes:title>
+      <itunes:summary>W. A. Mozart. Med Christian Tetzlaff, fiolin</itunes:summary>
+      <itunes:duration>324</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Klarinettkonsert nr. 2, 2. sats</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_a3cc919a-d289-4768-8c91-9ad289a768ce</link>
+      <description>Bernhard Henrik Crusell. Med Björn Nyman, klarinett</description>
+      <guid isPermaLink="false">l_a3cc919a-d289-4768-8c91-9ad289a768ce</guid>
+      <pubDate>Fri, 24 Apr 2026 16:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/a3cc919a-d289-4768-8c91-9ad289a768ce_1_ID192MP3.mp3" type="audio/mpeg" length="7559468"></enclosure>
+      <itunes:title>Klarinettkonsert nr. 2, 2. sats</itunes:title>
+      <itunes:summary>Bernhard Henrik Crusell. Med Björn Nyman, klarinett</itunes:summary>
+      <itunes:duration>314</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sicilienne</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_12b4f96b-5279-4791-b4f9-6b5279e791f2</link>
+      <description>Gabriel Fauré. Fra Pelléas et Mélisande</description>
+      <guid isPermaLink="false">l_12b4f96b-5279-4791-b4f9-6b5279e791f2</guid>
+      <pubDate>Fri, 24 Apr 2026 16:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/12b4f96b-5279-4791-b4f9-6b5279e791f2_1_ID192MP3.mp3" type="audio/mpeg" length="5332076"></enclosure>
+      <itunes:title>Sicilienne</itunes:title>
+      <itunes:summary>Gabriel Fauré. Fra Pelléas et Mélisande</itunes:summary>
+      <itunes:duration>222</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Notturno</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_2214dbcb-d848-4535-94db-cbd84825354e</link>
+      <description>Edvard Grieg</description>
+      <guid isPermaLink="false">l_2214dbcb-d848-4535-94db-cbd84825354e</guid>
+      <pubDate>Fri, 24 Apr 2026 16:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/2214dbcb-d848-4535-94db-cbd84825354e_1_ID192MP3.mp3" type="audio/mpeg" length="6704108"></enclosure>
+      <itunes:title>Notturno</itunes:title>
+      <itunes:summary>Edvard Grieg</itunes:summary>
+      <itunes:duration>279</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Den forheksede sjø</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_44c7a3b3-a305-4974-87a3-b3a305b97460</link>
+      <description>Anatalij Ljadov</description>
+      <guid isPermaLink="false">l_44c7a3b3-a305-4974-87a3-b3a305b97460</guid>
+      <pubDate>Fri, 24 Apr 2026 16:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/44c7a3b3-a305-4974-87a3-b3a305b97460_1_ID192MP3.mp3" type="audio/mpeg" length="10371500"></enclosure>
+      <itunes:title>Den forheksede sjø</itunes:title>
+      <itunes:summary>Anatalij Ljadov</itunes:summary>
+      <itunes:duration>432</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Klaverkonsert nr. 23, 1. sats</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_0f401965-64a6-4ed5-8019-6564a69ed514</link>
+      <description>W. A. Mozart. Med Sunwook Kim, piano</description>
+      <guid isPermaLink="false">l_0f401965-64a6-4ed5-8019-6564a69ed514</guid>
+      <pubDate>Fri, 24 Apr 2026 16:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/0f401965-64a6-4ed5-8019-6564a69ed514_1_ID192MP3.mp3" type="audio/mpeg" length="17024876"></enclosure>
+      <itunes:title>Klaverkonsert nr. 23, 1. sats</itunes:title>
+      <itunes:summary>W. A. Mozart. Med Sunwook Kim, piano</itunes:summary>
+      <itunes:duration>709</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Pavane</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_5fdb5e1f-81c0-49d6-9b5e-1f81c029d6e9</link>
+      <description>Maurice Ravel. Fra Gåsemor</description>
+      <guid isPermaLink="false">l_5fdb5e1f-81c0-49d6-9b5e-1f81c029d6e9</guid>
+      <pubDate>Fri, 24 Apr 2026 16:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/5fdb5e1f-81c0-49d6-9b5e-1f81c029d6e9_1_ID192MP3.mp3" type="audio/mpeg" length="3234860"></enclosure>
+      <itunes:title>Pavane</itunes:title>
+      <itunes:summary>Maurice Ravel. Fra Gåsemor</itunes:summary>
+      <itunes:duration>134</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Fiolinkonsert, 2. sats</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_55442419-59fe-4c18-8424-1959fefc1827</link>
+      <description>Philip Glass. Med Guro Kleven Hagen, fiolin.</description>
+      <guid isPermaLink="false">l_55442419-59fe-4c18-8424-1959fefc1827</guid>
+      <pubDate>Fri, 24 Apr 2026 15:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/55442419-59fe-4c18-8424-1959fefc1827_1_ID192MP3.mp3" type="audio/mpeg" length="11484332"></enclosure>
+      <itunes:title>Fiolinkonsert, 2. sats</itunes:title>
+      <itunes:summary>Philip Glass. Med Guro Kleven Hagen, fiolin.</itunes:summary>
+      <itunes:duration>478</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EvZBu58o--aaOHqKe87E3gq-MKhyW-2ig4D4tvV9lPuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Deilig er jorden</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_bbe90a16-35b8-4af6-a90a-1635b8caf6c4</link>
+      <description>Med korene fra Oslo domkirke, dirigert av Vivianne Sydnes.</description>
+      <guid isPermaLink="false">l_bbe90a16-35b8-4af6-a90a-1635b8caf6c4</guid>
+      <pubDate>Mon, 01 Dec 2025 05:32:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/bbe90a16-35b8-4af6-a90a-1635b8caf6c4_ID192MP3.mp3" type="audio/mpeg" length="4777964"></enclosure>
+      <itunes:title>Deilig er jorden</itunes:title>
+      <itunes:summary>Med korene fra Oslo domkirke, dirigert av Vivianne Sydnes.</itunes:summary>
+      <itunes:duration>199</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Home For Christmas</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_75e180ce-0594-4105-a180-ce0594b1059f</link>
+      <description>Maria Mena synger sin egen juleklassiker. Pianist og musikalsk leder er Lars Andreas Aspesæter.</description>
+      <guid isPermaLink="false">l_75e180ce-0594-4105-a180-ce0594b1059f</guid>
+      <pubDate>Mon, 01 Dec 2025 05:31:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/75e180ce-0594-4105-a180-ce0594b1059f_ID192MP3.mp3" type="audio/mpeg" length="6192044"></enclosure>
+      <itunes:title>Home For Christmas</itunes:title>
+      <itunes:summary>Maria Mena synger sin egen juleklassiker. Pianist og musikalsk leder er Lars Andreas Aspesæter.</itunes:summary>
+      <itunes:duration>257</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vinter og sne</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_a776fa7e-5016-479d-b6fa-7e5016a79dda</link>
+      <description>Med Come Shine og dirigent Ingar Bergby.</description>
+      <guid isPermaLink="false">l_a776fa7e-5016-479d-b6fa-7e5016a79dda</guid>
+      <pubDate>Mon, 01 Dec 2025 05:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/a776fa7e-5016-479d-b6fa-7e5016a79dda_ID192MP3.mp3" type="audio/mpeg" length="3791852"></enclosure>
+      <itunes:title>Vinter og sne</itunes:title>
+      <itunes:summary>Med Come Shine og dirigent Ingar Bergby.</itunes:summary>
+      <itunes:duration>157</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Christmas Song</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_74ccc223-3eae-461a-8cc2-233eae261a12</link>
+      <description>Silya synger. Terje Boye Hansen dirigerer.</description>
+      <guid isPermaLink="false">l_74ccc223-3eae-461a-8cc2-233eae261a12</guid>
+      <pubDate>Mon, 01 Dec 2025 05:29:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/74ccc223-3eae-461a-8cc2-233eae261a12_ID192MP3.mp3" type="audio/mpeg" length="5929388"></enclosure>
+      <itunes:title>The Christmas Song</itunes:title>
+      <itunes:summary>Silya synger. Terje Boye Hansen dirigerer.</itunes:summary>
+      <itunes:duration>247</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Mitt hjerte alltid vanker - Mov vaajmoe valve dohkoe</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_bc8613bc-71af-4588-8613-bc71af058831</link>
+      <description>Marja Mortensson og Kim Rysstad synger på både sørsamisk og norsk. Karl-Johan Ankarblom dirigerer.</description>
+      <guid isPermaLink="false">l_bc8613bc-71af-4588-8613-bc71af058831</guid>
+      <pubDate>Mon, 01 Dec 2025 05:28:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/bc8613bc-71af-4588-8613-bc71af058831_ID192MP3.mp3" type="audio/mpeg" length="6136172"></enclosure>
+      <itunes:title>Mitt hjerte alltid vanker - Mov vaajmoe valve dohkoe</itunes:title>
+      <itunes:summary>Marja Mortensson og Kim Rysstad synger på både sørsamisk og norsk. Karl-Johan Ankarblom dirigerer.</itunes:summary>
+      <itunes:duration>255</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sleigh Ride</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_b38ef111-9ef1-4ea8-8ef1-119ef17ea8de</link>
+      <description>Terje Boye Hansen dirigerer Kork.</description>
+      <guid isPermaLink="false">l_b38ef111-9ef1-4ea8-8ef1-119ef17ea8de</guid>
+      <pubDate>Mon, 01 Dec 2025 05:27:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/b38ef111-9ef1-4ea8-8ef1-119ef17ea8de_ID192MP3.mp3" type="audio/mpeg" length="4347116"></enclosure>
+      <itunes:title>Sleigh Ride</itunes:title>
+      <itunes:summary>Terje Boye Hansen dirigerer Kork.</itunes:summary>
+      <itunes:duration>181</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rockin&#39; Around The Christmas Tree</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_5533c106-1863-406c-b3c1-061863806c52</link>
+      <description>Christel Alsos synger. Musikalsk leder og pianist er Lars Andreas Aspesæter.</description>
+      <guid isPermaLink="false">l_5533c106-1863-406c-b3c1-061863806c52</guid>
+      <pubDate>Mon, 01 Dec 2025 05:26:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/5533c106-1863-406c-b3c1-061863806c52_ID192MP3.mp3" type="audio/mpeg" length="4284332"></enclosure>
+      <itunes:title>Rockin&#39; Around The Christmas Tree</itunes:title>
+      <itunes:summary>Christel Alsos synger. Musikalsk leder og pianist er Lars Andreas Aspesæter.</itunes:summary>
+      <itunes:duration>178</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Julekveld i skogen</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_a3621593-a579-4e98-a215-93a5790e9822</link>
+      <description>Med Espen Beranek Holm og Live Maria Roggen. Dirigent er Ingar Bergby.</description>
+      <guid isPermaLink="false">l_a3621593-a579-4e98-a215-93a5790e9822</guid>
+      <pubDate>Mon, 01 Dec 2025 05:25:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/a3621593-a579-4e98-a215-93a5790e9822_ID192MP3.mp3" type="audio/mpeg" length="7023212"></enclosure>
+      <itunes:title>Julekveld i skogen</itunes:title>
+      <itunes:summary>Med Espen Beranek Holm og Live Maria Roggen. Dirigent er Ingar Bergby.</itunes:summary>
+      <itunes:duration>292</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Romjulsdrøm</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_508ae536-990d-4c85-8ae5-36990ddc8526</link>
+      <description>Med Kim Rysstad. Karl-Johan Ankarblom dirigerer.</description>
+      <guid isPermaLink="false">l_508ae536-990d-4c85-8ae5-36990ddc8526</guid>
+      <pubDate>Mon, 01 Dec 2025 05:24:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/508ae536-990d-4c85-8ae5-36990ddc8526_ID192MP3.mp3" type="audio/mpeg" length="4548716"></enclosure>
+      <itunes:title>Romjulsdrøm</itunes:title>
+      <itunes:summary>Med Kim Rysstad. Karl-Johan Ankarblom dirigerer.</itunes:summary>
+      <itunes:duration>189</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Elv</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_ed460303-a9d2-4469-8603-03a9d264694a</link>
+      <description>Joni Mitchells River på norsk. Frida Ånnevik synger og Lars Andreas Aspesæter spiller piano og leder Kork.</description>
+      <guid isPermaLink="false">l_ed460303-a9d2-4469-8603-03a9d264694a</guid>
+      <pubDate>Mon, 01 Dec 2025 05:23:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/ed460303-a9d2-4469-8603-03a9d264694a_ID192MP3.mp3" type="audio/mpeg" length="6455852"></enclosure>
+      <itunes:title>Elv</itunes:title>
+      <itunes:summary>Joni Mitchells River på norsk. Frida Ånnevik synger og Lars Andreas Aspesæter spiller piano og leder Kork.</itunes:summary>
+      <itunes:duration>268</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Have Yourself A Merry Little Christmas</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_0b56674d-30ee-45a3-9667-4d30eec5a33c</link>
+      <description>Beharie synger. Lars Andreas Aspesæter dirigerer.</description>
+      <guid isPermaLink="false">l_0b56674d-30ee-45a3-9667-4d30eec5a33c</guid>
+      <pubDate>Mon, 01 Dec 2025 05:22:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/0b56674d-30ee-45a3-9667-4d30eec5a33c_ID192MP3.mp3" type="audio/mpeg" length="4609196"></enclosure>
+      <itunes:title>Have Yourself A Merry Little Christmas</itunes:title>
+      <itunes:summary>Beharie synger. Lars Andreas Aspesæter dirigerer.</itunes:summary>
+      <itunes:duration>191</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hem&#39;att tel jul</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_42a6e3bc-1729-4427-a6e3-bc1729a427e9</link>
+      <description>Med Eldar Vågan og Matoma. Dirigent er Lars Andreas Aspesæter.</description>
+      <guid isPermaLink="false">l_42a6e3bc-1729-4427-a6e3-bc1729a427e9</guid>
+      <pubDate>Mon, 01 Dec 2025 05:21:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/42a6e3bc-1729-4427-a6e3-bc1729a427e9_ID192MP3.mp3" type="audio/mpeg" length="5097068"></enclosure>
+      <itunes:title>Hem&#39;att tel jul</itunes:title>
+      <itunes:summary>Med Eldar Vågan og Matoma. Dirigent er Lars Andreas Aspesæter.</itunes:summary>
+      <itunes:duration>212</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>For Unto us a Child Is Born</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_acffe42f-4f9c-41bb-bfe4-2f4f9c21bb0c</link>
+      <description>Med Oslo domkor, dirigert av Vivianne Sydnes.</description>
+      <guid isPermaLink="false">l_acffe42f-4f9c-41bb-bfe4-2f4f9c21bb0c</guid>
+      <pubDate>Mon, 01 Dec 2025 05:20:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/acffe42f-4f9c-41bb-bfe4-2f4f9c21bb0c_ID192MP3.mp3" type="audio/mpeg" length="5473196"></enclosure>
+      <itunes:title>For Unto us a Child Is Born</itunes:title>
+      <itunes:summary>Med Oslo domkor, dirigert av Vivianne Sydnes.</itunes:summary>
+      <itunes:duration>228</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Kanefart I måneskinn fra Tante Pose</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_cdf74dc8-e9ff-4a73-b74d-c8e9ff2a7320</link>
+      <description>Terje Boye Hansen dirigerer.</description>
+      <guid isPermaLink="false">l_cdf74dc8-e9ff-4a73-b74d-c8e9ff2a7320</guid>
+      <pubDate>Mon, 01 Dec 2025 05:19:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/cdf74dc8-e9ff-4a73-b74d-c8e9ff2a7320_ID192MP3.mp3" type="audio/mpeg" length="4632812"></enclosure>
+      <itunes:title>Kanefart I måneskinn fra Tante Pose</itunes:title>
+      <itunes:summary>Terje Boye Hansen dirigerer.</itunes:summary>
+      <itunes:duration>192</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Let it Snow! Let it Snow! Let it Snow!</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_fbd313fc-fbfe-4b41-9313-fcfbfe9b417e</link>
+      <description>Med Kurt Nilsen. Nick Davies er dirigent.</description>
+      <guid isPermaLink="false">l_fbd313fc-fbfe-4b41-9313-fcfbfe9b417e</guid>
+      <pubDate>Mon, 01 Dec 2025 05:18:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/fbd313fc-fbfe-4b41-9313-fcfbfe9b417e_ID192MP3.mp3" type="audio/mpeg" length="5249132"></enclosure>
+      <itunes:title>Let it Snow! Let it Snow! Let it Snow!</itunes:title>
+      <itunes:summary>Med Kurt Nilsen. Nick Davies er dirigent.</itunes:summary>
+      <itunes:duration>218</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Jul etter jul</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_75748814-935f-4e24-b488-14935f0e24ef</link>
+      <description>Fremført av No. 4. Dirigent er Lars Andreas Aspesæter</description>
+      <guid isPermaLink="false">l_75748814-935f-4e24-b488-14935f0e24ef</guid>
+      <pubDate>Mon, 01 Dec 2025 05:17:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/75748814-935f-4e24-b488-14935f0e24ef_ID192MP3.mp3" type="audio/mpeg" length="3856940"></enclosure>
+      <itunes:title>Jul etter jul</itunes:title>
+      <itunes:summary>Fremført av No. 4. Dirigent er Lars Andreas Aspesæter</itunes:summary>
+      <itunes:duration>160</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Når snøen smelter</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_16e62adf-e93f-4c8a-a62a-dfe93f8c8a57</link>
+      <description>Med Astrid S.  Lars Andreas Aspesæter dirigerer.</description>
+      <guid isPermaLink="false">l_16e62adf-e93f-4c8a-a62a-dfe93f8c8a57</guid>
+      <pubDate>Mon, 01 Dec 2025 05:16:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/16e62adf-e93f-4c8a-a62a-dfe93f8c8a57_ID192MP3.mp3" type="audio/mpeg" length="4287212"></enclosure>
+      <itunes:title>Når snøen smelter</itunes:title>
+      <itunes:summary>Med Astrid S.  Lars Andreas Aspesæter dirigerer.</itunes:summary>
+      <itunes:duration>178</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stjerneballett, fra Reisen til julestjernen</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_00d3a2d5-d0c4-4af9-93a2-d5d0c49af9b4</link>
+      <description>Cathrine Winnes dirigerer Kork.</description>
+      <guid isPermaLink="false">l_00d3a2d5-d0c4-4af9-93a2-d5d0c49af9b4</guid>
+      <pubDate>Mon, 01 Dec 2025 05:15:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/00d3a2d5-d0c4-4af9-93a2-d5d0c49af9b4_ID192MP3.mp3" type="audio/mpeg" length="2773484"></enclosure>
+      <itunes:title>Stjerneballett, fra Reisen til julestjernen</itunes:title>
+      <itunes:summary>Cathrine Winnes dirigerer Kork.</itunes:summary>
+      <itunes:duration>115</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>When You Wish Upon A Star</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_92cc375f-c901-4980-8c37-5fc901b98066</link>
+      <description>Med Metteson. Bjarte Engeset dirigerer.</description>
+      <guid isPermaLink="false">l_92cc375f-c901-4980-8c37-5fc901b98066</guid>
+      <pubDate>Mon, 01 Dec 2025 05:14:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/92cc375f-c901-4980-8c37-5fc901b98066_ID192MP3.mp3" type="audio/mpeg" length="7352108"></enclosure>
+      <itunes:title>When You Wish Upon A Star</itunes:title>
+      <itunes:summary>Med Metteson. Bjarte Engeset dirigerer.</itunes:summary>
+      <itunes:duration>306</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stjernesludd</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_2d92e82b-4f81-4e06-92e8-2b4f816e0607</link>
+      <description>Kim Rysstad synger. Karl-Johan Ankarblom har arrangert og dirigerer.</description>
+      <guid isPermaLink="false">l_2d92e82b-4f81-4e06-92e8-2b4f816e0607</guid>
+      <pubDate>Mon, 01 Dec 2025 05:13:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/2d92e82b-4f81-4e06-92e8-2b4f816e0607_ID192MP3.mp3" type="audio/mpeg" length="7250156"></enclosure>
+      <itunes:title>Stjernesludd</itunes:title>
+      <itunes:summary>Kim Rysstad synger. Karl-Johan Ankarblom har arrangert og dirigerer.</itunes:summary>
+      <itunes:duration>302</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Nøtteknekker-suiten, Marsj</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_67a8c3bd-9611-45e0-a8c3-bd961125e099</link>
+      <description>Terje Boye Hansen dirigerer.</description>
+      <guid isPermaLink="false">l_67a8c3bd-9611-45e0-a8c3-bd961125e099</guid>
+      <pubDate>Mon, 01 Dec 2025 05:12:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/67a8c3bd-9611-45e0-a8c3-bd961125e099_ID192MP3.mp3" type="audio/mpeg" length="3544748"></enclosure>
+      <itunes:title>Nøtteknekker-suiten, Marsj</itunes:title>
+      <itunes:summary>Terje Boye Hansen dirigerer.</itunes:summary>
+      <itunes:duration>147</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Jeg synger julekvad</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_762a05cd-86ef-479c-aa05-cd86ef979cb1</link>
+      <description>Kajsa Balto synger på nordsamisk. Med Karoline Bjørhei på trommer, Aleksander Sjølie på gitar og Ragnhild Tronsmo på cello. Erik Arvinder, dirigent</description>
+      <guid isPermaLink="false">l_762a05cd-86ef-479c-aa05-cd86ef979cb1</guid>
+      <pubDate>Mon, 01 Dec 2025 05:11:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/762a05cd-86ef-479c-aa05-cd86ef979cb1_ID192MP3.mp3" type="audio/mpeg" length="5118380"></enclosure>
+      <itunes:title>Jeg synger julekvad</itunes:title>
+      <itunes:summary>Kajsa Balto synger på nordsamisk. Med Karoline Bjørhei på trommer, Aleksander Sjølie på gitar og Ragnhild Tronsmo på cello. Erik Arvinder, dirigent</itunes:summary>
+      <itunes:duration>213</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>White Christmas</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_081f598a-4251-48b9-9f59-8a425158b9d7</link>
+      <description>Med Emelie Hollow. Bjarte Engeset dirigerer.</description>
+      <guid isPermaLink="false">l_081f598a-4251-48b9-9f59-8a425158b9d7</guid>
+      <pubDate>Mon, 01 Dec 2025 05:10:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/081f598a-4251-48b9-9f59-8a425158b9d7_ID192MP3.mp3" type="audio/mpeg" length="4725548"></enclosure>
+      <itunes:title>White Christmas</itunes:title>
+      <itunes:summary>Med Emelie Hollow. Bjarte Engeset dirigerer.</itunes:summary>
+      <itunes:duration>196</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Carol of the bells</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_bd340d86-3b5b-4342-b40d-863b5bf3427f</link>
+      <description>Oslo Fagottkor synger. Dirigent er Daniela Musca</description>
+      <guid isPermaLink="false">l_bd340d86-3b5b-4342-b40d-863b5bf3427f</guid>
+      <pubDate>Mon, 01 Dec 2025 05:09:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/bd340d86-3b5b-4342-b40d-863b5bf3427f_ID192MP3.mp3" type="audio/mpeg" length="4120748"></enclosure>
+      <itunes:title>Carol of the bells</itunes:title>
+      <itunes:summary>Oslo Fagottkor synger. Dirigent er Daniela Musca</itunes:summary>
+      <itunes:duration>171</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>O helga natt</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_a930096b-9f08-4bdf-b009-6b9f085bdfe9</link>
+      <description>Med Nils Bech. Lars Andreas Aspesæter leder  orkesteret.</description>
+      <guid isPermaLink="false">l_a930096b-9f08-4bdf-b009-6b9f085bdfe9</guid>
+      <pubDate>Mon, 01 Dec 2025 05:08:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/a930096b-9f08-4bdf-b009-6b9f085bdfe9_ID192MP3.mp3" type="audio/mpeg" length="6284204"></enclosure>
+      <itunes:title>O helga natt</itunes:title>
+      <itunes:summary>Med Nils Bech. Lars Andreas Aspesæter leder  orkesteret.</itunes:summary>
+      <itunes:duration>261</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Julekalender-ouverture</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_460b36c1-3c57-4f88-8b36-c13c57ff880b</link>
+      <description>Kjent musikk fra flere julekalendre. Ingar Bergby dirigerer.</description>
+      <guid isPermaLink="false">l_460b36c1-3c57-4f88-8b36-c13c57ff880b</guid>
+      <pubDate>Mon, 01 Dec 2025 05:07:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/460b36c1-3c57-4f88-8b36-c13c57ff880b_ID192MP3.mp3" type="audio/mpeg" length="4671980"></enclosure>
+      <itunes:title>Julekalender-ouverture</itunes:title>
+      <itunes:summary>Kjent musikk fra flere julekalendre. Ingar Bergby dirigerer.</itunes:summary>
+      <itunes:duration>194</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>All I Want For Christmas Is You</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_ae3e0f71-2111-4ab8-be0f-7121118ab89f</link>
+      <description>Med Dee Dee Bridgewater. Jochen Neuffer dirigerer.</description>
+      <guid isPermaLink="false">l_ae3e0f71-2111-4ab8-be0f-7121118ab89f</guid>
+      <pubDate>Mon, 01 Dec 2025 05:06:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/ae3e0f71-2111-4ab8-be0f-7121118ab89f_ID192MP3.mp3" type="audio/mpeg" length="6682796"></enclosure>
+      <itunes:title>All I Want For Christmas Is You</itunes:title>
+      <itunes:summary>Med Dee Dee Bridgewater. Jochen Neuffer dirigerer.</itunes:summary>
+      <itunes:duration>278</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Nordnorsk julesalme</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_b48b800d-61d7-42ed-8b80-0d61d7d2ed3a</link>
+      <description>Med Ella Marie Hætta Isaksen. Christian Eggen spiller piano og dirigerer.</description>
+      <guid isPermaLink="false">l_b48b800d-61d7-42ed-8b80-0d61d7d2ed3a</guid>
+      <pubDate>Mon, 01 Dec 2025 05:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/b48b800d-61d7-42ed-8b80-0d61d7d2ed3a_ID192MP3.mp3" type="audio/mpeg" length="5523308"></enclosure>
+      <itunes:title>Nordnorsk julesalme</itunes:title>
+      <itunes:summary>Med Ella Marie Hætta Isaksen. Christian Eggen spiller piano og dirigerer.</itunes:summary>
+      <itunes:duration>230</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Tre nøtter til Askepott</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_9bfb1811-28ab-42ae-bb18-1128ab32ae6c</link>
+      <description>Lars Andreas Aspesæter spiller piano og leder Kork.</description>
+      <guid isPermaLink="false">l_9bfb1811-28ab-42ae-bb18-1128ab32ae6c</guid>
+      <pubDate>Mon, 01 Dec 2025 05:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/9bfb1811-28ab-42ae-bb18-1128ab32ae6c_ID192MP3.mp3" type="audio/mpeg" length="3809132"></enclosure>
+      <itunes:title>Tre nøtter til Askepott</itunes:title>
+      <itunes:summary>Lars Andreas Aspesæter spiller piano og leder Kork.</itunes:summary>
+      <itunes:duration>158</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Jul i Svingen</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_e6e2f30c-0f85-4383-a2f3-0c0f85538332</link>
+      <description>Odd Nordstoga synger og Ingvild Habbestad spiller nyckelharpa. Bjarte Engeset dirigerer</description>
+      <guid isPermaLink="false">l_e6e2f30c-0f85-4383-a2f3-0c0f85538332</guid>
+      <pubDate>Mon, 01 Dec 2025 05:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/e6e2f30c-0f85-4383-a2f3-0c0f85538332_ID192MP3.mp3" type="audio/mpeg" length="5546348"></enclosure>
+      <itunes:title>Jul i Svingen</itunes:title>
+      <itunes:summary>Odd Nordstoga synger og Ingvild Habbestad spiller nyckelharpa. Bjarte Engeset dirigerer</itunes:summary>
+      <itunes:duration>231</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Santa Baby</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_395416e9-4926-49dc-9416-e94926a9dceb</link>
+      <description>Ingrid Helene Håvik synger. Bjarte Engeset dirigerer</description>
+      <guid isPermaLink="false">l_395416e9-4926-49dc-9416-e94926a9dceb</guid>
+      <pubDate>Mon, 01 Dec 2025 05:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/395416e9-4926-49dc-9416-e94926a9dceb_ID192MP3.mp3" type="audio/mpeg" length="5114348"></enclosure>
+      <itunes:title>Santa Baby</itunes:title>
+      <itunes:summary>Ingrid Helene Håvik synger. Bjarte Engeset dirigerer</itunes:summary>
+      <itunes:duration>213</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Himmel på jord</title>
+      <link>https://radio.nrk.no/podkast/kringkastingsorkestret_/l_44aed594-8fb1-4553-aed5-948fb1d55388</link>
+      <description>Med Kurt Nilsen. Nick Davies dirigerer</description>
+      <guid isPermaLink="false">l_44aed594-8fb1-4553-aed5-948fb1d55388</guid>
+      <pubDate>Mon, 01 Dec 2025 05:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kringkastingsorkestret_/44aed594-8fb1-4553-aed5-948fb1d55388_ID192MP3.mp3" type="audio/mpeg" length="5724332"></enclosure>
+      <itunes:title>Himmel på jord</itunes:title>
+      <itunes:summary>Med Kurt Nilsen. Nick Davies dirigerer</itunes:summary>
+      <itunes:duration>238</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mybvBwk2rqNl7cMIliC7Ywz1Lx_xRQNhwNJmpOJuqvRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

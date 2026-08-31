@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OL-gull</title>
+    <link>https://radio.nrk.no/podkast/olgull</link>
+    <description>128 år med juks, jubel og usannsynlige idrettshelter. OL-historien har alt man drømmer om av spenning og skuffelser. Bli med å grave etter OL-gull.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 19 Jul 2024 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/olgull.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>128 år med juks, jubel og usannsynlige idrettshelter. OL-historien har alt man drømmer om av spenning og skuffelser. Bli med å grave etter OL-gull.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/y2an3qnykZd1Ck979G7TjQ5vRDXGBdF9g7btI9CaAdQQ"></itunes:image>
+    <itunes:category text="Sports"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/y2an3qnykZd1Ck979G7TjQ5vRDXGBdF9g7btI9CaAdQQ</url>
+      <title>OL-gull</title>
+      <link>https://radio.nrk.no/podkast/olgull</link>
+    </image>
+    <item>
+      <title>London 2012</title>
+      <link>https://radio.nrk.no/podkast/olgull/l_51b405b6-2936-4771-b405-b629366771ad</link>
+      <description>Paul McCartney åpnet lekene med Hey Jude. Cool Britannia var tilbake og Paralympics fikk endelig skinne.</description>
+      <guid isPermaLink="false">l_51b405b6-2936-4771-b405-b629366771ad</guid>
+      <pubDate>Fri, 19 Jul 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/olgull/44fb246b-b987-4c39-986c-d038d683a0b3_0_ID192MP3.mp3" type="audio/mpeg" length="79458669"></enclosure>
+      <itunes:title>London 2012</itunes:title>
+      <itunes:summary>Paul McCartney åpnet lekene med Hey Jude. Cool Britannia var tilbake og Paralympics fikk endelig skinne.</itunes:summary>
+      <itunes:duration>3310</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TZDQJX5leZGoP2w_y2mvgARcrvHBRY5M-2zRw03zgbFg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Beijing 2008</title>
+      <link>https://radio.nrk.no/podkast/olgull/l_5e6d3dfb-80e5-4f29-ad3d-fb80e53f2942</link>
+      <description>På hjemmebane kunne Kina vise muskler, og Norge tok et etterlengtet gull. Men var den ballen egentlig inne?</description>
+      <guid isPermaLink="false">l_5e6d3dfb-80e5-4f29-ad3d-fb80e53f2942</guid>
+      <pubDate>Fri, 19 Jul 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/olgull/079b0b7d-0db1-4efa-9e7d-d838574e5d1f_0_ID192MP3.mp3" type="audio/mpeg" length="92010861"></enclosure>
+      <itunes:title>Beijing 2008</itunes:title>
+      <itunes:summary>På hjemmebane kunne Kina vise muskler, og Norge tok et etterlengtet gull. Men var den ballen egentlig inne?</itunes:summary>
+      <itunes:duration>3833</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/z5N2TrJ2Ztlghv-E19HOuArg878BCA-piYJuUeVShKeA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>München 1972</title>
+      <link>https://radio.nrk.no/podkast/olgull/l_8e07adb9-b123-45e3-87ad-b9b12395e314</link>
+      <description>OL-historiens mørkeste timer under det verste anslaget mot de olympiske leker noensinne. Og litt doping var fortsatt lov.</description>
+      <guid isPermaLink="false">l_8e07adb9-b123-45e3-87ad-b9b12395e314</guid>
+      <pubDate>Fri, 19 Jul 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/olgull/ce887c1d-4dfa-49e5-835d-cfeb4d464254_0_ID192MP3.mp3" type="audio/mpeg" length="66734829"></enclosure>
+      <itunes:title>München 1972</itunes:title>
+      <itunes:summary>OL-historiens mørkeste timer under det verste anslaget mot de olympiske leker noensinne. Og litt doping var fortsatt lov.</itunes:summary>
+      <itunes:duration>2780</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1DVvnlolAv2Pkrm42cSkzwGI11jm7gbHM6IgWkczC-JA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tokyo 2021</title>
+      <link>https://radio.nrk.no/podkast/olgull/l_fb006a07-2893-4d44-806a-0728933d4446</link>
+      <description>Epidemien stengte så vidt en hel verden ute. Karsten Warholm ble kongen og tok opp arven etter Harald.</description>
+      <guid isPermaLink="false">l_fb006a07-2893-4d44-806a-0728933d4446</guid>
+      <pubDate>Fri, 19 Jul 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/olgull/7e80a857-df8e-4a3c-bf2d-0996a87227e8_0_ID192MP3.mp3" type="audio/mpeg" length="71699373"></enclosure>
+      <itunes:title>Tokyo 2021</itunes:title>
+      <itunes:summary>Epidemien stengte så vidt en hel verden ute. Karsten Warholm ble kongen og tok opp arven etter Harald.</itunes:summary>
+      <itunes:duration>2987</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/IbDUoWph6cd82hGas4fSLwfelO_BxFVlJsBbxZyfXdAA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Seoul 1988</title>
+      <link>https://radio.nrk.no/podkast/olgull/l_21d493ca-a169-4e60-9493-caa1694e60ac</link>
+      <description>Arrangørene slapp ut slitne duer som måtte bøte med livet. En 26-åring skjøt villsvin og en mann løp om kapp med en hest.</description>
+      <guid isPermaLink="false">l_21d493ca-a169-4e60-9493-caa1694e60ac</guid>
+      <pubDate>Fri, 28 Jun 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/olgull/a8032df1-3d3c-4bf7-8691-105106ba0a43_0_ID192MP3.mp3" type="audio/mpeg" length="68770413"></enclosure>
+      <itunes:title>Seoul 1988</itunes:title>
+      <itunes:summary>Arrangørene slapp ut slitne duer som måtte bøte med livet. En 26-åring skjøt villsvin og en mann løp om kapp med en hest.</itunes:summary>
+      <itunes:duration>2865</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iVKIGAj0epIwviq6tcWeuwGFtNiNLL1MutIEjWY68olA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sydney  2000</title>
+      <link>https://radio.nrk.no/podkast/olgull/l_39a2d5fc-16f2-4096-a2d5-fc16f2009661</link>
+      <description>En ål ble en av OL-historiens mest uventede helter – og Dagny Mellgren sto for tidenes kommentatorekstase.</description>
+      <guid isPermaLink="false">l_39a2d5fc-16f2-4096-a2d5-fc16f2009661</guid>
+      <pubDate>Fri, 28 Jun 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/olgull/0b0d068b-59e3-449d-b068-3e36ed11f49a_0_ID192MP3.mp3" type="audio/mpeg" length="77102253"></enclosure>
+      <itunes:title>Sydney  2000</itunes:title>
+      <itunes:summary>En ål ble en av OL-historiens mest uventede helter – og Dagny Mellgren sto for tidenes kommentatorekstase.</itunes:summary>
+      <itunes:duration>3212</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zECbwaZQF3nkMRvIoAVmqwS5YmrJ6gprZHhp4AZavAMA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Barcelona 1992</title>
+      <link>https://radio.nrk.no/podkast/olgull/l_4fe735a6-7f46-4468-a735-a67f469468e4</link>
+      <description>1992 var året da superstjernene inntok OL, en kvinne fra Nøtterøy ble historisk og vi endelig slo Sovjet.</description>
+      <guid isPermaLink="false">l_4fe735a6-7f46-4468-a735-a67f469468e4</guid>
+      <pubDate>Fri, 28 Jun 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/olgull/74349761-272d-4e91-a8f7-879ee620fa5e_0_ID192MP3.mp3" type="audio/mpeg" length="101367405"></enclosure>
+      <itunes:title>Barcelona 1992</itunes:title>
+      <itunes:summary>1992 var året da superstjernene inntok OL, en kvinne fra Nøtterøy ble historisk og vi endelig slo Sovjet.</itunes:summary>
+      <itunes:duration>4223</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fHeob_dIWcoB853cc1v57w3mQM9rYVXkezkQHroynYmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Atlanta 1996</title>
+      <link>https://radio.nrk.no/podkast/olgull/l_845c9857-0250-46e5-9c98-57025066e544</link>
+      <description>Historien om da terroren traff OL-byen, den største tente ilden og den halve sjokoladen som skulle redde norsk OL-historie.</description>
+      <guid isPermaLink="false">l_845c9857-0250-46e5-9c98-57025066e544</guid>
+      <pubDate>Fri, 28 Jun 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/olgull/ac16b99f-f39e-4057-98ac-61e636064111_0_ID192MP3.mp3" type="audio/mpeg" length="93870189"></enclosure>
+      <itunes:title>Atlanta 1996</itunes:title>
+      <itunes:summary>Historien om da terroren traff OL-byen, den største tente ilden og den halve sjokoladen som skulle redde norsk OL-historie.</itunes:summary>
+      <itunes:duration>3911</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nUXaHRE1EvoJadG5r_MojgFNFrBdKBpD4q-Um2iCHhuA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

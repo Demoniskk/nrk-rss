@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Popkorn og politikk</title>
+    <link>https://radio.nrk.no/podkast/popkorn_og_politikk</link>
+    <description>Demokratiet er skjørt. Hør om populistiske strømninger og aktuelle utenrikspolitiske dramaer i verden – og i TV-serier.&#xA; </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 16 Dec 2022 12:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/popkorn_og_politikk.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Demokratiet er skjørt. Hør om populistiske strømninger og aktuelle utenrikspolitiske dramaer i verden – og i TV-serier.&#xA; </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+    <itunes:category text="Nyheter"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw</url>
+      <title>Popkorn og politikk</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk</link>
+    </image>
+    <item>
+      <title>Dramatiske veivalg</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_df65a8fd-d57e-429c-a5a8-fdd57e029cfe</link>
+      <description>Shaun hadde endt opp som Jeppe i Exit hvis han hadde valgt annerledes den gangen på nittitallet. I tillegg får Shaun og Torkil sårt tiltrengt fakta om gass fra Sindre Heyerdahl. </description>
+      <guid isPermaLink="false">l_df65a8fd-d57e-429c-a5a8-fdd57e029cfe</guid>
+      <pubDate>Fri, 16 Dec 2022 13:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/38bbb9b9-be20-4b4a-9a18-e16cabe98d7e_0_ID192MP3.mp3" type="audio/mpeg" length="91323693"></enclosure>
+      <itunes:title>Dramatiske veivalg</itunes:title>
+      <itunes:summary>Shaun hadde endt opp som Jeppe i Exit hvis han hadde valgt annerledes den gangen på nittitallet. I tillegg får Shaun og Torkil sårt tiltrengt fakta om gass fra Sindre Heyerdahl. </itunes:summary>
+      <itunes:duration>3805</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2022">202212</podcast:season>
+    </item>
+    <item>
+      <title>Hva skjer, Ye? </title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_ec8b87d6-5a89-42aa-8b87-d65a89b2aa5d</link>
+      <description>Han har blitt kasta ut av Twitter, han omgås en av de mest fremtredende høyre-ekstremistene i USA og sier at det er mye han elsker ved Hitler. Fansen er sjokkert over hva artisten Ye lirer av seg om dagen. Hvor skal dette ende, Ye? </description>
+      <guid isPermaLink="false">l_ec8b87d6-5a89-42aa-8b87-d65a89b2aa5d</guid>
+      <pubDate>Fri, 09 Dec 2022 13:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/5b0c1a08-ecd1-4c5f-a60b-c3a75e5b90c9_0_ID192MP3.mp3" type="audio/mpeg" length="100646829"></enclosure>
+      <itunes:title>Hva skjer, Ye? </itunes:title>
+      <itunes:summary>Han har blitt kasta ut av Twitter, han omgås en av de mest fremtredende høyre-ekstremistene i USA og sier at det er mye han elsker ved Hitler. Fansen er sjokkert over hva artisten Ye lirer av seg om dagen. Hvor skal dette ende, Ye? </itunes:summary>
+      <itunes:duration>4193</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2022">202212</podcast:season>
+    </item>
+    <item>
+      <title>Finnes det håp for Iran? </title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_5a5d09ce-ebe1-48cd-9d09-ceebe1d8cd71</link>
+      <description>Dødsfallet til Mahsa Amini, som døde i politiets varetekt, var dråpen for et allerede undertrykt og frustrert folk. Siden har tusenvis av kvinner og menn tatt til gatene og risikert livet for å protestere mot regimet i landet. Kan dette føre til endring i Iran? Gjest: Sara Taslimi. </description>
+      <guid isPermaLink="false">l_5a5d09ce-ebe1-48cd-9d09-ceebe1d8cd71</guid>
+      <pubDate>Fri, 02 Dec 2022 15:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/4a1fb346-8639-4806-b943-db9617ed614e_0_ID192MP3.mp3" type="audio/mpeg" length="87686829"></enclosure>
+      <itunes:title>Finnes det håp for Iran? </itunes:title>
+      <itunes:summary>Dødsfallet til Mahsa Amini, som døde i politiets varetekt, var dråpen for et allerede undertrykt og frustrert folk. Siden har tusenvis av kvinner og menn tatt til gatene og risikert livet for å protestere mot regimet i landet. Kan dette føre til endring i Iran? Gjest: Sara Taslimi. </itunes:summary>
+      <itunes:duration>3653</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2022">202212</podcast:season>
+    </item>
+    <item>
+      <title>Koko konspirasjonsteorier</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_10f928d4-d5e4-46a7-b928-d4d5e416a7ef</link>
+      <description>Shaun og Torkil dykker ned i absurde konspirasjonsteorier, også de som viste seg å stemme. Forfatter og kommentator Lena Lindgren har sett den omstridte Netflix-serien Ancient Apocalypse. </description>
+      <guid isPermaLink="false">l_10f928d4-d5e4-46a7-b928-d4d5e416a7ef</guid>
+      <pubDate>Fri, 25 Nov 2022 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/c7bb7ed5-a55f-4f85-9e62-d58373bf67ec_0_ID192MP3.mp3" type="audio/mpeg" length="80482221"></enclosure>
+      <itunes:title>Koko konspirasjonsteorier</itunes:title>
+      <itunes:summary>Shaun og Torkil dykker ned i absurde konspirasjonsteorier, også de som viste seg å stemme. Forfatter og kommentator Lena Lindgren har sett den omstridte Netflix-serien Ancient Apocalypse. </itunes:summary>
+      <itunes:duration>3353</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2022">202211</podcast:season>
+    </item>
+    <item>
+      <title>De villeste historiene fra fotballens verden</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_98554e83-fa15-4707-954e-83fa15d7071d</link>
+      <description>Det finnes fotballstjerner som aldri spilte kamper og som betalte fans for å synge navnet deres. Ville historier fra verdens største idrett er utallige. Og hvilke filmer og serier framstiller idretten på en god måte? </description>
+      <guid isPermaLink="false">l_98554e83-fa15-4707-954e-83fa15d7071d</guid>
+      <pubDate>Fri, 18 Nov 2022 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/3257b3f2-73c9-4b70-8308-4fb62651a1e4_0_ID192MP3.mp3" type="audio/mpeg" length="81660717"></enclosure>
+      <itunes:title>De villeste historiene fra fotballens verden</itunes:title>
+      <itunes:summary>Det finnes fotballstjerner som aldri spilte kamper og som betalte fans for å synge navnet deres. Ville historier fra verdens største idrett er utallige. Og hvilke filmer og serier framstiller idretten på en god måte? </itunes:summary>
+      <itunes:duration>3402</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2022">202211</podcast:season>
+    </item>
+    <item>
+      <title>Slik døde fotballen</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_9833fe50-4bac-45e0-b3fe-504bac85e0d1</link>
+      <description>Da du ikke trodde at FIFA kunne bli mer korrupt, tildelte de VM i fotball til Qatar – et land som er kjent for en total mangel på menneskerettigheter. Sportsjournalist i TV2, Mina Finstad Berg forteller om de umenneskelige forholdene mennesker jobba under, hvor tusenvis måtte bøte med livet. Det ultimate beviset for hvor langt pampene i FIFA er villig til å gå for penger.</description>
+      <guid isPermaLink="false">l_9833fe50-4bac-45e0-b3fe-504bac85e0d1</guid>
+      <pubDate>Fri, 11 Nov 2022 14:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/c4b60388-e006-44e4-8500-21bc6f0ac1b7_0_ID192MP3.mp3" type="audio/mpeg" length="82024749"></enclosure>
+      <itunes:title>Slik døde fotballen</itunes:title>
+      <itunes:summary>Da du ikke trodde at FIFA kunne bli mer korrupt, tildelte de VM i fotball til Qatar – et land som er kjent for en total mangel på menneskerettigheter. Sportsjournalist i TV2, Mina Finstad Berg forteller om de umenneskelige forholdene mennesker jobba under, hvor tusenvis måtte bøte med livet. Det ultimate beviset for hvor langt pampene i FIFA er villig til å gå for penger.</itunes:summary>
+      <itunes:duration>3417</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2022">202211</podcast:season>
+    </item>
+    <item>
+      <title>Arizona: Trumps nøkkelstat i mellomvalget</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_31904917-bbfe-4a60-9049-17bbfe1a6063</link>
+      <description>Under mellomvalget i Arizona kan tre trumpister vinne viktige posisjoner i det statlige maktapparatet. Republikaner Kari Lake er en av dem. De kan sørge for at Trump blir president i 2024, selv om Joe Biden skulle vinne folkets stemmer.</description>
+      <guid isPermaLink="false">l_31904917-bbfe-4a60-9049-17bbfe1a6063</guid>
+      <pubDate>Fri, 04 Nov 2022 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/7e2a2f4a-b2fe-447b-b00e-f65e63aea5cc_0_ID192MP3.mp3" type="audio/mpeg" length="83668077"></enclosure>
+      <itunes:title>Arizona: Trumps nøkkelstat i mellomvalget</itunes:title>
+      <itunes:summary>Under mellomvalget i Arizona kan tre trumpister vinne viktige posisjoner i det statlige maktapparatet. Republikaner Kari Lake er en av dem. De kan sørge for at Trump blir president i 2024, selv om Joe Biden skulle vinne folkets stemmer.</itunes:summary>
+      <itunes:duration>3486</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2022">202211</podcast:season>
+    </item>
+    <item>
+      <title>Slik kan atomkrig starte</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_0fccf5cb-b643-476b-8cf5-cbb643a76b28</link>
+      <description>Hvordan kan opptrappingen til en fullskala atomkrig se ut, og hvordan bør vi forberede oss? Journalist og forsvarsekspert Kjetil Stormark presenterer et mørkt scenario.</description>
+      <guid isPermaLink="false">l_0fccf5cb-b643-476b-8cf5-cbb643a76b28</guid>
+      <pubDate>Fri, 28 Oct 2022 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/b9951361-dfa7-48b4-93ef-2a02802774a8_0_ID192MP3.mp3" type="audio/mpeg" length="82438317"></enclosure>
+      <itunes:title>Slik kan atomkrig starte</itunes:title>
+      <itunes:summary>Hvordan kan opptrappingen til en fullskala atomkrig se ut, og hvordan bør vi forberede oss? Journalist og forsvarsekspert Kjetil Stormark presenterer et mørkt scenario.</itunes:summary>
+      <itunes:duration>3434</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2022">202210</podcast:season>
+    </item>
+    <item>
+      <title>Big in Japan</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_5575a7c2-e556-4af5-b5a7-c2e556faf537</link>
+      <description>Som Asias nest mektigste land og den tredje største økonomien i verden - hvorfor hører vi ikke mer om Japan? Hvordan forholder landet seg til det betente forholdet mellom USA, Kina og Russland? Hva er hverdagsjapaneren opptatt av og hva er egentlig hikikomori? Med Seniorforsker ved NUPI, Wrenn Yennie Lindgren. </description>
+      <guid isPermaLink="false">l_5575a7c2-e556-4af5-b5a7-c2e556faf537</guid>
+      <pubDate>Fri, 21 Oct 2022 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/011b82f8-7183-4659-bc5c-1b691f183c42_0_ID192MP3.mp3" type="audio/mpeg" length="76635117"></enclosure>
+      <itunes:title>Big in Japan</itunes:title>
+      <itunes:summary>Som Asias nest mektigste land og den tredje største økonomien i verden - hvorfor hører vi ikke mer om Japan? Hvordan forholder landet seg til det betente forholdet mellom USA, Kina og Russland? Hva er hverdagsjapaneren opptatt av og hva er egentlig hikikomori? Med Seniorforsker ved NUPI, Wrenn Yennie Lindgren. </itunes:summary>
+      <itunes:duration>3193</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2022">202210</podcast:season>
+    </item>
+    <item>
+      <title>Seriemordere</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_03c449dd-82e4-412f-8449-dd82e4912f36</link>
+      <description>Klovnekostyme, kannibalisme og kidnapping. Til tross for seriemorderes grufulle handlinger, lar vi oss fascinere. Netflix-suksessen om Jeffrey Dahmer er et godt eksempel på det.</description>
+      <guid isPermaLink="false">l_03c449dd-82e4-412f-8449-dd82e4912f36</guid>
+      <pubDate>Fri, 14 Oct 2022 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/bdeabbdf-4b45-43d9-b884-d52fd120f66e_0_ID192MP3.mp3" type="audio/mpeg" length="96369453"></enclosure>
+      <itunes:title>Seriemordere</itunes:title>
+      <itunes:summary>Klovnekostyme, kannibalisme og kidnapping. Til tross for seriemorderes grufulle handlinger, lar vi oss fascinere. Netflix-suksessen om Jeffrey Dahmer er et godt eksempel på det.</itunes:summary>
+      <itunes:duration>4015</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2022">202210</podcast:season>
+    </item>
+    <item>
+      <title>Sjakkens skandaler og sjarm </title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_f4f25ee9-b598-4f72-b25e-e9b5980f72fa</link>
+      <description>Skandaler og politikk har begge preget sjakksporten. Shaun og Torkil ser på historiske hendelser og flauser sammen med Norges velkjente sjakkentusiast og dommer, Hans Olav Lahlum. </description>
+      <guid isPermaLink="false">l_f4f25ee9-b598-4f72-b25e-e9b5980f72fa</guid>
+      <pubDate>Fri, 07 Oct 2022 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/105ded32-2cd0-4b7c-9ac8-dbc671fa3277_0_ID192MP3.mp3" type="audio/mpeg" length="98860653"></enclosure>
+      <itunes:title>Sjakkens skandaler og sjarm </itunes:title>
+      <itunes:summary>Skandaler og politikk har begge preget sjakksporten. Shaun og Torkil ser på historiske hendelser og flauser sammen med Norges velkjente sjakkentusiast og dommer, Hans Olav Lahlum. </itunes:summary>
+      <itunes:duration>4119</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2022">202210</podcast:season>
+    </item>
+    <item>
+      <title>Peter Thiel - virkelighetens superskurk?</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_b4de31cc-28fe-4e98-9e31-cc28febe98f7</link>
+      <description>En superskurk har mange skremmende kjennetegn. De finnes også hos en ekte tek-gigant. Journalist og forfatter Lena Lindgren har vært i Silicon Valley og gjør oss bedre kjent med mannen hun kaller internetts edderkopp og en anti-demokrat: Peter Thiel. </description>
+      <guid isPermaLink="false">l_b4de31cc-28fe-4e98-9e31-cc28febe98f7</guid>
+      <pubDate>Fri, 30 Sep 2022 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/41e313e8-35ee-4448-baa0-16a6e820c75f_0_ID192MP3.mp3" type="audio/mpeg" length="89405037"></enclosure>
+      <itunes:title>Peter Thiel - virkelighetens superskurk?</itunes:title>
+      <itunes:summary>En superskurk har mange skremmende kjennetegn. De finnes også hos en ekte tek-gigant. Journalist og forfatter Lena Lindgren har vært i Silicon Valley og gjør oss bedre kjent med mannen hun kaller internetts edderkopp og en anti-demokrat: Peter Thiel. </itunes:summary>
+      <itunes:duration>3725</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2022">202209</podcast:season>
+    </item>
+    <item>
+      <title>Hvilken spion kan knerte Putin?</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_083e1a5d-e704-43da-be1a-5de704c3dabd</link>
+      <description>James Bond, Ethan Hunt eller Jason Bourne? Eller kanskje selveste Austin Powers? Hvem av dem er best egnet til å knerte Putin? Eller tar Ukraina knekken på Russland før man kommer så langt?</description>
+      <guid isPermaLink="false">l_083e1a5d-e704-43da-be1a-5de704c3dabd</guid>
+      <pubDate>Fri, 23 Sep 2022 17:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/239c00b8-9418-4be1-89ea-3bd59b5a1e4c_0_ID192MP3.mp3" type="audio/mpeg" length="95586669"></enclosure>
+      <itunes:title>Hvilken spion kan knerte Putin?</itunes:title>
+      <itunes:summary>James Bond, Ethan Hunt eller Jason Bourne? Eller kanskje selveste Austin Powers? Hvem av dem er best egnet til å knerte Putin? Eller tar Ukraina knekken på Russland før man kommer så langt?</itunes:summary>
+      <itunes:duration>3982</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2022">202209</podcast:season>
+    </item>
+    <item>
+      <title>Elizabeth II: 70 år med ville historier</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_d24c4835-8302-4579-8c48-3583027579ac</link>
+      <description>I den nylig avdøde dronningens nærmeste krets, ble noen ansett som Gud, mens andre mistet verv og ble fryst ut av folket. Popkorn og politikk gir deg noen av de største dramaene i Elizabeth II sitt liv. </description>
+      <guid isPermaLink="false">l_d24c4835-8302-4579-8c48-3583027579ac</guid>
+      <pubDate>Fri, 16 Sep 2022 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/4fdad827-ef61-4852-beea-e7902a140812_0_ID192MP3.mp3" type="audio/mpeg" length="80333613"></enclosure>
+      <itunes:title>Elizabeth II: 70 år med ville historier</itunes:title>
+      <itunes:summary>I den nylig avdøde dronningens nærmeste krets, ble noen ansett som Gud, mens andre mistet verv og ble fryst ut av folket. Popkorn og politikk gir deg noen av de største dramaene i Elizabeth II sitt liv. </itunes:summary>
+      <itunes:duration>3347</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pDI1hiPcsLDKfuXUM6BpGAVfH-UnnacJeYFWKxS1W4aw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2022">202209</podcast:season>
+    </item>
+    <item>
+      <title>Norge sett med utenlandske øyne</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_7f98de91-073d-498c-98de-91073d098c81</link>
+      <description>Vi kaster et blikk på Norge sett fra utlandet. Hvilke uvenner har vi, og er høye gasspriser og oljevirksomhet i ferd med å avsløre oss som en grisk pengemaskin av en nasjon? </description>
+      <guid isPermaLink="false">l_7f98de91-073d-498c-98de-91073d098c81</guid>
+      <pubDate>Fri, 09 Sep 2022 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/387343c7-a36e-4a5f-8597-55920eb8674d_0_ID192MP3.mp3" type="audio/mpeg" length="95166765"></enclosure>
+      <itunes:title>Norge sett med utenlandske øyne</itunes:title>
+      <itunes:summary>Vi kaster et blikk på Norge sett fra utlandet. Hvilke uvenner har vi, og er høye gasspriser og oljevirksomhet i ferd med å avsløre oss som en grisk pengemaskin av en nasjon? </itunes:summary>
+      <itunes:duration>3965</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2022">202209</podcast:season>
+    </item>
+    <item>
+      <title>FBI vs. Trump</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_e8ba529b-133a-4b06-ba52-9b133a2b0647</link>
+      <description>Shaun og Torkil graver ned i gamle saker, skurker og skandaler som har preget FBI - på ekte og på film.</description>
+      <guid isPermaLink="false">l_e8ba529b-133a-4b06-ba52-9b133a2b0647</guid>
+      <pubDate>Fri, 02 Sep 2022 16:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/71950aa4-194a-4507-bf27-6aba3ee8036d_0_ID192MP3.mp3" type="audio/mpeg" length="100711341"></enclosure>
+      <itunes:title>FBI vs. Trump</itunes:title>
+      <itunes:summary>Shaun og Torkil graver ned i gamle saker, skurker og skandaler som har preget FBI - på ekte og på film.</itunes:summary>
+      <itunes:duration>4196</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2022">202209</podcast:season>
+    </item>
+    <item>
+      <title>Endelig ny sesong! </title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_b39f47c1-9736-46a3-9f47-c1973646a3d1</link>
+      <description>Shaun og det nye tilskuddet Torkil gleder seg til å ta deg med inn i høstens politiske og popkulturelle begivenheter i en ny sesong av Popkorn og politikk. </description>
+      <guid isPermaLink="false">l_b39f47c1-9736-46a3-9f47-c1973646a3d1</guid>
+      <pubDate>Fri, 26 Aug 2022 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/f8ba88fd-460e-4d76-8420-4ed77e17e5f8_0_ID192MP3.mp3" type="audio/mpeg" length="20912877"></enclosure>
+      <itunes:title>Endelig ny sesong! </itunes:title>
+      <itunes:summary>Shaun og det nye tilskuddet Torkil gleder seg til å ta deg med inn i høstens politiske og popkulturelle begivenheter i en ny sesong av Popkorn og politikk. </itunes:summary>
+      <itunes:duration>871</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2022">202208</podcast:season>
+    </item>
+    <item>
+      <title>Watergate: En skattekiste med skandaler</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_1f486980-171f-4e6d-8869-80171f2e6d55</link>
+      <description>Watergate-skandalen har påvirket politikken og kulturen mer enn vi tenker over. NRKs Torkil Risan tegner og beskriver i sesongens siste episode av Popkorn og politikk. I år er det 50 år siden det berømte innbruddet i Watergate-komplekset, som til slutt førte til president Nixons fall. </description>
+      <guid isPermaLink="false">l_1f486980-171f-4e6d-8869-80171f2e6d55</guid>
+      <pubDate>Fri, 17 Jun 2022 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/4f81472d-efde-44d6-a308-3b6648fcf5c2_0_ID192MP3.mp3" type="audio/mpeg" length="106166637"></enclosure>
+      <itunes:title>Watergate: En skattekiste med skandaler</itunes:title>
+      <itunes:summary>Watergate-skandalen har påvirket politikken og kulturen mer enn vi tenker over. NRKs Torkil Risan tegner og beskriver i sesongens siste episode av Popkorn og politikk. I år er det 50 år siden det berømte innbruddet i Watergate-komplekset, som til slutt førte til president Nixons fall. </itunes:summary>
+      <itunes:duration>4423</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2022">202206</podcast:season>
+    </item>
+    <item>
+      <title>Trump-show i Kongressen</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_842a822b-228c-4e8a-aa82-2b228c1e8afc</link>
+      <description>I USA er det to fortellinger om hva som skjedde 6.januar 2021. Komiteen som etterforsker stormingen legger fram sine bevis som om det var et TV-show. Men mange republikanere skifter kanal og tviholder på sin egen versjon. </description>
+      <guid isPermaLink="false">l_842a822b-228c-4e8a-aa82-2b228c1e8afc</guid>
+      <pubDate>Fri, 10 Jun 2022 14:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/2e1c6bea-8c66-4ca5-b9bb-05cc3842bfd6_0_ID192MP3.mp3" type="audio/mpeg" length="85147821"></enclosure>
+      <itunes:title>Trump-show i Kongressen</itunes:title>
+      <itunes:summary>I USA er det to fortellinger om hva som skjedde 6.januar 2021. Komiteen som etterforsker stormingen legger fram sine bevis som om det var et TV-show. Men mange republikanere skifter kanal og tviholder på sin egen versjon. </itunes:summary>
+      <itunes:duration>3547</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2022">202206</podcast:season>
+    </item>
+    <item>
+      <title>Kule helter i Ukraina</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_6b87c27e-12c6-4e3f-87c2-7e12c64e3f16</link>
+      <description>Gjennom 100 dager i krig har ukrainerne gitt fingeren til motstanderen ved hjelp drøy humor og kreativ krigføring. NRKs Roger Sevrin Bruland forteller også om hvordan krigen har endret motebildet i landet.  </description>
+      <guid isPermaLink="false">l_6b87c27e-12c6-4e3f-87c2-7e12c64e3f16</guid>
+      <pubDate>Fri, 03 Jun 2022 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/fe0f2d92-c1ed-48f1-a501-01ceaca09ab7_0_ID192MP3.mp3" type="audio/mpeg" length="83374317"></enclosure>
+      <itunes:title>Kule helter i Ukraina</itunes:title>
+      <itunes:summary>Gjennom 100 dager i krig har ukrainerne gitt fingeren til motstanderen ved hjelp drøy humor og kreativ krigføring. NRKs Roger Sevrin Bruland forteller også om hvordan krigen har endret motebildet i landet.  </itunes:summary>
+      <itunes:duration>3473</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2022">202206</podcast:season>
+    </item>
+    <item>
+      <title>Abort, våpen og mellomvalg i Amerikas splittede stater</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_e0f117c5-2c73-4816-b117-c52c73f816b5</link>
+      <description>Tove Bjørgaas om et polarisert USA som står foran et skjebnesvangert mellomvalg. Hva er de viktigste sakene, har Trump mistet grepet om det Republikanske partet og hvorfor er det så dårlig stemning blant demokratene? &#xA;</description>
+      <guid isPermaLink="false">l_e0f117c5-2c73-4816-b117-c52c73f816b5</guid>
+      <pubDate>Fri, 27 May 2022 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/8bb79371-5634-46e4-b117-5a15985c2be3_0_ID192MP3.mp3" type="audio/mpeg" length="87141357"></enclosure>
+      <itunes:title>Abort, våpen og mellomvalg i Amerikas splittede stater</itunes:title>
+      <itunes:summary>Tove Bjørgaas om et polarisert USA som står foran et skjebnesvangert mellomvalg. Hva er de viktigste sakene, har Trump mistet grepet om det Republikanske partet og hvorfor er det så dårlig stemning blant demokratene? &#xA;</itunes:summary>
+      <itunes:duration>3630</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2022">202205</podcast:season>
+    </item>
+    <item>
+      <title>Helomvendinger - med Kate Hansen Bundt og Sigrid Rege Gårdsvoll</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_75f075ab-d295-45ee-b075-abd295f5ee79</link>
+      <description>Snuoperasjoner og saltoer skjer både på skjermen og i virkeligheten. Kate Hansen Bundt fra Atlanterhavskomiteen forteller om Tysklands piruett i forsvarspolitkken, og Sigrid Rege Gårdsvoll fra amerikanskpolitikk.no viser oss republikanernes vending mot en rasistisk teori i USA.&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_75f075ab-d295-45ee-b075-abd295f5ee79</guid>
+      <pubDate>Fri, 20 May 2022 14:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/702aa910-8905-4a59-b1e1-e60bcd770542_0_ID192MP3.mp3" type="audio/mpeg" length="90782253"></enclosure>
+      <itunes:title>Helomvendinger - med Kate Hansen Bundt og Sigrid Rege Gårdsvoll</itunes:title>
+      <itunes:summary>Snuoperasjoner og saltoer skjer både på skjermen og i virkeligheten. Kate Hansen Bundt fra Atlanterhavskomiteen forteller om Tysklands piruett i forsvarspolitkken, og Sigrid Rege Gårdsvoll fra amerikanskpolitikk.no viser oss republikanernes vending mot en rasistisk teori i USA.&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3782</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2022">202205</podcast:season>
+    </item>
+    <item>
+      <title>Når ord endrer verden</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_f1047dbb-91b4-4326-847d-bb91b46326fa</link>
+      <description>Erna Solberg forteller om hvordan det var å møte Trump - og Putin. Hun gir et unikt innblikk i hvem de to er. Hun snakker også om hvordan hun jobber med ord og retorikk i politikken. Og vi analyserer talene som Volodymyr Zelenskyj og Vladmir Putin holdt 9. mai.  </description>
+      <guid isPermaLink="false">l_f1047dbb-91b4-4326-847d-bb91b46326fa</guid>
+      <pubDate>Fri, 13 May 2022 16:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/295503b1-986c-4c5c-bbc3-a54370a103dc_0_ID192MP3.mp3" type="audio/mpeg" length="97066989"></enclosure>
+      <itunes:title>Når ord endrer verden</itunes:title>
+      <itunes:summary>Erna Solberg forteller om hvordan det var å møte Trump - og Putin. Hun gir et unikt innblikk i hvem de to er. Hun snakker også om hvordan hun jobber med ord og retorikk i politikken. Og vi analyserer talene som Volodymyr Zelenskyj og Vladmir Putin holdt 9. mai.  </itunes:summary>
+      <itunes:duration>4044</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GCcv4gUaL4KKdJm0xRNKEwAS0qouUGWu4GAsR517kBzA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2022">202205</podcast:season>
+    </item>
+    <item>
+      <title>Norden og Nato – med Joakim Reigstad og Kristin Haugevik</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_469a7457-b4c5-407b-9a74-57b4c5a07ba6</link>
+      <description>Russlands angrep på Ukraina kan skremme Sverige og Finland inn i Nato. Det vil være et politisk veiskille som det var umulig å forestille seg for få år siden. NRKs nye korrespondent i nabolandene våre forteller om debatten, og Nupis seniorforsker om veien inn i den vestlige alliansen.</description>
+      <guid isPermaLink="false">l_469a7457-b4c5-407b-9a74-57b4c5a07ba6</guid>
+      <pubDate>Fri, 06 May 2022 15:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/763748d8-adad-4786-90a3-399eb6066732_0_ID192MP3.mp3" type="audio/mpeg" length="84880557"></enclosure>
+      <itunes:title>Norden og Nato – med Joakim Reigstad og Kristin Haugevik</itunes:title>
+      <itunes:summary>Russlands angrep på Ukraina kan skremme Sverige og Finland inn i Nato. Det vil være et politisk veiskille som det var umulig å forestille seg for få år siden. NRKs nye korrespondent i nabolandene våre forteller om debatten, og Nupis seniorforsker om veien inn i den vestlige alliansen.</itunes:summary>
+      <itunes:duration>3536</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2022">202205</podcast:season>
+    </item>
+    <item>
+      <title>Donald og vennene hans - med Sigrid Rege Gårdsvoll</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_4b4ddf06-aa6b-47a0-8ddf-06aa6b97a045</link>
+      <description>Mens nyhetskanalene er opptatt av krigen i Ukraina, forbereder USA seg på kongressvalget til høsten. Sigrid Rege Gårdsvoll fra amerikanskpolitikk.no forteller om abortsaken, etterforskningen av 6. januar og hvordan i all verden republikanerne begynte å krangle med Disney.</description>
+      <guid isPermaLink="false">l_4b4ddf06-aa6b-47a0-8ddf-06aa6b97a045</guid>
+      <pubDate>Fri, 29 Apr 2022 15:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/00d69ff7-f097-4590-b2df-fa6df191b76a_0_ID192MP3.mp3" type="audio/mpeg" length="98383149"></enclosure>
+      <itunes:title>Donald og vennene hans - med Sigrid Rege Gårdsvoll</itunes:title>
+      <itunes:summary>Mens nyhetskanalene er opptatt av krigen i Ukraina, forbereder USA seg på kongressvalget til høsten. Sigrid Rege Gårdsvoll fra amerikanskpolitikk.no forteller om abortsaken, etterforskningen av 6. januar og hvordan i all verden republikanerne begynte å krangle med Disney.</itunes:summary>
+      <itunes:duration>4099</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2022">202204</podcast:season>
+    </item>
+    <item>
+      <title>Vive la France! - med Sigurd Falkenberg Mikkelsen</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_beb8e7bb-b0fd-4554-b8e7-bbb0fd3554e0</link>
+      <description>Om Marine Le Pen blir Frankrikes president, vil hun endre Europa slik vi kjenner det, sier NRKs utenriksredaktør Sigurd Falkenberg Mikkelsen. Og hva forteller &#34;Le Bureau&#34; om fransk selvfølelse? </description>
+      <guid isPermaLink="false">l_beb8e7bb-b0fd-4554-b8e7-bbb0fd3554e0</guid>
+      <pubDate>Fri, 22 Apr 2022 14:55:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/53cced63-4084-45aa-b28c-c1518c39c4c7_0_ID192MP3.mp3" type="audio/mpeg" length="88391853"></enclosure>
+      <itunes:title>Vive la France! - med Sigurd Falkenberg Mikkelsen</itunes:title>
+      <itunes:summary>Om Marine Le Pen blir Frankrikes president, vil hun endre Europa slik vi kjenner det, sier NRKs utenriksredaktør Sigurd Falkenberg Mikkelsen. Og hva forteller &#34;Le Bureau&#34; om fransk selvfølelse? </itunes:summary>
+      <itunes:duration>3682</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2022">202204</podcast:season>
+    </item>
+    <item>
+      <title>Ondskap og straff - med Karlsen, Fixdal og Høgestøl</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_4f35ea8b-c78f-4ac5-b5ea-8bc78f0ac5c2</link>
+      <description>Hvordan kan man forklare grusomhetene russiske soldater utfører i Ukraina? Hvordan etterforsker man krigsforbrytelser og vil Vladimir Putin og hans regime noen gang ville måtte stå til ansvar? Med oberstløytnant Geir Hågen Karlsen, psykiater Trude Fixdal og førsteamanuensis ved Universitetet i Oslo Sofie Høgestøl. </description>
+      <guid isPermaLink="false">l_4f35ea8b-c78f-4ac5-b5ea-8bc78f0ac5c2</guid>
+      <pubDate>Fri, 08 Apr 2022 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/e7482978-e584-4d11-89d2-b80b8b014d10_0_ID192MP3.mp3" type="audio/mpeg" length="87367149"></enclosure>
+      <itunes:title>Ondskap og straff - med Karlsen, Fixdal og Høgestøl</itunes:title>
+      <itunes:summary>Hvordan kan man forklare grusomhetene russiske soldater utfører i Ukraina? Hvordan etterforsker man krigsforbrytelser og vil Vladimir Putin og hans regime noen gang ville måtte stå til ansvar? Med oberstløytnant Geir Hågen Karlsen, psykiater Trude Fixdal og førsteamanuensis ved Universitetet i Oslo Sofie Høgestøl. </itunes:summary>
+      <itunes:duration>3640</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2022">202204</podcast:season>
+    </item>
+    <item>
+      <title>Til bords med fienden - med gjestebonanza!</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_dc1709f0-b8e2-4f0a-9709-f0b8e2af0af5</link>
+      <description>Før eller senere blir krig til diplomati. Meglerveteran Erik Solheim forteller hvordan en fredsforhandling er, og forsker Karen-Anna Eggen forklarer hvordan Russland tenker ved møtebordet. Og Sandra Bruflot lot seg røre av president Zelenskyjs tale til Stortinget.</description>
+      <guid isPermaLink="false">l_dc1709f0-b8e2-4f0a-9709-f0b8e2af0af5</guid>
+      <pubDate>Fri, 01 Apr 2022 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/48004624-570f-4df5-8a2f-cc85f79cbe4a_0_ID192MP3.mp3" type="audio/mpeg" length="95571117"></enclosure>
+      <itunes:title>Til bords med fienden - med gjestebonanza!</itunes:title>
+      <itunes:summary>Før eller senere blir krig til diplomati. Meglerveteran Erik Solheim forteller hvordan en fredsforhandling er, og forsker Karen-Anna Eggen forklarer hvordan Russland tenker ved møtebordet. Og Sandra Bruflot lot seg røre av president Zelenskyjs tale til Stortinget.</itunes:summary>
+      <itunes:duration>3982</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2022">202204</podcast:season>
+    </item>
+    <item>
+      <title>Pressen i krig – med Gard Steiro og Yama Wolasmal</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_1d8739f1-815a-4e97-8739-f1815a0e97a8</link>
+      <description>Før var krigen ukegamle telegrammer, nå er den direkte på tv. Yama Wolasmal forteller om å reise fra kone og barn til krigen, og det å kunne komme hjem igjen. VG-redaktør Gard Steiro forteller hvordan krig dekkes. Og hva slags virkemidler må til for at du skal følge med?</description>
+      <guid isPermaLink="false">l_1d8739f1-815a-4e97-8739-f1815a0e97a8</guid>
+      <pubDate>Fri, 25 Mar 2022 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/8c0cb339-0dd9-4eeb-abf4-b6a0da114c07_0_ID192MP3.mp3" type="audio/mpeg" length="95476077"></enclosure>
+      <itunes:title>Pressen i krig – med Gard Steiro og Yama Wolasmal</itunes:title>
+      <itunes:summary>Før var krigen ukegamle telegrammer, nå er den direkte på tv. Yama Wolasmal forteller om å reise fra kone og barn til krigen, og det å kunne komme hjem igjen. VG-redaktør Gard Steiro forteller hvordan krig dekkes. Og hva slags virkemidler må til for at du skal følge med?</itunes:summary>
+      <itunes:duration>3978</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2022">202203</podcast:season>
+    </item>
+    <item>
+      <title>Ekstraepisode: Klar for ukrainske elever - og lærere</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_75c6e5c5-b6ba-4d94-86e5-c5b6babd9441</link>
+      <description>Er norske skoler klare til å ta i mot alle ukrainske barn som nå kommer?  Vil det etableres egne ukrainske klasser? Utdanningsminister Tonje Brenna er gjest.</description>
+      <guid isPermaLink="false">l_75c6e5c5-b6ba-4d94-86e5-c5b6babd9441</guid>
+      <pubDate>Sat, 19 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/49ce4258-8fd7-49c0-9de6-6ac87240d517_0_ID192MP3.mp3" type="audio/mpeg" length="17663661"></enclosure>
+      <itunes:title>Ekstraepisode: Klar for ukrainske elever - og lærere</itunes:title>
+      <itunes:summary>Er norske skoler klare til å ta i mot alle ukrainske barn som nå kommer?  Vil det etableres egne ukrainske klasser? Utdanningsminister Tonje Brenna er gjest.</itunes:summary>
+      <itunes:duration>735</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pDI1hiPcsLDKfuXUM6BpGAVfH-UnnacJeYFWKxS1W4aw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2022">202203</podcast:season>
+    </item>
+    <item>
+      <title>Håp, krig og utdanning - med Tonje Brenna</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_237b9155-8c86-4d82-bb91-558c868d82ef</link>
+      <description>Kunnskapsminister Tonje Brenna om Ukraina, Utøya og utdanning. </description>
+      <guid isPermaLink="false">l_237b9155-8c86-4d82-bb91-558c868d82ef</guid>
+      <pubDate>Fri, 18 Mar 2022 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/eaa1b4b4-bcc7-4369-9557-4f624f8a3f89_0_ID192MP3.mp3" type="audio/mpeg" length="91247085"></enclosure>
+      <itunes:title>Håp, krig og utdanning - med Tonje Brenna</itunes:title>
+      <itunes:summary>Kunnskapsminister Tonje Brenna om Ukraina, Utøya og utdanning. </itunes:summary>
+      <itunes:duration>3801</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2022">202203</podcast:season>
+    </item>
+    <item>
+      <title>Ekstraepisode: Soldaten - med Rune Wenneberg</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_6036eb63-d92e-4442-b6eb-63d92ef442b3</link>
+      <description>En av de norske offiserene med mest stridserfaring fra utenlandsoppdrag forteller om soldatlivet, om kamp, frykt og død. Og hva lærer han og resten av Forsvaret av Ukraina?</description>
+      <guid isPermaLink="false">l_6036eb63-d92e-4442-b6eb-63d92ef442b3</guid>
+      <pubDate>Tue, 15 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/bef4d96f-fc56-4fae-9027-66e4f76cfcb3_0_ID192MP3.mp3" type="audio/mpeg" length="47973357"></enclosure>
+      <itunes:title>Ekstraepisode: Soldaten - med Rune Wenneberg</itunes:title>
+      <itunes:summary>En av de norske offiserene med mest stridserfaring fra utenlandsoppdrag forteller om soldatlivet, om kamp, frykt og død. Og hva lærer han og resten av Forsvaret av Ukraina?</itunes:summary>
+      <itunes:duration>1998</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2022">202203</podcast:season>
+    </item>
+    <item>
+      <title>Ekstraepisode: Krigskorrespondenten - med Roger Sevrin Bruland</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_2955496f-b2c9-4181-9549-6fb2c9718106</link>
+      <description>Fra Nordfjord til Kosovo, koronapandemi og krig. NRKs Europa-korrespondent Roger Sevrin Bruland setter pris på gode historier fra både levd liv og gode forfattere. </description>
+      <guid isPermaLink="false">l_2955496f-b2c9-4181-9549-6fb2c9718106</guid>
+      <pubDate>Sat, 12 Mar 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/7018a501-08db-4913-9055-8d75e22ceff6_0_ID192MP3.mp3" type="audio/mpeg" length="85250349"></enclosure>
+      <itunes:title>Ekstraepisode: Krigskorrespondenten - med Roger Sevrin Bruland</itunes:title>
+      <itunes:summary>Fra Nordfjord til Kosovo, koronapandemi og krig. NRKs Europa-korrespondent Roger Sevrin Bruland setter pris på gode historier fra både levd liv og gode forfattere. </itunes:summary>
+      <itunes:duration>3552</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pDI1hiPcsLDKfuXUM6BpGAVfH-UnnacJeYFWKxS1W4aw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2022">202203</podcast:season>
+    </item>
+    <item>
+      <title>Motstandskampen - med sersjantmajor Rune Wenneberg</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_e8cb71ae-4937-4f26-8b71-ae4937cf26bb</link>
+      <description>Ukrainerne kjemper med en tapperhet som imponerer en hel verden. Men hvor henter du styrke fra, når du står der midt i jævelskapen på slagmarken? Rune Wenneberg har kamperfaring og er en av Norges mest erfarne soldater. Og han har noen teknikker.</description>
+      <guid isPermaLink="false">l_e8cb71ae-4937-4f26-8b71-ae4937cf26bb</guid>
+      <pubDate>Fri, 11 Mar 2022 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/d55a7711-ea8d-461a-a15f-970e4fa95aa8_0_ID192MP3.mp3" type="audio/mpeg" length="84548781"></enclosure>
+      <itunes:title>Motstandskampen - med sersjantmajor Rune Wenneberg</itunes:title>
+      <itunes:summary>Ukrainerne kjemper med en tapperhet som imponerer en hel verden. Men hvor henter du styrke fra, når du står der midt i jævelskapen på slagmarken? Rune Wenneberg har kamperfaring og er en av Norges mest erfarne soldater. Og han har noen teknikker.</itunes:summary>
+      <itunes:duration>3522</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2022">202203</podcast:season>
+    </item>
+    <item>
+      <title>Ekstraepisode: Psykologisk krigføring - med Eskild Grendahl Sivertsen</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_cc3a788d-9a18-43fc-ba78-8d9a18d3fceb</link>
+      <description>Kampen om hjertene, hjernene og sannheten er en viktig del av krigen i Ukraina. Hele denne bonusepisoden er viet til det som trolig er Norges fremste ekspert på psykologisk krigføring. Og ja, det finnes regler for det, og nei, Russland bryr seg ikke om dem.</description>
+      <guid isPermaLink="false">l_cc3a788d-9a18-43fc-ba78-8d9a18d3fceb</guid>
+      <pubDate>Tue, 08 Mar 2022 09:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/42533c9b-18d2-4a54-bd27-0e82d58963f9_0_ID192MP3.mp3" type="audio/mpeg" length="84787821"></enclosure>
+      <itunes:title>Ekstraepisode: Psykologisk krigføring - med Eskild Grendahl Sivertsen</itunes:title>
+      <itunes:summary>Kampen om hjertene, hjernene og sannheten er en viktig del av krigen i Ukraina. Hele denne bonusepisoden er viet til det som trolig er Norges fremste ekspert på psykologisk krigføring. Og ja, det finnes regler for det, og nei, Russland bryr seg ikke om dem.</itunes:summary>
+      <itunes:duration>3532</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2022">202203</podcast:season>
+    </item>
+    <item>
+      <title>Ekstraepisode: Propagandakrigen</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_6bd12cb4-6e33-4023-912c-b46e33902347</link>
+      <description>Hvordan fungerer Putins propaganda på russerne? Vi snakker med russiske Evgeniya Khoroltseva, som har familie både i Russland og Ukraina. Utenriksredaktør Sigurd Falkenberg Mikkelsen forteller hvordan journalister skiller informasjon fra propaganda, og korrespondent Roger Sevrin Bruland vet hva ukrainske myndigheter forteller folket for å holde motet oppe.</description>
+      <guid isPermaLink="false">l_6bd12cb4-6e33-4023-912c-b46e33902347</guid>
+      <pubDate>Sat, 05 Mar 2022 09:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/ef35f4ca-d777-4cc8-a759-944dbc7300dd_0_ID192MP3.mp3" type="audio/mpeg" length="68709357"></enclosure>
+      <itunes:title>Ekstraepisode: Propagandakrigen</itunes:title>
+      <itunes:summary>Hvordan fungerer Putins propaganda på russerne? Vi snakker med russiske Evgeniya Khoroltseva, som har familie både i Russland og Ukraina. Utenriksredaktør Sigurd Falkenberg Mikkelsen forteller hvordan journalister skiller informasjon fra propaganda, og korrespondent Roger Sevrin Bruland vet hva ukrainske myndigheter forteller folket for å holde motet oppe.</itunes:summary>
+      <itunes:duration>2862</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2022">202203</podcast:season>
+    </item>
+    <item>
+      <title>Fra komiker til kriger - med gjestebonanza!</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_432cf2b3-9eec-4901-acf2-b39eec690101</link>
+      <description>Russlands invasjon av Ukraina har skapt en helt. President Volodymyr Zelenskyj er ikke lenger komiker og manusforfatter, men den frie verdens beskytter, hyllet av EU, USA og alle som elsker folkestyre. Hvordan gikk han fra å være Ukrainas svar på Vidar Magnussen til å bli en Churchill eller Che?</description>
+      <guid isPermaLink="false">l_432cf2b3-9eec-4901-acf2-b39eec690101</guid>
+      <pubDate>Fri, 04 Mar 2022 16:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/23e0bc0b-d309-473b-bc96-9524a89e36d1_0_ID192MP3.mp3" type="audio/mpeg" length="103031469"></enclosure>
+      <itunes:title>Fra komiker til kriger - med gjestebonanza!</itunes:title>
+      <itunes:summary>Russlands invasjon av Ukraina har skapt en helt. President Volodymyr Zelenskyj er ikke lenger komiker og manusforfatter, men den frie verdens beskytter, hyllet av EU, USA og alle som elsker folkestyre. Hvordan gikk han fra å være Ukrainas svar på Vidar Magnussen til å bli en Churchill eller Che?</itunes:summary>
+      <itunes:duration>4292</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2022">202203</podcast:season>
+    </item>
+    <item>
+      <title>Invasjonen - med Simen Ekern, Hanne Skartveit og Anders Romarheim</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_f3a7dd35-bc15-4157-a7dd-35bc15415758</link>
+      <description>Natt til torsdag gikk Europas største land inn i Europas nest største land med soldater og stridsvogner. Om reaksjoner, sanksjoner, konsultasjoner og tidenes bakrus for EU-diplomatene. </description>
+      <guid isPermaLink="false">l_f3a7dd35-bc15-4157-a7dd-35bc15415758</guid>
+      <pubDate>Fri, 25 Feb 2022 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/01ff84e9-dc19-4f97-9195-4c1fc84a3d1d_0_ID192MP3.mp3" type="audio/mpeg" length="122366637"></enclosure>
+      <itunes:title>Invasjonen - med Simen Ekern, Hanne Skartveit og Anders Romarheim</itunes:title>
+      <itunes:summary>Natt til torsdag gikk Europas største land inn i Europas nest største land med soldater og stridsvogner. Om reaksjoner, sanksjoner, konsultasjoner og tidenes bakrus for EU-diplomatene. </itunes:summary>
+      <itunes:duration>5098</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2022">202202</podcast:season>
+    </item>
+    <item>
+      <title>Falsk flagg - med John Færseth</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_5b107f60-53dc-4b34-907f-6053dc5b340d</link>
+      <description>Shaun og Gjermund tar pulsen på pirater, Putin og Ukraina. Forfatter og journalist John Færseth forteller fra sitt ferske besøk i landet, og om hvordan russerne forteller om konflikten med nabolandet. </description>
+      <guid isPermaLink="false">l_5b107f60-53dc-4b34-907f-6053dc5b340d</guid>
+      <pubDate>Fri, 18 Feb 2022 15:45:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/661552c6-02b0-4123-85b8-4a0595d7eeaf_0_ID192MP3.mp3" type="audio/mpeg" length="88606125"></enclosure>
+      <itunes:title>Falsk flagg - med John Færseth</itunes:title>
+      <itunes:summary>Shaun og Gjermund tar pulsen på pirater, Putin og Ukraina. Forfatter og journalist John Færseth forteller fra sitt ferske besøk i landet, og om hvordan russerne forteller om konflikten med nabolandet. </itunes:summary>
+      <itunes:duration>3691</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2022">202202</podcast:season>
+    </item>
+    <item>
+      <title>Et europeisk familiedrama - med Sten Inge Jørgensen</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_8e2b2fea-f1fb-42f1-ab2f-eaf1fb82f151</link>
+      <description>Familien Europa står på kanten av krig og trenger terapi. Hvordan skal vi forholde oss til krisen mellom Russland og Ukraina? </description>
+      <guid isPermaLink="false">l_8e2b2fea-f1fb-42f1-ab2f-eaf1fb82f151</guid>
+      <pubDate>Fri, 11 Feb 2022 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/ede8d344-de9c-4224-b455-411d588bcf59_0_ID192MP3.mp3" type="audio/mpeg" length="93661677"></enclosure>
+      <itunes:title>Et europeisk familiedrama - med Sten Inge Jørgensen</itunes:title>
+      <itunes:summary>Familien Europa står på kanten av krig og trenger terapi. Hvordan skal vi forholde oss til krisen mellom Russland og Ukraina? </itunes:summary>
+      <itunes:duration>3902</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2022">202202</podcast:season>
+    </item>
+    <item>
+      <title>Super-tirsdag med Sofie Høgestøl</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_1fbc3cd1-898d-4b3b-bc3c-d1898d4b3bcb</link>
+      <description>USA-ekspert Sofie Høgestøl svarer på spørsmål fra lyttere.</description>
+      <guid isPermaLink="false">l_1fbc3cd1-898d-4b3b-bc3c-d1898d4b3bcb</guid>
+      <pubDate>Tue, 08 Feb 2022 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/41322ac4-4e06-401b-b131-ccbd7715255c_0_ID192MP3.mp3" type="audio/mpeg" length="38729133"></enclosure>
+      <itunes:title>Super-tirsdag med Sofie Høgestøl</itunes:title>
+      <itunes:summary>USA-ekspert Sofie Høgestøl svarer på spørsmål fra lyttere.</itunes:summary>
+      <itunes:duration>1613</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2022">202202</podcast:season>
+    </item>
+    <item>
+      <title>Valg i ville vesten - med Sofie Høgestøl</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_5698e244-c9d0-4d18-98e2-44c9d01d183f</link>
+      <description>Hvordan vil årets valg i USA stjeles? Hvordan foregår stemmeundertrykking og hvorfor er det så viktig for noen å gjøre det vanskelig for andre å stemme? OG hvorfor er western så viktig for å forstå amerikansk kultur og politikk? </description>
+      <guid isPermaLink="false">l_5698e244-c9d0-4d18-98e2-44c9d01d183f</guid>
+      <pubDate>Fri, 04 Feb 2022 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/6dfb7000-7172-4da2-af37-9cf4c1180ff4_0_ID192MP3.mp3" type="audio/mpeg" length="76677741"></enclosure>
+      <itunes:title>Valg i ville vesten - med Sofie Høgestøl</itunes:title>
+      <itunes:summary>Hvordan vil årets valg i USA stjeles? Hvordan foregår stemmeundertrykking og hvorfor er det så viktig for noen å gjøre det vanskelig for andre å stemme? OG hvorfor er western så viktig for å forstå amerikansk kultur og politikk? </itunes:summary>
+      <itunes:duration>3194</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2022">202202</podcast:season>
+    </item>
+    <item>
+      <title>Statsledernes skuespill - med Henrik Mestad</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_618e5729-fd2b-489c-8e57-29fd2b489c76</link>
+      <description>Han spilte Norges statsminister og vet hvilke triks statsledere bruker. Og om hvordan Barack Obama forandret den politiske talen. </description>
+      <guid isPermaLink="false">l_618e5729-fd2b-489c-8e57-29fd2b489c76</guid>
+      <pubDate>Fri, 28 Jan 2022 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/7d1b3212-18ac-46eb-85ed-598cf807f5a4_0_ID192MP3.mp3" type="audio/mpeg" length="86360301"></enclosure>
+      <itunes:title>Statsledernes skuespill - med Henrik Mestad</itunes:title>
+      <itunes:summary>Han spilte Norges statsminister og vet hvilke triks statsledere bruker. Og om hvordan Barack Obama forandret den politiske talen. </itunes:summary>
+      <itunes:duration>3598</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2022">202201</podcast:season>
+    </item>
+    <item>
+      <title>Storpolitikkens Ringenes Herre - med Sigurd Falkenberg Mikkelsen</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_4725fb3a-5293-47d3-a5fb-3a529377d3db</link>
+      <description>Alliansene sprekker, hvem truer verdens fred? Og hvem står igjen som tiårets ubestridte leder?</description>
+      <guid isPermaLink="false">l_4725fb3a-5293-47d3-a5fb-3a529377d3db</guid>
+      <pubDate>Fri, 21 Jan 2022 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/87556498-1f68-4205-9e89-ef85621f3b02_0_ID192MP3.mp3" type="audio/mpeg" length="107647533"></enclosure>
+      <itunes:title>Storpolitikkens Ringenes Herre - med Sigurd Falkenberg Mikkelsen</itunes:title>
+      <itunes:summary>Alliansene sprekker, hvem truer verdens fred? Og hvem står igjen som tiårets ubestridte leder?</itunes:summary>
+      <itunes:duration>4485</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2022">202201</podcast:season>
+    </item>
+    <item>
+      <title>Woke! Med Charlotte Bergløff</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_1efc9752-2714-4aca-bc97-522714caca73</link>
+      <description>Om woke-bevegelsen, kanselleringskultur og identitetspolitikkens rolle i USA og Skandinavia. Med journalist Charlotte Berrefjord Bergløff. </description>
+      <guid isPermaLink="false">l_1efc9752-2714-4aca-bc97-522714caca73</guid>
+      <pubDate>Fri, 14 Jan 2022 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/f87ac1ed-1273-4e22-9de6-6b53a9df9819_0_ID192MP3.mp3" type="audio/mpeg" length="88030125"></enclosure>
+      <itunes:title>Woke! Med Charlotte Bergløff</itunes:title>
+      <itunes:summary>Om woke-bevegelsen, kanselleringskultur og identitetspolitikkens rolle i USA og Skandinavia. Med journalist Charlotte Berrefjord Bergløff. </itunes:summary>
+      <itunes:duration>3667</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2022">202201</podcast:season>
+    </item>
+    <item>
+      <title>Donald og statskuppforsøk nr.2</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_81677ec4-1460-448b-a77e-c41460a48b51</link>
+      <description>Ett år etter stormingen av Capitol Hill er statskuppforsøk nummer to er allerede i gang. Ønsker Trump dommedag for demokratiet? Eller bløffer han? </description>
+      <guid isPermaLink="false">l_81677ec4-1460-448b-a77e-c41460a48b51</guid>
+      <pubDate>Fri, 07 Jan 2022 14:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/c16d79bd-b4ec-4e57-9f76-7eeb5b06f4c2_0_ID192MP3.mp3" type="audio/mpeg" length="91220013"></enclosure>
+      <itunes:title>Donald og statskuppforsøk nr.2</itunes:title>
+      <itunes:summary>Ett år etter stormingen av Capitol Hill er statskuppforsøk nummer to er allerede i gang. Ønsker Trump dommedag for demokratiet? Eller bløffer han? </itunes:summary>
+      <itunes:duration>3800</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2022">202201</podcast:season>
+    </item>
+    <item>
+      <title>Jesus, Skottland og Harry Potter - med Yngve Kvistad</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_15245f14-c496-4c57-a45f-14c496ac575e</link>
+      <description>En julefortelling om Europas underdog. </description>
+      <guid isPermaLink="false">l_15245f14-c496-4c57-a45f-14c496ac575e</guid>
+      <pubDate>Fri, 17 Dec 2021 14:20:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/70ad0611-c4ca-4f55-8702-adb17f1bdafc_0_ID192MP3.mp3" type="audio/mpeg" length="89082477"></enclosure>
+      <itunes:title>Jesus, Skottland og Harry Potter - med Yngve Kvistad</itunes:title>
+      <itunes:summary>En julefortelling om Europas underdog. </itunes:summary>
+      <itunes:duration>3711</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2021">202112</podcast:season>
+    </item>
+    <item>
+      <title>Chi-fi! Med Kristin Dalen</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_5f042583-a06f-4adc-8425-83a06fdadcd1</link>
+      <description>Ingen land har sett maken til økonomisk vekst som Kina har de siste tiårene. Et kapitalistisk mirakel drevet av et regime som kaller seg kommunistisk, og overvåker folket sitt på måter Øst-Tyskland bare kunne fantasere om. Kina-ekspert Kristin Dalen forteller om Xi Jinping, Kinas ubestridte leder, og hans avsmak for Ole Brumm og opposisjonelle. Og Donald Trumps første utgivelse etter presidenttiden er selvsagt… en bildebok.</description>
+      <guid isPermaLink="false">l_5f042583-a06f-4adc-8425-83a06fdadcd1</guid>
+      <pubDate>Fri, 10 Dec 2021 15:15:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/b0647525-a6cc-40b0-8a1d-80bdb707f6e6_0_ID192MP3.mp3" type="audio/mpeg" length="93167469"></enclosure>
+      <itunes:title>Chi-fi! Med Kristin Dalen</itunes:title>
+      <itunes:summary>Ingen land har sett maken til økonomisk vekst som Kina har de siste tiårene. Et kapitalistisk mirakel drevet av et regime som kaller seg kommunistisk, og overvåker folket sitt på måter Øst-Tyskland bare kunne fantasere om. Kina-ekspert Kristin Dalen forteller om Xi Jinping, Kinas ubestridte leder, og hans avsmak for Ole Brumm og opposisjonelle. Og Donald Trumps første utgivelse etter presidenttiden er selvsagt… en bildebok.</itunes:summary>
+      <itunes:duration>3881</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2021">202112</podcast:season>
+    </item>
+    <item>
+      <title>Sex, løgn og skyggeregjering - gjestebonanza! </title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_32bead7c-4758-4e41-bead-7c47589e414a</link>
+      <description>#Metoo har preget både politikk og media de siste årene. Vi snakker om guvernør Andrew Cuomos fall og følgene for broren i CNN med Marie Simonsen. &#xA;Kan Boris redde julestemninga i London - og sitt eget skinn? Gry Blekastad Almås rapporterer om julegran og Labours mottrekk. Og gjør Putin seg klar til krig? Vi snakker med John Færseth om hva som foregår ved grensen til Ukraina. </description>
+      <guid isPermaLink="false">l_32bead7c-4758-4e41-bead-7c47589e414a</guid>
+      <pubDate>Fri, 03 Dec 2021 14:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/eec1a957-3a70-4f3d-882b-dbcf739731f3_0_ID192MP3.mp3" type="audio/mpeg" length="85534893"></enclosure>
+      <itunes:title>Sex, løgn og skyggeregjering - gjestebonanza! </itunes:title>
+      <itunes:summary>#Metoo har preget både politikk og media de siste årene. Vi snakker om guvernør Andrew Cuomos fall og følgene for broren i CNN med Marie Simonsen. &#xA;Kan Boris redde julestemninga i London - og sitt eget skinn? Gry Blekastad Almås rapporterer om julegran og Labours mottrekk. Og gjør Putin seg klar til krig? Vi snakker med John Færseth om hva som foregår ved grensen til Ukraina. </itunes:summary>
+      <itunes:duration>3563</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2021">202112</podcast:season>
+    </item>
+    <item>
+      <title>Humoren og makta - med Eirik Bergesen</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_3e46055d-17da-4a20-8605-5d17dada207b</link>
+      <description>Humor og satire kan brukes til å oppnå makt og til å kritisere makt. Hvem er de morsomste politikerne i USA, hvordan kan det å mestre humor være avgjørende for om du lykkes som politiker eller ikke og hvor stor påvirkningskraft har den politiske satiren i media? Vi snakker også om Bidens infrastrukturpakke og er Trump 2024 bare et spill for galleriet for at Donald skal tjene mer penger? Gjest er politisk kommentator, programleder og tidligere diplomat Eirik Bergesen.</description>
+      <guid isPermaLink="false">l_3e46055d-17da-4a20-8605-5d17dada207b</guid>
+      <pubDate>Fri, 26 Nov 2021 13:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/b01d19f4-cbc3-4c0d-91ea-4e15cd7eb60b_0_ID192MP3.mp3" type="audio/mpeg" length="84855789"></enclosure>
+      <itunes:title>Humoren og makta - med Eirik Bergesen</itunes:title>
+      <itunes:summary>Humor og satire kan brukes til å oppnå makt og til å kritisere makt. Hvem er de morsomste politikerne i USA, hvordan kan det å mestre humor være avgjørende for om du lykkes som politiker eller ikke og hvor stor påvirkningskraft har den politiske satiren i media? Vi snakker også om Bidens infrastrukturpakke og er Trump 2024 bare et spill for galleriet for at Donald skal tjene mer penger? Gjest er politisk kommentator, programleder og tidligere diplomat Eirik Bergesen.</itunes:summary>
+      <itunes:duration>3535</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2021">202111</podcast:season>
+    </item>
+    <item>
+      <title>Den siste sovjetstat - med Ane Tusvik Bonde og Roger Sevrin Bruland</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_078eebe5-97eb-42ee-8eeb-e597ebd2ee44</link>
+      <description>For 35 år siden var katastrofen i Tsjernobyl ekte og frykten for Øst-Europas undergang velbegrunnet. I 2021 har Hviterussland fyrt oppunder frykten for masseinnvandring i Polen og EU. Mennesker fra Midtøsten omtales plutselig som «våpen» i en hybridkrig. Ane Tusvik Bonde fra Human Rights House Foundation forteller om Lukasjenkos enevelde i Putins skygge, og Roger Sevrin Bruland forteller hva som lå bak rapportene hans fra grensen mellom demokrati og diktatur. Og hva er postkort-ekstremisme? &#xA;</description>
+      <guid isPermaLink="false">l_078eebe5-97eb-42ee-8eeb-e597ebd2ee44</guid>
+      <pubDate>Fri, 19 Nov 2021 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/04d6dd77-88d0-4862-900d-e2743a44432f_0_ID192MP3.mp3" type="audio/mpeg" length="84413997"></enclosure>
+      <itunes:title>Den siste sovjetstat - med Ane Tusvik Bonde og Roger Sevrin Bruland</itunes:title>
+      <itunes:summary>For 35 år siden var katastrofen i Tsjernobyl ekte og frykten for Øst-Europas undergang velbegrunnet. I 2021 har Hviterussland fyrt oppunder frykten for masseinnvandring i Polen og EU. Mennesker fra Midtøsten omtales plutselig som «våpen» i en hybridkrig. Ane Tusvik Bonde fra Human Rights House Foundation forteller om Lukasjenkos enevelde i Putins skygge, og Roger Sevrin Bruland forteller hva som lå bak rapportene hans fra grensen mellom demokrati og diktatur. Og hva er postkort-ekstremisme? &#xA;</itunes:summary>
+      <itunes:duration>3517</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2021">202111</podcast:season>
+    </item>
+    <item>
+      <title>Svenske sosser og norske arbeidere - med Hege Ulstein</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_321154ed-049a-466f-9154-ed049ad66f64</link>
+      <description>Midt i tidens kriser - Hviterussland mot Polen, autoritære mot demokrater, og amerikanere mot amerikanere – tennes et lys av håp over kjølen. Forfatter og kommentator Hege Ulstein blir med Gjermund til Sverige. Hvem er hun som blir deres første kvinnelige statsminister? Hvorfor var Olof Palme så hatet? Hvem hadde ideen om å invitere Martin Kolberg til Nytt på nytt? Og hvor mye går et lordship for om dagen, spør vi Gry Blekastad Almås om. &#xA; </description>
+      <guid isPermaLink="false">l_321154ed-049a-466f-9154-ed049ad66f64</guid>
+      <pubDate>Fri, 12 Nov 2021 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/05c12ce8-5c72-432b-83b4-d2c4def99238_0_ID192MP3.mp3" type="audio/mpeg" length="89976429"></enclosure>
+      <itunes:title>Svenske sosser og norske arbeidere - med Hege Ulstein</itunes:title>
+      <itunes:summary>Midt i tidens kriser - Hviterussland mot Polen, autoritære mot demokrater, og amerikanere mot amerikanere – tennes et lys av håp over kjølen. Forfatter og kommentator Hege Ulstein blir med Gjermund til Sverige. Hvem er hun som blir deres første kvinnelige statsminister? Hvorfor var Olof Palme så hatet? Hvem hadde ideen om å invitere Martin Kolberg til Nytt på nytt? Og hvor mye går et lordship for om dagen, spør vi Gry Blekastad Almås om. &#xA; </itunes:summary>
+      <itunes:duration>3748</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2021">202111</podcast:season>
+    </item>
+    <item>
+      <title>Løgn og forbannede folk - bonuspod med Anne Applebaum</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_11fc95af-9a81-4912-bc95-af9a81b912d1</link>
+      <description>Den amerikanske skribenten, forfatteren og journalisten Anne Applebaum hadde mer på hjertet. Til Gjermund forteller hun om hvordan autoritære bruker Den Store Løgnen for å skape sinne, vinne støtte og få makt. Løgnen er ulik i USA og Polen, i nåtiden og fortiden, men målet er uansett å svekke troen på demokratiet. Heldigvis ser hun også hvor det er håp for folkestyret.</description>
+      <guid isPermaLink="false">l_11fc95af-9a81-4912-bc95-af9a81b912d1</guid>
+      <pubDate>Tue, 09 Nov 2021 16:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/0ea8c856-60e9-496a-bb87-b22cd4b6c64d_0_ID192MP3.mp3" type="audio/mpeg" length="37040301"></enclosure>
+      <itunes:title>Løgn og forbannede folk - bonuspod med Anne Applebaum</itunes:title>
+      <itunes:summary>Den amerikanske skribenten, forfatteren og journalisten Anne Applebaum hadde mer på hjertet. Til Gjermund forteller hun om hvordan autoritære bruker Den Store Løgnen for å skape sinne, vinne støtte og få makt. Løgnen er ulik i USA og Polen, i nåtiden og fortiden, men målet er uansett å svekke troen på demokratiet. Heldigvis ser hun også hvor det er håp for folkestyret.</itunes:summary>
+      <itunes:duration>1543</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2021">202111</podcast:season>
+    </item>
+    <item>
+      <title>Lyden av ytre høyre - med Sofie Høgestøl og Anne Applebaum</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_31de952e-f9cc-4928-9e95-2ef9cc6928c0</link>
+      <description>Shepard-tonen gjør filmer og serier spennende. Det er som om spenningen aldri slutter, akkurat slik det ytterste høyre ønsker seg. Hvis alt er spennende, alt er konflikt, alt er på spill, blomstrer de som synes demokratiet er svakt og vil det til livs. Gjermund og supervikar Sofie hører hva den amerikanske forfatteren Anne Applebaum kan lære oss om Polens vei fra kommunisme til demokrati, og nå på vei til høyrenasjonalisme. Og hvor død er John F. Kennedy jr.? </description>
+      <guid isPermaLink="false">l_31de952e-f9cc-4928-9e95-2ef9cc6928c0</guid>
+      <pubDate>Fri, 05 Nov 2021 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/62515916-7247-467b-9009-bd5350267303_0_ID192MP3.mp3" type="audio/mpeg" length="85488813"></enclosure>
+      <itunes:title>Lyden av ytre høyre - med Sofie Høgestøl og Anne Applebaum</itunes:title>
+      <itunes:summary>Shepard-tonen gjør filmer og serier spennende. Det er som om spenningen aldri slutter, akkurat slik det ytterste høyre ønsker seg. Hvis alt er spennende, alt er konflikt, alt er på spill, blomstrer de som synes demokratiet er svakt og vil det til livs. Gjermund og supervikar Sofie hører hva den amerikanske forfatteren Anne Applebaum kan lære oss om Polens vei fra kommunisme til demokrati, og nå på vei til høyrenasjonalisme. Og hvor død er John F. Kennedy jr.? </itunes:summary>
+      <itunes:duration>3561</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2021">202111</podcast:season>
+    </item>
+    <item>
+      <title>Høyreekstreme og Fight Club - med Hanne Skartveit og Lasse Josephsen</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_2fa8a82f-2c6f-4427-a8a8-2f2c6fe4273e</link>
+      <description>Den første regelen om &#34;Fight Club&#34; er å ikke snakke om &#34;Fight Club&#34;. Men Gjermund må i dag snakke om de sinte unge mennene, som siden filmen kom ut er blitt sinte, litt eldre menn. Mange er blitt med i høyreekstreme grupper i USA eller Europa. VGs politiske redaktør Hanne Skartveit og forfatter og journalist Lasse Josephsen følger med inn i universet til filmskaper David Fincher.</description>
+      <guid isPermaLink="false">l_2fa8a82f-2c6f-4427-a8a8-2f2c6fe4273e</guid>
+      <pubDate>Fri, 29 Oct 2021 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/60ccb88c-8a64-4369-b373-f48b113c6237_0_ID192MP3.mp3" type="audio/mpeg" length="85613229"></enclosure>
+      <itunes:title>Høyreekstreme og Fight Club - med Hanne Skartveit og Lasse Josephsen</itunes:title>
+      <itunes:summary>Den første regelen om &#34;Fight Club&#34; er å ikke snakke om &#34;Fight Club&#34;. Men Gjermund må i dag snakke om de sinte unge mennene, som siden filmen kom ut er blitt sinte, litt eldre menn. Mange er blitt med i høyreekstreme grupper i USA eller Europa. VGs politiske redaktør Hanne Skartveit og forfatter og journalist Lasse Josephsen følger med inn i universet til filmskaper David Fincher.</itunes:summary>
+      <itunes:duration>3567</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2021">202110</podcast:season>
+    </item>
+    <item>
+      <title>Drama i Det hvite hus - ekstraepisode med Eli Attie</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_adbd7015-9221-4da7-bd70-1592212da749</link>
+      <description>Al Gore og Jed Bartlet var presidentene USA aldri hadde. Gore vant kanskje Florida, mens «Presidenten» Bartlet sørget for at Martin Sheen vant en Golden Globe. Bak dem begge sto Eli Attie, henholdsvis som taleskriver og episodeforfatter. Han forteller Gjermund om sine favorittserier, om Biden og sin bestekamerat Blinken, og om hvem fra Det hvite hus som ville passet inn i «The West Wing» i dag.</description>
+      <guid isPermaLink="false">l_adbd7015-9221-4da7-bd70-1592212da749</guid>
+      <pubDate>Tue, 26 Oct 2021 11:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/bed0de69-9927-4f21-8b70-fa9a8d70b7f7_0_ID192MP3.mp3" type="audio/mpeg" length="54411885"></enclosure>
+      <itunes:title>Drama i Det hvite hus - ekstraepisode med Eli Attie</itunes:title>
+      <itunes:summary>Al Gore og Jed Bartlet var presidentene USA aldri hadde. Gore vant kanskje Florida, mens «Presidenten» Bartlet sørget for at Martin Sheen vant en Golden Globe. Bak dem begge sto Eli Attie, henholdsvis som taleskriver og episodeforfatter. Han forteller Gjermund om sine favorittserier, om Biden og sin bestekamerat Blinken, og om hvem fra Det hvite hus som ville passet inn i «The West Wing» i dag.</itunes:summary>
+      <itunes:duration>2267</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2021">202110</podcast:season>
+    </item>
+    <item>
+      <title>Det kan bli helt &#34;Texas&#34; i USA!  - Sofie Høgestøl og Eli Attie</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_db94de81-fef5-4d2d-94de-81fef5ad2d44</link>
+      <description>Hollywood-stjerna Matthew McConaughey kan bli ny guvernør i Texas. Om ett år er det mellomvalg i USA, og det kan bli tidenes valgthriller. Og avgjørende for demokratiets framtid. På hver sin side står to gamlinger, Biden og Trump, og pusser våpen og klargjør sine krigere. Demokrati Vs. autokrati. Den ene sliter på meningsmålinger - og den andre dyrker kultbevegelsen sin og snakker stygt om døde generaler.  Med førsteamanuensis ved Høyskolen i Oslo, Sofie Høgestøl og  tidligere taleskriver i det hvite hus, Eli Attie.&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_db94de81-fef5-4d2d-94de-81fef5ad2d44</guid>
+      <pubDate>Fri, 22 Oct 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/f5c3322c-5b18-4f9b-9d84-e6ac4f47427e_0_ID192MP3.mp3" type="audio/mpeg" length="83498157"></enclosure>
+      <itunes:title>Det kan bli helt &#34;Texas&#34; i USA!  - Sofie Høgestøl og Eli Attie</itunes:title>
+      <itunes:summary>Hollywood-stjerna Matthew McConaughey kan bli ny guvernør i Texas. Om ett år er det mellomvalg i USA, og det kan bli tidenes valgthriller. Og avgjørende for demokratiets framtid. På hver sin side står to gamlinger, Biden og Trump, og pusser våpen og klargjør sine krigere. Demokrati Vs. autokrati. Den ene sliter på meningsmålinger - og den andre dyrker kultbevegelsen sin og snakker stygt om døde generaler.  Med førsteamanuensis ved Høyskolen i Oslo, Sofie Høgestøl og  tidligere taleskriver i det hvite hus, Eli Attie.&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3479</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2021">202110</podcast:season>
+    </item>
+    <item>
+      <title>Tropenes Trump - med Marius Lien</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_d548234e-07c6-4810-8823-4e07c6b81091</link>
+      <description>I verdensmesterskapet i høyrepopulisme ligger Brasils president Jair Bolsonaro godt an. Tropenes Trump overgår originalen med en lang rekke sjokkerende uttalelser, fornektelse av menneskeskapte klimaendringer, ønske om å utrydde urbefolkning og mye, mye mer. Hvorfor blir folk forført av Bolsonaros politikk? Og hvor farlig er han for verdens klima? Gjest er journalist og forfatter Marius Lien.  </description>
+      <guid isPermaLink="false">l_d548234e-07c6-4810-8823-4e07c6b81091</guid>
+      <pubDate>Fri, 15 Oct 2021 14:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/ab6ba346-35ab-4aea-bd7c-fc53cec2ad55_0_ID192MP3.mp3" type="audio/mpeg" length="95411565"></enclosure>
+      <itunes:title>Tropenes Trump - med Marius Lien</itunes:title>
+      <itunes:summary>I verdensmesterskapet i høyrepopulisme ligger Brasils president Jair Bolsonaro godt an. Tropenes Trump overgår originalen med en lang rekke sjokkerende uttalelser, fornektelse av menneskeskapte klimaendringer, ønske om å utrydde urbefolkning og mye, mye mer. Hvorfor blir folk forført av Bolsonaros politikk? Og hvor farlig er han for verdens klima? Gjest er journalist og forfatter Marius Lien.  </itunes:summary>
+      <itunes:duration>3975</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2021">202110</podcast:season>
+    </item>
+    <item>
+      <title> Putins verdensherredømme - med John Færseth</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_61ad1e2d-404f-4f2c-ad1e-2d404f5f2c89</link>
+      <description>Mørke krefter vil rive Europa i fillebiter. Hvor farlig er egentlig Putin og hvordan bruker han blant annet konspirasjonsteorier for å få makt? Og hvilken sammenheng er det mellom Ukraina og Batmanuniverset? Sammen med konspirasjonsteoriekspert og medieviter John Færseth beveger vi oss inn i de mørkeste gangene i Russland og Ukraina. OG Facebook! </description>
+      <guid isPermaLink="false">l_61ad1e2d-404f-4f2c-ad1e-2d404f5f2c89</guid>
+      <pubDate>Fri, 08 Oct 2021 14:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/b7d784b9-1a85-4e91-b166-143c373fb073_0_ID192MP3.mp3" type="audio/mpeg" length="95622957"></enclosure>
+      <itunes:title> Putins verdensherredømme - med John Færseth</itunes:title>
+      <itunes:summary>Mørke krefter vil rive Europa i fillebiter. Hvor farlig er egentlig Putin og hvordan bruker han blant annet konspirasjonsteorier for å få makt? Og hvilken sammenheng er det mellom Ukraina og Batmanuniverset? Sammen med konspirasjonsteoriekspert og medieviter John Færseth beveger vi oss inn i de mørkeste gangene i Russland og Ukraina. OG Facebook! </itunes:summary>
+      <itunes:duration>3984</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2021">202110</podcast:season>
+    </item>
+    <item>
+      <title>Crossfire Hurricane - ekstraepisode med Peter Strzok!</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_1c3d1688-e953-492b-bd16-88e953f92b87</link>
+      <description>USAs kanskje fremste spionjeger forteller Shaun og Gjermund mer om etterforskningen av Donald Trump, om hva FBI gjorde, om hva Robert Mueller ikke gjorde, om da han fakket den virkelige verdens The Americans, og om katten sin.</description>
+      <guid isPermaLink="false">l_1c3d1688-e953-492b-bd16-88e953f92b87</guid>
+      <pubDate>Tue, 05 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/7d17022a-5417-4feb-a59e-c66bf2dc8a9d_0_ID192MP3.mp3" type="audio/mpeg" length="38848365"></enclosure>
+      <itunes:title>Crossfire Hurricane - ekstraepisode med Peter Strzok!</itunes:title>
+      <itunes:summary>USAs kanskje fremste spionjeger forteller Shaun og Gjermund mer om etterforskningen av Donald Trump, om hva FBI gjorde, om hva Robert Mueller ikke gjorde, om da han fakket den virkelige verdens The Americans, og om katten sin.</itunes:summary>
+      <itunes:duration>1618</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2021">202110</podcast:season>
+    </item>
+    <item>
+      <title>FBIs spionsjef om Trump, Putin og hemmelige agenter</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_3e971518-6d0a-4fbd-9715-186d0a6fbdb1</link>
+      <description>Eksklusivt intervju med tidligere sjef for kontraspionasje i FBI, Peter Strzok! Hør om kampen mellom USAs demokratiske institusjoner og Russlands spioner og oligarker. </description>
+      <guid isPermaLink="false">l_3e971518-6d0a-4fbd-9715-186d0a6fbdb1</guid>
+      <pubDate>Fri, 01 Oct 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/b7ee8c90-c465-4103-b936-35797ef6619a_0_ID192MP3.mp3" type="audio/mpeg" length="93784365"></enclosure>
+      <itunes:title>FBIs spionsjef om Trump, Putin og hemmelige agenter</itunes:title>
+      <itunes:summary>Eksklusivt intervju med tidligere sjef for kontraspionasje i FBI, Peter Strzok! Hør om kampen mellom USAs demokratiske institusjoner og Russlands spioner og oligarker. </itunes:summary>
+      <itunes:duration>3907</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2021">202110</podcast:season>
+    </item>
+    <item>
+      <title>Kannibalen i kjelleren - med Sten Inge Jørgensen</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_4fa39b05-c018-49e9-a39b-05c01839e9e1</link>
+      <description>I Tyskland vil velgerne heller ha koalisjoner enn karisma. De frykter antagonisten som sjarmerer og overbeviser, slik Hannibal kontrollerte Clarice i &#34;Nattsvermeren&#34;. Shaun og Gjermund byr favoritt-ekspert Sten Inge Jørgensen opp til dans om helgens valg, og om fargepaletten i Forbundsdagen. Dessuten: Emmy-utdelingen i USA ble dominert av strømmetjenestene, for de tar flere sjanser enn de tradisjonelle tv-kanalene.</description>
+      <guid isPermaLink="false">l_4fa39b05-c018-49e9-a39b-05c01839e9e1</guid>
+      <pubDate>Fri, 24 Sep 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/9ea51c5d-478a-4ec7-bb77-74d4abc2270f_0_ID192MP3.mp3" type="audio/mpeg" length="90474093"></enclosure>
+      <itunes:title>Kannibalen i kjelleren - med Sten Inge Jørgensen</itunes:title>
+      <itunes:summary>I Tyskland vil velgerne heller ha koalisjoner enn karisma. De frykter antagonisten som sjarmerer og overbeviser, slik Hannibal kontrollerte Clarice i &#34;Nattsvermeren&#34;. Shaun og Gjermund byr favoritt-ekspert Sten Inge Jørgensen opp til dans om helgens valg, og om fargepaletten i Forbundsdagen. Dessuten: Emmy-utdelingen i USA ble dominert av strømmetjenestene, for de tar flere sjanser enn de tradisjonelle tv-kanalene.</itunes:summary>
+      <itunes:duration>3769</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2021">202109</podcast:season>
+    </item>
+    <item>
+      <title>Atomknappen og Ungarns mørke fyrste - med Bård Larsen</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_c275c78e-0ea8-453c-b5c7-8e0ea8b53cf6</link>
+      <description>Om hvordan frykt og mørke brukes i fortellinger og i politikk, Ungarns raserte demokrati og statsminister Viktor Orbáns vei til å bli en vaskeekte diktator midt i hjertet av Europa. Og hva vil valget i California bety og hvor nære var Trump egentlig atomknappen? Med historiker Bård Larsen. </description>
+      <guid isPermaLink="false">l_c275c78e-0ea8-453c-b5c7-8e0ea8b53cf6</guid>
+      <pubDate>Fri, 17 Sep 2021 14:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/2c300ad9-b840-4efe-b016-18fa20d8efcf_0_ID192MP3.mp3" type="audio/mpeg" length="99706221"></enclosure>
+      <itunes:title>Atomknappen og Ungarns mørke fyrste - med Bård Larsen</itunes:title>
+      <itunes:summary>Om hvordan frykt og mørke brukes i fortellinger og i politikk, Ungarns raserte demokrati og statsminister Viktor Orbáns vei til å bli en vaskeekte diktator midt i hjertet av Europa. Og hva vil valget i California bety og hvor nære var Trump egentlig atomknappen? Med historiker Bård Larsen. </itunes:summary>
+      <itunes:duration>4154</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2021">202109</podcast:season>
+    </item>
+    <item>
+      <title>Texas Taliban - med Sofie Høgestøl</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_44c77bda-df05-402c-877b-dadf05a02cdf</link>
+      <description>Joe Bidens første sesong som president har hatt mange vendepunkter. Samtidig er valgkampen allerede i gang. Hva vil abortsaken i Texas, Afghanistan og deltavarianten ha å si for Joe, Donald og mini-Donald (JA, det finnes en mini-Donald!) frem mot valget? Med Sofie Høgestøl. </description>
+      <guid isPermaLink="false">l_44c77bda-df05-402c-877b-dadf05a02cdf</guid>
+      <pubDate>Fri, 10 Sep 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/83100f49-93ac-462f-8c44-ebbcfd4bf291_0_ID192MP3.mp3" type="audio/mpeg" length="85023405"></enclosure>
+      <itunes:title>Texas Taliban - med Sofie Høgestøl</itunes:title>
+      <itunes:summary>Joe Bidens første sesong som president har hatt mange vendepunkter. Samtidig er valgkampen allerede i gang. Hva vil abortsaken i Texas, Afghanistan og deltavarianten ha å si for Joe, Donald og mini-Donald (JA, det finnes en mini-Donald!) frem mot valget? Med Sofie Høgestøl. </itunes:summary>
+      <itunes:duration>3542</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2021">202109</podcast:season>
+    </item>
+    <item>
+      <title>Løvenes dronning – med Sten Inge Jørgensen</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_4e812299-60f9-42a7-8122-9960f9f2a787</link>
+      <description>Følelser styrer både drama, serier og politikk. Vi skal til Europas sentrum, Tyskland, etter exit fra Afghanistan og før Angela Merkel takker av. Denne gang ser vi på hvordan følelser styrer minnet, adferd, selvbilder og kulturer. Vi skal også innom Texas og den nye abortloven som vil prege politiske kamper i USA resten av året. Og Hakuna matata! Med journalist og forfatter Sten Inge Jørgensen. </description>
+      <guid isPermaLink="false">l_4e812299-60f9-42a7-8122-9960f9f2a787</guid>
+      <pubDate>Fri, 03 Sep 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/edc980b2-736d-44c4-9ea4-45f06fe89819_0_ID192MP3.mp3" type="audio/mpeg" length="84495789"></enclosure>
+      <itunes:title>Løvenes dronning – med Sten Inge Jørgensen</itunes:title>
+      <itunes:summary>Følelser styrer både drama, serier og politikk. Vi skal til Europas sentrum, Tyskland, etter exit fra Afghanistan og før Angela Merkel takker av. Denne gang ser vi på hvordan følelser styrer minnet, adferd, selvbilder og kulturer. Vi skal også innom Texas og den nye abortloven som vil prege politiske kamper i USA resten av året. Og Hakuna matata! Med journalist og forfatter Sten Inge Jørgensen. </itunes:summary>
+      <itunes:duration>3520</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2021">202109</podcast:season>
+    </item>
+    <item>
+      <title>Boris og andre klovner - med Yngve Kvistad</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_6f71a171-7f2c-4d34-b1a1-717f2c4d3483</link>
+      <description>Boris Johnsons bustete hår er ikke tilfeldig. Når bestemte han seg for å spille klovn? Forfatter og kommentator i VG, Yngve Kvistad, er med for å snakke om Boris, kostskoler, klassesamfunn, Monty Python og to ting som henger tett sammen: britisk politikk og britisk komedie. De nyeste episodene kommer først i appen NRK Radio. </description>
+      <guid isPermaLink="false">l_6f71a171-7f2c-4d34-b1a1-717f2c4d3483</guid>
+      <pubDate>Fri, 27 Aug 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/3dae7b09-6a0a-4caa-a8d7-3dbfd07fa1f8_0_ID192MP3.mp3" type="audio/mpeg" length="88835949"></enclosure>
+      <itunes:title>Boris og andre klovner - med Yngve Kvistad</itunes:title>
+      <itunes:summary>Boris Johnsons bustete hår er ikke tilfeldig. Når bestemte han seg for å spille klovn? Forfatter og kommentator i VG, Yngve Kvistad, er med for å snakke om Boris, kostskoler, klassesamfunn, Monty Python og to ting som henger tett sammen: britisk politikk og britisk komedie. De nyeste episodene kommer først i appen NRK Radio. </itunes:summary>
+      <itunes:duration>3701</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2021">202108</podcast:season>
+    </item>
+    <item>
+      <title>Kamper om tronene</title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_17d1da12-49e8-43c7-91da-1249e8f3c7d6</link>
+      <description>Vinteren kommer! Podkasten om politikk, film og serier starter med den aller villeste maktkampen på tv: Game of thrones. I verdenspolitikken kjempes det også om makt, akkurat som i fiksjonen. Shaun og Gjermund forklarer dramatiske linjer og narrativer, ser til de som styrer Afghanistan og han som bor i Florida, og forteller om hvorfor Joe Biden skulle sett Homeland helt til sesong ni. </description>
+      <guid isPermaLink="false">l_17d1da12-49e8-43c7-91da-1249e8f3c7d6</guid>
+      <pubDate>Fri, 20 Aug 2021 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/a28bcb90-0048-4609-93b1-5a5c76c64e21_0_ID192MP3.mp3" type="audio/mpeg" length="82621485"></enclosure>
+      <itunes:title>Kamper om tronene</itunes:title>
+      <itunes:summary>Vinteren kommer! Podkasten om politikk, film og serier starter med den aller villeste maktkampen på tv: Game of thrones. I verdenspolitikken kjempes det også om makt, akkurat som i fiksjonen. Shaun og Gjermund forklarer dramatiske linjer og narrativer, ser til de som styrer Afghanistan og han som bor i Florida, og forteller om hvorfor Joe Biden skulle sett Homeland helt til sesong ni. </itunes:summary>
+      <itunes:duration>3442</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h7aKzVjEB_N8leQMuUp4Bw8TvA7mVx3UTqNrxI5MPDAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2021">202108</podcast:season>
+    </item>
+    <item>
+      <title>Trump mot verden blir Popkorn og politikk! </title>
+      <link>https://radio.nrk.no/podkast/popkorn_og_politikk/l_1d3612cd-32d2-4378-b612-cd32d293781e</link>
+      <description>Hva har skjedd i USA siden sist? Hva kan vi forvente av den nye podkasten? Svaret er &#34;mye mørkt og mye moro&#34; både i Amerika og i den nye podden. &#xA;Første episode av Popkorn og politikk 20. august! </description>
+      <guid isPermaLink="false">l_1d3612cd-32d2-4378-b612-cd32d293781e</guid>
+      <pubDate>Fri, 25 Jun 2021 15:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/popkorn_og_politikk/447e012a-5d78-428b-b495-7f7aea4dd2ce_0_ID192MP3.mp3" type="audio/mpeg" length="29785005"></enclosure>
+      <itunes:title>Trump mot verden blir Popkorn og politikk! </itunes:title>
+      <itunes:summary>Hva har skjedd i USA siden sist? Hva kan vi forvente av den nye podkasten? Svaret er &#34;mye mørkt og mye moro&#34; både i Amerika og i den nye podden. &#xA;Første episode av Popkorn og politikk 20. august! </itunes:summary>
+      <itunes:duration>1240</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JiTLgbTyb0RYrC_SAd7s3wUlV9rpNmdGb-oAo_o9kMPQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2021">202106</podcast:season>
+    </item>
+  </channel>
+</rss>

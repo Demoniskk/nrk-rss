@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sjakksnakk</title>
+    <link>https://radio.nrk.no/podkast/sjakksnakk</link>
+    <description>Sjakkekspertene Askild Bryn og Odin Blikra Vea tar deg med på innsiden av det norske sjakkmiljøet, som sitrer av spenning frem mot Magnus Carlsens VM-kamp.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Thu, 08 Nov 2018 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sjakksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Sjakkekspertene Askild Bryn og Odin Blikra Vea tar deg med på innsiden av det norske sjakkmiljøet, som sitrer av spenning frem mot Magnus Carlsens VM-kamp.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA"></itunes:image>
+    <itunes:category text="Sports"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA</url>
+      <title>Sjakksnakk</title>
+      <link>https://radio.nrk.no/podkast/sjakksnakk</link>
+    </image>
+    <item>
+      <title>Torstein Bae og Atle Grønn tror VM blir Carlsens hardeste kamp (6:6)</title>
+      <link>https://radio.nrk.no/podkast/sjakksnakk/l_74fd8391-2084-4b18-bd83-9120845b187b</link>
+      <description>Sjakkekspertene Torstein Bae og Atle Grønn forteller om hvordan de utpsyker sine motstandere med intellektuell thrashtalk, om hvordan VM-kampen blir en kamp mellom den russiske- og norske sjakkskolen og hvorfor du bør sette penger på at Fabiano Caruana vinner.&#xA;</description>
+      <guid isPermaLink="false">l_74fd8391-2084-4b18-bd83-9120845b187b</guid>
+      <pubDate>Thu, 08 Nov 2018 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-11-08_0500_1636.MP3" type="audio/mpeg" length="83529424"></enclosure>
+      <itunes:title>Torstein Bae og Atle Grønn tror VM blir Carlsens hardeste kamp (6:6)</itunes:title>
+      <itunes:summary>Sjakkekspertene Torstein Bae og Atle Grønn forteller om hvordan de utpsyker sine motstandere med intellektuell thrashtalk, om hvordan VM-kampen blir en kamp mellom den russiske- og norske sjakkskolen og hvorfor du bør sette penger på at Fabiano Caruana vinner.&#xA;</itunes:summary>
+      <itunes:duration>3476</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hans Olav Lahlum mener Carlsen søker sjakkens sannhet (5:6)</title>
+      <link>https://radio.nrk.no/podkast/sjakksnakk/l_e04773e0-0fb9-4d54-8773-e00fb90d54b0</link>
+      <description>Hans Olav Lahlum er forfatter, historiker og sjakkdommer, og har gått glipp av turneringsremiser fordi han spilte med øreklokker. Han forteller om VM-motstander Fabiano Caruanas hypermoderne sjakk, om dopingregler mot kaffe og at sjakken bør være åpen for alle – slik han selv opplevde det i en krevende fase av oppveksten.&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_e04773e0-0fb9-4d54-8773-e00fb90d54b0</guid>
+      <pubDate>Mon, 05 Nov 2018 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-11-05_0500_3167.MP3" type="audio/mpeg" length="67377592"></enclosure>
+      <itunes:title>Hans Olav Lahlum mener Carlsen søker sjakkens sannhet (5:6)</itunes:title>
+      <itunes:summary>Hans Olav Lahlum er forfatter, historiker og sjakkdommer, og har gått glipp av turneringsremiser fordi han spilte med øreklokker. Han forteller om VM-motstander Fabiano Caruanas hypermoderne sjakk, om dopingregler mot kaffe og at sjakken bør være åpen for alle – slik han selv opplevde det i en krevende fase av oppveksten.&#xA;&#xA;</itunes:summary>
+      <itunes:duration>2803</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ellen Carlsen og Heidi Røneid frykter at Magnus legger opp (4:6)</title>
+      <link>https://radio.nrk.no/podkast/sjakksnakk/l_7ddce273-6e7f-4b8c-9ce2-736e7fcb8cf1</link>
+      <description>Ellen Carlsen, Magnus&#39; storesøster, og sjakkspiller/frilansjournalist Heidi Røneid diskuterer muligheten for å få sjakkbrett inn på fødestuene, Carlsens fremtid hvis han taper og hvorfor det er Magnus og ikke Ellen som er verdensmester.</description>
+      <guid isPermaLink="false">l_7ddce273-6e7f-4b8c-9ce2-736e7fcb8cf1</guid>
+      <pubDate>Thu, 01 Nov 2018 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-11-01_0500_1704.MP3" type="audio/mpeg" length="74601126"></enclosure>
+      <itunes:title>Ellen Carlsen og Heidi Røneid frykter at Magnus legger opp (4:6)</itunes:title>
+      <itunes:summary>Ellen Carlsen, Magnus&#39; storesøster, og sjakkspiller/frilansjournalist Heidi Røneid diskuterer muligheten for å få sjakkbrett inn på fødestuene, Carlsens fremtid hvis han taper og hvorfor det er Magnus og ikke Ellen som er verdensmester.</itunes:summary>
+      <itunes:duration>3104</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jon Ludvig Hammer om livet i Carlsens skygge (3:6)</title>
+      <link>https://radio.nrk.no/podkast/sjakksnakk/l_d69c6171-1a88-43c9-9c61-711a8823c934</link>
+      <description>Jon Ludvig Hammer, for tiden Nordens nest-beste sjakkspiller, forteller om oppveksten som Magnus Carlsens rival, sekundantjobben i Carlsens første VM-kamp og hvordan man kan leve av sjakk uten å være helt i verdenstoppen.</description>
+      <guid isPermaLink="false">l_d69c6171-1a88-43c9-9c61-711a8823c934</guid>
+      <pubDate>Tue, 30 Oct 2018 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-10-30_0500_666.MP3" type="audio/mpeg" length="58750279"></enclosure>
+      <itunes:title>Jon Ludvig Hammer om livet i Carlsens skygge (3:6)</itunes:title>
+      <itunes:summary>Jon Ludvig Hammer, for tiden Nordens nest-beste sjakkspiller, forteller om oppveksten som Magnus Carlsens rival, sekundantjobben i Carlsens første VM-kamp og hvordan man kan leve av sjakk uten å være helt i verdenstoppen.</itunes:summary>
+      <itunes:duration>2444</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Simen Agdestein om ensomheten på toppen (2:6)</title>
+      <link>https://radio.nrk.no/podkast/sjakksnakk/l_6d5e2993-e6ff-49e9-9e29-93e6fff9e919</link>
+      <description>Simen Agdestein, sjakktrener på NTG og Norges første stormester, forteller om ensomheten ved brettet, de sympatiske sidene ved VM-motstander Fabiano Caruana og om tidligere verdensmester Vishy Anands arrangerte ekteskap.</description>
+      <guid isPermaLink="false">l_6d5e2993-e6ff-49e9-9e29-93e6fff9e919</guid>
+      <pubDate>Tue, 23 Oct 2018 11:19:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-10-23_0919_3127.MP3" type="audio/mpeg" length="60917600"></enclosure>
+      <itunes:title>Simen Agdestein om ensomheten på toppen (2:6)</itunes:title>
+      <itunes:summary>Simen Agdestein, sjakktrener på NTG og Norges første stormester, forteller om ensomheten ved brettet, de sympatiske sidene ved VM-motstander Fabiano Caruana og om tidligere verdensmester Vishy Anands arrangerte ekteskap.</itunes:summary>
+      <itunes:duration>2534</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Magnus Carlsen frykter å tape (1:6)</title>
+      <link>https://radio.nrk.no/podkast/sjakksnakk/l_dbded785-fe8f-4ec8-9ed7-85fe8f6ec809</link>
+      <description>Regjerende verdensmester Magnus Carlsen forteller om veien til sjakktronen, om hvordan han tidvis har lyst til å slå ned konkurrentene og om frykten for å tape tittelen mot Fabiano Caruana i november.</description>
+      <guid isPermaLink="false">l_dbded785-fe8f-4ec8-9ed7-85fe8f6ec809</guid>
+      <pubDate>Tue, 23 Oct 2018 11:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sjakksnakk/sjakksnakk_2018-10-23_0911_1305.MP3" type="audio/mpeg" length="91219423"></enclosure>
+      <itunes:title>Magnus Carlsen frykter å tape (1:6)</itunes:title>
+      <itunes:summary>Regjerende verdensmester Magnus Carlsen forteller om veien til sjakktronen, om hvordan han tidvis har lyst til å slå ned konkurrentene og om frykten for å tape tittelen mot Fabiano Caruana i november.</itunes:summary>
+      <itunes:duration>3797</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AgJyXa1lv1vSUAVUzzpprQXJZbL2wPdQl0kMNrBmr2CA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

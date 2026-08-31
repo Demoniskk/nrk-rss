@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VG3</title>
+    <link>https://radio.nrk.no/podkast/vg3</link>
+    <description>VG3: Året det skjer mest i livet. Vi følger fire elever på Molde VGS skoleåret 20/21 – og deres håp om fester, kjærlighet og karriere. Og en skikkelig russetid.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 04 Jun 2021 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/vg3.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>VG3: Året det skjer mest i livet. Vi følger fire elever på Molde VGS skoleåret 20/21 – og deres håp om fester, kjærlighet og karriere. Og en skikkelig russetid.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+    <itunes:category text="History"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig</url>
+      <title>VG3</title>
+      <link>https://radio.nrk.no/podkast/vg3</link>
+    </image>
+    <item>
+      <title>Russetid = rulletid? (14:14)</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_977c8889-0433-4ae5-bc88-8904338ae5a4</link>
+      <description>I siste episode av VG3 får vi høre om bussen til Jacob faktisk blir klar i tide til russetiden, hva som nå skjer med presidentvalget, og hvordan russetiden blir for resten av VG3-ungdommene. </description>
+      <guid isPermaLink="false">l_977c8889-0433-4ae5-bc88-8904338ae5a4</guid>
+      <pubDate>Fri, 04 Jun 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/c30af62c-5f10-466a-b3da-ff10da37cec9_0_ID192MP3.mp3" type="audio/mpeg" length="38982573"></enclosure>
+      <itunes:title>Russetid = rulletid? (14:14)</itunes:title>
+      <itunes:summary>I siste episode av VG3 får vi høre om bussen til Jacob faktisk blir klar i tide til russetiden, hva som nå skjer med presidentvalget, og hvordan russetiden blir for resten av VG3-ungdommene. </itunes:summary>
+      <itunes:duration>1624</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Russens festdager rundt 17. mai (13:14)</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_6d7898c2-c5a8-4c58-b898-c2c5a8bc585a</link>
+      <description>VG3-gjengen forteller om de siste festdagene i Molde, og russen roses for god oppførsel. </description>
+      <guid isPermaLink="false">l_6d7898c2-c5a8-4c58-b898-c2c5a8bc585a</guid>
+      <pubDate>Fri, 21 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/4511df31-64b0-4f81-84ce-bb773e9d5fa6_0_ID192MP3.mp3" type="audio/mpeg" length="24519213"></enclosure>
+      <itunes:title>Russens festdager rundt 17. mai (13:14)</itunes:title>
+      <itunes:summary>VG3-gjengen forteller om de siste festdagene i Molde, og russen roses for god oppførsel. </itunes:summary>
+      <itunes:duration>1021</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Svartelista og slitne vennskap  (12:14)</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_22d4b932-e4d7-4b54-94b9-32e4d74b546c</link>
+      <description>Vennskap i VG3-gjengen står på utrygg grunn når leddbussen til Jacob publiserer «svarteliste» på Instagram. </description>
+      <guid isPermaLink="false">l_22d4b932-e4d7-4b54-94b9-32e4d74b546c</guid>
+      <pubDate>Fri, 14 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/9d6d363c-c4e9-49a1-9141-89288ec07d9b_0_ID192MP3.mp3" type="audio/mpeg" length="28532781"></enclosure>
+      <itunes:title>Svartelista og slitne vennskap  (12:14)</itunes:title>
+      <itunes:summary>Vennskap i VG3-gjengen står på utrygg grunn når leddbussen til Jacob publiserer «svarteliste» på Instagram. </itunes:summary>
+      <itunes:duration>1188</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Pandemi-lei av mamma (11:14)</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_fab14024-ab89-401a-b140-24ab89c01afe</link>
+      <description>Kan man likevel gjøre ungdomsopprør når man er innestengt hjemme med mamma og pappa midt i en pandemi?</description>
+      <guid isPermaLink="false">l_fab14024-ab89-401a-b140-24ab89c01afe</guid>
+      <pubDate>Fri, 07 May 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/79227c34-49c2-4a17-b34a-94905d352d36_0_ID192MP3.mp3" type="audio/mpeg" length="25212141"></enclosure>
+      <itunes:title>Pandemi-lei av mamma (11:14)</itunes:title>
+      <itunes:summary>Kan man likevel gjøre ungdomsopprør når man er innestengt hjemme med mamma og pappa midt i en pandemi?</itunes:summary>
+      <itunes:duration>1050</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Miss Eide og såre føtter i Oslo (10:14)</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_f418db09-ee99-4723-98db-09ee99b723dc</link>
+      <description>Missekandidat Stephany reiser til Oslo for å trene på catwalken, men møter uventede utfordringer i hovedstaden. I mellomtiden slipper Jacob nytt bussnavn, og Hedda prøver seg på en temmelig krevende YouTube-utfordring.</description>
+      <guid isPermaLink="false">l_f418db09-ee99-4723-98db-09ee99b723dc</guid>
+      <pubDate>Fri, 30 Apr 2021 09:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/8e9ace3d-2de5-4b0b-b105-62083cd2bbe9_0_ID192MP3.mp3" type="audio/mpeg" length="27444717"></enclosure>
+      <itunes:title>Miss Eide og såre føtter i Oslo (10:14)</itunes:title>
+      <itunes:summary>Missekandidat Stephany reiser til Oslo for å trene på catwalken, men møter uventede utfordringer i hovedstaden. I mellomtiden slipper Jacob nytt bussnavn, og Hedda prøver seg på en temmelig krevende YouTube-utfordring.</itunes:summary>
+      <itunes:duration>1143</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Distrikts og TIX (9:14)</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_3c1e0262-e009-4f4b-9e02-62e0098f4b4d</link>
+      <description>Jacob synes Oslo-russen tar for mye plass, mens slektningen Isak ikke skjønner poenget med russetid i det hele tatt. </description>
+      <guid isPermaLink="false">l_3c1e0262-e009-4f4b-9e02-62e0098f4b4d</guid>
+      <pubDate>Fri, 23 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/1590bb71-c51d-4d5e-97a8-149b53507b0f_0_ID192MP3.mp3" type="audio/mpeg" length="27200493"></enclosure>
+      <itunes:title>Distrikts og TIX (9:14)</itunes:title>
+      <itunes:summary>Jacob synes Oslo-russen tar for mye plass, mens slektningen Isak ikke skjønner poenget med russetid i det hele tatt. </itunes:summary>
+      <itunes:duration>1133</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>MDMA-bølgen (8:14)</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_c9c7ab5e-3c4d-4309-87ab-5e3c4d5309d1</link>
+      <description>MDMA ser ut som godteri, selges på Snapchat og kan gi følelsen av å være forelska. VG3-ungdommene reflekterer rundt rusproblematikk i ungdomstiden.</description>
+      <guid isPermaLink="false">l_c9c7ab5e-3c4d-4309-87ab-5e3c4d5309d1</guid>
+      <pubDate>Fri, 16 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/8c3a8fd1-c8ad-410b-9721-be0983cd4a2f_0_ID192MP3.mp3" type="audio/mpeg" length="23447853"></enclosure>
+      <itunes:title>MDMA-bølgen (8:14)</itunes:title>
+      <itunes:summary>MDMA ser ut som godteri, selges på Snapchat og kan gi følelsen av å være forelska. VG3-ungdommene reflekterer rundt rusproblematikk i ungdomstiden.</itunes:summary>
+      <itunes:duration>976</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fremtiden (7:14)</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_24755093-c304-49ae-b550-93c30459ae2b</link>
+      <description>VG3-ungdommene må forberede seg på livet etter VGS, og Stephany er usikker på hva hun skal studere.   </description>
+      <guid isPermaLink="false">l_24755093-c304-49ae-b550-93c30459ae2b</guid>
+      <pubDate>Fri, 09 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/4de9807b-e400-4245-81b3-c062e8112e83_0_ID192MP3.mp3" type="audio/mpeg" length="26488312"></enclosure>
+      <itunes:title>Fremtiden (7:14)</itunes:title>
+      <itunes:summary>VG3-ungdommene må forberede seg på livet etter VGS, og Stephany er usikker på hva hun skal studere.   </itunes:summary>
+      <itunes:duration>1103</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kroppen klar for show (6:14)</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_63375160-c512-4ca0-b751-60c512fca041</link>
+      <description>En uventet duo former seg når Sebastian og Stephany skal danse sammen i presidentshowet. Men i oppløpet skal det trenes, spises riktig og bygges kropp.&#xA;</description>
+      <guid isPermaLink="false">l_63375160-c512-4ca0-b751-60c512fca041</guid>
+      <pubDate>Fri, 02 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/683c1b18-d62d-4c17-9de8-387279f327b4_0_ID192MP3.mp3" type="audio/mpeg" length="29621731"></enclosure>
+      <itunes:title>Kroppen klar for show (6:14)</itunes:title>
+      <itunes:summary>En uventet duo former seg når Sebastian og Stephany skal danse sammen i presidentshowet. Men i oppløpet skal det trenes, spises riktig og bygges kropp.&#xA;</itunes:summary>
+      <itunes:duration>1234</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nominasjonsvalget (5:14)</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_b5175e02-a64e-4670-975e-02a64e8670a6</link>
+      <description>Sebastian står opp mot rasisme, Stephany taler for samhold, og Jacob kritiserer russestyret når de skal kvalifisere seg i et nominasjonsvalg før presidentshowet. </description>
+      <guid isPermaLink="false">l_b5175e02-a64e-4670-975e-02a64e8670a6</guid>
+      <pubDate>Fri, 26 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/0044091d-4db3-4812-94f4-7dfbed1a1645_0_ID192MP3.mp3" type="audio/mpeg" length="25345535"></enclosure>
+      <itunes:title>Nominasjonsvalget (5:14)</itunes:title>
+      <itunes:summary>Sebastian står opp mot rasisme, Stephany taler for samhold, og Jacob kritiserer russestyret når de skal kvalifisere seg i et nominasjonsvalg før presidentshowet. </itunes:summary>
+      <itunes:duration>1055</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Koronarussen (4:14)</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_a09baaa5-58ad-44d8-9baa-a558adb4d8b2</link>
+      <description>Et mutert virus truer Molde, og med dette, russetiden til ungdommene i VG3. Deres drømmer om rulling, fester og russetreff henger nå i en tynn tråd.   </description>
+      <guid isPermaLink="false">l_a09baaa5-58ad-44d8-9baa-a558adb4d8b2</guid>
+      <pubDate>Fri, 19 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/7ea666dd-a777-47a2-8d34-96b6d6277b23_0_ID192MP3.mp3" type="audio/mpeg" length="27861471"></enclosure>
+      <itunes:title>Koronarussen (4:14)</itunes:title>
+      <itunes:summary>Et mutert virus truer Molde, og med dette, russetiden til ungdommene i VG3. Deres drømmer om rulling, fester og russetreff henger nå i en tynn tråd.   </itunes:summary>
+      <itunes:duration>1160</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Litt sånn rosablogger (3:14)</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_0fc15901-cd4f-4320-8159-01cd4f3320c7</link>
+      <description>Møt 18 år gamle Stephany Gabriela Crespo La Rosa. Hun vil opp og frem i en verden av kjendiser, bloggere og influensere. Men først må hun kapre tittelen som russepresident på Molde VGS. </description>
+      <guid isPermaLink="false">l_0fc15901-cd4f-4320-8159-01cd4f3320c7</guid>
+      <pubDate>Fri, 12 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/ea2473cc-7d81-4b7f-a26d-aa2b800158e8_0_ID192MP3.mp3" type="audio/mpeg" length="26987679"></enclosure>
+      <itunes:title>Litt sånn rosablogger (3:14)</itunes:title>
+      <itunes:summary>Møt 18 år gamle Stephany Gabriela Crespo La Rosa. Hun vil opp og frem i en verden av kjendiser, bloggere og influensere. Men først må hun kapre tittelen som russepresident på Molde VGS. </itunes:summary>
+      <itunes:duration>1124</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>10. mars</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_56f02b93-d368-4f50-b02b-93d3681f5071</link>
+      <description>Hedda og Stephany forteller om en uke med oppturer og nedturer etter premiere på podkasten VG3. </description>
+      <guid isPermaLink="false">l_56f02b93-d368-4f50-b02b-93d3681f5071</guid>
+      <pubDate>Wed, 10 Mar 2021 23:15:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/68e676bb-349b-4d26-9550-d22c1aa48b8e_0_ID192MP3.mp3" type="audio/mpeg" length="3873377"></enclosure>
+      <itunes:title>10. mars</itunes:title>
+      <itunes:summary>Hedda og Stephany forteller om en uke med oppturer og nedturer etter premiere på podkasten VG3. </itunes:summary>
+      <itunes:duration>161</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Rivalene (2:14)</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_f315551b-0543-46fb-9555-1b054346fbbc</link>
+      <description>Våren kommer, og med den; et oppløp til en russetid ingen vet hvordan blir. Sebastian Byttingsvik er en av kandidatene som stiller til russepresidentvalg i 2021. Men på veien dit, må han bestemme seg for om han skal slå vekk eller slå seg sammen med sin gamle bestevenn og største rival, Jacob Lyche. </description>
+      <guid isPermaLink="false">l_f315551b-0543-46fb-9555-1b054346fbbc</guid>
+      <pubDate>Fri, 05 Mar 2021 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/c49b903a-e97a-41d4-94d2-e09195540d49_0_ID192MP3.mp3" type="audio/mpeg" length="27967498"></enclosure>
+      <itunes:title>Rivalene (2:14)</itunes:title>
+      <itunes:summary>Våren kommer, og med den; et oppløp til en russetid ingen vet hvordan blir. Sebastian Byttingsvik er en av kandidatene som stiller til russepresidentvalg i 2021. Men på veien dit, må han bestemme seg for om han skal slå vekk eller slå seg sammen med sin gamle bestevenn og største rival, Jacob Lyche. </itunes:summary>
+      <itunes:duration>1165</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ryktebyen (1:14)</title>
+      <link>https://radio.nrk.no/podkast/vg3/l_718e4939-6938-4172-8e49-396938417278</link>
+      <description>I første episode av dokumentarserien VG3, møter vi 18-åringen Jacob Lyche, som er buss-sjef på Møre og Romsdals største russebuss. I ryktebyen Molde må han navigere seg gjennom et russepresidentvalg, falske rykter, kjærlighet og koronasituasjonen for å få rulle med bussen Cruisin’ i 2021. </description>
+      <guid isPermaLink="false">l_718e4939-6938-4172-8e49-396938417278</guid>
+      <pubDate>Fri, 05 Mar 2021 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/vg3/58e37a80-80cb-4f55-b895-2195fa7e2fb1_0_ID192MP3.mp3" type="audio/mpeg" length="23846218"></enclosure>
+      <itunes:title>Ryktebyen (1:14)</itunes:title>
+      <itunes:summary>I første episode av dokumentarserien VG3, møter vi 18-åringen Jacob Lyche, som er buss-sjef på Møre og Romsdals største russebuss. I ryktebyen Molde må han navigere seg gjennom et russepresidentvalg, falske rykter, kjærlighet og koronasituasjonen for å få rulle med bussen Cruisin’ i 2021. </itunes:summary>
+      <itunes:duration>993</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1SxODWWbB-pfyDS0_ogYpwvokgm8lwPMDp-zDlu0O9Ig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

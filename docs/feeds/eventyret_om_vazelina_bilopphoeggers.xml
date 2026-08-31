@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventyret om Vazelina Bilopphøggers</title>
+    <link>https://radio.nrk.no/podkast/eventyret_om_vazelina_bilopphoeggers</link>
+    <description>Det startet som tull på en fest. 40 år senere selger de ut Spektrum to ganger. Hvorfor elsker så mange humorbandet med gamle karer fra Toten-området?</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 14 Oct 2022 04:01:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/eventyret_om_vazelina_bilopphoeggers.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Det startet som tull på en fest. 40 år senere selger de ut Spektrum to ganger. Hvorfor elsker så mange humorbandet med gamle karer fra Toten-området?</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/r4b9sCMeA-FpEZVXP2DgWA6-Ysw4JyWZBH-nJC6RNeTw"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/r4b9sCMeA-FpEZVXP2DgWA6-Ysw4JyWZBH-nJC6RNeTw</url>
+      <title>Eventyret om Vazelina Bilopphøggers</title>
+      <link>https://radio.nrk.no/podkast/eventyret_om_vazelina_bilopphoeggers</link>
+    </image>
+    <item>
+      <title>Slæpp fænsen inn (bonusepisode)</title>
+      <link>https://radio.nrk.no/podkast/eventyret_om_vazelina_bilopphoeggers/l_882b32be-ca72-4e9e-ab32-beca72ce9ea4</link>
+      <description>Fansen forteller, analyserer og oppsummerer betydningen Vazelina Bilopphøggers har hatt for dem. Og Vazelina forteller flere ville historier. </description>
+      <guid isPermaLink="false">l_882b32be-ca72-4e9e-ab32-beca72ce9ea4</guid>
+      <pubDate>Fri, 14 Oct 2022 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyret_om_vazelina_bilopphoeggers/fa4a193b-3520-4140-b3d1-7bad3afdd293_0_ID192MP3.mp3" type="audio/mpeg" length="50050989"></enclosure>
+      <itunes:title>Slæpp fænsen inn (bonusepisode)</itunes:title>
+      <itunes:summary>Fansen forteller, analyserer og oppsummerer betydningen Vazelina Bilopphøggers har hatt for dem. Og Vazelina forteller flere ville historier. </itunes:summary>
+      <itunes:duration>2085</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/r4b9sCMeA-FpEZVXP2DgWA6-Ysw4JyWZBH-nJC6RNeTw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>En gong må festen slutte (5:5)</title>
+      <link>https://radio.nrk.no/podkast/eventyret_om_vazelina_bilopphoeggers/l_8f2b4fe2-4812-450e-ab4f-e24812e50ee5</link>
+      <description>Vazelina spiller inn sin siste plate og får ti år med små konserter og show. Men unge fans i 20-årene kommer på banen og løfter bandet til nye høyder.</description>
+      <guid isPermaLink="false">l_8f2b4fe2-4812-450e-ab4f-e24812e50ee5</guid>
+      <pubDate>Fri, 14 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyret_om_vazelina_bilopphoeggers/293871ae-4a3c-42f4-979c-c9f57855e559_0_ID192MP3.mp3" type="audio/mpeg" length="50400045"></enclosure>
+      <itunes:title>En gong må festen slutte (5:5)</itunes:title>
+      <itunes:summary>Vazelina spiller inn sin siste plate og får ti år med små konserter og show. Men unge fans i 20-årene kommer på banen og løfter bandet til nye høyder.</itunes:summary>
+      <itunes:duration>2099</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/r4b9sCMeA-FpEZVXP2DgWA6-Ysw4JyWZBH-nJC6RNeTw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Stusslige karer (4:5)</title>
+      <link>https://radio.nrk.no/podkast/eventyret_om_vazelina_bilopphoeggers/l_c32b043e-b09b-455f-ab04-3eb09b855f1a</link>
+      <description>Anmelderslakt, dårlig besøk og en Spellemannpris de aldri får - likevel når Vazelina en million plater solgt ved 25-årsjubileet.</description>
+      <guid isPermaLink="false">l_c32b043e-b09b-455f-ab04-3eb09b855f1a</guid>
+      <pubDate>Fri, 07 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyret_om_vazelina_bilopphoeggers/77f68381-a343-4677-90a0-e0a6a7ebf13f_0_ID192MP3.mp3" type="audio/mpeg" length="51534189"></enclosure>
+      <itunes:title>Stusslige karer (4:5)</itunes:title>
+      <itunes:summary>Anmelderslakt, dårlig besøk og en Spellemannpris de aldri får - likevel når Vazelina en million plater solgt ved 25-årsjubileet.</itunes:summary>
+      <itunes:duration>2147</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/r4b9sCMeA-FpEZVXP2DgWA6-Ysw4JyWZBH-nJC6RNeTw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Surfbrett (3:5)</title>
+      <link>https://radio.nrk.no/podkast/eventyret_om_vazelina_bilopphoeggers/l_968daa24-cc98-42c9-8daa-24cc9842c991</link>
+      <description>Vazelina turnerer i USA og blir tegneseriehelter i Norge. Men de vil heller lage revy, og havner på så mange reklamekassetter at de mister tellinga.</description>
+      <guid isPermaLink="false">l_968daa24-cc98-42c9-8daa-24cc9842c991</guid>
+      <pubDate>Fri, 30 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyret_om_vazelina_bilopphoeggers/f86228d9-89ec-441a-9a1a-53bcc3c4662d_0_ID192MP3.mp3" type="audio/mpeg" length="47885805"></enclosure>
+      <itunes:title>Surfbrett (3:5)</itunes:title>
+      <itunes:summary>Vazelina turnerer i USA og blir tegneseriehelter i Norge. Men de vil heller lage revy, og havner på så mange reklamekassetter at de mister tellinga.</itunes:summary>
+      <itunes:duration>1995</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/r4b9sCMeA-FpEZVXP2DgWA6-Ysw4JyWZBH-nJC6RNeTw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Buksa er presse og uten knær (2:5)</title>
+      <link>https://radio.nrk.no/podkast/eventyret_om_vazelina_bilopphoeggers/l_a81d29be-a62f-4f33-9d29-bea62faf3381</link>
+      <description>Suksess og planlagt image til tross - Vazelina framstår stadig som et tulleband og havner i de utroligste situasjoner.</description>
+      <guid isPermaLink="false">l_a81d29be-a62f-4f33-9d29-bea62faf3381</guid>
+      <pubDate>Fri, 23 Sep 2022 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyret_om_vazelina_bilopphoeggers/bbb578c0-7b6d-4cc2-a55c-bfdb471696da_0_ID192MP3.mp3" type="audio/mpeg" length="50449581"></enclosure>
+      <itunes:title>Buksa er presse og uten knær (2:5)</itunes:title>
+      <itunes:summary>Suksess og planlagt image til tross - Vazelina framstår stadig som et tulleband og havner i de utroligste situasjoner.</itunes:summary>
+      <itunes:duration>2102</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/r4b9sCMeA-FpEZVXP2DgWA6-Ysw4JyWZBH-nJC6RNeTw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bilopphøgger Boogie (1:5)</title>
+      <link>https://radio.nrk.no/podkast/eventyret_om_vazelina_bilopphoeggers/l_44718c28-41a5-44ca-b18c-2841a514cab1</link>
+      <description>Bandet som starta på tull på en julefest havner i finalen i NM i rock og får platekontrakt. Plata selger 100 000 eksemplarer - suksessen er et faktum.</description>
+      <guid isPermaLink="false">l_44718c28-41a5-44ca-b18c-2841a514cab1</guid>
+      <pubDate>Fri, 23 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/eventyret_om_vazelina_bilopphoeggers/682d8e6c-5087-46a8-86bc-28a03fbabe8a_0_ID192MP3.mp3" type="audio/mpeg" length="44991981"></enclosure>
+      <itunes:title>Bilopphøgger Boogie (1:5)</itunes:title>
+      <itunes:summary>Bandet som starta på tull på en julefest havner i finalen i NM i rock og får platekontrakt. Plata selger 100 000 eksemplarer - suksessen er et faktum.</itunes:summary>
+      <itunes:duration>1874</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/r4b9sCMeA-FpEZVXP2DgWA6-Ysw4JyWZBH-nJC6RNeTw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

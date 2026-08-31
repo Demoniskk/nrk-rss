@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nødsamtaler</title>
+    <link>https://radio.nrk.no/podkast/noedsamtaler</link>
+    <description>Pulserende lyddrama fra innsiden av en AMK-sentral. &#xA;</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 20 Feb 2026 05:05:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/noedsamtaler.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Pulserende lyddrama fra innsiden av en AMK-sentral. &#xA;</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/0MSWD7b9o0xYmKjC7QG70gv58sih9Chio5MezUB6i-DQ"></itunes:image>
+    <itunes:category text="Fiction"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/0MSWD7b9o0xYmKjC7QG70gv58sih9Chio5MezUB6i-DQ</url>
+      <title>Nødsamtaler</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler</link>
+    </image>
+    <item>
+      <title>En stor, lykkelig familie (6:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_20a46d6b-da09-4c92-a46d-6bda094c9270</link>
+      <description>Lea prøver å hjelpe en fortvilet alenefar, men får følelsen av at han ikke forteller alt. Selv trenger hun en ordentlig prat med Daniel.</description>
+      <guid isPermaLink="false">l_20a46d6b-da09-4c92-a46d-6bda094c9270</guid>
+      <pubDate>Fri, 20 Feb 2026 06:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/20a46d6b-da09-4c92-a46d-6bda094c9270_ID192MP3.mp3" type="audio/mpeg" length="30137516"></enclosure>
+      <itunes:title>En stor, lykkelig familie (6:6)</itunes:title>
+      <itunes:summary>Lea prøver å hjelpe en fortvilet alenefar, men får følelsen av at han ikke forteller alt. Selv trenger hun en ordentlig prat med Daniel.</itunes:summary>
+      <itunes:duration>1255</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AYXNqQSLXMgl5podJGZb2g1ogL_w3LbgbgF-KvocUd3g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Domino (5:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_aac087b6-5973-44a0-8087-b65973d4a08a</link>
+      <description>Et epilepsianfall fører til en ulykke på motorveien, og Lea må hjelpe førstemann på stedet. Senere får hun telefon fra pappa.</description>
+      <guid isPermaLink="false">l_aac087b6-5973-44a0-8087-b65973d4a08a</guid>
+      <pubDate>Fri, 20 Feb 2026 06:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/aac087b6-5973-44a0-8087-b65973d4a08a_ID192MP3.mp3" type="audio/mpeg" length="24276140"></enclosure>
+      <itunes:title>Domino (5:6)</itunes:title>
+      <itunes:summary>Et epilepsianfall fører til en ulykke på motorveien, og Lea må hjelpe førstemann på stedet. Senere får hun telefon fra pappa.</itunes:summary>
+      <itunes:duration>1011</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/U5BoIt7ffGNMnXW6Vz94swRoOcRzUf8TDthKtf8gDmnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>På sporet (4:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_6adf95b2-be07-4ea6-9f95-b2be078ea6c0</link>
+      <description>En ung gutt sitter fast på en togskinne mens Lea prøver å lokalisere nøyaktig hvor han er. Hjemme har hun begynt å tvile på samboerplanene.</description>
+      <guid isPermaLink="false">l_6adf95b2-be07-4ea6-9f95-b2be078ea6c0</guid>
+      <pubDate>Fri, 20 Feb 2026 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/6adf95b2-be07-4ea6-9f95-b2be078ea6c0_ID192MP3.mp3" type="audio/mpeg" length="17489708"></enclosure>
+      <itunes:title>På sporet (4:6)</itunes:title>
+      <itunes:summary>En ung gutt sitter fast på en togskinne mens Lea prøver å lokalisere nøyaktig hvor han er. Hjemme har hun begynt å tvile på samboerplanene.</itunes:summary>
+      <itunes:duration>728</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/StzoyqzspkmHJHZKfc1Trg3RdRNWU6Iq5QPvs-oXo5WQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ryktet går (3:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_ecdf03e2-e0ce-42fd-9f03-e2e0ce52fd3e</link>
+      <description>Ambulansen kan ikke komme fort nok når Frank ringer fra innsiden av et bilvrak. Lea får vite hva pappa har holdt skjult.</description>
+      <guid isPermaLink="false">l_ecdf03e2-e0ce-42fd-9f03-e2e0ce52fd3e</guid>
+      <pubDate>Fri, 20 Feb 2026 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/ecdf03e2-e0ce-42fd-9f03-e2e0ce52fd3e_ID192MP3.mp3" type="audio/mpeg" length="22762988"></enclosure>
+      <itunes:title>Ryktet går (3:6)</itunes:title>
+      <itunes:summary>Ambulansen kan ikke komme fort nok når Frank ringer fra innsiden av et bilvrak. Lea får vite hva pappa har holdt skjult.</itunes:summary>
+      <itunes:duration>948</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_b8DC4FrS5AHnRJp8IsTQwcNJDtMnQb-39wMtIj2nNLQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hold deg fast (2:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_5f870e03-f569-4fce-870e-03f5693fceff</link>
+      <description>Lea havner i dramatikkens sentrum når noen ringer om en fatal arbeidsulykke. Daniel har funnet den perfekte leiligheten.</description>
+      <guid isPermaLink="false">l_5f870e03-f569-4fce-870e-03f5693fceff</guid>
+      <pubDate>Fri, 20 Feb 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/5f870e03-f569-4fce-870e-03f5693fceff_ID192MP3.mp3" type="audio/mpeg" length="18793196"></enclosure>
+      <itunes:title>Hold deg fast (2:6)</itunes:title>
+      <itunes:summary>Lea havner i dramatikkens sentrum når noen ringer om en fatal arbeidsulykke. Daniel har funnet den perfekte leiligheten.</itunes:summary>
+      <itunes:duration>783</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3ou4Uz1YZVq_oH8gcRiagQnLAqdRkSz8f2cX0sO1fhUw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Mellom linjene (1:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_dc8235fe-91cf-4483-8235-fe91cf2483d0</link>
+      <description>Lea mistenker at noe er alvorlig galt når en bekymret datter ringer på vegne av moren. Selv oppdager Lea nye sider ved sin far.</description>
+      <guid isPermaLink="false">l_dc8235fe-91cf-4483-8235-fe91cf2483d0</guid>
+      <pubDate>Fri, 20 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/dc8235fe-91cf-4483-8235-fe91cf2483d0_ID192MP3.mp3" type="audio/mpeg" length="16544492"></enclosure>
+      <itunes:title>Mellom linjene (1:6)</itunes:title>
+      <itunes:summary>Lea mistenker at noe er alvorlig galt når en bekymret datter ringer på vegne av moren. Selv oppdager Lea nye sider ved sin far.</itunes:summary>
+      <itunes:duration>689</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4nDds8PP55MuD5R5T4grSwNL_VLWP-7iZIIlwGnDfBtw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Tid for sannhet (6:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_b7838a74-2cbb-4a31-838a-742cbb8a3140</link>
+      <description>Fie ringer 113 på nyttårsaften da hun oppdager en livsfarlig utfordring på TikTok. Kan Lea avverge en alvorlig ulykke?</description>
+      <guid isPermaLink="false">l_b7838a74-2cbb-4a31-838a-742cbb8a3140</guid>
+      <pubDate>Fri, 05 Dec 2025 06:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/b7838a74-2cbb-4a31-838a-742cbb8a3140_ID192MP3.mp3" type="audio/mpeg" length="21645548"></enclosure>
+      <itunes:title>Tid for sannhet (6:6)</itunes:title>
+      <itunes:summary>Fie ringer 113 på nyttårsaften da hun oppdager en livsfarlig utfordring på TikTok. Kan Lea avverge en alvorlig ulykke?</itunes:summary>
+      <itunes:duration>901</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GUqu2qGGea9t6zB2zsnScQdvNQTNDRukye5cfhTADxvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ensom på julaften (5:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_234e64bd-3193-4fe0-8e64-bd3193afe02f</link>
+      <description>Lea forstår at alt ikke er som det burde hjemme hos Adrian da han ringer om at lillesøster er syk.</description>
+      <guid isPermaLink="false">l_234e64bd-3193-4fe0-8e64-bd3193afe02f</guid>
+      <pubDate>Fri, 05 Dec 2025 06:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/234e64bd-3193-4fe0-8e64-bd3193afe02f_ID192MP3.mp3" type="audio/mpeg" length="26608940"></enclosure>
+      <itunes:title>Ensom på julaften (5:6)</itunes:title>
+      <itunes:summary>Lea forstår at alt ikke er som det burde hjemme hos Adrian da han ringer om at lillesøster er syk.</itunes:summary>
+      <itunes:duration>1108</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1Im63l7NZjqwIdNM5T5qXQ9VttuIaMOm474sO404xQPQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Jeg sverger – han dør! (4:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_3f1eda15-7f70-437b-9eda-157f70b37b16</link>
+      <description>Jamal er livredd når kompisen ikke får puste høyt oppe i et pariserhjul. Klarer Lea å få dem ned i god behold? </description>
+      <guid isPermaLink="false">l_3f1eda15-7f70-437b-9eda-157f70b37b16</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/3f1eda15-7f70-437b-9eda-157f70b37b16_ID192MP3.mp3" type="audio/mpeg" length="18869228"></enclosure>
+      <itunes:title>Jeg sverger – han dør! (4:6)</itunes:title>
+      <itunes:summary>Jamal er livredd når kompisen ikke får puste høyt oppe i et pariserhjul. Klarer Lea å få dem ned i god behold? </itunes:summary>
+      <itunes:duration>786</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1iTxqMWqIXnZefGxHh2dnwe7ydB7n9QJpN14AKrMsunw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Ser spøkelser overalt (3:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_f49554c3-201a-44d9-9554-c3201a94d973</link>
+      <description>Stinas sønn er utskrevet fra psykiatrisk, og hun er redd for hvor mange piller han har tatt når hun ringer Lea på 113.    &#xA;&#xA;Mental Helse Hjelpetelefon (gratis og døgnåpen): Ring 116 124, eller chat: sidetmedord.no.  Kirkens SOS (gratis og døgnåpen): Ring 22400040</description>
+      <guid isPermaLink="false">l_f49554c3-201a-44d9-9554-c3201a94d973</guid>
+      <pubDate>Fri, 05 Dec 2025 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/f49554c3-201a-44d9-9554-c3201a94d973_ID192MP3.mp3" type="audio/mpeg" length="19775276"></enclosure>
+      <itunes:title>Ser spøkelser overalt (3:6)</itunes:title>
+      <itunes:summary>Stinas sønn er utskrevet fra psykiatrisk, og hun er redd for hvor mange piller han har tatt når hun ringer Lea på 113.    &#xA;&#xA;Mental Helse Hjelpetelefon (gratis og døgnåpen): Ring 116 124, eller chat: sidetmedord.no.  Kirkens SOS (gratis og døgnåpen): Ring 22400040</itunes:summary>
+      <itunes:duration>823</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xEqJPcMeBELtw0Ge5D2yRwujBazvPtHgJj8yVoytLe2A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Isen sprekker opp! (2:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_f3b5a776-9664-4f24-b5a7-7696642f24df</link>
+      <description>Dag ringer 113 og får hjelp av Lea når dattera hans står på isen over en stri elv. Kommer hun seg trygt på land?</description>
+      <guid isPermaLink="false">l_f3b5a776-9664-4f24-b5a7-7696642f24df</guid>
+      <pubDate>Fri, 05 Dec 2025 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/f3b5a776-9664-4f24-b5a7-7696642f24df_ID192MP3.mp3" type="audio/mpeg" length="17292140"></enclosure>
+      <itunes:title>Isen sprekker opp! (2:6)</itunes:title>
+      <itunes:summary>Dag ringer 113 og får hjelp av Lea når dattera hans står på isen over en stri elv. Kommer hun seg trygt på land?</itunes:summary>
+      <itunes:duration>720</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hh7YWRoYJjiUbGY-iZ8yPQhxZ25SG_UfTXMsXZBZ5lCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Alene på vakt (1:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_99bddd5e-0931-4aff-bddd-5e09315aff84</link>
+      <description>Lea får høy puls når Mads er overlatt til seg selv på småbarnsavdelingen og en ettåring setter noe i halsen.  &#xA;&#xA;Amathea Helsesenter (Gratis landsdekkende helsetjeneste hvis du trenger noen å snakke med både før, under og etter en abort) Telefon: 90659060</description>
+      <guid isPermaLink="false">l_99bddd5e-0931-4aff-bddd-5e09315aff84</guid>
+      <pubDate>Fri, 05 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/99bddd5e-0931-4aff-bddd-5e09315aff84_ID192MP3.mp3" type="audio/mpeg" length="19112876"></enclosure>
+      <itunes:title>Alene på vakt (1:6)</itunes:title>
+      <itunes:summary>Lea får høy puls når Mads er overlatt til seg selv på småbarnsavdelingen og en ettåring setter noe i halsen.  &#xA;&#xA;Amathea Helsesenter (Gratis landsdekkende helsetjeneste hvis du trenger noen å snakke med både før, under og etter en abort) Telefon: 90659060</itunes:summary>
+      <itunes:duration>796</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nuzXqKgt3qbchVBD5yjbvQjCReUkNf8EzHyTplmxKq9A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eksamen (6:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_b57cb332-a9e9-4d3f-bcb3-32a9e94d3f4d</link>
+      <description>Er Lea klar for å håndtere innringere i nød helt på egenhånd?</description>
+      <guid isPermaLink="false">l_b57cb332-a9e9-4d3f-bcb3-32a9e94d3f4d</guid>
+      <pubDate>Wed, 26 Feb 2025 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/96326535-f7e3-4e41-8f3d-b80ce36594bd_0_ID192MP3.mp3" type="audio/mpeg" length="33683373"></enclosure>
+      <itunes:title>Eksamen (6:6)</itunes:title>
+      <itunes:summary>Er Lea klar for å håndtere innringere i nød helt på egenhånd?</itunes:summary>
+      <itunes:duration>1403</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/56nNg3BwueZrdIL_qrjBKwDVHcjGawPIAl7qA2DOSpLg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Dette gjør vi sammen! (5:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_0200f5f7-7189-4e4d-80f5-f77189ae4d7e</link>
+      <description>Lea blir usikker på om hun ga riktig råd til en redd og høygravid innringer. Samtidig tilspisser situasjonen seg i Leas privatliv.</description>
+      <guid isPermaLink="false">l_0200f5f7-7189-4e4d-80f5-f77189ae4d7e</guid>
+      <pubDate>Wed, 26 Feb 2025 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/267322ed-6394-4638-b62f-b8075f06b379_0_ID192MP3.mp3" type="audio/mpeg" length="25201197"></enclosure>
+      <itunes:title>Dette gjør vi sammen! (5:6)</itunes:title>
+      <itunes:summary>Lea blir usikker på om hun ga riktig råd til en redd og høygravid innringer. Samtidig tilspisser situasjonen seg i Leas privatliv.</itunes:summary>
+      <itunes:duration>1050</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/56nNg3BwueZrdIL_qrjBKwDVHcjGawPIAl7qA2DOSpLg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Emosjonell førstehjelp (4:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_0aeba123-c531-4254-aba1-23c531325413</link>
+      <description>Lea får akutt behov for hjelp fra en tolk. Etterpå må hun ta en vanskelig samtale om den alvorlige nødsituasjonen fra i går.</description>
+      <guid isPermaLink="false">l_0aeba123-c531-4254-aba1-23c531325413</guid>
+      <pubDate>Wed, 26 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/b0bc6786-294e-4aa8-9b59-e6eec90c49cb_0_ID192MP3.mp3" type="audio/mpeg" length="18839277"></enclosure>
+      <itunes:title>Emosjonell førstehjelp (4:6)</itunes:title>
+      <itunes:summary>Lea får akutt behov for hjelp fra en tolk. Etterpå må hun ta en vanskelig samtale om den alvorlige nødsituasjonen fra i går.</itunes:summary>
+      <itunes:duration>784</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/56nNg3BwueZrdIL_qrjBKwDVHcjGawPIAl7qA2DOSpLg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Du kan snakke med meg om alt (3:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_f43d6c45-58ee-4923-bd6c-4558ee5923cd</link>
+      <description>Lea må håndtere sin vanskeligste nødsituasjon hittil i opplæringen. Senere får hun både gode og dårlige nyheter om sin egen helse.&#xA;&#xA;Trenger du noen å prate med etter denne episoden? Kirkens SOS Hjelpetelefon: 22400040 Chattetjeneste Kirkens SOS: soschat.no Mental Helse hjelpetelefonen: 116 123 Chattetjeneste Mental Helse: sidetmedord.no (døgnåpen)</description>
+      <guid isPermaLink="false">l_f43d6c45-58ee-4923-bd6c-4558ee5923cd</guid>
+      <pubDate>Wed, 19 Feb 2025 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/d42bd225-0535-4f9d-90aa-a647386d6fb8_0_ID192MP3.mp3" type="audio/mpeg" length="25431021"></enclosure>
+      <itunes:title>Du kan snakke med meg om alt (3:6)</itunes:title>
+      <itunes:summary>Lea må håndtere sin vanskeligste nødsituasjon hittil i opplæringen. Senere får hun både gode og dårlige nyheter om sin egen helse.&#xA;&#xA;Trenger du noen å prate med etter denne episoden? Kirkens SOS Hjelpetelefon: 22400040 Chattetjeneste Kirkens SOS: soschat.no Mental Helse hjelpetelefonen: 116 123 Chattetjeneste Mental Helse: sidetmedord.no (døgnåpen)</itunes:summary>
+      <itunes:duration>1059</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/56nNg3BwueZrdIL_qrjBKwDVHcjGawPIAl7qA2DOSpLg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Jeg begynte å tenke på mamma (2:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_b161f8f7-516b-4f7b-a1f8-f7516b1f7b3b</link>
+      <description>En nødsamtale fra et barn trigger Leas vonde minner av å vokse opp med en syk mamma. Lillesøster Julie vil helst ikke huske.</description>
+      <guid isPermaLink="false">l_b161f8f7-516b-4f7b-a1f8-f7516b1f7b3b</guid>
+      <pubDate>Wed, 19 Feb 2025 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/159c06ac-5d0a-4314-b1c6-e1ad2050c92c_0_ID192MP3.mp3" type="audio/mpeg" length="23501421"></enclosure>
+      <itunes:title>Jeg begynte å tenke på mamma (2:6)</itunes:title>
+      <itunes:summary>En nødsamtale fra et barn trigger Leas vonde minner av å vokse opp med en syk mamma. Lillesøster Julie vil helst ikke huske.</itunes:summary>
+      <itunes:duration>979</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/56nNg3BwueZrdIL_qrjBKwDVHcjGawPIAl7qA2DOSpLg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Puster pasienten? (1:6)</title>
+      <link>https://radio.nrk.no/podkast/noedsamtaler/l_6a5602b1-0a58-46d7-9602-b10a5886d700</link>
+      <description>Lea er i siste del av opplæringen, og blir satt på prøve når en innringer i nød snakker mellom linjene. &#xA;&#xA;Trenger du noen å prate med etter denne episoden? Kirkens SOS Hjelpetelefon: 22400040 Chattetjeneste Kirkens SOS: soschat.no Mental Helse hjelpetelefonen: 116 123 Chattetjeneste Mental Helse: sidetmedord.no (døgnåpen)</description>
+      <guid isPermaLink="false">l_6a5602b1-0a58-46d7-9602-b10a5886d700</guid>
+      <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/noedsamtaler/b64a7c5f-8535-495b-b82d-ea482847f2d5_0_ID192MP3.mp3" type="audio/mpeg" length="22939821"></enclosure>
+      <itunes:title>Puster pasienten? (1:6)</itunes:title>
+      <itunes:summary>Lea er i siste del av opplæringen, og blir satt på prøve når en innringer i nød snakker mellom linjene. &#xA;&#xA;Trenger du noen å prate med etter denne episoden? Kirkens SOS Hjelpetelefon: 22400040 Chattetjeneste Kirkens SOS: soschat.no Mental Helse hjelpetelefonen: 116 123 Chattetjeneste Mental Helse: sidetmedord.no (døgnåpen)</itunes:summary>
+      <itunes:duration>955</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/56nNg3BwueZrdIL_qrjBKwDVHcjGawPIAl7qA2DOSpLg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

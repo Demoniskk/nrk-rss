@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NRKbeta</title>
+    <link>https://radio.nrk.no/podkast/nrkbeta</link>
+    <description>Vi er NRKs sandkasse for teknologi og nye medier. Her får du et dypdykk i det vi jobber med og tenker på.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 08:18:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/nrkbeta.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Vi er NRKs sandkasse for teknologi og nye medier. Her får du et dypdykk i det vi jobber med og tenker på.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw</url>
+      <title>NRKbeta</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta</link>
+    </image>
+    <item>
+      <title>#25 NRKbeta Kryptovaluta</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_7e2d9103-8c8a-4987-ad91-038c8a7987a7</link>
+      <description>Kryptovalutaen Bitcoin passerte i denne uken $10000 og har økt voldsomt i verdi de siste månedene. Hva i huleste er det egentlig som foregår? Er Bitcoin det nye &#34;digitale gullet&#34;, som tilhengerne hevder, eller er det, som kritikerne hevder, et sofistikert pyramidespill.&#xA;Vi satte oss ned med Torbjørn Bull Jenssen, analytiker i Menon Analytics, og tok en lang og god prat om de ulike aspektene rundt Bitcoin.</description>
+      <guid isPermaLink="false">l_7e2d9103-8c8a-4987-ad91-038c8a7987a7</guid>
+      <pubDate>Fri, 01 Dec 2017 09:18:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2017-12-01_1344_3937.MP3" type="audio/mpeg" length="50075918"></enclosure>
+      <itunes:title>#25 NRKbeta Kryptovaluta</itunes:title>
+      <itunes:summary>Kryptovalutaen Bitcoin passerte i denne uken $10000 og har økt voldsomt i verdi de siste månedene. Hva i huleste er det egentlig som foregår? Er Bitcoin det nye &#34;digitale gullet&#34;, som tilhengerne hevder, eller er det, som kritikerne hevder, et sofistikert pyramidespill.&#xA;Vi satte oss ned med Torbjørn Bull Jenssen, analytiker i Menon Analytics, og tok en lang og god prat om de ulike aspektene rundt Bitcoin.</itunes:summary>
+      <itunes:duration>2082</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>#24 Teknologi-oppdatering fra SXSW</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_dca9e0ba-4e81-47e1-a9e0-ba4e8157e16a</link>
+      <description>NRKbeta har fordøyd inntrykkene etter å ha deltatt på en av årets største konferanser om ny teknologi, SXSW i Texas. Vi snakker blant annet om kunstig intelligens og stemmestyring med redaktør Marius Arnesen og journalist Henrik Lied.&#xA;&#xA;Programleder og produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_dca9e0ba-4e81-47e1-a9e0-ba4e8157e16a</guid>
+      <pubDate>Thu, 20 Apr 2017 13:37:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2017-04-20_1137_3280.MP3" type="audio/mpeg" length="42432923"></enclosure>
+      <itunes:title>#24 Teknologi-oppdatering fra SXSW</itunes:title>
+      <itunes:summary>NRKbeta har fordøyd inntrykkene etter å ha deltatt på en av årets største konferanser om ny teknologi, SXSW i Texas. Vi snakker blant annet om kunstig intelligens og stemmestyring med redaktør Marius Arnesen og journalist Henrik Lied.&#xA;&#xA;Programleder og produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1764</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>#23 Solbriller fra Snapchat</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_750b5cd2-8330-4a8f-8b5c-d283305a8f9f</link>
+      <description>Hvor kule er egentlig Snapchats nye solbriller &#34;Spectacles&#34;? Marius og Ståle sjekker om lufta har gått ut av ballongen, eller om hypen er fortjent like før Snapchat skal på børs. I P3 har Mari og Silje testet dem, og avgir rapport i NRKbeta-kroken. Du får høre om de kunne passet inn i SKAM, og hvordan eksperimentene hos P3morgen fungerte.</description>
+      <guid isPermaLink="false">l_750b5cd2-8330-4a8f-8b5c-d283305a8f9f</guid>
+      <pubDate>Fri, 24 Feb 2017 15:29:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2017-02-24_1429_3293.MP3" type="audio/mpeg" length="28604734"></enclosure>
+      <itunes:title>#23 Solbriller fra Snapchat</itunes:title>
+      <itunes:summary>Hvor kule er egentlig Snapchats nye solbriller &#34;Spectacles&#34;? Marius og Ståle sjekker om lufta har gått ut av ballongen, eller om hypen er fortjent like før Snapchat skal på børs. I P3 har Mari og Silje testet dem, og avgir rapport i NRKbeta-kroken. Du får høre om de kunne passet inn i SKAM, og hvordan eksperimentene hos P3morgen fungerte.</itunes:summary>
+      <itunes:duration>1782</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>#22 Mediekritiker Jay Rosens råd til amerikansk presse i 2017</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_3ea838fb-7b2e-425f-a838-fb7b2ee25fc6</link>
+      <description>Hvordan ser pressen makten best i kortene, og holder seg relevant for publikum under president Trump? Mediekritiker Jay Rosen tar opptelling på NRKbeta.no og vi leser de to tekstene hans for deg.&#xA;&#xA;Lest og produsert av Ståle Grut.</description>
+      <guid isPermaLink="false">l_3ea838fb-7b2e-425f-a838-fb7b2ee25fc6</guid>
+      <pubDate>Thu, 26 Jan 2017 14:27:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2017-01-26_1327_2535.MP3" type="audio/mpeg" length="37019513"></enclosure>
+      <itunes:title>#22 Mediekritiker Jay Rosens råd til amerikansk presse i 2017</itunes:title>
+      <itunes:summary>Hvordan ser pressen makten best i kortene, og holder seg relevant for publikum under president Trump? Mediekritiker Jay Rosen tar opptelling på NRKbeta.no og vi leser de to tekstene hans for deg.&#xA;&#xA;Lest og produsert av Ståle Grut.</itunes:summary>
+      <itunes:duration>2308</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>#21 Pokémon Go (selvfølgelig)</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_b0614d29-3ba4-4ea1-a14d-293ba43ea12d</link>
+      <description>Spillet Pokémon GO ble raskt årets sommer-fenomen i både Norge og resten av verden. NRKbeta lurer selvølgelig på hvorfor. Vi snakker med NRKs svært spillkyndige journalist Lasse Lervik om spillet, teknologien bak og veien videre. NRKbetas redaktør Marius Arnesen er programleder. NRKbetas journalist Ståle Grut er produsent.</description>
+      <guid isPermaLink="false">l_b0614d29-3ba4-4ea1-a14d-293ba43ea12d</guid>
+      <pubDate>Fri, 05 Aug 2016 13:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2016-8-5_1159_4100.MP3" type="audio/mpeg" length="21262547"></enclosure>
+      <itunes:title>#21 Pokémon Go (selvfølgelig)</itunes:title>
+      <itunes:summary>Spillet Pokémon GO ble raskt årets sommer-fenomen i både Norge og resten av verden. NRKbeta lurer selvølgelig på hvorfor. Vi snakker med NRKs svært spillkyndige journalist Lasse Lervik om spillet, teknologien bak og veien videre. NRKbetas redaktør Marius Arnesen er programleder. NRKbetas journalist Ståle Grut er produsent.</itunes:summary>
+      <itunes:duration>1328</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2016">2016</podcast:season>
+    </item>
+    <item>
+      <title>#20 På tur med Google</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_cfc72dfd-bf12-44fb-872d-fdbf12a4fb02</link>
+      <description>Utstyrt med en ganske spesiell kamera-kule fra Google på ryggen, går Bjørn Heidenstrøm land og strand rundt for å dokumentere norsk natur. Bildene kan du se på Google Street View. Sammen med NRKs Eirik Solheim og NRKbetas redaktør Marius Arnesen snakker vi med Bjørn om hvordan det er å gå rundt i naturen med Googles 360°-teknologi.&#xA;&#xA;Programleder og produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_cfc72dfd-bf12-44fb-872d-fdbf12a4fb02</guid>
+      <pubDate>Mon, 01 Aug 2016 15:38:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2016-8-1_1338_20.MP3" type="audio/mpeg" length="22081747"></enclosure>
+      <itunes:title>#20 På tur med Google</itunes:title>
+      <itunes:summary>Utstyrt med en ganske spesiell kamera-kule fra Google på ryggen, går Bjørn Heidenstrøm land og strand rundt for å dokumentere norsk natur. Bildene kan du se på Google Street View. Sammen med NRKs Eirik Solheim og NRKbetas redaktør Marius Arnesen snakker vi med Bjørn om hvordan det er å gå rundt i naturen med Googles 360°-teknologi.&#xA;&#xA;Programleder og produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1380</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2016">2016</podcast:season>
+    </item>
+    <item>
+      <title>#19 Jodel: Den skjulte trussel</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_6e393bcb-f910-4b92-b93b-cbf910ab9262</link>
+      <description>Norske medier har stort sett omtalt appen Jodel i ly av bombetrusler og mobbesaker. Vi har møtt jodler Morten Aanvik og førsteamanuensis Gunnhild Kvåle, som begge har lagt sin elsk på den anonyme appen.&#xA;&#xA;Programleder og produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_6e393bcb-f910-4b92-b93b-cbf910ab9262</guid>
+      <pubDate>Thu, 30 Jun 2016 17:29:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2016-6-30_1529_2870.MP3" type="audio/mpeg" length="27901829"></enclosure>
+      <itunes:title>#19 Jodel: Den skjulte trussel</itunes:title>
+      <itunes:summary>Norske medier har stort sett omtalt appen Jodel i ly av bombetrusler og mobbesaker. Vi har møtt jodler Morten Aanvik og førsteamanuensis Gunnhild Kvåle, som begge har lagt sin elsk på den anonyme appen.&#xA;&#xA;Programleder og produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1743</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2016">2016</podcast:season>
+    </item>
+    <item>
+      <title>#18 Hele Norge bygger</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_38cdba21-a581-4cea-8dba-21a581dcea6a</link>
+      <description>Med det gigantiske byggeprosjektet &#34;Hele Norge bygger&#34; skal NRK Super og FlippKlipp Studio gjenskape 19 norske fylker førstkommende lørdag. Vi snakket med innholdsansvarlig Joakim Vedeler og Tobias Laundal som er ansvarlig for server og programmering.&#xA;&#xA;Programleder og produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_38cdba21-a581-4cea-8dba-21a581dcea6a</guid>
+      <pubDate>Thu, 23 Jun 2016 20:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2016-6-23_1811_3657.MP3" type="audio/mpeg" length="21610289"></enclosure>
+      <itunes:title>#18 Hele Norge bygger</itunes:title>
+      <itunes:summary>Med det gigantiske byggeprosjektet &#34;Hele Norge bygger&#34; skal NRK Super og FlippKlipp Studio gjenskape 19 norske fylker førstkommende lørdag. Vi snakket med innholdsansvarlig Joakim Vedeler og Tobias Laundal som er ansvarlig for server og programmering.&#xA;&#xA;Programleder og produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1350</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2016">2016</podcast:season>
+    </item>
+    <item>
+      <title>#17 Den ensomme analytiker</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_3408c75a-1965-4b2a-88c7-5a19651b2a09</link>
+      <description>Tusenvis abonnerer på &#34;guruen&#34; Ben Thompsons tanker om teknologi- og medieutviklingen. Det gjør at han kan leve av det. Under Nordiske Mediedager i Bergen i mai, snakket vi med han om det norske mediemarkedet, hvordan han jobber og hvorfor han har valgt å jobbe alene.&#xA;&#xA;Programleder og produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_3408c75a-1965-4b2a-88c7-5a19651b2a09</guid>
+      <pubDate>Fri, 27 May 2016 15:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2016-5-27_1330_2648.MP3" type="audio/mpeg" length="12291053"></enclosure>
+      <itunes:title>#17 Den ensomme analytiker</itunes:title>
+      <itunes:summary>Tusenvis abonnerer på &#34;guruen&#34; Ben Thompsons tanker om teknologi- og medieutviklingen. Det gjør at han kan leve av det. Under Nordiske Mediedager i Bergen i mai, snakket vi med han om det norske mediemarkedet, hvordan han jobber og hvorfor han har valgt å jobbe alene.&#xA;&#xA;Programleder og produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>768</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2016">2016</podcast:season>
+    </item>
+    <item>
+      <title>#16 Saltstraumen minutt for minutt</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_2b4f4538-260d-4d2c-8f45-38260d5d2c8c</link>
+      <description>Lørdag 7. mai sender NRK Saltstraumen minutt for minutt. Vi snakker med prosjektleder Thomas Hellum, som står bak minutt for minutt-konseptet om tidligere erfaringer og hva vi kan vente oss. Henrik Lied i NRKbeta forteller om teknologien som skal brukes i sendingene.&#xA;&#xA;Programleder og produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_2b4f4538-260d-4d2c-8f45-38260d5d2c8c</guid>
+      <pubDate>Thu, 28 Apr 2016 16:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2016-4-28_145_2367.MP3" type="audio/mpeg" length="26417656"></enclosure>
+      <itunes:title>#16 Saltstraumen minutt for minutt</itunes:title>
+      <itunes:summary>Lørdag 7. mai sender NRK Saltstraumen minutt for minutt. Vi snakker med prosjektleder Thomas Hellum, som står bak minutt for minutt-konseptet om tidligere erfaringer og hva vi kan vente oss. Henrik Lied i NRKbeta forteller om teknologien som skal brukes i sendingene.&#xA;&#xA;Programleder og produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1651</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2016">2016</podcast:season>
+    </item>
+    <item>
+      <title>#15 South by Southwest 2016</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_bf4486b9-32f4-4560-8486-b932f4556061</link>
+      <description>Sammen med NRKs medieutviklingssjef Heidrun Reisæter og innsiktsansvarlig Øystein Riiser Gundersen ser vi på lærdommene vi har med oss hjem fra South by Southwest-konferansen i mars 2016.&#xA;&#xA;Programleder og produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_bf4486b9-32f4-4560-8486-b932f4556061</guid>
+      <pubDate>Thu, 31 Mar 2016 17:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2016-3-31_158_1901.MP3" type="audio/mpeg" length="14854815"></enclosure>
+      <itunes:title>#15 South by Southwest 2016</itunes:title>
+      <itunes:summary>Sammen med NRKs medieutviklingssjef Heidrun Reisæter og innsiktsansvarlig Øystein Riiser Gundersen ser vi på lærdommene vi har med oss hjem fra South by Southwest-konferansen i mars 2016.&#xA;&#xA;Programleder og produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>928</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2016">2016</podcast:season>
+    </item>
+    <item>
+      <title>#14 Sikkerhet i mediebransjen</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_c6633006-de2b-4630-a330-06de2b9630aa</link>
+      <description>Vi snakker med Per Thorsheim om sikkerhet både i mediebransjen og i det offentlige. Hvor sikker er du på at du forbli anonym hvis du tipser NRK, EOS-utvalget eller KRIPOS?&#xA;&#xA;Produsent og programleder: Marius Arnesen</description>
+      <guid isPermaLink="false">l_c6633006-de2b-4630-a330-06de2b9630aa</guid>
+      <pubDate>Wed, 30 Mar 2016 19:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2016-3-30_1711_1865.MP3" type="audio/mpeg" length="16868542"></enclosure>
+      <itunes:title>#14 Sikkerhet i mediebransjen</itunes:title>
+      <itunes:summary>Vi snakker med Per Thorsheim om sikkerhet både i mediebransjen og i det offentlige. Hvor sikker er du på at du forbli anonym hvis du tipser NRK, EOS-utvalget eller KRIPOS?&#xA;&#xA;Produsent og programleder: Marius Arnesen</itunes:summary>
+      <itunes:duration>1054</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2016">2016</podcast:season>
+    </item>
+    <item>
+      <title>#13 Den store mobildebatten</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_8604090d-aeda-44ee-8409-0daedae4eecf</link>
+      <description>Hva skjer når du putter en iOS-bruker, en Windows Phone-bruker og to Android-brukere i samme studio? &#xA;&#xA;NRKs analysesjef Kristian Tolonen er svoren Nokia-tilhenger. Teknologirådgiver Eirik Solheim og analytiker Iacob Prebensen sverger foreløpig til Android. Redaktør og programleder Marius Arnesen har Apple på alt fra klokken til datamaskina. Men hvem har rett?&#xA;&#xA;Produsent: Ståle Grut&#xA;</description>
+      <guid isPermaLink="false">l_8604090d-aeda-44ee-8409-0daedae4eecf</guid>
+      <pubDate>Sat, 05 Mar 2016 14:31:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2016-3-5_1331_1228.MP3" type="audio/mpeg" length="30693796"></enclosure>
+      <itunes:title>#13 Den store mobildebatten</itunes:title>
+      <itunes:summary>Hva skjer når du putter en iOS-bruker, en Windows Phone-bruker og to Android-brukere i samme studio? &#xA;&#xA;NRKs analysesjef Kristian Tolonen er svoren Nokia-tilhenger. Teknologirådgiver Eirik Solheim og analytiker Iacob Prebensen sverger foreløpig til Android. Redaktør og programleder Marius Arnesen har Apple på alt fra klokken til datamaskina. Men hvem har rett?&#xA;&#xA;Produsent: Ståle Grut&#xA;</itunes:summary>
+      <itunes:duration>1918</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2016">2016</podcast:season>
+    </item>
+    <item>
+      <title>#12 WeChat, kinesisk sensur og FBI</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_758e0e88-a1dc-4a81-8e0e-88a1dcba813f</link>
+      <description>Vi ser på WeChat, som danket ut Paypal under den kinesiske nyttårsfeiringen. Vår Kina-korrespondent Peter Svaar forteller om sensur og hvordan internett fungerer der i 2016. Vi ser også nærmere på saken mellom FBI og Apple sammen med Henrik Lied i NRKbeta.&#xA;&#xA;Programleder: Marius Arnesen&#xA;Produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_758e0e88-a1dc-4a81-8e0e-88a1dcba813f</guid>
+      <pubDate>Fri, 26 Feb 2016 16:22:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2016-2-26_1522_1663.MP3" type="audio/mpeg" length="21645398"></enclosure>
+      <itunes:title>#12 WeChat, kinesisk sensur og FBI</itunes:title>
+      <itunes:summary>Vi ser på WeChat, som danket ut Paypal under den kinesiske nyttårsfeiringen. Vår Kina-korrespondent Peter Svaar forteller om sensur og hvordan internett fungerer der i 2016. Vi ser også nærmere på saken mellom FBI og Apple sammen med Henrik Lied i NRKbeta.&#xA;&#xA;Programleder: Marius Arnesen&#xA;Produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1352</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2016">2016</podcast:season>
+    </item>
+    <item>
+      <title>#11 Snapchats flørt med nyheter</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_95dd6793-30cb-41ea-9d67-9330cb71ea03</link>
+      <description>Snapchat flørter med nyheter som aldri før, men hva vil de oppnå - og hvordan skal de gjøre det? Bli med oss på et dypdykk.&#xA;&#xA;Programleder og produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_95dd6793-30cb-41ea-9d67-9330cb71ea03</guid>
+      <pubDate>Tue, 16 Feb 2016 11:16:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2016-2-16_1016_2046.MP3" type="audio/mpeg" length="15651027"></enclosure>
+      <itunes:title>#11 Snapchats flørt med nyheter</itunes:title>
+      <itunes:summary>Snapchat flørter med nyheter som aldri før, men hva vil de oppnå - og hvordan skal de gjøre det? Bli med oss på et dypdykk.&#xA;&#xA;Programleder og produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>978</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2016">2016</podcast:season>
+    </item>
+    <item>
+      <title>#10 Home Automation</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_805c6855-ed33-401b-9c68-55ed33601b0b</link>
+      <description>Vi har besøk av teknologirådgiver Eirik Solheim som har brukt romjula til å sette seg inn i fenomenet &#34;Home Automation&#34; og lekt med lyspærer og ringeklokker som blinker med taklyset når noen står utenfor inngangsdøra di.&#xA;&#xA;I tillegg har også Amazon Alexa kommet på besøk og viser oss hva hun er god for innen samme tema.&#xA;&#xA;Programleder/Produsent: Marius Arnesen&#xA;Gjest: Eirik Solheim&#xA;</description>
+      <guid isPermaLink="false">l_805c6855-ed33-401b-9c68-55ed33601b0b</guid>
+      <pubDate>Fri, 15 Jan 2016 16:47:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2016-1-15_1547_4154.MP3" type="audio/mpeg" length="24404764"></enclosure>
+      <itunes:title>#10 Home Automation</itunes:title>
+      <itunes:summary>Vi har besøk av teknologirådgiver Eirik Solheim som har brukt romjula til å sette seg inn i fenomenet &#34;Home Automation&#34; og lekt med lyspærer og ringeklokker som blinker med taklyset når noen står utenfor inngangsdøra di.&#xA;&#xA;I tillegg har også Amazon Alexa kommet på besøk og viser oss hva hun er god for innen samme tema.&#xA;&#xA;Programleder/Produsent: Marius Arnesen&#xA;Gjest: Eirik Solheim&#xA;</itunes:summary>
+      <itunes:duration>1525</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2016">2016</podcast:season>
+    </item>
+    <item>
+      <title>#9 Året 2015 oppsummert (del 2)</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_9740313b-9180-4910-8031-3b9180a9102f</link>
+      <description>2015, slik NRKbeta så det. Marius, Ingeborg og Ståle oppsummerer 2015. Vi snakker om podkasting i Norge, datasikkerhet, hacking, roboter og personlige assistenter.&#xA;&#xA;Programleder: Marius Arnesen&#xA;Produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_9740313b-9180-4910-8031-3b9180a9102f</guid>
+      <pubDate>Fri, 18 Dec 2015 16:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2015-12-18_150_921.MP3" type="audio/mpeg" length="19009747"></enclosure>
+      <itunes:title>#9 Året 2015 oppsummert (del 2)</itunes:title>
+      <itunes:summary>2015, slik NRKbeta så det. Marius, Ingeborg og Ståle oppsummerer 2015. Vi snakker om podkasting i Norge, datasikkerhet, hacking, roboter og personlige assistenter.&#xA;&#xA;Programleder: Marius Arnesen&#xA;Produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1188</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2015">2015</podcast:season>
+    </item>
+    <item>
+      <title>#8 Året 2015 oppsummert (del 1)</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_6f946714-94c1-4769-9467-1494c1076966</link>
+      <description>2015, slik NRKbeta så det. Marius, Ingeborg og Ståle oppsummerer 2015. Vi snakker om content marketing, VR, dingser, video og sosiale medier.&#xA;&#xA;Programleder: Marius Arnesen&#xA;Produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_6f946714-94c1-4769-9467-1494c1076966</guid>
+      <pubDate>Fri, 11 Dec 2015 20:39:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2015-12-11_1939_1110.MP3" type="audio/mpeg" length="23555471"></enclosure>
+      <itunes:title>#8 Året 2015 oppsummert (del 1)</itunes:title>
+      <itunes:summary>2015, slik NRKbeta så det. Marius, Ingeborg og Ståle oppsummerer 2015. Vi snakker om content marketing, VR, dingser, video og sosiale medier.&#xA;&#xA;Programleder: Marius Arnesen&#xA;Produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1472</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2015">2015</podcast:season>
+    </item>
+    <item>
+      <title>#7 Hvordan takle kritikk og hets på nett</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_29a65a42-2c19-4500-a65a-422c19b500c1</link>
+      <description>Vi snakker med psykolog og lektor Cathrine Moestue om hvorfor vi reagerer som vi gjør når vi møter kritikk. Vi får også tips for å være bedre rustet. Eirik Solheim er med oss og oppsummerer teknologiuka.&#xA;&#xA;Programleder: Marius Arnesen&#xA;Produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_29a65a42-2c19-4500-a65a-422c19b500c1</guid>
+      <pubDate>Fri, 04 Dec 2015 17:35:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2015-12-4_1635_2131.MP3" type="audio/mpeg" length="25981306"></enclosure>
+      <itunes:title>#7 Hvordan takle kritikk og hets på nett</itunes:title>
+      <itunes:summary>Vi snakker med psykolog og lektor Cathrine Moestue om hvorfor vi reagerer som vi gjør når vi møter kritikk. Vi får også tips for å være bedre rustet. Eirik Solheim er med oss og oppsummerer teknologiuka.&#xA;&#xA;Programleder: Marius Arnesen&#xA;Produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1623</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2015">2015</podcast:season>
+    </item>
+    <item>
+      <title>#6 Måling av medier og overraskelser fra Asia</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_a99a096d-9f7e-48aa-9a09-6d9f7e38aac2</link>
+      <description>Måling av medier med Iacob Prebensen og spennende godteri fra NRKbetas egen Asia-korrespondent Mia Aasbakken.&#xA;&#xA;Programleder: Marius Arnesen&#xA;Produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_a99a096d-9f7e-48aa-9a09-6d9f7e38aac2</guid>
+      <pubDate>Fri, 27 Nov 2015 17:47:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2015-11-27_1647_82.MP3" type="audio/mpeg" length="20399043"></enclosure>
+      <itunes:title>#6 Måling av medier og overraskelser fra Asia</itunes:title>
+      <itunes:summary>Måling av medier med Iacob Prebensen og spennende godteri fra NRKbetas egen Asia-korrespondent Mia Aasbakken.&#xA;&#xA;Programleder: Marius Arnesen&#xA;Produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1274</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2015">2015</podcast:season>
+    </item>
+    <item>
+      <title>#5 Slik jobber vi når det smeller</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_c5fb4c8a-ae4d-4fef-bb4c-8aae4dbfef20</link>
+      <description>I forbindelse med det rystende terror-angrepet i Paris 13. november ble også mange usannheter spredt på sosiale medier. Vi har med oss NRKs frontredaktør Tone Libråten og diskuterer hvordan sosiale medier og redaksjonelle medier fungerer i samspill. Vi snakker også om den anonyme chat-appen Jodel og en norsk verdensrekord på Vine.&#xA;&#xA;Programleder: Marius Arnesen&#xA;Produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_c5fb4c8a-ae4d-4fef-bb4c-8aae4dbfef20</guid>
+      <pubDate>Fri, 20 Nov 2015 19:38:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2015-11-20_1838_776.MP3" type="audio/mpeg" length="22470031"></enclosure>
+      <itunes:title>#5 Slik jobber vi når det smeller</itunes:title>
+      <itunes:summary>I forbindelse med det rystende terror-angrepet i Paris 13. november ble også mange usannheter spredt på sosiale medier. Vi har med oss NRKs frontredaktør Tone Libråten og diskuterer hvordan sosiale medier og redaksjonelle medier fungerer i samspill. Vi snakker også om den anonyme chat-appen Jodel og en norsk verdensrekord på Vine.&#xA;&#xA;Programleder: Marius Arnesen&#xA;Produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1404</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2015">2015</podcast:season>
+    </item>
+    <item>
+      <title>#4 VR-briller og mobile nyheter med NowThis</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_a4212f70-4a92-4e77-a12f-704a929e77cf</link>
+      <description>Facebook har lansert ny app og New York Times har over natten gjort VR-briller til allemannseie. Redaktør Marius Arnesen og journalist Henrik Lied forklarer.&#xA;&#xA;Vi har også fått besøk fra USA. Dhiya Kuriakaite er emerging media strategist og Alyssa Kurzman er senior editorial producer i oppstartsbedriften NowThis. De leverer nyheter til alle tenkelige mobile og sosiale plattformer, og deler sine tanker med oss.&#xA;&#xA;Produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_a4212f70-4a92-4e77-a12f-704a929e77cf</guid>
+      <pubDate>Fri, 13 Nov 2015 13:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2015-11-13_123_3967.MP3" type="audio/mpeg" length="22509319"></enclosure>
+      <itunes:title>#4 VR-briller og mobile nyheter med NowThis</itunes:title>
+      <itunes:summary>Facebook har lansert ny app og New York Times har over natten gjort VR-briller til allemannseie. Redaktør Marius Arnesen og journalist Henrik Lied forklarer.&#xA;&#xA;Vi har også fått besøk fra USA. Dhiya Kuriakaite er emerging media strategist og Alyssa Kurzman er senior editorial producer i oppstartsbedriften NowThis. De leverer nyheter til alle tenkelige mobile og sosiale plattformer, og deler sine tanker med oss.&#xA;&#xA;Produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1406</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2015">2015</podcast:season>
+    </item>
+    <item>
+      <title>#3 Alt om droner i media</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_58bb220d-91fa-4ca4-bb22-0d91fa1ca4ab</link>
+      <description>Vi tar for oss alt om bruk av droner i medieproduksjon og hvordan det påvirker media. NRKbetas redaktør Marius Arnesen og Eirik Solheim er både eksperter og entusiaster på droneflyging, og gir deg en grundig innføring i hva droner er og hvordan de kan brukes.&#xA;&#xA;Programleder og produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_58bb220d-91fa-4ca4-bb22-0d91fa1ca4ab</guid>
+      <pubDate>Fri, 06 Nov 2015 11:17:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2015-11-6_1017_3209.MP3" type="audio/mpeg" length="28615703"></enclosure>
+      <itunes:title>#3 Alt om droner i media</itunes:title>
+      <itunes:summary>Vi tar for oss alt om bruk av droner i medieproduksjon og hvordan det påvirker media. NRKbetas redaktør Marius Arnesen og Eirik Solheim er både eksperter og entusiaster på droneflyging, og gir deg en grundig innføring i hva droner er og hvordan de kan brukes.&#xA;&#xA;Programleder og produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1788</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2015">2015</podcast:season>
+    </item>
+    <item>
+      <title>#2 Sosiale medier-krigen og Tesla på autopilot</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_c732eb8e-0505-496e-b2eb-8e0505196e68</link>
+      <description>Vi tar for oss uka som gikk, og ser nærmere på kampen mellom de store aktørene i sosiale medier. Sjef for sosiale medier i NRK, Ingeborg Volan forklarer hvorfor Facebook og Google kriger som besatt om dominans på video. Tesla Model S fikk nylig en oppdatering som gjør at den kan kjøre selv. NRKs teknologiekspert Eirik Solheim hjelper oss å holde hendene av rattet.&#xA;&#xA;Programleder: Marius Arnesen&#xA;Produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_c732eb8e-0505-496e-b2eb-8e0505196e68</guid>
+      <pubDate>Fri, 30 Oct 2015 20:18:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2015-10-30_1918_3958.MP3" type="audio/mpeg" length="24239670"></enclosure>
+      <itunes:title>#2 Sosiale medier-krigen og Tesla på autopilot</itunes:title>
+      <itunes:summary>Vi tar for oss uka som gikk, og ser nærmere på kampen mellom de store aktørene i sosiale medier. Sjef for sosiale medier i NRK, Ingeborg Volan forklarer hvorfor Facebook og Google kriger som besatt om dominans på video. Tesla Model S fikk nylig en oppdatering som gjør at den kan kjøre selv. NRKs teknologiekspert Eirik Solheim hjelper oss å holde hendene av rattet.&#xA;&#xA;Programleder: Marius Arnesen&#xA;Produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1514</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2015">2015</podcast:season>
+    </item>
+    <item>
+      <title>Vår første podkast 24.10.2015</title>
+      <link>https://radio.nrk.no/podkast/nrkbeta/l_d851054d-dade-4fcd-9105-4ddade3fcd28</link>
+      <description>Redaktør Marius Arnesen og tidligere redaktør Eirik Solheim har analysert DNAet sitt i USA, men vil vi egentlig vite resultatene? Du kan nå logge inn i NRKs nett-TV, vi snakker med produkteier Trond Johansen om hva det betyr for deg. Anders har tenkt en del på hva &#34;samtidighet&#34; betyr i 2015 og vi prøver å komme til bunns i det. Les artikkelen her: https://nrkbeta.no/2015/10/21/nar-er-na-for-deg/&#xA;&#xA;Produsent: Ståle Grut</description>
+      <guid isPermaLink="false">l_d851054d-dade-4fcd-9105-4ddade3fcd28</guid>
+      <pubDate>Sat, 24 Oct 2015 15:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nrkbeta/nrkbeta_2015-10-24_1345_1323.MP3" type="audio/mpeg" length="26995693"></enclosure>
+      <itunes:title>Vår første podkast 24.10.2015</itunes:title>
+      <itunes:summary>Redaktør Marius Arnesen og tidligere redaktør Eirik Solheim har analysert DNAet sitt i USA, men vil vi egentlig vite resultatene? Du kan nå logge inn i NRKs nett-TV, vi snakker med produkteier Trond Johansen om hva det betyr for deg. Anders har tenkt en del på hva &#34;samtidighet&#34; betyr i 2015 og vi prøver å komme til bunns i det. Les artikkelen her: https://nrkbeta.no/2015/10/21/nar-er-na-for-deg/&#xA;&#xA;Produsent: Ståle Grut</itunes:summary>
+      <itunes:duration>1687</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jmZ-B_Ucor_oTLa4cHuptQ6MSgGGxs_t7iAEKhk9tDvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2015">2015</podcast:season>
+    </item>
+  </channel>
+</rss>

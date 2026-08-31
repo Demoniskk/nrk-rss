@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snøfall</title>
+    <link>https://radio.nrk.no/podkast/snoefall</link>
+    <description>Hør podkastversjonen av julekalenderen «Snøfall», hvor Selma, en foreldreløs jente i en grå og fargeløs tilværelse, begir seg ut på en eventyrlig reise til Snøfall og selveste julenissen.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Thu, 24 Dec 2020 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/snoefall.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Hør podkastversjonen av julekalenderen «Snøfall», hvor Selma, en foreldreløs jente i en grå og fargeløs tilværelse, begir seg ut på en eventyrlig reise til Snøfall og selveste julenissen.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/n3D7kBdE2OnDtSnxwxQUmAvZOkpNd2P9WrBl2M2Hk2LA"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/n3D7kBdE2OnDtSnxwxQUmAvZOkpNd2P9WrBl2M2Hk2LA</url>
+      <title>Snøfall</title>
+      <link>https://radio.nrk.no/podkast/snoefall</link>
+    </image>
+    <item>
+      <title>Reisen til VU (24:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_91686fd4-6a8d-4abe-a86f-d46a8d3abe9f</link>
+      <description>Endelig er det julaften og veien til VU er åpen! Selma må bestemme seg for om hun vil dra tilbake til VU eller om hun skal bli i Snøfall.</description>
+      <guid isPermaLink="false">l_91686fd4-6a8d-4abe-a86f-d46a8d3abe9f</guid>
+      <pubDate>Thu, 24 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/8b2cb3e6-8f57-4f0b-ab6e-a0880f110cc4_0_ID192MP3.mp3" type="audio/mpeg" length="25579179"></enclosure>
+      <itunes:title>Reisen til VU (24:24)</itunes:title>
+      <itunes:summary>Endelig er det julaften og veien til VU er åpen! Selma må bestemme seg for om hun vil dra tilbake til VU eller om hun skal bli i Snøfall.</itunes:summary>
+      <itunes:duration>1065</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mvvA_Km2sRmjLSdSCRLe6gKMBK9OnGYGFh2SdHdmj5mg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Pil og Julius (23:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_725939fb-658f-4938-9939-fb658f893896</link>
+      <description>Julius er tilbake!  Men rekker de  å lese alle brevene og få blåst alle julekulene slik at veien til VU åpner seg?</description>
+      <guid isPermaLink="false">l_725939fb-658f-4938-9939-fb658f893896</guid>
+      <pubDate>Wed, 23 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/a2c94c12-a338-4e42-bb78-6c27495aae3e_0_ID192MP3.mp3" type="audio/mpeg" length="26615403"></enclosure>
+      <itunes:title>Pil og Julius (23:24)</itunes:title>
+      <itunes:summary>Julius er tilbake!  Men rekker de  å lese alle brevene og få blåst alle julekulene slik at veien til VU åpner seg?</itunes:summary>
+      <itunes:duration>1108</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LzAuSO3rRf4orYrZkF_73wUhI4ejyEwFAwkU0xLerSxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Skyggehulen (22:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_c5ea0251-4750-4a13-aa02-5147504a137a</link>
+      <description>Selma, Pil og Frida går inn i Mørke for å finne Skyggehulen.   Winter blir sint når han oppdager at bolleforbudet ikke respekteres. Han stenger bakeriet til Hjerterud. </description>
+      <guid isPermaLink="false">l_c5ea0251-4750-4a13-aa02-5147504a137a</guid>
+      <pubDate>Tue, 22 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/ac3b0623-8d4a-4600-a844-1713d597280c_0_ID192MP3.mp3" type="audio/mpeg" length="27796203"></enclosure>
+      <itunes:title>Skyggehulen (22:24)</itunes:title>
+      <itunes:summary>Selma, Pil og Frida går inn i Mørke for å finne Skyggehulen.   Winter blir sint når han oppdager at bolleforbudet ikke respekteres. Han stenger bakeriet til Hjerterud. </itunes:summary>
+      <itunes:duration>1158</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/sRXp_KN5OUiIBznll05FAgdNoYkhKKXmd5h8V6LxEg5w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Beskjeden fra Orakelet (21:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_07b193ea-acd3-41b7-b193-eaacd3a1b727</link>
+      <description>Selma, Pil og Frida må finne ut hvor Skyggehulen er. Svaret finnes i en bok hjemme hos Winter. Nå trenger de hjelp av de andre barna  for å lykkes. </description>
+      <guid isPermaLink="false">l_07b193ea-acd3-41b7-b193-eaacd3a1b727</guid>
+      <pubDate>Mon, 21 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/368f877f-8003-4fe0-a4b9-ce7ce3c403d6_0_ID192MP3.mp3" type="audio/mpeg" length="27306603"></enclosure>
+      <itunes:title>Beskjeden fra Orakelet (21:24)</itunes:title>
+      <itunes:summary>Selma, Pil og Frida må finne ut hvor Skyggehulen er. Svaret finnes i en bok hjemme hos Winter. Nå trenger de hjelp av de andre barna  for å lykkes. </itunes:summary>
+      <itunes:duration>1137</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WWoNy7X-qOEItja631_iuwrmOBISwRj41gAE_lmFGfGA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Et orakellys (20:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_e5376900-6f57-4951-b769-006f570951c8</link>
+      <description>Et merkelig lys oppsøker Selma og leder henne ut i hagen og ned til elvebredden der en båt ligger å venter på henne.  </description>
+      <guid isPermaLink="false">l_e5376900-6f57-4951-b769-006f570951c8</guid>
+      <pubDate>Sun, 20 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/2a5a3d6c-af4c-4f82-ab44-ea28b1584b3e_0_ID192MP3.mp3" type="audio/mpeg" length="22081131"></enclosure>
+      <itunes:title>Et orakellys (20:24)</itunes:title>
+      <itunes:summary>Et merkelig lys oppsøker Selma og leder henne ut i hagen og ned til elvebredden der en båt ligger å venter på henne.  </itunes:summary>
+      <itunes:duration>919</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2Gsj0uQthhZ_uvoLcRpQFwtQOQy0WZUKNT9X7ZKOkI4w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Håp og skuffelse (19:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_f3e26d99-7104-45ec-a26d-99710475ecfa</link>
+      <description>Sleden til Julius står på torget  i Snøfall. Winter sier at det er en slede som han har laget for å glede alle sammen. Barna sier Winter lyver, men ingen tror på dem.</description>
+      <guid isPermaLink="false">l_f3e26d99-7104-45ec-a26d-99710475ecfa</guid>
+      <pubDate>Sat, 19 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/86ba8990-e82f-43f0-adc8-3a16bccf096d_0_ID192MP3.mp3" type="audio/mpeg" length="25705899"></enclosure>
+      <itunes:title>Håp og skuffelse (19:24)</itunes:title>
+      <itunes:summary>Sleden til Julius står på torget  i Snøfall. Winter sier at det er en slede som han har laget for å glede alle sammen. Barna sier Winter lyver, men ingen tror på dem.</itunes:summary>
+      <itunes:duration>1071</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/39GO_tOf5EIjxUTfnlISlQQXmG1c_jOnYBcoLhfZnDMQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Julius&#39; slede (18:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_ccdb3fc0-5fbe-4986-9b3f-c05fbe6986ff</link>
+      <description>Selma, Frida og Pil våkner hos Trixter og han viser dem at sleden til Julius står hos ham.  Ruth blir glad når det ringer en dame som vil kjøpe Antikvariatet</description>
+      <guid isPermaLink="false">l_ccdb3fc0-5fbe-4986-9b3f-c05fbe6986ff</guid>
+      <pubDate>Fri, 18 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/69d9c892-d0c0-4177-839f-9af47924c721_0_ID192MP3.mp3" type="audio/mpeg" length="25954155"></enclosure>
+      <itunes:title>Julius&#39; slede (18:24)</itunes:title>
+      <itunes:summary>Selma, Frida og Pil våkner hos Trixter og han viser dem at sleden til Julius står hos ham.  Ruth blir glad når det ringer en dame som vil kjøpe Antikvariatet</itunes:summary>
+      <itunes:duration>1081</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/poSMQKZk-44Zy5GaQuVu4QxDwC4tPbvLEj-ngz4ARN4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Nattfuglene (17:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_b6123dab-5964-4b80-923d-ab5964db8036</link>
+      <description>Selma, Pil og Frida sniker seg ut om natten for å lete etter nattfuglene Trixter fortalte om. </description>
+      <guid isPermaLink="false">l_b6123dab-5964-4b80-923d-ab5964db8036</guid>
+      <pubDate>Thu, 17 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/a1351f67-807a-4823-883e-574a89d5d549_0_ID192MP3.mp3" type="audio/mpeg" length="25856235"></enclosure>
+      <itunes:title>Nattfuglene (17:24)</itunes:title>
+      <itunes:summary>Selma, Pil og Frida sniker seg ut om natten for å lete etter nattfuglene Trixter fortalte om. </itunes:summary>
+      <itunes:duration>1077</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/cutCJogvIrDRyaJcSFbrCwaC555FV45TQ49IK4yTNiTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Bolleforbudet (16:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_ead7d8ee-16a9-4c40-97d8-ee16a9dc40e9</link>
+      <description>Selma, Pil og Frida sniker seg ut i hagen for å lete etter den hemmelige vennen til Julius. Winter bestemmer at det er forbudt å spise boller. </description>
+      <guid isPermaLink="false">l_ead7d8ee-16a9-4c40-97d8-ee16a9dc40e9</guid>
+      <pubDate>Wed, 16 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/6b85a5d3-c1e3-4665-b220-1821b494ead4_0_ID192MP3.mp3" type="audio/mpeg" length="23129451"></enclosure>
+      <itunes:title>Bolleforbudet (16:24)</itunes:title>
+      <itunes:summary>Selma, Pil og Frida sniker seg ut i hagen for å lete etter den hemmelige vennen til Julius. Winter bestemmer at det er forbudt å spise boller. </itunes:summary>
+      <itunes:duration>963</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ypjo4L0oJNA32ZFHxzPIgQXi_3GBA1T91wUPujUnL3wQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Julius&#39; hemmelig venn i hagen (15:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_444059db-716f-4995-8059-db716f599591</link>
+      <description>I dagboken til Julius står det at han  skulle treffe sin hemmelig venn i hagen. Selma, Pil og Frida bestemmer seg for å finne ut hvem det er. </description>
+      <guid isPermaLink="false">l_444059db-716f-4995-8059-db716f599591</guid>
+      <pubDate>Tue, 15 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/660fbcc7-0c87-4892-b7b4-9514912c68af_0_ID192MP3.mp3" type="audio/mpeg" length="25397739"></enclosure>
+      <itunes:title>Julius&#39; hemmelig venn i hagen (15:24)</itunes:title>
+      <itunes:summary>I dagboken til Julius står det at han  skulle treffe sin hemmelig venn i hagen. Selma, Pil og Frida bestemmer seg for å finne ut hvem det er. </itunes:summary>
+      <itunes:duration>1058</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7U6qPthiWCRhXXXLuFD6kwEWPC5FLUu624b4DBzqfyvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Winters nye regler (14:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_aefef49a-d624-429c-bef4-9ad624c29ce2</link>
+      <description>Winter innfører mange nye regler i Snøfall. Han vil ha ro og orden og bestemmer at i dag er det ryddedag. (14:24)</description>
+      <guid isPermaLink="false">l_aefef49a-d624-429c-bef4-9ad624c29ce2</guid>
+      <pubDate>Mon, 14 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/1054ad7c-417f-4c77-89ae-9a337a62d8d5_0_ID192MP3.mp3" type="audio/mpeg" length="24334443"></enclosure>
+      <itunes:title>Winters nye regler (14:24)</itunes:title>
+      <itunes:summary>Winter innfører mange nye regler i Snøfall. Han vil ha ro og orden og bestemmer at i dag er det ryddedag. (14:24)</itunes:summary>
+      <itunes:duration>1013</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/q-IGaF9DjWucAsMwiAYm2AFg9Qde5pNsrkfTlxla04nA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Winters portrett (13:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_83f6d7c4-45a4-4fec-b6d7-c445a4bfec7b</link>
+      <description>Winter arrangerer en seremoni der han utnevner seg selv som den nye julenissen.  Pil og Selma blir enig om å  fortsette å lete etter Julius.</description>
+      <guid isPermaLink="false">l_83f6d7c4-45a4-4fec-b6d7-c445a4bfec7b</guid>
+      <pubDate>Sun, 13 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/12194324-bac6-4728-aba0-77a07f8253a5_0_ID192MP3.mp3" type="audio/mpeg" length="25988139"></enclosure>
+      <itunes:title>Winters portrett (13:24)</itunes:title>
+      <itunes:summary>Winter arrangerer en seremoni der han utnevner seg selv som den nye julenissen.  Pil og Selma blir enig om å  fortsette å lete etter Julius.</itunes:summary>
+      <itunes:duration>1082</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5EB6zUnxE-07nTG6mKZ47wdm0SmFI28MzUIkG5JXv8SA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Snøfallkampen (12:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_bd95cca7-f12f-4e37-95cc-a7f12f9e3711</link>
+      <description>Winter påstår at Julius ikke vil være julenisse mer. Det blir heldigvis Snøfallkamp som alle barna har gledet seg veldig til.</description>
+      <guid isPermaLink="false">l_bd95cca7-f12f-4e37-95cc-a7f12f9e3711</guid>
+      <pubDate>Sat, 12 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/2f2cb590-445e-4d29-80df-5d3e34606946_0_ID192MP3.mp3" type="audio/mpeg" length="20637099"></enclosure>
+      <itunes:title>Snøfallkampen (12:24)</itunes:title>
+      <itunes:summary>Winter påstår at Julius ikke vil være julenisse mer. Det blir heldigvis Snøfallkamp som alle barna har gledet seg veldig til.</itunes:summary>
+      <itunes:duration>859</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p8TGXtWSlCb9BTqlSE-htgHuRCAfdIeUduZNdlURPXTA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Normann finner Julius sin lue (11:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_5d3ee91b-1a58-4fb0-bee9-1b1a58bfb0b4</link>
+      <description>De leter etter Julius på den store vidda. Winter legger fra seg Julius sin lue  slik at noen lett finner den. Normann finner lua og alle tror nå at Julius  har kastet lua for godt. </description>
+      <guid isPermaLink="false">l_5d3ee91b-1a58-4fb0-bee9-1b1a58bfb0b4</guid>
+      <pubDate>Fri, 11 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/dc666777-ebf1-4ded-88f3-b9f0be191044_0_ID192MP3.mp3" type="audio/mpeg" length="24658155"></enclosure>
+      <itunes:title>Normann finner Julius sin lue (11:24)</itunes:title>
+      <itunes:summary>De leter etter Julius på den store vidda. Winter legger fra seg Julius sin lue  slik at noen lett finner den. Normann finner lua og alle tror nå at Julius  har kastet lua for godt. </itunes:summary>
+      <itunes:duration>1027</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6erBZ5E7JHx01gYYh3R4dQyqIff6gwCmW4FReItC7Bbw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Den nye lærlingen (10:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_c94df17f-5241-492d-8df1-7f5241292d1f</link>
+      <description>Winter bestemmer at i årets nissefest blir et møte bare for de voksne. Selma og Pil sniker seg inn på møtet. De må få vite hvem den nye lærlingen er! </description>
+      <guid isPermaLink="false">l_c94df17f-5241-492d-8df1-7f5241292d1f</guid>
+      <pubDate>Thu, 10 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/15a11272-15d8-499b-b874-f7f3d60e06b2_0_ID192MP3.mp3" type="audio/mpeg" length="23196843"></enclosure>
+      <itunes:title>Den nye lærlingen (10:24)</itunes:title>
+      <itunes:summary>Winter bestemmer at i årets nissefest blir et møte bare for de voksne. Selma og Pil sniker seg inn på møtet. De må få vite hvem den nye lærlingen er! </itunes:summary>
+      <itunes:duration>966</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5MyRdeyuU91PhaPw5-SNMwXIyV0LmRGQbl6mncFGEFTA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Winter inviterer Selma på middag (9:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_026c71b9-382c-4bb8-ac71-b9382c2bb870</link>
+      <description>IQ sier til Winter at Selma kanskje er den nye lærlingen. Winter får panikk og inviterer Selma på middag. Han må vite om Julius har fortale henne hvem som blir den nye lærlingen.</description>
+      <guid isPermaLink="false">l_026c71b9-382c-4bb8-ac71-b9382c2bb870</guid>
+      <pubDate>Wed, 09 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/dcb9bcc8-c89e-4a7e-92fb-3aeb4d37bf67_0_ID192MP3.mp3" type="audio/mpeg" length="21857643"></enclosure>
+      <itunes:title>Winter inviterer Selma på middag (9:24)</itunes:title>
+      <itunes:summary>IQ sier til Winter at Selma kanskje er den nye lærlingen. Winter får panikk og inviterer Selma på middag. Han må vite om Julius har fortale henne hvem som blir den nye lærlingen.</itunes:summary>
+      <itunes:duration>910</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GwsWcIQXqKPqHjDcWecKrAB8busFsvf8p1Zd-g8Pvc9g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Winter utnevner seg selv som vikar for Julius (8:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_7c8fab84-79f6-4a79-8fab-8479f6ba791a</link>
+      <description>Frida viser Selma rundt i Snøfall. Pil overhører at Frida sier han er slitsom å være sammen med. Winter annonserer over radioen at han er vikar for Julius så  lenge han er borte. </description>
+      <guid isPermaLink="false">l_7c8fab84-79f6-4a79-8fab-8479f6ba791a</guid>
+      <pubDate>Tue, 08 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/90ed94cc-9d4e-4ed2-b7a6-8315c0a80bb2_0_ID192MP3.mp3" type="audio/mpeg" length="20692395"></enclosure>
+      <itunes:title>Winter utnevner seg selv som vikar for Julius (8:24)</itunes:title>
+      <itunes:summary>Frida viser Selma rundt i Snøfall. Pil overhører at Frida sier han er slitsom å være sammen med. Winter annonserer over radioen at han er vikar for Julius så  lenge han er borte. </itunes:summary>
+      <itunes:duration>862</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vA4j7TUr0KOy5ah7hO6G0QEJtN31iTylkbg1B7_c3lyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Julius er sporløst forsvunnet (7:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_337f7715-91fe-44d6-bf77-1591fe04d66f</link>
+      <description>Julius er ikke der når Selma våkner denne morgenen.  Selma drar ut i hagen for å lete, men  kan ikke finne han noe sted. Da dukker Hjerterud opp.</description>
+      <guid isPermaLink="false">l_337f7715-91fe-44d6-bf77-1591fe04d66f</guid>
+      <pubDate>Mon, 07 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/37f4d50b-2a55-4916-86f8-acdab334ef4b_0_ID192MP3.mp3" type="audio/mpeg" length="21692331"></enclosure>
+      <itunes:title>Julius er sporløst forsvunnet (7:24)</itunes:title>
+      <itunes:summary>Julius er ikke der når Selma våkner denne morgenen.  Selma drar ut i hagen for å lete, men  kan ikke finne han noe sted. Da dukker Hjerterud opp.</itunes:summary>
+      <itunes:duration>903</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-hdVOTOQ62fqaBe0SADhdQjRSCO-Nhu6OdKfmC52jX5A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Steinen i Mørke (6:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_0445b18c-ac90-4411-85b1-8cac9004116f</link>
+      <description>Noe mørkt tok plass i Winter da han fikk vite at han ikke er den nye lærlingen. Han  går til steinen i Mørke og lar seg fylle med ondskap.</description>
+      <guid isPermaLink="false">l_0445b18c-ac90-4411-85b1-8cac9004116f</guid>
+      <pubDate>Sun, 06 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/77b617de-7956-4786-849d-544a64c3589f_0_ID192MP3.mp3" type="audio/mpeg" length="22258539"></enclosure>
+      <itunes:title>Steinen i Mørke (6:24)</itunes:title>
+      <itunes:summary>Noe mørkt tok plass i Winter da han fikk vite at han ikke er den nye lærlingen. Han  går til steinen i Mørke og lar seg fylle med ondskap.</itunes:summary>
+      <itunes:duration>927</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WiKFn9sOcBgezYTUkjLpyQ-lpTHeQ7JNEbpCCyjAlmCw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title> Julius (5:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_b687b6e2-7006-427d-87b6-e27006827da8</link>
+      <description>Selma går hele dagen på den kalde vidda og endelig ser hun lys langt der framme. Det er Snøfall. Hjemme er Ruth opprørt fordi hun tror at Barnets Beste har hentet Selma uten å gi beskjed.</description>
+      <guid isPermaLink="false">l_b687b6e2-7006-427d-87b6-e27006827da8</guid>
+      <pubDate>Sat, 05 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/7110e3e9-ca7e-412b-a40e-17c118367c68_0_ID192MP3.mp3" type="audio/mpeg" length="20091627"></enclosure>
+      <itunes:title> Julius (5:24)</itunes:title>
+      <itunes:summary>Selma går hele dagen på den kalde vidda og endelig ser hun lys langt der framme. Det er Snøfall. Hjemme er Ruth opprørt fordi hun tror at Barnets Beste har hentet Selma uten å gi beskjed.</itunes:summary>
+      <itunes:duration>837</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/z2VLU0jLOpVjnJGL5a-YFAaEkdRpR0qGLgBhi07DNWBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title> Brevet fra Selma (4:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_167dcfc9-379e-43b0-bdcf-c9379e93b0c8</link>
+      <description>Julius får brevet fra Selma og lurer på om hun kan være datteren til sønnen hans, Albin. Selma og Ruth havner i en voldsom krangel som gjør de begge veldig opprørt. </description>
+      <guid isPermaLink="false">l_167dcfc9-379e-43b0-bdcf-c9379e93b0c8</guid>
+      <pubDate>Fri, 04 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/ac47b297-5d21-4d44-81b4-674a72a7ab1d_0_ID192MP3.mp3" type="audio/mpeg" length="20060523"></enclosure>
+      <itunes:title> Brevet fra Selma (4:24)</itunes:title>
+      <itunes:summary>Julius får brevet fra Selma og lurer på om hun kan være datteren til sønnen hans, Albin. Selma og Ruth havner i en voldsom krangel som gjør de begge veldig opprørt. </itunes:summary>
+      <itunes:duration>835</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xyawAKWU4Sr05dYxN30HjgwilciHjJM3KiofFhYzja7A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title> Orakelet kaller (3:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_d840eb55-14f9-40ff-80eb-5514f910ffc5</link>
+      <description>Orakelet kaller på Julius og han blir ellevill av begeistring når han får vite hvem som blir den nye lærlingen. Winter misforstår og tror det er han som er den nye lærlingen.</description>
+      <guid isPermaLink="false">l_d840eb55-14f9-40ff-80eb-5514f910ffc5</guid>
+      <pubDate>Thu, 03 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/ad067fa8-fc2e-463f-aea5-5ec056ace0bd_0_ID192MP3.mp3" type="audio/mpeg" length="24072939"></enclosure>
+      <itunes:title> Orakelet kaller (3:24)</itunes:title>
+      <itunes:summary>Orakelet kaller på Julius og han blir ellevill av begeistring når han får vite hvem som blir den nye lærlingen. Winter misforstår og tror det er han som er den nye lærlingen.</itunes:summary>
+      <itunes:duration>1002</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EhPZgg-uIn8UDUmc6SFmSQaIqRcMZDYT2EoF-kUuoanQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Ruth arver et antikvariat (2:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_20773777-0552-4701-b737-770552e7017f</link>
+      <description>Ruth arver et antikvariat og Selma synes det er helt fantastisk. Håkon tror på julenissen og Selma blir inspirert til å skrive et julebrev hvor hun ønsker seg en ekte familie. </description>
+      <guid isPermaLink="false">l_20773777-0552-4701-b737-770552e7017f</guid>
+      <pubDate>Wed, 02 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/ea72874d-34c0-484b-a358-0f5a51edda79_0_ID192MP3.mp3" type="audio/mpeg" length="18293355"></enclosure>
+      <itunes:title>Ruth arver et antikvariat (2:24)</itunes:title>
+      <itunes:summary>Ruth arver et antikvariat og Selma synes det er helt fantastisk. Håkon tror på julenissen og Selma blir inspirert til å skrive et julebrev hvor hun ønsker seg en ekte familie. </itunes:summary>
+      <itunes:duration>762</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yEhgGQY4vsnot0FBSNYVjAlEvM9qwNF-uZzXmGzUfqhg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Selma og Ruth (1:24)</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_dd6b457c-5d01-43dd-ab45-7c5d0133dd49</link>
+      <description>Selma er 9 år. Hun bor sammen med Ruth og hunden Casper på Haukebakken. Det Selma ikke vet er at  det finnes et sted langt mot nord som heter Snøfall, og der bor selveste Julenissen. </description>
+      <guid isPermaLink="false">l_dd6b457c-5d01-43dd-ab45-7c5d0133dd49</guid>
+      <pubDate>Tue, 01 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/6d35b909-d2c0-4ef3-8d53-245983972582_0_ID192MP3.mp3" type="audio/mpeg" length="23820651"></enclosure>
+      <itunes:title>Selma og Ruth (1:24)</itunes:title>
+      <itunes:summary>Selma er 9 år. Hun bor sammen med Ruth og hunden Casper på Haukebakken. Det Selma ikke vet er at  det finnes et sted langt mot nord som heter Snøfall, og der bor selveste Julenissen. </itunes:summary>
+      <itunes:duration>992</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/RxJukXoEXG5CTw5qgOrPtggwWFhAfz9aLy39wdOjFfxQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Smakebit: Snøfall som podkast</title>
+      <link>https://radio.nrk.no/podkast/snoefall/l_311374ba-6e9b-4bcc-9374-ba6e9b3bcc11</link>
+      <description>Selma, en foreldreløs jente i en grå og fargeløs tilværelse, begir seg ut på en eventyrlig reise til Snøfall og selveste julenissen.</description>
+      <guid isPermaLink="false">l_311374ba-6e9b-4bcc-9374-ba6e9b3bcc11</guid>
+      <pubDate>Sat, 28 Nov 2020 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/snoefall/7eafeb96-16e2-4dea-8f72-bfe62c13cbff_0_ID192MP3.mp3" type="audio/mpeg" length="942734"></enclosure>
+      <itunes:title>Smakebit: Snøfall som podkast</itunes:title>
+      <itunes:summary>Selma, en foreldreløs jente i en grå og fargeløs tilværelse, begir seg ut på en eventyrlig reise til Snøfall og selveste julenissen.</itunes:summary>
+      <itunes:duration>39</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YP_9NN-orNZxTQg49g9lcQabcjW_b4Cu_VdBBmj0ni8w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Binnabánnaš &amp; Ujujju</title>
+    <link>https://radio.nrk.no/podkast/binnabnna_ujujju</link>
+    <description>Binnabánnaš og Ujujju er to artige små skruer som alltid er nysgjerrige på nye ting.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 19 Jun 2026 04:08:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/binnabnna_ujujju.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Binnabánnaš og Ujujju er to artige små skruer som alltid er nysgjerrige på nye ting.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ</url>
+      <title>Binnabánnaš &amp; Ujujju</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju</link>
+    </image>
+    <item>
+      <title>Halloween</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_e65c4dcb-8df2-4bdf-9c4d-cb8df2bbdf41</link>
+      <description>Binnabánnaš ja ustibáččat halloweenstallet – Binnabánnaš og vennene feirer halloween.</description>
+      <guid isPermaLink="false">l_e65c4dcb-8df2-4bdf-9c4d-cb8df2bbdf41</guid>
+      <pubDate>Fri, 19 Jun 2026 06:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/e65c4dcb-8df2-4bdf-9c4d-cb8df2bbdf41_1_ID192MP3.mp3" type="audio/mpeg" length="14443820"></enclosure>
+      <itunes:title>Halloween</itunes:title>
+      <itunes:summary>Binnabánnaš ja ustibáččat halloweenstallet – Binnabánnaš og vennene feirer halloween.</itunes:summary>
+      <itunes:duration>601</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vcd9PMazCVbTrFVEeLjD_AUhwupPXq_-sCrwRIhflz3A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Lággen / Slåtten</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_5acfc7ad-0b61-4917-8fc7-ad0b6109172d</link>
+      <description>Go ustibašguovttoš lággeba suinniid –Vennene våre er med på høyonna.</description>
+      <guid isPermaLink="false">l_5acfc7ad-0b61-4917-8fc7-ad0b6109172d</guid>
+      <pubDate>Fri, 19 Jun 2026 06:07:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/5acfc7ad-0b61-4917-8fc7-ad0b6109172d_1_ID192MP3.mp3" type="audio/mpeg" length="15152300"></enclosure>
+      <itunes:title>Lággen / Slåtten</itunes:title>
+      <itunes:summary>Go ustibašguovttoš lággeba suinniid –Vennene våre er med på høyonna.</itunes:summary>
+      <itunes:duration>631</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Čiehkastallan / Leke gjemsel</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_19fe0e71-21ba-4b8a-be0e-7121bacb8a53</link>
+      <description>Ustibašguovttos čiehkkástallaba – Vennene leker gjemsel.</description>
+      <guid isPermaLink="false">l_19fe0e71-21ba-4b8a-be0e-7121bacb8a53</guid>
+      <pubDate>Fri, 19 Jun 2026 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/19fe0e71-21ba-4b8a-be0e-7121bacb8a53_1_ID192MP3.mp3" type="audio/mpeg" length="16749548"></enclosure>
+      <itunes:title>Čiehkastallan / Leke gjemsel</itunes:title>
+      <itunes:summary>Ustibašguovttos čiehkkástallaba – Vennene leker gjemsel.</itunes:summary>
+      <itunes:duration>697</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Veahkebiilla / Budbilen</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_bd4914cc-aa2e-40ec-8914-ccaa2ee0ecf9</link>
+      <description>Ujujju fuobmá alcces ráhkadit biilla – Ujujju bygger sin egen bil, og kjører rundt for å hjelpe.</description>
+      <guid isPermaLink="false">l_bd4914cc-aa2e-40ec-8914-ccaa2ee0ecf9</guid>
+      <pubDate>Fri, 19 Jun 2026 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/bd4914cc-aa2e-40ec-8914-ccaa2ee0ecf9_1_ID192MP3.mp3" type="audio/mpeg" length="16749548"></enclosure>
+      <itunes:title>Veahkebiilla / Budbilen</itunes:title>
+      <itunes:summary>Ujujju fuobmá alcces ráhkadit biilla – Ujujju bygger sin egen bil, og kjører rundt for å hjelpe.</itunes:summary>
+      <itunes:duration>697</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ajEjrxOzPNgKOKCzbjGSbw-lqOiwcbtzlBFbwWHcGKkA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Siessá / Tante</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_49a47c20-7e23-4dfc-a47c-207e233dfcfc</link>
+      <description>Ujujju vuolgá siesáin stoahkat – Ujujju drar for å leke med tante.</description>
+      <guid isPermaLink="false">l_49a47c20-7e23-4dfc-a47c-207e233dfcfc</guid>
+      <pubDate>Fri, 19 Jun 2026 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/49a47c20-7e23-4dfc-a47c-207e233dfcfc_1_ID192MP3.mp3" type="audio/mpeg" length="11867372"></enclosure>
+      <itunes:title>Siessá / Tante</itunes:title>
+      <itunes:summary>Ujujju vuolgá siesáin stoahkat – Ujujju drar for å leke med tante.</itunes:summary>
+      <itunes:duration>494</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JT2-kv4uGWHnWiIbOH6Wtge7d_rVWHQti-XIjtkxb7vg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Garjá / Kråka</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_859d2c40-fcb1-4937-9d2c-40fcb17937bc</link>
+      <description>Ujujju deaivvada garjjáin gii rivve sus juoidá – Ujujju møter kråka som stjeler noe fra ham.</description>
+      <guid isPermaLink="false">l_859d2c40-fcb1-4937-9d2c-40fcb17937bc</guid>
+      <pubDate>Fri, 19 Jun 2026 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/859d2c40-fcb1-4937-9d2c-40fcb17937bc_1_ID192MP3.mp3" type="audio/mpeg" length="13747436"></enclosure>
+      <itunes:title>Garjá / Kråka</itunes:title>
+      <itunes:summary>Ujujju deaivvada garjjáin gii rivve sus juoidá – Ujujju møter kråka som stjeler noe fra ham.</itunes:summary>
+      <itunes:duration>572</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8W3h1sS5blE7M2YIpp8q9gzkRiqf1IeqGAYY5RbcnXnQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Doaktára luhtte / Hos legen</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_892e8ac3-eb1b-40b8-ae8a-c3eb1bd0b863</link>
+      <description>Doavttir dikšu Binnabánnaža doddjon gieđa – Legen behandler Binnabánnaš sitt armbrudd.</description>
+      <guid isPermaLink="false">l_892e8ac3-eb1b-40b8-ae8a-c3eb1bd0b863</guid>
+      <pubDate>Fri, 19 Jun 2026 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/892e8ac3-eb1b-40b8-ae8a-c3eb1bd0b863_1_ID192MP3.mp3" type="audio/mpeg" length="8995436"></enclosure>
+      <itunes:title>Doaktára luhtte / Hos legen</itunes:title>
+      <itunes:summary>Doavttir dikšu Binnabánnaža doddjon gieđa – Legen behandler Binnabánnaš sitt armbrudd.</itunes:summary>
+      <itunes:duration>374</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PeOqHhfAZ3PuVZOQjzgNHgTPmOoWDQ56qntYPEbhQwyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Barti / Ulykken</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_e96b29a1-2c70-4005-ab29-a12c7020058a</link>
+      <description>Binnabánnaš bártida, Ujujju riŋge 113 ja helikohpter boahtá – Binnabánnaš faller, Ujujju ringer 113 og et helikopter kommer.</description>
+      <guid isPermaLink="false">l_e96b29a1-2c70-4005-ab29-a12c7020058a</guid>
+      <pubDate>Fri, 19 Jun 2026 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/e96b29a1-2c70-4005-ab29-a12c7020058a_1_ID192MP3.mp3" type="audio/mpeg" length="13787756"></enclosure>
+      <itunes:title>Barti / Ulykken</itunes:title>
+      <itunes:summary>Binnabánnaš bártida, Ujujju riŋge 113 ja helikohpter boahtá – Binnabánnaš faller, Ujujju ringer 113 og et helikopter kommer.</itunes:summary>
+      <itunes:duration>574</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BZ10XIivFk_8G57PFkpG7gCeUxQy0ohI8eO7TCqeKqZw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Hund / Beana</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_5024c60a-9a0c-4f48-a4c6-0a9a0cbf48e3</link>
+      <description>Binnabánnaš lea láhppán iežas suohpana, Ujujju viežžá veahki – Binnabánnaš har rotet bort lassoen, så Ujujju henter en hjelper.</description>
+      <guid isPermaLink="false">l_5024c60a-9a0c-4f48-a4c6-0a9a0cbf48e3</guid>
+      <pubDate>Fri, 19 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/5024c60a-9a0c-4f48-a4c6-0a9a0cbf48e3_1_ID192MP3.mp3" type="audio/mpeg" length="14042348"></enclosure>
+      <itunes:title>Hund / Beana</itunes:title>
+      <itunes:summary>Binnabánnaš lea láhppán iežas suohpana, Ujujju viežžá veahki – Binnabánnaš har rotet bort lassoen, så Ujujju henter en hjelper.</itunes:summary>
+      <itunes:duration>585</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tVdAZbwmvNjC6bl9wuFzggliJeuFjrLaY7rvAhpk5pmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
+    <item>
+      <title>Beaivváš máhccá / Sola kommer</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_a3f1b4e6-274c-41b6-b1b4-e6274ce1b637</link>
+      <description>Binnabánnaš guovttos Ujujjuin dearvaheaba beaivváža – Binnabánnaš og Ujujju hilser sola velkommen tilbake.</description>
+      <guid isPermaLink="false">l_a3f1b4e6-274c-41b6-b1b4-e6274ce1b637</guid>
+      <pubDate>Mon, 25 Aug 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/16382659-bee3-4a63-a3d5-227139b0749a_0_ID192MP3.mp3" type="audio/mpeg" length="12060333"></enclosure>
+      <itunes:title>Beaivváš máhccá / Sola kommer</itunes:title>
+      <itunes:summary>Binnabánnaš guovttos Ujujjuin dearvaheaba beaivváža – Binnabánnaš og Ujujju hilser sola velkommen tilbake.</itunes:summary>
+      <itunes:duration>502</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zbwaWoydUzHsBt6Pel6HVQfXv4duZ0mbQrFTr-_enB3A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Murren / I vedskogen</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_9dee8144-102e-4481-ae81-44102e54813a</link>
+      <description>Binnabánnaš guovttos Ujujjuin murreba dálvái – Binnabánnaš og Ujujju ordner med ved til vinteren.</description>
+      <guid isPermaLink="false">l_9dee8144-102e-4481-ae81-44102e54813a</guid>
+      <pubDate>Mon, 18 Aug 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/f2104b6a-2a42-41d4-8a79-eb5a08ff410c_0_ID192MP3.mp3" type="audio/mpeg" length="15336621"></enclosure>
+      <itunes:title>Murren / I vedskogen</itunes:title>
+      <itunes:summary>Binnabánnaš guovttos Ujujjuin murreba dálvái – Binnabánnaš og Ujujju ordner med ved til vinteren.</itunes:summary>
+      <itunes:duration>638</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rFBOprrq3azgX2QTnnd9Yw5Jxwy0lVCEyFGEekeL4mAg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Goddesáhpan Poff– Lemenet Poff</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_4adb2525-fd31-4cdc-9b25-25fd318cdc4a</link>
+      <description>Goddesábin Poff orru Binnabánnaža guovtto Ujujjuin goađis – Lemenet Poff bor i gammen til Binnabánnaš og Ujujju.</description>
+      <guid isPermaLink="false">l_4adb2525-fd31-4cdc-9b25-25fd318cdc4a</guid>
+      <pubDate>Mon, 11 Aug 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/b904f894-4e22-4972-b816-a6ab47e4fe52_0_ID192MP3.mp3" type="audio/mpeg" length="17190189"></enclosure>
+      <itunes:title>Goddesáhpan Poff– Lemenet Poff</itunes:title>
+      <itunes:summary>Goddesábin Poff orru Binnabánnaža guovtto Ujujjuin goađis – Lemenet Poff bor i gammen til Binnabánnaš og Ujujju.</itunes:summary>
+      <itunes:duration>716</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tFfmYLpdYFKklA8WWIW1Iw-ch8xF5k0iK3LEIhVxRTWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Reabbá / Krabbelure</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_cd71c08c-c1d5-430b-b1c0-8cc1d5730b28</link>
+      <description>Ujujju čájeha reappá Binnabánnažii – Ujujju viser krabben til Binnabánnaš.</description>
+      <guid isPermaLink="false">l_cd71c08c-c1d5-430b-b1c0-8cc1d5730b28</guid>
+      <pubDate>Mon, 04 Aug 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/f4ba4ec6-45df-49d6-80a1-8ed0ce2c74c8_0_ID192MP3.mp3" type="audio/mpeg" length="15631533"></enclosure>
+      <itunes:title>Reabbá / Krabbelure</itunes:title>
+      <itunes:summary>Ujujju čájeha reappá Binnabánnažii – Ujujju viser krabben til Binnabánnaš.</itunes:summary>
+      <itunes:duration>651</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/f-M9SKo_8jDo5tI5XKBtWgC0Z7dr1l2g5vWUSZVFaXdQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Fanasmátki / På båttur</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_d60b7b58-5f3d-40b7-8b7b-585f3d70b7a1</link>
+      <description>Ujujju čájeha mearraelliid Binnabánnažii – Ujujju viser Binnabánnaš noe av dyrelivet i havet.</description>
+      <guid isPermaLink="false">l_d60b7b58-5f3d-40b7-8b7b-585f3d70b7a1</guid>
+      <pubDate>Mon, 28 Jul 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/4f6b05ed-3d0f-4c38-94f8-9752396e48b3_0_ID192MP3.mp3" type="audio/mpeg" length="18007533"></enclosure>
+      <itunes:title>Fanasmátki / På båttur</itunes:title>
+      <itunes:summary>Ujujju čájeha mearraelliid Binnabánnažii – Ujujju viser Binnabánnaš noe av dyrelivet i havet.</itunes:summary>
+      <itunes:duration>750</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/F6ZRY2Sc5Ar5zlEJJbwBUAOekm88eU3hGlVmIapWfRAQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Sarren / På blåbærtur</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_3662128c-a1a7-4861-a212-8ca1a7e861fc</link>
+      <description>Ustibaš-guovttos vuolgiba čoaggit duhát sarrida – Binnabánnaš og Ujujju skal plukke tusen blåbær.</description>
+      <guid isPermaLink="false">l_3662128c-a1a7-4861-a212-8ca1a7e861fc</guid>
+      <pubDate>Mon, 21 Jul 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/def28b65-2740-48d4-b727-d45147047158_0_ID192MP3.mp3" type="audio/mpeg" length="12305709"></enclosure>
+      <itunes:title>Sarren / På blåbærtur</itunes:title>
+      <itunes:summary>Ustibaš-guovttos vuolgiba čoaggit duhát sarrida – Binnabánnaš og Ujujju skal plukke tusen blåbær.</itunes:summary>
+      <itunes:duration>512</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xt8PTO4tlQAdMPzP9n_joQywW-XPsOyV7dC2BVIhoeqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Oarri / Ekornet</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_69066f94-fedd-439d-866f-94fedd439daf</link>
+      <description>Oarri skuviha Binnabánnaš guovtto Ujujjuin lusa – Ekornet lager kaos hos Binnabánnaš og Ujujju.</description>
+      <guid isPermaLink="false">l_69066f94-fedd-439d-866f-94fedd439daf</guid>
+      <pubDate>Mon, 14 Jul 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/8efc2ec1-a866-4efd-be9a-05c2cc247cca_0_ID192MP3.mp3" type="audio/mpeg" length="15842925"></enclosure>
+      <itunes:title>Oarri / Ekornet</itunes:title>
+      <itunes:summary>Oarri skuviha Binnabánnaš guovtto Ujujjuin lusa – Ekornet lager kaos hos Binnabánnaš og Ujujju.</itunes:summary>
+      <itunes:duration>660</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QrBmnWnRgDh150-NZ6ts-QLczmhw3QfIhcTYo65PyEfQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Ulli ja fiervá / Ting i fjæra</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_9843fa4a-4943-4e4a-83fa-4a49438e4aea</link>
+      <description>Binnabánnaš guovttos Ujujjuin stoakhaba fiervás – Binnabánnaš og Ujujju går på skattejakti fjæra.</description>
+      <guid isPermaLink="false">l_9843fa4a-4943-4e4a-83fa-4a49438e4aea</guid>
+      <pubDate>Mon, 07 Jul 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/deacd717-03ea-408e-9904-0e051bfaa10a_0_ID192MP3.mp3" type="audio/mpeg" length="15182253"></enclosure>
+      <itunes:title>Ulli ja fiervá / Ting i fjæra</itunes:title>
+      <itunes:summary>Binnabánnaš guovttos Ujujjuin stoakhaba fiervás – Binnabánnaš og Ujujju går på skattejakti fjæra.</itunes:summary>
+      <itunes:duration>632</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gdvJ4fIhFgrCHOQ0pFeJAgb4e2hawRRBbk6HOtLucCpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Bussáčivggat / Kattunger</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_2c8a427b-ff67-4926-8a42-7bff67c926b2</link>
+      <description>Binnabánnaš guovttos Ujujjuin gávdnaba golbma hearvás bussáčivgga  – Binnabánnaš og Ujujju møter tre artige kattunger.</description>
+      <guid isPermaLink="false">l_2c8a427b-ff67-4926-8a42-7bff67c926b2</guid>
+      <pubDate>Mon, 30 Jun 2025 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/11bda0d0-1ce6-4988-a205-bd425f7f14f2_0_ID192MP3.mp3" type="audio/mpeg" length="17876205"></enclosure>
+      <itunes:title>Bussáčivggat / Kattunger</itunes:title>
+      <itunes:summary>Binnabánnaš guovttos Ujujjuin gávdnaba golbma hearvás bussáčivgga  – Binnabánnaš og Ujujju møter tre artige kattunger.</itunes:summary>
+      <itunes:duration>744</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nRsMKDb6XcaMobjouICVughYnppIE2qjay8X0O7reXOw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Gaskaijabeaivváš / Midnattsol</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_810c4a17-1b75-4cb7-8c4a-171b75ccb7d1</link>
+      <description>Binnabánnaš hálida Ujujjuin stoahkat olgun, ihkku – Binnabánnaš vil leke ute midt på natta med Ujujju.</description>
+      <guid isPermaLink="false">l_810c4a17-1b75-4cb7-8c4a-171b75ccb7d1</guid>
+      <pubDate>Mon, 30 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/4650158f-c600-43f2-8391-d5b46331fede_0_ID192MP3.mp3" type="audio/mpeg" length="18687213"></enclosure>
+      <itunes:title>Gaskaijabeaivváš / Midnattsol</itunes:title>
+      <itunes:summary>Binnabánnaš hálida Ujujjuin stoahkat olgun, ihkku – Binnabánnaš vil leke ute midt på natta med Ujujju.</itunes:summary>
+      <itunes:duration>778</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HiFp0-z4P1FbtygGHddgyQpdJfZxH_6ARyuiAMPZ9wmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Suhttan / Sint</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_0855cac7-cfaf-4a69-95ca-c7cfaf4a6973</link>
+      <description>Binnabánnaš lea čeahppi njoarostit, muhto ii fal go suhttiha. Lihkus lea su buoremus ustit Ujujju das lahka jeđđemin su.</description>
+      <guid isPermaLink="false">l_0855cac7-cfaf-4a69-95ca-c7cfaf4a6973</guid>
+      <pubDate>Fri, 20 Dec 2024 06:08:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/df954d99-1045-408d-8cf6-29af4466406c_0_ID192MP3.mp3" type="audio/mpeg" length="14035437"></enclosure>
+      <itunes:title>Suhttan / Sint</itunes:title>
+      <itunes:summary>Binnabánnaš lea čeahppi njoarostit, muhto ii fal go suhttiha. Lihkus lea su buoremus ustit Ujujju das lahka jeđđemin su.</itunes:summary>
+      <itunes:duration>584</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Juovllat / Julen</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_0f72dc85-b965-4d56-b2dc-85b965dd56c4</link>
+      <description>Binnabánnaža guovtto Ujujjuin juovllat eai šaddan justa nu go lávejit.</description>
+      <guid isPermaLink="false">l_0f72dc85-b965-4d56-b2dc-85b965dd56c4</guid>
+      <pubDate>Fri, 20 Dec 2024 06:07:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/5e745581-201e-496e-9404-d80733b204ef_0_ID192MP3.mp3" type="audio/mpeg" length="16344621"></enclosure>
+      <itunes:title>Juovllat / Julen</itunes:title>
+      <itunes:summary>Binnabánnaža guovtto Ujujjuin juovllat eai šaddan justa nu go lávejit.</itunes:summary>
+      <itunes:duration>680</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Oaivi / Hode</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_62aa0930-113a-4b20-aa09-30113a5b20ce</link>
+      <description>Binnabánnaš guovttos Ujujjuin stoahkabaa prinsan ja prinseassán, goappásge kruvdnu oaivvis. Binnabánnažis lea soabbeheasta, Silki.</description>
+      <guid isPermaLink="false">l_62aa0930-113a-4b20-aa09-30113a5b20ce</guid>
+      <pubDate>Fri, 20 Dec 2024 06:06:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/0e391b83-f640-48d9-b15d-7c5a18c2ae7d_0_ID192MP3.mp3" type="audio/mpeg" length="10241325"></enclosure>
+      <itunes:title>Oaivi / Hode</itunes:title>
+      <itunes:summary>Binnabánnaš guovttos Ujujjuin stoahkabaa prinsan ja prinseassán, goappásge kruvdnu oaivvis. Binnabánnažis lea soabbeheasta, Silki.</itunes:summary>
+      <itunes:duration>426</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Buolaš / Kulde</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_db3bf979-79e5-4d39-bbf9-7979e5fd39bb</link>
+      <description>Binnabánnaš hástala buolašádjá ja Ujujju fuobmá somás čáhcestohkosa.</description>
+      <guid isPermaLink="false">l_db3bf979-79e5-4d39-bbf9-7979e5fd39bb</guid>
+      <pubDate>Fri, 20 Dec 2024 06:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/68051a12-4db9-4d93-a35c-9ba77f9ee9cd_0_ID192MP3.mp3" type="audio/mpeg" length="15663789"></enclosure>
+      <itunes:title>Buolaš / Kulde</itunes:title>
+      <itunes:summary>Binnabánnaš hástala buolašádjá ja Ujujju fuobmá somás čáhcestohkosa.</itunes:summary>
+      <itunes:duration>652</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Mánnu / Månen</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_b8e5803a-f16b-4bfa-a580-3af16bcbfabb</link>
+      <description>Binnabánnaš liiko mánnui. Leago mánnu vuostá?</description>
+      <guid isPermaLink="false">l_b8e5803a-f16b-4bfa-a580-3af16bcbfabb</guid>
+      <pubDate>Fri, 20 Dec 2024 06:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/31ce0d2e-afe1-4ace-beed-cda328329013_0_ID192MP3.mp3" type="audio/mpeg" length="17028909"></enclosure>
+      <itunes:title>Mánnu / Månen</itunes:title>
+      <itunes:summary>Binnabánnaš liiko mánnui. Leago mánnu vuostá?</itunes:summary>
+      <itunes:duration>709</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Bahta / Rumpa</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_479eec37-2dfc-44ba-9eec-372dfcf4bab3</link>
+      <description>Binnabánnaža guovtto Ujujjuin  mielas lea somá earánastit ja buoskut hivssegis maid ieža leaba ráhkadan.</description>
+      <guid isPermaLink="false">l_479eec37-2dfc-44ba-9eec-372dfcf4bab3</guid>
+      <pubDate>Fri, 20 Dec 2024 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/0a458a2e-4e01-45cf-b3a3-6717ed08bfeb_0_ID192MP3.mp3" type="audio/mpeg" length="12908781"></enclosure>
+      <itunes:title>Bahta / Rumpa</itunes:title>
+      <itunes:summary>Binnabánnaža guovtto Ujujjuin  mielas lea somá earánastit ja buoskut hivssegis maid ieža leaba ráhkadan.</itunes:summary>
+      <itunes:duration>537</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Gieđat / Armer</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_025cb077-2165-45fa-9cb0-772165c5fadf</link>
+      <description>Binnabánnaš guovttos Ujujjuin snihkkeba olgohivssega ja leaba ieža nu movtta. Okta gii ii leat nu movtta lea goddesáhpán Poff.</description>
+      <guid isPermaLink="false">l_025cb077-2165-45fa-9cb0-772165c5fadf</guid>
+      <pubDate>Fri, 20 Dec 2024 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/15e62996-aa5e-485c-9bd2-b42fdead0899_0_ID192MP3.mp3" type="audio/mpeg" length="15779565"></enclosure>
+      <itunes:title>Gieđat / Armer</itunes:title>
+      <itunes:summary>Binnabánnaš guovttos Ujujjuin snihkkeba olgohivssega ja leaba ieža nu movtta. Okta gii ii leat nu movtta lea goddesáhpán Poff.</itunes:summary>
+      <itunes:duration>657</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Radio Rákkas</title>
+      <link>https://radio.nrk.no/podkast/binnabnna_ujujju/l_9f55435c-bcaa-47ef-9543-5cbcaa67ef8b</link>
+      <description>Binnabánnaš guovttos Ujujjuin lágideaba rádiosáddaga nugo Fantorangen ja Pivi láveba.</description>
+      <guid isPermaLink="false">l_9f55435c-bcaa-47ef-9543-5cbcaa67ef8b</guid>
+      <pubDate>Fri, 20 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/binnabnna_ujujju/33a0fb44-6c2a-428d-98ed-67b7323f4a7b_0_ID192MP3.mp3" type="audio/mpeg" length="13924845"></enclosure>
+      <itunes:title>Radio Rákkas</itunes:title>
+      <itunes:summary>Binnabánnaš guovttos Ujujjuin lágideaba rádiosáddaga nugo Fantorangen ja Pivi láveba.</itunes:summary>
+      <itunes:duration>580</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FtAD_t9saqQ0scxa1Qp6JQqIUgzMYlQaxGVnu2DIfvbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+  </channel>
+</rss>

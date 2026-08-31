@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sånn er du</title>
+    <link>https://radio.nrk.no/podkast/saann_er_du</link>
+    <description>Harald Eia og Nils Brenna analyserer kjente personer med personlighetstesten &#34;Big 5&#34;.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Sun, 04 Apr 2021 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/saann_er_du.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Harald Eia og Nils Brenna analyserer kjente personer med personlighetstesten &#34;Big 5&#34;.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ</url>
+      <title>Sånn er du</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du</link>
+    </image>
+    <item>
+      <title>Sånn er du - Herman Dahl </title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_500b2ece-de01-47d7-8b2e-cede01b7d781</link>
+      <description>Youtuber, skuespiller og TV-profil. Er han en selvgod, uplaget gladlaks?&#xA;Eller kanskje det helt motsatte?</description>
+      <guid isPermaLink="false">l_500b2ece-de01-47d7-8b2e-cede01b7d781</guid>
+      <pubDate>Sun, 04 Apr 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/aed2a949-5ec9-48ca-8e66-00082fb570d8_0_ID192MP3.mp3" type="audio/mpeg" length="81787789"></enclosure>
+      <itunes:title>Sånn er du - Herman Dahl </itunes:title>
+      <itunes:summary>Youtuber, skuespiller og TV-profil. Er han en selvgod, uplaget gladlaks?&#xA;Eller kanskje det helt motsatte?</itunes:summary>
+      <itunes:duration>3407</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OIezgiLweTVcqn2imIKs3gctR6Uu0Bqp0cMvSrwh1QGA.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Nina Lykke</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_253867aa-e874-4821-b867-aae87418219b</link>
+      <description>Hun skriver om irriterte og frustrerte mennesker Men har hun disse trekkene selv? Og hva tenker hun om det å ta seg sammen?&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_253867aa-e874-4821-b867-aae87418219b</guid>
+      <pubDate>Sun, 28 Mar 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/ecf2bf9f-1f10-41d5-96bd-34fe76c6496b_0_ID192MP3.mp3" type="audio/mpeg" length="81320088"></enclosure>
+      <itunes:title>Sånn er du: Nina Lykke</itunes:title>
+      <itunes:summary>Hun skriver om irriterte og frustrerte mennesker Men har hun disse trekkene selv? Og hva tenker hun om det å ta seg sammen?&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3388</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JosCwn15JQl6_ISk6RajAga0ALLsG8mQz9ROXeD5lxjA.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Guri Melby </title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_3ee4708c-4e48-443c-a470-8c4e48b43c89</link>
+      <description>Statsråd og Venstre-leder  &#xA;Er hun harmonisk og blid? Er hun ambisiøs? Og hvordan får hun folk til å åpne seg? &#xA;</description>
+      <guid isPermaLink="false">l_3ee4708c-4e48-443c-a470-8c4e48b43c89</guid>
+      <pubDate>Sun, 21 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/17b842fc-64fd-40e5-ac15-72dd66cdcbb3_0_ID192MP3.mp3" type="audio/mpeg" length="81913944"></enclosure>
+      <itunes:title>Sånn er du: Guri Melby </itunes:title>
+      <itunes:summary>Statsråd og Venstre-leder  &#xA;Er hun harmonisk og blid? Er hun ambisiøs? Og hvordan får hun folk til å åpne seg? &#xA;</itunes:summary>
+      <itunes:duration>3412</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/skjB0SPxkVAqMxzmkcg54QauFU0PouiOv_gs01YI6swg.png"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Øde Nerdrum</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_ada87a9c-ade3-496f-a87a-9cade3b96f30</link>
+      <description>Maler - men også kjent fra Farmen Kjendis. Er han arrogant og føler seg bedre enn andre?  Tar han en krangel? Har han empati? &#xA;</description>
+      <guid isPermaLink="false">l_ada87a9c-ade3-496f-a87a-9cade3b96f30</guid>
+      <pubDate>Sun, 14 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/138ad5d6-1a6e-496e-a18c-3ff85ce0f140_0_ID192MP3.mp3" type="audio/mpeg" length="81325848"></enclosure>
+      <itunes:title>Sånn er du: Øde Nerdrum</itunes:title>
+      <itunes:summary>Maler - men også kjent fra Farmen Kjendis. Er han arrogant og føler seg bedre enn andre?  Tar han en krangel? Har han empati? &#xA;</itunes:summary>
+      <itunes:duration>3388</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/IDOXer7CWeZ_ZYbGIp3dCwkp0snzjgqRwF_FyEYuDROQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du : Unge Ferrari</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_4e84d664-3e33-4250-84d6-643e33525068</link>
+      <description>Unge Ferrari - eller Stig Joar Haugen - som han heter. Vakker musikk, med en slags mannlig følsomhet. Hva er det i ham som gjør at han får til dette?</description>
+      <guid isPermaLink="false">l_4e84d664-3e33-4250-84d6-643e33525068</guid>
+      <pubDate>Sun, 07 Mar 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/32fd46c3-6fdb-419b-8489-4ab9e704d45d_0_ID192MP3.mp3" type="audio/mpeg" length="81234822"></enclosure>
+      <itunes:title>Sånn er du : Unge Ferrari</itunes:title>
+      <itunes:summary>Unge Ferrari - eller Stig Joar Haugen - som han heter. Vakker musikk, med en slags mannlig følsomhet. Hva er det i ham som gjør at han får til dette?</itunes:summary>
+      <itunes:duration>3384</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/A1YtAdUEJI6Rru8lmQHkLwwMAJYDOcBqdHs867Qh4G4w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Tuva Syvertsen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_0142d548-ed6f-4163-82d5-48ed6f9163c4</link>
+      <description>Hun som trollbinder det norske folk med fantastisk sang i Hver Gang vi Møtes og i Stjernekamp. &#xA;Er hun sinna? Er hun kranglete? Liker hun å snakke med folk?</description>
+      <guid isPermaLink="false">l_0142d548-ed6f-4163-82d5-48ed6f9163c4</guid>
+      <pubDate>Sun, 28 Feb 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/2eccac6e-e429-461a-a7d1-07952778bafd_0_ID192MP3.mp3" type="audio/mpeg" length="81291824"></enclosure>
+      <itunes:title>Sånn er du: Tuva Syvertsen</itunes:title>
+      <itunes:summary>Hun som trollbinder det norske folk med fantastisk sang i Hver Gang vi Møtes og i Stjernekamp. &#xA;Er hun sinna? Er hun kranglete? Liker hun å snakke med folk?</itunes:summary>
+      <itunes:duration>3387</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kMtp_AQrIbj3USQCjZgUMQ8Q3675dkEHKQeFEJzjwr0Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Ståle Solbakken</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_05970472-a249-4271-9704-72a24972716f</link>
+      <description>Ståle Solbakken. Den nye sjefen for herrelandslaget i fotball. Tydelig, tar en kamp, men er han også litt reservert og sjenert?</description>
+      <guid isPermaLink="false">l_05970472-a249-4271-9704-72a24972716f</guid>
+      <pubDate>Sun, 21 Feb 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/df558563-110d-44e7-94fa-5c4040e43e86_0_ID192MP3.mp3" type="audio/mpeg" length="81386369"></enclosure>
+      <itunes:title>Sånn er du: Ståle Solbakken</itunes:title>
+      <itunes:summary>Ståle Solbakken. Den nye sjefen for herrelandslaget i fotball. Tydelig, tar en kamp, men er han også litt reservert og sjenert?</itunes:summary>
+      <itunes:duration>3391</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/siNNXmsLKLeGh3TZ67xq4wh0-sqwEFfBdn8SmfOBtx-g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Cecilie Steinmann Neess</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_1f81ce79-fe49-42ae-81ce-79fe4902ae35</link>
+      <description>Cecilie Steinmann Neess, eller Cess som hun kalles… Det er mye tull og tøys, men hun er også noen ganger seriøs. Hva kan det handle om? Og er hun liksom seg selv på scenen?</description>
+      <guid isPermaLink="false">l_1f81ce79-fe49-42ae-81ce-79fe4902ae35</guid>
+      <pubDate>Sun, 14 Feb 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/5040fb8e-8ea4-44e0-9c12-e14645f94f13_0_ID192MP3.mp3" type="audio/mpeg" length="81236624"></enclosure>
+      <itunes:title>Sånn er du: Cecilie Steinmann Neess</itunes:title>
+      <itunes:summary>Cecilie Steinmann Neess, eller Cess som hun kalles… Det er mye tull og tøys, men hun er også noen ganger seriøs. Hva kan det handle om? Og er hun liksom seg selv på scenen?</itunes:summary>
+      <itunes:duration>3384</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5ZtjnBpIUfDe8tzYWdAqcQKzMPV-r_f-kbMIVvjh3dAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Mads Hansen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_280207e2-a90d-42f7-8207-e2a90dd2f7d8</link>
+      <description>Mads Hansen&#xA;Tidligere fotballspiller, nå programleder og forfatter.&#xA;Stadig involvert i en krangel i offentligheten.&#xA;Hvorfor det?&#xA;Er han sånn? Og hva gjør det med ham?</description>
+      <guid isPermaLink="false">l_280207e2-a90d-42f7-8207-e2a90dd2f7d8</guid>
+      <pubDate>Sun, 07 Feb 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/2cfb84e4-68bd-4f40-82a3-910f01cab824_0_ID192MP3.mp3" type="audio/mpeg" length="81514178"></enclosure>
+      <itunes:title>Sånn er du: Mads Hansen</itunes:title>
+      <itunes:summary>Mads Hansen&#xA;Tidligere fotballspiller, nå programleder og forfatter.&#xA;Stadig involvert i en krangel i offentligheten.&#xA;Hvorfor det?&#xA;Er han sånn? Og hva gjør det med ham?</itunes:summary>
+      <itunes:duration>3396</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ol5tlSup5JMQxT5QE6ABvQPPA60lOeTkLVD4nssgDIIQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du; Raymond Johansen  </title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_00977705-33d0-4800-9777-0533d0680047</link>
+      <description>Raymond Johansen&#xA;Arbeiderpartimann, byrådsleder og Oslos pandemigeneral&#xA;Handlekraftig, upolert og tidvis røff i tonen&#xA;Er det en rolle? Eller er dette Raymond sjøl? &#xA;</description>
+      <guid isPermaLink="false">l_00977705-33d0-4800-9777-0533d0680047</guid>
+      <pubDate>Sun, 31 Jan 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/239e8169-bdd4-4730-8cf9-cbb449405644_0_ID192MP3.mp3" type="audio/mpeg" length="81207824"></enclosure>
+      <itunes:title>Sånn er du; Raymond Johansen  </itunes:title>
+      <itunes:summary>Raymond Johansen&#xA;Arbeiderpartimann, byrådsleder og Oslos pandemigeneral&#xA;Handlekraftig, upolert og tidvis røff i tonen&#xA;Er det en rolle? Eller er dette Raymond sjøl? &#xA;</itunes:summary>
+      <itunes:duration>3383</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yCKlUrCDSJm_3_U7eOsWewToXMgvHKTfUD5XeAlnHdWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Sigrid Bonde Tusvik. </title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_33d75e5c-25e2-4393-975e-5c25e2c39345</link>
+      <description>Sigrid Bonde Tusvik. Komiker, programleder, forfatter og samfunnsdebattant. Kraftig engasjement, sterke meninger og harde utspill. Hva er det i henne som gjør at hun fremstår sånn?</description>
+      <guid isPermaLink="false">l_33d75e5c-25e2-4393-975e-5c25e2c39345</guid>
+      <pubDate>Sun, 24 Jan 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/f5fdcf3b-5057-4c96-8f30-00b1e60df90a_0_ID192MP3.mp3" type="audio/mpeg" length="82935186"></enclosure>
+      <itunes:title>Sånn er du: Sigrid Bonde Tusvik. </itunes:title>
+      <itunes:summary>Sigrid Bonde Tusvik. Komiker, programleder, forfatter og samfunnsdebattant. Kraftig engasjement, sterke meninger og harde utspill. Hva er det i henne som gjør at hun fremstår sånn?</itunes:summary>
+      <itunes:duration>3455</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oKg5npirT0HXIiA87UZl9QWmncSjxZbFwGwg7nscxRHw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Espen Nakstad</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_bb17f1ae-57da-46a2-97f1-ae57dac6a28f</link>
+      <description>Hele Norges pandemi-general, Espen Nakstad, får personligheten analysert av Harald Eia og Nils Brenna. Hvordan er han skrudd sammen han som har stått midt i stormen og beroliget og forklart oss nordmenn hvordan det ligger an med koronaen omtrent hver dag fra i mars? </description>
+      <guid isPermaLink="false">l_bb17f1ae-57da-46a2-97f1-ae57dac6a28f</guid>
+      <pubDate>Wed, 23 Dec 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/ef014bc9-b7f8-43a6-a3f5-d3278393b121_0_ID192MP3.mp3" type="audio/mpeg" length="84437958"></enclosure>
+      <itunes:title>Sånn er du: Espen Nakstad</itunes:title>
+      <itunes:summary>Hele Norges pandemi-general, Espen Nakstad, får personligheten analysert av Harald Eia og Nils Brenna. Hvordan er han skrudd sammen han som har stått midt i stormen og beroliget og forklart oss nordmenn hvordan det ligger an med koronaen omtrent hver dag fra i mars? </itunes:summary>
+      <itunes:duration>3518</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VNUHFG6H7ezeGTqjLcNiNwT0-sVVznqB3HYdsHWA-5Qg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Herman Flesvig </title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_a6266503-fdc1-4d85-a665-03fdc1fd8595</link>
+      <description>Herman Flesvig. Hva slags menneske er man når man er et sånt rått humortalent? Hvordan virker en så enorm suksess på et ungt menneske? Og hvordan bruker han personligheten sin når han lager sine humorkarakterer?</description>
+      <guid isPermaLink="false">l_a6266503-fdc1-4d85-a665-03fdc1fd8595</guid>
+      <pubDate>Sun, 01 Nov 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/836f6394-4dd7-4f1b-b4a0-ae14040311d2_0_ID192MP3.mp3" type="audio/mpeg" length="81433538"></enclosure>
+      <itunes:title>Sånn er du: Herman Flesvig </itunes:title>
+      <itunes:summary>Herman Flesvig. Hva slags menneske er man når man er et sånt rått humortalent? Hvordan virker en så enorm suksess på et ungt menneske? Og hvordan bruker han personligheten sin når han lager sine humorkarakterer?</itunes:summary>
+      <itunes:duration>3392</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/guDi3iTuPfa8vQTvqWRuAghlivfmvacp0u3UeIbu4CIA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du:  Jørgine Massa Vasstrand (Funkygine) </title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_260c362e-5cc8-4747-8c36-2e5cc8474768</link>
+      <description>Funkygine, som altså heter Jørgine Massa Vasstrand, er blogger, influencer og personlig trener, med over 600.000 følgere på instagram. Men hvordan er en &#34;self made&#34; stjerne på mediehimmelen skrudd sammen?</description>
+      <guid isPermaLink="false">l_260c362e-5cc8-4747-8c36-2e5cc8474768</guid>
+      <pubDate>Sun, 25 Oct 2020 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/b2e54f9b-ca49-499d-b256-f0e379ac2817_0_ID192MP3.mp3" type="audio/mpeg" length="82642539"></enclosure>
+      <itunes:title>Sånn er du:  Jørgine Massa Vasstrand (Funkygine) </itunes:title>
+      <itunes:summary>Funkygine, som altså heter Jørgine Massa Vasstrand, er blogger, influencer og personlig trener, med over 600.000 følgere på instagram. Men hvordan er en &#34;self made&#34; stjerne på mediehimmelen skrudd sammen?</itunes:summary>
+      <itunes:duration>3443</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R4tPX1OjGjtOGANnOOIZMgnsFb9O8jGka3EJ-XEF2Mwg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Marte Stokstad</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_4c01c3e2-b837-41c8-81c3-e2b83771c8f6</link>
+      <description>Programleder Marte Stokstad har masse godt humør og positiv energi. Men er det noe mer bak sola og det gode humøret? Det skal Harald Eia og Nils Brenna prøve å finne ut av - med hjelp av en personlighetstest.&#xA;</description>
+      <guid isPermaLink="false">l_4c01c3e2-b837-41c8-81c3-e2b83771c8f6</guid>
+      <pubDate>Sun, 18 Oct 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/a9afc466-ae27-4598-ab68-e56292e83cb1_0_ID192MP3.mp3" type="audio/mpeg" length="82137432"></enclosure>
+      <itunes:title>Sånn er du: Marte Stokstad</itunes:title>
+      <itunes:summary>Programleder Marte Stokstad har masse godt humør og positiv energi. Men er det noe mer bak sola og det gode humøret? Det skal Harald Eia og Nils Brenna prøve å finne ut av - med hjelp av en personlighetstest.&#xA;</itunes:summary>
+      <itunes:duration>3422</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/a-VEVl9CgW-Y1dqoONeMNghAuHAhB88sg1PB2pxhRcVg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Silya Nymoen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_5f1910c6-30fb-47ad-9910-c630fb57ad0f</link>
+      <description>Silya Nymoen har blant mye annet vunnet Stjernekamp. Hun fremstår som meget åpen og voldsomt energisk, nesten dominerende. Spørsmålet er: Kan skinnet bedra? </description>
+      <guid isPermaLink="false">l_5f1910c6-30fb-47ad-9910-c630fb57ad0f</guid>
+      <pubDate>Sun, 11 Oct 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/b6d35bf2-498d-4e31-94ff-860c8343dd83_0_ID192MP3.mp3" type="audio/mpeg" length="82128864"></enclosure>
+      <itunes:title>Sånn er du: Silya Nymoen</itunes:title>
+      <itunes:summary>Silya Nymoen har blant mye annet vunnet Stjernekamp. Hun fremstår som meget åpen og voldsomt energisk, nesten dominerende. Spørsmålet er: Kan skinnet bedra? </itunes:summary>
+      <itunes:duration>3421</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/A_yoCoEg21YiJCyE3ARRvgrHuWHeKinsrAK8gBh2zMHQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Andreas Wahl</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_aaea135b-699b-4b31-aa13-5b699b0b31d6</link>
+      <description>Andreas Wahl er fysiker og programleder. I &#34;Folkeopplysningen&#34; konfronterer han intervjuobjektene. I serien &#34;Med livet som innsats&#34; hoppet han i strikk og klatret i bygninger. Betyr det at han er en konfliktglad spenningssøker? </description>
+      <guid isPermaLink="false">l_aaea135b-699b-4b31-aa13-5b699b0b31d6</guid>
+      <pubDate>Sun, 04 Oct 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/f2fdddb7-48e9-44b9-bb13-729c0c817697_0_ID192MP3.mp3" type="audio/mpeg" length="80944505"></enclosure>
+      <itunes:title>Sånn er du: Andreas Wahl</itunes:title>
+      <itunes:summary>Andreas Wahl er fysiker og programleder. I &#34;Folkeopplysningen&#34; konfronterer han intervjuobjektene. I serien &#34;Med livet som innsats&#34; hoppet han i strikk og klatret i bygninger. Betyr det at han er en konfliktglad spenningssøker? </itunes:summary>
+      <itunes:duration>3372</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/o1R4JTsMZQXkq7AxPNE3WQA8lVcjg6T2WSOju0LFL1xQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du : Espen Thoresen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_abd4ea40-1952-472b-94ea-401952972bff</link>
+      <description>Espen Thoresen. Programleder, radiodokumentarist og Farmen-deltager. En virvelvind, involvert i både moro og skandaler. Og med en ubestemmelig alder i energi og tilstedeværelse. Hvordan er et sånt menneske skrudd sammen? </description>
+      <guid isPermaLink="false">l_abd4ea40-1952-472b-94ea-401952972bff</guid>
+      <pubDate>Sun, 27 Sep 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/f764fced-6476-4332-abdf-f3454c1fc370_0_ID192MP3.mp3" type="audio/mpeg" length="81150724"></enclosure>
+      <itunes:title>Sånn er du : Espen Thoresen</itunes:title>
+      <itunes:summary>Espen Thoresen. Programleder, radiodokumentarist og Farmen-deltager. En virvelvind, involvert i både moro og skandaler. Og med en ubestemmelig alder i energi og tilstedeværelse. Hvordan er et sånt menneske skrudd sammen? </itunes:summary>
+      <itunes:duration>3381</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hj2lk99TtXSoj93-vENesgVMtcqpDQ5dYI5H1W90FpKg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Ine Jansen </title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_76103baf-b3c5-4bac-903b-afb3c55bac61</link>
+      <description>Skuespiller Ine Jansen har spilt både på film, teater og TV, men er kanskje mest kjent som kona til Thomas Giertsen i TV-serien Helt perfekt. Et av spørsmålene er: Hvor lik er Ine Jansen den rå og kyniske rollefiguren &#34;Ine Jansen&#34; i Helt perfekt? Det skal Harald Eia og Nils Brenna prøve å finne ut av gjennom å analysere hennes personlighet. </description>
+      <guid isPermaLink="false">l_76103baf-b3c5-4bac-903b-afb3c55bac61</guid>
+      <pubDate>Sun, 20 Sep 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/4987eb94-9851-4074-b33e-e3779d650557_0_ID192MP3.mp3" type="audio/mpeg" length="81512461"></enclosure>
+      <itunes:title>Sånn er du: Ine Jansen </itunes:title>
+      <itunes:summary>Skuespiller Ine Jansen har spilt både på film, teater og TV, men er kanskje mest kjent som kona til Thomas Giertsen i TV-serien Helt perfekt. Et av spørsmålene er: Hvor lik er Ine Jansen den rå og kyniske rollefiguren &#34;Ine Jansen&#34; i Helt perfekt? Det skal Harald Eia og Nils Brenna prøve å finne ut av gjennom å analysere hennes personlighet. </itunes:summary>
+      <itunes:duration>3396</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oVQ-s2likjCAG_uqjGZLAAtqDkuStRh_5rrHecBYysQA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Lars Berrum</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_27a4e921-6ecb-4ee8-a4e9-216ecbfee84c</link>
+      <description>Lars Berrum er komiker, programleder og ikke minst: Sykepleier. Han er fysisk stor, og han har mye energi og iver. Er han hard? Er han myk? Og kan Harald Eia og Nils Brenna lage orden av Berrum-kaoset med sin Big 5-metode? </description>
+      <guid isPermaLink="false">l_27a4e921-6ecb-4ee8-a4e9-216ecbfee84c</guid>
+      <pubDate>Sun, 13 Sep 2020 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/221c55d5-19ff-4520-a245-e69ed08dea22_0_ID192MP3.mp3" type="audio/mpeg" length="81593098"></enclosure>
+      <itunes:title>Sånn er du: Lars Berrum</itunes:title>
+      <itunes:summary>Lars Berrum er komiker, programleder og ikke minst: Sykepleier. Han er fysisk stor, og han har mye energi og iver. Er han hard? Er han myk? Og kan Harald Eia og Nils Brenna lage orden av Berrum-kaoset med sin Big 5-metode? </itunes:summary>
+      <itunes:duration>3399</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ts72lcyBV9-f_-wAfmOG6QEI-FRmhAsfT_cXA7yExSZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Ingebjørg Bratland</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_a92bbda1-ad8b-4843-abbd-a1ad8b48430e</link>
+      <description>Ingebjørg Bratland har med sin vakre stemme mange fans. Spørsmålet er: Er det en sammenheng mellom hennes vakre og rene stemme og hennes sjel? Eller har hun mørke krefter?</description>
+      <guid isPermaLink="false">l_a92bbda1-ad8b-4843-abbd-a1ad8b48430e</guid>
+      <pubDate>Sun, 06 Sep 2020 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/a69892cc-65d0-413e-84dc-2189cdd30c91_0_ID192MP3.mp3" type="audio/mpeg" length="81348886"></enclosure>
+      <itunes:title>Sånn er du: Ingebjørg Bratland</itunes:title>
+      <itunes:summary>Ingebjørg Bratland har med sin vakre stemme mange fans. Spørsmålet er: Er det en sammenheng mellom hennes vakre og rene stemme og hennes sjel? Eller har hun mørke krefter?</itunes:summary>
+      <itunes:duration>3389</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/j5X4qnIrUMIaRdUwouUfMw9nSq5bwQkUgjFF0qW1T96A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Dagfinn Lyngbø</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_9475c313-5beb-4887-b5c3-135bebc88754</link>
+      <description>Mange mener han er Norges morsomste. Men vi vet ikke så mye om ham. Må man ha et visst ego for å kunne ha en sånn suksess som han har? Må man være hard? Dessuten: Han er gift med komiker Pernille Sørensen - er det sånn at like barn leker best? Vi får også høre om Nattfinn...</description>
+      <guid isPermaLink="false">l_9475c313-5beb-4887-b5c3-135bebc88754</guid>
+      <pubDate>Sun, 30 Aug 2020 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/977e94b1-46ca-4b92-8bc4-2de2a0965acc_0_ID192MP3.mp3" type="audio/mpeg" length="81256137"></enclosure>
+      <itunes:title>Sånn er du: Dagfinn Lyngbø</itunes:title>
+      <itunes:summary>Mange mener han er Norges morsomste. Men vi vet ikke så mye om ham. Må man ha et visst ego for å kunne ha en sånn suksess som han har? Må man være hard? Dessuten: Han er gift med komiker Pernille Sørensen - er det sånn at like barn leker best? Vi får også høre om Nattfinn...</itunes:summary>
+      <itunes:duration>3385</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/e4B-JVjXhTUe-AzOivvBPQLnbqPA0_zHAwgSzVdpNDlQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Mímir Kristjánsson</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_a5279dd0-b92e-427c-a79d-d0b92ec27cab</link>
+      <description>Mimir Kristjansson. Rødt-politiker, forfatter, realitydeltager og meningsmaskin. Politisk langt ute på venstresiden, men samtidig en som kan bli god venn med Frps Per Sandberg. Hvordan henger dette sammen? Hva tenker han om seg selv som leder? Hvilke politikere kjenner han seg mest i slekt med? Og hvordan havnet han i Beograd? </description>
+      <guid isPermaLink="false">l_a5279dd0-b92e-427c-a79d-d0b92ec27cab</guid>
+      <pubDate>Sun, 23 Aug 2020 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/5f6e03a2-740b-4cc0-8059-432a77003d5d_0_ID192MP3.mp3" type="audio/mpeg" length="81515329"></enclosure>
+      <itunes:title>Sånn er du: Mímir Kristjánsson</itunes:title>
+      <itunes:summary>Mimir Kristjansson. Rødt-politiker, forfatter, realitydeltager og meningsmaskin. Politisk langt ute på venstresiden, men samtidig en som kan bli god venn med Frps Per Sandberg. Hvordan henger dette sammen? Hva tenker han om seg selv som leder? Hvilke politikere kjenner han seg mest i slekt med? Og hvordan havnet han i Beograd? </itunes:summary>
+      <itunes:duration>3396</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bYploXRNPArTzwzCOafnuwpdSQJWuSzxMphchWBPnIVQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Anita Krohn Traaseth</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_5736669d-1ea4-4b79-b666-9d1ea42b7906</link>
+      <description>Anita Krohn Traaseth. En moderne toppleder, full av piff og pågangsmot, og med en slags freidig optimisme. Kommer dette innenfra, eller er det mer en metode? Hvordan forklarer hun tilsynelatende hule og overfladiske næringslivsuttrykk? Og hva var det egentlig som skjedde da Norges rikeste kvinne fikk jobb i Innovasjon Norge, der Krohn Traaseth var toppleder?</description>
+      <guid isPermaLink="false">l_5736669d-1ea4-4b79-b666-9d1ea42b7906</guid>
+      <pubDate>Sun, 16 Aug 2020 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/7d30000f-fe54-4888-8af9-2f67520a323f_0_ID192MP3.mp3" type="audio/mpeg" length="81472141"></enclosure>
+      <itunes:title>Sånn er du: Anita Krohn Traaseth</itunes:title>
+      <itunes:summary>Anita Krohn Traaseth. En moderne toppleder, full av piff og pågangsmot, og med en slags freidig optimisme. Kommer dette innenfra, eller er det mer en metode? Hvordan forklarer hun tilsynelatende hule og overfladiske næringslivsuttrykk? Og hva var det egentlig som skjedde da Norges rikeste kvinne fikk jobb i Innovasjon Norge, der Krohn Traaseth var toppleder?</itunes:summary>
+      <itunes:duration>3394</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AnBkWt1Ye-DKdWklgRbujgJBhDU8_Ss8UXUsQdvoaMbw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Henrik Asheim</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_98e7451c-beba-4942-a745-1cbeba0942d1</link>
+      <description>Forsknings- og høyere udanningsminister Henrik Asheim. Vi ser og hører ham i media. Vennlig. Lyttende. Åpen. Snakker ikke det polerte politikerspråket. Spørsmålet er: Er det samsvar mellom Henrik Asheims indre og ytre? </description>
+      <guid isPermaLink="false">l_98e7451c-beba-4942-a745-1cbeba0942d1</guid>
+      <pubDate>Sun, 29 Mar 2020 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/8ffe835d-7ac1-4a04-9ce8-0dfd14e55fc1_0_ID192MP3.mp3" type="audio/mpeg" length="81989954"></enclosure>
+      <itunes:title>Sånn er du, Henrik Asheim</itunes:title>
+      <itunes:summary>Forsknings- og høyere udanningsminister Henrik Asheim. Vi ser og hører ham i media. Vennlig. Lyttende. Åpen. Snakker ikke det polerte politikerspråket. Spørsmålet er: Er det samsvar mellom Henrik Asheims indre og ytre? </itunes:summary>
+      <itunes:duration>3416</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/m6EAafkJ1WL54fQWF5tmVAUki0J_yLey3gOZTIwnB8VA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Sophie Elise</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_b342ed97-398e-46bd-82ed-97398ee6bde2</link>
+      <description>Mange kjenner bare Sophie Elise gjennom oppslag om utseendet hennes. &#xA;Men er dette alt? Hva er det som gjør at hun har så mange følgere på sosiale medier?&#xA;Hva er det de fascineres av? &#xA;Og hvem er hennes favorittforfatter - og hvorfor?&#xA;</description>
+      <guid isPermaLink="false">l_b342ed97-398e-46bd-82ed-97398ee6bde2</guid>
+      <pubDate>Sun, 22 Mar 2020 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/f8f0a9b0-8cde-4acd-99e6-5ffbae42fe5f_0_ID192MP3.mp3" type="audio/mpeg" length="81341976"></enclosure>
+      <itunes:title>Sånn er du, Sophie Elise</itunes:title>
+      <itunes:summary>Mange kjenner bare Sophie Elise gjennom oppslag om utseendet hennes. &#xA;Men er dette alt? Hva er det som gjør at hun har så mange følgere på sosiale medier?&#xA;Hva er det de fascineres av? &#xA;Og hvem er hennes favorittforfatter - og hvorfor?&#xA;</itunes:summary>
+      <itunes:duration>3389</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LBt9yyTnnI8tgAHDAfIUSQ0sf_Ty7ZBaLNfzs6dfqp_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>15.03.2020  Sånn er du, Kristopher Schau</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_7356d874-db5f-4f90-96d8-74db5f9f9059</link>
+      <description>Musiker, programleder og forfatter Kristopher Schau. &#xA;Mange fascineres av ham. Hvorfor det?&#xA;Hvor hard er han? Og - ikke minst: Hvor myk?&#xA;Kristopher forteller også om hevnen etter at Bård og Harald lurte ham i Team Antonsen.</description>
+      <guid isPermaLink="false">l_7356d874-db5f-4f90-96d8-74db5f9f9059</guid>
+      <pubDate>Sun, 15 Mar 2020 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/42d274be-bb35-4401-8011-20a858cdfe86_0_ID192MP3.mp3" type="audio/mpeg" length="81649560"></enclosure>
+      <itunes:title>15.03.2020  Sånn er du, Kristopher Schau</itunes:title>
+      <itunes:summary>Musiker, programleder og forfatter Kristopher Schau. &#xA;Mange fascineres av ham. Hvorfor det?&#xA;Hvor hard er han? Og - ikke minst: Hvor myk?&#xA;Kristopher forteller også om hevnen etter at Bård og Harald lurte ham i Team Antonsen.</itunes:summary>
+      <itunes:duration>3401</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9SywtVVXJ6g7W7s7mX_3TQiUPIYrv60h_txR0Upf_Plw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du,  Anne Lindmo</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_534b2f5f-7750-4e66-8b2f-5f7750ae66b2</link>
+      <description>NRK hadde hatt mange mannlige programledere opp gjennom årene. Mange med stort ego. Men så kom den ujålete og blide Anne Lindmo og omdefinerte programlederrollen. Ligger noe av svaret i hennes personlighet?</description>
+      <guid isPermaLink="false">l_534b2f5f-7750-4e66-8b2f-5f7750ae66b2</guid>
+      <pubDate>Sun, 08 Mar 2020 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/32b97d22-860b-45a6-a7fe-bf09e93aab08_0_ID192MP3.mp3" type="audio/mpeg" length="81345488"></enclosure>
+      <itunes:title>Sånn er du,  Anne Lindmo</itunes:title>
+      <itunes:summary>NRK hadde hatt mange mannlige programledere opp gjennom årene. Mange med stort ego. Men så kom den ujålete og blide Anne Lindmo og omdefinerte programlederrollen. Ligger noe av svaret i hennes personlighet?</itunes:summary>
+      <itunes:duration>3389</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hA7963E_-S0vMJUPaT3iCgzt2HLGc493ry8FDa8nM-QA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er er du, Agnes Ravatn</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_54b92434-84c5-4aa2-b924-3484c59aa264</link>
+      <description>Forfatter Agnes Ravatn er en prisbelønnet forfatter, men hun er også glad i tull og fanteri. Står hun i en spagat mellom det høye og det lave? Og hvorfor valgte hun å slutte i Storbynatt der hun jobbet sammen med Harald Eia? Hun fjernet også internett for å få jobbet. Hva var det hun holdt på med på internett?</description>
+      <guid isPermaLink="false">l_54b92434-84c5-4aa2-b924-3484c59aa264</guid>
+      <pubDate>Sun, 01 Mar 2020 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/9a402da9-3405-43ba-a293-6ab28929c62e_0_ID192MP3.mp3" type="audio/mpeg" length="82584388"></enclosure>
+      <itunes:title>Sånn er er du, Agnes Ravatn</itunes:title>
+      <itunes:summary>Forfatter Agnes Ravatn er en prisbelønnet forfatter, men hun er også glad i tull og fanteri. Står hun i en spagat mellom det høye og det lave? Og hvorfor valgte hun å slutte i Storbynatt der hun jobbet sammen med Harald Eia? Hun fjernet også internett for å få jobbet. Hva var det hun holdt på med på internett?</itunes:summary>
+      <itunes:duration>3440</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9ew1jhSDL74eAJxppNi_tAzL0XUUXjikMO5o-xSmFz0Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Vebjørn Selbekk</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_c1761a8d-8063-436c-b61a-8d8063936c1d</link>
+      <description>Redaktør, journalist og samfunnsdebattant Vebjørn Selbekk. Han som trykket karikaturtegningene av profeten Muhammed i ytringsfrihetens navn og fikk drapstrusler for det. Hva slags materiale er man laget av når man er villig til å utsette seg for dette? Og - er han gladlaks eller mørkemann?</description>
+      <guid isPermaLink="false">l_c1761a8d-8063-436c-b61a-8d8063936c1d</guid>
+      <pubDate>Sun, 23 Feb 2020 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/3bd28278-eb09-4f09-8660-93a25044405c_0_ID192MP3.mp3" type="audio/mpeg" length="81453210"></enclosure>
+      <itunes:title>Sånn er du, Vebjørn Selbekk</itunes:title>
+      <itunes:summary>Redaktør, journalist og samfunnsdebattant Vebjørn Selbekk. Han som trykket karikaturtegningene av profeten Muhammed i ytringsfrihetens navn og fikk drapstrusler for det. Hva slags materiale er man laget av når man er villig til å utsette seg for dette? Og - er han gladlaks eller mørkemann?</itunes:summary>
+      <itunes:duration>3393</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qSiZDt4l2tn5PBKxyXcPhAcG2BKPaqcYZ5aE2K4GVRsQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Hege Schøyen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_336e4a23-4716-4d93-ae4a-2347166d9303</link>
+      <description>Komiker og skuespiller Hege Schøyen. Er hun lett stresset? Er hun en som må gjøre ting hele tiden? Og er det noe i personligheten hennes som kan forklare hvorfor hun har vært en av Norges morsomste i 30 år?&#xA;</description>
+      <guid isPermaLink="false">l_336e4a23-4716-4d93-ae4a-2347166d9303</guid>
+      <pubDate>Sun, 16 Feb 2020 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/cc9db336-9f5a-4dbf-9b7d-f54a272fc135_0_ID192MP3.mp3" type="audio/mpeg" length="81361628"></enclosure>
+      <itunes:title>Sånn er du, Hege Schøyen</itunes:title>
+      <itunes:summary>Komiker og skuespiller Hege Schøyen. Er hun lett stresset? Er hun en som må gjøre ting hele tiden? Og er det noe i personligheten hennes som kan forklare hvorfor hun har vært en av Norges morsomste i 30 år?&#xA;</itunes:summary>
+      <itunes:duration>3389</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Live Nelvik -Sånn er du</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_f38ff890-ade6-4950-8ff8-90ade6c950c4</link>
+      <description>Programleder Live Nelvik. Er hun den gladlaksen hun virker som? Har hun noen gang gjort noe hun har angret på? Og hvordan tok hun det da en som hun haiket med prøvde seg på henne?</description>
+      <guid isPermaLink="false">l_f38ff890-ade6-4950-8ff8-90ade6c950c4</guid>
+      <pubDate>Sun, 09 Feb 2020 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/88b85f6f-e8d6-472c-9d2f-3c8ff43a5997_0_ID192MP3.mp3" type="audio/mpeg" length="81766488"></enclosure>
+      <itunes:title>Live Nelvik -Sånn er du</itunes:title>
+      <itunes:summary>Programleder Live Nelvik. Er hun den gladlaksen hun virker som? Har hun noen gang gjort noe hun har angret på? Og hvordan tok hun det da en som hun haiket med prøvde seg på henne?</itunes:summary>
+      <itunes:duration>3406</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TmyDm4c_8TG1D5PYzJ5akQykA2RCi7lHbgnO0TDGqaDA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Finn Tokvam</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_a2e4d374-daf8-4a78-a4d3-74daf82a78e3</link>
+      <description>Harald Eia og Nils Brenna har møtt Finn Tokvam, musiker, forfatter, journalist og&#xA;humorist. En av de underfundige vestlendingene. Hva mener han er tidenes mest&#xA;underfundige setning? Hva er det som gjør at folk liker å se ham på scenen? Og så må du&#xA;høre hvor glad han er i ost!</description>
+      <guid isPermaLink="false">l_a2e4d374-daf8-4a78-a4d3-74daf82a78e3</guid>
+      <pubDate>Mon, 03 Feb 2020 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/b37f2b76-1ab4-4f27-bb1c-e74507de298c_0_ID192MP3.mp3" type="audio/mpeg" length="80770584"></enclosure>
+      <itunes:title>Sånn er du, Finn Tokvam</itunes:title>
+      <itunes:summary>Harald Eia og Nils Brenna har møtt Finn Tokvam, musiker, forfatter, journalist og&#xA;humorist. En av de underfundige vestlendingene. Hva mener han er tidenes mest&#xA;underfundige setning? Hva er det som gjør at folk liker å se ham på scenen? Og så må du&#xA;høre hvor glad han er i ost!</itunes:summary>
+      <itunes:duration>3365</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/XtDAv2effYKBrzTO3TbYewdM6rxJmFs3jQp0GnzJKOZw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Sven Nordin</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_c66e35a4-d535-41eb-ae35-a4d53591eb23</link>
+      <description>Folkelige Sven Nordin. &#34;All in&#34; og veldig tilstede, syns vi at vi ser når vi ser ham. Men kjenner vi ham? Vet vi hvordan han er? Holder han egentlig avstand? Er han redd for noe? Og er han like sosete og rørete som rollefiguren Nils i Mot i brøstet? </description>
+      <guid isPermaLink="false">l_c66e35a4-d535-41eb-ae35-a4d53591eb23</guid>
+      <pubDate>Sun, 26 Jan 2020 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/082e3d6b-093f-447d-8d18-c66e6855c251_0_ID192MP3.mp3" type="audio/mpeg" length="81234314"></enclosure>
+      <itunes:title>Sånn er du, Sven Nordin</itunes:title>
+      <itunes:summary>Folkelige Sven Nordin. &#34;All in&#34; og veldig tilstede, syns vi at vi ser når vi ser ham. Men kjenner vi ham? Vet vi hvordan han er? Holder han egentlig avstand? Er han redd for noe? Og er han like sosete og rørete som rollefiguren Nils i Mot i brøstet? </itunes:summary>
+      <itunes:duration>3384</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AvRJzYyWKerg8ryHwIuXVgPtXByceeCvjj6Co-ANKa-g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Stian Thorbjørnsen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_c5c31ea8-6893-4f6b-831e-a868931f6b20</link>
+      <description>Stian Thorbjørnsen - mer kjent som Staysman, den rølpete sangeren som fremstår som den ultimate gladlaksen. &#xA;Men er han det? Har han noen mørke sider? Er han så sosial, egentlig? &#xA;Og hvor viktig er det for ham å sette seg mål? &#xA;Nils Brenna og Harald Eia analyserer kjente personligheter med personlighetstesten Big 5</description>
+      <guid isPermaLink="false">l_c5c31ea8-6893-4f6b-831e-a868931f6b20</guid>
+      <pubDate>Sun, 19 Jan 2020 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/a6c56bf0-35ea-44cf-a4b8-1cfd197899a4_0_ID192MP3.mp3" type="audio/mpeg" length="80229237"></enclosure>
+      <itunes:title>Sånn er du, Stian Thorbjørnsen</itunes:title>
+      <itunes:summary>Stian Thorbjørnsen - mer kjent som Staysman, den rølpete sangeren som fremstår som den ultimate gladlaksen. &#xA;Men er han det? Har han noen mørke sider? Er han så sosial, egentlig? &#xA;Og hvor viktig er det for ham å sette seg mål? &#xA;Nils Brenna og Harald Eia analyserer kjente personligheter med personlighetstesten Big 5</itunes:summary>
+      <itunes:duration>3342</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0OrhEHG1xDM6GxWzG7-STQNYofhiV9-uB6GUkpMbbrIg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Helene Olafsen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_8b3805cd-0287-4d0d-b805-cd02876d0de7</link>
+      <description>Nils Brenna og Harald Eia analyserer kjente personligheter med personlighetstesten Big 5</description>
+      <guid isPermaLink="false">l_8b3805cd-0287-4d0d-b805-cd02876d0de7</guid>
+      <pubDate>Sun, 12 Jan 2020 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/6053215a-b0d2-4bf8-a348-f561d51c61ab_0_ID192MP3.mp3" type="audio/mpeg" length="80592016"></enclosure>
+      <itunes:title>Sånn er du, Helene Olafsen</itunes:title>
+      <itunes:summary>Nils Brenna og Harald Eia analyserer kjente personligheter med personlighetstesten Big 5</itunes:summary>
+      <itunes:duration>3357</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/15f9BpGpDpc9inAxXZnnTAgpkGulSNjT2Dc2lUIIjdog"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2020">2020</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Anne-Kat. Hærland</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_e276b194-b0e6-400c-b6b1-94b0e6100c53</link>
+      <description>Anne-Kat Hærland har tatt personlighetstest og Nils Brenna og Harald Eia skal blant annet finne ut av: &#xA;Hva handler den lille krøllen/bevegelsen i munnviken om etter at hun har levert en vits? Hun er tøff på utsiden - er hun det også på innsiden? Er hun breial eller beskjeden? Og hvor fælt var det å sitte i fengsel?&#xA;</description>
+      <guid isPermaLink="false">l_e276b194-b0e6-400c-b6b1-94b0e6100c53</guid>
+      <pubDate>Sun, 20 Oct 2019 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-10-20_0900_3263.MP3" type="audio/mpeg" length="80598452"></enclosure>
+      <itunes:title>Sånn er du, Anne-Kat. Hærland</itunes:title>
+      <itunes:summary>Anne-Kat Hærland har tatt personlighetstest og Nils Brenna og Harald Eia skal blant annet finne ut av: &#xA;Hva handler den lille krøllen/bevegelsen i munnviken om etter at hun har levert en vits? Hun er tøff på utsiden - er hun det også på innsiden? Er hun breial eller beskjeden? Og hvor fælt var det å sitte i fengsel?&#xA;</itunes:summary>
+      <itunes:duration>3354</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Pia Tjelta </title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_57806ca7-ecef-4147-806c-a7ecef0147a1</link>
+      <description>Pia Tjelta har tatt personlighetstest, og Harald Eia og Nils Brenna lurer blant annet på dette: Er hun egentlig ydmyk, på grensen til selvutslettende? Hvor god venninne er hun? Og på hvilken måte merker man at hun er ambisiøs?&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_57806ca7-ecef-4147-806c-a7ecef0147a1</guid>
+      <pubDate>Sun, 13 Oct 2019 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-10-13_0900_3824.MP3" type="audio/mpeg" length="80521964"></enclosure>
+      <itunes:title>Sånn er du, Pia Tjelta </itunes:title>
+      <itunes:summary>Pia Tjelta har tatt personlighetstest, og Harald Eia og Nils Brenna lurer blant annet på dette: Er hun egentlig ydmyk, på grensen til selvutslettende? Hvor god venninne er hun? Og på hvilken måte merker man at hun er ambisiøs?&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3355</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Kjetil Rolness </title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_4f51998f-0bd6-4e3a-9199-8f0bd68e3ac5</link>
+      <description>&#xA;Sosiolog, artist og samfunnsdebattant Kjetil Rolness har tatt personlighetstest, og Harald Eia og Nils Brenna lurer blant annet på: Hva er det som får han til å ville ta de kampene han tar? Og er han så hard og nådeløs som han virker? &#xA;&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_4f51998f-0bd6-4e3a-9199-8f0bd68e3ac5</guid>
+      <pubDate>Sun, 06 Oct 2019 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-10-06_0900_312.MP3" type="audio/mpeg" length="80905580"></enclosure>
+      <itunes:title>Sånn er du, Kjetil Rolness </itunes:title>
+      <itunes:summary>&#xA;Sosiolog, artist og samfunnsdebattant Kjetil Rolness har tatt personlighetstest, og Harald Eia og Nils Brenna lurer blant annet på: Hva er det som får han til å ville ta de kampene han tar? Og er han så hard og nådeløs som han virker? &#xA;&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3371</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Mia Gundersen.</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_3b50a3c7-3371-4e5f-90a3-c733719e5f48</link>
+      <description>Mia Gundersen har tatt personlighetstest, og Harald Eia og Nils Brenna skal bruke resultatene til å finne ut av dette grunnleggende spørsmålet: Er Mia Gundersen en diva? </description>
+      <guid isPermaLink="false">l_3b50a3c7-3371-4e5f-90a3-c733719e5f48</guid>
+      <pubDate>Sun, 29 Sep 2019 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-09-29_0900_2162.MP3" type="audio/mpeg" length="80809388"></enclosure>
+      <itunes:title>Sånn er du, Mia Gundersen.</itunes:title>
+      <itunes:summary>Mia Gundersen har tatt personlighetstest, og Harald Eia og Nils Brenna skal bruke resultatene til å finne ut av dette grunnleggende spørsmålet: Er Mia Gundersen en diva? </itunes:summary>
+      <itunes:duration>3366</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Alex Rosén</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_9cf1728c-6fea-4c2b-b172-8c6feacc2b44</link>
+      <description>Alex Rosén har tatt personlighetstest og Harald Eia og Nils Brenna lurer på: Er det noe MER bak alt bråk og all latter? Har han noe dybde? Er han interessert i ting? Har han noe sensitivitet? Er han SNILL?</description>
+      <guid isPermaLink="false">l_9cf1728c-6fea-4c2b-b172-8c6feacc2b44</guid>
+      <pubDate>Sun, 22 Sep 2019 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-09-22_0800_2072.MP3" type="audio/mpeg" length="80561132"></enclosure>
+      <itunes:title>Sånn er du, Alex Rosén</itunes:title>
+      <itunes:summary>Alex Rosén har tatt personlighetstest og Harald Eia og Nils Brenna lurer på: Er det noe MER bak alt bråk og all latter? Har han noe dybde? Er han interessert i ting? Har han noe sensitivitet? Er han SNILL?</itunes:summary>
+      <itunes:duration>3356</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Ingrid Helene Håvik.</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_4f8a1297-82f0-484f-8a12-9782f0484f8d</link>
+      <description>Vokalist i Highasakite, Ingrid Helene Håvik, har tatt personlighetstest, og Harald Eia og Nils Brenna lurer på - er hun så sterk og energisk som hun virker på scenen. Og hvorfor er det noen som tenker på henne som sur? Er hun et åpent menneske? Og - er hun ambisiøs? </description>
+      <guid isPermaLink="false">l_4f8a1297-82f0-484f-8a12-9782f0484f8d</guid>
+      <pubDate>Sun, 15 Sep 2019 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-09-15_0900_1707.MP3" type="audio/mpeg" length="80881388"></enclosure>
+      <itunes:title>Sånn er du, Ingrid Helene Håvik.</itunes:title>
+      <itunes:summary>Vokalist i Highasakite, Ingrid Helene Håvik, har tatt personlighetstest, og Harald Eia og Nils Brenna lurer på - er hun så sterk og energisk som hun virker på scenen. Og hvorfor er det noen som tenker på henne som sur? Er hun et åpent menneske? Og - er hun ambisiøs? </itunes:summary>
+      <itunes:duration>3370</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Anders Danielsen Lie </title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_b6d70812-ef46-4ca3-9708-12ef46eca3fc</link>
+      <description>&#xA;Skuespiller og lege Anders Danielsen Lie har tatt personlighetstest, og Harald Eia og Nils Brenna skal blant annet snakke med ham om sinne og tungsinn, men også om glede - og om viktigheten av å være analytisk som skuespiller.&#xA;&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_b6d70812-ef46-4ca3-9708-12ef46eca3fc</guid>
+      <pubDate>Sun, 08 Sep 2019 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-09-08_0900_3714.MP3" type="audio/mpeg" length="80833004"></enclosure>
+      <itunes:title>Sånn er du, Anders Danielsen Lie </itunes:title>
+      <itunes:summary>&#xA;Skuespiller og lege Anders Danielsen Lie har tatt personlighetstest, og Harald Eia og Nils Brenna skal blant annet snakke med ham om sinne og tungsinn, men også om glede - og om viktigheten av å være analytisk som skuespiller.&#xA;&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3367</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Truls Svendsen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_2a86fbd8-5015-458d-86fb-d85015858d4d</link>
+      <description>Truls Svendsen har tatt personlighetstest og Nils Brenna og Harald Eia skal snakke med ham om denne. Hvor jovial er han egentlig? Det er det store spørsmålet. Hvor kreativ er han? Er han egentlig ganske slapp? Og hva er hans forhold til kunst?</description>
+      <guid isPermaLink="false">l_2a86fbd8-5015-458d-86fb-d85015858d4d</guid>
+      <pubDate>Sun, 01 Sep 2019 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-09-01_0900_2803.MP3" type="audio/mpeg" length="80910038"></enclosure>
+      <itunes:title>Sånn er du, Truls Svendsen</itunes:title>
+      <itunes:summary>Truls Svendsen har tatt personlighetstest og Nils Brenna og Harald Eia skal snakke med ham om denne. Hvor jovial er han egentlig? Det er det store spørsmålet. Hvor kreativ er han? Er han egentlig ganske slapp? Og hva er hans forhold til kunst?</itunes:summary>
+      <itunes:duration>3367</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Eivind Hellstrøm</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_fcb40cb4-b0b3-48ea-b40c-b4b0b3c8ea3f</link>
+      <description>Harald Eia og Nils Brenna har latt Eyvind Hellstrøm ta en personlighetstest og skal snakke med ham om resultatene. Er han så hard som han virker? Har han noen myke sider? Er han en nevrotiker - og hva tenker han om at han ikke fikk noen egne barn.&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_fcb40cb4-b0b3-48ea-b40c-b4b0b3c8ea3f</guid>
+      <pubDate>Sun, 25 Aug 2019 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-08-25_0900_2699.MP3" type="audio/mpeg" length="80661145"></enclosure>
+      <itunes:title>Sånn er du, Eivind Hellstrøm</itunes:title>
+      <itunes:summary>Harald Eia og Nils Brenna har latt Eyvind Hellstrøm ta en personlighetstest og skal snakke med ham om resultatene. Er han så hard som han virker? Har han noen myke sider? Er han en nevrotiker - og hva tenker han om at han ikke fikk noen egne barn.&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3357</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Jan Thomas</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_8c6cac95-09b2-45dd-acac-9509b245dd77</link>
+      <description>For cirka 15 år siden kom han og lyste opp Norge med sin amerikanske stil. Men hvem er han, egentlig, denne Jan Thomas. Harald Eia og Nils Brenna har latt ham ta en personlighetstest og skal blant annet finne ut om han er skjør, om han er en surrekopp - og hvor lykkelig han er på en skala fra 1 til 10.</description>
+      <guid isPermaLink="false">l_8c6cac95-09b2-45dd-acac-9509b245dd77</guid>
+      <pubDate>Sun, 03 Mar 2019 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-03-03_1000_2492.MP3" type="audio/mpeg" length="80913796"></enclosure>
+      <itunes:title>Sånn er du, Jan Thomas</itunes:title>
+      <itunes:summary>For cirka 15 år siden kom han og lyste opp Norge med sin amerikanske stil. Men hvem er han, egentlig, denne Jan Thomas. Harald Eia og Nils Brenna har latt ham ta en personlighetstest og skal blant annet finne ut om han er skjør, om han er en surrekopp - og hvor lykkelig han er på en skala fra 1 til 10.</itunes:summary>
+      <itunes:duration>3367</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Henrik Mestad</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_d76320e2-2f81-42e7-a320-e22f8132e744</link>
+      <description>Skuespiller Henrik Mestad har tatt personlighetstest og Harald Eia og Nils Brenna lurer på: Er han en uredd machomann? Hvor fornøyd er han med seg selv. Hva tenker han om sosiale lag. De snakker også om noe Henrik har fantasert om i mange år. &#xA;</description>
+      <guid isPermaLink="false">l_d76320e2-2f81-42e7-a320-e22f8132e744</guid>
+      <pubDate>Sun, 24 Feb 2019 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-02-24_1000_3342.MP3" type="audio/mpeg" length="81505002"></enclosure>
+      <itunes:title>Sånn er du, Henrik Mestad</itunes:title>
+      <itunes:summary>Skuespiller Henrik Mestad har tatt personlighetstest og Harald Eia og Nils Brenna lurer på: Er han en uredd machomann? Hvor fornøyd er han med seg selv. Hva tenker han om sosiale lag. De snakker også om noe Henrik har fantasert om i mange år. &#xA;</itunes:summary>
+      <itunes:duration>3392</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Atle Antonsen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_14be636d-0d3f-4486-be63-6d0d3f4486f0</link>
+      <description>Nils Brenna og Harald Eia får besøk av Atle Antonsen, som har tatt personlighetstest. Og hvordan er han nå, egentlig? Er han en uplaget livsnyter? Hvor mye sinne har han i seg? Og er han en surrekopp? Og ikke minst: Er han en man kan komme nær?</description>
+      <guid isPermaLink="false">l_14be636d-0d3f-4486-be63-6d0d3f4486f0</guid>
+      <pubDate>Sun, 17 Feb 2019 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-02-17_1000_4178.MP3" type="audio/mpeg" length="81094357"></enclosure>
+      <itunes:title>Sånn er du: Atle Antonsen</itunes:title>
+      <itunes:summary>Nils Brenna og Harald Eia får besøk av Atle Antonsen, som har tatt personlighetstest. Og hvordan er han nå, egentlig? Er han en uplaget livsnyter? Hvor mye sinne har han i seg? Og er han en surrekopp? Og ikke minst: Er han en man kan komme nær?</itunes:summary>
+      <itunes:duration>3375</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Camilla Stoltenberg</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_9418bde3-8178-49b4-98bd-e3817899b431</link>
+      <description>Camilla Stoltenberg har tatt personlighetstest, og Harald Eia og Nils Brenna snakker blant annet med henne om godt humør, det å kjenne på skyld, og gleden over gamle matematiske teorier. </description>
+      <guid isPermaLink="false">l_9418bde3-8178-49b4-98bd-e3817899b431</guid>
+      <pubDate>Sun, 10 Feb 2019 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-02-10_1000_383.MP3" type="audio/mpeg" length="81145145"></enclosure>
+      <itunes:title>Sånn er du, Camilla Stoltenberg</itunes:title>
+      <itunes:summary>Camilla Stoltenberg har tatt personlighetstest, og Harald Eia og Nils Brenna snakker blant annet med henne om godt humør, det å kjenne på skyld, og gleden over gamle matematiske teorier. </itunes:summary>
+      <itunes:duration>3377</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Kristin Clemet</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_fe59749e-e307-4659-9974-9ee307d65932</link>
+      <description>Kristin Clemet har tatt personlighetstest og Harald Eia og Nils Brenna lurer blant annet på dette... Hvor streng er hun? Hvem irriterer hun seg over? Og - Hun er tydelig tilstede - men er hun også sjenert? Og hvorfor sluttet hun egentlig i partipolitikken? </description>
+      <guid isPermaLink="false">l_fe59749e-e307-4659-9974-9ee307d65932</guid>
+      <pubDate>Sun, 03 Feb 2019 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-02-03_1000_3401.MP3" type="audio/mpeg" length="81158306"></enclosure>
+      <itunes:title>Sånn er du, Kristin Clemet</itunes:title>
+      <itunes:summary>Kristin Clemet har tatt personlighetstest og Harald Eia og Nils Brenna lurer blant annet på dette... Hvor streng er hun? Hvem irriterer hun seg over? Og - Hun er tydelig tilstede - men er hun også sjenert? Og hvorfor sluttet hun egentlig i partipolitikken? </itunes:summary>
+      <itunes:duration>3377</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Marte Michelet</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_eec1d579-e3b5-43d5-81d5-79e3b5f3d5db</link>
+      <description>Nils Brenna og Harald Eia analyserer kjente personligheter med &#xA;personlighetstesten Big 5.&#xA;Forfatter Marte Michelet har tatt personlighetstest, og Nils Brenna og &#xA;Harald Eia skal blant annet finne ut av - hva er hun redd for? Er hun &#xA;selvgod? Hva er hennes forhold til å være sammen med andre &#xA;mennesker? Og ikke minst - hva er det som driver henne? </description>
+      <guid isPermaLink="false">l_eec1d579-e3b5-43d5-81d5-79e3b5f3d5db</guid>
+      <pubDate>Sun, 27 Jan 2019 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-01-27_1000_209.MP3" type="audio/mpeg" length="81053607"></enclosure>
+      <itunes:title>Sånn er du, Marte Michelet</itunes:title>
+      <itunes:summary>Nils Brenna og Harald Eia analyserer kjente personligheter med &#xA;personlighetstesten Big 5.&#xA;Forfatter Marte Michelet har tatt personlighetstest, og Nils Brenna og &#xA;Harald Eia skal blant annet finne ut av - hva er hun redd for? Er hun &#xA;selvgod? Hva er hennes forhold til å være sammen med andre &#xA;mennesker? Og ikke minst - hva er det som driver henne? </itunes:summary>
+      <itunes:duration>3373</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Astrid Uhrenholdt Jacbosen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_5496f160-3ce7-4236-96f1-603ce7b23668</link>
+      <description>&#xA;Harald Eia og Nils Brenna lurer på om Astrid Uhrenholdt Jacobsen er som andre idrettsfolk. Og hva handler alle tårene hennes om. Og - hvordan har det vært å være i skyggen av Marit Bjørgen i alle år. &#xA;&#xA;</description>
+      <guid isPermaLink="false">l_5496f160-3ce7-4236-96f1-603ce7b23668</guid>
+      <pubDate>Sun, 20 Jan 2019 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-01-20_1000_1077.MP3" type="audio/mpeg" length="80970863"></enclosure>
+      <itunes:title>Sånn er du, Astrid Uhrenholdt Jacbosen</itunes:title>
+      <itunes:summary>&#xA;Harald Eia og Nils Brenna lurer på om Astrid Uhrenholdt Jacobsen er som andre idrettsfolk. Og hva handler alle tårene hennes om. Og - hvordan har det vært å være i skyggen av Marit Bjørgen i alle år. &#xA;&#xA;</itunes:summary>
+      <itunes:duration>3370</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Egil Hegerberg</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_3f038514-b8d0-4cf3-8385-14b8d06cf313</link>
+      <description>Harald Eia og Nils Brenna har latt komiker og enmannsbandet Egil Hegerberg ta en personlighetstest og vil finne ut av dette originale mennesket. Hvilke av hans personlighetstrekk vil kunne belyse noe av hans rarhet - og ikke mint: Har han en sjel?&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_3f038514-b8d0-4cf3-8385-14b8d06cf313</guid>
+      <pubDate>Mon, 14 Jan 2019 10:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-01-14_0904_3104.MP3" type="audio/mpeg" length="81263005"></enclosure>
+      <itunes:title>Sånn er du, Egil Hegerberg</itunes:title>
+      <itunes:summary>Harald Eia og Nils Brenna har latt komiker og enmannsbandet Egil Hegerberg ta en personlighetstest og vil finne ut av dette originale mennesket. Hvilke av hans personlighetstrekk vil kunne belyse noe av hans rarhet - og ikke mint: Har han en sjel?&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3382</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Petter Stordalen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_0a56fdd9-09f0-43a0-96fd-d909f023a062</link>
+      <description>Petter Stordalen har tatt personlighets-test, og Harald Eia og Nils Brenna lurer på: HVOR fornøyd er han, egentlig? Hva er hans forhold til konflikter? Hvor ambisiøs er han - og hva tenker han om å være street smart.</description>
+      <guid isPermaLink="false">l_0a56fdd9-09f0-43a0-96fd-d909f023a062</guid>
+      <pubDate>Sun, 06 Jan 2019 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2019-01-06_1000_2967.MP3" type="audio/mpeg" length="80750798"></enclosure>
+      <itunes:title>Sånn er du, Petter Stordalen</itunes:title>
+      <itunes:summary>Petter Stordalen har tatt personlighets-test, og Harald Eia og Nils Brenna lurer på: HVOR fornøyd er han, egentlig? Hva er hans forhold til konflikter? Hvor ambisiøs er han - og hva tenker han om å være street smart.</itunes:summary>
+      <itunes:duration>3360</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2019">2019</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Kjetil Jansrud</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_91216e7b-5b74-409a-a16e-7b5b74c09a76</link>
+      <description>Utforkjører og olympisk mester Kjetil Jansrud har tatt personlighetstest, og vi får vite om det er en fordel å være introvert eller ekstrovert som alpinist for Norge. Er han konfliktsky? Hva tenker han om orden? Og har han interesser utenfor idretten?</description>
+      <guid isPermaLink="false">l_91216e7b-5b74-409a-a16e-7b5b74c09a76</guid>
+      <pubDate>Sun, 28 Oct 2018 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-10-28_1000_152.MP3" type="audio/mpeg" length="80852361"></enclosure>
+      <itunes:title>Sånn er du, Kjetil Jansrud</itunes:title>
+      <itunes:summary>Utforkjører og olympisk mester Kjetil Jansrud har tatt personlighetstest, og vi får vite om det er en fordel å være introvert eller ekstrovert som alpinist for Norge. Er han konfliktsky? Hva tenker han om orden? Og har han interesser utenfor idretten?</itunes:summary>
+      <itunes:duration>3365</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Ingrid Lorentzen </title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_3a757734-7744-42d0-b577-34774442d024</link>
+      <description>Ingrid Lorentzen har tatt personlighetstest og Harald Eia og Nils Brenna ønsker å finne ut hva det er ved henne som har fått henne til topps både som ballettdanser og sjef?Takler hun stress? Liker hun andre mennesker? Og har hun orden i sysakene? Og kanskje kan ett av hennes personlighetstrekk være med på å forklare hvordan hun møtte sin mann, Otto Jespersen.     &#xA;&#xA;</description>
+      <guid isPermaLink="false">l_3a757734-7744-42d0-b577-34774442d024</guid>
+      <pubDate>Sun, 21 Oct 2018 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-10-21_0900_2527.MP3" type="audio/mpeg" length="80923215"></enclosure>
+      <itunes:title>Sånn er du, Ingrid Lorentzen </itunes:title>
+      <itunes:summary>Ingrid Lorentzen har tatt personlighetstest og Harald Eia og Nils Brenna ønsker å finne ut hva det er ved henne som har fått henne til topps både som ballettdanser og sjef?Takler hun stress? Liker hun andre mennesker? Og har hun orden i sysakene? Og kanskje kan ett av hennes personlighetstrekk være med på å forklare hvordan hun møtte sin mann, Otto Jespersen.     &#xA;&#xA;</itunes:summary>
+      <itunes:duration>3368</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Per Sandberg</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_ad572bf1-e335-4adc-972b-f1e3353adccf</link>
+      <description>Har Per Sandberg egentlig så mye sinne? Hvor sosial er han? Har han orden i sysakene? Hva tenker han om ubetenksomhet? Dette og mere til får vi svaret på når Harald Eia og Nils Brenna snakker med Per Sandberg om hans resultater på personlighetstesten.</description>
+      <guid isPermaLink="false">l_ad572bf1-e335-4adc-972b-f1e3353adccf</guid>
+      <pubDate>Sun, 14 Oct 2018 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-10-14_0900_875.MP3" type="audio/mpeg" length="80982761"></enclosure>
+      <itunes:title>Sånn er du: Per Sandberg</itunes:title>
+      <itunes:summary>Har Per Sandberg egentlig så mye sinne? Hvor sosial er han? Har han orden i sysakene? Hva tenker han om ubetenksomhet? Dette og mere til får vi svaret på når Harald Eia og Nils Brenna snakker med Per Sandberg om hans resultater på personlighetstesten.</itunes:summary>
+      <itunes:duration>3370</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du - Anne Holt</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_49f998a1-dc68-437c-b998-a1dc68337ca8</link>
+      <description>Nils Brenna og Harald Eia analyserer kjente personligheter med &#xA;personlighetstesten Big 5. Anne Holt har tatt personlighetstest... Hun &#xA;virker selvsikker og trygg, men er det ting som plager henne? Hvor &#xA;sosial er hun egentlig, og hvor langt strekker empatien hennes? &#xA;Og - er hun klar over hvor politisk korrekt hun er?</description>
+      <guid isPermaLink="false">l_49f998a1-dc68-437c-b998-a1dc68337ca8</guid>
+      <pubDate>Sun, 07 Oct 2018 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-10-07_0900_3420.MP3" type="audio/mpeg" length="80625068"></enclosure>
+      <itunes:title>Sånn er du - Anne Holt</itunes:title>
+      <itunes:summary>Nils Brenna og Harald Eia analyserer kjente personligheter med &#xA;personlighetstesten Big 5. Anne Holt har tatt personlighetstest... Hun &#xA;virker selvsikker og trygg, men er det ting som plager henne? Hvor &#xA;sosial er hun egentlig, og hvor langt strekker empatien hennes? &#xA;Og - er hun klar over hvor politisk korrekt hun er?</itunes:summary>
+      <itunes:duration>3359</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Mari Maurstad</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_68b5c812-caa6-40d3-b5c8-12caa6f0d334</link>
+      <description>Mari Maurstad har tatt personlighetstest og Harald Eia og Nils Brenna skal blant annet finne ut om hun er en nevrotiker. Klarer hun å være helt stille? Hvor glad er hun egentlig i konflikter? Og på hvilken måte endret et møte med en sykepleier i Sør-Afrika livet hennes?&#xA;</description>
+      <guid isPermaLink="false">l_68b5c812-caa6-40d3-b5c8-12caa6f0d334</guid>
+      <pubDate>Sun, 30 Sep 2018 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-09-30_0900_980.MP3" type="audio/mpeg" length="80641196"></enclosure>
+      <itunes:title>Sånn er du: Mari Maurstad</itunes:title>
+      <itunes:summary>Mari Maurstad har tatt personlighetstest og Harald Eia og Nils Brenna skal blant annet finne ut om hun er en nevrotiker. Klarer hun å være helt stille? Hvor glad er hun egentlig i konflikter? Og på hvilken måte endret et møte med en sykepleier i Sør-Afrika livet hennes?&#xA;</itunes:summary>
+      <itunes:duration>3359</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du: Else Kåss Furuseth</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_6aacf14f-26d4-4546-acf1-4f26d4a546e2</link>
+      <description>Nils Brenna og Harald Eia analyserer kjente personligheter med personlighetstesten Big5. Else Kåss Furuseth har tatt personlighetstest og Harald Eia og Nils Brenna skal blant annet finne ut av hvor mye glede det er i henne, hva hun er mest redd for og om hun er konfliktsky. Vi får også høre litt om hvor ulikt Else Kåss Furuseth og Harald Eia jobber med humor.</description>
+      <guid isPermaLink="false">l_6aacf14f-26d4-4546-acf1-4f26d4a546e2</guid>
+      <pubDate>Sun, 23 Sep 2018 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-09-23_0900_688.MP3" type="audio/mpeg" length="80737388"></enclosure>
+      <itunes:title>Sånn er du: Else Kåss Furuseth</itunes:title>
+      <itunes:summary>Nils Brenna og Harald Eia analyserer kjente personligheter med personlighetstesten Big5. Else Kåss Furuseth har tatt personlighetstest og Harald Eia og Nils Brenna skal blant annet finne ut av hvor mye glede det er i henne, hva hun er mest redd for og om hun er konfliktsky. Vi får også høre litt om hvor ulikt Else Kåss Furuseth og Harald Eia jobber med humor.</itunes:summary>
+      <itunes:duration>3363</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Trond Viggo Torgersen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_0c2af0e1-61f6-4782-aaf0-e161f667824c</link>
+      <description>Norges Trond Viggo Torgersen har tatt personlighetstest, og Harald Eia og Nils Brenna skal blant annet finne ut om han er den gladlaksen han virker som. &#xA;Hva liker han å snakke med folk om?  Er han en rotekopp eller har han orden i sysakene? Og hva var det han sa som fikk daværende statsminister Jan P Syse til å skvette. &#xA;</description>
+      <guid isPermaLink="false">l_0c2af0e1-61f6-4782-aaf0-e161f667824c</guid>
+      <pubDate>Sat, 15 Sep 2018 16:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-09-15_1400_598.MP3" type="audio/mpeg" length="77914532"></enclosure>
+      <itunes:title>Sånn er du, Trond Viggo Torgersen</itunes:title>
+      <itunes:summary>Norges Trond Viggo Torgersen har tatt personlighetstest, og Harald Eia og Nils Brenna skal blant annet finne ut om han er den gladlaksen han virker som. &#xA;Hva liker han å snakke med folk om?  Er han en rotekopp eller har han orden i sysakene? Og hva var det han sa som fikk daværende statsminister Jan P Syse til å skvette. &#xA;</itunes:summary>
+      <itunes:duration>3242</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Stein Torleif Bjella </title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_870d6310-f4e7-4cfb-8d63-10f4e77cfbdb</link>
+      <description>Harald Eia og Nils Brenna har møtt dikter og visesanger Stein Torleif Bjella. Er han så introvert som mange skal ha det til? Hva blir han stresset av? Savner han jobben som fast ansatt? Og hvorfor mener Harald at Stein Torleif kanskje bør bo i leilighet?</description>
+      <guid isPermaLink="false">l_870d6310-f4e7-4cfb-8d63-10f4e77cfbdb</guid>
+      <pubDate>Sat, 08 Sep 2018 16:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-09-08_1400_1186.MP3" type="audio/mpeg" length="77468778"></enclosure>
+      <itunes:title>Sånn er du, Stein Torleif Bjella </itunes:title>
+      <itunes:summary>Harald Eia og Nils Brenna har møtt dikter og visesanger Stein Torleif Bjella. Er han så introvert som mange skal ha det til? Hva blir han stresset av? Savner han jobben som fast ansatt? Og hvorfor mener Harald at Stein Torleif kanskje bør bo i leilighet?</itunes:summary>
+      <itunes:duration>3224</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Audun Lysbakken</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_12f89f92-9951-4e31-b89f-929951ae31d0</link>
+      <description>Audun Lysbakken har tatt personlighetstest, og Harald Eia og Nils Brenna skal blant annet finne ut om han bekymrer seg for ting som om han har anlegg for sosial angst. Hvor glad er han i kunst, og hvor ambisiøs er han?</description>
+      <guid isPermaLink="false">l_12f89f92-9951-4e31-b89f-929951ae31d0</guid>
+      <pubDate>Sat, 01 Sep 2018 16:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-09-01_1400_112.MP3" type="audio/mpeg" length="77844308"></enclosure>
+      <itunes:title>Sånn er du, Audun Lysbakken</itunes:title>
+      <itunes:summary>Audun Lysbakken har tatt personlighetstest, og Harald Eia og Nils Brenna skal blant annet finne ut om han bekymrer seg for ting som om han har anlegg for sosial angst. Hvor glad er han i kunst, og hvor ambisiøs er han?</itunes:summary>
+      <itunes:duration>3239</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Thomas Seltzer</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_dec26cae-7526-4cb4-826c-ae75260cb42a</link>
+      <description>Thomas Seltzer har tatt personlighetstest og Harald Eia og Nils Brenna skal blant annet finne ut hva slags forhold han har til skam, hvordan han tar konflikter, hans evner til å konsentrere seg og hvor langt empatien strekker seg. </description>
+      <guid isPermaLink="false">l_dec26cae-7526-4cb4-826c-ae75260cb42a</guid>
+      <pubDate>Sun, 06 May 2018 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-05-06_0900_3365.MP3" type="audio/mpeg" length="80460523"></enclosure>
+      <itunes:title>Sånn er du, Thomas Seltzer</itunes:title>
+      <itunes:summary>Thomas Seltzer har tatt personlighetstest og Harald Eia og Nils Brenna skal blant annet finne ut hva slags forhold han har til skam, hvordan han tar konflikter, hans evner til å konsentrere seg og hvor langt empatien strekker seg. </itunes:summary>
+      <itunes:duration>3348</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Siv Jensen </title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_620c5032-146f-40fc-8c50-32146fd0fc0f</link>
+      <description>Siv Jensen har tatt personlighetstest og Nils Brenna og Harald Eia skal blant annet finne ut hvor nær og inderlig hun er, hvor var (uttales med lang a) hun er for andres følelser - og hvor mye plaget hun er av sine egne. Og hvor blid er hun egentlig?</description>
+      <guid isPermaLink="false">l_620c5032-146f-40fc-8c50-32146fd0fc0f</guid>
+      <pubDate>Sun, 29 Apr 2018 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-04-29_0900_3588.MP3" type="audio/mpeg" length="80748285"></enclosure>
+      <itunes:title>Sånn er du, Siv Jensen </itunes:title>
+      <itunes:summary>Siv Jensen har tatt personlighetstest og Nils Brenna og Harald Eia skal blant annet finne ut hvor nær og inderlig hun er, hvor var (uttales med lang a) hun er for andres følelser - og hvor mye plaget hun er av sine egne. Og hvor blid er hun egentlig?</itunes:summary>
+      <itunes:duration>3360</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Lars Lillo Stenberg</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_10f70f0c-7502-4589-b70f-0c7502058960</link>
+      <description>Nils Brenna og Harald Eia analyserer kjente personligheter med personlighetstesten Big 5&#xA;&#xA;Lars Lillo Stenberg har tatt personlighetstest, og Nils Brenna og Harald Eia skal blant finne ut om han er introvert, hva han er redd for og om hva slags forhold han har til skryting. De skal også prøve å analysere flere av hans sanger i lys av hans personlighetstrekk.&#xA;</description>
+      <guid isPermaLink="false">l_10f70f0c-7502-4589-b70f-0c7502058960</guid>
+      <pubDate>Sun, 22 Apr 2018 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-04-22_0900_640.MP3" type="audio/mpeg" length="80546156"></enclosure>
+      <itunes:title>Sånn er du, Lars Lillo Stenberg</itunes:title>
+      <itunes:summary>Nils Brenna og Harald Eia analyserer kjente personligheter med personlighetstesten Big 5&#xA;&#xA;Lars Lillo Stenberg har tatt personlighetstest, og Nils Brenna og Harald Eia skal blant finne ut om han er introvert, hva han er redd for og om hva slags forhold han har til skryting. De skal også prøve å analysere flere av hans sanger i lys av hans personlighetstrekk.&#xA;</itunes:summary>
+      <itunes:duration>3356</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Odd Nordstoga</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_0fd1cbc2-83c4-48f0-91cb-c283c478f08e</link>
+      <description>Odd Nordstoga har tatt personlighetstest, og Harald Eia og Nils Brenna skal blant annet prøve å finne ut HVOR koselig den koselige Odd Nordstoga er. </description>
+      <guid isPermaLink="false">l_0fd1cbc2-83c4-48f0-91cb-c283c478f08e</guid>
+      <pubDate>Sun, 15 Apr 2018 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-04-15_0900_1568.MP3" type="audio/mpeg" length="80571490"></enclosure>
+      <itunes:title>Sånn er du, Odd Nordstoga</itunes:title>
+      <itunes:summary>Odd Nordstoga har tatt personlighetstest, og Harald Eia og Nils Brenna skal blant annet prøve å finne ut HVOR koselig den koselige Odd Nordstoga er. </itunes:summary>
+      <itunes:duration>3353</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Solveig Kloppen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_487e4853-6af5-437d-be48-536af5837d2b</link>
+      <description>Vi har sett henne på TV, der hun ofte tar del i andres følelser. Men hvor preget og plaget er hun av sine egne følelser? Solveig Kloppen har tatt personlighetstest og vi får også vite om noe hun ikke er så åpen for, og hva hun mener om å ikke si sin ærlige mening. Samt mye mer!</description>
+      <guid isPermaLink="false">l_487e4853-6af5-437d-be48-536af5837d2b</guid>
+      <pubDate>Sun, 08 Apr 2018 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-04-08_0900_3063.MP3" type="audio/mpeg" length="80684968"></enclosure>
+      <itunes:title>Sånn er du, Solveig Kloppen</itunes:title>
+      <itunes:summary>Vi har sett henne på TV, der hun ofte tar del i andres følelser. Men hvor preget og plaget er hun av sine egne følelser? Solveig Kloppen har tatt personlighetstest og vi får også vite om noe hun ikke er så åpen for, og hva hun mener om å ikke si sin ærlige mening. Samt mye mer!</itunes:summary>
+      <itunes:duration>3358</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Christer Falck</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_38257f1b-1e98-49f0-a57f-1b1e9839f062</link>
+      <description>Christer Falck dukket opp i realityserien Robinson og ble utnevnt til riksklyse. Harald Eia og Nils Brenna skal ved hjelp av en personlighetstest få svar på hvor kynisk og hard han egentlig er. Vi skal også få vite hva som kunne fått ham mer sosial og hva slags forhold han har til kunst. Samt mye mer. </description>
+      <guid isPermaLink="false">l_38257f1b-1e98-49f0-a57f-1b1e9839f062</guid>
+      <pubDate>Sun, 25 Mar 2018 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-03-25_0900_1206.MP3" type="audio/mpeg" length="80600957"></enclosure>
+      <itunes:title>Sånn er du, Christer Falck</itunes:title>
+      <itunes:summary>Christer Falck dukket opp i realityserien Robinson og ble utnevnt til riksklyse. Harald Eia og Nils Brenna skal ved hjelp av en personlighetstest få svar på hvor kynisk og hard han egentlig er. Vi skal også få vite hva som kunne fått ham mer sosial og hva slags forhold han har til kunst. Samt mye mer. </itunes:summary>
+      <itunes:duration>3354</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Elin Ørjasæter</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_de0aab6c-5813-4e9e-8aab-6c5813de9e68</link>
+      <description>Elin Ørjasæter har tatt personlighetstest og Harald Eia og Nils Brenna snakker blant annet med henne om hvor lettstresset hun er, om hvorfor hun bærer nag til miljøbevegelsen, og om hvorfor hun kan og ikke kan være statsminister i Norge. Og hva slags forhold har hun, som har vokst opp i et kulturinteressert hjem, til kunst og kultur?</description>
+      <guid isPermaLink="false">l_de0aab6c-5813-4e9e-8aab-6c5813de9e68</guid>
+      <pubDate>Sat, 17 Mar 2018 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-03-17_1000_1788.MP3" type="audio/mpeg" length="80431684"></enclosure>
+      <itunes:title>Sånn er du, Elin Ørjasæter</itunes:title>
+      <itunes:summary>Elin Ørjasæter har tatt personlighetstest og Harald Eia og Nils Brenna snakker blant annet med henne om hvor lettstresset hun er, om hvorfor hun bærer nag til miljøbevegelsen, og om hvorfor hun kan og ikke kan være statsminister i Norge. Og hva slags forhold har hun, som har vokst opp i et kulturinteressert hjem, til kunst og kultur?</itunes:summary>
+      <itunes:duration>3347</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Fabian Stang </title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_1f0d7e1a-2978-4854-8d7e-1a2978a854a1</link>
+      <description>Fabian Stang har tatt personlighetstest, og Harald Eia og Nils Brenna skal få svar. Hva skjuler seg bak smilet til en av norsk offentlighets blideste personer? Hvordan er det med de mørkere sidene? Hvor opptatt er han av kunst? Og hva kan ellers være med på å forklare hans popularitet?&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_1f0d7e1a-2978-4854-8d7e-1a2978a854a1</guid>
+      <pubDate>Sun, 11 Mar 2018 11:36:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-03-11_0930_3689.MP3" type="audio/mpeg" length="80061162"></enclosure>
+      <itunes:title>Sånn er du, Fabian Stang </itunes:title>
+      <itunes:summary>Fabian Stang har tatt personlighetstest, og Harald Eia og Nils Brenna skal få svar. Hva skjuler seg bak smilet til en av norsk offentlighets blideste personer? Hvordan er det med de mørkere sidene? Hvor opptatt er han av kunst? Og hva kan ellers være med på å forklare hans popularitet?&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3332</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Anne B. Ragde</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_1dd366a5-1075-4d5f-9366-a510753d5f68</link>
+      <description>Nils Brenna og Harald Eia analyserer kjente personligheter med personlighetstesten Big 5.&#xA;&#xA;Harald Eia og Nils Brenna har vært i Trondheim og tatt personlighetstest på Anne B Ragde. Så - hvem er hun, egentlig? Er hun så glad som hun virker som? Hvor mye skamfølelse har hun? Hvilken gruppe mennesker er det hun mener bør skjerpe seg? Og hvilke fordeler er det med å være dame? </description>
+      <guid isPermaLink="false">l_1dd366a5-1075-4d5f-9366-a510753d5f68</guid>
+      <pubDate>Sun, 04 Mar 2018 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2018-03-04_1000_2825.MP3" type="audio/mpeg" length="80800950"></enclosure>
+      <itunes:title>Sånn er du, Anne B. Ragde</itunes:title>
+      <itunes:summary>Nils Brenna og Harald Eia analyserer kjente personligheter med personlighetstesten Big 5.&#xA;&#xA;Harald Eia og Nils Brenna har vært i Trondheim og tatt personlighetstest på Anne B Ragde. Så - hvem er hun, egentlig? Er hun så glad som hun virker som? Hvor mye skamfølelse har hun? Hvilken gruppe mennesker er det hun mener bør skjerpe seg? Og hvilke fordeler er det med å være dame? </itunes:summary>
+      <itunes:duration>3362</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Bård Vegar Solhjell</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_281c1d02-c105-48e7-9c1d-02c10578e7c3</link>
+      <description>&#34;Hvem er han, egentlig, tidligere minister og mangeårig SV-mann, Bård Vegar Solhjell? Har han noen overraskende sider? Hvor lett er det å bli venn med ham? Kan han komme til å melde overgang til Arbeiderpartiet? Og hvor skuffa ble han da han ikke ble SV-leder for noen år siden?&#34;</description>
+      <guid isPermaLink="false">l_281c1d02-c105-48e7-9c1d-02c10578e7c3</guid>
+      <pubDate>Sun, 14 May 2017 11:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-05-14_0930_3122.MP3" type="audio/mpeg" length="77809004"></enclosure>
+      <itunes:title>Sånn er du, Bård Vegar Solhjell</itunes:title>
+      <itunes:summary>&#34;Hvem er han, egentlig, tidligere minister og mangeårig SV-mann, Bård Vegar Solhjell? Har han noen overraskende sider? Hvor lett er det å bli venn med ham? Kan han komme til å melde overgang til Arbeiderpartiet? Og hvor skuffa ble han da han ikke ble SV-leder for noen år siden?&#34;</itunes:summary>
+      <itunes:duration>3241</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Anniken Huitfeldt</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_1afbb3ca-e54c-4a0e-bbb3-cae54cba0ea6</link>
+      <description>Anniken Huitfeldt har tatt personlighetstest, og vi får vite hva som skjuler seg bak det intense og uttrykksfulle ansiktet. Har hun mye agg i kroppen? Hvor mye medfølelse har hun, egentlig? Og hvorfor sier vennene hennes at hun er rar?&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_1afbb3ca-e54c-4a0e-bbb3-cae54cba0ea6</guid>
+      <pubDate>Sun, 07 May 2017 11:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-05-07_0930_4199.MP3" type="audio/mpeg" length="77876911"></enclosure>
+      <itunes:title>Sånn er du, Anniken Huitfeldt</itunes:title>
+      <itunes:summary>Anniken Huitfeldt har tatt personlighetstest, og vi får vite hva som skjuler seg bak det intense og uttrykksfulle ansiktet. Har hun mye agg i kroppen? Hvor mye medfølelse har hun, egentlig? Og hvorfor sier vennene hennes at hun er rar?&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3241</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Sondre Lerche</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_99cbf51c-3001-41b8-8bf5-1c300161b8ba</link>
+      <description>Sondre Lerche, kjæresten til Linnea Myhre og musiker med suksess i inn- og utland. Florlett beveger han rundt, umulig å få tak på. Så hvem er dette merkelige mennesket? Og hva er sammenhengen mellom hans musikk og hans kjærlighetsliv? Er Sondre Lerche en plaget sjel? Tenker han på seg selv som spesiell? Og hvorfor kan han ikke noter?&#xA;&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_99cbf51c-3001-41b8-8bf5-1c300161b8ba</guid>
+      <pubDate>Thu, 04 May 2017 09:58:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-05-04_0758_1471.MP3" type="audio/mpeg" length="77876281"></enclosure>
+      <itunes:title>Sånn er du, Sondre Lerche</itunes:title>
+      <itunes:summary>Sondre Lerche, kjæresten til Linnea Myhre og musiker med suksess i inn- og utland. Florlett beveger han rundt, umulig å få tak på. Så hvem er dette merkelige mennesket? Og hva er sammenhengen mellom hans musikk og hans kjærlighetsliv? Er Sondre Lerche en plaget sjel? Tenker han på seg selv som spesiell? Og hvorfor kan han ikke noter?&#xA;&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3241</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Gerd Kristiansen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_fc957666-49ab-4482-9576-6649ab248245</link>
+      <description>Gerd Kristiansen har tatt personlighetstest og møter Harald Eia og Nils Brenna for å snakke om funnene. Hvilke egenskaper har et menneske som går til topps i LO? Er hun empatisk? Glad i konflikt? Hissig? Introvert? Har hun mye glede i seg? Hvilken følelse får hun når hun tenker på Donald Trump? Og er hun redd for at robotene skal overta arbeidsplassene våre?</description>
+      <guid isPermaLink="false">l_fc957666-49ab-4482-9576-6649ab248245</guid>
+      <pubDate>Sun, 23 Apr 2017 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-04-23_0900_1144.MP3" type="audio/mpeg" length="77751980"></enclosure>
+      <itunes:title>Sånn er du, Gerd Kristiansen</itunes:title>
+      <itunes:summary>Gerd Kristiansen har tatt personlighetstest og møter Harald Eia og Nils Brenna for å snakke om funnene. Hvilke egenskaper har et menneske som går til topps i LO? Er hun empatisk? Glad i konflikt? Hissig? Introvert? Har hun mye glede i seg? Hvilken følelse får hun når hun tenker på Donald Trump? Og er hun redd for at robotene skal overta arbeidsplassene våre?</itunes:summary>
+      <itunes:duration>3239</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Bjørn Eidsvåg</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_f0a4d7b9-7716-47b7-a4d7-b9771667b70b</link>
+      <description>Bjørn Eidsvåg har tatt personlighetstest og Harald Eia og Nils Brenna skal finne ut: Er han er vâr kunstnersjel eller en nøktern realist? Er han inderlig og nær? Er han slapp eller har han mye disiplin? Og hva er han kjent for å være den raskeste i Norge til å gjøre? &#xA;</description>
+      <guid isPermaLink="false">l_f0a4d7b9-7716-47b7-a4d7-b9771667b70b</guid>
+      <pubDate>Sun, 09 Apr 2017 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-04-09_0900_366.MP3" type="audio/mpeg" length="77761772"></enclosure>
+      <itunes:title>Sånn er du, Bjørn Eidsvåg</itunes:title>
+      <itunes:summary>Bjørn Eidsvåg har tatt personlighetstest og Harald Eia og Nils Brenna skal finne ut: Er han er vâr kunstnersjel eller en nøktern realist? Er han inderlig og nær? Er han slapp eller har han mye disiplin? Og hva er han kjent for å være den raskeste i Norge til å gjøre? &#xA;</itunes:summary>
+      <itunes:duration>3240</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Hege Storhaug</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_682e35af-2ab2-446a-ae35-af2ab2746a42</link>
+      <description>&#xA;Kontroversielle Hege Storhaug har tatt personlighetstest, og Harald Eia og Nils Brenna skal prøve å finne ut: Hva er det i henne som driver henne? Hva var det som fikk henne engasjert i utgangspunktet? Og hvordan karakteriseres hun av folk som ikke liker henne. Og stemmer det? Lytt og få svar! :)&#xA;&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_682e35af-2ab2-446a-ae35-af2ab2746a42</guid>
+      <pubDate>Sun, 02 Apr 2017 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-04-02_0900_3315.MP3" type="audio/mpeg" length="77869384"></enclosure>
+      <itunes:title>Sånn er du, Hege Storhaug</itunes:title>
+      <itunes:summary>&#xA;Kontroversielle Hege Storhaug har tatt personlighetstest, og Harald Eia og Nils Brenna skal prøve å finne ut: Hva er det i henne som driver henne? Hva var det som fikk henne engasjert i utgangspunktet? Og hvordan karakteriseres hun av folk som ikke liker henne. Og stemmer det? Lytt og få svar! :)&#xA;&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3240</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Linda Eide</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_b312aa6d-1c3d-4ce9-92aa-6d1c3d7ce938</link>
+      <description>Linda Eide - ofte sett som blid og jovial på TV, men ved hjelp av en personlighetstest skal Harald Eia og Nils Brenna lete etter melankoli og tristesse i henne. Hun forteller om hvorfor hun har brukt treningsdress i rollen som programleder. Vi får også høre at hun blir beveget når hun tenker og snakker om - ja, hva da? Bli med, så får du høre!</description>
+      <guid isPermaLink="false">l_b312aa6d-1c3d-4ce9-92aa-6d1c3d7ce938</guid>
+      <pubDate>Sun, 26 Mar 2017 10:54:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-03-26_0854_860.MP3" type="audio/mpeg" length="77750252"></enclosure>
+      <itunes:title>Sånn er du, Linda Eide</itunes:title>
+      <itunes:summary>Linda Eide - ofte sett som blid og jovial på TV, men ved hjelp av en personlighetstest skal Harald Eia og Nils Brenna lete etter melankoli og tristesse i henne. Hun forteller om hvorfor hun har brukt treningsdress i rollen som programleder. Vi får også høre at hun blir beveget når hun tenker og snakker om - ja, hva da? Bli med, så får du høre!</itunes:summary>
+      <itunes:duration>3239</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Are Kalvø</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_128dc114-e8cb-4d9b-8dc1-14e8cb0d9b92</link>
+      <description>Are Kalvø har tatt personlighetstest, og Harald Eia og Nils Brenna vil finne ut: Er han&#xA;ironiker eller gladgutt? Hva liker han å gjøre på fest? Hva er det som plager ham? Og -&#xA;ikke minst: Hva er drivkreftene i denne fyren som har oppnådd så mye?</description>
+      <guid isPermaLink="false">l_128dc114-e8cb-4d9b-8dc1-14e8cb0d9b92</guid>
+      <pubDate>Sun, 19 Mar 2017 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-03-19_1000_1150.MP3" type="audio/mpeg" length="51956120"></enclosure>
+      <itunes:title>Sånn er du, Are Kalvø</itunes:title>
+      <itunes:summary>Are Kalvø har tatt personlighetstest, og Harald Eia og Nils Brenna vil finne ut: Er han&#xA;ironiker eller gladgutt? Hva liker han å gjøre på fest? Hva er det som plager ham? Og -&#xA;ikke minst: Hva er drivkreftene i denne fyren som har oppnådd så mye?</itunes:summary>
+      <itunes:duration>3241</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Kristin Skogen Lund</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_004dc1c0-9d78-42ee-8dc1-c09d78c2eeaf</link>
+      <description>Kristin Skogen Lund har tatt personlighetstest, og vi får svar på: Liker hun folk? Liker hun LO? Liker hun konflikter? Og hvor mange hadde kommet på fest hvis hun skulle bedt sine nære venner? I tillegg forteller hun om det gode forholdet til Gerd Kristiansen. </description>
+      <guid isPermaLink="false">l_004dc1c0-9d78-42ee-8dc1-c09d78c2eeaf</guid>
+      <pubDate>Sun, 12 Mar 2017 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-03-12_1000_1056.MP3" type="audio/mpeg" length="51931888"></enclosure>
+      <itunes:title>Sånn er du, Kristin Skogen Lund</itunes:title>
+      <itunes:summary>Kristin Skogen Lund har tatt personlighetstest, og vi får svar på: Liker hun folk? Liker hun LO? Liker hun konflikter? Og hvor mange hadde kommet på fest hvis hun skulle bedt sine nære venner? I tillegg forteller hun om det gode forholdet til Gerd Kristiansen. </itunes:summary>
+      <itunes:duration>3240</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Abid Raja</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_cce9faa3-3381-4802-a9fa-a333819802e2</link>
+      <description>Hvem er han, egentlig, denne Abid Raja, som vi ser snakkende og synsende rundt omkring. Er han så sosial som han virker? Klarer han å lytte? Hva er det som plager ham? Hvordan har hans muslimske bakgrunn preget ham? Hva er det som driver ham? Og ikke minst – har han hjerte for andre mennesker?&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_cce9faa3-3381-4802-a9fa-a333819802e2</guid>
+      <pubDate>Sun, 05 Mar 2017 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-03-05_1000_3681.MP3" type="audio/mpeg" length="77760620"></enclosure>
+      <itunes:title>Sånn er du, Abid Raja</itunes:title>
+      <itunes:summary>Hvem er han, egentlig, denne Abid Raja, som vi ser snakkende og synsende rundt omkring. Er han så sosial som han virker? Klarer han å lytte? Hva er det som plager ham? Hvordan har hans muslimske bakgrunn preget ham? Hva er det som driver ham? Og ikke minst – har han hjerte for andre mennesker?&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3239</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du,  Lene Kongsvik Johansen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_a00e207d-9936-47e4-8e20-7d993657e428</link>
+      <description>Komiker, skuespiller og tidligere norsklærer Lene Kongsvik Johansen kommer. Hvem er egentlig hun som kan grave frem så mange ulike karakterer og spille dem selv - med så stor overbevisning? Jobber hun frem et profesjonelt agg når hun spiller - eller har hun det kanskje selv? &#xA;&#xA;Er hun festens midtpunkt eller klamrer hun seg fast til en stol under hele festen? Og hva er det som driver henne? &#xA;&#xA;Vi får også høre henne parodiere en av NRKs utenrikskorrespondenter - på en litt infam måte. </description>
+      <guid isPermaLink="false">l_a00e207d-9936-47e4-8e20-7d993657e428</guid>
+      <pubDate>Sun, 26 Feb 2017 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-02-26_1000_2058.MP3" type="audio/mpeg" length="77746796"></enclosure>
+      <itunes:title>Sånn er du,  Lene Kongsvik Johansen</itunes:title>
+      <itunes:summary>Komiker, skuespiller og tidligere norsklærer Lene Kongsvik Johansen kommer. Hvem er egentlig hun som kan grave frem så mange ulike karakterer og spille dem selv - med så stor overbevisning? Jobber hun frem et profesjonelt agg når hun spiller - eller har hun det kanskje selv? &#xA;&#xA;Er hun festens midtpunkt eller klamrer hun seg fast til en stol under hele festen? Og hva er det som driver henne? &#xA;&#xA;Vi får også høre henne parodiere en av NRKs utenrikskorrespondenter - på en litt infam måte. </itunes:summary>
+      <itunes:duration>3239</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Kristoffer Joner!</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_32729a42-ff2c-4077-b29a-42ff2c60777f</link>
+      <description>Kristoffer Joner har tatt personlighetstest og kommer for å snakke om funnene. Vi har sett ham i mange roller, alt fra narkoman til geolog. Men hvilke krefter er det som jobber bak det uttrykksfulle ansiktet? Og er han en ensom ulv? Hva er det som provoserer ham? Han forteller også om hvorfor han en gang fikk en regning på 470.000 kroner. Og om hvorfor det er akkurat Arbeiderpartiet han er medlem av. </description>
+      <guid isPermaLink="false">l_32729a42-ff2c-4077-b29a-42ff2c60777f</guid>
+      <pubDate>Sun, 19 Feb 2017 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-02-19_1000_719.MP3" type="audio/mpeg" length="77821100"></enclosure>
+      <itunes:title>Sånn er du, Kristoffer Joner!</itunes:title>
+      <itunes:summary>Kristoffer Joner har tatt personlighetstest og kommer for å snakke om funnene. Vi har sett ham i mange roller, alt fra narkoman til geolog. Men hvilke krefter er det som jobber bak det uttrykksfulle ansiktet? Og er han en ensom ulv? Hva er det som provoserer ham? Han forteller også om hvorfor han en gang fikk en regning på 470.000 kroner. Og om hvorfor det er akkurat Arbeiderpartiet han er medlem av. </itunes:summary>
+      <itunes:duration>3242</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Liv Signe Navarsete</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_41d38df3-6a27-4294-938d-f36a275294d7</link>
+      <description>“Hva var det egentlig som rørte seg i Liv Signe Navarsete da hun snakket såpass hardt til en lokalsykehusforkjemper i 2011? Var det sinne? Var det andre følelser? Og hva tenker hun om Oslo? Stoler hun på folk? Og er hun egentlig ambisiøs?”</description>
+      <guid isPermaLink="false">l_41d38df3-6a27-4294-938d-f36a275294d7</guid>
+      <pubDate>Sun, 12 Feb 2017 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-02-12_1000_1305.MP3" type="audio/mpeg" length="77818796"></enclosure>
+      <itunes:title>Sånn er du, Liv Signe Navarsete</itunes:title>
+      <itunes:summary>“Hva var det egentlig som rørte seg i Liv Signe Navarsete da hun snakket såpass hardt til en lokalsykehusforkjemper i 2011? Var det sinne? Var det andre følelser? Og hva tenker hun om Oslo? Stoler hun på folk? Og er hun egentlig ambisiøs?”</itunes:summary>
+      <itunes:duration>3242</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Christian Ringnes</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_798ba4f0-52c7-4c76-8ba4-f052c78c765d</link>
+      <description>Denne gang er det investor Christian Ringnes som har tatt personlighetstest. Hvem er han, egentlig, denne rike fyren, som vi ofte ser med et smil om munnen? Er han så selvfornøyd som han ser ut? Han satte opp en skulpturpark på Ekeberg i Oslo og fikk masse motstand - hva gjorde kritikken med ham? Og hva er egentlig hans forhold til kunst? I tillegg snakker han om hvor grensene for empati går.&#xA;</description>
+      <guid isPermaLink="false">l_798ba4f0-52c7-4c76-8ba4-f052c78c765d</guid>
+      <pubDate>Sun, 05 Feb 2017 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-02-05_1000_453.MP3" type="audio/mpeg" length="51938991"></enclosure>
+      <itunes:title>Sånn er du, Christian Ringnes</itunes:title>
+      <itunes:summary>Denne gang er det investor Christian Ringnes som har tatt personlighetstest. Hvem er han, egentlig, denne rike fyren, som vi ofte ser med et smil om munnen? Er han så selvfornøyd som han ser ut? Han satte opp en skulpturpark på Ekeberg i Oslo og fikk masse motstand - hva gjorde kritikken med ham? Og hva er egentlig hans forhold til kunst? I tillegg snakker han om hvor grensene for empati går.&#xA;</itunes:summary>
+      <itunes:duration>3240</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Hanne Ørstavik</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_aa023889-814a-4ac1-8238-89814aeac134</link>
+      <description>Forfatter Hanne Ørstavik har kommet for å snakke om resultatene av&#xA;personlighetstesten hun har tatt. Hun tenker på seg selv som varm, men er hun egentlig&#xA;det? Hun forteller også om skammen hun har blitt kvitt, og om hun er i stand til å elske&#xA;en grei mann. I tillegg forklarer hun grundig og presist hva hun vil fortelle med sveisen&#xA;sin.</description>
+      <guid isPermaLink="false">l_aa023889-814a-4ac1-8238-89814aeac134</guid>
+      <pubDate>Sun, 29 Jan 2017 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-01-29_1000_1435.MP3" type="audio/mpeg" length="51931465"></enclosure>
+      <itunes:title>Sånn er du, Hanne Ørstavik</itunes:title>
+      <itunes:summary>Forfatter Hanne Ørstavik har kommet for å snakke om resultatene av&#xA;personlighetstesten hun har tatt. Hun tenker på seg selv som varm, men er hun egentlig&#xA;det? Hun forteller også om skammen hun har blitt kvitt, og om hun er i stand til å elske&#xA;en grei mann. I tillegg forklarer hun grundig og presist hva hun vil fortelle med sveisen&#xA;sin.</itunes:summary>
+      <itunes:duration>3240</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Torbjørn Røe Isaksen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_626767cc-219d-4365-a767-cc219d436548</link>
+      <description>Denne gangen er det kunnskapsminister Torbjørn Røe Isaksen som har tatt personlighetstest. Harald Eia og Nils Brenna graver i funnene. Det er noe Torbjørn er veldig redd for, men så er det også noe han ikke er redd for i det hele tatt. Hvor mange nære venner har han? Hva er hans forhold til å juble med hendene over hodet? &#xA;Du vil også få høre at Torbjørn blir utfordret av Harald på et dikt, og at han både klarer å gjette forfatter - og resitere diktet! Og så skal han selvsagt svare på om han er ambisiøs.&#xA;</description>
+      <guid isPermaLink="false">l_626767cc-219d-4365-a767-cc219d436548</guid>
+      <pubDate>Sun, 22 Jan 2017 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-01-22_1000_3308.MP3" type="audio/mpeg" length="51955713"></enclosure>
+      <itunes:title>Sånn er du, Torbjørn Røe Isaksen</itunes:title>
+      <itunes:summary>Denne gangen er det kunnskapsminister Torbjørn Røe Isaksen som har tatt personlighetstest. Harald Eia og Nils Brenna graver i funnene. Det er noe Torbjørn er veldig redd for, men så er det også noe han ikke er redd for i det hele tatt. Hvor mange nære venner har han? Hva er hans forhold til å juble med hendene over hodet? &#xA;Du vil også få høre at Torbjørn blir utfordret av Harald på et dikt, og at han både klarer å gjette forfatter - og resitere diktet! Og så skal han selvsagt svare på om han er ambisiøs.&#xA;</itunes:summary>
+      <itunes:duration>3241</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Pernille Sørensen</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_461cc7e2-dce9-4aca-9cc7-e2dce92aca14</link>
+      <description>Denne gang er det Pernille Sørensen som har tatt personlighetstest. Hun fryktet på forhånd at hun var et gjennomsnittlig A4-menneske. Det skal Harald Eia og Nils Brenna drøfte sammen med henne når de lar henne få resultatene i studio for første gang. Vi ser henne på Nytt på nytt og tenker at hun er blid, lett og gøyal, men hun engster seg en del. Og hvor mye empati har hun? Og hvilket personlighetstrekk får henne til å hylle kongehuset?&#xA;</description>
+      <guid isPermaLink="false">l_461cc7e2-dce9-4aca-9cc7-e2dce92aca14</guid>
+      <pubDate>Sun, 15 Jan 2017 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-01-15_1000_228.MP3" type="audio/mpeg" length="51943589"></enclosure>
+      <itunes:title>Sånn er du, Pernille Sørensen</itunes:title>
+      <itunes:summary>Denne gang er det Pernille Sørensen som har tatt personlighetstest. Hun fryktet på forhånd at hun var et gjennomsnittlig A4-menneske. Det skal Harald Eia og Nils Brenna drøfte sammen med henne når de lar henne få resultatene i studio for første gang. Vi ser henne på Nytt på nytt og tenker at hun er blid, lett og gøyal, men hun engster seg en del. Og hvor mye empati har hun? Og hvilket personlighetstrekk får henne til å hylle kongehuset?&#xA;</itunes:summary>
+      <itunes:duration>3240</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+    <item>
+      <title>Sånn er du, Karl Ove Knausgård</title>
+      <link>https://radio.nrk.no/podkast/saann_er_du/l_5852fa0f-d3e6-4c75-92fa-0fd3e6cc75db</link>
+      <description>Hvem er Karl Ove Knausgård? For å finne ut av dette har Harald Eia og Nils Brenna latt ham ta personlighetstest. Nå sitter Harald og Nils med resultatene. Sammen snakker de med Knausgård - som i studio får resultatene for første gang - om funnene. Hvor nevrotisk er han, egentlig? Er han redd for Trump? Hvilken situasjon i 14-årsalderen var med på å utløse hans selvbevissthet? Hva er det som driver ham? Har han tro på menneskeheten?</description>
+      <guid isPermaLink="false">l_5852fa0f-d3e6-4c75-92fa-0fd3e6cc75db</guid>
+      <pubDate>Sun, 08 Jan 2017 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/saann_er_du/saann_er_du_2017-01-08_1445_4030.MP3" type="audio/mpeg" length="51948187"></enclosure>
+      <itunes:title>Sånn er du, Karl Ove Knausgård</itunes:title>
+      <itunes:summary>Hvem er Karl Ove Knausgård? For å finne ut av dette har Harald Eia og Nils Brenna latt ham ta personlighetstest. Nå sitter Harald og Nils med resultatene. Sammen snakker de med Knausgård - som i studio får resultatene for første gang - om funnene. Hvor nevrotisk er han, egentlig? Er han redd for Trump? Hvilken situasjon i 14-årsalderen var med på å utløse hans selvbevissthet? Hva er det som driver ham? Har han tro på menneskeheten?</itunes:summary>
+      <itunes:duration>3241</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XKYjkB8KrBogbzgi2yDQQlSjsGLyXAtKPSV9YUcFOGQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2017">2017</podcast:season>
+    </item>
+  </channel>
+</rss>

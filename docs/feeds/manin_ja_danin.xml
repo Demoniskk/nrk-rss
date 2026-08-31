@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manin ja danin</title>
+    <link>https://radio.nrk.no/podkast/manin_ja_danin</link>
+    <description>Mii lea sámevuohta, ja mii lea sámi dovdomearka? Maid mearkkaša giella, kultuvra, ávvudeapmi ja politihkka sápmelaccaide?&#xA;Ánne Márjá Guttorm Graven ja Lemet Ailu Anti geahcadeaba makkár guottut dat gávdnojit.&#xA;Dása ii sáhte vástidit riekta iige boastutge, ja ii leat daddjon ahte sudno oaivilat álo dollet deaivása.&#xA;&#xA;</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Tue, 06 Mar 2018 06:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/manin_ja_danin.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Mii lea sámevuohta, ja mii lea sámi dovdomearka? Maid mearkkaša giella, kultuvra, ávvudeapmi ja politihkka sápmelaccaide?&#xA;Ánne Márjá Guttorm Graven ja Lemet Ailu Anti geahcadeaba makkár guottut dat gávdnojit.&#xA;Dása ii sáhte vástidit riekta iige boastutge, ja ii leat daddjon ahte sudno oaivilat álo dollet deaivása.&#xA;&#xA;</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/xticSOo9hWGMeA1y6dMw5wK1Nzrsmm5fg4M5_57IvE0w"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/xticSOo9hWGMeA1y6dMw5wK1Nzrsmm5fg4M5_57IvE0w</url>
+      <title>Manin ja danin</title>
+      <link>https://radio.nrk.no/podkast/manin_ja_danin</link>
+    </image>
+    <item>
+      <title>Mánáid bajásgeassin johkarávggain</title>
+      <link>https://radio.nrk.no/podkast/manin_ja_danin/l_04e428ef-55f9-4f72-a428-ef55f90f72ca</link>
+      <description>Dán oasis leat earret eará diiddat, gopmit, gufihttarat, noaiddit ja sátnevádjasat. Nubbi jáhkká son ii jáhke dušši dološ áššiide, muhto leaš bat gal áiddo nu?</description>
+      <guid isPermaLink="false">l_04e428ef-55f9-4f72-a428-ef55f90f72ca</guid>
+      <pubDate>Tue, 06 Mar 2018 07:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/manin_ja_danin/manin_ja_danin_2018-03-06_0600_3530.MP3" type="audio/mpeg" length="69847714"></enclosure>
+      <itunes:title>Mánáid bajásgeassin johkarávggain</itunes:title>
+      <itunes:summary>Dán oasis leat earret eará diiddat, gopmit, gufihttarat, noaiddit ja sátnevádjasat. Nubbi jáhkká son ii jáhke dušši dološ áššiide, muhto leaš bat gal áiddo nu?</itunes:summary>
+      <itunes:duration>2906</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xticSOo9hWGMeA1y6dMw5wK1Nzrsmm5fg4M5_57IvE0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2018">201803</podcast:season>
+    </item>
+    <item>
+      <title>Giellamáhttu vai gielladáhttu</title>
+      <link>https://radio.nrk.no/podkast/manin_ja_danin/l_ccf4d9f7-231c-4cca-b4d9-f7231cbcca94</link>
+      <description>Mo lea guovtti eatnigielat sámegielaga giellaárgabeaivi duođas? Mo lea min gielladilli? Ovdamearkkat sihke bargosajis, riegádanbeaivvedoaluin, ja muđuid árgabeaivvis. Sámegiella ii oba leatge erenoamáš giella, beaškala vel giellabargi. Ja Báhkkiljogas lea dat áidna rivttes sámegiella, vaaaai? </description>
+      <guid isPermaLink="false">l_ccf4d9f7-231c-4cca-b4d9-f7231cbcca94</guid>
+      <pubDate>Tue, 27 Feb 2018 07:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/manin_ja_danin/manin_ja_danin_2018-02-27_0600_3478.MP3" type="audio/mpeg" length="71524268"></enclosure>
+      <itunes:title>Giellamáhttu vai gielladáhttu</itunes:title>
+      <itunes:summary>Mo lea guovtti eatnigielat sámegielaga giellaárgabeaivi duođas? Mo lea min gielladilli? Ovdamearkkat sihke bargosajis, riegádanbeaivvedoaluin, ja muđuid árgabeaivvis. Sámegiella ii oba leatge erenoamáš giella, beaškala vel giellabargi. Ja Báhkkiljogas lea dat áidna rivttes sámegiella, vaaaai? </itunes:summary>
+      <itunes:duration>2980</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xticSOo9hWGMeA1y6dMw5wK1Nzrsmm5fg4M5_57IvE0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2018">201802</podcast:season>
+    </item>
+    <item>
+      <title>Boazodoallu buolvvas dronii</title>
+      <link>https://radio.nrk.no/podkast/manin_ja_danin/l_716e1f29-1642-4f4d-ae1f-2916426f4dee</link>
+      <description> Jus leat boazodoalli, leago dus de lohpi leat eará dietnasis? Nuppi mielas leat badjeolbmot buidon, nubbi ges ii duostta jienádit maidige dan áššis. Muhto go dásseárvvu digaštallagoahtiba, de gal leat garra oaivilat goappašiin.  &#xA;</description>
+      <guid isPermaLink="false">l_716e1f29-1642-4f4d-ae1f-2916426f4dee</guid>
+      <pubDate>Tue, 20 Feb 2018 07:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/manin_ja_danin/manin_ja_danin_2018-02-20_0600_4241.MP3" type="audio/mpeg" length="72619244"></enclosure>
+      <itunes:title>Boazodoallu buolvvas dronii</itunes:title>
+      <itunes:summary> Jus leat boazodoalli, leago dus de lohpi leat eará dietnasis? Nuppi mielas leat badjeolbmot buidon, nubbi ges ii duostta jienádit maidige dan áššis. Muhto go dásseárvvu digaštallagoahtiba, de gal leat garra oaivilat goappašiin.  &#xA;</itunes:summary>
+      <itunes:duration>3025</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xticSOo9hWGMeA1y6dMw5wK1Nzrsmm5fg4M5_57IvE0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2018">201802</podcast:season>
+    </item>
+    <item>
+      <title>Gákti ja su fearánat </title>
+      <link>https://radio.nrk.no/podkast/manin_ja_danin/l_a84da92e-0a53-4722-8da9-2e0a53a7227b</link>
+      <description>Goas lea lohpi geavahišgoahtit gávtti, dahje nuppi guovllu gávtti, ja ferte go lonuhit gávtti jus náitala, ja jus ii lonut, leago dalle hui suohpáheapme? </description>
+      <guid isPermaLink="false">l_a84da92e-0a53-4722-8da9-2e0a53a7227b</guid>
+      <pubDate>Tue, 13 Feb 2018 07:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/manin_ja_danin/manin_ja_danin_2018-02-13_0600_2705.MP3" type="audio/mpeg" length="74689964"></enclosure>
+      <itunes:title>Gákti ja su fearánat </itunes:title>
+      <itunes:summary>Goas lea lohpi geavahišgoahtit gávtti, dahje nuppi guovllu gávtti, ja ferte go lonuhit gávtti jus náitala, ja jus ii lonut, leago dalle hui suohpáheapme? </itunes:summary>
+      <itunes:duration>3112</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xticSOo9hWGMeA1y6dMw5wK1Nzrsmm5fg4M5_57IvE0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2018">201802</podcast:season>
+    </item>
+    <item>
+      <title>Sámi álbmotbeaivi, mo leat ávvuvierut? </title>
+      <link>https://radio.nrk.no/podkast/manin_ja_danin/l_a7197102-5051-4842-9971-0250519842a9</link>
+      <description>Mo lea buoremus ávvudit Sámi álbmotbeaivvi? Lemet Aillus ja Ánne Márjjás leat veahá goabbatlágan jurdagat ja vásáhusat Sámi álbmotbeivviin. Ja mo lea Sámi vuohki ávvudit, leago mis sierra vuohki?</description>
+      <guid isPermaLink="false">l_a7197102-5051-4842-9971-0250519842a9</guid>
+      <pubDate>Tue, 06 Feb 2018 07:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/manin_ja_danin/manin_ja_danin_2018-02-06_0600_4015.MP3" type="audio/mpeg" length="72745388"></enclosure>
+      <itunes:title>Sámi álbmotbeaivi, mo leat ávvuvierut? </itunes:title>
+      <itunes:summary>Mo lea buoremus ávvudit Sámi álbmotbeaivvi? Lemet Aillus ja Ánne Márjjás leat veahá goabbatlágan jurdagat ja vásáhusat Sámi álbmotbeivviin. Ja mo lea Sámi vuohki ávvudit, leago mis sierra vuohki?</itunes:summary>
+      <itunes:duration>3031</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xticSOo9hWGMeA1y6dMw5wK1Nzrsmm5fg4M5_57IvE0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2018">201802</podcast:season>
+    </item>
+    <item>
+      <title>Lávostallan Geaimmejávrris</title>
+      <link>https://radio.nrk.no/podkast/manin_ja_danin/l_9dab2c88-e316-4091-ab2c-88e3162091fa</link>
+      <description>Vuosttaš oasis muittašeaba Lemet Ailu ja Ánne Márjá mo lei dalle go lávostalaiga Geaimmejávrris, seammás go oahpásmuvvagoahtiba nubbi nuppiin. Gulat maid makkár fáttáid soai áiguba guoskkahit dán ráiddus. </description>
+      <guid isPermaLink="false">l_9dab2c88-e316-4091-ab2c-88e3162091fa</guid>
+      <pubDate>Tue, 30 Jan 2018 07:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/manin_ja_danin/manin_ja_danin_2018-01-30_0800_1803.MP3" type="audio/mpeg" length="76012460"></enclosure>
+      <itunes:title>Lávostallan Geaimmejávrris</itunes:title>
+      <itunes:summary>Vuosttaš oasis muittašeaba Lemet Ailu ja Ánne Márjá mo lei dalle go lávostalaiga Geaimmejávrris, seammás go oahpásmuvvagoahtiba nubbi nuppiin. Gulat maid makkár fáttáid soai áiguba guoskkahit dán ráiddus. </itunes:summary>
+      <itunes:duration>3167</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xticSOo9hWGMeA1y6dMw5wK1Nzrsmm5fg4M5_57IvE0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2018">201801</podcast:season>
+    </item>
+    <item>
+      <title>Manin ja danin boahtá</title>
+      <link>https://radio.nrk.no/podkast/manin_ja_danin/l_2ec95c64-4d1a-4825-895c-644d1a08257e</link>
+      <description>Somás fearániid bokte oahpásmuvaiga. Dál lágideaba podkasta sámegillii. Soai guorahallaba iežaska oaiviliid iešguđetge servodatáššiin. </description>
+      <guid isPermaLink="false">l_2ec95c64-4d1a-4825-895c-644d1a08257e</guid>
+      <pubDate>Mon, 29 Jan 2018 15:15:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/manin_ja_danin/manin_ja_danin_2018-01-29_1415_2343.MP3" type="audio/mpeg" length="439323"></enclosure>
+      <itunes:title>Manin ja danin boahtá</itunes:title>
+      <itunes:summary>Somás fearániid bokte oahpásmuvaiga. Dál lágideaba podkasta sámegillii. Soai guorahallaba iežaska oaiviliid iešguđetge servodatáššiin. </itunes:summary>
+      <itunes:duration>14</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xticSOo9hWGMeA1y6dMw5wK1Nzrsmm5fg4M5_57IvE0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2018">201801</podcast:season>
+    </item>
+  </channel>
+</rss>

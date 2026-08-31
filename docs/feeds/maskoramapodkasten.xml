@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maskorama-podkasten</title>
+    <link>https://radio.nrk.no/podkast/maskoramapodkasten</link>
+    <description>Få Maskorama-hintene du ikke finner noe annet sted, møt kjente gjester med ville teorier og, ikke minst, hør de hemmelige kjendisenes egne historier!</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Sun, 20 Nov 2022 11:20:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/maskoramapodkasten.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Få Maskorama-hintene du ikke finner noe annet sted, møt kjente gjester med ville teorier og, ikke minst, hør de hemmelige kjendisenes egne historier!</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/Omy-SC7AViL6wyx9tTxDjwmGc1vC68f3pO7NscoqmBWA"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/Omy-SC7AViL6wyx9tTxDjwmGc1vC68f3pO7NscoqmBWA</url>
+      <title>Maskorama-podkasten</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten</link>
+    </image>
+    <item>
+      <title>Avslørt! Møt Zombien, Ulven og Rabagasten!</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_84242507-7818-43cc-a425-07781813ccb8</link>
+      <description>For første gang får finalistene møte hverandre. Hør alt om løgnene og opplevelsene de har hatt bak maskene. Pølsa kommer med hint til neste sesong!</description>
+      <guid isPermaLink="false">l_84242507-7818-43cc-a425-07781813ccb8</guid>
+      <pubDate>Sun, 20 Nov 2022 12:20:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/f30198ec-446e-4f23-9528-dc77a437be64_0_ID192MP3.mp3" type="audio/mpeg" length="51677613"></enclosure>
+      <itunes:title>Avslørt! Møt Zombien, Ulven og Rabagasten!</itunes:title>
+      <itunes:summary>For første gang får finalistene møte hverandre. Hør alt om løgnene og opplevelsene de har hatt bak maskene. Pølsa kommer med hint til neste sesong!</itunes:summary>
+      <itunes:duration>2153</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Omy-SC7AViL6wyx9tTxDjwmGc1vC68f3pO7NscoqmBWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Nå avsløres alle 3  – kanskje?</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_c56f57ad-93ed-41e7-af57-ad93ed91e751</link>
+      <description>Thomas Numme blir forfjamset når Øyunn og Odd-Bjørn ringer for å avsløre han. Ukens gjestedommer er klar og Rabagasten skaper hodebry.</description>
+      <guid isPermaLink="false">l_c56f57ad-93ed-41e7-af57-ad93ed91e751</guid>
+      <pubDate>Thu, 17 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/9ba75f52-844e-42ef-8b68-f655eccd66a0_0_ID192MP3.mp3" type="audio/mpeg" length="54289773"></enclosure>
+      <itunes:title>Nå avsløres alle 3  – kanskje?</itunes:title>
+      <itunes:summary>Thomas Numme blir forfjamset når Øyunn og Odd-Bjørn ringer for å avsløre han. Ukens gjestedommer er klar og Rabagasten skaper hodebry.</itunes:summary>
+      <itunes:duration>2262</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5LTod52fV94gessXVjjR7AEsh6iotcKbUXN-LIOWdutA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Nå avslører Huldra alle sine hemmeligheter</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_c48929fb-dded-4c40-8929-fbddedac404c</link>
+      <description>Alexandra Joner deler en observasjon om Zombien som gjør oss helt sikre! Andreas har funnet ut noe viktig om Daniel Kvammen. Lurer Ulven oss?</description>
+      <guid isPermaLink="false">l_c48929fb-dded-4c40-8929-fbddedac404c</guid>
+      <pubDate>Sun, 13 Nov 2022 15:20:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/bc60149c-8870-48c3-8835-b8e32f93c7ea_0_ID192MP3.mp3" type="audio/mpeg" length="51410925"></enclosure>
+      <itunes:title>Nå avslører Huldra alle sine hemmeligheter</itunes:title>
+      <itunes:summary>Alexandra Joner deler en observasjon om Zombien som gjør oss helt sikre! Andreas har funnet ut noe viktig om Daniel Kvammen. Lurer Ulven oss?</itunes:summary>
+      <itunes:duration>2142</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/184WlrSB1hGwnzCT_MT8gw8okB6z9fzzQ4mmHYjf8Dnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Alexandra Joner har plassert et hint i studio</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_0bc35e4d-4504-4455-835e-4d4504b4553d</link>
+      <description>Detektivene gjør en oppdagelse som setter Mads Hansen på kartet. Og Sarah har dekodet et vanskelig hint på Huldra som kun kan passe på en mistenkt.</description>
+      <guid isPermaLink="false">l_0bc35e4d-4504-4455-835e-4d4504b4553d</guid>
+      <pubDate>Thu, 10 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/65b1de4e-9d39-4282-aaa0-525ce669ffe9_0_ID192MP3.mp3" type="audio/mpeg" length="54682605"></enclosure>
+      <itunes:title>Alexandra Joner har plassert et hint i studio</itunes:title>
+      <itunes:summary>Detektivene gjør en oppdagelse som setter Mads Hansen på kartet. Og Sarah har dekodet et vanskelig hint på Huldra som kun kan passe på en mistenkt.</itunes:summary>
+      <itunes:duration>2278</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ic-RTaT_ZBTIYrPg-y-7BQqqJFhCnwDXrbJtrQ5zzulw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Maud Angelica Behn har sett noe om ulven</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_f4543fbb-047f-41c5-943f-bb047f61c551</link>
+      <description>Maud Angelica Behn er skikkelig dårlig til å lyve, og må unnskylde til en venninne. Maskorama-eksperten har dekodet et vanskelig hint fra Rabagasten.</description>
+      <guid isPermaLink="false">l_f4543fbb-047f-41c5-943f-bb047f61c551</guid>
+      <pubDate>Sun, 06 Nov 2022 15:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/93b03e89-2092-4090-8aa1-eede5fe682f9_0_ID192MP3.mp3" type="audio/mpeg" length="54561645"></enclosure>
+      <itunes:title>Maud Angelica Behn har sett noe om ulven</itunes:title>
+      <itunes:summary>Maud Angelica Behn er skikkelig dårlig til å lyve, og må unnskylde til en venninne. Maskorama-eksperten har dekodet et vanskelig hint fra Rabagasten.</itunes:summary>
+      <itunes:duration>2273</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Omy-SC7AViL6wyx9tTxDjwmGc1vC68f3pO7NscoqmBWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Solveig og Glenn pakker opp et søtt hint</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_28660bbe-3ea7-4103-a60b-be3ea7f10372</link>
+      <description>Solveig Kloppen og Glenn Jensen låser Huldra lett. Markus Neby blir lurt av Solveig, eller er det egentlig Markus som lurer Solveig?</description>
+      <guid isPermaLink="false">l_28660bbe-3ea7-4103-a60b-be3ea7f10372</guid>
+      <pubDate>Thu, 03 Nov 2022 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/c0f67245-9fad-49bb-8b08-70a3bf024361_0_ID192MP3.mp3" type="audio/mpeg" length="54289197"></enclosure>
+      <itunes:title>Solveig og Glenn pakker opp et søtt hint</itunes:title>
+      <itunes:summary>Solveig Kloppen og Glenn Jensen låser Huldra lett. Markus Neby blir lurt av Solveig, eller er det egentlig Markus som lurer Solveig?</itunes:summary>
+      <itunes:duration>2261</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1bY7obxaBFVNiZ7Lbv5wuwNy2bsOZfu1ZdP5Qg0vYHkg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Ingrid har hørt noe fra teltet til Rabagasten!</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_6df9206d-dc45-4bfb-b920-6ddc45ebfb1a</link>
+      <description>Noen blir skikkelig skremt! Ingrid avslører Solveig Kloppen som hemmelig alliert og Sarah og analyse-Andreas låser Huldra- nå er de 110% sikre!</description>
+      <guid isPermaLink="false">l_6df9206d-dc45-4bfb-b920-6ddc45ebfb1a</guid>
+      <pubDate>Sun, 30 Oct 2022 15:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/ebedd2ba-5215-44dc-8ef7-463f60f676e7_0_ID192MP3.mp3" type="audio/mpeg" length="51094125"></enclosure>
+      <itunes:title>Ingrid har hørt noe fra teltet til Rabagasten!</itunes:title>
+      <itunes:summary>Noen blir skikkelig skremt! Ingrid avslører Solveig Kloppen som hemmelig alliert og Sarah og analyse-Andreas låser Huldra- nå er de 110% sikre!</itunes:summary>
+      <itunes:duration>2128</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bGo_cWSBCBtlTbfy2ffgZQzv0ve4G9C-CfSg1BElP4Qg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Det kommer et flyvende nytt hint!</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_4197e677-985b-4ea7-97e6-77985bdea7da</link>
+      <description>Agnetesh er hovedmistenkt og sier mye rart når Ingrid og Jonas ringer for å avsløre henne. En lytter kommer med en viktig observasjon om Huldra!</description>
+      <guid isPermaLink="false">l_4197e677-985b-4ea7-97e6-77985bdea7da</guid>
+      <pubDate>Thu, 27 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/b3af39f8-beb5-4c28-94e0-f55c3cbf10e9_0_ID192MP3.mp3" type="audio/mpeg" length="51030189"></enclosure>
+      <itunes:title>Det kommer et flyvende nytt hint!</itunes:title>
+      <itunes:summary>Agnetesh er hovedmistenkt og sier mye rart når Ingrid og Jonas ringer for å avsløre henne. En lytter kommer med en viktig observasjon om Huldra!</itunes:summary>
+      <itunes:duration>2126</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qU06dPjDSb0fcj-6IP0vqwhvJtmeN8_4bNjjAV9WUFvg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Fantorangen har kjent en lukt fra Dandyen</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_9a0a2cec-3d7a-4495-8a2c-ec3d7ad495f0</link>
+      <description>Atle Pettersen, og Vita og Wanda sjekkes foreløpig ut. Sarah har fått en ny åpenbaring, og er nå helt sikker på hvem som gjemmer seg bak Dandyen!</description>
+      <guid isPermaLink="false">l_9a0a2cec-3d7a-4495-8a2c-ec3d7ad495f0</guid>
+      <pubDate>Sun, 23 Oct 2022 16:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/a9db020b-e90c-4402-8844-9a8f22da792a_0_ID192MP3.mp3" type="audio/mpeg" length="47294253"></enclosure>
+      <itunes:title>Fantorangen har kjent en lukt fra Dandyen</itunes:title>
+      <itunes:summary>Atle Pettersen, og Vita og Wanda sjekkes foreløpig ut. Sarah har fått en ny åpenbaring, og er nå helt sikker på hvem som gjemmer seg bak Dandyen!</itunes:summary>
+      <itunes:duration>1970</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CpMYgrIuahtcBA3krKdkmQxSp3OverBs-AgcHb1i_H6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Vi vet hvem Rabagasten er!</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_ef4f8756-e360-4e79-8f87-56e3605e798f</link>
+      <description>Et nytt eksklusivt hint smeller fra oven og Pølsa Pettersen strever når Marte Stokstad og Einar Tørnquist stiller han til veggs for å være ulven.</description>
+      <guid isPermaLink="false">l_ef4f8756-e360-4e79-8f87-56e3605e798f</guid>
+      <pubDate>Thu, 20 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/fe048d75-4742-4290-8f16-4ae1c5bb5e8f_0_ID192MP3.mp3" type="audio/mpeg" length="54195885"></enclosure>
+      <itunes:title>Vi vet hvem Rabagasten er!</itunes:title>
+      <itunes:summary>Et nytt eksklusivt hint smeller fra oven og Pølsa Pettersen strever når Marte Stokstad og Einar Tørnquist stiller han til veggs for å være ulven.</itunes:summary>
+      <itunes:duration>2258</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4ve3Oyzaiai1_NBg72hpogFA_TZmQ0IrZfQxS5pxpDbg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Hytta er avslørt, hør hennes hemmeligheter</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_a171fcd3-1ba4-45f8-b1fc-d31ba425f859</link>
+      <description>En kjendis Sarah er skråsikker på sjekkes ut. Hytta deler en hemmelig observasjon hun har gjort seg av snøroboten. Og en plan som falt i grus.</description>
+      <guid isPermaLink="false">l_a171fcd3-1ba4-45f8-b1fc-d31ba425f859</guid>
+      <pubDate>Sun, 16 Oct 2022 16:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/d60791bb-65cd-4dc5-a5cb-5fea3e973071_0_ID192MP3.mp3" type="audio/mpeg" length="50556717"></enclosure>
+      <itunes:title>Hytta er avslørt, hør hennes hemmeligheter</itunes:title>
+      <itunes:summary>En kjendis Sarah er skråsikker på sjekkes ut. Hytta deler en hemmelig observasjon hun har gjort seg av snøroboten. Og en plan som falt i grus.</itunes:summary>
+      <itunes:duration>2106</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/RgOT57SkPglA6Zu53356cAlAwNBxLokzcZ51pC8LvVbg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Et nytt hint er sluppet</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_65374db0-7912-4371-b74d-b0791273717c</link>
+      <description>Hvem kan vi allerede nå stryke fra mistenktlisten og hva skjer når produsenten Kim, som vet alt om årets masker, puttes i en løgndetektor?</description>
+      <guid isPermaLink="false">l_65374db0-7912-4371-b74d-b0791273717c</guid>
+      <pubDate>Thu, 13 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/27c5f9ec-5229-4afc-ad1a-ad3291410d24_0_ID192MP3.mp3" type="audio/mpeg" length="34897581"></enclosure>
+      <itunes:title>Et nytt hint er sluppet</itunes:title>
+      <itunes:summary>Hvem kan vi allerede nå stryke fra mistenktlisten og hva skjer når produsenten Kim, som vet alt om årets masker, puttes i en løgndetektor?</itunes:summary>
+      <itunes:duration>1453</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CSCYTz87gq-za1ki8W7i2wq81IS2TgeDQ4euPk9CHY1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Årets masker er ute!</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_d8dd952d-32a1-4583-9d95-2d32a135831f</link>
+      <description>Hva mener maskeskaper Kjell er viktig å vite om årets masker? Finnes det hint å oppdage allerede nå? Og hvilken av maskene vil slå en rekord?</description>
+      <guid isPermaLink="false">l_d8dd952d-32a1-4583-9d95-2d32a135831f</guid>
+      <pubDate>Wed, 05 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/1cac7281-e559-411d-b5b1-d7366bf6b547_0_ID192MP3.mp3" type="audio/mpeg" length="45881325"></enclosure>
+      <itunes:title>Årets masker er ute!</itunes:title>
+      <itunes:summary>Hva mener maskeskaper Kjell er viktig å vite om årets masker? Finnes det hint å oppdage allerede nå? Og hvilken av maskene vil slå en rekord?</itunes:summary>
+      <itunes:duration>1911</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dIrEzKrcg6cVwSfgisyEZQ2bWS_5w8YecgtiyHHjw9Ug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Det første hintet med Jan Thomas, Marion Ravn og Nicolay Ramm</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_f3ca7bab-0fce-43e2-8a7b-ab0fcea3e270</link>
+      <description>Maskorama er i gang! Hva gjemmer seg i brevet Sarah har i hånden? Og hvem tror panelet gjemmer seg bak årets masker? Et hint kommer fra oven.</description>
+      <guid isPermaLink="false">l_f3ca7bab-0fce-43e2-8a7b-ab0fcea3e270</guid>
+      <pubDate>Thu, 29 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/d77305ae-3555-4fe5-8941-28e61927ab8e_0_ID192MP3.mp3" type="audio/mpeg" length="45074925"></enclosure>
+      <itunes:title>Det første hintet med Jan Thomas, Marion Ravn og Nicolay Ramm</itunes:title>
+      <itunes:summary>Maskorama er i gang! Hva gjemmer seg i brevet Sarah har i hånden? Og hvem tror panelet gjemmer seg bak årets masker? Et hint kommer fra oven.</itunes:summary>
+      <itunes:duration>1878</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZOJUKkXwxkKhkhhnoYdwzw55J7WwvI-T4BP9P3QO6sWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2022">2022</podcast:season>
+    </item>
+    <item>
+      <title>Møt Snømonsteret, dragen og bamsen i virkeligheten</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_7bd2423b-852f-4c2d-9242-3b852f3c2d02</link>
+      <description>Finalistene letter på maskene og forteller alt om løgnene og morroa de har vært en del av i 6 uker. Og er det et hint for neste sesong som dukker opp?</description>
+      <guid isPermaLink="false">l_7bd2423b-852f-4c2d-9242-3b852f3c2d02</guid>
+      <pubDate>Sun, 12 Dec 2021 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/c984802f-1319-49b4-a69c-835a54736a3f_0_ID192MP3.mp3" type="audio/mpeg" length="75580461"></enclosure>
+      <itunes:title>Møt Snømonsteret, dragen og bamsen i virkeligheten</itunes:title>
+      <itunes:summary>Finalistene letter på maskene og forteller alt om løgnene og morroa de har vært en del av i 6 uker. Og er det et hint for neste sesong som dukker opp?</itunes:summary>
+      <itunes:duration>3149</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/cwdxN-FdLTpmtNTVFNWKOQ8jJIBesdHIcdxYnHQ8zq9Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Dette er det vanskeligste hintet noen sinne</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_eb877fee-c938-463f-877f-eec938863f81</link>
+      <description>Regelen med å stille ett spørsmål til hovedmistenkte glemmes når Erna Solberg, Lars Berrum og Sarah bestemmer seg for å løse gåtene en gang for alle.</description>
+      <guid isPermaLink="false">l_eb877fee-c938-463f-877f-eec938863f81</guid>
+      <pubDate>Thu, 09 Dec 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/85af7cb9-ddf4-43de-aaba-09c093b02a25_0_ID192MP3.mp3" type="audio/mpeg" length="58202541"></enclosure>
+      <itunes:title>Dette er det vanskeligste hintet noen sinne</itunes:title>
+      <itunes:summary>Regelen med å stille ett spørsmål til hovedmistenkte glemmes når Erna Solberg, Lars Berrum og Sarah bestemmer seg for å løse gåtene en gang for alle.</itunes:summary>
+      <itunes:duration>2425</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YQUvTwAQq0UIX_dq2Auu0wmjWimFw8pD3rkQmK8uXy1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Møt Nøkken og hør hele forklaringen om teltet</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_0ad01975-b969-4c37-9019-75b9695c371e</link>
+      <description>Endelig får vi svar på hvorfor sangstemmen til Nøkken har forandret seg underveis og ikke minst mysteriet om det gule teltet og sommerfuglene.</description>
+      <guid isPermaLink="false">l_0ad01975-b969-4c37-9019-75b9695c371e</guid>
+      <pubDate>Sun, 05 Dec 2021 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/dc1d7e32-2939-4848-a232-aa24a9adad50_0_ID192MP3.mp3" type="audio/mpeg" length="48098349"></enclosure>
+      <itunes:title>Møt Nøkken og hør hele forklaringen om teltet</itunes:title>
+      <itunes:summary>Endelig får vi svar på hvorfor sangstemmen til Nøkken har forandret seg underveis og ikke minst mysteriet om det gule teltet og sommerfuglene.</itunes:summary>
+      <itunes:duration>2004</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2XlWuMC8gDkoQNW-uPqA9AjgtDcF-hcv5QVb1v_Y8TtA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Et nytt og langt hint!</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_888cd31b-ab65-49ee-8cd3-1bab6529ee97</link>
+      <description>Sarah hopper i stolen av glede når ukens eksklusive hint deiser inn i studio. Hun avslører også en kjent person som skal synge i duetten på lørdag.</description>
+      <guid isPermaLink="false">l_888cd31b-ab65-49ee-8cd3-1bab6529ee97</guid>
+      <pubDate>Thu, 02 Dec 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/3eae0b42-ee65-487e-9e9d-926f484d74e0_0_ID192MP3.mp3" type="audio/mpeg" length="50114349"></enclosure>
+      <itunes:title>Et nytt og langt hint!</itunes:title>
+      <itunes:summary>Sarah hopper i stolen av glede når ukens eksklusive hint deiser inn i studio. Hun avslører også en kjent person som skal synge i duetten på lørdag.</itunes:summary>
+      <itunes:duration>2088</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/H55QxKKDupZTPqCXBb-t3gVi8eEpnUUJn1zn8BLbFK0A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Møt Nissen og hør om trikset med høyden</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_edeb568a-d83c-4d89-ab56-8ad83cad891b</link>
+      <description>Nissens skjegg er ikke det du tror det er!  Hør hvilke hint som lå rett foran oss hele tiden og hvorfor Nissen slet med noen av danse movsa.</description>
+      <guid isPermaLink="false">l_edeb568a-d83c-4d89-ab56-8ad83cad891b</guid>
+      <pubDate>Sun, 28 Nov 2021 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/f884690a-9860-4b93-b32d-8229999efbb3_0_ID192MP3.mp3" type="audio/mpeg" length="54050733"></enclosure>
+      <itunes:title>Møt Nissen og hør om trikset med høyden</itunes:title>
+      <itunes:summary>Nissens skjegg er ikke det du tror det er!  Hør hvilke hint som lå rett foran oss hele tiden og hvorfor Nissen slet med noen av danse movsa.</itunes:summary>
+      <itunes:duration>2252</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/u__L1hDflIOVHuKJsgIUrgrRIqjvzO7qdVCwZQCklK2w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Nytt eksklusivt hint om bamsen</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_f28b8241-c15c-4efa-8b82-41c15c6efa2e</link>
+      <description>Et nytt eksklusivt hint blir levert og det skremmer vettet av Emil Gukild som er gjest. Hør også hva Abid Raja sier når Tinashe Williamson ber han ta en trall.</description>
+      <guid isPermaLink="false">l_f28b8241-c15c-4efa-8b82-41c15c6efa2e</guid>
+      <pubDate>Thu, 25 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/29a362b2-c53b-47f3-802a-c341c67cce8e_0_ID192MP3.mp3" type="audio/mpeg" length="51772077"></enclosure>
+      <itunes:title>Nytt eksklusivt hint om bamsen</itunes:title>
+      <itunes:summary>Et nytt eksklusivt hint blir levert og det skremmer vettet av Emil Gukild som er gjest. Hør også hva Abid Raja sier når Tinashe Williamson ber han ta en trall.</itunes:summary>
+      <itunes:duration>2157</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/n4DkQpJEbQcPlYAEbPftXwVF7Pvwe_KuXT8YEey--g3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Møt havfruen og hør svaret på hintene hennes</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_503d05f0-80bd-4a32-bd05-f080bd0a32ff</link>
+      <description>&#xA;Endelig får vi svaret på OL-ringene, krykkene og de andre vanskelige hintene om havfruen! Og ikke minst autografhintet som ble gitt panelet på lørdag.&#xA;</description>
+      <guid isPermaLink="false">l_503d05f0-80bd-4a32-bd05-f080bd0a32ff</guid>
+      <pubDate>Sun, 21 Nov 2021 14:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/ca047184-52b8-4e9d-808a-c89cb1e33b2e_0_ID192MP3.mp3" type="audio/mpeg" length="47954349"></enclosure>
+      <itunes:title>Møt havfruen og hør svaret på hintene hennes</itunes:title>
+      <itunes:summary>&#xA;Endelig får vi svaret på OL-ringene, krykkene og de andre vanskelige hintene om havfruen! Og ikke minst autografhintet som ble gitt panelet på lørdag.&#xA;</itunes:summary>
+      <itunes:duration>1998</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/cp1r2VhysoSaq1noplg2LQiOwN0CHMt5OvQn11Fjkopw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Jon Almaas slipper en bombe</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_1f574806-99d1-4149-9748-0699d18149eb</link>
+      <description>Endelig et nytt eksklusivt hint-og det er klissvått. Hør også hva Didrik Solli-Tangen sier når Jon inviterer han på middag lørdag klokken 20.00. </description>
+      <guid isPermaLink="false">l_1f574806-99d1-4149-9748-0699d18149eb</guid>
+      <pubDate>Thu, 18 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/2f6a568d-b335-4d0f-856e-ad60b60ca6d0_0_ID192MP3.mp3" type="audio/mpeg" length="63458541"></enclosure>
+      <itunes:title>Jon Almaas slipper en bombe</itunes:title>
+      <itunes:summary>Endelig et nytt eksklusivt hint-og det er klissvått. Hør også hva Didrik Solli-Tangen sier når Jon inviterer han på middag lørdag klokken 20.00. </itunes:summary>
+      <itunes:duration>2644</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dYLNwaRDlyEOVEuGaV0bMQ93hu5z5NPEUhZOxZUGYphA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Møt heldiggrisen og hør unike teorier</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_eb2bfce6-bfae-458c-abfc-e6bfae858c94</link>
+      <description>Hvordan har heldiggrisen klart å holde Maskorama skjult for de nærmeste? &#xA;Og hva er svaret på hintene som nesten ingen forsto?</description>
+      <guid isPermaLink="false">l_eb2bfce6-bfae-458c-abfc-e6bfae858c94</guid>
+      <pubDate>Sun, 14 Nov 2021 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/e10883bd-69be-485d-a81a-2bb5d8d47112_0_ID192MP3.mp3" type="audio/mpeg" length="49235373"></enclosure>
+      <itunes:title>Møt heldiggrisen og hør unike teorier</itunes:title>
+      <itunes:summary>Hvordan har heldiggrisen klart å holde Maskorama skjult for de nærmeste? &#xA;Og hva er svaret på hintene som nesten ingen forsto?</itunes:summary>
+      <itunes:duration>2051</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/if6BwYwfgJH-4udBUpqPZwBwUPMegzXQCZn6tN69-CGA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Detektiv-ekspert Jørn Lier Horst gir deg alle triksene</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_7b875bfb-364b-4898-875b-fb364bf898bc</link>
+      <description>Lær deg hvordan en etterforsker jobber for å finne svaret på hvem som skjuler seg bak maskene og hør hans solide teorier om Nøkken og Heldiggrisen. Få også med deg det eksklusive Maskorama-hintet i slutten av episoden. </description>
+      <guid isPermaLink="false">l_7b875bfb-364b-4898-875b-fb364bf898bc</guid>
+      <pubDate>Thu, 11 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/725fc919-ebd1-4ec6-9329-cc4849598f84_0_ID192MP3.mp3" type="audio/mpeg" length="56108205"></enclosure>
+      <itunes:title>Detektiv-ekspert Jørn Lier Horst gir deg alle triksene</itunes:title>
+      <itunes:summary>Lær deg hvordan en etterforsker jobber for å finne svaret på hvem som skjuler seg bak maskene og hør hans solide teorier om Nøkken og Heldiggrisen. Få også med deg det eksklusive Maskorama-hintet i slutten av episoden. </itunes:summary>
+      <itunes:duration>2337</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/B6JJ0YCUxx18rfNtgwxpbAjHQJ-Y8X6xsPbhVdLwNRHg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Møt Frosken og hør alle hans hemmeligheter</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_bf8ab601-8f6d-4743-8ab6-018f6de743a7</link>
+      <description>Hvorfor snakket han engelsk? Hvilket froskehint fikk nesten ingen med seg? Og hvem seiler opp som uventet kandidat for dragen?</description>
+      <guid isPermaLink="false">l_bf8ab601-8f6d-4743-8ab6-018f6de743a7</guid>
+      <pubDate>Sun, 07 Nov 2021 14:35:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/1cd5c2d7-ed46-4604-b9fe-e1bb0585aa25_0_ID192MP3.mp3" type="audio/mpeg" length="52752429"></enclosure>
+      <itunes:title>Møt Frosken og hør alle hans hemmeligheter</itunes:title>
+      <itunes:summary>Hvorfor snakket han engelsk? Hvilket froskehint fikk nesten ingen med seg? Og hvem seiler opp som uventet kandidat for dragen?</itunes:summary>
+      <itunes:duration>2197</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/B6JJ0YCUxx18rfNtgwxpbAjHQJ-Y8X6xsPbhVdLwNRHg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Alt om hemmeligholdet</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_cd82b8ab-865e-43d5-82b8-ab865e13d52f</link>
+      <description>Møt han som kjenner alle hemmelighetene  i Maskorama. Og hør hvorfor han egentlig ikke kan stole på programleder Silje Nordnes.</description>
+      <guid isPermaLink="false">l_cd82b8ab-865e-43d5-82b8-ab865e13d52f</guid>
+      <pubDate>Thu, 04 Nov 2021 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/1ee7a644-ce9e-4188-a2bc-e69c1eeceb95_0_ID192MP3.mp3" type="audio/mpeg" length="38439981"></enclosure>
+      <itunes:title>Alt om hemmeligholdet</itunes:title>
+      <itunes:summary>Møt han som kjenner alle hemmelighetene  i Maskorama. Og hør hvorfor han egentlig ikke kan stole på programleder Silje Nordnes.</itunes:summary>
+      <itunes:duration>1601</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/B6JJ0YCUxx18rfNtgwxpbAjHQJ-Y8X6xsPbhVdLwNRHg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Årets masker er ute! </title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_ffc3ce2e-9a0a-4abd-83ce-2e9a0a2abd69</link>
+      <description>Årets masker er ute! Hvilken er Ulrikke Brandstorp sin favoritt og ikke minst; hvilke hint skjuler seg i maskene som du kanskje ikke har tenkt på?</description>
+      <guid isPermaLink="false">l_ffc3ce2e-9a0a-4abd-83ce-2e9a0a2abd69</guid>
+      <pubDate>Thu, 28 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/cdd7c768-03dc-4132-9011-6a12d8f1527e_0_ID192MP3.mp3" type="audio/mpeg" length="42530733"></enclosure>
+      <itunes:title>Årets masker er ute! </itunes:title>
+      <itunes:summary>Årets masker er ute! Hvilken er Ulrikke Brandstorp sin favoritt og ikke minst; hvilke hint skjuler seg i maskene som du kanskje ikke har tenkt på?</itunes:summary>
+      <itunes:duration>1772</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/B6JJ0YCUxx18rfNtgwxpbAjHQJ-Y8X6xsPbhVdLwNRHg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Årets første Maskorama-hint med Jan Thomas, Marion Ravn og Nicolay Ramm</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_0ee5857b-f33e-4f29-a585-7bf33eef294f</link>
+      <description>Hvem tror Jan Thomas, Marion Ravn og Nicolay Ram at gjemmer seg bak årets masker i Maskorama og hva skjer i studio når vi slipper årets første hint?</description>
+      <guid isPermaLink="false">l_0ee5857b-f33e-4f29-a585-7bf33eef294f</guid>
+      <pubDate>Thu, 21 Oct 2021 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/8df3971e-d366-4d8e-abd1-d5b459fe66bc_0_ID192MP3.mp3" type="audio/mpeg" length="43584813"></enclosure>
+      <itunes:title>Årets første Maskorama-hint med Jan Thomas, Marion Ravn og Nicolay Ramm</itunes:title>
+      <itunes:summary>Hvem tror Jan Thomas, Marion Ravn og Nicolay Ram at gjemmer seg bak årets masker i Maskorama og hva skjer i studio når vi slipper årets første hint?</itunes:summary>
+      <itunes:duration>1815</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/B6JJ0YCUxx18rfNtgwxpbAjHQJ-Y8X6xsPbhVdLwNRHg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+    <item>
+      <title>Hør en smakebit: Maskorama-podkasten</title>
+      <link>https://radio.nrk.no/podkast/maskoramapodkasten/l_a5be0aa7-08ad-4bd2-be0a-a708ad5bd248</link>
+      <description>Hvem befinner seg bak maskene i sesong 2 av Maskorama? Sarah Natasha Melbye dissekerer hint, spekulerer og hjelper deg lade opp til showet.</description>
+      <guid isPermaLink="false">l_a5be0aa7-08ad-4bd2-be0a-a708ad5bd248</guid>
+      <pubDate>Tue, 19 Oct 2021 07:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/maskoramapodkasten/41ba6ef6-ceb5-40ab-a6f5-01c7175cb8a4_0_ID192MP3.mp3" type="audio/mpeg" length="1586349"></enclosure>
+      <itunes:title>Hør en smakebit: Maskorama-podkasten</itunes:title>
+      <itunes:summary>Hvem befinner seg bak maskene i sesong 2 av Maskorama? Sarah Natasha Melbye dissekerer hint, spekulerer og hjelper deg lade opp til showet.</itunes:summary>
+      <itunes:duration>66</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Omy-SC7AViL6wyx9tTxDjwmGc1vC68f3pO7NscoqmBWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2021">2021</podcast:season>
+    </item>
+  </channel>
+</rss>

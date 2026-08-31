@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sentralbordet på NRK</title>
+    <link>https://radio.nrk.no/podkast/sentralbordet</link>
+    <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Thu, 27 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA</url>
+      <title>Sentralbordet på NRK</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet</link>
+    </image>
+    <item>
+      <title>- Har ni hvitløkspressa på ryggen?</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_1ba4903a-1aab-4789-a490-3a1aab7789f8</link>
+      <description>Gud ringer soknepresten, Ole Henry kontakter et svensk spa med kjøkkenredskaper, Emilie har ikke ord, Live og Vegard prøver seg som sytete tenåringer i Sør-Korea og Vegard må ringe et advokatfirma med hjelp fra Øystein Sunde.</description>
+      <guid isPermaLink="false">l_1ba4903a-1aab-4789-a490-3a1aab7789f8</guid>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/1ba4903a-1aab-4789-a490-3a1aab7789f8_2_ID192MP3.mp3" type="audio/mpeg" length="30717548"></enclosure>
+      <itunes:title>- Har ni hvitløkspressa på ryggen?</itunes:title>
+      <itunes:summary>Gud ringer soknepresten, Ole Henry kontakter et svensk spa med kjøkkenredskaper, Emilie har ikke ord, Live og Vegard prøver seg som sytete tenåringer i Sør-Korea og Vegard må ringe et advokatfirma med hjelp fra Øystein Sunde.</itunes:summary>
+      <itunes:duration>1279</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>- Jeg ringer angående den vannkukeren</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_b48f4c41-52e0-4454-8f4c-4152e0245408</link>
+      <description>Vegard har misforstått finn.no, Ole Henry må be om for mye fra en tilfeldig på telefonlista og Emilie tvinges til å bli musikalartist.</description>
+      <guid isPermaLink="false">l_b48f4c41-52e0-4454-8f4c-4152e0245408</guid>
+      <pubDate>Thu, 20 Aug 2026 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/b48f4c41-52e0-4454-8f4c-4152e0245408_2_ID192MP3.mp3" type="audio/mpeg" length="28733228"></enclosure>
+      <itunes:title>- Jeg ringer angående den vannkukeren</itunes:title>
+      <itunes:summary>Vegard har misforstått finn.no, Ole Henry må be om for mye fra en tilfeldig på telefonlista og Emilie tvinges til å bli musikalartist.</itunes:summary>
+      <itunes:duration>1197</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>- Kan du høre meg gjennom gulvet?</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_69ffd4e1-f5d1-4149-bfd4-e1f5d131497b</link>
+      <description>Vegard får en pizzakokk til å skrike, Catrin Sagen ringer feil, et engelsk hostel mangler laks og Sabeltann seiler inn i Stockholm.</description>
+      <guid isPermaLink="false">l_69ffd4e1-f5d1-4149-bfd4-e1f5d131497b</guid>
+      <pubDate>Thu, 20 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/69ffd4e1-f5d1-4149-bfd4-e1f5d131497b_1_ID192MP3.mp3" type="audio/mpeg" length="31182380"></enclosure>
+      <itunes:title>- Kan du høre meg gjennom gulvet?</itunes:title>
+      <itunes:summary>Vegard får en pizzakokk til å skrike, Catrin Sagen ringer feil, et engelsk hostel mangler laks og Sabeltann seiler inn i Stockholm.</itunes:summary>
+      <itunes:duration>1299</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

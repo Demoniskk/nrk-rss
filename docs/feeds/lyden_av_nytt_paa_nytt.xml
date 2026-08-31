@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lyden av Nytt på Nytt</title>
+    <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt</link>
+    <description>Fersk satire om nyhetsbildet med programleder Bård Tufte Johansen, lagledere Pernille Sørensen og Johan Golden, samt to gjester. &#xA;&#xA;I podkastutgaven av Nytt på nytt får du høre alt som skjer, men slipper å se det. I tillegg kan det snike seg inn passasjer som ikke fikk plass i TV-sendingen. Og på toppen av det hele: du kan forestille deg at det faktisk er en elefant i rommet, når noen bruker akkurat den metaforen. Herlig!</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 14:10:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lyden_av_nytt_paa_nytt.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Fersk satire om nyhetsbildet med programleder Bård Tufte Johansen, lagledere Pernille Sørensen og Johan Golden, samt to gjester. &#xA;&#xA;I podkastutgaven av Nytt på nytt får du høre alt som skjer, men slipper å se det. I tillegg kan det snike seg inn passasjer som ikke fikk plass i TV-sendingen. Og på toppen av det hele: du kan forestille deg at det faktisk er en elefant i rommet, når noen bruker akkurat den metaforen. Herlig!</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw</url>
+      <title>Lyden av Nytt på Nytt</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt</link>
+    </image>
+    <item>
+      <title>Ukens gjester: Kadra Yusuf og Bjørnar Moxnes!</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_b51a4973-387c-4f3a-9a49-73387c1f3ac3</link>
+      <description>Netthets, frisørlaug og reinsdyr i sporet preger ukens nyhetsbilde. Det blir også plass til å definere hvilken vei året snurrer og hvor man plasserer desember og mars på en skala fra 1 til 12,  formet som en sirkel.</description>
+      <guid isPermaLink="false">l_b51a4973-387c-4f3a-9a49-73387c1f3ac3</guid>
+      <pubDate>Fri, 01 Dec 2017 15:10:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-12-01_1310_3741.MP3" type="audio/mpeg" length="43780224"></enclosure>
+      <itunes:title>Ukens gjester: Kadra Yusuf og Bjørnar Moxnes!</itunes:title>
+      <itunes:summary>Netthets, frisørlaug og reinsdyr i sporet preger ukens nyhetsbilde. Det blir også plass til å definere hvilken vei året snurrer og hvor man plasserer desember og mars på en skala fra 1 til 12,  formet som en sirkel.</itunes:summary>
+      <itunes:duration>1820</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Gjester Skal vi danse-Tore Petterson og FrpSylviSoMe-Espen Teigen</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_dcd4f007-491e-4b19-94f0-07491ecb1916</link>
+      <description>Supervikar Ingrid Gjessing Linhave stepper inn for en kvalm Pernille Sørensen. NATO og Tyrkia er også ganske kvalme, men kan på sikt få Nobelprisen av Carl I. Hagen, hvis Carl I. Hagen får det som han vil. Hennes &amp; Mauritz brenner for miljøvern og Store Norske Leksikon ta vokabularet fra Sinte Hvite Menn. Uten å lykkes i særlig grad. Og først tar vi en titt på ukas viktigste saker.</description>
+      <guid isPermaLink="false">l_dcd4f007-491e-4b19-94f0-07491ecb1916</guid>
+      <pubDate>Fri, 24 Nov 2017 15:21:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-11-24_1353_93.MP3" type="audio/mpeg" length="47537466"></enclosure>
+      <itunes:title>Gjester Skal vi danse-Tore Petterson og FrpSylviSoMe-Espen Teigen</itunes:title>
+      <itunes:summary>Supervikar Ingrid Gjessing Linhave stepper inn for en kvalm Pernille Sørensen. NATO og Tyrkia er også ganske kvalme, men kan på sikt få Nobelprisen av Carl I. Hagen, hvis Carl I. Hagen får det som han vil. Hennes &amp; Mauritz brenner for miljøvern og Store Norske Leksikon ta vokabularet fra Sinte Hvite Menn. Uten å lykkes i særlig grad. Og først tar vi en titt på ukas viktigste saker.</itunes:summary>
+      <itunes:duration>1976</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Venstres Abid Raja og Høyres Tina Bru i satirisk tvekamp!</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_45efd1ac-770c-4165-afd1-ac770c716542</link>
+      <description>Goliat er nede for telling, staten saksøkt av fremtidige slekter, menn er griser, de fattige er fattigere og ender foreldreløse ofre for godseiere. Endetidstegnene er statistisk sett mange og Nytt på Nytt lyser opp i høstmørket som bare nyhetssatire kan.</description>
+      <guid isPermaLink="false">l_45efd1ac-770c-4165-afd1-ac770c716542</guid>
+      <pubDate>Fri, 17 Nov 2017 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-11-17_1500_4109.MP3" type="audio/mpeg" length="47132449"></enclosure>
+      <itunes:title>Venstres Abid Raja og Høyres Tina Bru i satirisk tvekamp!</itunes:title>
+      <itunes:summary>Goliat er nede for telling, staten saksøkt av fremtidige slekter, menn er griser, de fattige er fattigere og ender foreldreløse ofre for godseiere. Endetidstegnene er statistisk sett mange og Nytt på Nytt lyser opp i høstmørket som bare nyhetssatire kan.</itunes:summary>
+      <itunes:duration>1960</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Rockestjerne Ida Maria og MGPjr-programleder Mikkel Niva er gjester!</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_63e0b92c-a75e-4bb2-a0b9-2ca75e3bb290</link>
+      <description>Vi sender flyktninger til Afghanistan og barn på Koranskole i Somalia. Men det blir også tid til mannssjåvinisme i Schibsted, våpen i Texas, fastleger ingensteder og en gul frosk. Og til slutt blir det Quiz og Nytt Ord!</description>
+      <guid isPermaLink="false">l_63e0b92c-a75e-4bb2-a0b9-2ca75e3bb290</guid>
+      <pubDate>Fri, 10 Nov 2017 14:06:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-11-10_1227_4109.MP3" type="audio/mpeg" length="43511881"></enclosure>
+      <itunes:title>Rockestjerne Ida Maria og MGPjr-programleder Mikkel Niva er gjester!</itunes:title>
+      <itunes:summary>Vi sender flyktninger til Afghanistan og barn på Koranskole i Somalia. Men det blir også tid til mannssjåvinisme i Schibsted, våpen i Texas, fastleger ingensteder og en gul frosk. Og til slutt blir det Quiz og Nytt Ord!</itunes:summary>
+      <itunes:duration>1809</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Bodøs Erlend Osnes og Dax18s Sigrid Sollund er gjester!</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_591e7428-9a02-4004-9e74-289a020004e4</link>
+      <description>Fremskrivningene til SSB viser at flere SSB-forskere vil bli omplassert. Vil det lønne seg? Og lønner det seg å drikke så tett når man er idrettstopp? Vi graver også i kullgruvene på Svalbard, selger sau til Afghanistan og lager Nye Ord. Uken er komplett, rett og slett.</description>
+      <guid isPermaLink="false">l_591e7428-9a02-4004-9e74-289a020004e4</guid>
+      <pubDate>Fri, 03 Nov 2017 14:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-11-03_1510_3369.MP3" type="audio/mpeg" length="44079257"></enclosure>
+      <itunes:title>Bodøs Erlend Osnes og Dax18s Sigrid Sollund er gjester!</itunes:title>
+      <itunes:summary>Fremskrivningene til SSB viser at flere SSB-forskere vil bli omplassert. Vil det lønne seg? Og lønner det seg å drikke så tett når man er idrettstopp? Vi graver også i kullgruvene på Svalbard, selger sau til Afghanistan og lager Nye Ord. Uken er komplett, rett og slett.</itunes:summary>
+      <itunes:duration>1832</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Leif Einar &#34;Lothepus&#34; Lothe og John Arne Riise er ukens gjester</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_5afb5767-b47b-44e4-bb57-67b47bd4e403</link>
+      <description>Barnesanger, hysjing og godteri... Er dette Nytt på Nytt eller gode, gamle lørdagsbarnetimen?&#xA;Bård prøver seg på tekstanalyse og Lothepus vurderer kunst, mens NAV-klientene må vente på gata.&#xA;Det blir også plass til John Arne Riise&#39;s SMS-tips, veldig mange asylsøkere og en anelse dildo. Du blir mye klokere av å høre på dagens podkast og du har i tillegg hendene ledige til å stappe i deg billig smågodt!</description>
+      <guid isPermaLink="false">l_5afb5767-b47b-44e4-bb57-67b47bd4e403</guid>
+      <pubDate>Fri, 27 Oct 2017 15:57:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-10-27_1221_1558.MP3" type="audio/mpeg" length="43020410"></enclosure>
+      <itunes:title>Leif Einar &#34;Lothepus&#34; Lothe og John Arne Riise er ukens gjester</itunes:title>
+      <itunes:summary>Barnesanger, hysjing og godteri... Er dette Nytt på Nytt eller gode, gamle lørdagsbarnetimen?&#xA;Bård prøver seg på tekstanalyse og Lothepus vurderer kunst, mens NAV-klientene må vente på gata.&#xA;Det blir også plass til John Arne Riise&#39;s SMS-tips, veldig mange asylsøkere og en anelse dildo. Du blir mye klokere av å høre på dagens podkast og du har i tillegg hendene ledige til å stappe i deg billig smågodt!</itunes:summary>
+      <itunes:duration>1788</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>SV-leder Audun Lysbakken og skuespiller Henriette Steenstrup er gjester.</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_98b815e9-6837-4a95-b815-e968376a95c0</link>
+      <description>Er  det krenkende av en finansminister å kle seg ut? Bør bygda få være online? Vil Mannen komme hvis man spyler sprekken med vann? Bør ikke mannen i det hele tatt holde fingrene for seg selv? Og når slutter kunst å være kunst i Bergen? Ingen av disse spørsmålene blir tilstrekkelig besvart i ukens Nytt på Nytt. Men vi prøver!</description>
+      <guid isPermaLink="false">l_98b815e9-6837-4a95-b815-e968376a95c0</guid>
+      <pubDate>Fri, 20 Oct 2017 16:36:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-10-20_1500_3043.MP3" type="audio/mpeg" length="44202821"></enclosure>
+      <itunes:title>SV-leder Audun Lysbakken og skuespiller Henriette Steenstrup er gjester.</itunes:title>
+      <itunes:summary>Er  det krenkende av en finansminister å kle seg ut? Bør bygda få være online? Vil Mannen komme hvis man spyler sprekken med vann? Bør ikke mannen i det hele tatt holde fingrene for seg selv? Og når slutter kunst å være kunst i Bergen? Ingen av disse spørsmålene blir tilstrekkelig besvart i ukens Nytt på Nytt. Men vi prøver!</itunes:summary>
+      <itunes:duration>1838</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Gjester denne uka er Thomas Felberg og Henrik Asheim</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_ce3eb880-c536-435d-beb8-80c536035d1d</link>
+      <description>Fungerende &#34;Stjernekamp&#34;-dommer Thomas Felberg og fungerende kunnskapsminister Henrik Asheim analyserer statsbudsjettet, hater bompenger og lager Nye Ord sammen med Bård, Pernille og Johan. Vi får også vite hvorfor Jonas Gahr Støre er så varm tilhenger og motstander av atomvåpen, samt Erna Solbergs politiske kongstanke.</description>
+      <guid isPermaLink="false">l_ce3eb880-c536-435d-beb8-80c536035d1d</guid>
+      <pubDate>Fri, 13 Oct 2017 14:57:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-10-13_1257_1621.MP3" type="audio/mpeg" length="43830422"></enclosure>
+      <itunes:title>Gjester denne uka er Thomas Felberg og Henrik Asheim</itunes:title>
+      <itunes:summary>Fungerende &#34;Stjernekamp&#34;-dommer Thomas Felberg og fungerende kunnskapsminister Henrik Asheim analyserer statsbudsjettet, hater bompenger og lager Nye Ord sammen med Bård, Pernille og Johan. Vi får også vite hvorfor Jonas Gahr Støre er så varm tilhenger og motstander av atomvåpen, samt Erna Solbergs politiske kongstanke.</itunes:summary>
+      <itunes:duration>1822</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>KK-redaktør Ingeborg Heldal og Insta-dronning Maria Stavang er gjester!</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_5a9dbb69-bb1f-4a6f-9dbb-69bb1fea6f2f</link>
+      <description>Slutter katalanere å stemme hvis man banker dem skikkelig hardt? Slutter muslimer å ta over landet hvis man fotograferer dem skikkelig hardt? Og bør norske tenåringer snakkes hardt til så de slutter å fotografere? Dette, samt mekanismene bak døgnrytmen og målingen av gravitasjonsbølger får gjennomgå i kveldens Nytt på nytt. Som kan være morgenens eller ettermiddagens Nytt på Nytt for deg som laster ned podkast.</description>
+      <guid isPermaLink="false">l_5a9dbb69-bb1f-4a6f-9dbb-69bb1fea6f2f</guid>
+      <pubDate>Fri, 06 Oct 2017 14:57:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-10-06_1257_2324.MP3" type="audio/mpeg" length="43079332"></enclosure>
+      <itunes:title>KK-redaktør Ingeborg Heldal og Insta-dronning Maria Stavang er gjester!</itunes:title>
+      <itunes:summary>Slutter katalanere å stemme hvis man banker dem skikkelig hardt? Slutter muslimer å ta over landet hvis man fotograferer dem skikkelig hardt? Og bør norske tenåringer snakkes hardt til så de slutter å fotografere? Dette, samt mekanismene bak døgnrytmen og målingen av gravitasjonsbølger får gjennomgå i kveldens Nytt på nytt. Som kan være morgenens eller ettermiddagens Nytt på Nytt for deg som laster ned podkast.</itunes:summary>
+      <itunes:duration>1791</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Opposisjonspolitiker Hilde Frafjord Johnson og artist Daniel Kvammen besøker Nytt på Nytt.</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_589c7556-3e4e-4e8a-9c75-563e4e7e8a6b</link>
+      <description>I dag besøker Hilde Frafjord Johnson og Daniel Kvammen Nytt på Nytt. Selv ikke høyreekstrem fremgang i Tyskland, underskudd i sykkel-VM, hjemsending av asylbarn eller et Krf i opposisjon kan ødelegge den humanistiske stemningen!</description>
+      <guid isPermaLink="false">l_589c7556-3e4e-4e8a-9c75-563e4e7e8a6b</guid>
+      <pubDate>Fri, 29 Sep 2017 15:57:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-09-29_1357_1968.MP3" type="audio/mpeg" length="42338879"></enclosure>
+      <itunes:title>Opposisjonspolitiker Hilde Frafjord Johnson og artist Daniel Kvammen besøker Nytt på Nytt.</itunes:title>
+      <itunes:summary>I dag besøker Hilde Frafjord Johnson og Daniel Kvammen Nytt på Nytt. Selv ikke høyreekstrem fremgang i Tyskland, underskudd i sykkel-VM, hjemsending av asylbarn eller et Krf i opposisjon kan ødelegge den humanistiske stemningen!</itunes:summary>
+      <itunes:duration>1760</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Forfatter Anne B. Ragde og Fastlege Jørgen Skavlan er gjester.</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_91b332f6-3bd3-44fc-b332-f63bd3b4fcde</link>
+      <description>Hør Anne B. Ragde bli rammet av Stockholmsyndromet og  Jørgen Skavlan friskmelde hele Norge. Er Eirik Jensen purk eller skurk? Hvor går grensen mellom hets og blogg? Hva er best: Somalia eller Norge? The nswer my friend is blowing i karibbien og sist men ikke minst: hva er på trappene i Levanger?</description>
+      <guid isPermaLink="false">l_91b332f6-3bd3-44fc-b332-f63bd3b4fcde</guid>
+      <pubDate>Fri, 22 Sep 2017 15:17:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-09-22_1317_1546.MP3" type="audio/mpeg" length="43958928"></enclosure>
+      <itunes:title>Forfatter Anne B. Ragde og Fastlege Jørgen Skavlan er gjester.</itunes:title>
+      <itunes:summary>Hør Anne B. Ragde bli rammet av Stockholmsyndromet og  Jørgen Skavlan friskmelde hele Norge. Er Eirik Jensen purk eller skurk? Hvor går grensen mellom hets og blogg? Hva er best: Somalia eller Norge? The nswer my friend is blowing i karibbien og sist men ikke minst: hva er på trappene i Levanger?</itunes:summary>
+      <itunes:duration>1827</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Anine Kierulf og Halvdan Sivertsen er gjester i Nytt på Nytt nr. 500</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_55534411-7874-4767-9344-1178741767ec</link>
+      <description>Artist Halvdan Sivertsen og Jurist Anine Kierulf er gjester hos Bård, Pernille og Johan i det som faktisk er Nytt på Nytt nr. 500. Valget veies for og imot, Arbeiderpartiet bearbeides og flyktninger får sitt pass påskrevet. I tillegg blir det utflukter til metropoler som Barcelona og Bodø.</description>
+      <guid isPermaLink="false">l_55534411-7874-4767-9344-1178741767ec</guid>
+      <pubDate>Fri, 15 Sep 2017 14:54:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-09-15_1254_3500.MP3" type="audio/mpeg" length="42181535"></enclosure>
+      <itunes:title>Anine Kierulf og Halvdan Sivertsen er gjester i Nytt på Nytt nr. 500</itunes:title>
+      <itunes:summary>Artist Halvdan Sivertsen og Jurist Anine Kierulf er gjester hos Bård, Pernille og Johan i det som faktisk er Nytt på Nytt nr. 500. Valget veies for og imot, Arbeiderpartiet bearbeides og flyktninger får sitt pass påskrevet. I tillegg blir det utflukter til metropoler som Barcelona og Bodø.</itunes:summary>
+      <itunes:duration>1753</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Aslak Sira Myhre og Espen Ottosen på besøk i Nytt på Nytt. </title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_ffaa30b5-6159-42d1-aa30-b5615922d1fa</link>
+      <description>Nytt på Nytt for deg som lukker øynene og lar det stå til under Stortingsvalget.</description>
+      <guid isPermaLink="false">l_ffaa30b5-6159-42d1-aa30-b5615922d1fa</guid>
+      <pubDate>Fri, 08 Sep 2017 16:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-09-08_1400_1275.MP3" type="audio/mpeg" length="51312946"></enclosure>
+      <itunes:title>Aslak Sira Myhre og Espen Ottosen på besøk i Nytt på Nytt. </itunes:title>
+      <itunes:summary>Nytt på Nytt for deg som lukker øynene og lar det stå til under Stortingsvalget.</itunes:summary>
+      <itunes:duration>2134</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Denne uken er Åse Kleveland, Bjarne Brøndbo og en geléklump gjester.</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_dab27303-a701-41a8-b273-03a70141a800</link>
+      <description>Hva kan vi lære av Sverige? Hvem velger hva i valget? Hva betyr ordtaket &#34;Borte bra men Jemen best&#34;?Bård, Pernille og Johan plukker fra hverandre nyhetsbildet sammen med Åse Kleveland og Bjarne Brøndbo.</description>
+      <guid isPermaLink="false">l_dab27303-a701-41a8-b273-03a70141a800</guid>
+      <pubDate>Fri, 01 Sep 2017 16:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-09-01_1430_1327.MP3" type="audio/mpeg" length="44528818"></enclosure>
+      <itunes:title>Denne uken er Åse Kleveland, Bjarne Brøndbo og en geléklump gjester.</itunes:title>
+      <itunes:summary>Hva kan vi lære av Sverige? Hvem velger hva i valget? Hva betyr ordtaket &#34;Borte bra men Jemen best&#34;?Bård, Pernille og Johan plukker fra hverandre nyhetsbildet sammen med Åse Kleveland og Bjarne Brøndbo.</itunes:summary>
+      <itunes:duration>1851</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vår første podkast! Ingar Helge Gimle og Fabian Stang er gjester.</title>
+      <link>https://radio.nrk.no/podkast/lyden_av_nytt_paa_nytt/l_5d3a793e-04bf-4d45-ba79-3e04bfbd45c4</link>
+      <description>Nytt på Nytt-gjengen drar på seg hijab&#39;en, smører leppene med Trofodermin og legger ut fra, og om, Jonas  Gahr Støres brygge. Nå også som podkast. Hør etter da vel!</description>
+      <guid isPermaLink="false">l_5d3a793e-04bf-4d45-ba79-3e04bfbd45c4</guid>
+      <pubDate>Sat, 26 Aug 2017 09:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lyden_av_nytt_paa_nytt/lyden_av_nytt_paa_nytt_2017-08-26_0715_3578.MP3" type="audio/mpeg" length="44180226"></enclosure>
+      <itunes:title>Vår første podkast! Ingar Helge Gimle og Fabian Stang er gjester.</itunes:title>
+      <itunes:summary>Nytt på Nytt-gjengen drar på seg hijab&#39;en, smører leppene med Trofodermin og legger ut fra, og om, Jonas  Gahr Støres brygge. Nå også som podkast. Hør etter da vel!</itunes:summary>
+      <itunes:duration>1837</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KT_tYuKtb_r967Ma3kx-cQrrQK1d8Hc-RPwcAudt2rPw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

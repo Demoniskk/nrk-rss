@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feriestemning</title>
+    <link>https://radio.nrk.no/podkast/feriestemning</link>
+    <description>Kjendisene du elsker deler sine sommerhistorier hver eneste dag gjennom hele sommeren. Skikkelig god feriestemning!</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 11 Aug 2023 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/feriestemning.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Kjendisene du elsker deler sine sommerhistorier hver eneste dag gjennom hele sommeren. Skikkelig god feriestemning!</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw</url>
+      <title>Feriestemning</title>
+      <link>https://radio.nrk.no/podkast/feriestemning</link>
+    </image>
+    <item>
+      <title>Karsten Blomvik og Galvan Mehidi</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_ec33b88d-fa63-4444-b3b8-8dfa63f444d6</link>
+      <description>Takknemlighetsliste, isbading på grensen til hypotermi og skogsrave.</description>
+      <guid isPermaLink="false">l_ec33b88d-fa63-4444-b3b8-8dfa63f444d6</guid>
+      <pubDate>Fri, 11 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/5446a373-0a38-42fe-be87-50a5f3c3258d_0_ID192MP3.mp3" type="audio/mpeg" length="112011309"></enclosure>
+      <itunes:title>Karsten Blomvik og Galvan Mehidi</itunes:title>
+      <itunes:summary>Takknemlighetsliste, isbading på grensen til hypotermi og skogsrave.</itunes:summary>
+      <itunes:duration>4667</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ingrid Gjessing Linhave og Kåre Magnus Bergh</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_c63b464e-e17a-4c92-bb46-4ee17a6c9291</link>
+      <description>Prostatasjekk, tissing i kaffekopp og pranking av Anne Lindmo.</description>
+      <guid isPermaLink="false">l_c63b464e-e17a-4c92-bb46-4ee17a6c9291</guid>
+      <pubDate>Thu, 10 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/a823308c-895a-4708-985c-5bcd7fc4608c_0_ID192MP3.mp3" type="audio/mpeg" length="126646317"></enclosure>
+      <itunes:title>Ingrid Gjessing Linhave og Kåre Magnus Bergh</itunes:title>
+      <itunes:summary>Prostatasjekk, tissing i kaffekopp og pranking av Anne Lindmo.</itunes:summary>
+      <itunes:duration>5276</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hadia Tajik og Sigrid Sollund</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_20591e37-409c-49e7-991e-37409cb9e7d6</link>
+      <description>Fiskelykke, streng oppvekst og tykk hud.</description>
+      <guid isPermaLink="false">l_20591e37-409c-49e7-991e-37409cb9e7d6</guid>
+      <pubDate>Wed, 09 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/defd02e7-4b65-4fd2-b847-9b61d5d8cc71_0_ID192MP3.mp3" type="audio/mpeg" length="93991149"></enclosure>
+      <itunes:title>Hadia Tajik og Sigrid Sollund</itunes:title>
+      <itunes:summary>Fiskelykke, streng oppvekst og tykk hud.</itunes:summary>
+      <itunes:duration>3916</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sigrid Bonde Tusvik og Galvan Mehidi</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_db974ad5-c2e8-4499-974a-d5c2e8049966</link>
+      <description>Ungdomsskolenørd, sommerflørting og dronedrama i Frankrike. </description>
+      <guid isPermaLink="false">l_db974ad5-c2e8-4499-974a-d5c2e8049966</guid>
+      <pubDate>Tue, 08 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/9a5c5495-e79c-4b70-9c57-9e6b8e0628a2_0_ID192MP3.mp3" type="audio/mpeg" length="102415725"></enclosure>
+      <itunes:title>Sigrid Bonde Tusvik og Galvan Mehidi</itunes:title>
+      <itunes:summary>Ungdomsskolenørd, sommerflørting og dronedrama i Frankrike. </itunes:summary>
+      <itunes:duration>4267</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title> Amanda Delara og Arin Soltanpanah </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_842c8c3a-5a43-412d-ac8c-3a5a43312d09</link>
+      <description>Håndplukket av Alicia Keys, Iran som ferieland og kunsten å gjøre Taarof.</description>
+      <guid isPermaLink="false">l_842c8c3a-5a43-412d-ac8c-3a5a43312d09</guid>
+      <pubDate>Mon, 07 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/cc2457ed-7739-4f70-91d6-5056631b739c_0_ID192MP3.mp3" type="audio/mpeg" length="94483053"></enclosure>
+      <itunes:title> Amanda Delara og Arin Soltanpanah </itunes:title>
+      <itunes:summary>Håndplukket av Alicia Keys, Iran som ferieland og kunsten å gjøre Taarof.</itunes:summary>
+      <itunes:duration>3936</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Frank Kjosås og Kari Slaatsveen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_6d8dc785-9a2f-4086-8dc7-859a2fc086b3</link>
+      <description>Råkjøring i Øystese, prinser i kortbukser og skuespill som et humanistisk prosjekt.</description>
+      <guid isPermaLink="false">l_6d8dc785-9a2f-4086-8dc7-859a2fc086b3</guid>
+      <pubDate>Sun, 06 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/e3e290ae-54fa-4aa6-be04-d3e6bacad12b_0_ID192MP3.mp3" type="audio/mpeg" length="112128237"></enclosure>
+      <itunes:title>Frank Kjosås og Kari Slaatsveen</itunes:title>
+      <itunes:summary>Råkjøring i Øystese, prinser i kortbukser og skuespill som et humanistisk prosjekt.</itunes:summary>
+      <itunes:duration>4671</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mayoo Indiran og Arin Soltanpanah</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_ec3ee042-e3f4-4618-bee0-42e3f4e61856</link>
+      <description>Voldelig ungdomstid, overvåkning på do og livsvisdom bak murene.</description>
+      <guid isPermaLink="false">l_ec3ee042-e3f4-4618-bee0-42e3f4e61856</guid>
+      <pubDate>Sat, 05 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/19c81d93-1321-4a48-bf22-66aa8e834fa6_0_ID192MP3.mp3" type="audio/mpeg" length="90559341"></enclosure>
+      <itunes:title>Mayoo Indiran og Arin Soltanpanah</itunes:title>
+      <itunes:summary>Voldelig ungdomstid, overvåkning på do og livsvisdom bak murene.</itunes:summary>
+      <itunes:duration>3773</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vidar Magnussen og Sigrid Sollund</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_a1edba8a-89c8-4e26-adba-8a89c80e26da</link>
+      <description>Resting bitch face, tydelig barneoppdragelse og privat dyrehage.</description>
+      <guid isPermaLink="false">l_a1edba8a-89c8-4e26-adba-8a89c80e26da</guid>
+      <pubDate>Fri, 04 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/08aeb87b-1809-4ce5-acb0-28e79d964d49_0_ID192MP3.mp3" type="audio/mpeg" length="106524333"></enclosure>
+      <itunes:title>Vidar Magnussen og Sigrid Sollund</itunes:title>
+      <itunes:summary>Resting bitch face, tydelig barneoppdragelse og privat dyrehage.</itunes:summary>
+      <itunes:duration>4438</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mike Angeles og Arin Soltanpanah</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_98335edd-9d0f-4824-b35e-dd9d0f0824c2</link>
+      <description>Usher-fanboy, hettegensere i Oslobukta og ydmyk arbeidsmoral.</description>
+      <guid isPermaLink="false">l_98335edd-9d0f-4824-b35e-dd9d0f0824c2</guid>
+      <pubDate>Thu, 03 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/5b7af0ee-1a88-4f09-be9b-20ae7389686a_0_ID192MP3.mp3" type="audio/mpeg" length="102180141"></enclosure>
+      <itunes:title>Mike Angeles og Arin Soltanpanah</itunes:title>
+      <itunes:summary>Usher-fanboy, hettegensere i Oslobukta og ydmyk arbeidsmoral.</itunes:summary>
+      <itunes:duration>4257</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Isah og Kari Slaatsveen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_f61d17a9-af22-4fbb-9d17-a9af22dfbb1c</link>
+      <description>En &#34;hypermelodisk marsboer&#34;, drømmesamarbeidet med Karpe og styrtlandingen etterpå.</description>
+      <guid isPermaLink="false">l_f61d17a9-af22-4fbb-9d17-a9af22dfbb1c</guid>
+      <pubDate>Wed, 02 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/2ec8730d-f2c0-4f83-be2b-5c4fd67663b3_0_ID192MP3.mp3" type="audio/mpeg" length="103216365"></enclosure>
+      <itunes:title>Isah og Kari Slaatsveen</itunes:title>
+      <itunes:summary>En &#34;hypermelodisk marsboer&#34;, drømmesamarbeidet med Karpe og styrtlandingen etterpå.</itunes:summary>
+      <itunes:duration>4300</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vita og Wanda Mashadi og Galvan Mehidi</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_c2abbee9-0cb1-4dd6-abbe-e90cb1cdd687</link>
+      <description>Mobbing i barndommen, livet som tvilling og samboer og verdens beste gudmødre. </description>
+      <guid isPermaLink="false">l_c2abbee9-0cb1-4dd6-abbe-e90cb1cdd687</guid>
+      <pubDate>Tue, 01 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/30010c27-34f8-4af9-9152-2bd57b49c162_0_ID192MP3.mp3" type="audio/mpeg" length="101092077"></enclosure>
+      <itunes:title>Vita og Wanda Mashadi og Galvan Mehidi</itunes:title>
+      <itunes:summary>Mobbing i barndommen, livet som tvilling og samboer og verdens beste gudmødre. </itunes:summary>
+      <itunes:duration>4212</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Else Kåss Furuseth og Arin Soltanpanah</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_f3a92ece-3f67-48d5-a92e-ce3f67f8d5b3</link>
+      <description>Ungdomstid i pappas dress, offentlig nakenhet og om å snakke om vanskelige ting på skjermen, men ikke privat.</description>
+      <guid isPermaLink="false">l_f3a92ece-3f67-48d5-a92e-ce3f67f8d5b3</guid>
+      <pubDate>Mon, 31 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/50a02a54-85c1-4431-9fac-e357fe49cfe5_0_ID192MP3.mp3" type="audio/mpeg" length="107077293"></enclosure>
+      <itunes:title>Else Kåss Furuseth og Arin Soltanpanah</itunes:title>
+      <itunes:summary>Ungdomstid i pappas dress, offentlig nakenhet og om å snakke om vanskelige ting på skjermen, men ikke privat.</itunes:summary>
+      <itunes:duration>4461</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jonis Josef og Ronny Brede Aase</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_317487bc-256d-443f-b487-bc256d143f45</link>
+      <description>Debut som sint, nesehorn i Nepal og livet utenfor komfortsonen.</description>
+      <guid isPermaLink="false">l_317487bc-256d-443f-b487-bc256d143f45</guid>
+      <pubDate>Sun, 30 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/9614f7ab-7e5a-4401-8f85-5d9be5efd62f_0_ID192MP3.mp3" type="audio/mpeg" length="114162093"></enclosure>
+      <itunes:title>Jonis Josef og Ronny Brede Aase</itunes:title>
+      <itunes:summary>Debut som sint, nesehorn i Nepal og livet utenfor komfortsonen.</itunes:summary>
+      <itunes:duration>4756</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nora Svenningsen og Ronny Brede Aase</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_8bbab0a4-7d8e-43ed-bab0-a47d8e93edf3</link>
+      <description>Jentastemning, selvtillit i korte kjoler og veien til Paralympics.</description>
+      <guid isPermaLink="false">l_8bbab0a4-7d8e-43ed-bab0-a47d8e93edf3</guid>
+      <pubDate>Sat, 29 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/fc6104a3-e25a-4500-ae14-8126cacab7e4_0_ID192MP3.mp3" type="audio/mpeg" length="115381485"></enclosure>
+      <itunes:title>Nora Svenningsen og Ronny Brede Aase</itunes:title>
+      <itunes:summary>Jentastemning, selvtillit i korte kjoler og veien til Paralympics.</itunes:summary>
+      <itunes:duration>4807</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ingebjørg Bratland og Sigrid Sollund</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_d64f5e42-fe34-4fee-8f5e-42fe349feeed</link>
+      <description>Et ufrivillig Synnøve Solbakken-image, en halvspist pølsesnabb i posten og divanykker i Irland.</description>
+      <guid isPermaLink="false">l_d64f5e42-fe34-4fee-8f5e-42fe349feeed</guid>
+      <pubDate>Fri, 28 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/a5b93f0a-0806-45c9-8d2d-67f3efe646eb_0_ID192MP3.mp3" type="audio/mpeg" length="117031149"></enclosure>
+      <itunes:title>Ingebjørg Bratland og Sigrid Sollund</itunes:title>
+      <itunes:summary>Et ufrivillig Synnøve Solbakken-image, en halvspist pølsesnabb i posten og divanykker i Irland.</itunes:summary>
+      <itunes:duration>4876</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Moddi og Sigrid Sollund</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_fc4583be-38f9-4825-8583-be38f9b82540</link>
+      <description>Nattasanger som sjekketriks, sakte reising og politikken som sparket beina under musikken.</description>
+      <guid isPermaLink="false">l_fc4583be-38f9-4825-8583-be38f9b82540</guid>
+      <pubDate>Thu, 27 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/57269b94-49fd-41e9-b8a5-31a8fbdb4e09_0_ID192MP3.mp3" type="audio/mpeg" length="96501357"></enclosure>
+      <itunes:title>Moddi og Sigrid Sollund</itunes:title>
+      <itunes:summary>Nattasanger som sjekketriks, sakte reising og politikken som sparket beina under musikken.</itunes:summary>
+      <itunes:duration>4020</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Niklas Baarli og Kåre Magnus Bergh</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_af198b82-5f27-4d4e-998b-825f27cd4e17</link>
+      <description>Kritikkverdige musikkvalg, massasje på hundehotell og luksusyacht.</description>
+      <guid isPermaLink="false">l_af198b82-5f27-4d4e-998b-825f27cd4e17</guid>
+      <pubDate>Wed, 26 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/c28abbff-134b-4959-be5a-0abb2db1a6c0_0_ID192MP3.mp3" type="audio/mpeg" length="113660397"></enclosure>
+      <itunes:title>Niklas Baarli og Kåre Magnus Bergh</itunes:title>
+      <itunes:summary>Kritikkverdige musikkvalg, massasje på hundehotell og luksusyacht.</itunes:summary>
+      <itunes:duration>4735</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mikkel Niva og Ida Nysæter Rasch</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_5532d52f-6c95-4e8d-b2d5-2f6c950e8d82</link>
+      <description>Gutten fra skauen, kongen av small-talk og voksen lekeslåssing. </description>
+      <guid isPermaLink="false">l_5532d52f-6c95-4e8d-b2d5-2f6c950e8d82</guid>
+      <pubDate>Tue, 25 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/44b9870e-8507-40cc-9137-9ba169d25816_0_ID192MP3.mp3" type="audio/mpeg" length="110540205"></enclosure>
+      <itunes:title>Mikkel Niva og Ida Nysæter Rasch</itunes:title>
+      <itunes:summary>Gutten fra skauen, kongen av small-talk og voksen lekeslåssing. </itunes:summary>
+      <itunes:duration>4605</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Musti og Arin Soltanpanah</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_15fd893b-b938-42b6-bd89-3bb93882b6ca</link>
+      <description>Sint og sårbar rap, manifestering av karrieren og gledesoppkast.</description>
+      <guid isPermaLink="false">l_15fd893b-b938-42b6-bd89-3bb93882b6ca</guid>
+      <pubDate>Mon, 24 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/df88758e-f99f-4807-9a2e-81253924ab0b_0_ID192MP3.mp3" type="audio/mpeg" length="91729197"></enclosure>
+      <itunes:title>Musti og Arin Soltanpanah</itunes:title>
+      <itunes:summary>Sint og sårbar rap, manifestering av karrieren og gledesoppkast.</itunes:summary>
+      <itunes:duration>3821</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Edvard Valberg og Mari Garås Monsson</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_70196c16-8b0b-419b-996c-168b0b319b26</link>
+      <description>Livets første Speedo, eventyret om Honningbarna og om å omfavne lidelse.</description>
+      <guid isPermaLink="false">l_70196c16-8b0b-419b-996c-168b0b319b26</guid>
+      <pubDate>Sun, 23 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/63fe0e89-c61d-4f61-bb90-78cae92e2829_0_ID192MP3.mp3" type="audio/mpeg" length="125240301"></enclosure>
+      <itunes:title>Edvard Valberg og Mari Garås Monsson</itunes:title>
+      <itunes:summary>Livets første Speedo, eventyret om Honningbarna og om å omfavne lidelse.</itunes:summary>
+      <itunes:duration>5218</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tuva Fellman og Ida Nysæter Rasch</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_444e7744-77cf-45b2-8e77-4477cf45b2f2</link>
+      <description>Nasjonal runking, kropp etter fødsel og brystkreft og den vanskelige, fantastiske kjærligheten.</description>
+      <guid isPermaLink="false">l_444e7744-77cf-45b2-8e77-4477cf45b2f2</guid>
+      <pubDate>Sat, 22 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/15b748e0-768f-41a9-a9a9-9ed3fdaa981e_0_ID192MP3.mp3" type="audio/mpeg" length="114593517"></enclosure>
+      <itunes:title>Tuva Fellman og Ida Nysæter Rasch</itunes:title>
+      <itunes:summary>Nasjonal runking, kropp etter fødsel og brystkreft og den vanskelige, fantastiske kjærligheten.</itunes:summary>
+      <itunes:duration>4774</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Isalill Kolpus og Kari Slaatsveen </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_3149fad8-c90c-4186-89fa-d8c90cd1863a</link>
+      <description>En feig rocker, å bombe som lærer og sommerens store Hamsun-prosjekt.</description>
+      <guid isPermaLink="false">l_3149fad8-c90c-4186-89fa-d8c90cd1863a</guid>
+      <pubDate>Fri, 21 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/33d3bfad-d5ba-47dc-a2ff-e4e28b25e8e4_0_ID192MP3.mp3" type="audio/mpeg" length="91049517"></enclosure>
+      <itunes:title>Isalill Kolpus og Kari Slaatsveen </itunes:title>
+      <itunes:summary>En feig rocker, å bombe som lærer og sommerens store Hamsun-prosjekt.</itunes:summary>
+      <itunes:duration>3793</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hanne Ørstavik og Kåre Magnus Bergh </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_3a76030e-5aec-4612-b603-0e5aecf61242</link>
+      <description>Eksistensiell sveis, om å miste noen og den første sommeren uten frykt.</description>
+      <guid isPermaLink="false">l_3a76030e-5aec-4612-b603-0e5aecf61242</guid>
+      <pubDate>Thu, 20 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/38784579-0e2e-438c-bf45-f85d76a3f3f7_0_ID192MP3.mp3" type="audio/mpeg" length="115470765"></enclosure>
+      <itunes:title>Hanne Ørstavik og Kåre Magnus Bergh </itunes:title>
+      <itunes:summary>Eksistensiell sveis, om å miste noen og den første sommeren uten frykt.</itunes:summary>
+      <itunes:duration>4811</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Matoma og Ida Nysæter Rasch </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_743f1a28-06f1-4b12-bf1a-2806f19b1241</link>
+      <description>Hakuna Matoma, store følelser og rask moped.</description>
+      <guid isPermaLink="false">l_743f1a28-06f1-4b12-bf1a-2806f19b1241</guid>
+      <pubDate>Wed, 19 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/9b034c15-f641-49da-8eb9-3d61a0a5bd0e_0_ID192MP3.mp3" type="audio/mpeg" length="105697773"></enclosure>
+      <itunes:title>Matoma og Ida Nysæter Rasch </itunes:title>
+      <itunes:summary>Hakuna Matoma, store følelser og rask moped.</itunes:summary>
+      <itunes:duration>4404</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ramón og Kåre Magnus Bergh</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_12fc0290-ec1c-4a1f-bc02-90ec1c3a1f45</link>
+      <description>Badegutten, drømmen om verdensherredømme og kjærligheten til den lille havfruen.</description>
+      <guid isPermaLink="false">l_12fc0290-ec1c-4a1f-bc02-90ec1c3a1f45</guid>
+      <pubDate>Tue, 18 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/d731432c-2eb9-44bd-aefc-3d19cad083f3_0_ID192MP3.mp3" type="audio/mpeg" length="93614445"></enclosure>
+      <itunes:title>Ramón og Kåre Magnus Bergh</itunes:title>
+      <itunes:summary>Badegutten, drømmen om verdensherredømme og kjærligheten til den lille havfruen.</itunes:summary>
+      <itunes:duration>3900</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Inga Strümke og Mari Garås Monsson</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_114f51e6-cbc2-4473-8f51-e6cbc22473d9</link>
+      <description>Sommeren om hundre år, ferie uten dekning og kampsport.</description>
+      <guid isPermaLink="false">l_114f51e6-cbc2-4473-8f51-e6cbc22473d9</guid>
+      <pubDate>Mon, 17 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/0382aaa0-898b-4190-a3fa-faf1a8a83147_0_ID192MP3.mp3" type="audio/mpeg" length="114635565"></enclosure>
+      <itunes:title>Inga Strümke og Mari Garås Monsson</itunes:title>
+      <itunes:summary>Sommeren om hundre år, ferie uten dekning og kampsport.</itunes:summary>
+      <itunes:duration>4776</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Matias Faldbakken og Kåre Magnus Bergh</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_eaf785b9-aa22-4069-b785-b9aa22e069f0</link>
+      <description>Ulovlig skating, bygdedyret og Frankensteins monster.</description>
+      <guid isPermaLink="false">l_eaf785b9-aa22-4069-b785-b9aa22e069f0</guid>
+      <pubDate>Sun, 16 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/708c50cd-6cb9-4c65-87fb-74fcc12b8817_0_ID192MP3.mp3" type="audio/mpeg" length="82442925"></enclosure>
+      <itunes:title>Matias Faldbakken og Kåre Magnus Bergh</itunes:title>
+      <itunes:summary>Ulovlig skating, bygdedyret og Frankensteins monster.</itunes:summary>
+      <itunes:duration>3435</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Camilla Stoltenberg og Sigrid Sollund </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_863385bf-495b-4fe9-b385-bf495bffe99c</link>
+      <description>Et rullende gymnas, en offentlig families forventninger og god livskvalitet.</description>
+      <guid isPermaLink="false">l_863385bf-495b-4fe9-b385-bf495bffe99c</guid>
+      <pubDate>Sat, 15 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/d104e81c-b709-4a93-ac50-6981076bd03e_0_ID192MP3.mp3" type="audio/mpeg" length="116606637"></enclosure>
+      <itunes:title>Camilla Stoltenberg og Sigrid Sollund </itunes:title>
+      <itunes:summary>Et rullende gymnas, en offentlig families forventninger og god livskvalitet.</itunes:summary>
+      <itunes:duration>4858</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jarle Bernhoft og Kari Slaatsveen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_409eba01-7481-4638-9eba-017481c63838</link>
+      <description>Tvilende skamløshet, bilkjøring rundt midnatt og en litt tilfeldig stil.</description>
+      <guid isPermaLink="false">l_409eba01-7481-4638-9eba-017481c63838</guid>
+      <pubDate>Fri, 14 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/45d15ffb-8bcf-489a-8bca-82d22cc3a009_0_ID192MP3.mp3" type="audio/mpeg" length="98286957"></enclosure>
+      <itunes:title>Jarle Bernhoft og Kari Slaatsveen</itunes:title>
+      <itunes:summary>Tvilende skamløshet, bilkjøring rundt midnatt og en litt tilfeldig stil.</itunes:summary>
+      <itunes:duration>4095</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Marte Stokstad og Kåre Magnus Bergh</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_e1fe7ca3-1057-4538-be7c-a31057753890</link>
+      <description>Traumatisk sommerjobb, kreativt feriebudsjett og small-talk på fotballcup.</description>
+      <guid isPermaLink="false">l_e1fe7ca3-1057-4538-be7c-a31057753890</guid>
+      <pubDate>Thu, 13 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/71d91ea9-413c-4d65-af3f-129ddfe49544_0_ID192MP3.mp3" type="audio/mpeg" length="128588589"></enclosure>
+      <itunes:title>Marte Stokstad og Kåre Magnus Bergh</itunes:title>
+      <itunes:summary>Traumatisk sommerjobb, kreativt feriebudsjett og small-talk på fotballcup.</itunes:summary>
+      <itunes:duration>5357</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Annika Momrak og Galvan Mehidi</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_e58562f2-36f3-456c-8562-f236f3756cd6</link>
+      <description>Det beste badestedet i Bø, anatomipugging og TikTok-konflikter.</description>
+      <guid isPermaLink="false">l_e58562f2-36f3-456c-8562-f236f3756cd6</guid>
+      <pubDate>Wed, 12 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/08592b21-348e-4ac2-a687-249a67b5ef6b_0_ID192MP3.mp3" type="audio/mpeg" length="103462893"></enclosure>
+      <itunes:title>Annika Momrak og Galvan Mehidi</itunes:title>
+      <itunes:summary>Det beste badestedet i Bø, anatomipugging og TikTok-konflikter.</itunes:summary>
+      <itunes:duration>4310</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title> Ine Jansen og Kari Slaatsveen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_6bc1653a-1d42-43f5-8165-3a1d4243f593</link>
+      <description>Genetisk disponert for teater, øreormer og dramatikk i Italia.</description>
+      <guid isPermaLink="false">l_6bc1653a-1d42-43f5-8165-3a1d4243f593</guid>
+      <pubDate>Tue, 11 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/c7cf052c-b028-4538-92eb-fa539d87ac7f_0_ID192MP3.mp3" type="audio/mpeg" length="87776685"></enclosure>
+      <itunes:title> Ine Jansen og Kari Slaatsveen</itunes:title>
+      <itunes:summary>Genetisk disponert for teater, øreormer og dramatikk i Italia.</itunes:summary>
+      <itunes:duration>3657</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vår Staude og Ida Nysæter Rasch</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_0d5a4efa-ddfc-4ba3-9a4e-faddfc6ba351</link>
+      <description>Ungdomsopprør på Blitz, 1000 toalettmapper og motbakker.</description>
+      <guid isPermaLink="false">l_0d5a4efa-ddfc-4ba3-9a4e-faddfc6ba351</guid>
+      <pubDate>Mon, 10 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/0e2c44b9-e488-49a5-8141-b014fdfe52e7_0_ID192MP3.mp3" type="audio/mpeg" length="94227885"></enclosure>
+      <itunes:title>Vår Staude og Ida Nysæter Rasch</itunes:title>
+      <itunes:summary>Ungdomsopprør på Blitz, 1000 toalettmapper og motbakker.</itunes:summary>
+      <itunes:duration>3926</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Myra og Mari Garås Monsson</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_963ad53a-696d-41e7-bad5-3a696d31e730</link>
+      <description>Flukt fra borgerkrig i Sierra Leone og en turbulent oppvekst, selvtillit og Nicki Minaj og det å vende det negative til noe positivt. </description>
+      <guid isPermaLink="false">l_963ad53a-696d-41e7-bad5-3a696d31e730</guid>
+      <pubDate>Sun, 09 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/a656866c-4abb-4458-90e6-3fb995263de6_0_ID192MP3.mp3" type="audio/mpeg" length="111310317"></enclosure>
+      <itunes:title>Myra og Mari Garås Monsson</itunes:title>
+      <itunes:summary>Flukt fra borgerkrig i Sierra Leone og en turbulent oppvekst, selvtillit og Nicki Minaj og det å vende det negative til noe positivt. </itunes:summary>
+      <itunes:duration>4637</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Eirik Kristoffersen og Ronny Brede Aase </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_5a91bff6-a2d5-4eed-91bf-f6a2d5eeed7f</link>
+      <description>Den innbitte viljen til å ikke gi seg, svømmetips fra en elitesoldat og en litt for &#34;casual&#34; klesstil.</description>
+      <guid isPermaLink="false">l_5a91bff6-a2d5-4eed-91bf-f6a2d5eeed7f</guid>
+      <pubDate>Sat, 08 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/37cbd829-bc3a-422b-8f6f-a40bfb26b590_0_ID192MP3.mp3" type="audio/mpeg" length="110809773"></enclosure>
+      <itunes:title>Eirik Kristoffersen og Ronny Brede Aase </itunes:title>
+      <itunes:summary>Den innbitte viljen til å ikke gi seg, svømmetips fra en elitesoldat og en litt for &#34;casual&#34; klesstil.</itunes:summary>
+      <itunes:duration>4617</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Maria Kjos Fonn og Kari Slaatsveen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_3c267373-0c40-4294-a673-730c40d294a8</link>
+      <description>Anti-&#34;sommerimage&#34; med sprekker, feige helter og drama på fest.</description>
+      <guid isPermaLink="false">l_3c267373-0c40-4294-a673-730c40d294a8</guid>
+      <pubDate>Fri, 07 Jul 2023 10:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/09f4c4b6-9017-431c-9ee4-a4ed7f7ab2a1_0_ID192MP3.mp3" type="audio/mpeg" length="85672557"></enclosure>
+      <itunes:title>Maria Kjos Fonn og Kari Slaatsveen</itunes:title>
+      <itunes:summary>Anti-&#34;sommerimage&#34; med sprekker, feige helter og drama på fest.</itunes:summary>
+      <itunes:duration>3569</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Thomas Numme og Ronny Brede Aase</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_cbf22f10-8ef9-4a8e-b22f-108ef91a8e67</link>
+      <description>Rosévin saboterte håndballkarrieren, hva du IKKE skal gjøre med barna i sommer og intimkonsert med Coldplay.</description>
+      <guid isPermaLink="false">l_cbf22f10-8ef9-4a8e-b22f-108ef91a8e67</guid>
+      <pubDate>Thu, 06 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/7ed98a8b-d93d-4e9b-9176-ca2dc3cc4264_0_ID192MP3.mp3" type="audio/mpeg" length="102545325"></enclosure>
+      <itunes:title>Thomas Numme og Ronny Brede Aase</itunes:title>
+      <itunes:summary>Rosévin saboterte håndballkarrieren, hva du IKKE skal gjøre med barna i sommer og intimkonsert med Coldplay.</itunes:summary>
+      <itunes:duration>4272</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Erik Solbakken og Ida Nysæter Rasch</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_51772e06-7589-4718-b72e-067589b718e4</link>
+      <description>Fiskekortvakt med utradisjonelle metoder, plystring på damer og hiphop-drømmen.</description>
+      <guid isPermaLink="false">l_51772e06-7589-4718-b72e-067589b718e4</guid>
+      <pubDate>Wed, 05 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/33910210-b874-4023-8dbb-adb54c46fdb1_0_ID192MP3.mp3" type="audio/mpeg" length="98845677"></enclosure>
+      <itunes:title>Erik Solbakken og Ida Nysæter Rasch</itunes:title>
+      <itunes:summary>Fiskekortvakt med utradisjonelle metoder, plystring på damer og hiphop-drømmen.</itunes:summary>
+      <itunes:duration>4118</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Trond-Viggo Torgersen og Mari Garås Monsson</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_a91afdd9-21d9-4642-9afd-d921d936427d</link>
+      <description>Opprørsk ungdomstid, bestefarhjertet og husk å leve i nuet!</description>
+      <guid isPermaLink="false">l_a91afdd9-21d9-4642-9afd-d921d936427d</guid>
+      <pubDate>Tue, 04 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/1107a77a-1e52-4bf8-aa63-f66e9784c394_0_ID192MP3.mp3" type="audio/mpeg" length="122444397"></enclosure>
+      <itunes:title>Trond-Viggo Torgersen og Mari Garås Monsson</itunes:title>
+      <itunes:summary>Opprørsk ungdomstid, bestefarhjertet og husk å leve i nuet!</itunes:summary>
+      <itunes:duration>5101</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bjarte Tjøstheim og Sigrid Sollund</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_f7b1214e-7314-4319-b121-4e73149319c1</link>
+      <description>Om kjærligheten til kuer, dårlig samvittighet og forholdet til Steinar og Tore.</description>
+      <guid isPermaLink="false">l_f7b1214e-7314-4319-b121-4e73149319c1</guid>
+      <pubDate>Mon, 03 Jul 2023 08:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/c0305eab-1a22-4bdc-af21-4b0b55020723_0_ID192MP3.mp3" type="audio/mpeg" length="104988141"></enclosure>
+      <itunes:title>Bjarte Tjøstheim og Sigrid Sollund</itunes:title>
+      <itunes:summary>Om kjærligheten til kuer, dårlig samvittighet og forholdet til Steinar og Tore.</itunes:summary>
+      <itunes:duration>4374</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Odd Magnus Williamson og Galvan Mehidi</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_ee38ff24-a93d-499f-b8ff-24a93dc99f58</link>
+      <description>Oppvekst med blitzere og nynazister, grandiose kjærlighetserklæring og om å våge å feile.</description>
+      <guid isPermaLink="false">l_ee38ff24-a93d-499f-b8ff-24a93dc99f58</guid>
+      <pubDate>Sun, 02 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/beb8b793-03a7-49fd-90b9-33d4e09175d6_0_ID192MP3.mp3" type="audio/mpeg" length="119134701"></enclosure>
+      <itunes:title>Odd Magnus Williamson og Galvan Mehidi</itunes:title>
+      <itunes:summary>Oppvekst med blitzere og nynazister, grandiose kjærlighetserklæring og om å våge å feile.</itunes:summary>
+      <itunes:duration>4963</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Frida Ånnevik og Kåre Magnus Bergh</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_f8228151-8a79-41be-a281-518a7921be8d</link>
+      <description>Homokamp og fest, blanke Mjøsa og nødvendige ubehageligheter.</description>
+      <guid isPermaLink="false">l_f8228151-8a79-41be-a281-518a7921be8d</guid>
+      <pubDate>Sat, 01 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/d854b208-468d-4a09-98b5-e4a27dbeeea2_0_ID192MP3.mp3" type="audio/mpeg" length="103946733"></enclosure>
+      <itunes:title>Frida Ånnevik og Kåre Magnus Bergh</itunes:title>
+      <itunes:summary>Homokamp og fest, blanke Mjøsa og nødvendige ubehageligheter.</itunes:summary>
+      <itunes:duration>4331</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Espen PA Lervaag og Ida Nysæter Rasch</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_8a944a81-3d45-455b-944a-813d45455b18</link>
+      <description>Emma Stone går også på dass, anti-sommerkroppen og slik drikker du på jobben.</description>
+      <guid isPermaLink="false">l_8a944a81-3d45-455b-944a-813d45455b18</guid>
+      <pubDate>Fri, 30 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/9d340a7a-14f8-463a-9d95-26a2e39306ca_0_ID192MP3.mp3" type="audio/mpeg" length="96984621"></enclosure>
+      <itunes:title>Espen PA Lervaag og Ida Nysæter Rasch</itunes:title>
+      <itunes:summary>Emma Stone går også på dass, anti-sommerkroppen og slik drikker du på jobben.</itunes:summary>
+      <itunes:duration>4040</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fay Wildhagen og Ronny Brede Aase</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_d2ba2440-0c4f-4182-ba24-400c4f7182c6</link>
+      <description>Shortsvegring, hønedrap og en kjærlighetssang til &#34;straighte&#34; jenter.</description>
+      <guid isPermaLink="false">l_d2ba2440-0c4f-4182-ba24-400c4f7182c6</guid>
+      <pubDate>Thu, 29 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/17396796-1433-41f3-81c9-3273889652dd_0_ID192MP3.mp3" type="audio/mpeg" length="113663853"></enclosure>
+      <itunes:title>Fay Wildhagen og Ronny Brede Aase</itunes:title>
+      <itunes:summary>Shortsvegring, hønedrap og en kjærlighetssang til &#34;straighte&#34; jenter.</itunes:summary>
+      <itunes:duration>4735</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fetisha Williams og Arin Soltanpanah</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_05ca7e95-9aca-46eb-8a7e-959aca16eb2e</link>
+      <description>Slik får du en Hot Girl Summer, tips til helårspinnekjøtt og hushekseri.</description>
+      <guid isPermaLink="false">l_05ca7e95-9aca-46eb-8a7e-959aca16eb2e</guid>
+      <pubDate>Wed, 28 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/59ca2295-13d2-4e14-b3c0-8b528c7e806c_0_ID192MP3.mp3" type="audio/mpeg" length="104510061"></enclosure>
+      <itunes:title>Fetisha Williams og Arin Soltanpanah</itunes:title>
+      <itunes:summary>Slik får du en Hot Girl Summer, tips til helårspinnekjøtt og hushekseri.</itunes:summary>
+      <itunes:duration>4354</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Metteson og Mari Garås Monsson</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_60c6229f-c141-46a6-8622-9fc141b6a6db</link>
+      <description>Kjærlighet er en livsoppgave. Sverre kom ut av skapet i et telt, nå har han sitt livs første kjæreste. </description>
+      <guid isPermaLink="false">l_60c6229f-c141-46a6-8622-9fc141b6a6db</guid>
+      <pubDate>Tue, 27 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/8edddab6-c576-48c7-b2c8-7dedcfef6d8a_0_ID192MP3.mp3" type="audio/mpeg" length="127429101"></enclosure>
+      <itunes:title>Metteson og Mari Garås Monsson</itunes:title>
+      <itunes:summary>Kjærlighet er en livsoppgave. Sverre kom ut av skapet i et telt, nå har han sitt livs første kjæreste. </itunes:summary>
+      <itunes:duration>5309</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gisle Agledahl og Galvan Mehidi</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_be7d6e08-5838-4b55-bd6e-085838db5599</link>
+      <description>Den ene brukte humor og selvironi som forsvarsmekanisme, mens den andre senket stemmen og gikk bredere for å passe inn.</description>
+      <guid isPermaLink="false">l_be7d6e08-5838-4b55-bd6e-085838db5599</guid>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/81bcd404-55fc-4d4c-8fe2-e6af6483fbe4_0_ID192MP3.mp3" type="audio/mpeg" length="114352749"></enclosure>
+      <itunes:title>Gisle Agledahl og Galvan Mehidi</itunes:title>
+      <itunes:summary>Den ene brukte humor og selvironi som forsvarsmekanisme, mens den andre senket stemmen og gikk bredere for å passe inn.</itunes:summary>
+      <itunes:duration>4764</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lise Finckenhagen og Ronny Brede Aase</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_72be15b1-0a92-4fa0-be15-b10a92cfa0ac</link>
+      <description>Det har vært noen tøffe år for Lise, men etter mange kvelder med ostesmørbrød som trøst, ser det ut til at livet smiler igjen.</description>
+      <guid isPermaLink="false">l_72be15b1-0a92-4fa0-be15-b10a92cfa0ac</guid>
+      <pubDate>Sun, 25 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/c45e89f3-098e-494a-aa8b-c56fe1921538_0_ID192MP3.mp3" type="audio/mpeg" length="112203693"></enclosure>
+      <itunes:title>Lise Finckenhagen og Ronny Brede Aase</itunes:title>
+      <itunes:summary>Det har vært noen tøffe år for Lise, men etter mange kvelder med ostesmørbrød som trøst, ser det ut til at livet smiler igjen.</itunes:summary>
+      <itunes:duration>4675</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hans Morten Hansen og Kari Slaatsveen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_7583f7cc-b5d9-4eeb-83f7-ccb5d9feeb66</link>
+      <description>Han har verdensrekord i stand up, er hele Norges Gullestad - Hans Morten Hansen lager humor av alt han opplever.</description>
+      <guid isPermaLink="false">l_7583f7cc-b5d9-4eeb-83f7-ccb5d9feeb66</guid>
+      <pubDate>Sat, 24 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/b0284039-963d-44fe-ba20-95773ded142b_0_ID192MP3.mp3" type="audio/mpeg" length="108212013"></enclosure>
+      <itunes:title>Hans Morten Hansen og Kari Slaatsveen</itunes:title>
+      <itunes:summary>Han har verdensrekord i stand up, er hele Norges Gullestad - Hans Morten Hansen lager humor av alt han opplever.</itunes:summary>
+      <itunes:duration>4508</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Felix Baldauf og Mari Garås Monsson</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_17cc8196-0723-47ec-8c81-96072397ec39</link>
+      <description>Følsom fisker og åndelig ferieturist - Felix leter etter historier og bortgjemte treningsgymmer på loffen i Asia.</description>
+      <guid isPermaLink="false">l_17cc8196-0723-47ec-8c81-96072397ec39</guid>
+      <pubDate>Fri, 23 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/d762d202-e719-4871-b411-4c11f35d8102_0_ID192MP3.mp3" type="audio/mpeg" length="114569325"></enclosure>
+      <itunes:title>Felix Baldauf og Mari Garås Monsson</itunes:title>
+      <itunes:summary>Følsom fisker og åndelig ferieturist - Felix leter etter historier og bortgjemte treningsgymmer på loffen i Asia.</itunes:summary>
+      <itunes:duration>4773</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Martin Lepperød og Galvan Mehidi</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_f1b341d9-9c2d-468d-b341-d99c2d968dae</link>
+      <description>Nyforelska i ferskvann og strøm, Martin fordømmer ungdomstidas gale nakenstunt, drømmer om å bli rapper og de sjøllaga dreadsene.</description>
+      <guid isPermaLink="false">l_f1b341d9-9c2d-468d-b341-d99c2d968dae</guid>
+      <pubDate>Thu, 22 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/67b691b0-08f8-4852-aec4-e66cc4440aa3_0_ID192MP3.mp3" type="audio/mpeg" length="126991341"></enclosure>
+      <itunes:title>Martin Lepperød og Galvan Mehidi</itunes:title>
+      <itunes:summary>Nyforelska i ferskvann og strøm, Martin fordømmer ungdomstidas gale nakenstunt, drømmer om å bli rapper og de sjøllaga dreadsene.</itunes:summary>
+      <itunes:duration>5291</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lars Berrum og Mari Garås Monsson </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_24f60767-3e2d-416b-b607-673e2d316b38</link>
+      <description>Han kaller hytta på Nesodden &#34;enkel&#34;, kompisene sier &#34;lav standard&#34;. Der bader Lars den hårete kroppen sin lenge, selv om han egentlig hater kaldt vann.</description>
+      <guid isPermaLink="false">l_24f60767-3e2d-416b-b607-673e2d316b38</guid>
+      <pubDate>Wed, 21 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/f2a4a69d-8b73-4d26-b3c8-7d085c822e1d_0_ID192MP3.mp3" type="audio/mpeg" length="111316077"></enclosure>
+      <itunes:title>Lars Berrum og Mari Garås Monsson </itunes:title>
+      <itunes:summary>Han kaller hytta på Nesodden &#34;enkel&#34;, kompisene sier &#34;lav standard&#34;. Der bader Lars den hårete kroppen sin lenge, selv om han egentlig hater kaldt vann.</itunes:summary>
+      <itunes:duration>4638</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nate Kahungu og Arin Soltanpanah </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_1c4db190-1ac0-4c0a-8db1-901ac0dc0af7</link>
+      <description>Norges best kledde om kjønnsløse klær, hva det vil si å være en &#34;loverboi&#34; og om at gutter må snakke mer om følelsene sine.</description>
+      <guid isPermaLink="false">l_1c4db190-1ac0-4c0a-8db1-901ac0dc0af7</guid>
+      <pubDate>Tue, 20 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/355f1d10-6610-43d5-9eca-b49c722b4cb5_0_ID192MP3.mp3" type="audio/mpeg" length="122388525"></enclosure>
+      <itunes:title>Nate Kahungu og Arin Soltanpanah </itunes:title>
+      <itunes:summary>Norges best kledde om kjønnsløse klær, hva det vil si å være en &#34;loverboi&#34; og om at gutter må snakke mer om følelsene sine.</itunes:summary>
+      <itunes:duration>5099</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Therese Johaug og Ida Nysæter Rasch</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_7f7cffee-822f-4813-bcff-ee822fa813a5</link>
+      <description>Med ny rolle i sporten og baby i magen, mimrer Therese tilbake til barndommens solfylte somre og livet som budeie hos besteforeldrene.</description>
+      <guid isPermaLink="false">l_7f7cffee-822f-4813-bcff-ee822fa813a5</guid>
+      <pubDate>Mon, 19 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/3a079dfc-a242-4d39-b177-88b6798816ec_0_ID192MP3.mp3" type="audio/mpeg" length="109282221"></enclosure>
+      <itunes:title>Therese Johaug og Ida Nysæter Rasch</itunes:title>
+      <itunes:summary>Med ny rolle i sporten og baby i magen, mimrer Therese tilbake til barndommens solfylte somre og livet som budeie hos besteforeldrene.</itunes:summary>
+      <itunes:duration>4553</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Per Sandberg og Sigrid Sollund </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_c60170eb-ed5d-435a-8170-ebed5d035aae</link>
+      <description>Selvvalgt alenetid, tanker om temperament og om hvor viktig det er å ha noen å ligge i skje med.</description>
+      <guid isPermaLink="false">l_c60170eb-ed5d-435a-8170-ebed5d035aae</guid>
+      <pubDate>Sun, 18 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/42c934b1-4713-4bed-bb59-bba15552775e_0_ID192MP3.mp3" type="audio/mpeg" length="96412077"></enclosure>
+      <itunes:title>Per Sandberg og Sigrid Sollund </itunes:title>
+      <itunes:summary>Selvvalgt alenetid, tanker om temperament og om hvor viktig det er å ha noen å ligge i skje med.</itunes:summary>
+      <itunes:duration>4017</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Martha Leivestad og Ronny Brede Aase </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_5926080f-bbec-4445-a608-0fbbecb44583</link>
+      <description>Sommer med dyp utringning, gigantisk skilpadde og nakenbading.</description>
+      <guid isPermaLink="false">l_5926080f-bbec-4445-a608-0fbbecb44583</guid>
+      <pubDate>Sat, 17 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/c250422c-1669-4747-91c2-d1453cc119de_0_ID192MP3.mp3" type="audio/mpeg" length="113402349"></enclosure>
+      <itunes:title>Martha Leivestad og Ronny Brede Aase </itunes:title>
+      <itunes:summary>Sommer med dyp utringning, gigantisk skilpadde og nakenbading.</itunes:summary>
+      <itunes:duration>4725</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Rasmus Wold og Jonis Josef</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_d8037119-f101-43b4-8371-19f10163b46a</link>
+      <description>Rasmus sjekket damer på sms, Jonis har aldri fått fisk - eller?  og begge har havnet i bråk i utlandet</description>
+      <guid isPermaLink="false">l_d8037119-f101-43b4-8371-19f10163b46a</guid>
+      <pubDate>Fri, 12 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/44750c0c-c595-412a-89a8-2b862d8b3999_0_ID192MP3.mp3" type="audio/mpeg" length="156850605"></enclosure>
+      <itunes:title>Rasmus Wold og Jonis Josef</itunes:title>
+      <itunes:summary>Rasmus sjekket damer på sms, Jonis har aldri fått fisk - eller?  og begge har havnet i bråk i utlandet</itunes:summary>
+      <itunes:duration>6535</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bendik og KAMARA </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_02abb0ac-488e-4a25-abb0-ac488e3a2560</link>
+      <description>Bendik elsker sparkesykkel, KAMARA elsker å prokrastinere og begge to crusher. Hele tiden.&#xA;</description>
+      <guid isPermaLink="false">l_02abb0ac-488e-4a25-abb0-ac488e3a2560</guid>
+      <pubDate>Thu, 11 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/4381dfae-4589-4c31-b177-7d9cf6ef4012_0_ID192MP3.mp3" type="audio/mpeg" length="94629933"></enclosure>
+      <itunes:title>Bendik og KAMARA </itunes:title>
+      <itunes:summary>Bendik elsker sparkesykkel, KAMARA elsker å prokrastinere og begge to crusher. Hele tiden.&#xA;</itunes:summary>
+      <itunes:duration>3942</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Silya Nymoen og Håvard Lilleheie</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_77d74928-632a-4318-9749-28632ab31839</link>
+      <description>Håvard synes det er ekstremt krevende med strandliv, Silya har jobbet som dating-coach og begge har hatt traumatiske opplevelser i vann.</description>
+      <guid isPermaLink="false">l_77d74928-632a-4318-9749-28632ab31839</guid>
+      <pubDate>Wed, 10 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/7437352d-cc02-4136-af96-f02f40860803_0_ID192MP3.mp3" type="audio/mpeg" length="157867245"></enclosure>
+      <itunes:title>Silya Nymoen og Håvard Lilleheie</itunes:title>
+      <itunes:summary>Håvard synes det er ekstremt krevende med strandliv, Silya har jobbet som dating-coach og begge har hatt traumatiske opplevelser i vann.</itunes:summary>
+      <itunes:duration>6577</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ary og Sunniva Lindgaard</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_851fbb4e-62d9-4532-9fbb-4e62d975323c</link>
+      <description>Sunniva er en jævel på stuping, ARY er for selvbevisst for badedyr og begge to vil ha pasta på en perfekt sommerdag.</description>
+      <guid isPermaLink="false">l_851fbb4e-62d9-4532-9fbb-4e62d975323c</guid>
+      <pubDate>Tue, 09 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/a0919976-f9ad-4356-878d-68d336c5a4eb_0_ID192MP3.mp3" type="audio/mpeg" length="121324077"></enclosure>
+      <itunes:title>Ary og Sunniva Lindgaard</itunes:title>
+      <itunes:summary>Sunniva er en jævel på stuping, ARY er for selvbevisst for badedyr og begge to vil ha pasta på en perfekt sommerdag.</itunes:summary>
+      <itunes:duration>5055</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Olli Wermskog og Nicolay Ramm</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_621fcbc8-5414-4f76-9fcb-c854148f7651</link>
+      <description>Nikolay har leid mye seilbåt uten å kunne seile, Olli var strandet på en øy med en gjeng kinesere og begge to har vært nakne offentlig</description>
+      <guid isPermaLink="false">l_621fcbc8-5414-4f76-9fcb-c854148f7651</guid>
+      <pubDate>Mon, 08 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/ba194606-fc63-4783-a5e7-94ca9f4a30bb_0_ID192MP3.mp3" type="audio/mpeg" length="127118061"></enclosure>
+      <itunes:title>Olli Wermskog og Nicolay Ramm</itunes:title>
+      <itunes:summary>Nikolay har leid mye seilbåt uten å kunne seile, Olli var strandet på en øy med en gjeng kinesere og begge to har vært nakne offentlig</itunes:summary>
+      <itunes:duration>5296</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Abubakar Hussain og Linn-Jeanethe Kyed</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_17b0fa8b-de59-4a4f-b0fa-8bde590a4f98</link>
+      <description>Pliktoppfyllende Linn-Jeanethe trosset mamma, Abu tar Imodium for å ikke måtte bæsje på festival og begge to liker å henge med besteforeldre. </description>
+      <guid isPermaLink="false">l_17b0fa8b-de59-4a4f-b0fa-8bde590a4f98</guid>
+      <pubDate>Sun, 07 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/e88ed037-e95f-4006-bfa3-496a73482f78_0_ID192MP3.mp3" type="audio/mpeg" length="150163245"></enclosure>
+      <itunes:title>Abubakar Hussain og Linn-Jeanethe Kyed</itunes:title>
+      <itunes:summary>Pliktoppfyllende Linn-Jeanethe trosset mamma, Abu tar Imodium for å ikke måtte bæsje på festival og begge to liker å henge med besteforeldre. </itunes:summary>
+      <itunes:duration>6256</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Maria Haukås Mittet og Noman Mubashir</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_36983858-c8b6-4725-9838-58c8b607258b</link>
+      <description>Maria har fått betalt for å synge julesanger i juli, Noman intervjuet Fuck for forest på Dagsrevyen og begge elsker George Michael</description>
+      <guid isPermaLink="false">l_36983858-c8b6-4725-9838-58c8b607258b</guid>
+      <pubDate>Sat, 06 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/65a3e64a-1ea0-4206-a429-80d549eddad2_0_ID192MP3.mp3" type="audio/mpeg" length="103374765"></enclosure>
+      <itunes:title>Maria Haukås Mittet og Noman Mubashir</itunes:title>
+      <itunes:summary>Maria har fått betalt for å synge julesanger i juli, Noman intervjuet Fuck for forest på Dagsrevyen og begge elsker George Michael</itunes:summary>
+      <itunes:duration>4307</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Odd Nordstoga og Bjørn Tomren</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_d6a2de67-cde5-48a1-a2de-67cde528a1de</link>
+      <description>Bjørn sov seg gjennom sommerjobben, Odd fikk en lekse av Bruce Springsteen og begge er lidenskapelig kajakkpadlere.&#xA;</description>
+      <guid isPermaLink="false">l_d6a2de67-cde5-48a1-a2de-67cde528a1de</guid>
+      <pubDate>Fri, 05 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/6e37085d-1715-4de6-bd9e-b637b801739c_0_ID192MP3.mp3" type="audio/mpeg" length="139811373"></enclosure>
+      <itunes:title>Odd Nordstoga og Bjørn Tomren</itunes:title>
+      <itunes:summary>Bjørn sov seg gjennom sommerjobben, Odd fikk en lekse av Bruce Springsteen og begge er lidenskapelig kajakkpadlere.&#xA;</itunes:summary>
+      <itunes:duration>5825</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hina Zaidi og Christer Falck</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_55bfc57d-da0a-464a-bfc5-7dda0a764af5</link>
+      <description>Hina er skuespiller og boksetrener og egentlig ikke redd for noe, Christer er egentlig ganske feig, har lav smerteterskel og liker ikke å bade i kaldt vann og begge elsker jobbene sine. </description>
+      <guid isPermaLink="false">l_55bfc57d-da0a-464a-bfc5-7dda0a764af5</guid>
+      <pubDate>Thu, 04 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/2341c11e-6930-489f-88d2-969954ae87aa_0_ID192MP3.mp3" type="audio/mpeg" length="126973485"></enclosure>
+      <itunes:title>Hina Zaidi og Christer Falck</itunes:title>
+      <itunes:summary>Hina er skuespiller og boksetrener og egentlig ikke redd for noe, Christer er egentlig ganske feig, har lav smerteterskel og liker ikke å bade i kaldt vann og begge elsker jobbene sine. </itunes:summary>
+      <itunes:duration>5290</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ronny Brede Aase og Emilie Enger Mehl</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_89457a93-c74c-4380-857a-93c74cd3804e</link>
+      <description>Ronny har et ekstremt godt forhold til danskebåten, Emilie var rå på olje og burgerflipping og begge elsker å lese i ferien.</description>
+      <guid isPermaLink="false">l_89457a93-c74c-4380-857a-93c74cd3804e</guid>
+      <pubDate>Wed, 03 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/894cd5c9-2d9d-49de-ba14-822ccd8bc35d_0_ID192MP3.mp3" type="audio/mpeg" length="105663789"></enclosure>
+      <itunes:title>Ronny Brede Aase og Emilie Enger Mehl</itunes:title>
+      <itunes:summary>Ronny har et ekstremt godt forhold til danskebåten, Emilie var rå på olje og burgerflipping og begge elsker å lese i ferien.</itunes:summary>
+      <itunes:duration>4402</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Magnus Devold og Marlene Stavrum</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_56bd8924-00a3-45c5-bd89-2400a3c5c59c</link>
+      <description>Magnus har alltid med egen pute på tur, Marlene går seg bort i Oslo og begge trenger alenetid på hotellrommet. </description>
+      <guid isPermaLink="false">l_56bd8924-00a3-45c5-bd89-2400a3c5c59c</guid>
+      <pubDate>Tue, 02 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/e1427489-45a3-44db-a3fa-25edcbec8ac4_0_ID192MP3.mp3" type="audio/mpeg" length="115941933"></enclosure>
+      <itunes:title>Magnus Devold og Marlene Stavrum</itunes:title>
+      <itunes:summary>Magnus har alltid med egen pute på tur, Marlene går seg bort i Oslo og begge trenger alenetid på hotellrommet. </itunes:summary>
+      <itunes:duration>4830</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hanne Krogh og Silje Nordnes</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_bc7d465f-7fd7-4e63-bd46-5f7fd79e6341</link>
+      <description>Hanne kjenner på lykkepress om sommeren, Silje vil gjerne bli helårsbader og begge to elsker Nord-Norge.</description>
+      <guid isPermaLink="false">l_bc7d465f-7fd7-4e63-bd46-5f7fd79e6341</guid>
+      <pubDate>Mon, 01 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/7c5fe429-80ed-46be-aad3-ec8cd9036f75_0_ID192MP3.mp3" type="audio/mpeg" length="128793069"></enclosure>
+      <itunes:title>Hanne Krogh og Silje Nordnes</itunes:title>
+      <itunes:summary>Hanne kjenner på lykkepress om sommeren, Silje vil gjerne bli helårsbader og begge to elsker Nord-Norge.</itunes:summary>
+      <itunes:duration>5366</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Andreas Wahl og Trine Lise Olsen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_4140ebfe-b3e4-4a6b-80eb-feb3e4fa6be3</link>
+      <description>Trine Lise stjal masse is som barn, Andreas solgte masse is som barn og begge kjenner på skadefryd rundt skuffa turister</description>
+      <guid isPermaLink="false">l_4140ebfe-b3e4-4a6b-80eb-feb3e4fa6be3</guid>
+      <pubDate>Sun, 31 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/9394b00a-bb38-4fce-ba10-f2062c79c01d_0_ID192MP3.mp3" type="audio/mpeg" length="113334957"></enclosure>
+      <itunes:title>Andreas Wahl og Trine Lise Olsen</itunes:title>
+      <itunes:summary>Trine Lise stjal masse is som barn, Andreas solgte masse is som barn og begge kjenner på skadefryd rundt skuffa turister</itunes:summary>
+      <itunes:duration>4722</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Frida Homlung og Johan Golden</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_ec2a6a96-fb89-4b10-aa6a-96fb898b1029</link>
+      <description>Johan har et elsk/hat forhold til båt, Frida har mistet passet på reise og begge er veldig glade i frukt i utlandet.</description>
+      <guid isPermaLink="false">l_ec2a6a96-fb89-4b10-aa6a-96fb898b1029</guid>
+      <pubDate>Sat, 30 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/3055e133-c064-4630-a723-253fec493232_0_ID192MP3.mp3" type="audio/mpeg" length="82168173"></enclosure>
+      <itunes:title>Frida Homlung og Johan Golden</itunes:title>
+      <itunes:summary>Johan har et elsk/hat forhold til båt, Frida har mistet passet på reise og begge er veldig glade i frukt i utlandet.</itunes:summary>
+      <itunes:duration>3423</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Birgit Skarstein og Trygve Slagsvold Vedum</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_bbe1dcf9-7f26-497f-a1dc-f97f26c97f67</link>
+      <description>Trygve har forsøkt å imponere jenter med sang, Birgit har vært på odelsgutt-jakt og begge har et sterkt forhold til båt.</description>
+      <guid isPermaLink="false">l_bbe1dcf9-7f26-497f-a1dc-f97f26c97f67</guid>
+      <pubDate>Fri, 29 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/d4d9e5d2-f504-4dd9-a40b-117a755b41b2_0_ID192MP3.mp3" type="audio/mpeg" length="127597869"></enclosure>
+      <itunes:title>Birgit Skarstein og Trygve Slagsvold Vedum</itunes:title>
+      <itunes:summary>Trygve har forsøkt å imponere jenter med sang, Birgit har vært på odelsgutt-jakt og begge har et sterkt forhold til båt.</itunes:summary>
+      <itunes:duration>5316</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mari Maurstad og Hasse Hope</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_a137cdb6-1dce-4c93-b7cd-b61dcecc9387</link>
+      <description>Hasse har utfordret sin introverthet hos bønder i Japan, Mari sitter alltid på barnebordet og begge to snakker fortere enn gjennomsnittet.</description>
+      <guid isPermaLink="false">l_a137cdb6-1dce-4c93-b7cd-b61dcecc9387</guid>
+      <pubDate>Thu, 28 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/bf2abeb8-9012-4227-b45c-d02500c4349f_0_ID192MP3.mp3" type="audio/mpeg" length="116564013"></enclosure>
+      <itunes:title>Mari Maurstad og Hasse Hope</itunes:title>
+      <itunes:summary>Hasse har utfordret sin introverthet hos bønder i Japan, Mari sitter alltid på barnebordet og begge to snakker fortere enn gjennomsnittet.</itunes:summary>
+      <itunes:duration>4856</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Emil Gukild og Simon Nitsche</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_9a105ef4-d87c-49c4-905e-f4d87c59c4ad</link>
+      <description>Emil kom inn på flyskolen på slump, Simon dekket kanindrap på scooter og begge ble eid av Blodprinsen</description>
+      <guid isPermaLink="false">l_9a105ef4-d87c-49c4-905e-f4d87c59c4ad</guid>
+      <pubDate>Wed, 27 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/1544ae77-39f7-4475-aab6-13997f815118_0_ID192MP3.mp3" type="audio/mpeg" length="111661101"></enclosure>
+      <itunes:title>Emil Gukild og Simon Nitsche</itunes:title>
+      <itunes:summary>Emil kom inn på flyskolen på slump, Simon dekket kanindrap på scooter og begge ble eid av Blodprinsen</itunes:summary>
+      <itunes:duration>4652</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mona B. Riise og Nils Bech</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_d7ec20e4-c3c2-4558-ac20-e4c3c2655846</link>
+      <description>Mona er en typisk overvekt, Nils deler helst én håndbagasje og begge er over gjennomsnittet lettrørte.</description>
+      <guid isPermaLink="false">l_d7ec20e4-c3c2-4558-ac20-e4c3c2655846</guid>
+      <pubDate>Tue, 26 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/562a8bf8-3d8e-402a-865a-8c21f7dc2f6d_0_ID192MP3.mp3" type="audio/mpeg" length="146333997"></enclosure>
+      <itunes:title>Mona B. Riise og Nils Bech</itunes:title>
+      <itunes:summary>Mona er en typisk overvekt, Nils deler helst én håndbagasje og begge er over gjennomsnittet lettrørte.</itunes:summary>
+      <itunes:duration>6097</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tuva Fellman og Rune Gokstad</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_d56c60c7-bf76-4fcf-ac60-c7bf764fcfd5</link>
+      <description>Tuva elsker å tøffe seg når hun skal bade, Rune får alltid ansvar for grillingen selv om han ikke kan grille og begge to har rota med bagasjen</description>
+      <guid isPermaLink="false">l_d56c60c7-bf76-4fcf-ac60-c7bf764fcfd5</guid>
+      <pubDate>Mon, 25 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/57a3505f-4fc5-4b76-b03a-e1d4a6fb5dd9_0_ID192MP3.mp3" type="audio/mpeg" length="139237101"></enclosure>
+      <itunes:title>Tuva Fellman og Rune Gokstad</itunes:title>
+      <itunes:summary>Tuva elsker å tøffe seg når hun skal bade, Rune får alltid ansvar for grillingen selv om han ikke kan grille og begge to har rota med bagasjen</itunes:summary>
+      <itunes:duration>5801</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Martin Beyer Olsen og Ingeborg Heldal</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_60ab72d0-8bb9-4296-ab72-d08bb9429694</link>
+      <description>Martin elsker dyrekafe, Ingeborg blir yr av tjern og begge har sterke følelser for gjedde.</description>
+      <guid isPermaLink="false">l_60ab72d0-8bb9-4296-ab72-d08bb9429694</guid>
+      <pubDate>Sun, 24 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/aa3fae52-596c-4a47-8aed-680fed6c5acc_0_ID192MP3.mp3" type="audio/mpeg" length="115839405"></enclosure>
+      <itunes:title>Martin Beyer Olsen og Ingeborg Heldal</itunes:title>
+      <itunes:summary>Martin elsker dyrekafe, Ingeborg blir yr av tjern og begge har sterke følelser for gjedde.</itunes:summary>
+      <itunes:duration>4826</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hilde Skovdahl og Klaus Sonstad</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_42207001-6bf3-44d5-a070-016bf384d5b4</link>
+      <description>Klaus var tidenes dårligste jorbærplukker,  Hilde har egen konto til badedyr og begge er glade i kortreiste gleder. </description>
+      <guid isPermaLink="false">l_42207001-6bf3-44d5-a070-016bf384d5b4</guid>
+      <pubDate>Sat, 23 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/aa038e1f-f2dc-4cf8-a8bd-38e1e1e422df_0_ID192MP3.mp3" type="audio/mpeg" length="130599981"></enclosure>
+      <itunes:title>Hilde Skovdahl og Klaus Sonstad</itunes:title>
+      <itunes:summary>Klaus var tidenes dårligste jorbærplukker,  Hilde har egen konto til badedyr og begge er glade i kortreiste gleder. </itunes:summary>
+      <itunes:duration>5441</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Marie Blokhus og Peder Kjøs </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_3c7168d6-5b7a-490e-b168-d65b7ac90e63</link>
+      <description>Marie har tjent penger på å stå musestille, Peder er ikke noe stor fan av å drepe ting og begge kjenner på dybdeskrekken.</description>
+      <guid isPermaLink="false">l_3c7168d6-5b7a-490e-b168-d65b7ac90e63</guid>
+      <pubDate>Fri, 22 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/6367b72f-557b-4613-91e5-70b31b7f28fe_0_ID192MP3.mp3" type="audio/mpeg" length="128511981"></enclosure>
+      <itunes:title>Marie Blokhus og Peder Kjøs </itunes:title>
+      <itunes:summary>Marie har tjent penger på å stå musestille, Peder er ikke noe stor fan av å drepe ting og begge kjenner på dybdeskrekken.</itunes:summary>
+      <itunes:duration>5354</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Anette Trettebergstuen og Espen Thoresen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_ac30ce88-c20a-4df3-b0ce-88c20a7df3e7</link>
+      <description>Anette holdt på å forlise i Tyrkia, Espen ble jaget av 12 åringer i syden og begge var avstandsforelska i Märtha Louise </description>
+      <guid isPermaLink="false">l_ac30ce88-c20a-4df3-b0ce-88c20a7df3e7</guid>
+      <pubDate>Thu, 21 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/4d7fe8ce-041d-4f06-b398-a4fc36a716f4_0_ID192MP3.mp3" type="audio/mpeg" length="101274093"></enclosure>
+      <itunes:title>Anette Trettebergstuen og Espen Thoresen</itunes:title>
+      <itunes:summary>Anette holdt på å forlise i Tyrkia, Espen ble jaget av 12 åringer i syden og begge var avstandsforelska i Märtha Louise </itunes:summary>
+      <itunes:duration>4219</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sarah Natasha Melbye og Michael Andreassen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_4b4202df-5ab3-4ca5-8202-df5ab32ca58e</link>
+      <description>Sarah ofrer gladelig vennene sine til hai, Michael har et uironisk forhold til K-pop og begge er veldig ivrige på iskrem</description>
+      <guid isPermaLink="false">l_4b4202df-5ab3-4ca5-8202-df5ab32ca58e</guid>
+      <pubDate>Wed, 20 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/83464a22-6234-41f5-aaac-7c9d2ea9b228_0_ID192MP3.mp3" type="audio/mpeg" length="121791213"></enclosure>
+      <itunes:title>Sarah Natasha Melbye og Michael Andreassen</itunes:title>
+      <itunes:summary>Sarah ofrer gladelig vennene sine til hai, Michael har et uironisk forhold til K-pop og begge er veldig ivrige på iskrem</itunes:summary>
+      <itunes:duration>5074</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Haddy N&#39;jie og Robert Stoltenberg</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_b3869b9a-2773-4563-869b-9a27732563a8</link>
+      <description>Robert elsker tang og tare, Haddy er for sjenert for å bade og begge to husker sommeren de fylte 17 år.</description>
+      <guid isPermaLink="false">l_b3869b9a-2773-4563-869b-9a27732563a8</guid>
+      <pubDate>Tue, 19 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/86dd30c7-c908-4a1d-84cf-7fe8b06a72b5_0_ID192MP3.mp3" type="audio/mpeg" length="125346861"></enclosure>
+      <itunes:title>Haddy N&#39;jie og Robert Stoltenberg</itunes:title>
+      <itunes:summary>Robert elsker tang og tare, Haddy er for sjenert for å bade og begge to husker sommeren de fylte 17 år.</itunes:summary>
+      <itunes:duration>5222</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ingeborg Senneset og Trond-Viggo Torgersen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_4b56f05c-3608-46f6-96f0-5c3608f6f6fa</link>
+      <description>Ingeborg elsker berg og dalbane, Trond-Viggo er ferdig med både berg og dalbane og porno og begge er opptatt av hvordan kroppen fungerer.</description>
+      <guid isPermaLink="false">l_4b56f05c-3608-46f6-96f0-5c3608f6f6fa</guid>
+      <pubDate>Mon, 18 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/92d3a8b6-461a-4944-9748-b62cd8f0c71d_0_ID192MP3.mp3" type="audio/mpeg" length="110529837"></enclosure>
+      <itunes:title>Ingeborg Senneset og Trond-Viggo Torgersen</itunes:title>
+      <itunes:summary>Ingeborg elsker berg og dalbane, Trond-Viggo er ferdig med både berg og dalbane og porno og begge er opptatt av hvordan kroppen fungerer.</itunes:summary>
+      <itunes:duration>4605</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Alexandra Joner og  Karsten Blomvik</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_f9703c2e-9e87-441c-b03c-2e9e87c41cf6</link>
+      <description>Karsten har funnet opp den ultimate sommerdrinken, Alexandra sverger til melontyggis når hun skal kline  og ingen av de er særlige glade i å bade.</description>
+      <guid isPermaLink="false">l_f9703c2e-9e87-441c-b03c-2e9e87c41cf6</guid>
+      <pubDate>Sun, 17 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/aaf8e210-c994-4dd1-9405-756a1681a36c_0_ID192MP3.mp3" type="audio/mpeg" length="127561581"></enclosure>
+      <itunes:title>Alexandra Joner og  Karsten Blomvik</itunes:title>
+      <itunes:summary>Karsten har funnet opp den ultimate sommerdrinken, Alexandra sverger til melontyggis når hun skal kline  og ingen av de er særlige glade i å bade.</itunes:summary>
+      <itunes:duration>5315</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jorun Stiansen og Nils-Ingar Aadne</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_d6bdcb93-47bb-4d7c-bdcb-9347bb5d7c5d</link>
+      <description>Jorun elsker å bade (etter en del traumebehandling), Nils-Ingar må lære seg å bremse på rulleski og begge gleder seg til vinteren. </description>
+      <guid isPermaLink="false">l_d6bdcb93-47bb-4d7c-bdcb-9347bb5d7c5d</guid>
+      <pubDate>Sat, 16 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/8add5f3a-82ca-4c6d-85e2-bbd7951e623c_0_ID192MP3.mp3" type="audio/mpeg" length="111552813"></enclosure>
+      <itunes:title>Jorun Stiansen og Nils-Ingar Aadne</itunes:title>
+      <itunes:summary>Jorun elsker å bade (etter en del traumebehandling), Nils-Ingar må lære seg å bremse på rulleski og begge gleder seg til vinteren. </itunes:summary>
+      <itunes:duration>4647</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sigrid Sollund og Egil Hegerberg</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_575daf01-460c-4101-9daf-01460c7101cd</link>
+      <description>Sigrid lommefacetimet Kari Bremnes, Egil padlet kano utfor en foss og begges favoritt-is ble bombet i Drammen</description>
+      <guid isPermaLink="false">l_575daf01-460c-4101-9daf-01460c7101cd</guid>
+      <pubDate>Fri, 15 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/40b68d91-5d3f-4b7a-be2b-929aa50488bd_0_ID192MP3.mp3" type="audio/mpeg" length="105932205"></enclosure>
+      <itunes:title>Sigrid Sollund og Egil Hegerberg</itunes:title>
+      <itunes:summary>Sigrid lommefacetimet Kari Bremnes, Egil padlet kano utfor en foss og begges favoritt-is ble bombet i Drammen</itunes:summary>
+      <itunes:duration>4413</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Reneé Fagerhøi og Are Sende Osen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_f1597cb6-3949-4071-997c-b63949f07129</link>
+      <description>Reneé har laget en helt spesiell is, Are slår et slag for ansjosen og begge to brenner for en perfekt stekt entrecote</description>
+      <guid isPermaLink="false">l_f1597cb6-3949-4071-997c-b63949f07129</guid>
+      <pubDate>Thu, 14 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/7d11ce75-aa55-4289-91b7-57c00233bfdf_0_ID192MP3.mp3" type="audio/mpeg" length="109607661"></enclosure>
+      <itunes:title>Reneé Fagerhøi og Are Sende Osen</itunes:title>
+      <itunes:summary>Reneé har laget en helt spesiell is, Are slår et slag for ansjosen og begge to brenner for en perfekt stekt entrecote</itunes:summary>
+      <itunes:duration>4566</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Christian Mikkelsen og Øystein Bache </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_59021b52-a686-4ec9-821b-52a6865ec938</link>
+      <description>Christian var en sjenert dørselger, Øystein drømmer om jobb på bensinstasjon og begge deler sine sommertraumer.</description>
+      <guid isPermaLink="false">l_59021b52-a686-4ec9-821b-52a6865ec938</guid>
+      <pubDate>Wed, 13 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/0493de30-0fb5-4db3-a641-f99553a28dec_0_ID192MP3.mp3" type="audio/mpeg" length="113573997"></enclosure>
+      <itunes:title>Christian Mikkelsen og Øystein Bache </itunes:title>
+      <itunes:summary>Christian var en sjenert dørselger, Øystein drømmer om jobb på bensinstasjon og begge deler sine sommertraumer.</itunes:summary>
+      <itunes:duration>4732</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kari Slaatsveen og Sandeep Singh</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_0685cd6e-0c1e-4d88-85cd-6e0c1e8d8882</link>
+      <description>Kari har jobbet på slakteri, Sandeep trodde han skulle dø i India og begge elsker å danse.</description>
+      <guid isPermaLink="false">l_0685cd6e-0c1e-4d88-85cd-6e0c1e8d8882</guid>
+      <pubDate>Tue, 12 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/0b0d483d-058d-47c1-93d2-c4c3cd16a002_0_ID192MP3.mp3" type="audio/mpeg" length="135508077"></enclosure>
+      <itunes:title>Kari Slaatsveen og Sandeep Singh</itunes:title>
+      <itunes:summary>Kari har jobbet på slakteri, Sandeep trodde han skulle dø i India og begge elsker å danse.</itunes:summary>
+      <itunes:duration>5646</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Alex Rosén og Iben Akerlie</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_939c34c7-eeef-4411-9c34-c7eeef241164</link>
+      <description>Alex deler sine beste dødsetips, Iben har helt øl i nakken på folk og begge elsker å bade.</description>
+      <guid isPermaLink="false">l_939c34c7-eeef-4411-9c34-c7eeef241164</guid>
+      <pubDate>Mon, 11 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/9cc91fa9-bd17-4ea6-86a7-062f7643c0a0_0_ID192MP3.mp3" type="audio/mpeg" length="91964781"></enclosure>
+      <itunes:title>Alex Rosén og Iben Akerlie</itunes:title>
+      <itunes:summary>Alex deler sine beste dødsetips, Iben har helt øl i nakken på folk og begge elsker å bade.</itunes:summary>
+      <itunes:duration>3831</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Atle Pettersen og Jan Fredrik Karlsen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_eb2c44e1-7f7f-48cf-ac44-e17f7f28cf93</link>
+      <description>Atle eier fire griller, Jan Fredrik deler sine beste makrell-tips og begge har sterke minner til samme puddelrock-låt</description>
+      <guid isPermaLink="false">l_eb2c44e1-7f7f-48cf-ac44-e17f7f28cf93</guid>
+      <pubDate>Sun, 10 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/0848a591-8f99-404f-a205-9c8db9d74b20_0_ID192MP3.mp3" type="audio/mpeg" length="97227117"></enclosure>
+      <itunes:title>Atle Pettersen og Jan Fredrik Karlsen</itunes:title>
+      <itunes:summary>Atle eier fire griller, Jan Fredrik deler sine beste makrell-tips og begge har sterke minner til samme puddelrock-låt</itunes:summary>
+      <itunes:duration>4051</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Adelina Ibishi og Petter Schjerven</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_c11012a8-c4de-45a4-9012-a8c4de85a416</link>
+      <description>Adelina gruer seg allerede til at sommeren er over, Petter savner sommeren med budeia og begge har et spesielt forhold til whisky</description>
+      <guid isPermaLink="false">l_c11012a8-c4de-45a4-9012-a8c4de85a416</guid>
+      <pubDate>Sat, 09 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/f00020a1-6fbb-43ef-aa17-82c44a90c230_0_ID192MP3.mp3" type="audio/mpeg" length="113947245"></enclosure>
+      <itunes:title>Adelina Ibishi og Petter Schjerven</itunes:title>
+      <itunes:summary>Adelina gruer seg allerede til at sommeren er over, Petter savner sommeren med budeia og begge har et spesielt forhold til whisky</itunes:summary>
+      <itunes:duration>4747</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Linda Eide og Ida Maria</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_3428162d-c64c-467c-a816-2dc64cc67c6f</link>
+      <description>Linda var verdens dårligste sykkelreparatør, Ida Maria fikk livsvisdom av Iggy Pop og begge har hoppet fra betydelige høyder.</description>
+      <guid isPermaLink="false">l_3428162d-c64c-467c-a816-2dc64cc67c6f</guid>
+      <pubDate>Fri, 08 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/70c087e1-b02c-44b2-a955-f5644e6e3264_0_ID192MP3.mp3" type="audio/mpeg" length="100069677"></enclosure>
+      <itunes:title>Linda Eide og Ida Maria</itunes:title>
+      <itunes:summary>Linda var verdens dårligste sykkelreparatør, Ida Maria fikk livsvisdom av Iggy Pop og begge har hoppet fra betydelige høyder.</itunes:summary>
+      <itunes:duration>4169</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Stian Sandø og Dennis Siva Lie</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_ec342fae-24ae-4fa4-b42f-ae24aeafa44d</link>
+      <description>Dennis avslører et hemmelig triks, Stian tjente ekstra penger da han kjørte isbil og  begge skremmer barn på vitenshow.</description>
+      <guid isPermaLink="false">l_ec342fae-24ae-4fa4-b42f-ae24aeafa44d</guid>
+      <pubDate>Thu, 07 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/3eec3564-8280-4279-8a7e-b5a315487820_0_ID192MP3.mp3" type="audio/mpeg" length="109404909"></enclosure>
+      <itunes:title>Stian Sandø og Dennis Siva Lie</itunes:title>
+      <itunes:summary>Dennis avslører et hemmelig triks, Stian tjente ekstra penger da han kjørte isbil og  begge skremmer barn på vitenshow.</itunes:summary>
+      <itunes:duration>4558</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2RNLyxQp_IfoE_SmYh3ATQQEV9pBs76eRAOW2-mSIZog"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Else Kåss Furuseth og Åse Kleveland </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_f1f1851e-bf1a-4045-b185-1ebf1a7045a1</link>
+      <description>Else ble irettesatt av prinsesse Astrid, Åse var den første på Mjøsa i bikini og begge to elsker bilferie.</description>
+      <guid isPermaLink="false">l_f1f1851e-bf1a-4045-b185-1ebf1a7045a1</guid>
+      <pubDate>Wed, 06 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/c278ed5d-6f86-45a6-954c-baac1ab29260_0_ID192MP3.mp3" type="audio/mpeg" length="106357293"></enclosure>
+      <itunes:title>Else Kåss Furuseth og Åse Kleveland </itunes:title>
+      <itunes:summary>Else ble irettesatt av prinsesse Astrid, Åse var den første på Mjøsa i bikini og begge to elsker bilferie.</itunes:summary>
+      <itunes:duration>4431</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2RNLyxQp_IfoE_SmYh3ATQQEV9pBs76eRAOW2-mSIZog"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ingrid Lorentzen og Henrik Mestad</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_af6c9ade-4b37-47e9-ac9a-de4b3707e940</link>
+      <description>Ingrid er god på å plukke blomster, Henrik vil at alle skal få fisk og begge setter pris på et deilig bad</description>
+      <guid isPermaLink="false">l_af6c9ade-4b37-47e9-ac9a-de4b3707e940</guid>
+      <pubDate>Tue, 05 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/4478f922-9b96-41cd-b255-85fc98845665_0_ID192MP3.mp3" type="audio/mpeg" length="89644077"></enclosure>
+      <itunes:title>Ingrid Lorentzen og Henrik Mestad</itunes:title>
+      <itunes:summary>Ingrid er god på å plukke blomster, Henrik vil at alle skal få fisk og begge setter pris på et deilig bad</itunes:summary>
+      <itunes:duration>3735</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Catrin Sagen og Janne Formoe</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_7b633a51-f464-41aa-a33a-51f464e1aa96</link>
+      <description>Catrin har vært livredd for å ikke bli brun, Janne var sjørøver med vannskrekk og begge to har et litt anstrengt forhold til små kjæledyr. </description>
+      <guid isPermaLink="false">l_7b633a51-f464-41aa-a33a-51f464e1aa96</guid>
+      <pubDate>Mon, 04 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/836f755c-fc1f-4d89-9422-d7aea3e1e789_0_ID192MP3.mp3" type="audio/mpeg" length="117816813"></enclosure>
+      <itunes:title>Catrin Sagen og Janne Formoe</itunes:title>
+      <itunes:summary>Catrin har vært livredd for å ikke bli brun, Janne var sjørøver med vannskrekk og begge to har et litt anstrengt forhold til små kjæledyr. </itunes:summary>
+      <itunes:duration>4908</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kristine Grændsen og Torjus Tveiten</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_122927ed-a079-491c-a927-eda079191c04</link>
+      <description>Kristine har hatt sommerjobb i flere tiår, Torjus har rekord i Badeland i Bø og begge har mistet og blitt mistet.</description>
+      <guid isPermaLink="false">l_122927ed-a079-491c-a927-eda079191c04</guid>
+      <pubDate>Sun, 03 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/8472b05d-9a12-4d0b-97fd-b3d91b87a7b8_0_ID192MP3.mp3" type="audio/mpeg" length="128608173"></enclosure>
+      <itunes:title>Kristine Grændsen og Torjus Tveiten</itunes:title>
+      <itunes:summary>Kristine har hatt sommerjobb i flere tiår, Torjus har rekord i Badeland i Bø og begge har mistet og blitt mistet.</itunes:summary>
+      <itunes:duration>5358</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kristopher Schau og Alexander Harald Sandtorv</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_80d454a5-6b94-4e5a-9454-a56b940e5aba</link>
+      <description>Hva er det ultimate sommertemperaturen? Er det en øvre aldersgrense på badeland? Og finnes det badesko i størrelse 50? </description>
+      <guid isPermaLink="false">l_80d454a5-6b94-4e5a-9454-a56b940e5aba</guid>
+      <pubDate>Sat, 02 Jul 2022 10:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/5d2cfe54-5b03-4632-821f-f45e1634916a_0_ID192MP3.mp3" type="audio/mpeg" length="79939053"></enclosure>
+      <itunes:title>Kristopher Schau og Alexander Harald Sandtorv</itunes:title>
+      <itunes:summary>Hva er det ultimate sommertemperaturen? Er det en øvre aldersgrense på badeland? Og finnes det badesko i størrelse 50? </itunes:summary>
+      <itunes:duration>3330</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sissel Gran og Jonas Bergland</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_307f04a1-7d19-404f-bf04-a17d19704f64</link>
+      <description>Sissel kikker på fugler, Jonas liker å tøffe seg når han bader og begge to har vært skikkelig forelska på sommeren.</description>
+      <guid isPermaLink="false">l_307f04a1-7d19-404f-bf04-a17d19704f64</guid>
+      <pubDate>Fri, 01 Jul 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/69487a92-aa64-4692-b31c-4e093d4e7f40_0_ID192MP3.mp3" type="audio/mpeg" length="140214573"></enclosure>
+      <itunes:title>Sissel Gran og Jonas Bergland</itunes:title>
+      <itunes:summary>Sissel kikker på fugler, Jonas liker å tøffe seg når han bader og begge to har vært skikkelig forelska på sommeren.</itunes:summary>
+      <itunes:duration>5842</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Siri Kristiansen og Adam Schjølberg</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_e92e9b01-c8bf-439b-ae9b-01c8bf739b6f</link>
+      <description>Adam ble tatt for å være stripper i syden, Siri har trent delfiner og begge har et litt traumatisk forhold til Italia.</description>
+      <guid isPermaLink="false">l_e92e9b01-c8bf-439b-ae9b-01c8bf739b6f</guid>
+      <pubDate>Thu, 30 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/56675df1-59b5-49ed-9089-3a0b0ad85a56_0_ID192MP3.mp3" type="audio/mpeg" length="69171885"></enclosure>
+      <itunes:title>Siri Kristiansen og Adam Schjølberg</itunes:title>
+      <itunes:summary>Adam ble tatt for å være stripper i syden, Siri har trent delfiner og begge har et litt traumatisk forhold til Italia.</itunes:summary>
+      <itunes:duration>2882</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Line Elvsåshagen og Pia Ve Dahlen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_6f742f0c-6594-4bbc-b42f-0c6594cbbce5</link>
+      <description>Marinbiolog Pia er livredd for brennmanet, Line blir provosert av flate rekesmørbrød og begge elsker havet</description>
+      <guid isPermaLink="false">l_6f742f0c-6594-4bbc-b42f-0c6594cbbce5</guid>
+      <pubDate>Wed, 29 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/59bf8f57-5720-422c-ba7d-8de49c6bd7ca_0_ID192MP3.mp3" type="audio/mpeg" length="111367341"></enclosure>
+      <itunes:title>Line Elvsåshagen og Pia Ve Dahlen</itunes:title>
+      <itunes:summary>Marinbiolog Pia er livredd for brennmanet, Line blir provosert av flate rekesmørbrød og begge elsker havet</itunes:summary>
+      <itunes:duration>4640</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bahare Viken og Ahmed Mamow</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_f372a361-4a09-43f5-b2a3-614a0933f527</link>
+      <description>Ahmed har vært døråpner  - bokstavelig talt, Bahare er sjørøver-fangirl og begge er over gjennomsnittet glad i karaoke.</description>
+      <guid isPermaLink="false">l_f372a361-4a09-43f5-b2a3-614a0933f527</guid>
+      <pubDate>Tue, 28 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/5c95988d-83c7-4ee0-a698-ddffe7893f82_0_ID192MP3.mp3" type="audio/mpeg" length="91653165"></enclosure>
+      <itunes:title>Bahare Viken og Ahmed Mamow</itunes:title>
+      <itunes:summary>Ahmed har vært døråpner  - bokstavelig talt, Bahare er sjørøver-fangirl og begge er over gjennomsnittet glad i karaoke.</itunes:summary>
+      <itunes:duration>3818</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tinashe Williamson og Henrik Thodesen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_a22b954c-7b26-466b-ab95-4c7b26766b59</link>
+      <description>Tinashe hadde et uhell i syden, Henrik liker å sløye fisk og begge to elsker å baksnakke Odda.</description>
+      <guid isPermaLink="false">l_a22b954c-7b26-466b-ab95-4c7b26766b59</guid>
+      <pubDate>Mon, 27 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/3d1b88fd-4461-48f2-9b12-411a0b224492_0_ID192MP3.mp3" type="audio/mpeg" length="107015085"></enclosure>
+      <itunes:title>Tinashe Williamson og Henrik Thodesen</itunes:title>
+      <itunes:summary>Tinashe hadde et uhell i syden, Henrik liker å sløye fisk og begge to elsker å baksnakke Odda.</itunes:summary>
+      <itunes:duration>4458</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tarjei Strøm og Kjartan Lauritzen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_faca13c0-217b-4d3c-8a13-c0217b2d3cf9</link>
+      <description>Kjartan tok en tatovering på rødvinsfylla, Tarjei er livredd for hai og begge to er faktisk ganske sjenerte.</description>
+      <guid isPermaLink="false">l_faca13c0-217b-4d3c-8a13-c0217b2d3cf9</guid>
+      <pubDate>Sun, 26 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/1517cb58-2eb3-40b0-a275-7d0606be42dc_0_ID192MP3.mp3" type="audio/mpeg" length="127455021"></enclosure>
+      <itunes:title>Tarjei Strøm og Kjartan Lauritzen</itunes:title>
+      <itunes:summary>Kjartan tok en tatovering på rødvinsfylla, Tarjei er livredd for hai og begge to er faktisk ganske sjenerte.</itunes:summary>
+      <itunes:duration>5310</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Erna Solberg og Lars Berrum</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_b92de33b-41bd-49f1-ade3-3b41bdd9f13f</link>
+      <description>Erna savner livvaktene sine når hun er på ferie, Lars er veldig dårlig på pakking og begge to elsker å bade.</description>
+      <guid isPermaLink="false">l_b92de33b-41bd-49f1-ade3-3b41bdd9f13f</guid>
+      <pubDate>Sat, 25 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/043ef1a6-cd3f-4414-a3e1-a7d6b660e036_0_ID192MP3.mp3" type="audio/mpeg" length="128110509"></enclosure>
+      <itunes:title>Erna Solberg og Lars Berrum</itunes:title>
+      <itunes:summary>Erna savner livvaktene sine når hun er på ferie, Lars er veldig dårlig på pakking og begge to elsker å bade.</itunes:summary>
+      <itunes:duration>5337</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hani Hussein og Dag Sørås</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_3fe33006-b06e-4087-a330-06b06e30875e</link>
+      <description>Dag avslører en fetisj, Hani deler hvilken vits som funker best i utlandet og begge to har opplevd profilering.</description>
+      <guid isPermaLink="false">l_3fe33006-b06e-4087-a330-06b06e30875e</guid>
+      <pubDate>Fri, 24 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/81090138-dd84-46dc-9333-bfd0978f762d_0_ID192MP3.mp3" type="audio/mpeg" length="105601005"></enclosure>
+      <itunes:title>Hani Hussein og Dag Sørås</itunes:title>
+      <itunes:summary>Dag avslører en fetisj, Hani deler hvilken vits som funker best i utlandet og begge to har opplevd profilering.</itunes:summary>
+      <itunes:duration>4399</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Anne Rimmen og Daniel Kvammen</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_82e122b9-0746-4fed-a122-b907463fedde</link>
+      <description>Hvilken fotballspiller hadde flottest hår på fotball-leir? Hvordan overlever du i baksetet med tre søsken? Og hva fremkaller gråteglede?</description>
+      <guid isPermaLink="false">l_82e122b9-0746-4fed-a122-b907463fedde</guid>
+      <pubDate>Thu, 23 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/3a37e207-c4d4-467c-a00e-cc0c85e46e5d_0_ID192MP3.mp3" type="audio/mpeg" length="100977453"></enclosure>
+      <itunes:title>Anne Rimmen og Daniel Kvammen</itunes:title>
+      <itunes:summary>Hvilken fotballspiller hadde flottest hår på fotball-leir? Hvordan overlever du i baksetet med tre søsken? Og hva fremkaller gråteglede?</itunes:summary>
+      <itunes:duration>4207</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sally Kamara og Sigrid Bonde Tusvik</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_8f6c29af-7312-4ffc-ac29-af73122ffc7f</link>
+      <description>Hvilket språk lærer du egentlig på språkreise i Frankrike? Hvor mange ganger er det mulig å miste bagasje? Og hvilken låt passer best til legging av barn?</description>
+      <guid isPermaLink="false">l_8f6c29af-7312-4ffc-ac29-af73122ffc7f</guid>
+      <pubDate>Wed, 22 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/d7463ed4-7a23-4144-b3c8-f00ddc969122_0_ID192MP3.mp3" type="audio/mpeg" length="113374125"></enclosure>
+      <itunes:title>Sally Kamara og Sigrid Bonde Tusvik</itunes:title>
+      <itunes:summary>Hvilket språk lærer du egentlig på språkreise i Frankrike? Hvor mange ganger er det mulig å miste bagasje? Og hvilken låt passer best til legging av barn?</itunes:summary>
+      <itunes:duration>4723</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sofie Frøysaa og Tete Lidbom</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_8a2aee2c-1275-486f-aaee-2c1275786fb7</link>
+      <description>Hva er farligst? Dødsing eller forelskelse? Hva er en smeigeda? Og hva vil det si å kjøre BANG BANG på ferie?</description>
+      <guid isPermaLink="false">l_8a2aee2c-1275-486f-aaee-2c1275786fb7</guid>
+      <pubDate>Tue, 21 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/3093a2f5-2f57-4527-a8a6-aeb371499ef2_0_ID192MP3.mp3" type="audio/mpeg" length="133428717"></enclosure>
+      <itunes:title>Sofie Frøysaa og Tete Lidbom</itunes:title>
+      <itunes:summary>Hva er farligst? Dødsing eller forelskelse? Hva er en smeigeda? Og hva vil det si å kjøre BANG BANG på ferie?</itunes:summary>
+      <itunes:duration>5559</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Martha Leivestad og Galvan Mehidi</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_18ad2763-c6ce-4795-ad27-63c6cef7954b</link>
+      <description>Er det ok å sitte inne når det er sol ute? Hvilken sesong er best for kjærlighetssorg og hvordan blir du kvitt flyskrekk?</description>
+      <guid isPermaLink="false">l_18ad2763-c6ce-4795-ad27-63c6cef7954b</guid>
+      <pubDate>Mon, 20 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/a5b3708a-aee9-4486-ad70-271f290ffaa4_0_ID192MP3.mp3" type="audio/mpeg" length="77084973"></enclosure>
+      <itunes:title>Martha Leivestad og Galvan Mehidi</itunes:title>
+      <itunes:summary>Er det ok å sitte inne når det er sol ute? Hvilken sesong er best for kjærlighetssorg og hvordan blir du kvitt flyskrekk?</itunes:summary>
+      <itunes:duration>3211</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mikkel Niva og Leo Ajkic</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_fd1e31bc-f7c8-41b3-9e31-bcf7c8c1b362</link>
+      <description>Hva er den mest lukrative sommerjobben? Hvilken solkrem er den beste? Og hvor mange is er FOR mange is?</description>
+      <guid isPermaLink="false">l_fd1e31bc-f7c8-41b3-9e31-bcf7c8c1b362</guid>
+      <pubDate>Sun, 19 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/bff6be78-650f-40d2-81a7-fd2cf46e325f_0_ID192MP3.mp3" type="audio/mpeg" length="119852973"></enclosure>
+      <itunes:title>Mikkel Niva og Leo Ajkic</itunes:title>
+      <itunes:summary>Hva er den mest lukrative sommerjobben? Hvilken solkrem er den beste? Og hvor mange is er FOR mange is?</itunes:summary>
+      <itunes:duration>4993</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Solveig Kloppen og Martin Lepperød</title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_09a9db05-9ba1-444e-a9db-059ba1544e91</link>
+      <description>Martin deler raust av sine mislykka sommerflørter og Solveig tar et oppgjør med en gammel flamme</description>
+      <guid isPermaLink="false">l_09a9db05-9ba1-444e-a9db-059ba1544e91</guid>
+      <pubDate>Sat, 18 Jun 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/ff52f54d-83a6-47c1-8be9-8e8709d69aad_0_ID192MP3.mp3" type="audio/mpeg" length="78974829"></enclosure>
+      <itunes:title>Solveig Kloppen og Martin Lepperød</itunes:title>
+      <itunes:summary>Martin deler raust av sine mislykka sommerflørter og Solveig tar et oppgjør med en gammel flamme</itunes:summary>
+      <itunes:duration>3290</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D9Rqrhi1E4yq4lFsqi3q6Qso_HIeuoioOD54NNQDvEmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Feriestemning kommer 18. juni! </title>
+      <link>https://radio.nrk.no/podkast/feriestemning/l_92529e09-5c0e-4c39-929e-095c0e3c391b</link>
+      <description>Martin Lepperød, Solveig Kloppen, Mikkel Niva, Else Kåss Furuseth, Leo Ajcik, Martha Leivestad, Galvan Mehidi, Erna Solberg og Lars Berrum m.fl. Hør kjendisene du elsker, dele sine sommerhistorier og lage god feriestemning gjennom hele sommeren!</description>
+      <guid isPermaLink="false">l_92529e09-5c0e-4c39-929e-095c0e3c391b</guid>
+      <pubDate>Mon, 13 Jun 2022 18:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/feriestemning/53809693-0410-47a9-a2d3-8c53fd3b5a8e_0_ID192MP3.mp3" type="audio/mpeg" length="1023597"></enclosure>
+      <itunes:title>Feriestemning kommer 18. juni! </itunes:title>
+      <itunes:summary>Martin Lepperød, Solveig Kloppen, Mikkel Niva, Else Kåss Furuseth, Leo Ajcik, Martha Leivestad, Galvan Mehidi, Erna Solberg og Lars Berrum m.fl. Hør kjendisene du elsker, dele sine sommerhistorier og lage god feriestemning gjennom hele sommeren!</itunes:summary>
+      <itunes:duration>42</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GTkos2CgnKcbmofBOu-rkg0FgUgNwepZxyOZ_fqMiGmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

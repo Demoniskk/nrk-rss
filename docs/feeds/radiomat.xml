@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radiomat</title>
+    <link>https://radio.nrk.no/podkast/radiomat</link>
+    <description>I Radiomat snakker vi om matens kulturhistorie, om råvarer, om smak, om matens betydning opp gjennom historien, og i vår tid. I radiomat vil vår sult på god mat, og vår nysgjerrighet på kunnskap smelte sammen i radioapparatet ditt!</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Fri, 12 Aug 2016 05:03:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/radiomat.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>I Radiomat snakker vi om matens kulturhistorie, om råvarer, om smak, om matens betydning opp gjennom historien, og i vår tid. I radiomat vil vår sult på god mat, og vår nysgjerrighet på kunnskap smelte sammen i radioapparatet ditt!</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+    <itunes:category text="Arts"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w</url>
+      <title>Radiomat</title>
+      <link>https://radio.nrk.no/podkast/radiomat</link>
+    </image>
+    <item>
+      <title>Oliven</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_62e70506-8ec9-4e43-a705-068ec9be43f4</link>
+      <description>I dagens utgave av Radiomat snakker Pia Skevik og Andreas Viestad om det kanskje aller vondeste Andreas noensinne har spist, men også noe av det aller beste Pia vet! Hvordan er det mulig? Dagens ingrediens er et bær som vokser på tusenår gamle trær, og selv om vi får alle mulige gode varianter i norske butikker, så er en av de mest populære en juksevariant, hvor produsenten skifter farge men ikke smak på bæret - med lut!</description>
+      <guid isPermaLink="false">l_62e70506-8ec9-4e43-a705-068ec9be43f4</guid>
+      <pubDate>Fri, 12 Aug 2016 07:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/radiomat_2016-8-12_53_1380.MP3" type="audio/mpeg" length="27842061"></enclosure>
+      <itunes:title>Oliven</itunes:title>
+      <itunes:summary>I dagens utgave av Radiomat snakker Pia Skevik og Andreas Viestad om det kanskje aller vondeste Andreas noensinne har spist, men også noe av det aller beste Pia vet! Hvordan er det mulig? Dagens ingrediens er et bær som vokser på tusenår gamle trær, og selv om vi får alle mulige gode varianter i norske butikker, så er en av de mest populære en juksevariant, hvor produsenten skifter farge men ikke smak på bæret - med lut!</itunes:summary>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hvitløk</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_edcce9c4-1755-4a4f-8ce9-c41755fa4fa5</link>
+      <description>I dagens utgave av Radiomat, snakker Pia Skevik og Andreas Viestad om en av verdens første dopingmilder. Dagens ingrediens kommer fra nord, men brukes over nesten hele verden. Den kan kurere antibiotikaresistente stafylokokker - og med den smaker maten alltid bedre.</description>
+      <guid isPermaLink="false">l_edcce9c4-1755-4a4f-8ce9-c41755fa4fa5</guid>
+      <pubDate>Fri, 05 Aug 2016 06:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/radiomat_2016-8-5_49_1992.MP3" type="audio/mpeg" length="27842061"></enclosure>
+      <itunes:title>Hvitløk</itunes:title>
+      <itunes:summary>I dagens utgave av Radiomat, snakker Pia Skevik og Andreas Viestad om en av verdens første dopingmilder. Dagens ingrediens kommer fra nord, men brukes over nesten hele verden. Den kan kurere antibiotikaresistente stafylokokker - og med den smaker maten alltid bedre.</itunes:summary>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Potet</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_d8b5dd0b-5961-49da-b5dd-0b5961a9da1e</link>
+      <description>I dagens utgave av Radiomat snakker Pia Skevik og Andreas Viestad om en ingrediens som kanskje ikke lenger er så viktig for oss her i Norge? På mange måter er vår sivilisasjon bygget opp på den, og likevel måtte det listig lureri til - for først å få europerene til å spise poteten.</description>
+      <guid isPermaLink="false">l_d8b5dd0b-5961-49da-b5dd-0b5961a9da1e</guid>
+      <pubDate>Fri, 29 Jul 2016 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/radiomat_2016-7-29_40_833.MP3" type="audio/mpeg" length="27842061"></enclosure>
+      <itunes:title>Potet</itunes:title>
+      <itunes:summary>I dagens utgave av Radiomat snakker Pia Skevik og Andreas Viestad om en ingrediens som kanskje ikke lenger er så viktig for oss her i Norge? På mange måter er vår sivilisasjon bygget opp på den, og likevel måtte det listig lureri til - for først å få europerene til å spise poteten.</itunes:summary>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Eple</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_4774ce18-7e36-461a-b4ce-187e36f61af1</link>
+      <description>I dagens utgave av Radiomat, snakker Pia Skevik og Andreas Viestad om det mange ser på som en av historiens viktigste frukter. Men var det egentlig et epletre i Edens hage? Og er eplet så sunt som det sies?</description>
+      <guid isPermaLink="false">l_4774ce18-7e36-461a-b4ce-187e36f61af1</guid>
+      <pubDate>Fri, 22 Jul 2016 09:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/radiomat_2016-7-22_1349_3325.MP3" type="audio/mpeg" length="27842061"></enclosure>
+      <itunes:title>Eple</itunes:title>
+      <itunes:summary>I dagens utgave av Radiomat, snakker Pia Skevik og Andreas Viestad om det mange ser på som en av historiens viktigste frukter. Men var det egentlig et epletre i Edens hage? Og er eplet så sunt som det sies?</itunes:summary>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sitron</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_3ba48871-03d4-4c15-a488-7103d4cc154d</link>
+      <description>I dagens utgave av Radiomat, snakker Pia Skevik og Andreas Viestad om en frukt som vi aldri ville kjent igjen i dag hvis vi så den i sin originale form, og likevel bruker de fleste av oss den hver eneste dag. Den har ikke bare bidratt til å skape noen av verdens mest magiske retter, den står også bak en av verdens verste kriminelle organisasjoner.</description>
+      <guid isPermaLink="false">l_3ba48871-03d4-4c15-a488-7103d4cc154d</guid>
+      <pubDate>Fri, 15 Jul 2016 09:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/radiomat_2016-7-15_715_3912.MP3" type="audio/mpeg" length="27841225"></enclosure>
+      <itunes:title>Sitron</itunes:title>
+      <itunes:summary>I dagens utgave av Radiomat, snakker Pia Skevik og Andreas Viestad om en frukt som vi aldri ville kjent igjen i dag hvis vi så den i sin originale form, og likevel bruker de fleste av oss den hver eneste dag. Den har ikke bare bidratt til å skape noen av verdens mest magiske retter, den står også bak en av verdens verste kriminelle organisasjoner.</itunes:summary>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sukker</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_c0a948e4-7cd7-4d34-a948-e47cd78d34f5</link>
+      <description>I dagens episode av Radiomat, snakker Pia Skevik og Andreas Viestad om en ting du sannsynligvis spiser hver eneste dag, selv når du prøver å unngå det! Dagens ingrediens kan være både et gress og en bete, og du vil aldri klare å smake forskjell. Dagens episode handler om en av de skumleste og beste tingene vi har i verden - nemlig sukker!</description>
+      <guid isPermaLink="false">l_c0a948e4-7cd7-4d34-a948-e47cd78d34f5</guid>
+      <pubDate>Fri, 08 Jul 2016 09:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/radiomat_2016-7-8_712_2780.MP3" type="audio/mpeg" length="27841643"></enclosure>
+      <itunes:title>Sukker</itunes:title>
+      <itunes:summary>I dagens episode av Radiomat, snakker Pia Skevik og Andreas Viestad om en ting du sannsynligvis spiser hver eneste dag, selv når du prøver å unngå det! Dagens ingrediens kan være både et gress og en bete, og du vil aldri klare å smake forskjell. Dagens episode handler om en av de skumleste og beste tingene vi har i verden - nemlig sukker!</itunes:summary>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vanilje</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_75239652-00e8-4105-a396-5200e821057d</link>
+      <description>I dagens utgave av Radiomat, tar Pia Skevik og Andreas Viestad for seg historien bak et av verdens beste og dyreste krydder! Den grønne belgen hverken smaker eller lukter noe spesielt før den blir speket, men da kan den bli så kompleks og tiltalende at noen mener de blir avhengige og kan få en slags rus av lukten. Og visste du, at vi kanskje ikke engang ville hatt vanilje i Europa - hadde det ikke vært for en 12 år gammel slave ved navn Edmund?</description>
+      <guid isPermaLink="false">l_75239652-00e8-4105-a396-5200e821057d</guid>
+      <pubDate>Fri, 01 Jul 2016 07:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/radiomat_2016-7-1_53_2862.MP3" type="audio/mpeg" length="27842061"></enclosure>
+      <itunes:title>Vanilje</itunes:title>
+      <itunes:summary>I dagens utgave av Radiomat, tar Pia Skevik og Andreas Viestad for seg historien bak et av verdens beste og dyreste krydder! Den grønne belgen hverken smaker eller lukter noe spesielt før den blir speket, men da kan den bli så kompleks og tiltalende at noen mener de blir avhengige og kan få en slags rus av lukten. Og visste du, at vi kanskje ikke engang ville hatt vanilje i Europa - hadde det ikke vært for en 12 år gammel slave ved navn Edmund?</itunes:summary>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Sjokolade</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_a7c05059-e9a9-42c3-8050-59e9a992c3b7</link>
+      <description>I denne utgaven av Radiomat, utforsker Pia Skevik og Andreas Viestad en av livets søteste gleder. Men historien bak dagens tema er ikke bare søt, her møter vi både mord, overtro og hemmeligheten bak verdens mest annerkjente prisutdeling. </description>
+      <guid isPermaLink="false">l_a7c05059-e9a9-42c3-8050-59e9a992c3b7</guid>
+      <pubDate>Fri, 24 Jun 2016 09:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/radiomat_2016-6-24_70_416.MP3" type="audio/mpeg" length="27842061"></enclosure>
+      <itunes:title>Sjokolade</itunes:title>
+      <itunes:summary>I denne utgaven av Radiomat, utforsker Pia Skevik og Andreas Viestad en av livets søteste gleder. Men historien bak dagens tema er ikke bare søt, her møter vi både mord, overtro og hemmeligheten bak verdens mest annerkjente prisutdeling. </itunes:summary>
+      <itunes:duration>1740</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Tomat</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_3754cce1-c95a-4be1-94cc-e1c95a2be129</link>
+      <description>I dagens utgave av Radiomat, snakker Pia Skevik og Andreas Viestad om tomaten! Er det et bær, en frukt eller en grønnsak? Og stemmer det at tomatplanten egentlig er giftig?</description>
+      <guid isPermaLink="false">l_3754cce1-c95a-4be1-94cc-e1c95a2be129</guid>
+      <pubDate>Sun, 16 Aug 2015 09:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/NRKLT58416_3F32255644B34FB88A6BB775A61C520A.MP3" type="audio/mpeg" length="24962322"></enclosure>
+      <itunes:title>Tomat</itunes:title>
+      <itunes:summary>I dagens utgave av Radiomat, snakker Pia Skevik og Andreas Viestad om tomaten! Er det et bær, en frukt eller en grønnsak? Og stemmer det at tomatplanten egentlig er giftig?</itunes:summary>
+      <itunes:duration>1560</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Østers</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_4a465284-73b3-4be5-8652-8473b31be514</link>
+      <description>I dagens utgave av Radiomat, snakker Pia Skevik og Andreas Viestad om østers, en råvare vi mennesker har spist i over 4000 år. Hvorfor spiste steinaldermenneskene østers, og ikke minst hvordan? I tillegg får du et tips om hvordan åpne dette nydelige skjellet helt uten redskaper. </description>
+      <guid isPermaLink="false">l_4a465284-73b3-4be5-8652-8473b31be514</guid>
+      <pubDate>Sun, 09 Aug 2015 09:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/NRKLT58416_FD63569F50194D30AE9E8775D39E684B.MP3" type="audio/mpeg" length="24962322"></enclosure>
+      <itunes:title>Østers</itunes:title>
+      <itunes:summary>I dagens utgave av Radiomat, snakker Pia Skevik og Andreas Viestad om østers, en råvare vi mennesker har spist i over 4000 år. Hvorfor spiste steinaldermenneskene østers, og ikke minst hvordan? I tillegg får du et tips om hvordan åpne dette nydelige skjellet helt uten redskaper. </itunes:summary>
+      <itunes:duration>1560</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Reker</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_743ab2b3-abdc-4b3e-bab2-b3abdc3b3edc</link>
+      <description>I dagens utgave av Radiomat, snakker Pia Skevik og Andreas Viestad om reker, denne velsmakende hemafroditten av et insekt, som ofte opptrer sammen med loff, sitron og majones. </description>
+      <guid isPermaLink="false">l_743ab2b3-abdc-4b3e-bab2-b3abdc3b3edc</guid>
+      <pubDate>Sun, 02 Aug 2015 09:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/NRKLT58416_8CE384C01F6D4B4FBC6E8F225C96ED12.MP3" type="audio/mpeg" length="24962322"></enclosure>
+      <itunes:title>Reker</itunes:title>
+      <itunes:summary>I dagens utgave av Radiomat, snakker Pia Skevik og Andreas Viestad om reker, denne velsmakende hemafroditten av et insekt, som ofte opptrer sammen med loff, sitron og majones. </itunes:summary>
+      <itunes:duration>1560</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Iskrem</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_285af4fb-cc16-409b-9af4-fbcc16509bdb</link>
+      <description>Denne uken snakker Pia Skevik og Andreas Viestad om iskrem! Spiste de iskrem for 300 år siden? Hvordan klarte de det, uten fryser? Du lærer hvordan du kan lage sorbet på stranda i en plastpose, og i tillegg får du oppskriften på en nydelig vaniljeis, laget nesten utelukkende med rå muskelkraft.</description>
+      <guid isPermaLink="false">l_285af4fb-cc16-409b-9af4-fbcc16509bdb</guid>
+      <pubDate>Sun, 26 Jul 2015 11:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/NRKLT58416_E8E59A8AEDE146AA9D4AB291B6C11CDE.MP3" type="audio/mpeg" length="24962322"></enclosure>
+      <itunes:title>Iskrem</itunes:title>
+      <itunes:summary>Denne uken snakker Pia Skevik og Andreas Viestad om iskrem! Spiste de iskrem for 300 år siden? Hvordan klarte de det, uten fryser? Du lærer hvordan du kan lage sorbet på stranda i en plastpose, og i tillegg får du oppskriften på en nydelig vaniljeis, laget nesten utelukkende med rå muskelkraft.</itunes:summary>
+      <itunes:duration>1560</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Pepper</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_4571d172-ddec-4938-b1d1-72ddecd93868</link>
+      <description>Det finnes mange påstander om pepperet. Det sies at det var mer verdifullt enn gull, men også at det ble brukt til å maskere smaken av dårlig kjøtt. Men, det sies også å ha vært et potent sexhjelpemiddel og den største fiaskoen i karrieren til Christoffer Colombus.</description>
+      <guid isPermaLink="false">l_4571d172-ddec-4938-b1d1-72ddecd93868</guid>
+      <pubDate>Sun, 19 Jul 2015 09:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/NRKLT58416_0F7292B006E7487297D95D5DBD6EB06C.MP3" type="audio/mpeg" length="24962322"></enclosure>
+      <itunes:title>Pepper</itunes:title>
+      <itunes:summary>Det finnes mange påstander om pepperet. Det sies at det var mer verdifullt enn gull, men også at det ble brukt til å maskere smaken av dårlig kjøtt. Men, det sies også å ha vært et potent sexhjelpemiddel og den største fiaskoen i karrieren til Christoffer Colombus.</itunes:summary>
+      <itunes:duration>1560</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Salt</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_0661b8e3-d1c3-4883-a1b8-e3d1c328833d</link>
+      <description>I denne utgaven av Radiomat, snakker Pia Skevik og Andreas Viestad om salt, som ikke bare er dødelig hvis du får i deg for mye av det, men også hvis du ikke får i deg nok!</description>
+      <guid isPermaLink="false">l_0661b8e3-d1c3-4883-a1b8-e3d1c328833d</guid>
+      <pubDate>Sun, 12 Jul 2015 11:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/NRKDT64734_44EBF96EED72432F815F5EB917D0C2EC.MP3" type="audio/mpeg" length="24962322"></enclosure>
+      <itunes:title>Salt</itunes:title>
+      <itunes:summary>I denne utgaven av Radiomat, snakker Pia Skevik og Andreas Viestad om salt, som ikke bare er dødelig hvis du får i deg for mye av det, men også hvis du ikke får i deg nok!</itunes:summary>
+      <itunes:duration>1560</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Smør</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_b55af4ce-5027-4243-9af4-ce5027124391</link>
+      <description>I denne utgaven av Radiomat, snakker Pia Skevik og Andreas Viestad om smøret, og avslører hvordan smør har hatt en mye større betydning for utviklingen av den vestlige sivilisasjonen enn mange ante.</description>
+      <guid isPermaLink="false">l_b55af4ce-5027-4243-9af4-ce5027124391</guid>
+      <pubDate>Sun, 05 Jul 2015 01:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/NRKLT58416_CAF3932A8B82473188903294C9C5110C.MP3" type="audio/mpeg" length="24962322"></enclosure>
+      <itunes:title>Smør</itunes:title>
+      <itunes:summary>I denne utgaven av Radiomat, snakker Pia Skevik og Andreas Viestad om smøret, og avslører hvordan smør har hatt en mye større betydning for utviklingen av den vestlige sivilisasjonen enn mange ante.</itunes:summary>
+      <itunes:duration>1560</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Brød</title>
+      <link>https://radio.nrk.no/podkast/radiomat/l_0eff0d57-0a79-4fdd-bf0d-570a799fdd47</link>
+      <description>Ville verdens befolkning fortsatt levd som nomader hvis vi ikke hadde oppdaget hveten?&#xA;Pia Skevik og Andreas Viestad går brødets historie i sømmene, og avdekker hva slags brødvaner våre forfedre hadde her i nord. I tillegg får du oppskriften på det eltefrie brødet som Andreas har perfeksjonert etter årevis som matpakkesmører og spiser.</description>
+      <guid isPermaLink="false">l_0eff0d57-0a79-4fdd-bf0d-570a799fdd47</guid>
+      <pubDate>Thu, 25 Jun 2015 03:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/radiomat/NRKLT58416_63B4C1C772F44AE496F699B032BA1A76.MP3" type="audio/mpeg" length="24962322"></enclosure>
+      <itunes:title>Brød</itunes:title>
+      <itunes:summary>Ville verdens befolkning fortsatt levd som nomader hvis vi ikke hadde oppdaget hveten?&#xA;Pia Skevik og Andreas Viestad går brødets historie i sømmene, og avdekker hva slags brødvaner våre forfedre hadde her i nord. I tillegg får du oppskriften på det eltefrie brødet som Andreas har perfeksjonert etter årevis som matpakkesmører og spiser.</itunes:summary>
+      <itunes:duration>1560</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AKwLZxjmtSmjpcKaHBnI0Ae2kUFO9C4yjp7rgyw0l3_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

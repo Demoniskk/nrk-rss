@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubåtsaken</title>
+    <link>https://radio.nrk.no/podkast/ubaatsaken</link>
+    <description>NRK følger rettssaken mot Peter Madsen. Han er tiltalt for å ha drept og partert den unge journalisten Kim Wall i selvbygget ubåt.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 18 Apr 2018 01:03:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ubaatsaken.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>NRK følger rettssaken mot Peter Madsen. Han er tiltalt for å ha drept og partert den unge journalisten Kim Wall i selvbygget ubåt.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/av2H4iJqVbRD7vV6gTPWkg9HwYAPLRsdG4zPYpMYXB4A"></itunes:image>
+    <itunes:category text="History"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/av2H4iJqVbRD7vV6gTPWkg9HwYAPLRsdG4zPYpMYXB4A</url>
+      <title>Ubåtsaken</title>
+      <link>https://radio.nrk.no/podkast/ubaatsaken</link>
+    </image>
+    <item>
+      <title>Skyldig? (4:4)</title>
+      <link>https://radio.nrk.no/podkast/ubaatsaken/l_e6fa2167-48bc-4ba2-ba21-6748bc4ba2a4</link>
+      <description>Det går ikke så bra for Peter Madsen i byretten i København – &#xA;men ennå har ingen kunnet fastslå dødsårsaken med sikkerhet. &#xA;Hva kommer det til å bety? &#xA;Og hva vil de sakkyndige si om hans psyke? </description>
+      <guid isPermaLink="false">l_e6fa2167-48bc-4ba2-ba21-6748bc4ba2a4</guid>
+      <pubDate>Wed, 18 Apr 2018 03:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-04-18_0103_300.MP3" type="audio/mpeg" length="68561324"></enclosure>
+      <itunes:title>Skyldig? (4:4)</itunes:title>
+      <itunes:summary>Det går ikke så bra for Peter Madsen i byretten i København – &#xA;men ennå har ingen kunnet fastslå dødsårsaken med sikkerhet. &#xA;Hva kommer det til å bety? &#xA;Og hva vil de sakkyndige si om hans psyke? </itunes:summary>
+      <itunes:duration>2856</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/av2H4iJqVbRD7vV6gTPWkg9HwYAPLRsdG4zPYpMYXB4A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvem er Peter Madsen? (3:4)</title>
+      <link>https://radio.nrk.no/podkast/ubaatsaken/l_703a56c3-b453-4724-ba56-c3b45347244a</link>
+      <description>Hvem får seg til å partere et lik?&#xA;Vi har snakket med mennesker som trodde de kjente Peter Madsen, ubåt- og rakettentusiasten som står tiltalt for å ha drept Kim Wall om bord i den hjemmelagede ubåten Nautilus natten mellom 10. og 11. august i fjor. </description>
+      <guid isPermaLink="false">l_703a56c3-b453-4724-ba56-c3b45347244a</guid>
+      <pubDate>Wed, 21 Mar 2018 03:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-03-21_0203_475.MP3" type="audio/mpeg" length="66961196"></enclosure>
+      <itunes:title>Hvem er Peter Madsen? (3:4)</itunes:title>
+      <itunes:summary>Hvem får seg til å partere et lik?&#xA;Vi har snakket med mennesker som trodde de kjente Peter Madsen, ubåt- og rakettentusiasten som står tiltalt for å ha drept Kim Wall om bord i den hjemmelagede ubåten Nautilus natten mellom 10. og 11. august i fjor. </itunes:summary>
+      <itunes:duration>2789</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/av2H4iJqVbRD7vV6gTPWkg9HwYAPLRsdG4zPYpMYXB4A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kim Wall - mer enn bare et offer (2:4)</title>
+      <link>https://radio.nrk.no/podkast/ubaatsaken/l_a6ef5c56-704e-4955-af5c-56704ee955bd</link>
+      <description>Kim Wall reiste verden rundt på jobb som journalist for en rekke internasjonale medier. &#xA;Likevel skulle hun miste livet i havet bare noen mil fra hjembyen Trelleborg,  i en ubåt.</description>
+      <guid isPermaLink="false">l_a6ef5c56-704e-4955-af5c-56704ee955bd</guid>
+      <pubDate>Thu, 15 Mar 2018 03:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-03-15_0203_507.MP3" type="audio/mpeg" length="59076332"></enclosure>
+      <itunes:title>Kim Wall - mer enn bare et offer (2:4)</itunes:title>
+      <itunes:summary>Kim Wall reiste verden rundt på jobb som journalist for en rekke internasjonale medier. &#xA;Likevel skulle hun miste livet i havet bare noen mil fra hjembyen Trelleborg,  i en ubåt.</itunes:summary>
+      <itunes:duration>2461</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/av2H4iJqVbRD7vV6gTPWkg9HwYAPLRsdG4zPYpMYXB4A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Siste reis (1:4)</title>
+      <link>https://radio.nrk.no/podkast/ubaatsaken/l_5a6872e4-45c0-48f4-a872-e445c0c8f486</link>
+      <description>De siste som så Kim Wall og Peter Madsen stevne ut i ubåten, synes de så ut som et forelsket par. &#xA;Timer senere var hun død, og han pågrepet. </description>
+      <guid isPermaLink="false">l_5a6872e4-45c0-48f4-a872-e445c0c8f486</guid>
+      <pubDate>Wed, 07 Mar 2018 03:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-03-07_0203_1068.MP3" type="audio/mpeg" length="52304300"></enclosure>
+      <itunes:title>Siste reis (1:4)</itunes:title>
+      <itunes:summary>De siste som så Kim Wall og Peter Madsen stevne ut i ubåten, synes de så ut som et forelsket par. &#xA;Timer senere var hun død, og han pågrepet. </itunes:summary>
+      <itunes:duration>2179</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/av2H4iJqVbRD7vV6gTPWkg9HwYAPLRsdG4zPYpMYXB4A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Snart kommer podkasten &#34;Ubåtsaken&#34;</title>
+      <link>https://radio.nrk.no/podkast/ubaatsaken/l_4b78dba1-d5be-4b22-b8db-a1d5bedb22a3</link>
+      <description>Onsdag 7. mars kommer første episode av podkasten om Ubåtsaken i Danmark. Emma Clare Gabrielsen følger rettssaken mot Peter Madsen. Han er tiltalt for å ha drept og partert den unge journalisten Kim Wall i selvbygget ubåt.</description>
+      <guid isPermaLink="false">l_4b78dba1-d5be-4b22-b8db-a1d5bedb22a3</guid>
+      <pubDate>Tue, 06 Mar 2018 15:27:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ubaatsaken/ubaatsaken_2018-03-06_1117_3435.MP3" type="audio/mpeg" length="1676879"></enclosure>
+      <itunes:title>Snart kommer podkasten &#34;Ubåtsaken&#34;</itunes:title>
+      <itunes:summary>Onsdag 7. mars kommer første episode av podkasten om Ubåtsaken i Danmark. Emma Clare Gabrielsen følger rettssaken mot Peter Madsen. Han er tiltalt for å ha drept og partert den unge journalisten Kim Wall i selvbygget ubåt.</itunes:summary>
+      <itunes:duration>66</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/av2H4iJqVbRD7vV6gTPWkg9HwYAPLRsdG4zPYpMYXB4A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

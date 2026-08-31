@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kladden har dævva</title>
+    <link>https://radio.nrk.no/podkast/kladden_har_daevva</link>
+    <description>En humorpodkast om døden. Martin Lepperød har dødsangst og han vil snakke om det.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Mon, 16 Dec 2024 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kladden_har_daevva.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>En humorpodkast om døden. Martin Lepperød har dødsangst og han vil snakke om det.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA</url>
+      <title>Kladden har dævva</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva</link>
+    </image>
+    <item>
+      <title>Finalen med Lilli Bendriss</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_c9fec993-7c1a-4cc9-bec9-937c1afcc96e</link>
+      <description>Kladdens aller siste episode med selveste Lilli Bendriss. RIP Kladden &lt;3</description>
+      <guid isPermaLink="false">l_c9fec993-7c1a-4cc9-bec9-937c1afcc96e</guid>
+      <pubDate>Mon, 16 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/cb81e1da-3bdf-46fc-b57c-bd6b4a9d3de9_0_ID192MP3.mp3" type="audio/mpeg" length="114238701"></enclosure>
+      <itunes:title>Finalen med Lilli Bendriss</itunes:title>
+      <itunes:summary>Kladdens aller siste episode med selveste Lilli Bendriss. RIP Kladden &lt;3</itunes:summary>
+      <itunes:duration>4759</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vFaev0qPuZBM9qKFbNMbJwaqiWUUoWdVDAh4itK1ODTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Öde Nerdrum, helst i mørket</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_3419de97-d242-452f-99de-97d242e52f6d</link>
+      <description>Er det fordi han døde en gang, at han liker mørket så godt?</description>
+      <guid isPermaLink="false">l_3419de97-d242-452f-99de-97d242e52f6d</guid>
+      <pubDate>Mon, 09 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/444a6f3c-1480-4ce3-9c2b-4bd7cf7ef816_0_ID192MP3.mp3" type="audio/mpeg" length="90566829"></enclosure>
+      <itunes:title>Öde Nerdrum, helst i mørket</itunes:title>
+      <itunes:summary>Er det fordi han døde en gang, at han liker mørket så godt?</itunes:summary>
+      <itunes:duration>3773</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Y1ADmzMcRYbASth1cblxZwwa-kEf2jKE0j4YwamCnwYw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ingar Helge Gimle og hjertet</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_6989fc95-9ed8-4fb1-89fc-959ed8afb1a0</link>
+      <description>Ingar overlevde og klarer nesten å ikke være frynsete.</description>
+      <guid isPermaLink="false">l_6989fc95-9ed8-4fb1-89fc-959ed8afb1a0</guid>
+      <pubDate>Mon, 02 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/e1d4e14e-6459-45de-9881-76ac924862cd_0_ID192MP3.mp3" type="audio/mpeg" length="88444269"></enclosure>
+      <itunes:title>Ingar Helge Gimle og hjertet</itunes:title>
+      <itunes:summary>Ingar overlevde og klarer nesten å ikke være frynsete.</itunes:summary>
+      <itunes:duration>3685</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ej4JMtZs72E-2QKbdD1cpQvO_OQhS-pL8MZMxy3eJsrA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Elg, Benjamin Helstad! Elg!</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_661c5b2d-511c-44e0-9c5b-2d511c34e04a</link>
+      <description>Se opp for toget! Og elgen!!</description>
+      <guid isPermaLink="false">l_661c5b2d-511c-44e0-9c5b-2d511c34e04a</guid>
+      <pubDate>Mon, 25 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/f7c374e7-2481-4823-a4d1-3da69b1a9220_0_ID192MP3.mp3" type="audio/mpeg" length="95300397"></enclosure>
+      <itunes:title>Elg, Benjamin Helstad! Elg!</itunes:title>
+      <itunes:summary>Se opp for toget! Og elgen!!</itunes:summary>
+      <itunes:duration>3970</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2Rwg3IDJ884MTHT3OrHR4Qo7hnRGOWkYrEew7-9Yysrg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mayoo Indiran med visdomsordene</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_31e8d421-330b-47a3-a8d4-21330b57a3f8</link>
+      <description>Martin blir satt ut av Mayoos livsvisdom.</description>
+      <guid isPermaLink="false">l_31e8d421-330b-47a3-a8d4-21330b57a3f8</guid>
+      <pubDate>Mon, 18 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/c00f0d94-e981-41dd-ba6d-4d13c9e027d4_0_ID192MP3.mp3" type="audio/mpeg" length="88121709"></enclosure>
+      <itunes:title>Mayoo Indiran med visdomsordene</itunes:title>
+      <itunes:summary>Martin blir satt ut av Mayoos livsvisdom.</itunes:summary>
+      <itunes:duration>3671</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/i6NIH3SqSHOS1Vp5tmaJngN4y5e5w0wUDV94P0cAaRng"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tom Styve med kniv mot ryggen</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_bfb8cdb1-0e2d-4437-b8cd-b10e2d44379e</link>
+      <description>Ikke la verandadøra stå åpen og pass på kjøkkenknivene deres, folkens!</description>
+      <guid isPermaLink="false">l_bfb8cdb1-0e2d-4437-b8cd-b10e2d44379e</guid>
+      <pubDate>Mon, 11 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/1ab8387b-f3bf-4721-be2f-152f4b6e904c_0_ID192MP3.mp3" type="audio/mpeg" length="85779693"></enclosure>
+      <itunes:title>Tom Styve med kniv mot ryggen</itunes:title>
+      <itunes:summary>Ikke la verandadøra stå åpen og pass på kjøkkenknivene deres, folkens!</itunes:summary>
+      <itunes:duration>3574</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/cADg5duAcjdvr1aoJclGGgVYh4c5SUY9OcCxKHr0GISA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Anna of the North og spøkelsene</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_e29576cf-9a22-48ea-9576-cf9a22b8ea47</link>
+      <description>Er Anna Lotterud klarsynt?</description>
+      <guid isPermaLink="false">l_e29576cf-9a22-48ea-9576-cf9a22b8ea47</guid>
+      <pubDate>Mon, 04 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b0b90e61-3be4-4b1c-9ef2-cb96627736d3_0_ID192MP3.mp3" type="audio/mpeg" length="91743021"></enclosure>
+      <itunes:title>Anna of the North og spøkelsene</itunes:title>
+      <itunes:summary>Er Anna Lotterud klarsynt?</itunes:summary>
+      <itunes:duration>3822</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8h-wTbeS8ZjkZalz957ocgB6Et_oePWDFLOc0PzKP__A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Javad El Bakali på biltaket</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_7ab20dc5-8264-47c2-b20d-c5826477c24a</link>
+      <description>Hjerteoperert, påkjørt og full av dødsangst.</description>
+      <guid isPermaLink="false">l_7ab20dc5-8264-47c2-b20d-c5826477c24a</guid>
+      <pubDate>Mon, 28 Oct 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/fa2a12a2-9e5f-4e03-920c-03b1e19c42eb_0_ID192MP3.mp3" type="audio/mpeg" length="79473069"></enclosure>
+      <itunes:title>Javad El Bakali på biltaket</itunes:title>
+      <itunes:summary>Hjerteoperert, påkjørt og full av dødsangst.</itunes:summary>
+      <itunes:duration>3311</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_9VBR9SW_cks9dd3RoAs0wM4_aoj5WwwUtWaqzztXvlA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Boikott døden med Erlend Mørch</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_5e61e07d-cabf-4f0f-a1e0-7dcabf1f0fce</link>
+      <description>Erlend vil ikke snakke om den. Men nå må han nesten.</description>
+      <guid isPermaLink="false">l_5e61e07d-cabf-4f0f-a1e0-7dcabf1f0fce</guid>
+      <pubDate>Mon, 21 Oct 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/d6c64148-78d7-4cbe-8bbf-f9d5fbe4f438_0_ID192MP3.mp3" type="audio/mpeg" length="83474541"></enclosure>
+      <itunes:title>Boikott døden med Erlend Mørch</itunes:title>
+      <itunes:summary>Erlend vil ikke snakke om den. Men nå må han nesten.</itunes:summary>
+      <itunes:duration>3478</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/v0tkU6fP8v8o897yFGn1rAa429Ff8hjJ6BaJaf6ku3lQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Viggo Venn - klovnen og døden</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_18cce936-175e-4bcc-8ce9-36175eebcc19</link>
+      <description>Ville Viggo blitt klovn hvis det ikke hadde vært for to dødsfall?</description>
+      <guid isPermaLink="false">l_18cce936-175e-4bcc-8ce9-36175eebcc19</guid>
+      <pubDate>Mon, 14 Oct 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2d3c8eb5-8f9e-4e86-9c99-b1d5d4a6935e_0_ID192MP3.mp3" type="audio/mpeg" length="63375597"></enclosure>
+      <itunes:title>Viggo Venn - klovnen og døden</itunes:title>
+      <itunes:summary>Ville Viggo blitt klovn hvis det ikke hadde vært for to dødsfall?</itunes:summary>
+      <itunes:duration>2640</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FGnA2gOPL-0Hs3UZKaNLFQ9P_ubNXxAxHIfntzIOyh-Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jon Martin Henriksen og flystyrt&#39;n</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_703d3deb-95af-4d50-bd3d-eb95afcd50af</link>
+      <description>Jon Martin Henriksen har en egen teori om hvordan man lurer døden på fly. Og to dødsredde gutter skal til Praha!</description>
+      <guid isPermaLink="false">l_703d3deb-95af-4d50-bd3d-eb95afcd50af</guid>
+      <pubDate>Mon, 07 Oct 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/4ec08991-37a2-4c69-a9d9-411e7dddd3de_0_ID192MP3.mp3" type="audio/mpeg" length="87364845"></enclosure>
+      <itunes:title>Jon Martin Henriksen og flystyrt&#39;n</itunes:title>
+      <itunes:summary>Jon Martin Henriksen har en egen teori om hvordan man lurer døden på fly. Og to dødsredde gutter skal til Praha!</itunes:summary>
+      <itunes:duration>3640</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qDuflMQVYFIp-sDW4AHOAA2YLcgF7KXGPR9Def8lA-Ew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Alon Fellus med en pen dame på ryggen</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_14a4ff2f-f225-47a5-a4ff-2ff225a7a59c</link>
+      <description>Alon og Martin får midtlivskrise når de innser at alt vi gjør er for å imponere andre.</description>
+      <guid isPermaLink="false">l_14a4ff2f-f225-47a5-a4ff-2ff225a7a59c</guid>
+      <pubDate>Mon, 30 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/50ef13c0-3c09-4ef3-b4d8-20733e25516d_0_ID192MP3.mp3" type="audio/mpeg" length="76871853"></enclosure>
+      <itunes:title>Alon Fellus med en pen dame på ryggen</itunes:title>
+      <itunes:summary>Alon og Martin får midtlivskrise når de innser at alt vi gjør er for å imponere andre.</itunes:summary>
+      <itunes:duration>3202</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mWFmyb0WVfvmp7BBzlPZTQk3e9rE5GevtKv7vZUZtNNg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hans Magne Skard i likpose</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_d2f94536-0f93-415d-b945-360f93b15deb</link>
+      <description>Hans Magne Skard har satt opp soloshow om døden og tilbragt mye tid på innsiden av en likpose.</description>
+      <guid isPermaLink="false">l_d2f94536-0f93-415d-b945-360f93b15deb</guid>
+      <pubDate>Mon, 23 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/dd8f89e3-5b22-4e2b-8ea6-fa39539734d5_0_ID192MP3.mp3" type="audio/mpeg" length="72337005"></enclosure>
+      <itunes:title>Hans Magne Skard i likpose</itunes:title>
+      <itunes:summary>Hans Magne Skard har satt opp soloshow om døden og tilbragt mye tid på innsiden av en likpose.</itunes:summary>
+      <itunes:duration>3013</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Hld0aA1oDcDuq9PIqESv0QrHM7-FLKYj4OTJ1wNL2xLA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Emil Meek og pulsåren</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_53947e74-db1c-4037-947e-74db1c103791</link>
+      <description>Blir man mer redd for døden når man sloss for livet?</description>
+      <guid isPermaLink="false">l_53947e74-db1c-4037-947e-74db1c103791</guid>
+      <pubDate>Mon, 16 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/f90e8108-e18d-4ee6-9a8d-1a9577ff9eff_0_ID192MP3.mp3" type="audio/mpeg" length="66043053"></enclosure>
+      <itunes:title>Emil Meek og pulsåren</itunes:title>
+      <itunes:summary>Blir man mer redd for døden når man sloss for livet?</itunes:summary>
+      <itunes:duration>2751</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gXE8WxTWYk2L8zck3ULkJgqjWr-yYJdKAVxtUB6Inqaw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mari Maurstad med hagle</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_2a3b29fb-1cc3-4eb7-bb29-fb1cc39eb7c7</link>
+      <description>Ganske redd, men klar for kamp!</description>
+      <guid isPermaLink="false">l_2a3b29fb-1cc3-4eb7-bb29-fb1cc39eb7c7</guid>
+      <pubDate>Mon, 09 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/af0a7d3a-4bfc-401b-8b02-615e4b99ffcd_0_ID192MP3.mp3" type="audio/mpeg" length="79337133"></enclosure>
+      <itunes:title>Mari Maurstad med hagle</itunes:title>
+      <itunes:summary>Ganske redd, men klar for kamp!</itunes:summary>
+      <itunes:duration>3305</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/cQphYMHPIc-aPuZOQxQhUgRH_WNgX6J-ZexRkZCrC8fA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Pål Tøien i motsatt kjørefelt</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_4ac67fb4-8c2f-407f-867f-b48c2f607f5d</link>
+      <description>Har OnklP blitt voksen?</description>
+      <guid isPermaLink="false">l_4ac67fb4-8c2f-407f-867f-b48c2f607f5d</guid>
+      <pubDate>Mon, 02 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b3dba6fd-26b1-4645-9edf-626632823dfe_0_ID192MP3.mp3" type="audio/mpeg" length="68588973"></enclosure>
+      <itunes:title>Pål Tøien i motsatt kjørefelt</itunes:title>
+      <itunes:summary>Har OnklP blitt voksen?</itunes:summary>
+      <itunes:duration>2857</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NV1dKh-lNuFx9IxD1O3VaQfVuise4huYrEhwB3RWjCZA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mia Hundvin/hissigpropp</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_22ef25c5-c266-41ea-af25-c5c26681ea6a</link>
+      <description>1000 spenn på Mia i kranglebattle.</description>
+      <guid isPermaLink="false">l_22ef25c5-c266-41ea-af25-c5c26681ea6a</guid>
+      <pubDate>Mon, 26 Aug 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2f9eb04a-c6f4-4729-8903-acfe3ae92b09_0_ID192MP3.mp3" type="audio/mpeg" length="66267693"></enclosure>
+      <itunes:title>Mia Hundvin/hissigpropp</itunes:title>
+      <itunes:summary>1000 spenn på Mia i kranglebattle.</itunes:summary>
+      <itunes:duration>2761</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2kS3aeeXQ1QKaPkZDQXUFgfpTMHZZydF82SINUv2m6tw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Én tåre fra Danby Choi</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_7c6b0476-c23b-437a-ab04-76c23b737a75</link>
+      <description>Danby har gjenoppdaget gråting.</description>
+      <guid isPermaLink="false">l_7c6b0476-c23b-437a-ab04-76c23b737a75</guid>
+      <pubDate>Mon, 19 Aug 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/27846de3-e54d-4e2c-b0fd-24125b9d43a8_0_ID192MP3.mp3" type="audio/mpeg" length="76146669"></enclosure>
+      <itunes:title>Én tåre fra Danby Choi</itunes:title>
+      <itunes:summary>Danby har gjenoppdaget gråting.</itunes:summary>
+      <itunes:duration>3172</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/70c1GqQl9BrDaymUjz3UAQPEwU6y8cIgiitLzfoZjdeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ikke sovne, Stig Brenner!</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_31044c89-2fbe-4b9a-844c-892fbe2b9a49</link>
+      <description>Flere begravelser enn bryllup og ett stygt fall.</description>
+      <guid isPermaLink="false">l_31044c89-2fbe-4b9a-844c-892fbe2b9a49</guid>
+      <pubDate>Mon, 12 Aug 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/03516a4e-9874-4120-b2af-d1c7e8b48b56_0_ID192MP3.mp3" type="audio/mpeg" length="86129325"></enclosure>
+      <itunes:title>Ikke sovne, Stig Brenner!</itunes:title>
+      <itunes:summary>Flere begravelser enn bryllup og ett stygt fall.</itunes:summary>
+      <itunes:duration>3588</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VqmgDuf7PwBo63CptKPdOAvEqMvt3M7tfZjczIwFYs8g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Den gode samaritan: Nathan Kahungu</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_0fc6b856-4be3-46c2-86b8-564be346c269</link>
+      <description>Neste gang Nate går forbi en slåsskamp, kommer han ikke til å prøve å stoppe den, for å si det sånn.</description>
+      <guid isPermaLink="false">l_0fc6b856-4be3-46c2-86b8-564be346c269</guid>
+      <pubDate>Mon, 01 Jul 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b7a566f9-6916-4774-964a-f7524bb0ff39_0_ID192MP3.mp3" type="audio/mpeg" length="84124269"></enclosure>
+      <itunes:title>Den gode samaritan: Nathan Kahungu</itunes:title>
+      <itunes:summary>Neste gang Nate går forbi en slåsskamp, kommer han ikke til å prøve å stoppe den, for å si det sånn.</itunes:summary>
+      <itunes:duration>3505</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9K8BzCbEmqQxX4RviahdEg8PeiAdfAyuTJ6sEn66iFUA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kaveh Rashidi, dr. Death</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_2ff51b37-332e-477d-b51b-37332e977d7d</link>
+      <description>Noen må jobbe med å bekrefte at du faktisk er død.</description>
+      <guid isPermaLink="false">l_2ff51b37-332e-477d-b51b-37332e977d7d</guid>
+      <pubDate>Mon, 24 Jun 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/ead3d1e6-37bf-43ae-b751-08d72bf83ad5_0_ID192MP3.mp3" type="audio/mpeg" length="93160557"></enclosure>
+      <itunes:title>Kaveh Rashidi, dr. Death</itunes:title>
+      <itunes:summary>Noen må jobbe med å bekrefte at du faktisk er død.</itunes:summary>
+      <itunes:duration>3881</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qDzDo_1WHOv_TxyyfyLdUAiGMl5NSyQV54irMz2o6z1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hege Schøyen: kronisk bekymret</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_d820a7ee-e446-44a2-a0a7-eee446a4a212</link>
+      <description>Glad i grubling, skal ikke skremmes, takk.</description>
+      <guid isPermaLink="false">l_d820a7ee-e446-44a2-a0a7-eee446a4a212</guid>
+      <pubDate>Mon, 17 Jun 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/822fd2ef-d584-498f-ab29-85cd0636405e_0_ID192MP3.mp3" type="audio/mpeg" length="95063085"></enclosure>
+      <itunes:title>Hege Schøyen: kronisk bekymret</itunes:title>
+      <itunes:summary>Glad i grubling, skal ikke skremmes, takk.</itunes:summary>
+      <itunes:duration>3960</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R6E61vKFJBjYcsBoPIqLLghooQ0lvQW1ixoXzCeyDP9A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Krasj med Kevin Kildal</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_8b2791d9-7f2b-4bd8-a791-d97f2bebd858</link>
+      <description>&#34;Døden er gulroten som driver meg&#34;</description>
+      <guid isPermaLink="false">l_8b2791d9-7f2b-4bd8-a791-d97f2bebd858</guid>
+      <pubDate>Mon, 10 Jun 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/0bc9ddc8-d2ac-4062-a311-0bebb098bccf_0_ID192MP3.mp3" type="audio/mpeg" length="87334893"></enclosure>
+      <itunes:title>Krasj med Kevin Kildal</itunes:title>
+      <itunes:summary>&#34;Døden er gulroten som driver meg&#34;</itunes:summary>
+      <itunes:duration>3638</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jZikdIuVJ8dE6NG-ZOBIJwtErF8GwCm2FZWPPmh0hXAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Christine Dancke i skogens mørke</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_92b1dde8-2ee5-413d-b1dd-e82ee5013d71</link>
+      <description>Kanskje redd for mye, men ikke døden eller alenetid i skogen.</description>
+      <guid isPermaLink="false">l_92b1dde8-2ee5-413d-b1dd-e82ee5013d71</guid>
+      <pubDate>Mon, 03 Jun 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/dc86a6d7-8efe-4401-a6fc-8edea4fa5419_0_ID192MP3.mp3" type="audio/mpeg" length="90749997"></enclosure>
+      <itunes:title>Christine Dancke i skogens mørke</itunes:title>
+      <itunes:summary>Kanskje redd for mye, men ikke døden eller alenetid i skogen.</itunes:summary>
+      <itunes:duration>3781</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yYtyTv4mM04jVfdSaNxDRgW9WijtplrJoww6yhDcuDbg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Christine Koht lever!</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_bc03452c-df17-496a-8345-2cdf17996a79</link>
+      <description>Hvordan er livet etter å ha overlevd en dødsdom?</description>
+      <guid isPermaLink="false">l_bc03452c-df17-496a-8345-2cdf17996a79</guid>
+      <pubDate>Mon, 03 Jun 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/765bf9e7-e374-450b-a730-9a1210bb36c8_0_ID192MP3.mp3" type="audio/mpeg" length="79549677"></enclosure>
+      <itunes:title>Christine Koht lever!</itunes:title>
+      <itunes:summary>Hvordan er livet etter å ha overlevd en dødsdom?</itunes:summary>
+      <itunes:duration>3314</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/cYoNtnz7RhsD-uYyK1oEgQhdLpKqM2VR-zvSgm52DOuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Karina Hollekim utfor stupet</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_397e423d-2370-474e-be42-3d2370374ef1</link>
+      <description>Karina har overlevd både fallskjermkrasj og Mission impossible-aktig helikopterulykke.</description>
+      <guid isPermaLink="false">l_397e423d-2370-474e-be42-3d2370374ef1</guid>
+      <pubDate>Mon, 27 May 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/5d169e79-e7c0-4ea7-ad8c-1e202583ea49_0_ID192MP3.mp3" type="audio/mpeg" length="95363757"></enclosure>
+      <itunes:title>Karina Hollekim utfor stupet</itunes:title>
+      <itunes:summary>Karina har overlevd både fallskjermkrasj og Mission impossible-aktig helikopterulykke.</itunes:summary>
+      <itunes:duration>3973</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2ZxYbvS0ApIb0K3xcsxsPQ2Ko_M3C0Zhw14YXhPh9jvQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Thomas Hylland Eriksen og livet sjøl</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_b034252f-f722-4e33-b425-2ff7222e33cd</link>
+      <description>Thomas overlevde kreft og skrev bok om livets meninger.</description>
+      <guid isPermaLink="false">l_b034252f-f722-4e33-b425-2ff7222e33cd</guid>
+      <pubDate>Mon, 20 May 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/3faa97e7-14d7-4061-b5ae-61291adc1e9b_0_ID192MP3.mp3" type="audio/mpeg" length="66706029"></enclosure>
+      <itunes:title>Thomas Hylland Eriksen og livet sjøl</itunes:title>
+      <itunes:summary>Thomas overlevde kreft og skrev bok om livets meninger.</itunes:summary>
+      <itunes:duration>2779</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kDd_s_H6aAAb9Ou0bQDH6wNoWbbLPHkn5I6ZBmU9WNfw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Abubakar Hussains selvdestruktivitet</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_12c2afe7-9ebe-4805-82af-e79ebeb8057a</link>
+      <description>Abu gikk fra dyp depresjon til gladere dager med hjelp fra gode venner. Og en psykolog. </description>
+      <guid isPermaLink="false">l_12c2afe7-9ebe-4805-82af-e79ebeb8057a</guid>
+      <pubDate>Mon, 13 May 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/d75ba130-6123-4215-937e-7abd7d73c132_0_ID192MP3.mp3" type="audio/mpeg" length="72326637"></enclosure>
+      <itunes:title>Abubakar Hussains selvdestruktivitet</itunes:title>
+      <itunes:summary>Abu gikk fra dyp depresjon til gladere dager med hjelp fra gode venner. Og en psykolog. </itunes:summary>
+      <itunes:duration>3013</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gn4P6U7YKnFNNOvgWxyNBwc02ZOL327gJClWewcyzr_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Touché, Thomas &#34;Fingern&#34; Gullestad </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_61d3dc94-69fd-47b8-93dc-9469fd37b8d3</link>
+      <description>Kan man dø av brukket ankel på microrampen? Ja, nesten faktisk. </description>
+      <guid isPermaLink="false">l_61d3dc94-69fd-47b8-93dc-9469fd37b8d3</guid>
+      <pubDate>Mon, 06 May 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/804a0f6d-da64-49b4-a0e9-1b78148026c2_0_ID192MP3.mp3" type="audio/mpeg" length="101456685"></enclosure>
+      <itunes:title>Touché, Thomas &#34;Fingern&#34; Gullestad </itunes:title>
+      <itunes:summary>Kan man dø av brukket ankel på microrampen? Ja, nesten faktisk. </itunes:summary>
+      <itunes:duration>4227</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OhOjlkX9Fw6h0aiGbK0sUQfh_eXOGG8oVI62H4sI1k8g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fredrik Juell, prepping og rall</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_4341f964-f021-441c-81f9-64f021c41c39</link>
+      <description>Fredrik stod ved roret på Berserk da stormen traff. </description>
+      <guid isPermaLink="false">l_4341f964-f021-441c-81f9-64f021c41c39</guid>
+      <pubDate>Mon, 29 Apr 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/a2fc43dc-9a69-4204-b90b-ef2440ad2bdd_0_ID192MP3.mp3" type="audio/mpeg" length="78071661"></enclosure>
+      <itunes:title>Fredrik Juell, prepping og rall</itunes:title>
+      <itunes:summary>Fredrik stod ved roret på Berserk da stormen traff. </itunes:summary>
+      <itunes:duration>3252</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wrTa3w5NZP9BxNm8T1T8TgojTLTbliPczq0S3KNACpuw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kan noen vekke Snorre Monsson?</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_9c6f7a4c-f66b-494c-af7a-4cf66b094c57</link>
+      <description>Kan man dø av skam? Eller svelge en hel kjærlighet på pinne med pinne? </description>
+      <guid isPermaLink="false">l_9c6f7a4c-f66b-494c-af7a-4cf66b094c57</guid>
+      <pubDate>Mon, 22 Apr 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7e44690c-d9c0-4b61-bb52-36dcc5e84631_0_ID192MP3.mp3" type="audio/mpeg" length="93211821"></enclosure>
+      <itunes:title>Kan noen vekke Snorre Monsson?</itunes:title>
+      <itunes:summary>Kan man dø av skam? Eller svelge en hel kjærlighet på pinne med pinne? </itunes:summary>
+      <itunes:duration>3883</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_vSWGO4AcbUp6Y-NSKYb1ADdHOZZbKm089ExxDQaqfVw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Aune Sand og livskraften </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_98de77b5-4e24-4fb5-9e77-b54e24cfb52a</link>
+      <description>Aune har ikke tenkt på døden før for noen måneder siden. Og nå har han plutselig dårlig tid. </description>
+      <guid isPermaLink="false">l_98de77b5-4e24-4fb5-9e77-b54e24cfb52a</guid>
+      <pubDate>Mon, 15 Apr 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/a7ddf49a-8d3e-413f-9e38-3debd7544ebf_0_ID192MP3.mp3" type="audio/mpeg" length="57041325"></enclosure>
+      <itunes:title>Aune Sand og livskraften </itunes:title>
+      <itunes:summary>Aune har ikke tenkt på døden før for noen måneder siden. Og nå har han plutselig dårlig tid. </itunes:summary>
+      <itunes:duration>2376</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rYAWhhfsiX4s-WuXhuMXlQy244dyVlO149--J8HB7IwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>En betablokker til Steinar Sagen</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_f3841c78-74a5-4fbd-841c-7874a55fbdda</link>
+      <description>Han døde ikke på bryllupsreise, det bare kjentes litt sånn ut. </description>
+      <guid isPermaLink="false">l_f3841c78-74a5-4fbd-841c-7874a55fbdda</guid>
+      <pubDate>Mon, 08 Apr 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/0239b00b-eae7-4c61-afc8-0129023b7047_0_ID192MP3.mp3" type="audio/mpeg" length="80231085"></enclosure>
+      <itunes:title>En betablokker til Steinar Sagen</itunes:title>
+      <itunes:summary>Han døde ikke på bryllupsreise, det bare kjentes litt sånn ut. </itunes:summary>
+      <itunes:duration>3342</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/op7ltpakELo8n0rByRmDBAiiH4YnJnqxNgpFBw42VKxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Adelina Ibishi og bølgen</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_5b935999-f3b7-4b73-9359-99f3b73b7369</link>
+      <description>Folk tar ikke Adelinas fancy nær døden-opplevelse på alvor. </description>
+      <guid isPermaLink="false">l_5b935999-f3b7-4b73-9359-99f3b73b7369</guid>
+      <pubDate>Mon, 01 Apr 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2029da43-f7f4-4829-a2ed-a65eff46fb36_0_ID192MP3.mp3" type="audio/mpeg" length="79211565"></enclosure>
+      <itunes:title>Adelina Ibishi og bølgen</itunes:title>
+      <itunes:summary>Folk tar ikke Adelinas fancy nær døden-opplevelse på alvor. </itunes:summary>
+      <itunes:duration>3300</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8NrQw4ZbS5oPiLEormKtogUnpp_UDlHN-sUMswxZTz_Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Marlene Stavrum og dødens pumpe</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_75c0d56b-8082-4e43-80d5-6b8082fe43bf</link>
+      <description>Et brutalt møte med døden, og et tilfeldig møte med en veiarbeider. </description>
+      <guid isPermaLink="false">l_75c0d56b-8082-4e43-80d5-6b8082fe43bf</guid>
+      <pubDate>Mon, 25 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/614a1df7-365c-48de-ba54-efabb99bd6b1_0_ID192MP3.mp3" type="audio/mpeg" length="71286381"></enclosure>
+      <itunes:title>Marlene Stavrum og dødens pumpe</itunes:title>
+      <itunes:summary>Et brutalt møte med døden, og et tilfeldig møte med en veiarbeider. </itunes:summary>
+      <itunes:duration>2970</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fZhh1TNO3V6WQxm8lWmmog9gCY4Sc4MsWd8NBQCtajow"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Henrik Mestad, rett i strupehodet</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_8906d449-cd55-4424-86d4-49cd55f42494</link>
+      <description>Sånn overlever du en flykapring. </description>
+      <guid isPermaLink="false">l_8906d449-cd55-4424-86d4-49cd55f42494</guid>
+      <pubDate>Mon, 18 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/58bca5c5-986b-46f7-93f5-ec68a2aabec6_0_ID192MP3.mp3" type="audio/mpeg" length="92619117"></enclosure>
+      <itunes:title>Henrik Mestad, rett i strupehodet</itunes:title>
+      <itunes:summary>Sånn overlever du en flykapring. </itunes:summary>
+      <itunes:duration>3859</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/o0JMPWuErCMzSaIW_sn2tQ4xGjtSl3jNA4npBGe1PhOg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Thomas Giertsen og skamfølelsen</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_8b67e8a0-2e64-4d58-a7e8-a02e640d581f</link>
+      <description>Thomas har ikke like mye dødsangst som før. Men hverdagens små øyeblikk av skam derimot. </description>
+      <guid isPermaLink="false">l_8b67e8a0-2e64-4d58-a7e8-a02e640d581f</guid>
+      <pubDate>Mon, 11 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/d509944f-4f52-4ec5-9ea8-55a664f5ad4e_0_ID192MP3.mp3" type="audio/mpeg" length="86074605"></enclosure>
+      <itunes:title>Thomas Giertsen og skamfølelsen</itunes:title>
+      <itunes:summary>Thomas har ikke like mye dødsangst som før. Men hverdagens små øyeblikk av skam derimot. </itunes:summary>
+      <itunes:duration>3586</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mrAXCva1AfBl0v9xraDWgQ8nvB4tlsQV2Q-4OZyj-jJw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ikke få panikk, Jonas Benyoub! </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_208b5ef1-2f2b-496a-8b5e-f12f2be96a2a</link>
+      <description>Jonas var sikker på at han skulle dø under musikkvideoinnspilling i skogen. </description>
+      <guid isPermaLink="false">l_208b5ef1-2f2b-496a-8b5e-f12f2be96a2a</guid>
+      <pubDate>Mon, 04 Mar 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7d8d6d49-45cb-4585-ac10-62d088fa682c_0_ID192MP3.mp3" type="audio/mpeg" length="69960429"></enclosure>
+      <itunes:title>Ikke få panikk, Jonas Benyoub! </itunes:title>
+      <itunes:summary>Jonas var sikker på at han skulle dø under musikkvideoinnspilling i skogen. </itunes:summary>
+      <itunes:duration>2914</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1xbTfzhb3kbdlpsy-xUDwQ1lRayUaNAYFJ-yOnAh82bA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Det er ingen lik på do, Silje Nordnes </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_1ea0cb8e-e066-4a31-a0cb-8ee0661a3101</link>
+      <description>Silje har nok katastrofetanker, men døden er hun ikke redd for. </description>
+      <guid isPermaLink="false">l_1ea0cb8e-e066-4a31-a0cb-8ee0661a3101</guid>
+      <pubDate>Mon, 26 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/1a91c61e-5a2c-4ac3-9fc0-2a521584431b_0_ID192MP3.mp3" type="audio/mpeg" length="84231981"></enclosure>
+      <itunes:title>Det er ingen lik på do, Silje Nordnes </itunes:title>
+      <itunes:summary>Silje har nok katastrofetanker, men døden er hun ikke redd for. </itunes:summary>
+      <itunes:duration>3509</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5smMXtSEJjHxIeU9pXF72AAinrIqBpbKpBt893FGK1qQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tete Lidbom og sommerfugleffekten</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_faf958c9-394d-4ab8-b958-c9394daab8ae</link>
+      <description>Tete døde en gang. På ordentlig. </description>
+      <guid isPermaLink="false">l_faf958c9-394d-4ab8-b958-c9394daab8ae</guid>
+      <pubDate>Mon, 19 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/da8ceef4-1a21-47d2-a046-91e133812160_0_ID192MP3.mp3" type="audio/mpeg" length="91798893"></enclosure>
+      <itunes:title>Tete Lidbom og sommerfugleffekten</itunes:title>
+      <itunes:summary>Tete døde en gang. På ordentlig. </itunes:summary>
+      <itunes:duration>3824</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xcS-A1ztU2qSgvNHkdCLJwDPxYYi48ZG9hTxrVRh-rqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Leo Ajkic må bare én ting</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_6e193980-21be-4f58-9939-8021be3f5840</link>
+      <description>Redd for både døden og rasfare. Men tar det ellers med ro. </description>
+      <guid isPermaLink="false">l_6e193980-21be-4f58-9939-8021be3f5840</guid>
+      <pubDate>Mon, 12 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b228a159-a220-41b9-bee8-9c9ecab8b4b1_0_ID192MP3.mp3" type="audio/mpeg" length="84678381"></enclosure>
+      <itunes:title>Leo Ajkic må bare én ting</itunes:title>
+      <itunes:summary>Redd for både døden og rasfare. Men tar det ellers med ro. </itunes:summary>
+      <itunes:duration>3528</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/DSls5Feq-n6lcL_EGE18dQs2Nr0_tZvO0zovbdqzYQDA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Renate Reinsve og dødsspådommen</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_7575a261-839d-4cde-b5a2-61839d4cde4b</link>
+      <description>Ikke hør på ALT legen din sier. </description>
+      <guid isPermaLink="false">l_7575a261-839d-4cde-b5a2-61839d4cde4b</guid>
+      <pubDate>Mon, 05 Feb 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/f869525b-b213-44e8-a3a8-fcc6e18d6531_0_ID192MP3.mp3" type="audio/mpeg" length="83204973"></enclosure>
+      <itunes:title>Renate Reinsve og dødsspådommen</itunes:title>
+      <itunes:summary>Ikke hør på ALT legen din sier. </itunes:summary>
+      <itunes:duration>3466</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/H6JI4X_pjOVbfttUBiy_gQJdDyLZ0vaQJGzrjXeg__jg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Erlend Loe på ett hjul</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_72741383-3930-4181-b413-833930a181ff</link>
+      <description>Bruk hjelm og se opp for bjørn! </description>
+      <guid isPermaLink="false">l_72741383-3930-4181-b413-833930a181ff</guid>
+      <pubDate>Mon, 29 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7f9daba0-1ab6-434f-93d7-07ec8b3da1ac_0_ID192MP3.mp3" type="audio/mpeg" length="87185709"></enclosure>
+      <itunes:title>Erlend Loe på ett hjul</itunes:title>
+      <itunes:summary>Bruk hjelm og se opp for bjørn! </itunes:summary>
+      <itunes:duration>3632</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GjdbcMVhcupKR0-5Snh_FQme65C-97iYLa2XiLFFz5qg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bård Ylvisåker, guffent med maskingevær</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_940a0ca3-40b1-492a-8a0c-a340b1392aa4</link>
+      <description>Kan prat om døden være starten på et nytt vennskap? En av to i studio er skeptiske. </description>
+      <guid isPermaLink="false">l_940a0ca3-40b1-492a-8a0c-a340b1392aa4</guid>
+      <pubDate>Mon, 22 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/def1c996-8f2e-4f39-a54a-e907b682cf11_0_ID192MP3.mp3" type="audio/mpeg" length="78408621"></enclosure>
+      <itunes:title>Bård Ylvisåker, guffent med maskingevær</itunes:title>
+      <itunes:summary>Kan prat om døden være starten på et nytt vennskap? En av to i studio er skeptiske. </itunes:summary>
+      <itunes:duration>3266</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LJzMTzeT8KAbbuIUHmWJ4g0tc3Kj13GGYdjwQ_-J-hlQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Det viktigste er at Siri Kristiansen overlever</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_c5e28e0a-f1f5-4feb-a28e-0af1f5dfeb8a</link>
+      <description>Er ikke så redd for å dø, men litt redd for å tøffe seg for mye. </description>
+      <guid isPermaLink="false">l_c5e28e0a-f1f5-4feb-a28e-0af1f5dfeb8a</guid>
+      <pubDate>Mon, 15 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/f58f61b0-52d1-4e8a-abb2-8571901c74c6_0_ID192MP3.mp3" type="audio/mpeg" length="70814637"></enclosure>
+      <itunes:title>Det viktigste er at Siri Kristiansen overlever</itunes:title>
+      <itunes:summary>Er ikke så redd for å dø, men litt redd for å tøffe seg for mye. </itunes:summary>
+      <itunes:duration>2950</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QGqietmxsyW4T6eHl_aMkwNvfblRlDYDCYPGEB9ORp5A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Trond Viggos mørke fantasier</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_a8675896-4c58-41b5-a758-964c5881b562</link>
+      <description>Trond Viggo har et kreativt mørke i seg, men han ville aldri gjort det. Ikke på ordentlig. </description>
+      <guid isPermaLink="false">l_a8675896-4c58-41b5-a758-964c5881b562</guid>
+      <pubDate>Mon, 08 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/8889a8cf-3317-4a55-9d93-04bf9a71545d_0_ID192MP3.mp3" type="audio/mpeg" length="92157741"></enclosure>
+      <itunes:title>Trond Viggos mørke fantasier</itunes:title>
+      <itunes:summary>Trond Viggo har et kreativt mørke i seg, men han ville aldri gjort det. Ikke på ordentlig. </itunes:summary>
+      <itunes:duration>3839</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CfFWU7KW0905_CjuwloNFQyuY68D9I5kOALcO1PkysIg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Espen Abrahamsens strippeklubbkveld</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_3dc6de91-fe58-42e2-86de-91fe58c2e265</link>
+      <description>Premiere på nær strippeklubbdød! </description>
+      <guid isPermaLink="false">l_3dc6de91-fe58-42e2-86de-91fe58c2e265</guid>
+      <pubDate>Mon, 01 Jan 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/5b433d9f-e307-4c6a-8b58-ecf950254c6f_0_ID192MP3.mp3" type="audio/mpeg" length="87022701"></enclosure>
+      <itunes:title>Espen Abrahamsens strippeklubbkveld</itunes:title>
+      <itunes:summary>Premiere på nær strippeklubbdød! </itunes:summary>
+      <itunes:duration>3625</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bVir96qLcn5N6RM-Xqfq6gkSsRKbEeTVrCwVJEZTwCwg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sandeep Singhs livsfarlige tivoli</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_f770039c-0990-4dcf-b003-9c09900dcf34</link>
+      <description>Sandeep kunne ha dødd i en karusell i India, men han klamret seg fast. </description>
+      <guid isPermaLink="false">l_f770039c-0990-4dcf-b003-9c09900dcf34</guid>
+      <pubDate>Mon, 18 Dec 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7c45c661-52d6-45f7-99c1-225e090ff1d8_0_ID192MP3.mp3" type="audio/mpeg" length="96276141"></enclosure>
+      <itunes:title>Sandeep Singhs livsfarlige tivoli</itunes:title>
+      <itunes:summary>Sandeep kunne ha dødd i en karusell i India, men han klamret seg fast. </itunes:summary>
+      <itunes:duration>4011</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/B5Cp0JVeCtrDsU7CZ1t60AyYQVh6UjaIGWG2tYjgnemA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Til bunns med Isalill Kolpus</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_2934f531-0ca1-4d0a-b4f5-310ca1cd0a30</link>
+      <description>Hvem kan lære Isalill å svømme? </description>
+      <guid isPermaLink="false">l_2934f531-0ca1-4d0a-b4f5-310ca1cd0a30</guid>
+      <pubDate>Mon, 11 Dec 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b31a977e-ee14-4f30-9df2-490f83a1da73_0_ID192MP3.mp3" type="audio/mpeg" length="79472493"></enclosure>
+      <itunes:title>Til bunns med Isalill Kolpus</itunes:title>
+      <itunes:summary>Hvem kan lære Isalill å svømme? </itunes:summary>
+      <itunes:duration>3311</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/H1HTn-ly-_OoOAn1V8DJMQvWRgf1-rAABcQPXqFOp9oA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gucci-Gaute, &#34;Hjelp&#34; og fatterns nyre i boks</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_4578a03c-c5b7-4da6-b8a0-3cc5b79da6b3</link>
+      <description>Gucci-Gaute hosta blod og mista synet, men han vil helst ikke være til bry.</description>
+      <guid isPermaLink="false">l_4578a03c-c5b7-4da6-b8a0-3cc5b79da6b3</guid>
+      <pubDate>Mon, 04 Dec 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/af3a9ffd-b8f0-4adc-b083-9e6a4a383644_0_ID192MP3.mp3" type="audio/mpeg" length="78985773"></enclosure>
+      <itunes:title>Gucci-Gaute, &#34;Hjelp&#34; og fatterns nyre i boks</itunes:title>
+      <itunes:summary>Gucci-Gaute hosta blod og mista synet, men han vil helst ikke være til bry.</itunes:summary>
+      <itunes:duration>3291</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HQWd8GghCBCJ6ftBU4X6fg-YBNhqz5QFeMdLMwDZ4nrA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Maria Stavangs dødsangstrekord</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_9d8f86b0-e8e7-4a0c-8f86-b0e8e71a0c74</link>
+      <description>Hvis dødsangst var en konkurranse hadde Maria vunnet. </description>
+      <guid isPermaLink="false">l_9d8f86b0-e8e7-4a0c-8f86-b0e8e71a0c74</guid>
+      <pubDate>Mon, 27 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2d0bc5b9-bb3a-47a0-944f-7d241d1fb822_0_ID192MP3.mp3" type="audio/mpeg" length="75044205"></enclosure>
+      <itunes:title>Maria Stavangs dødsangstrekord</itunes:title>
+      <itunes:summary>Hvis dødsangst var en konkurranse hadde Maria vunnet. </itunes:summary>
+      <itunes:duration>3126</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eXx5B6ezi9BmTaRXwfyNNw5lw5fFNgCZZV2lmQwJAeRQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Niklas Baarli og kunsten å leve knallhardt</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_f689ef08-f8a2-44e0-89ef-08f8a234e032</link>
+      <description>Niklas opplevde mye død i ung alder og kunne ikke hatt mindre dødsangst. </description>
+      <guid isPermaLink="false">l_f689ef08-f8a2-44e0-89ef-08f8a234e032</guid>
+      <pubDate>Mon, 20 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/288cf80b-6bfa-45cc-9e2b-0b548ab34040_0_ID192MP3.mp3" type="audio/mpeg" length="76698477"></enclosure>
+      <itunes:title>Niklas Baarli og kunsten å leve knallhardt</itunes:title>
+      <itunes:summary>Niklas opplevde mye død i ung alder og kunne ikke hatt mindre dødsangst. </itunes:summary>
+      <itunes:duration>3195</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EPQr_NFM3yVtDgZe9PzEHwVkyO17Y-WWtEAH3-bNpIOA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kriminaltekniker Eva B. Ragde </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_e4af2552-6e27-4278-af25-526e277278bc</link>
+      <description>Eva har sett det verste vi mennesker er i stand til å gjøre. Og det preger både synet på døden og livet. Og klarer hun &#34;Gjem liket&#34;?? </description>
+      <guid isPermaLink="false">l_e4af2552-6e27-4278-af25-526e277278bc</guid>
+      <pubDate>Mon, 13 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/25f768de-8d69-4e4a-84cd-9dc1ab703ff3_0_ID192MP3.mp3" type="audio/mpeg" length="80368173"></enclosure>
+      <itunes:title>Kriminaltekniker Eva B. Ragde </itunes:title>
+      <itunes:summary>Eva har sett det verste vi mennesker er i stand til å gjøre. Og det preger både synet på døden og livet. Og klarer hun &#34;Gjem liket&#34;?? </itunes:summary>
+      <itunes:duration>3348</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rpyGg-fiyQ6FQqmBadgO7wBs40KIq9O2ebmbcvxgUUHg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mari Garås Monsson og Marit</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_57434112-21a1-4798-8341-1221a117984c</link>
+      <description>Mari mistet bestevennen brått i en ulykke og livet ble snudd på hodet. </description>
+      <guid isPermaLink="false">l_57434112-21a1-4798-8341-1221a117984c</guid>
+      <pubDate>Mon, 06 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/bce82abb-4cd1-46e0-b130-e0a30b936f30_0_ID192MP3.mp3" type="audio/mpeg" length="78192621"></enclosure>
+      <itunes:title>Mari Garås Monsson og Marit</itunes:title>
+      <itunes:summary>Mari mistet bestevennen brått i en ulykke og livet ble snudd på hodet. </itunes:summary>
+      <itunes:duration>3257</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KxTkrhdn2u0NkXnT5ciM3wosSqF1scT5MY5jutGPY4uw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jørgen EP og stubben</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_78b8185b-7c77-451e-b818-5b7c77851e84</link>
+      <description>40 centimeter unna å dø i en busk på jobb. Litt flaks skal man ha. </description>
+      <guid isPermaLink="false">l_78b8185b-7c77-451e-b818-5b7c77851e84</guid>
+      <pubDate>Mon, 06 Nov 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7e04d45c-7148-4ae7-a418-143bb946809f_0_ID192MP3.mp3" type="audio/mpeg" length="81953901"></enclosure>
+      <itunes:title>Jørgen EP og stubben</itunes:title>
+      <itunes:summary>40 centimeter unna å dø i en busk på jobb. Litt flaks skal man ha. </itunes:summary>
+      <itunes:duration>3414</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iyaTxL0tR8E3XBS1dkGmMAWVlZGTKU7gfZ3PvoE9Pypg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hopp, Olli Wermskog! Hopp! </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_4fc5d81c-39d4-41d6-85d8-1c39d401d6dd</link>
+      <description>Hyperallergisk, engstelig og uredd. Sammensatt type, Olli. </description>
+      <guid isPermaLink="false">l_4fc5d81c-39d4-41d6-85d8-1c39d401d6dd</guid>
+      <pubDate>Mon, 30 Oct 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/1a4cd18c-64f1-47da-b1f9-8772c2fb7f8b_0_ID192MP3.mp3" type="audio/mpeg" length="81857133"></enclosure>
+      <itunes:title>Hopp, Olli Wermskog! Hopp! </itunes:title>
+      <itunes:summary>Hyperallergisk, engstelig og uredd. Sammensatt type, Olli. </itunes:summary>
+      <itunes:duration>3410</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/K9sZZdfZUfCWRTcCGYZ3Dwbh9qUaNylWmnMtHj6Ok1dQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mads Hansen: Starstruck av døden</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_2659fc4b-1d51-4624-99fc-4b1d5146249b</link>
+      <description>Mads Hansen har ærefrykt for døden, men er samtidig nysgjerrig på hvordan det er å dø.</description>
+      <guid isPermaLink="false">l_2659fc4b-1d51-4624-99fc-4b1d5146249b</guid>
+      <pubDate>Mon, 23 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/da08119a-37c1-4afb-ab6d-0663000edbb7_0_ID192MP3.mp3" type="audio/mpeg" length="95071149"></enclosure>
+      <itunes:title>Mads Hansen: Starstruck av døden</itunes:title>
+      <itunes:summary>Mads Hansen har ærefrykt for døden, men er samtidig nysgjerrig på hvordan det er å dø.</itunes:summary>
+      <itunes:duration>3961</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iO_d_OY0rycUsJYfsLdwtwyKpIhXOd-2tRUD7sH_6hHg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hilde Skaar og hamsterløgnen</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_c520ce3b-db17-4791-a0ce-3bdb171791a8</link>
+      <description>Hilde Skaar er redd for at familien skal dø før henne – men har en plan for å komme dem i forkjøpet.</description>
+      <guid isPermaLink="false">l_c520ce3b-db17-4791-a0ce-3bdb171791a8</guid>
+      <pubDate>Mon, 16 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/bcaeb96e-1b3f-4367-bb09-abff2b06e6f4_0_ID192MP3.mp3" type="audio/mpeg" length="89110125"></enclosure>
+      <itunes:title>Hilde Skaar og hamsterløgnen</itunes:title>
+      <itunes:summary>Hilde Skaar er redd for at familien skal dø før henne – men har en plan for å komme dem i forkjøpet.</itunes:summary>
+      <itunes:duration>3712</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/arAvkds-nW4q0S_8-YpHPQrMIUT2DgfAsoqYY0L_s9OA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nils Bech og helsebevisstheten </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_f98e8f1c-1b03-4af1-8e8f-1c1b03faf1ad</link>
+      <description>Nils er ikke hypokonder, bare nesten. Men sykebilen ringte han ikke da han trengte den. </description>
+      <guid isPermaLink="false">l_f98e8f1c-1b03-4af1-8e8f-1c1b03faf1ad</guid>
+      <pubDate>Mon, 09 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/148c4e63-d6fd-4bb1-93b6-a0eb3688d28e_0_ID192MP3.mp3" type="audio/mpeg" length="101156013"></enclosure>
+      <itunes:title>Nils Bech og helsebevisstheten </itunes:title>
+      <itunes:summary>Nils er ikke hypokonder, bare nesten. Men sykebilen ringte han ikke da han trengte den. </itunes:summary>
+      <itunes:duration>4214</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vm35FkWZFd_q4Z-3_ccNGQN22t8vzY3s5zWbYVZ5Yc0A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Emma Steinbakkens hverdagsfest</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_291a4b62-2a3d-4013-9a4b-622a3da01345</link>
+      <description>Emma vil helst ikke leve til hun blir hundre, bare til hun er mett. </description>
+      <guid isPermaLink="false">l_291a4b62-2a3d-4013-9a4b-622a3da01345</guid>
+      <pubDate>Mon, 02 Oct 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/8a23d1cd-f015-4639-94d5-78e8e7859606_0_ID192MP3.mp3" type="audio/mpeg" length="67204845"></enclosure>
+      <itunes:title>Emma Steinbakkens hverdagsfest</itunes:title>
+      <itunes:summary>Emma vil helst ikke leve til hun blir hundre, bare til hun er mett. </itunes:summary>
+      <itunes:duration>2800</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rxn4kZ3hI0QCkioW3No85AMKSBHAv60x0msSjo2WcuPA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lisa Tønne, se opp for badekaret! </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_dbb69412-a275-4067-b694-12a2753067a6</link>
+      <description>Lisa Tønne har overlevd de rareste ting. Hvor mange liv har hun igjen nå? </description>
+      <guid isPermaLink="false">l_dbb69412-a275-4067-b694-12a2753067a6</guid>
+      <pubDate>Mon, 25 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/ce43a574-625c-4d1d-9668-079a4f7e1599_0_ID192MP3.mp3" type="audio/mpeg" length="82529901"></enclosure>
+      <itunes:title>Lisa Tønne, se opp for badekaret! </itunes:title>
+      <itunes:summary>Lisa Tønne har overlevd de rareste ting. Hvor mange liv har hun igjen nå? </itunes:summary>
+      <itunes:duration>3438</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3qG21KNzUvdBgmsjnZpwBQXxh7N0IWLtm1r-L7aBiURw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Henrik Fladseth og familiehemmeligheten</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_9eb7100f-6d6b-467d-b710-0f6d6bc67da5</link>
+      <description>Hvor mye rekker man å organisere før man kveles av en kjøttbit? </description>
+      <guid isPermaLink="false">l_9eb7100f-6d6b-467d-b710-0f6d6bc67da5</guid>
+      <pubDate>Mon, 18 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/df9047a2-664c-4996-90c8-312756430a99_0_ID192MP3.mp3" type="audio/mpeg" length="75382317"></enclosure>
+      <itunes:title>Henrik Fladseth og familiehemmeligheten</itunes:title>
+      <itunes:summary>Hvor mye rekker man å organisere før man kveles av en kjøttbit? </itunes:summary>
+      <itunes:duration>3140</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fV6jfRE4_lYYvVbw_XsmHACb1nuvfm4ZDca76DT-OKjw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Alex Rosén med pistol mot hodet</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_30df190e-d4d2-45f2-9f19-0ed4d295f296</link>
+      <description>Rekk opp hånda de som har flere nær døden-opplevelser enn Alex! </description>
+      <guid isPermaLink="false">l_30df190e-d4d2-45f2-9f19-0ed4d295f296</guid>
+      <pubDate>Mon, 11 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/40adb83b-ba02-4e80-ab6a-67887a95c4da_0_ID192MP3.mp3" type="audio/mpeg" length="84685869"></enclosure>
+      <itunes:title>Alex Rosén med pistol mot hodet</itunes:title>
+      <itunes:summary>Rekk opp hånda de som har flere nær døden-opplevelser enn Alex! </itunes:summary>
+      <itunes:duration>3528</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JlBiOEoUFdQr90c79tviEA7c5ipfAX-3qYZ5MDssUjvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Merethe Karma Lindstad, død og gjenoppstått </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_31399f95-d87e-43f4-b99f-95d87ec3f4af</link>
+      <description>Merethe har vært rusavhengig og død. Etter ti år på rehab er hun både levende, stand up-komiker og politiker. </description>
+      <guid isPermaLink="false">l_31399f95-d87e-43f4-b99f-95d87ec3f4af</guid>
+      <pubDate>Mon, 04 Sep 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7879f9f1-a7de-453c-88cd-b634c3cff49d_0_ID192MP3.mp3" type="audio/mpeg" length="69098733"></enclosure>
+      <itunes:title>Merethe Karma Lindstad, død og gjenoppstått </itunes:title>
+      <itunes:summary>Merethe har vært rusavhengig og død. Etter ti år på rehab er hun både levende, stand up-komiker og politiker. </itunes:summary>
+      <itunes:duration>2879</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qOL06YPis7radSCLJYc69w-9XumElW4WC3kmt3fHC4JA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tara Lina uten pappa</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_21eff5c6-29cd-4dba-aff5-c629cd5dba42</link>
+      <description>Taras største frykt var å miste en av foreldrene, og så døde faren. </description>
+      <guid isPermaLink="false">l_21eff5c6-29cd-4dba-aff5-c629cd5dba42</guid>
+      <pubDate>Mon, 28 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/e1c51225-3775-41cf-8b6b-64e4f93612d6_0_ID192MP3.mp3" type="audio/mpeg" length="78509997"></enclosure>
+      <itunes:title>Tara Lina uten pappa</itunes:title>
+      <itunes:summary>Taras største frykt var å miste en av foreldrene, og så døde faren. </itunes:summary>
+      <itunes:duration>3271</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/M3ryB7Lc-I7Ps-CbULAThg61PbuJ4jwEJ49kfYpI3PbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Steinar Klouman Hallert og haiangrepet </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_cbc29793-d3a6-4d13-8297-93d3a60d13a1</link>
+      <description>Går det an å dø av å ikke tørre å si fra? Ja, det viser seg det. </description>
+      <guid isPermaLink="false">l_cbc29793-d3a6-4d13-8297-93d3a60d13a1</guid>
+      <pubDate>Mon, 21 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/4bfde7d9-63b8-420b-a84b-a1842994a1c0_0_ID192MP3.mp3" type="audio/mpeg" length="92290797"></enclosure>
+      <itunes:title>Steinar Klouman Hallert og haiangrepet </itunes:title>
+      <itunes:summary>Går det an å dø av å ikke tørre å si fra? Ja, det viser seg det. </itunes:summary>
+      <itunes:duration>3845</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5zg8ILNZGcfIXu-1CzwehAZrHL2hMMEzhXRck5FHfbLQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tore Sagen og meningen med livet </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_118f953e-75c6-4fcd-8f95-3e75c6bfcde0</link>
+      <description>En lite livredd Tore og møtet med legen med Hawaiiskjorte. Og en irriterende mening med livet. </description>
+      <guid isPermaLink="false">l_118f953e-75c6-4fcd-8f95-3e75c6bfcde0</guid>
+      <pubDate>Mon, 14 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/204d8e0e-5ef9-4597-8521-4bd066e529a0_0_ID192MP3.mp3" type="audio/mpeg" length="81624429"></enclosure>
+      <itunes:title>Tore Sagen og meningen med livet </itunes:title>
+      <itunes:summary>En lite livredd Tore og møtet med legen med Hawaiiskjorte. Og en irriterende mening med livet. </itunes:summary>
+      <itunes:duration>3400</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jQ-yTCU2wuxyEBi4AWTOvA6uBOW47TgivUqLwoog0TAA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dævva spesial: Nora Svenningsen</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_123bce51-badd-43db-bbce-51baddb3db48</link>
+      <description>Hvis terroralarmen går på skolen, føles det bedre om man får uønsket særbehandling? </description>
+      <guid isPermaLink="false">l_123bce51-badd-43db-bbce-51baddb3db48</guid>
+      <pubDate>Mon, 07 Aug 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2a3c284b-203a-4be7-a81d-e99f6e8c2f02_0_ID192MP3.mp3" type="audio/mpeg" length="35270253"></enclosure>
+      <itunes:title>Dævva spesial: Nora Svenningsen</itunes:title>
+      <itunes:summary>Hvis terroralarmen går på skolen, føles det bedre om man får uønsket særbehandling? </itunes:summary>
+      <itunes:duration>1469</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uuHF2VtAgI-qROV7HHag2wl7SuJFUHjz1Pzm3uirDvxw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dævva spesial: Live Nelvik</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_edcc2b1f-138a-4772-8c2b-1f138a17727f</link>
+      <description>Telles hvithai i VR som en nær døden-opplevelse? Egentlig? </description>
+      <guid isPermaLink="false">l_edcc2b1f-138a-4772-8c2b-1f138a17727f</guid>
+      <pubDate>Mon, 31 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/787e4de4-9bbc-46af-ae3b-d76999b9f168_0_ID192MP3.mp3" type="audio/mpeg" length="55623213"></enclosure>
+      <itunes:title>Dævva spesial: Live Nelvik</itunes:title>
+      <itunes:summary>Telles hvithai i VR som en nær døden-opplevelse? Egentlig? </itunes:summary>
+      <itunes:duration>2317</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yVjKv15u-iWuXIEOvKZ7ow6iByQbmKwC9sUEPoXjKEpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dævva spesial: Dag Sørås</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_33926422-dae5-487c-9264-22dae5087cff</link>
+      <description>Hva skal til for å nesten bli likvidert av en gjeng soldater som ikke liker vitsen din? </description>
+      <guid isPermaLink="false">l_33926422-dae5-487c-9264-22dae5087cff</guid>
+      <pubDate>Mon, 24 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2d4f8387-ad61-4b31-b926-cfb3f315f905_0_ID192MP3.mp3" type="audio/mpeg" length="40781421"></enclosure>
+      <itunes:title>Dævva spesial: Dag Sørås</itunes:title>
+      <itunes:summary>Hva skal til for å nesten bli likvidert av en gjeng soldater som ikke liker vitsen din? </itunes:summary>
+      <itunes:duration>1699</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/N5TfH90JB1GaoxriIfXJ6wQjwiWpnWrHrYZ_LzDBrEZA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dævva spesial: Markus Neby</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_be0ab8e7-6fda-47c1-8ab8-e76fda17c127</link>
+      <description>Hvor mange avlivingssprøyter kan en liten, men litt for stor kropp tåle da? </description>
+      <guid isPermaLink="false">l_be0ab8e7-6fda-47c1-8ab8-e76fda17c127</guid>
+      <pubDate>Mon, 17 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/e2b0e9a8-3225-4588-be61-6679629848d0_0_ID192MP3.mp3" type="audio/mpeg" length="41272173"></enclosure>
+      <itunes:title>Dævva spesial: Markus Neby</itunes:title>
+      <itunes:summary>Hvor mange avlivingssprøyter kan en liten, men litt for stor kropp tåle da? </itunes:summary>
+      <itunes:duration>1719</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ub5A1vF0AemQBuCvlv9BeQh1TMw_naPNMc-NdoMeQl9A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dævva spesial: Henrik Farley</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_159fa4f1-bcdb-4173-9fa4-f1bcdb617374</link>
+      <description>Hvor lang tid tar det å tilgi familievennen som nesten lot ham drukne? </description>
+      <guid isPermaLink="false">l_159fa4f1-bcdb-4173-9fa4-f1bcdb617374</guid>
+      <pubDate>Mon, 10 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/c875c6f6-8c15-448a-85bd-14dee4f60bed_0_ID192MP3.mp3" type="audio/mpeg" length="43811181"></enclosure>
+      <itunes:title>Dævva spesial: Henrik Farley</itunes:title>
+      <itunes:summary>Hvor lang tid tar det å tilgi familievennen som nesten lot ham drukne? </itunes:summary>
+      <itunes:duration>1825</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/k-uHraJF4Z7m_t-ANsqJIgKd-EoxuQxTbFDKF3wpTCAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Cathrine Frost, &#34;litt som å dø&#34; </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_76061701-62b2-40d5-8617-0162b210d587</link>
+      <description>Cathrines fødsel gikk skikkelig til helvete, og man ser litt annerledes på livet etter å ha blitt delt i to. &#xA;</description>
+      <guid isPermaLink="false">l_76061701-62b2-40d5-8617-0162b210d587</guid>
+      <pubDate>Mon, 03 Jul 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/81fe9c89-bcb2-41da-9f4c-51eca1ad7fdc_0_ID192MP3.mp3" type="audio/mpeg" length="65813805"></enclosure>
+      <itunes:title>Cathrine Frost, &#34;litt som å dø&#34; </itunes:title>
+      <itunes:summary>Cathrines fødsel gikk skikkelig til helvete, og man ser litt annerledes på livet etter å ha blitt delt i to. &#xA;</itunes:summary>
+      <itunes:duration>2742</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2auvDY4wiyQ4EOkGFcT6QAKlES54V389N2Zi5qRaXt3g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Annika Momrak i fryseren</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_e0676a64-a17b-481e-a76a-64a17b581ecc</link>
+      <description>Annika gleder seg til å dø av ren nysgjerrighet, men vurderer å spare til evig liv. </description>
+      <guid isPermaLink="false">l_e0676a64-a17b-481e-a76a-64a17b581ecc</guid>
+      <pubDate>Mon, 26 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/4b0ef7f1-7366-436a-861d-485286181eee_0_ID192MP3.mp3" type="audio/mpeg" length="66965229"></enclosure>
+      <itunes:title>Annika Momrak i fryseren</itunes:title>
+      <itunes:summary>Annika gleder seg til å dø av ren nysgjerrighet, men vurderer å spare til evig liv. </itunes:summary>
+      <itunes:duration>2790</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iIRjSI72Uq12nr_3SuZu6gaUpv5nTz4qQT9xdZ0GWGlw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mikkel Niva, don&#39;t look him in the eyes</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_4902d5ac-782e-41e9-82d5-ac782e31e917</link>
+      <description>Mikkel Niva drar på safari i åpen bil uten våpen, men når han kommer hjem blir han dølle &#34;Per&#34;.  </description>
+      <guid isPermaLink="false">l_4902d5ac-782e-41e9-82d5-ac782e31e917</guid>
+      <pubDate>Mon, 19 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/2cf16059-fbd2-4ec0-b3fe-97e6ff482271_0_ID192MP3.mp3" type="audio/mpeg" length="81578925"></enclosure>
+      <itunes:title>Mikkel Niva, don&#39;t look him in the eyes</itunes:title>
+      <itunes:summary>Mikkel Niva drar på safari i åpen bil uten våpen, men når han kommer hjem blir han dølle &#34;Per&#34;.  </itunes:summary>
+      <itunes:duration>3399</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LSpPiepiEmsO6hGAIPf7Vgj2NKYYNf1SnPWnt3CXmHEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jonis Josefs dødsentusiasme</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_b32f5972-0413-49b4-af59-72041359b478</link>
+      <description>Jonis gleder seg mer over døden enn Martin hadde forutsett og det blir total uenighet om drømmen om evig liv. </description>
+      <guid isPermaLink="false">l_b32f5972-0413-49b4-af59-72041359b478</guid>
+      <pubDate>Mon, 12 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/5b55afbb-8690-48e6-8f10-9c929c7c892b_0_ID192MP3.mp3" type="audio/mpeg" length="67586733"></enclosure>
+      <itunes:title>Jonis Josefs dødsentusiasme</itunes:title>
+      <itunes:summary>Jonis gleder seg mer over døden enn Martin hadde forutsett og det blir total uenighet om drømmen om evig liv. </itunes:summary>
+      <itunes:duration>2816</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/soAGVJWGyIGcxuQJmqUjQwpZAymQ9l_BehkOTP14jeQw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jonas Bergland, på jobb med døden</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_8c468167-4d8b-49eb-8681-674d8bb9eb77</link>
+      <description>Hvordan er det best å overbringe et dødsbudskap? Og hvorfor vil Martin plutselig ha dr. Bergland som fastlege? </description>
+      <guid isPermaLink="false">l_8c468167-4d8b-49eb-8681-674d8bb9eb77</guid>
+      <pubDate>Mon, 05 Jun 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/caf5fb29-5a86-4350-861a-39aca2cdbc75_0_ID192MP3.mp3" type="audio/mpeg" length="84543597"></enclosure>
+      <itunes:title>Jonas Bergland, på jobb med døden</itunes:title>
+      <itunes:summary>Hvordan er det best å overbringe et dødsbudskap? Og hvorfor vil Martin plutselig ha dr. Bergland som fastlege? </itunes:summary>
+      <itunes:duration>3522</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fagCTkX4cNLk6R6WybF71QRgSauR4pUPUyMk5CNz3zEQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Espen Fadnes i fritt fall</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_29dba593-75da-4f24-9ba5-9375da4f2482</link>
+      <description>Espen lever av å kaste seg ut fra fjellvegger og har så mange nær døden-opplevelser at det er vanskelig å velge. Møt verdens raskeste vingedraktflyger og Martins rake motsetning. </description>
+      <guid isPermaLink="false">l_29dba593-75da-4f24-9ba5-9375da4f2482</guid>
+      <pubDate>Mon, 29 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/114ac608-5204-4acb-83c7-01f3022103e0_0_ID192MP3.mp3" type="audio/mpeg" length="81051309"></enclosure>
+      <itunes:title>Espen Fadnes i fritt fall</itunes:title>
+      <itunes:summary>Espen lever av å kaste seg ut fra fjellvegger og har så mange nær døden-opplevelser at det er vanskelig å velge. Møt verdens raskeste vingedraktflyger og Martins rake motsetning. </itunes:summary>
+      <itunes:duration>3377</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dAD3VguOZMHcYsCgkRtnGwn_Zq1O2PKsISheLdpi2Qhw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fetishas spøkelser og hissige gangstere</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_0c788a08-fe64-45e2-b88a-08fe64f5e2a5</link>
+      <description>Fetisha Williams hadde ett spørsmål da frisørkunden rettet en pistol mot henne. </description>
+      <guid isPermaLink="false">l_0c788a08-fe64-45e2-b88a-08fe64f5e2a5</guid>
+      <pubDate>Mon, 22 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/7d9779b3-705f-4d21-a515-3d3015187691_0_ID192MP3.mp3" type="audio/mpeg" length="58198509"></enclosure>
+      <itunes:title>Fetishas spøkelser og hissige gangstere</itunes:title>
+      <itunes:summary>Fetisha Williams hadde ett spørsmål da frisørkunden rettet en pistol mot henne. </itunes:summary>
+      <itunes:duration>2424</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9xvQ1xogr2-jVlaSBEJ-GAOpECiB4xtarUiztyj4UyMg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Isahs hjerteklapp</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_2ab505cd-8b5e-4097-b505-cd8b5ee09786</link>
+      <description>Isah holdt ikke på å dø, det var &#34;bare&#34; angst. Og han tok noen uvanlige skritt for å bli kvitt den. </description>
+      <guid isPermaLink="false">l_2ab505cd-8b5e-4097-b505-cd8b5ee09786</guid>
+      <pubDate>Mon, 15 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/99c2933f-bfed-4afe-be32-b494cf99afab_0_ID192MP3.mp3" type="audio/mpeg" length="60994989"></enclosure>
+      <itunes:title>Isahs hjerteklapp</itunes:title>
+      <itunes:summary>Isah holdt ikke på å dø, det var &#34;bare&#34; angst. Og han tok noen uvanlige skritt for å bli kvitt den. </itunes:summary>
+      <itunes:duration>2541</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GEE0nnPi7me5OuMEBac6eA6y9fWjcRwsovV7V4PrVWew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ronny Brede Aase, levegutt og livsrealist</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_c5ba6fb5-cfad-4a01-ba6f-b5cfad4a01df</link>
+      <description>Finnes det et mørke selv i en av Norges gladeste menn? </description>
+      <guid isPermaLink="false">l_c5ba6fb5-cfad-4a01-ba6f-b5cfad4a01df</guid>
+      <pubDate>Mon, 08 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/9a5cb0c0-47c6-434e-a8cf-6d736d694cdb_0_ID192MP3.mp3" type="audio/mpeg" length="66316653"></enclosure>
+      <itunes:title>Ronny Brede Aase, levegutt og livsrealist</itunes:title>
+      <itunes:summary>Finnes det et mørke selv i en av Norges gladeste menn? </itunes:summary>
+      <itunes:duration>2763</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aiSJ-WrFpXaroYJ7JDCRRAhrSpyxpWTlwQj21TWK7mOg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tinashe Williamson, tvilling og talemelding</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_3701fde9-e4de-4673-81fd-e9e4dea67321</link>
+      <description>Hun ble spådd en brå og brutal død og lurer på om hun er tvillingmorder. </description>
+      <guid isPermaLink="false">l_3701fde9-e4de-4673-81fd-e9e4dea67321</guid>
+      <pubDate>Mon, 01 May 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/5ea3364f-67d2-4a40-a6c9-21841da5b7d6_0_ID192MP3.mp3" type="audio/mpeg" length="54864045"></enclosure>
+      <itunes:title>Tinashe Williamson, tvilling og talemelding</itunes:title>
+      <itunes:summary>Hun ble spådd en brå og brutal død og lurer på om hun er tvillingmorder. </itunes:summary>
+      <itunes:duration>2285</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CDmSfARcOS4TOpIbVDM3dwZd5lTgQwGB1byY7ZaYbdkg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Eirik Krokås og hjelpetelefonen</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_f95e6d50-e3eb-41d9-9e6d-50e3ebc1d9b3</link>
+      <description>Komiker Eirik Krokås var kokain - og spilleavhengig og ville ta sitt eget liv. En telefonsamtale endret alt. &#xA;Trenger du noen å snakke med? Mental helses hjelpetelefon: 116 123. RUSinfo: 915 08 588. Hjelpelinjen for spilleavhengige: 800 800 40. </description>
+      <guid isPermaLink="false">l_f95e6d50-e3eb-41d9-9e6d-50e3ebc1d9b3</guid>
+      <pubDate>Mon, 24 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/96aec025-7807-43f4-b679-1acc7a7d8d9e_0_ID192MP3.mp3" type="audio/mpeg" length="62034669"></enclosure>
+      <itunes:title>Eirik Krokås og hjelpetelefonen</itunes:title>
+      <itunes:summary>Komiker Eirik Krokås var kokain - og spilleavhengig og ville ta sitt eget liv. En telefonsamtale endret alt. &#xA;Trenger du noen å snakke med? Mental helses hjelpetelefon: 116 123. RUSinfo: 915 08 588. Hjelpelinjen for spilleavhengige: 800 800 40. </itunes:summary>
+      <itunes:duration>2584</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zC0Q-3w9XZCmFbEGLMVIVQF12_4xc8Dw-d0Z4MYJT-Ag"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bjørn Eidsvågs Hubba Bubba-liv</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_22cbeb13-ce0a-4b1a-8beb-13ce0a0b1a2a</link>
+      <description>Hvordan blir begravelsen til mannen som har skrevet landets mest populære begravelsessang? (Bortsett fra tung rødvin til alle.)</description>
+      <guid isPermaLink="false">l_22cbeb13-ce0a-4b1a-8beb-13ce0a0b1a2a</guid>
+      <pubDate>Mon, 17 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/b4b2d065-881c-491c-8317-b58d10cd3be0_0_ID192MP3.mp3" type="audio/mpeg" length="62576685"></enclosure>
+      <itunes:title>Bjørn Eidsvågs Hubba Bubba-liv</itunes:title>
+      <itunes:summary>Hvordan blir begravelsen til mannen som har skrevet landets mest populære begravelsessang? (Bortsett fra tung rødvin til alle.)</itunes:summary>
+      <itunes:duration>2607</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uXJXGTIN3Ns-SmJFN-N3eAGG8ecRD1SAs14q3EvEZO6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Linnéa Myhres berg-og-dalbane</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_8af1c332-b9c8-41eb-b1c3-32b9c871ebef</link>
+      <description>Linnéa har vært litt for nære døden og er foreløpig vinner av apokalypsen. </description>
+      <guid isPermaLink="false">l_8af1c332-b9c8-41eb-b1c3-32b9c871ebef</guid>
+      <pubDate>Mon, 10 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/d7296942-c608-4fda-b83f-81b9b60f4703_0_ID192MP3.mp3" type="audio/mpeg" length="60898797"></enclosure>
+      <itunes:title>Linnéa Myhres berg-og-dalbane</itunes:title>
+      <itunes:summary>Linnéa har vært litt for nære døden og er foreløpig vinner av apokalypsen. </itunes:summary>
+      <itunes:duration>2537</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TvkIGrVA0AScOXLGFIivgg_x7Zj-gPe9nOkFpDcc9wEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tor-Håkon Håvardsen, begravelsesagenten </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_e4cba193-99fc-4444-8ba1-9399fc144437</link>
+      <description>Om hva som skjer med oss etter døden, hvorfor man ikke bør dø på varmekabler, om kistebunnen som ga etter og utrolige historier fra et liv med de døde. Med landets mest tatoverte og triveligste begravelsesagent, Tor-Håkon Gabriel Håvardsen. </description>
+      <guid isPermaLink="false">l_e4cba193-99fc-4444-8ba1-9399fc144437</guid>
+      <pubDate>Mon, 03 Apr 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/a0ae162a-13d2-41c3-99e9-aee829e4bb4d_0_ID192MP3.mp3" type="audio/mpeg" length="73483245"></enclosure>
+      <itunes:title>Tor-Håkon Håvardsen, begravelsesagenten </itunes:title>
+      <itunes:summary>Om hva som skjer med oss etter døden, hvorfor man ikke bør dø på varmekabler, om kistebunnen som ga etter og utrolige historier fra et liv med de døde. Med landets mest tatoverte og triveligste begravelsesagent, Tor-Håkon Gabriel Håvardsen. </itunes:summary>
+      <itunes:duration>3061</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1ODY4eQoSfqoBlPHztKoYQbnBijDdUpUeZP420PcveIg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sigrid Bonde Tusvik - for travel til å dø </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_f946a2b7-dfa0-4c64-86a2-b7dfa0bc64eb</link>
+      <description>Martin har på en måte nesten dødd siden sist, Sigrid vil faen ikke dø og vil helst slippe å bære kister. Bonustelefon til redningsmannen fra klamydiadammen! </description>
+      <guid isPermaLink="false">l_f946a2b7-dfa0-4c64-86a2-b7dfa0bc64eb</guid>
+      <pubDate>Mon, 27 Mar 2023 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/481f74e5-fb67-47a3-81ff-0fbc71ae1851_0_ID192MP3.mp3" type="audio/mpeg" length="79799085"></enclosure>
+      <itunes:title>Sigrid Bonde Tusvik - for travel til å dø </itunes:title>
+      <itunes:summary>Martin har på en måte nesten dødd siden sist, Sigrid vil faen ikke dø og vil helst slippe å bære kister. Bonustelefon til redningsmannen fra klamydiadammen! </itunes:summary>
+      <itunes:duration>3324</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0EIZqv4Lpt7AI5fBTMg4TQpBdStG2eS1SLuyng0kmQdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Odd-Magnus Williamson søker taksidermist </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_e1da3914-ef5b-463e-9a39-14ef5b763e42</link>
+      <description>Han er mer redd for baksmell på skatten enn for døden, men skulle gjerne hatt en pumpehagle til å forsvare seg med. Just in case. </description>
+      <guid isPermaLink="false">l_e1da3914-ef5b-463e-9a39-14ef5b763e42</guid>
+      <pubDate>Mon, 20 Mar 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/e3dd15a2-0f06-454b-a0f6-8378ec326836_0_ID192MP3.mp3" type="audio/mpeg" length="62171181"></enclosure>
+      <itunes:title>Odd-Magnus Williamson søker taksidermist </itunes:title>
+      <itunes:summary>Han er mer redd for baksmell på skatten enn for døden, men skulle gjerne hatt en pumpehagle til å forsvare seg med. Just in case. </itunes:summary>
+      <itunes:duration>2590</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8OHkwYyZ29SdxteYR0SU5Ajn8fV4d7ipuXVBrm3BkU6A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ramon, scenefall og livets bananbrød</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_7ae5efa8-5a3a-4c7c-a5ef-a85a3a9c7c9f</link>
+      <description>Ramon har oppdaget at verden ikke er så farlig. Kan han omvende angstfylte Martin? </description>
+      <guid isPermaLink="false">l_7ae5efa8-5a3a-4c7c-a5ef-a85a3a9c7c9f</guid>
+      <pubDate>Mon, 13 Mar 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/017e622e-623c-403f-ad10-13538831532f_0_ID192MP3.mp3" type="audio/mpeg" length="64623213"></enclosure>
+      <itunes:title>Ramon, scenefall og livets bananbrød</itunes:title>
+      <itunes:summary>Ramon har oppdaget at verden ikke er så farlig. Kan han omvende angstfylte Martin? </itunes:summary>
+      <itunes:duration>2692</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GtvgK_DgaBsNTYnyYo7I0wktS1JyWSlUHEFAOZRxBmug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Emilie Nicolas, hjernesvulst, klamydiadam</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_13fee2e4-5abb-4bf2-bee2-e45abbfbf228</link>
+      <description>Emilie var så nære døden at hun ikke er redd den lengre. Martin druknet nesten på Roskilde, uten at det hjalp på angsten. </description>
+      <guid isPermaLink="false">l_13fee2e4-5abb-4bf2-bee2-e45abbfbf228</guid>
+      <pubDate>Mon, 06 Mar 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/a736490c-e54d-4416-9065-6b595b37342b_0_ID192MP3.mp3" type="audio/mpeg" length="71392941"></enclosure>
+      <itunes:title>Emilie Nicolas, hjernesvulst, klamydiadam</itunes:title>
+      <itunes:summary>Emilie var så nære døden at hun ikke er redd den lengre. Martin druknet nesten på Roskilde, uten at det hjalp på angsten. </itunes:summary>
+      <itunes:duration>2974</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oaeOgGoXj_DHQjudzrEe1weTQRfLnDfq814ulNj3VkSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Galvan Mehidi - redd for livet</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_981bccb0-1813-4699-9bcc-b018132699b1</link>
+      <description>Uredd i krig, livredd trivielle hverdagsting og overraskende dårlig på å planlegge apokalypsen. </description>
+      <guid isPermaLink="false">l_981bccb0-1813-4699-9bcc-b018132699b1</guid>
+      <pubDate>Thu, 02 Mar 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/29401517-da88-46b2-abd0-af9cd6af927c_0_ID192MP3.mp3" type="audio/mpeg" length="65479725"></enclosure>
+      <itunes:title>Galvan Mehidi - redd for livet</itunes:title>
+      <itunes:summary>Uredd i krig, livredd trivielle hverdagsting og overraskende dårlig på å planlegge apokalypsen. </itunes:summary>
+      <itunes:duration>2728</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4qIV73bt28BhfQ-hA5d3xw0VStVFv9nQojBQIIZXs4MA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Martha Leivestad: JEG DØR! JEG DØR! </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_33a63054-40e9-4530-a630-5440e9c530cd</link>
+      <description>Martin blir satt ut av Marthas siste måltid og strenge holdning til død. Inneholder spor av kjefting. </description>
+      <guid isPermaLink="false">l_33a63054-40e9-4530-a630-5440e9c530cd</guid>
+      <pubDate>Mon, 27 Feb 2023 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/3fef5833-3a7b-453b-ae20-37cceb3c6f73_0_ID192MP3.mp3" type="audio/mpeg" length="57839085"></enclosure>
+      <itunes:title>Martha Leivestad: JEG DØR! JEG DØR! </itunes:title>
+      <itunes:summary>Martin blir satt ut av Marthas siste måltid og strenge holdning til død. Inneholder spor av kjefting. </itunes:summary>
+      <itunes:duration>2409</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/H-JmEimk4eQKE4ayapI5QgNwcu8SPt2DpKFpr147EDIQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Magnus Devold, kidnappet</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_1ba0f81e-edfe-4049-a0f8-1eedfef0490a</link>
+      <description>Hjertestarteren, mareritt i Tyrkia og verdens aller lengste kiste. &#xA;</description>
+      <guid isPermaLink="false">l_1ba0f81e-edfe-4049-a0f8-1eedfef0490a</guid>
+      <pubDate>Mon, 20 Feb 2023 06:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/4364411b-e251-4ce8-ba15-f76cab301861_0_ID192MP3.mp3" type="audio/mpeg" length="68884461"></enclosure>
+      <itunes:title>Magnus Devold, kidnappet</itunes:title>
+      <itunes:summary>Hjertestarteren, mareritt i Tyrkia og verdens aller lengste kiste. &#xA;</itunes:summary>
+      <itunes:duration>2870</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EoZ7Wdl8w1DfUaNUHetZLggzxlo4RUFtnOphi6_cq3WA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Linn Skåber i stormens øye</title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_03fac439-acf1-47c0-bac4-39acf127c05b</link>
+      <description>Begravelseskontrakt på nachspiel, nesten død med Ine Jansen og to trelitere ved kista, takk! </description>
+      <guid isPermaLink="false">l_03fac439-acf1-47c0-bac4-39acf127c05b</guid>
+      <pubDate>Mon, 20 Feb 2023 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/e995d639-d797-4c0e-8a1d-07ffbeb9b30d_0_ID192MP3.mp3" type="audio/mpeg" length="74812653"></enclosure>
+      <itunes:title>Linn Skåber i stormens øye</itunes:title>
+      <itunes:summary>Begravelseskontrakt på nachspiel, nesten død med Ine Jansen og to trelitere ved kista, takk! </itunes:summary>
+      <itunes:duration>3117</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/y5Eb3GKfCGru_rRJb1EGzgQknQMZlAjXcKlvyE6v1tXw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>En humorpodkast om døden - premiere 20.februar! </title>
+      <link>https://radio.nrk.no/podkast/kladden_har_daevva/l_b771b4ca-1fd6-4761-b1b4-ca1fd667614a</link>
+      <description>Martin Lepperød har dødsangst og han trenger å prate om det. Bli litt mindre (eller kanskje litt mer?) redd for døden sammen med oss! Premiere 20.februar. </description>
+      <guid isPermaLink="false">l_b771b4ca-1fd6-4761-b1b4-ca1fd667614a</guid>
+      <pubDate>Mon, 13 Feb 2023 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kladden_har_daevva/f2c053f2-5713-42e7-900d-8d88397bdd69_0_ID192MP3.mp3" type="audio/mpeg" length="963693"></enclosure>
+      <itunes:title>En humorpodkast om døden - premiere 20.februar! </itunes:title>
+      <itunes:summary>Martin Lepperød har dødsangst og han trenger å prate om det. Bli litt mindre (eller kanskje litt mer?) redd for døden sammen med oss! Premiere 20.februar. </itunes:summary>
+      <itunes:duration>40</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wVOOqaY5LBgcT3yMFAAAGQWskgB5pJviy8WT4JIoCYTA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

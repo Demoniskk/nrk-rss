@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gal &amp; genial</title>
+    <link>https://radio.nrk.no/podkast/gal_og_genial</link>
+    <description>Våre største genier var noen skikkelige raringer. I Gal &amp; genial boltrer vi oss i genistrekene OG raritetene til historiens smarteste folk!</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Tue, 11 Oct 2022 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/gal_og_genial.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Våre største genier var noen skikkelige raringer. I Gal &amp; genial boltrer vi oss i genistrekene OG raritetene til historiens smarteste folk!</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg"></itunes:image>
+    <itunes:category text="History"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg</url>
+      <title>Gal &amp; genial</title>
+      <link>https://radio.nrk.no/podkast/gal_og_genial</link>
+    </image>
+    <item>
+      <title>Nikola Tesla &amp; spenningskrigen</title>
+      <link>https://radio.nrk.no/podkast/gal_og_genial/l_7ca46b83-d445-4fba-a46b-83d445cfba8c</link>
+      <description>Dette er historien om det elektriske geniet som bodde på hotell halve livet, hadde kreative superkrefter og forelska seg i ei due!</description>
+      <guid isPermaLink="false">l_7ca46b83-d445-4fba-a46b-83d445cfba8c</guid>
+      <pubDate>Tue, 11 Oct 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/1791ad62-e40c-4e86-99f1-0c61f15eaabc_0_ID192MP3.mp3" type="audio/mpeg" length="46963629"></enclosure>
+      <itunes:title>Nikola Tesla &amp; spenningskrigen</itunes:title>
+      <itunes:summary>Dette er historien om det elektriske geniet som bodde på hotell halve livet, hadde kreative superkrefter og forelska seg i ei due!</itunes:summary>
+      <itunes:duration>1956</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2022">202210</podcast:season>
+    </item>
+    <item>
+      <title>Tycho Brahe &amp; det astronomiske partylivet</title>
+      <link>https://radio.nrk.no/podkast/gal_og_genial/l_facbc02c-0d76-4c81-8bc0-2c0d76ac81d6</link>
+      <description>Dette er historien om astronomen som fant opp den vitenskapelige metode og hadde en elg som kjæledyr!</description>
+      <guid isPermaLink="false">l_facbc02c-0d76-4c81-8bc0-2c0d76ac81d6</guid>
+      <pubDate>Tue, 04 Oct 2022 16:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/e73d9eaa-5031-4da8-ad57-1840f49eb9b6_0_ID192MP3.mp3" type="audio/mpeg" length="41374125"></enclosure>
+      <itunes:title>Tycho Brahe &amp; det astronomiske partylivet</itunes:title>
+      <itunes:summary>Dette er historien om astronomen som fant opp den vitenskapelige metode og hadde en elg som kjæledyr!</itunes:summary>
+      <itunes:duration>1723</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2022">202210</podcast:season>
+    </item>
+    <item>
+      <title>Jane Goodall &amp; livet med apene</title>
+      <link>https://radio.nrk.no/podkast/gal_og_genial/l_d1ebb1e1-6890-4b56-abb1-e168902b567f</link>
+      <description>Dette er historien om kvinnen som ble forsker ved en tilfeldighet og revolusjonerte vår oppfatning av sjimpanser</description>
+      <guid isPermaLink="false">l_d1ebb1e1-6890-4b56-abb1-e168902b567f</guid>
+      <pubDate>Tue, 27 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/e65f328e-82bb-44ef-9af6-a0d20b9ffa1a_0_ID192MP3.mp3" type="audio/mpeg" length="41556717"></enclosure>
+      <itunes:title>Jane Goodall &amp; livet med apene</itunes:title>
+      <itunes:summary>Dette er historien om kvinnen som ble forsker ved en tilfeldighet og revolusjonerte vår oppfatning av sjimpanser</itunes:summary>
+      <itunes:duration>1731</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2022">202209</podcast:season>
+    </item>
+    <item>
+      <title>Thor Heyerdahl &amp; de ni livene</title>
+      <link>https://radio.nrk.no/podkast/gal_og_genial/l_faad0a66-f575-42eb-ad0a-66f575b2eb7a</link>
+      <description>Dette er historien om tidenes mest kjente nordmann, som utfordret vitenskapen og krysset verdenshavene!</description>
+      <guid isPermaLink="false">l_faad0a66-f575-42eb-ad0a-66f575b2eb7a</guid>
+      <pubDate>Tue, 20 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/41db05ab-73c6-442d-b20b-9df50bfc4f6d_0_ID192MP3.mp3" type="audio/mpeg" length="58208877"></enclosure>
+      <itunes:title>Thor Heyerdahl &amp; de ni livene</itunes:title>
+      <itunes:summary>Dette er historien om tidenes mest kjente nordmann, som utfordret vitenskapen og krysset verdenshavene!</itunes:summary>
+      <itunes:duration>2425</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2022">202209</podcast:season>
+    </item>
+    <item>
+      <title>Ada Lovelace &amp; den første datakoden</title>
+      <link>https://radio.nrk.no/podkast/gal_og_genial/l_6d627019-fdd3-41ef-a270-19fdd381efc5</link>
+      <description>Dette er historien om verdens første datamaskin, tenkt ut for 180 år siden!</description>
+      <guid isPermaLink="false">l_6d627019-fdd3-41ef-a270-19fdd381efc5</guid>
+      <pubDate>Tue, 13 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/57d162cf-d31f-430c-b742-c5c94faeab10_0_ID192MP3.mp3" type="audio/mpeg" length="42337773"></enclosure>
+      <itunes:title>Ada Lovelace &amp; den første datakoden</itunes:title>
+      <itunes:summary>Dette er historien om verdens første datamaskin, tenkt ut for 180 år siden!</itunes:summary>
+      <itunes:duration>1764</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2022">202209</podcast:season>
+    </item>
+    <item>
+      <title>John Stapp &amp; de livsfarlige g-kreftene</title>
+      <link>https://radio.nrk.no/podkast/gal_og_genial/l_29c3767b-4cba-4b06-8376-7b4cbadb0660</link>
+      <description>Dette er historien om landjordas raskeste mann, som satte livet på spill for å forske på g-krefter!</description>
+      <guid isPermaLink="false">l_29c3767b-4cba-4b06-8376-7b4cbadb0660</guid>
+      <pubDate>Tue, 06 Sep 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/fbf35da1-0254-4d99-92cd-d52a5bf5487f_0_ID192MP3.mp3" type="audio/mpeg" length="37427949"></enclosure>
+      <itunes:title>John Stapp &amp; de livsfarlige g-kreftene</itunes:title>
+      <itunes:summary>Dette er historien om landjordas raskeste mann, som satte livet på spill for å forske på g-krefter!</itunes:summary>
+      <itunes:duration>1559</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2022">202209</podcast:season>
+    </item>
+    <item>
+      <title>Grigori Perelman &amp; det masete mattemiljøet</title>
+      <link>https://radio.nrk.no/podkast/gal_og_genial/l_7213b359-48b6-4760-93b3-5948b6576080</link>
+      <description>Dette er historien om mattegeniet som løste en milliongåte, nektet å ta imot pengene og forsvant! </description>
+      <guid isPermaLink="false">l_7213b359-48b6-4760-93b3-5948b6576080</guid>
+      <pubDate>Tue, 30 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/5b16ed54-6b98-4217-be98-ca0e85b2515f_0_ID192MP3.mp3" type="audio/mpeg" length="32003757"></enclosure>
+      <itunes:title>Grigori Perelman &amp; det masete mattemiljøet</itunes:title>
+      <itunes:summary>Dette er historien om mattegeniet som løste en milliongåte, nektet å ta imot pengene og forsvant! </itunes:summary>
+      <itunes:duration>1333</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2022">202208</podcast:season>
+    </item>
+    <item>
+      <title>Isaac Newton &amp; jakten på gull og evig liv</title>
+      <link>https://radio.nrk.no/podkast/gal_og_genial/l_31594605-4c51-47e5-9946-054c51e7e5e4</link>
+      <description>Dette er historien om fysikeren, matematikeren og den mislykka læreren som stakk nåler i øyet og brukte halve livet på alkymi!</description>
+      <guid isPermaLink="false">l_31594605-4c51-47e5-9946-054c51e7e5e4</guid>
+      <pubDate>Tue, 23 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/e03c1c91-5fe7-4b09-8616-d78c8ca39c97_0_ID192MP3.mp3" type="audio/mpeg" length="36332397"></enclosure>
+      <itunes:title>Isaac Newton &amp; jakten på gull og evig liv</itunes:title>
+      <itunes:summary>Dette er historien om fysikeren, matematikeren og den mislykka læreren som stakk nåler i øyet og brukte halve livet på alkymi!</itunes:summary>
+      <itunes:duration>1513</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2022">202208</podcast:season>
+    </item>
+    <item>
+      <title>Henry Cavendish &amp; den ekstreme blygheten</title>
+      <link>https://radio.nrk.no/podkast/gal_og_genial/l_15396992-2b53-4119-b969-922b53d119ca</link>
+      <description>Dette er historien om geniet som gjorde så lite ut av seg at det tok 100 år før resten av verden ble klar over de viktige oppdagelsene hans</description>
+      <guid isPermaLink="false">l_15396992-2b53-4119-b969-922b53d119ca</guid>
+      <pubDate>Tue, 16 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/3af7eb42-a249-4eaa-9974-48c855ce8ab4_0_ID192MP3.mp3" type="audio/mpeg" length="34835373"></enclosure>
+      <itunes:title>Henry Cavendish &amp; den ekstreme blygheten</itunes:title>
+      <itunes:summary>Dette er historien om geniet som gjorde så lite ut av seg at det tok 100 år før resten av verden ble klar over de viktige oppdagelsene hans</itunes:summary>
+      <itunes:duration>1451</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2022">202208</podcast:season>
+    </item>
+    <item>
+      <title>Albert Einstein &amp; det store dameproblemet</title>
+      <link>https://radio.nrk.no/podkast/gal_og_genial/l_2d7062ca-8306-4461-b062-ca8306e4613b</link>
+      <description>Dette er historien om en notorisk skjørtejeger og legendarisk kreativ type som ikke kjørte bil eller vasket klær, men som forstod universet!</description>
+      <guid isPermaLink="false">l_2d7062ca-8306-4461-b062-ca8306e4613b</guid>
+      <pubDate>Tue, 16 Aug 2022 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/gal_og_genial/47db3c24-0a6c-4c51-bc67-268bf532d693_0_ID192MP3.mp3" type="audio/mpeg" length="48927213"></enclosure>
+      <itunes:title>Albert Einstein &amp; det store dameproblemet</itunes:title>
+      <itunes:summary>Dette er historien om en notorisk skjørtejeger og legendarisk kreativ type som ikke kjørte bil eller vasket klær, men som forstod universet!</itunes:summary>
+      <itunes:duration>2038</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bykzEgZfKWJXjNy5Z4-x-wfDQXq1UHjhKKeDb5Euqeqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2022">202208</podcast:season>
+    </item>
+  </channel>
+</rss>

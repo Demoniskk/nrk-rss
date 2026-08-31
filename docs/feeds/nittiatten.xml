@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nittiatten</title>
+    <link>https://radio.nrk.no/podkast/nittiatten</link>
+    <description>En humorpodkast med tromsøgutta Franky og Mo om å drømme stort – og tryne på veien.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Mon, 29 Jun 2026 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/nittiatten.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>En humorpodkast med tromsøgutta Franky og Mo om å drømme stort – og tryne på veien.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw</url>
+      <title>Nittiatten</title>
+      <link>https://radio.nrk.no/podkast/nittiatten</link>
+    </image>
+    <item>
+      <title>Hva er galt med å gå naken?</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_7966c460-153c-4ab2-a6c4-60153caab271</link>
+      <description>Mo flytter til vestkanten og Franky flytter til østkanten, og gutta avslører hvordan det egentlig har vært å bo med hverandre. Mo får kjørt seg!</description>
+      <guid isPermaLink="false">l_7966c460-153c-4ab2-a6c4-60153caab271</guid>
+      <pubDate>Mon, 29 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/7966c460-153c-4ab2-a6c4-60153caab271_1_ID192MP3.mp3" type="audio/mpeg" length="49397228"></enclosure>
+      <itunes:title>Hva er galt med å gå naken?</itunes:title>
+      <itunes:summary>Mo flytter til vestkanten og Franky flytter til østkanten, og gutta avslører hvordan det egentlig har vært å bo med hverandre. Mo får kjørt seg!</itunes:summary>
+      <itunes:duration>2058</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Abbo &amp; Amara på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_6745e96d-a064-41b7-85e9-6da064b1b71e</link>
+      <description>Abbo og Amara forteller om alt fra festivalopplevelser til kondom-angst på butikken. Og hva er guttas dummeste kjøp?</description>
+      <guid isPermaLink="false">l_6745e96d-a064-41b7-85e9-6da064b1b71e</guid>
+      <pubDate>Mon, 22 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/6745e96d-a064-41b7-85e9-6da064b1b71e_2_ID192MP3.mp3" type="audio/mpeg" length="40674860"></enclosure>
+      <itunes:title>Abbo &amp; Amara på besøk</itunes:title>
+      <itunes:summary>Abbo og Amara forteller om alt fra festivalopplevelser til kondom-angst på butikken. Og hva er guttas dummeste kjøp?</itunes:summary>
+      <itunes:duration>1694</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GDyVKgB8zF6cnd0_FDL_kAFV2ME5tNYIOIu1o4ekKv-A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Buzz Studio på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_9267d5f2-caa7-410f-a7d5-f2caa7f10fdf</link>
+      <description>Mo er ikke imponert over Martin Ødegaard, men hva tenker gutta fra Buzz Studio? Og en av dem har en annerledes VM-spådom.</description>
+      <guid isPermaLink="false">l_9267d5f2-caa7-410f-a7d5-f2caa7f10fdf</guid>
+      <pubDate>Mon, 15 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/9267d5f2-caa7-410f-a7d5-f2caa7f10fdf_1_ID192MP3.mp3" type="audio/mpeg" length="72955628"></enclosure>
+      <itunes:title>Buzz Studio på besøk</itunes:title>
+      <itunes:summary>Mo er ikke imponert over Martin Ødegaard, men hva tenker gutta fra Buzz Studio? Og en av dem har en annerledes VM-spådom.</itunes:summary>
+      <itunes:duration>3039</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VwDk9vv-yamkNMny5cNplQi2eLbJl0XIO2G8E3UIIGbg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Even Sjamel på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_48d5a4f7-9470-4009-95a4-f79470800947</link>
+      <description>TikTok-stjerne Even Sjamel om trusler som Haaland-lookalike og da han mistet lappen til dundrende syremusikk. &#xA;Gutta tar også den ukomfortable debatten om det egentlig er greit å tisse i dusjen.</description>
+      <guid isPermaLink="false">l_48d5a4f7-9470-4009-95a4-f79470800947</guid>
+      <pubDate>Mon, 08 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/48d5a4f7-9470-4009-95a4-f79470800947_1_ID192MP3.mp3" type="audio/mpeg" length="52563500"></enclosure>
+      <itunes:title>Even Sjamel på besøk</itunes:title>
+      <itunes:summary>TikTok-stjerne Even Sjamel om trusler som Haaland-lookalike og da han mistet lappen til dundrende syremusikk. &#xA;Gutta tar også den ukomfortable debatten om det egentlig er greit å tisse i dusjen.</itunes:summary>
+      <itunes:duration>2190</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9l6Wl45eaFrznXfphlGolQrwC382LHiBknCmRxZdIHcg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Big T på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_f2d9ceb4-8278-4ff8-99ce-b482789ff853</link>
+      <description>Fotballspilleren Big T ble stor på TikTok over natten og i «Nittiatten» blir han erklært kjendis. Hør om flausen da han ble benka foran mamma.</description>
+      <guid isPermaLink="false">l_f2d9ceb4-8278-4ff8-99ce-b482789ff853</guid>
+      <pubDate>Mon, 01 Jun 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/f2d9ceb4-8278-4ff8-99ce-b482789ff853_1_ID192MP3.mp3" type="audio/mpeg" length="30996908"></enclosure>
+      <itunes:title>Big T på besøk</itunes:title>
+      <itunes:summary>Fotballspilleren Big T ble stor på TikTok over natten og i «Nittiatten» blir han erklært kjendis. Hør om flausen da han ble benka foran mamma.</itunes:summary>
+      <itunes:duration>1291</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HnDiDDEY_iJQdNQ6WqL8OQjL7t2PUcB8nQXjQlrPknkw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ekstra large i Vietnam</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_3e31b3ab-6c67-448e-b1b3-ab6c67c48ed9</link>
+      <description>Gutta har vært på hver sin kaotiske ferie!&#xA;Hør om hvordan Mo ble fatshamet i Vietnam og hvorfor Frankie signerte sin egen dødsattest i Tyrkia.</description>
+      <guid isPermaLink="false">l_3e31b3ab-6c67-448e-b1b3-ab6c67c48ed9</guid>
+      <pubDate>Mon, 25 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/3e31b3ab-6c67-448e-b1b3-ab6c67c48ed9_1_ID192MP3.mp3" type="audio/mpeg" length="38965868"></enclosure>
+      <itunes:title>Ekstra large i Vietnam</itunes:title>
+      <itunes:summary>Gutta har vært på hver sin kaotiske ferie!&#xA;Hør om hvordan Mo ble fatshamet i Vietnam og hvorfor Frankie signerte sin egen dødsattest i Tyrkia.</itunes:summary>
+      <itunes:duration>1623</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kristine Arntzen på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_0335625a-5527-49a7-b562-5a5527d9a73e</link>
+      <description>– Jeg tømte Se og Hør-hylla! Kristine vil ikke være dama som melket kuer under fyllefest.</description>
+      <guid isPermaLink="false">l_0335625a-5527-49a7-b562-5a5527d9a73e</guid>
+      <pubDate>Mon, 18 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/0335625a-5527-49a7-b562-5a5527d9a73e_1_ID192MP3.mp3" type="audio/mpeg" length="61541036"></enclosure>
+      <itunes:title>Kristine Arntzen på besøk</itunes:title>
+      <itunes:summary>– Jeg tømte Se og Hør-hylla! Kristine vil ikke være dama som melket kuer under fyllefest.</itunes:summary>
+      <itunes:duration>2564</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1XoI9CdqTzIi0RW4EWshfwncanldDTJ3ca2B7m4gOsUA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Else Kåss Furuseth på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_022b4885-2dcc-4fd6-ab48-852dccffd6f3</link>
+      <description>Et lysende McDonald’s-skilt holdt på å drepe Else. &#xA;Franky og Mo sjekker ut om hun egentlig har rizz.</description>
+      <guid isPermaLink="false">l_022b4885-2dcc-4fd6-ab48-852dccffd6f3</guid>
+      <pubDate>Mon, 11 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/022b4885-2dcc-4fd6-ab48-852dccffd6f3_1_ID192MP3.mp3" type="audio/mpeg" length="46769516"></enclosure>
+      <itunes:title>Else Kåss Furuseth på besøk</itunes:title>
+      <itunes:summary>Et lysende McDonald’s-skilt holdt på å drepe Else. &#xA;Franky og Mo sjekker ut om hun egentlig har rizz.</itunes:summary>
+      <itunes:duration>1948</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/r9mP48rYt_6QI66BQJIyGwCT1axoJPXiCcpxczY3aj0A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>YLVA på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_cfe29e94-37c1-4213-a29e-9437c17213d8</link>
+      <description>YLVA har med seg en pendel som spår Mo i bryllup og Frankie i luksusfellen</description>
+      <guid isPermaLink="false">l_cfe29e94-37c1-4213-a29e-9437c17213d8</guid>
+      <pubDate>Mon, 04 May 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/cfe29e94-37c1-4213-a29e-9437c17213d8_2_ID192MP3.mp3" type="audio/mpeg" length="45925676"></enclosure>
+      <itunes:title>YLVA på besøk</itunes:title>
+      <itunes:summary>YLVA har med seg en pendel som spår Mo i bryllup og Frankie i luksusfellen</itunes:summary>
+      <itunes:duration>1913</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GQG3S_vbbDZ5UxtwkMt1SgkwHR5DU-bfa47vQm1Z-vrw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Erna Solberg på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_d22300d5-ea38-4bd6-a300-d5ea38bbd68f</link>
+      <description>Erna forteller om den gangen hun prøvde å dra en likestillingsvits i Iran og om det dummeste hun noensinne har kjøpt.</description>
+      <guid isPermaLink="false">l_d22300d5-ea38-4bd6-a300-d5ea38bbd68f</guid>
+      <pubDate>Mon, 27 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/d22300d5-ea38-4bd6-a300-d5ea38bbd68f_1_ID192MP3.mp3" type="audio/mpeg" length="49712300"></enclosure>
+      <itunes:title>Erna Solberg på besøk</itunes:title>
+      <itunes:summary>Erna forteller om den gangen hun prøvde å dra en likestillingsvits i Iran og om det dummeste hun noensinne har kjøpt.</itunes:summary>
+      <itunes:duration>2071</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/U780xdEWXh6fIAxah7AAlgq9OMp6hAqGlG-Bjx1AbsbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Odd-Magnus Williamson på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_ae1d5005-56d1-4da2-9d50-0556d17da2d2</link>
+      <description>Odda forteller om da han kjøpte leilighet i dundrende fylla og hvorfor han mener «alfa-menn» bare driver med lureri</description>
+      <guid isPermaLink="false">l_ae1d5005-56d1-4da2-9d50-0556d17da2d2</guid>
+      <pubDate>Mon, 20 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/ae1d5005-56d1-4da2-9d50-0556d17da2d2_1_ID192MP3.mp3" type="audio/mpeg" length="44698220"></enclosure>
+      <itunes:title>Odd-Magnus Williamson på besøk</itunes:title>
+      <itunes:summary>Odda forteller om da han kjøpte leilighet i dundrende fylla og hvorfor han mener «alfa-menn» bare driver med lureri</itunes:summary>
+      <itunes:duration>1862</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UjswOUaEvIglAHy0neHABQvTpVG5BFYm6jDZQKYlpFVQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nutritac på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_ad0892d4-1a17-42e3-8892-d41a1702e36e</link>
+      <description>Klinisk ernæringsfysiolog Christian Johnston svarer på alt om mat og trening. Hva er overvurdert og undervurdert?</description>
+      <guid isPermaLink="false">l_ad0892d4-1a17-42e3-8892-d41a1702e36e</guid>
+      <pubDate>Mon, 13 Apr 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/ad0892d4-1a17-42e3-8892-d41a1702e36e_1_ID192MP3.mp3" type="audio/mpeg" length="72535148"></enclosure>
+      <itunes:title>Nutritac på besøk</itunes:title>
+      <itunes:summary>Klinisk ernæringsfysiolog Christian Johnston svarer på alt om mat og trening. Hva er overvurdert og undervurdert?</itunes:summary>
+      <itunes:duration>3022</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/50w1SCsLruSXHfr4uays7wpt9nqF4NyrGsnqUIXjF_IQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ballinciaga på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_5d0929f6-e2c4-45ee-8929-f6e2c485ee18</link>
+      <description>Ballinciaga åpner opp om alt fra beefen med Helsedirektoratet til det dummeste de noensinne har kjøpt.</description>
+      <guid isPermaLink="false">l_5d0929f6-e2c4-45ee-8929-f6e2c485ee18</guid>
+      <pubDate>Mon, 30 Mar 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/5d0929f6-e2c4-45ee-8929-f6e2c485ee18_2_ID192MP3.mp3" type="audio/mpeg" length="42351020"></enclosure>
+      <itunes:title>Ballinciaga på besøk</itunes:title>
+      <itunes:summary>Ballinciaga åpner opp om alt fra beefen med Helsedirektoratet til det dummeste de noensinne har kjøpt.</itunes:summary>
+      <itunes:duration>1764</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WP-q5LiIq-lb1N0ifScXJA1V5x7viWi-NYs6--Mfa5Pg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nate Kahungu på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_5fefd9c1-2f77-4b3c-afd9-c12f771b3c1f</link>
+      <description>Programlederen fra Ville fristelser er gjest og avslører sin liste over topp tre «white girl»-låter.</description>
+      <guid isPermaLink="false">l_5fefd9c1-2f77-4b3c-afd9-c12f771b3c1f</guid>
+      <pubDate>Mon, 23 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/5fefd9c1-2f77-4b3c-afd9-c12f771b3c1f_1_ID192MP3.mp3" type="audio/mpeg" length="56169260"></enclosure>
+      <itunes:title>Nate Kahungu på besøk</itunes:title>
+      <itunes:summary>Programlederen fra Ville fristelser er gjest og avslører sin liste over topp tre «white girl»-låter.</itunes:summary>
+      <itunes:duration>2340</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yx_kb6kzLaUKBzxVEhGvXQAyF5lZyxGJe8QxE76aAVtw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tara Lina på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_7f29d22f-80b2-4be0-a9d2-2f80b26be00f</link>
+      <description>Dronninga av «Med all respekt» er gjest – og forteller hvordan hun endte opp med en romaskin som snackbord.</description>
+      <guid isPermaLink="false">l_7f29d22f-80b2-4be0-a9d2-2f80b26be00f</guid>
+      <pubDate>Mon, 16 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/7f29d22f-80b2-4be0-a9d2-2f80b26be00f_1_ID192MP3.mp3" type="audio/mpeg" length="64538540"></enclosure>
+      <itunes:title>Tara Lina på besøk</itunes:title>
+      <itunes:summary>Dronninga av «Med all respekt» er gjest – og forteller hvordan hun endte opp med en romaskin som snackbord.</itunes:summary>
+      <itunes:duration>2689</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BM8JuSclHVtPm2I1aKgRuA5PQVDQ1P3hIijwLQIm9qbQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Marcus og Martinus på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_e14cb793-7422-4cf0-8cb7-937422ecf044</link>
+      <description>Marcus og Martinus snakker om alt fra ungdomstid til fotball, og en av dem røper at han fikk sitt første kyss som 19-åring.</description>
+      <guid isPermaLink="false">l_e14cb793-7422-4cf0-8cb7-937422ecf044</guid>
+      <pubDate>Mon, 09 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/e14cb793-7422-4cf0-8cb7-937422ecf044_1_ID192MP3.mp3" type="audio/mpeg" length="73867436"></enclosure>
+      <itunes:title>Marcus og Martinus på besøk</itunes:title>
+      <itunes:summary>Marcus og Martinus snakker om alt fra ungdomstid til fotball, og en av dem røper at han fikk sitt første kyss som 19-åring.</itunes:summary>
+      <itunes:duration>3077</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_XecveiPmp2T8euFNEW0GAxxEkGkgaDoLrIFYYvTQgiA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Morten Thoresen på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_b9420e57-2123-4dd5-820e-5721235dd509</link>
+      <description>Bryter&#39;n uten fortenner er gjest, og Franky og Mo lurer på om kroppen hans egentlig tåler mer.</description>
+      <guid isPermaLink="false">l_b9420e57-2123-4dd5-820e-5721235dd509</guid>
+      <pubDate>Mon, 02 Mar 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/b9420e57-2123-4dd5-820e-5721235dd509_2_ID192MP3.mp3" type="audio/mpeg" length="43828460"></enclosure>
+      <itunes:title>Morten Thoresen på besøk</itunes:title>
+      <itunes:summary>Bryter&#39;n uten fortenner er gjest, og Franky og Mo lurer på om kroppen hans egentlig tåler mer.</itunes:summary>
+      <itunes:duration>1826</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MGIGp43bETP4Lq66siNZ_w4-DuiykUN3JPOKcqBIcRgw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ting som irriterer oss</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_e8127a8c-c075-42b9-927a-8cc075f2b98d</link>
+      <description>Frankie og Mo tar for seg alt fra irriterende søstre til maktsyke lærere, og Mo overrasker med innsideinfo fra da han jobbet i kundeservice.</description>
+      <guid isPermaLink="false">l_e8127a8c-c075-42b9-927a-8cc075f2b98d</guid>
+      <pubDate>Mon, 23 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/e8127a8c-c075-42b9-927a-8cc075f2b98d_1_ID192MP3.mp3" type="audio/mpeg" length="31932908"></enclosure>
+      <itunes:title>Ting som irriterer oss</itunes:title>
+      <itunes:summary>Frankie og Mo tar for seg alt fra irriterende søstre til maktsyke lærere, og Mo overrasker med innsideinfo fra da han jobbet i kundeservice.</itunes:summary>
+      <itunes:duration>1330</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Sofie på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_f6570c89-9510-4197-970c-899510b19772</link>
+      <description>Hvem av Franky og Mo er best til å be noen ut på date? Sofie fra Unormal er nådeløs.</description>
+      <guid isPermaLink="false">l_f6570c89-9510-4197-970c-899510b19772</guid>
+      <pubDate>Mon, 16 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/f6570c89-9510-4197-970c-899510b19772_1_ID192MP3.mp3" type="audio/mpeg" length="54219500"></enclosure>
+      <itunes:title>Sofie på besøk</itunes:title>
+      <itunes:summary>Hvem av Franky og Mo er best til å be noen ut på date? Sofie fra Unormal er nådeløs.</itunes:summary>
+      <itunes:duration>2259</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oiFwkhavmC0d0V-acOaF5wcyBS2iog0zjl07pWwQOdMA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Musti på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_2a745b2f-cb3d-4691-b45b-2fcb3d569156</link>
+      <description>Musti deler en stor nyhet og forteller Franky og Mo om da hun fikk kjeft på Hver gang vi møtes.</description>
+      <guid isPermaLink="false">l_2a745b2f-cb3d-4691-b45b-2fcb3d569156</guid>
+      <pubDate>Mon, 09 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/2a745b2f-cb3d-4691-b45b-2fcb3d569156_1_ID192MP3.mp3" type="audio/mpeg" length="59879276"></enclosure>
+      <itunes:title>Musti på besøk</itunes:title>
+      <itunes:summary>Musti deler en stor nyhet og forteller Franky og Mo om da hun fikk kjeft på Hver gang vi møtes.</itunes:summary>
+      <itunes:duration>2494</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/XTtZW4W-DoGQN24WTQsM1g8VNCLLYuGtOD0Dzw1i-SNg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Viggo Venn på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_0b38709b-503a-4b3d-b870-9b503a2b3dbe</link>
+      <description>Viggo Venn sjokkerer Franky og Mo med klovnelivet, og hvordan fungerer egentlig klovne-sex?</description>
+      <guid isPermaLink="false">l_0b38709b-503a-4b3d-b870-9b503a2b3dbe</guid>
+      <pubDate>Mon, 02 Feb 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/0b38709b-503a-4b3d-b870-9b503a2b3dbe_1_ID192MP3.mp3" type="audio/mpeg" length="44381420"></enclosure>
+      <itunes:title>Viggo Venn på besøk</itunes:title>
+      <itunes:summary>Viggo Venn sjokkerer Franky og Mo med klovnelivet, og hvordan fungerer egentlig klovne-sex?</itunes:summary>
+      <itunes:duration>1849</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I3PVNRVoGBEpSwYvBBDXVgsdrs0-zmMV92dVV9o3_nMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Beathoven på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_86a0c817-dfca-46e9-a0c8-17dfca26e939</link>
+      <description>Beathoven om vennskap, mental helse og det nye hotellet</description>
+      <guid isPermaLink="false">l_86a0c817-dfca-46e9-a0c8-17dfca26e939</guid>
+      <pubDate>Mon, 26 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/86a0c817-dfca-46e9-a0c8-17dfca26e939_1_ID192MP3.mp3" type="audio/mpeg" length="36527660"></enclosure>
+      <itunes:title>Beathoven på besøk</itunes:title>
+      <itunes:summary>Beathoven om vennskap, mental helse og det nye hotellet</itunes:summary>
+      <itunes:duration>1521</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ygjxCaIkM9Q0_-k0z2eTAAPi6rFaGcGIAUBmnUB9DOKA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Simen Velle på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_b0d8a3d3-bd17-485c-98a3-d3bd17385c54</link>
+      <description>Simen Velle er gjest og kan melde at statsministeren er lættis og at Stortinget er som VGS 2.0</description>
+      <guid isPermaLink="false">l_b0d8a3d3-bd17-485c-98a3-d3bd17385c54</guid>
+      <pubDate>Mon, 19 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/b0d8a3d3-bd17-485c-98a3-d3bd17385c54_1_ID192MP3.mp3" type="audio/mpeg" length="52680428"></enclosure>
+      <itunes:title>Simen Velle på besøk</itunes:title>
+      <itunes:summary>Simen Velle er gjest og kan melde at statsministeren er lættis og at Stortinget er som VGS 2.0</itunes:summary>
+      <itunes:duration>2194</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Yt0ziuCGbACtH-f1dKiUowB3KdSbVZvyrXl-eMqoOEVA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kevin Kildal på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_83254ca7-10d5-471e-a54c-a710d5971eb6</link>
+      <description>Kevin Kildal snakker ut om fortiden som bygderasist og om hvorfor han har valgt å «snippe» sekken.</description>
+      <guid isPermaLink="false">l_83254ca7-10d5-471e-a54c-a710d5971eb6</guid>
+      <pubDate>Mon, 12 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/83254ca7-10d5-471e-a54c-a710d5971eb6_1_ID192MP3.mp3" type="audio/mpeg" length="53927468"></enclosure>
+      <itunes:title>Kevin Kildal på besøk</itunes:title>
+      <itunes:summary>Kevin Kildal snakker ut om fortiden som bygderasist og om hvorfor han har valgt å «snippe» sekken.</itunes:summary>
+      <itunes:duration>2246</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0Nnjzg35qCgfK65x9IHGFw6iY8hJR0Eebjj8pTIM8WmQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hallgeir Kvadsheim på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_88e93175-0425-4350-a931-7504253350c6</link>
+      <description>Nytt år! Dropp Klarna-fella og ta kontroll over pengene dine. Hallgeir viser deg hvordan du hacker økonomien</description>
+      <guid isPermaLink="false">l_88e93175-0425-4350-a931-7504253350c6</guid>
+      <pubDate>Mon, 05 Jan 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/88e93175-0425-4350-a931-7504253350c6_1_ID192MP3.mp3" type="audio/mpeg" length="52431020"></enclosure>
+      <itunes:title>Hallgeir Kvadsheim på besøk</itunes:title>
+      <itunes:summary>Nytt år! Dropp Klarna-fella og ta kontroll over pengene dine. Hallgeir viser deg hvordan du hacker økonomien</itunes:summary>
+      <itunes:duration>2184</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Y58-HzK_ZtzNwaxTQekYqgyI9kNLOh08IB1-z1eN15Kw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Abubakar Hussain på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_f2771044-0ee6-4645-b710-440ee6e64536</link>
+      <description>Abu mener Franky og Mo er heldige som har vokst opp i Tromsø, men hvor kommer de feteste utlendingene fra?</description>
+      <guid isPermaLink="false">l_f2771044-0ee6-4645-b710-440ee6e64536</guid>
+      <pubDate>Mon, 22 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/f2771044-0ee6-4645-b710-440ee6e64536_1_ID192MP3.mp3" type="audio/mpeg" length="38333996"></enclosure>
+      <itunes:title>Abubakar Hussain på besøk</itunes:title>
+      <itunes:summary>Abu mener Franky og Mo er heldige som har vokst opp i Tromsø, men hvor kommer de feteste utlendingene fra?</itunes:summary>
+      <itunes:duration>1597</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/egz_vhNlD8-dVQQ8K1xywg71WYzQ-apo93khcr_2a8oA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mathea Bjørndalen på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_b66c01f8-f814-46a1-ac01-f8f814b6a1fe</link>
+      <description>Mathea Bjørndalen er kjent for måten hun nyter bakst på TikTok. Hvem av Franky og Mo er best til å presentere en bolle på samme måte?</description>
+      <guid isPermaLink="false">l_b66c01f8-f814-46a1-ac01-f8f814b6a1fe</guid>
+      <pubDate>Mon, 15 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/b66c01f8-f814-46a1-ac01-f8f814b6a1fe_1_ID192MP3.mp3" type="audio/mpeg" length="45744236"></enclosure>
+      <itunes:title>Mathea Bjørndalen på besøk</itunes:title>
+      <itunes:summary>Mathea Bjørndalen er kjent for måten hun nyter bakst på TikTok. Hvem av Franky og Mo er best til å presentere en bolle på samme måte?</itunes:summary>
+      <itunes:duration>1905</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZUdnGpMMiLfY4HSwujzvbg0wG258Jc1a7l9lQLbO-XVw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva legger vi fra oss i 2025?</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_f9603860-29b2-4c11-a038-6029b25c118c</link>
+      <description>Franky og Mo diskuterer hva vi må legge fra oss i 2025, men hva tar de med seg inn i det nye året?</description>
+      <guid isPermaLink="false">l_f9603860-29b2-4c11-a038-6029b25c118c</guid>
+      <pubDate>Fri, 12 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/f9603860-29b2-4c11-a038-6029b25c118c_ID192MP3.mp3" type="audio/mpeg" length="38404268"></enclosure>
+      <itunes:title>Hva legger vi fra oss i 2025?</itunes:title>
+      <itunes:summary>Franky og Mo diskuterer hva vi må legge fra oss i 2025, men hva tar de med seg inn i det nye året?</itunes:summary>
+      <itunes:duration>1600</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Gucci Gaute på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_fc7c61cd-f5cb-4c2b-bc61-cdf5cb0c2b7e</link>
+      <description>Gaute Berg Næss er gjest, og Franky og Mo er nysgjerrige på humoren hans. Hvem vinner vitsekonkurransen der Gaute er dommer?</description>
+      <guid isPermaLink="false">l_fc7c61cd-f5cb-4c2b-bc61-cdf5cb0c2b7e</guid>
+      <pubDate>Mon, 08 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/fc7c61cd-f5cb-4c2b-bc61-cdf5cb0c2b7e_1_ID192MP3.mp3" type="audio/mpeg" length="35763308"></enclosure>
+      <itunes:title>Gucci Gaute på besøk</itunes:title>
+      <itunes:summary>Gaute Berg Næss er gjest, og Franky og Mo er nysgjerrige på humoren hans. Hvem vinner vitsekonkurransen der Gaute er dommer?</itunes:summary>
+      <itunes:duration>1490</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yuxXHK_vBBNf5nCrwIT5awdag8kxR2ZK7wJJgpR_VQ1Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Promp VS svette: Hvem vinner?</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_f01b529a-6ef5-40f8-9b52-9a6ef5d0f8ba</link>
+      <description>Franky og Mo havner i tidenes mest unødvendig, men seriøse lukt-duell.</description>
+      <guid isPermaLink="false">l_f01b529a-6ef5-40f8-9b52-9a6ef5d0f8ba</guid>
+      <pubDate>Fri, 05 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/f01b529a-6ef5-40f8-9b52-9a6ef5d0f8ba_1_ID192MP3.mp3" type="audio/mpeg" length="28112300"></enclosure>
+      <itunes:title>Promp VS svette: Hvem vinner?</itunes:title>
+      <itunes:summary>Franky og Mo havner i tidenes mest unødvendig, men seriøse lukt-duell.</itunes:summary>
+      <itunes:duration>1171</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Margrethe Røed på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_dffcbaa7-cba5-4e05-bcba-a7cba5ce05b6</link>
+      <description>Har Margrethe bannet i et barneprogram? Og vet hun hva «gyat» betyr? Franky, Mo og Margrethe bader i nostalgi.</description>
+      <guid isPermaLink="false">l_dffcbaa7-cba5-4e05-bcba-a7cba5ce05b6</guid>
+      <pubDate>Mon, 01 Dec 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/dffcbaa7-cba5-4e05-bcba-a7cba5ce05b6_1_ID192MP3.mp3" type="audio/mpeg" length="50367788"></enclosure>
+      <itunes:title>Margrethe Røed på besøk</itunes:title>
+      <itunes:summary>Har Margrethe bannet i et barneprogram? Og vet hun hva «gyat» betyr? Franky, Mo og Margrethe bader i nostalgi.</itunes:summary>
+      <itunes:duration>2098</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zOo1n11j3yYj1-ntqoCbmglXsSefO16HvlWPC83QKA5w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Nordmenn forvirrer oss</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_c511e103-d578-46a9-91e1-03d57846a9aa</link>
+      <description>Franky og Mo snakker om alt nordmenn gjør som de ikke får til å gi mening.</description>
+      <guid isPermaLink="false">l_c511e103-d578-46a9-91e1-03d57846a9aa</guid>
+      <pubDate>Fri, 28 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/c511e103-d578-46a9-91e1-03d57846a9aa_1_ID192MP3.mp3" type="audio/mpeg" length="38254508"></enclosure>
+      <itunes:title>Nordmenn forvirrer oss</itunes:title>
+      <itunes:summary>Franky og Mo snakker om alt nordmenn gjør som de ikke får til å gi mening.</itunes:summary>
+      <itunes:duration>1593</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Stian Blipp er på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_f33e20fa-6af5-42a3-be20-fa6af532a36b</link>
+      <description>Franky og Mo lurer på hvordan man blir Stian Blipp. Stian Blipp lurer på hva som foregår i hue til Mo ved pissoaret.</description>
+      <guid isPermaLink="false">l_f33e20fa-6af5-42a3-be20-fa6af532a36b</guid>
+      <pubDate>Mon, 24 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/f33e20fa-6af5-42a3-be20-fa6af532a36b_1_ID192MP3.mp3" type="audio/mpeg" length="50496236"></enclosure>
+      <itunes:title>Stian Blipp er på besøk</itunes:title>
+      <itunes:summary>Franky og Mo lurer på hvordan man blir Stian Blipp. Stian Blipp lurer på hva som foregår i hue til Mo ved pissoaret.</itunes:summary>
+      <itunes:duration>2103</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HChMXovDaDvTscw0tpkqCgbdpeMhg7mmoTVnooAHNM1Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>05 er gammel?!</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_dbbbd109-6eec-4a42-bbd1-096eecaa425d</link>
+      <description>Mo og Franky prøver å finne ut når man egentlig blir “gammel”, etter at et barn på TikTok mente at 05-kullet er godt voksen.</description>
+      <guid isPermaLink="false">l_dbbbd109-6eec-4a42-bbd1-096eecaa425d</guid>
+      <pubDate>Fri, 21 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/dbbbd109-6eec-4a42-bbd1-096eecaa425d_1_ID192MP3.mp3" type="audio/mpeg" length="35657900"></enclosure>
+      <itunes:title>05 er gammel?!</itunes:title>
+      <itunes:summary>Mo og Franky prøver å finne ut når man egentlig blir “gammel”, etter at et barn på TikTok mente at 05-kullet er godt voksen.</itunes:summary>
+      <itunes:duration>1485</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Snorre Rein er på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_361d52a0-d529-4a59-9d52-a0d529da593c</link>
+      <description>Snorre forteller om store klasseforskjeller i oppveksten, om Karpe-låten som ga ham lyst til å bli politiker, og om «beefen» med «Gutta».</description>
+      <guid isPermaLink="false">l_361d52a0-d529-4a59-9d52-a0d529da593c</guid>
+      <pubDate>Mon, 17 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/361d52a0-d529-4a59-9d52-a0d529da593c_1_ID192MP3.mp3" type="audio/mpeg" length="56825900"></enclosure>
+      <itunes:title>Snorre Rein er på besøk</itunes:title>
+      <itunes:summary>Snorre forteller om store klasseforskjeller i oppveksten, om Karpe-låten som ga ham lyst til å bli politiker, og om «beefen» med «Gutta».</itunes:summary>
+      <itunes:duration>2367</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pNgNpcmO3k7uXHtcILCe7Astu_f3cj6W0E25SIifjC1Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>EGOISTISK Å IKKE VIL HA BARN?</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_65c709a5-c297-460a-8709-a5c297d60aee</link>
+      <description>Mo drømmer om å bli pappa før 23, mens Franky planlegger å få barna sine til å tro at han er fattig.</description>
+      <guid isPermaLink="false">l_65c709a5-c297-460a-8709-a5c297d60aee</guid>
+      <pubDate>Fri, 14 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/65c709a5-c297-460a-8709-a5c297d60aee_1_ID192MP3.mp3" type="audio/mpeg" length="32272748"></enclosure>
+      <itunes:title>EGOISTISK Å IKKE VIL HA BARN?</itunes:title>
+      <itunes:summary>Mo drømmer om å bli pappa før 23, mens Franky planlegger å få barna sine til å tro at han er fattig.</itunes:summary>
+      <itunes:duration>1344</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>UG Loverboy på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_430a1d55-b2b1-459c-8a1d-55b2b1f59c41</link>
+      <description>Franky og Mo snakker med «Loverboy» fra Undergrunn om alt fra norsk rap til romvesen.</description>
+      <guid isPermaLink="false">l_430a1d55-b2b1-459c-8a1d-55b2b1f59c41</guid>
+      <pubDate>Mon, 10 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/430a1d55-b2b1-459c-8a1d-55b2b1f59c41_1_ID192MP3.mp3" type="audio/mpeg" length="40220396"></enclosure>
+      <itunes:title>UG Loverboy på besøk</itunes:title>
+      <itunes:summary>Franky og Mo snakker med «Loverboy» fra Undergrunn om alt fra norsk rap til romvesen.</itunes:summary>
+      <itunes:duration>1675</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OJ1QgmjNghSDZbnmuCKKigPN9Pec1lJuFjs7d6GAt8Nw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mo ble brukt på Tinder!</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_2e0eae00-0c22-48f6-8eae-000c22b8f6cc</link>
+      <description>Mo får melding fra ei jente på Tinder som egentlig vil møte Franky. Mo føler seg brukt.</description>
+      <guid isPermaLink="false">l_2e0eae00-0c22-48f6-8eae-000c22b8f6cc</guid>
+      <pubDate>Fri, 07 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/2e0eae00-0c22-48f6-8eae-000c22b8f6cc_1_ID192MP3.mp3" type="audio/mpeg" length="36418796"></enclosure>
+      <itunes:title>Mo ble brukt på Tinder!</itunes:title>
+      <itunes:summary>Mo får melding fra ei jente på Tinder som egentlig vil møte Franky. Mo føler seg brukt.</itunes:summary>
+      <itunes:duration>1517</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Cengiz Al på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_a56128fd-73e1-4450-a128-fd73e164508d</link>
+      <description>Var Cengiz full på «Skal vi danse»? Han forteller også om tiden som ung «Skam»-stjerne.</description>
+      <guid isPermaLink="false">l_a56128fd-73e1-4450-a128-fd73e164508d</guid>
+      <pubDate>Mon, 03 Nov 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/a56128fd-73e1-4450-a128-fd73e164508d_1_ID192MP3.mp3" type="audio/mpeg" length="55029356"></enclosure>
+      <itunes:title>Cengiz Al på besøk</itunes:title>
+      <itunes:summary>Var Cengiz full på «Skal vi danse»? Han forteller også om tiden som ung «Skam»-stjerne.</itunes:summary>
+      <itunes:duration>2292</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/C_zdK0NhlqeCNb8i2d9h_wGlwYxWtoWd84Fr4fRxJf7g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vi deler ikke godteri!</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_fecfad48-6ec2-4013-8fad-486ec2c013ae</link>
+      <description>Mo og Franky nekter å gi godteri til barna siden Franky aldri fikk selv, og Mo skylder på inflasjon.</description>
+      <guid isPermaLink="false">l_fecfad48-6ec2-4013-8fad-486ec2c013ae</guid>
+      <pubDate>Fri, 31 Oct 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/fecfad48-6ec2-4013-8fad-486ec2c013ae_1_ID192MP3.mp3" type="audio/mpeg" length="37016108"></enclosure>
+      <itunes:title>Vi deler ikke godteri!</itunes:title>
+      <itunes:summary>Mo og Franky nekter å gi godteri til barna siden Franky aldri fikk selv, og Mo skylder på inflasjon.</itunes:summary>
+      <itunes:duration>1542</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mufano «Isebjørn» Heritier på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_15564ab0-2580-4993-964a-b0258029935a</link>
+      <description>TikTok-stjernen Mufano forteller om livet som kvoteflyktning og om den gangen han prøvde å lage fufu av hundemat.</description>
+      <guid isPermaLink="false">l_15564ab0-2580-4993-964a-b0258029935a</guid>
+      <pubDate>Mon, 27 Oct 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/15564ab0-2580-4993-964a-b0258029935a_1_ID192MP3.mp3" type="audio/mpeg" length="42705260"></enclosure>
+      <itunes:title>Mufano «Isebjørn» Heritier på besøk</itunes:title>
+      <itunes:summary>TikTok-stjernen Mufano forteller om livet som kvoteflyktning og om den gangen han prøvde å lage fufu av hundemat.</itunes:summary>
+      <itunes:duration>1779</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/z-GRMc69X1kLvuUy1AWD9wSgnqnsh9QZU5mNgjwaqLJQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mo følger ikke trafikkregler lenger</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_149abc9c-afed-40aa-9abc-9cafed20aaab</link>
+      <description>Kjærlighetssagaen mellom Mo og Kiwi-jenta er over, Mo har slutta å følge trafikkreglene og ukas negative «shout out» går til Jonas Gahr Støre.</description>
+      <guid isPermaLink="false">l_149abc9c-afed-40aa-9abc-9cafed20aaab</guid>
+      <pubDate>Fri, 24 Oct 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/149abc9c-afed-40aa-9abc-9cafed20aaab_1_ID192MP3.mp3" type="audio/mpeg" length="34514540"></enclosure>
+      <itunes:title>Mo følger ikke trafikkregler lenger</itunes:title>
+      <itunes:summary>Kjærlighetssagaen mellom Mo og Kiwi-jenta er over, Mo har slutta å følge trafikkreglene og ukas negative «shout out» går til Jonas Gahr Støre.</itunes:summary>
+      <itunes:duration>1438</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mike Angeles på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_7f0ac7b2-df50-43e8-8ac7-b2df50a3e8ae</link>
+      <description>Mike forteller om alt fra sine største fuck-ups til da han endelig fikk anerkjennelse fra faren sin. Fotografen har aldri gått glipp av en Karpe-gig!</description>
+      <guid isPermaLink="false">l_7f0ac7b2-df50-43e8-8ac7-b2df50a3e8ae</guid>
+      <pubDate>Mon, 20 Oct 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/7f0ac7b2-df50-43e8-8ac7-b2df50a3e8ae_1_ID192MP3.mp3" type="audio/mpeg" length="38611628"></enclosure>
+      <itunes:title>Mike Angeles på besøk</itunes:title>
+      <itunes:summary>Mike forteller om alt fra sine største fuck-ups til da han endelig fikk anerkjennelse fra faren sin. Fotografen har aldri gått glipp av en Karpe-gig!</itunes:summary>
+      <itunes:duration>1608</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YeAMe04zcoKW9s_3ySsnFw4Y1pcAIAGQWcmqC59L4uxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Du kunne aldri datet søsteren min!</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_ab537901-dc62-403e-9379-01dc62703e65</link>
+      <description>Mo og Franky mimrer tilbake til da de var lærere og diskuterer dilemma: hva gjør du når du er forelska i søsteren til kompisen?</description>
+      <guid isPermaLink="false">l_ab537901-dc62-403e-9379-01dc62703e65</guid>
+      <pubDate>Fri, 17 Oct 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/ab537901-dc62-403e-9379-01dc62703e65_1_ID192MP3.mp3" type="audio/mpeg" length="47340908"></enclosure>
+      <itunes:title>Du kunne aldri datet søsteren min!</itunes:title>
+      <itunes:summary>Mo og Franky mimrer tilbake til da de var lærere og diskuterer dilemma: hva gjør du når du er forelska i søsteren til kompisen?</itunes:summary>
+      <itunes:duration>1972</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ida Broen på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_9df245f6-7d64-4cf0-b245-f67d64fcf02a</link>
+      <description>Ida Broen snakker om «Forræder», mote og sine 200 sneakers. Og hva er «drip or skip» om dagen?</description>
+      <guid isPermaLink="false">l_9df245f6-7d64-4cf0-b245-f67d64fcf02a</guid>
+      <pubDate>Mon, 13 Oct 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/9df245f6-7d64-4cf0-b245-f67d64fcf02a_1_ID192MP3.mp3" type="audio/mpeg" length="46834028"></enclosure>
+      <itunes:title>Ida Broen på besøk</itunes:title>
+      <itunes:summary>Ida Broen snakker om «Forræder», mote og sine 200 sneakers. Og hva er «drip or skip» om dagen?</itunes:summary>
+      <itunes:duration>1951</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/L30MwmJoNATfkIIAdbVW5AOZwD0UzlHwl5xCCKBy1G0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Det var ikke min skyld, det var Amy!</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_7567ba81-e7cf-4807-a7ba-81e7cf280739</link>
+      <description>Bursdagsbarnet Franky har tryna på el-sparkesykkel og Mo tar «boikott Eurovision»-kampanjen til et nytt nivå.</description>
+      <guid isPermaLink="false">l_7567ba81-e7cf-4807-a7ba-81e7cf280739</guid>
+      <pubDate>Fri, 10 Oct 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/7567ba81-e7cf-4807-a7ba-81e7cf280739_1_ID192MP3.mp3" type="audio/mpeg" length="36412460"></enclosure>
+      <itunes:title>Det var ikke min skyld, det var Amy!</itunes:title>
+      <itunes:summary>Bursdagsbarnet Franky har tryna på el-sparkesykkel og Mo tar «boikott Eurovision»-kampanjen til et nytt nivå.</itunes:summary>
+      <itunes:duration>1517</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>SA_G på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_d858819b-fa8f-497a-9881-9bfa8f997ac9</link>
+      <description>Undergrunnsrapperen SA_G besøker Franky og Mo, men blir sjokkert når de ikke skjønner hvem Amy Winehouse er.</description>
+      <guid isPermaLink="false">l_d858819b-fa8f-497a-9881-9bfa8f997ac9</guid>
+      <pubDate>Mon, 06 Oct 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/d858819b-fa8f-497a-9881-9bfa8f997ac9_1_ID192MP3.mp3" type="audio/mpeg" length="32886188"></enclosure>
+      <itunes:title>SA_G på besøk</itunes:title>
+      <itunes:summary>Undergrunnsrapperen SA_G besøker Franky og Mo, men blir sjokkert når de ikke skjønner hvem Amy Winehouse er.</itunes:summary>
+      <itunes:duration>1370</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0HCewAgqXWilSLBdL6LgoAG4cH_jYXl-afiYcOx1WE8g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>– Snapchat har mistet det</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_cd195982-42be-4b6a-9959-8242be2b6a58</link>
+      <description>Franky og Mo klikker på sine egne favorittapper. Chatten kommer med et vilt dilemma – hva hadde du valgt?</description>
+      <guid isPermaLink="false">l_cd195982-42be-4b6a-9959-8242be2b6a58</guid>
+      <pubDate>Fri, 03 Oct 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/cd195982-42be-4b6a-9959-8242be2b6a58_1_ID192MP3.mp3" type="audio/mpeg" length="36215468"></enclosure>
+      <itunes:title>– Snapchat har mistet det</itunes:title>
+      <itunes:summary>Franky og Mo klikker på sine egne favorittapper. Chatten kommer med et vilt dilemma – hva hadde du valgt?</itunes:summary>
+      <itunes:duration>1508</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tigergutt på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_45d691fa-ade9-4f89-9691-faade9cf8922</link>
+      <description>Tigergutt forteller om hvordan det er å bo og jobbe sammen – og om det egentlig er lov å tulle med alt.</description>
+      <guid isPermaLink="false">l_45d691fa-ade9-4f89-9691-faade9cf8922</guid>
+      <pubDate>Mon, 29 Sep 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/45d691fa-ade9-4f89-9691-faade9cf8922_1_ID192MP3.mp3" type="audio/mpeg" length="45387116"></enclosure>
+      <itunes:title>Tigergutt på besøk</itunes:title>
+      <itunes:summary>Tigergutt forteller om hvordan det er å bo og jobbe sammen – og om det egentlig er lov å tulle med alt.</itunes:summary>
+      <itunes:duration>1891</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/C3c1M-z20hfDcCCDkEMBjw5S-hL-RcTUiwaJ3uzC1Ztg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva kan kronprinsen gjøre for «lægs»</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_37c60720-b762-432e-8607-20b762a32ef2</link>
+      <description>Mo lager nye jobber til kongefamilien.</description>
+      <guid isPermaLink="false">l_37c60720-b762-432e-8607-20b762a32ef2</guid>
+      <pubDate>Fri, 26 Sep 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/37c60720-b762-432e-8607-20b762a32ef2_1_ID192MP3.mp3" type="audio/mpeg" length="39642668"></enclosure>
+      <itunes:title>Hva kan kronprinsen gjøre for «lægs»</itunes:title>
+      <itunes:summary>Mo lager nye jobber til kongefamilien.</itunes:summary>
+      <itunes:duration>1651</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mankegard på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_918b2a45-370c-44c0-8b2a-45370c94c0d2</link>
+      <description>Mankegard forteller om da han fikk sparken fra musikkbransjen og hvorfor en bolle ikke bare er en bolle.</description>
+      <guid isPermaLink="false">l_918b2a45-370c-44c0-8b2a-45370c94c0d2</guid>
+      <pubDate>Mon, 22 Sep 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/918b2a45-370c-44c0-8b2a-45370c94c0d2_1_ID192MP3.mp3" type="audio/mpeg" length="61681580"></enclosure>
+      <itunes:title>Mankegard på besøk</itunes:title>
+      <itunes:summary>Mankegard forteller om da han fikk sparken fra musikkbransjen og hvorfor en bolle ikke bare er en bolle.</itunes:summary>
+      <itunes:duration>2570</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0puQtxYjgP-Ztrg1-FCOzQU-OtBO4UFEtKcQTGGi3yMA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jonas Gahr Støre er min «daddy»</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_f515c7f1-36aa-4d9a-95c7-f136aa5d9a18</link>
+      <description>Franky mener Jonas Gahr Støre kunne vært Norges største influenser og roast-battle konge. Mo mener han blir hypa altfor mye.</description>
+      <guid isPermaLink="false">l_f515c7f1-36aa-4d9a-95c7-f136aa5d9a18</guid>
+      <pubDate>Fri, 19 Sep 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/f515c7f1-36aa-4d9a-95c7-f136aa5d9a18_1_ID192MP3.mp3" type="audio/mpeg" length="38572460"></enclosure>
+      <itunes:title>Jonas Gahr Støre er min «daddy»</itunes:title>
+      <itunes:summary>Franky mener Jonas Gahr Støre kunne vært Norges største influenser og roast-battle konge. Mo mener han blir hypa altfor mye.</itunes:summary>
+      <itunes:duration>1607</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fetisha Williams på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_461acacf-d4a5-476d-9aca-cfd4a5b76d22</link>
+      <description>Storesøster Fetisha er på besøk og Franky og Mo får sjokk når de byr henne opp til Wolt-duell.</description>
+      <guid isPermaLink="false">l_461acacf-d4a5-476d-9aca-cfd4a5b76d22</guid>
+      <pubDate>Mon, 15 Sep 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/461acacf-d4a5-476d-9aca-cfd4a5b76d22_1_ID192MP3.mp3" type="audio/mpeg" length="29492396"></enclosure>
+      <itunes:title>Fetisha Williams på besøk</itunes:title>
+      <itunes:summary>Storesøster Fetisha er på besøk og Franky og Mo får sjokk når de byr henne opp til Wolt-duell.</itunes:summary>
+      <itunes:duration>1228</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jtZk3WvpxU57avY2ShLpMAHn2w6_Kv56y4iuMEC7Szsg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Alt går galt i Thailand</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_6281fcef-dd34-4aed-81fc-efdd344aedc8</link>
+      <description>Mo deler om soloreisen til Thailand, en by med muligheter og risiko. Chatten holder ikke tilbake, og Franky og Mo gir råd som treffer.</description>
+      <guid isPermaLink="false">l_6281fcef-dd34-4aed-81fc-efdd344aedc8</guid>
+      <pubDate>Fri, 12 Sep 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/6281fcef-dd34-4aed-81fc-efdd344aedc8_1_ID192MP3.mp3" type="audio/mpeg" length="35777708"></enclosure>
+      <itunes:title>Alt går galt i Thailand</itunes:title>
+      <itunes:summary>Mo deler om soloreisen til Thailand, en by med muligheter og risiko. Chatten holder ikke tilbake, og Franky og Mo gir råd som treffer.</itunes:summary>
+      <itunes:duration>1490</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpO_8t6gbhNXPljhCy-POARkjhRi5GTnpZiTL4iaJpcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Iselin Guttormsen på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_5dc12a5a-dcb2-4cb1-812a-5adcb2acb15a</link>
+      <description>Hvorfor er det bra å være en følsom grisegutt? Hva skjer med fitta når ei jente ligger rundt? Iselin Guttormsen gir seksualundervisning til Franky og Mo.</description>
+      <guid isPermaLink="false">l_5dc12a5a-dcb2-4cb1-812a-5adcb2acb15a</guid>
+      <pubDate>Mon, 08 Sep 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/5dc12a5a-dcb2-4cb1-812a-5adcb2acb15a_1_ID192MP3.mp3" type="audio/mpeg" length="71450540"></enclosure>
+      <itunes:title>Iselin Guttormsen på besøk</itunes:title>
+      <itunes:summary>Hvorfor er det bra å være en følsom grisegutt? Hva skjer med fitta når ei jente ligger rundt? Iselin Guttormsen gir seksualundervisning til Franky og Mo.</itunes:summary>
+      <itunes:duration>2977</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/joK7cCT-TEtQS7j9YYowlQvX2VbXh1mITb_3VXVDud9A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tyr på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_0d5eb0b7-f800-4cb0-9eb0-b7f800bcb093</link>
+      <description>Tyr overrasker Mo og Franky med å være en lesehest. Og hvorfor begynte han ikke å rappe på norsk før?</description>
+      <guid isPermaLink="false">l_0d5eb0b7-f800-4cb0-9eb0-b7f800bcb093</guid>
+      <pubDate>Thu, 26 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/a108ae93-f650-475f-bf9b-cfe7aac47f50_0_ID192MP3.mp3" type="audio/mpeg" length="60528429"></enclosure>
+      <itunes:title>Tyr på besøk</itunes:title>
+      <itunes:summary>Tyr overrasker Mo og Franky med å være en lesehest. Og hvorfor begynte han ikke å rappe på norsk før?</itunes:summary>
+      <itunes:duration>2521</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fgkNocjxkwu0DkQbI6KaUQsdUnQyCfnwaZrEppIejgdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Reality og ketchup</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_8551a173-66b9-4629-91a1-7366b956298a</link>
+      <description>Franky og Mo deler store nyheter og diskuterer hvor ketchupen egentlig skal stå.</description>
+      <guid isPermaLink="false">l_8551a173-66b9-4629-91a1-7366b956298a</guid>
+      <pubDate>Thu, 19 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/7093844e-4cd3-467b-8653-43c25aa6e3ba_0_ID192MP3.mp3" type="audio/mpeg" length="48075309"></enclosure>
+      <itunes:title>Reality og ketchup</itunes:title>
+      <itunes:summary>Franky og Mo deler store nyheter og diskuterer hvor ketchupen egentlig skal stå.</itunes:summary>
+      <itunes:duration>2003</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Top five white people</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_2401b8d7-37c4-4aa6-81b8-d737c47aa675</link>
+      <description>Hvem er Franky og Mo sine topp fem hvite folk? Og Mo lurer på hvordan han kan gå bak damer uten å skremme dem.</description>
+      <guid isPermaLink="false">l_2401b8d7-37c4-4aa6-81b8-d737c47aa675</guid>
+      <pubDate>Thu, 12 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/d054a6ff-0c7c-4a77-8db3-935f9d30364a_0_ID192MP3.mp3" type="audio/mpeg" length="38083437"></enclosure>
+      <itunes:title>Top five white people</itunes:title>
+      <itunes:summary>Hvem er Franky og Mo sine topp fem hvite folk? Og Mo lurer på hvordan han kan gå bak damer uten å skremme dem.</itunes:summary>
+      <itunes:duration>1586</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Diddy er cooked</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_08a53db8-b637-4888-a53d-b8b637a8881c</link>
+      <description>Mo har sett en dame bæsje ute i byen og Franky vil snakke om Diddy-saken.</description>
+      <guid isPermaLink="false">l_08a53db8-b637-4888-a53d-b8b637a8881c</guid>
+      <pubDate>Thu, 05 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/e46abee1-6123-4b13-b62c-81db40114fd8_0_ID192MP3.mp3" type="audio/mpeg" length="38725677"></enclosure>
+      <itunes:title>Diddy er cooked</itunes:title>
+      <itunes:summary>Mo har sett en dame bæsje ute i byen og Franky vil snakke om Diddy-saken.</itunes:summary>
+      <itunes:duration>1613</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tale Torjussen på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_d54b943a-a60a-4b63-8b94-3aa60aeb6376</link>
+      <description>Tale Torjussen er på besøk og gir gutta tips om alt fra skuespill til hvordan man ikke blir lurt i Asia.</description>
+      <guid isPermaLink="false">l_d54b943a-a60a-4b63-8b94-3aa60aeb6376</guid>
+      <pubDate>Thu, 29 May 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/fd5d76e2-cb38-4a9c-be43-90fc735ae83c_0_ID192MP3.mp3" type="audio/mpeg" length="56091501"></enclosure>
+      <itunes:title>Tale Torjussen på besøk</itunes:title>
+      <itunes:summary>Tale Torjussen er på besøk og gir gutta tips om alt fra skuespill til hvordan man ikke blir lurt i Asia.</itunes:summary>
+      <itunes:duration>2337</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nYVcJdRbzUw_GUG2Ow56vg_lbS8F2Tb-2OREzFi-L05A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>My man, Kongen</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_b92aff4a-448a-4ebf-aaff-4a448a1ebf30</link>
+      <description>Hva skjer hvis Prinsesse Ingrid Alexandra og Mo matcher på Hinge? Og Franky er slått ut av 17. mai og Kongens aura.</description>
+      <guid isPermaLink="false">l_b92aff4a-448a-4ebf-aaff-4a448a1ebf30</guid>
+      <pubDate>Thu, 22 May 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/70505775-89bf-45f0-a2e4-f270687a52d9_0_ID192MP3.mp3" type="audio/mpeg" length="40905261"></enclosure>
+      <itunes:title>My man, Kongen</itunes:title>
+      <itunes:summary>Hva skjer hvis Prinsesse Ingrid Alexandra og Mo matcher på Hinge? Og Franky er slått ut av 17. mai og Kongens aura.</itunes:summary>
+      <itunes:duration>1704</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8rsbZqiGYx_zS8uaJiPZjgi2RYBUtoWiu69JRJp7Iamw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Alle lyver</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_2e1da5d4-e428-45fa-9da5-d4e428a5fa41</link>
+      <description>Mo innrømmer å ha løyet om body count fordi han er jomfru og Franky kommer aldri til å date en 18-åring.</description>
+      <guid isPermaLink="false">l_2e1da5d4-e428-45fa-9da5-d4e428a5fa41</guid>
+      <pubDate>Thu, 15 May 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/6d28e4c8-11b8-474d-8a52-e896abe90f42_0_ID192MP3.mp3" type="audio/mpeg" length="25835949"></enclosure>
+      <itunes:title>Alle lyver</itunes:title>
+      <itunes:summary>Mo innrømmer å ha løyet om body count fordi han er jomfru og Franky kommer aldri til å date en 18-åring.</itunes:summary>
+      <itunes:duration>1076</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vi har sett «Sinners»</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_11a31afd-cb7b-44bf-a31a-fdcb7b24bff6</link>
+      <description>OBS! Vi har hatt tekniske problemer på flere episoder og beklager dårlig lydkvalitet. Vi lover at det snart blir bedre!&#xA;&#xA;Franky og Mo er sjokkert etter å ha sett «Sinners», og Mo røper at han ikke har runka siden 1. januar.</description>
+      <guid isPermaLink="false">l_11a31afd-cb7b-44bf-a31a-fdcb7b24bff6</guid>
+      <pubDate>Thu, 08 May 2025 13:07:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/6d1ead02-776c-45f3-b98a-729d02ebfec3_0_ID192MP3.mp3" type="audio/mpeg" length="31928877"></enclosure>
+      <itunes:title>Vi har sett «Sinners»</itunes:title>
+      <itunes:summary>OBS! Vi har hatt tekniske problemer på flere episoder og beklager dårlig lydkvalitet. Vi lover at det snart blir bedre!&#xA;&#xA;Franky og Mo er sjokkert etter å ha sett «Sinners», og Mo røper at han ikke har runka siden 1. januar.</itunes:summary>
+      <itunes:duration>1330</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>UG Fretty på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_71180169-10e3-4584-9801-6910e3c5844c</link>
+      <description>OBS! Vi har hatt tekniske problemer på flere episoder og beklager dårlig lydkvalitet. Vi lover at det snart blir bedre!&#xA;Fretty fra Undergrunn om Sovjet-vibber og liveshow som må smelle.</description>
+      <guid isPermaLink="false">l_71180169-10e3-4584-9801-6910e3c5844c</guid>
+      <pubDate>Thu, 01 May 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/5b60c06f-75b3-4706-b8fc-6bf286bd7f1a_0_ID192MP3.mp3" type="audio/mpeg" length="82004589"></enclosure>
+      <itunes:title>UG Fretty på besøk</itunes:title>
+      <itunes:summary>OBS! Vi har hatt tekniske problemer på flere episoder og beklager dårlig lydkvalitet. Vi lover at det snart blir bedre!&#xA;Fretty fra Undergrunn om Sovjet-vibber og liveshow som må smelle.</itunes:summary>
+      <itunes:duration>3416</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/viP93QxrNKh4431Nk_7R6gS998sXQtLAuEKxEe40tI_Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Søvnmangel og solo travel</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_ab508024-a43e-4905-9080-24a43e1905f6</link>
+      <description>Franky legger seg kl 02 og Mo har vært på utenlandsreise. Gutta snakker rutiner, rasisme og reality-checks i utlandet.</description>
+      <guid isPermaLink="false">l_ab508024-a43e-4905-9080-24a43e1905f6</guid>
+      <pubDate>Thu, 24 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/0b2ea14f-9046-4bfd-847b-9b46fc98ad70_0_ID192MP3.mp3" type="audio/mpeg" length="58268781"></enclosure>
+      <itunes:title>Søvnmangel og solo travel</itunes:title>
+      <itunes:summary>Franky legger seg kl 02 og Mo har vært på utenlandsreise. Gutta snakker rutiner, rasisme og reality-checks i utlandet.</itunes:summary>
+      <itunes:duration>2427</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jeg var ikke invitert</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_a888cd20-83b8-4253-88cd-2083b8e25370</link>
+      <description>Uinvitert, overstimulert og uflaks med interiøret. Mo sin hjemmefest-debut var ikke akkurat en suksess.</description>
+      <guid isPermaLink="false">l_a888cd20-83b8-4253-88cd-2083b8e25370</guid>
+      <pubDate>Thu, 17 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/b1293b52-3f7b-41e5-97bb-1ae29b6644de_0_ID192MP3.mp3" type="audio/mpeg" length="65073069"></enclosure>
+      <itunes:title>Jeg var ikke invitert</itunes:title>
+      <itunes:summary>Uinvitert, overstimulert og uflaks med interiøret. Mo sin hjemmefest-debut var ikke akkurat en suksess.</itunes:summary>
+      <itunes:duration>2711</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hjertebank og dårlig dømmekraft</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_24c10520-ea97-467f-8105-20ea97267f3a</link>
+      <description>Energidrikk, søvnpiller og en kropp som sier stopp. Mo er ferdig med å late som han har kontroll.</description>
+      <guid isPermaLink="false">l_24c10520-ea97-467f-8105-20ea97267f3a</guid>
+      <pubDate>Thu, 10 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/c8012c78-3eb0-4a18-b5b4-88adb81aef1d_0_ID192MP3.mp3" type="audio/mpeg" length="44354349"></enclosure>
+      <itunes:title>Hjertebank og dårlig dømmekraft</itunes:title>
+      <itunes:summary>Energidrikk, søvnpiller og en kropp som sier stopp. Mo er ferdig med å late som han har kontroll.</itunes:summary>
+      <itunes:duration>1848</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Kasper Kvello på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_c4a76111-6b00-4893-a761-116b00a8934e</link>
+      <description>Hvordan har styrketreneren klart å poste på TikTok hver dag – i årevis? Og hvor skummelt var det å gi opp proffdrømmen?  </description>
+      <guid isPermaLink="false">l_c4a76111-6b00-4893-a761-116b00a8934e</guid>
+      <pubDate>Thu, 03 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/fc7105bb-56a8-4999-8335-f18a622424d9_0_ID192MP3.mp3" type="audio/mpeg" length="63043821"></enclosure>
+      <itunes:title>Kasper Kvello på besøk</itunes:title>
+      <itunes:summary>Hvordan har styrketreneren klart å poste på TikTok hver dag – i årevis? Og hvor skummelt var det å gi opp proffdrømmen?  </itunes:summary>
+      <itunes:duration>2626</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lkVLSE6tRacHuIiISLGWUgbVjn9dSKSLmD_ZAdIVcaGA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Jenter har null drip</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_da64b6b7-f580-4986-a4b6-b7f580b98695</link>
+      <description>Mo og Franky tester en boujee restaurant. Ferieturen går rett vest, og herreklær skuffer igjen.</description>
+      <guid isPermaLink="false">l_da64b6b7-f580-4986-a4b6-b7f580b98695</guid>
+      <pubDate>Thu, 27 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/6312a359-04d0-42ee-ad07-af7248822cc2_0_ID192MP3.mp3" type="audio/mpeg" length="56579949"></enclosure>
+      <itunes:title>Jenter har null drip</itunes:title>
+      <itunes:summary>Mo og Franky tester en boujee restaurant. Ferieturen går rett vest, og herreklær skuffer igjen.</itunes:summary>
+      <itunes:duration>2357</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Aksel Hennie og Jonas Benyoub på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_dbaf3276-7ad0-4ed1-af32-767ad07ed139</link>
+      <description>Et overraskende samarbeid! Aksel Hennie forteller Franky og Mo hvorfor han og Jonas har slått seg sammen og hva som egentlig skjer bak kulissene.</description>
+      <guid isPermaLink="false">l_dbaf3276-7ad0-4ed1-af32-767ad07ed139</guid>
+      <pubDate>Thu, 20 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/0bc39f78-7cf2-43df-9469-59b2a406ee69_0_ID192MP3.mp3" type="audio/mpeg" length="42122349"></enclosure>
+      <itunes:title>Aksel Hennie og Jonas Benyoub på besøk</itunes:title>
+      <itunes:summary>Et overraskende samarbeid! Aksel Hennie forteller Franky og Mo hvorfor han og Jonas har slått seg sammen og hva som egentlig skjer bak kulissene.</itunes:summary>
+      <itunes:duration>1755</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D2atNkgnZOLbZic4SsplUQ97B046ceexW16RWxPBsTTw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Fasting og Ramadan</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_e75fe6d7-b58b-479a-9fe6-d7b58bb79a34</link>
+      <description>–Kan du ikke drikke vann engang? Mo får mange dumme spørsmål om Ramadan. &#xA;Det blir ny runde med verdt det eller ikke?</description>
+      <guid isPermaLink="false">l_e75fe6d7-b58b-479a-9fe6-d7b58bb79a34</guid>
+      <pubDate>Wed, 12 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/fd4f8069-e7eb-431b-be14-727a4e78d2cf_0_ID192MP3.mp3" type="audio/mpeg" length="44240877"></enclosure>
+      <itunes:title>Fasting og Ramadan</itunes:title>
+      <itunes:summary>–Kan du ikke drikke vann engang? Mo får mange dumme spørsmål om Ramadan. &#xA;Det blir ny runde med verdt det eller ikke?</itunes:summary>
+      <itunes:duration>1843</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hkeem på besøk</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_703599be-9b1f-4104-b599-be9b1f010424</link>
+      <description>Hkeem om deltagelse på boksen, ny låt og hatkommentarer.</description>
+      <guid isPermaLink="false">l_703599be-9b1f-4104-b599-be9b1f010424</guid>
+      <pubDate>Wed, 05 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/22d359dd-10db-4613-afe3-6acf84dc17a1_0_ID192MP3.mp3" type="audio/mpeg" length="53581869"></enclosure>
+      <itunes:title>Hkeem på besøk</itunes:title>
+      <itunes:summary>Hkeem om deltagelse på boksen, ny låt og hatkommentarer.</itunes:summary>
+      <itunes:duration>2232</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aqB2kIoeiSu8hEcAcTnCLQLAZ-xK8SUpfR5adcGtPBFw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Utroskap og avskaffe monarkiet</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_1d594be1-9515-43af-994b-e19515c3afa0</link>
+      <description>Gutta diskuterer det virale klippet &#34;Montoya por favor&#34;. Mo vil starte et nytt politisk parti som visstnok skal gjøre Norge bedre.</description>
+      <guid isPermaLink="false">l_1d594be1-9515-43af-994b-e19515c3afa0</guid>
+      <pubDate>Wed, 26 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/edc58b5c-0620-4ebd-a60d-66a8d25380fd_0_ID192MP3.mp3" type="audio/mpeg" length="52707501"></enclosure>
+      <itunes:title>Utroskap og avskaffe monarkiet</itunes:title>
+      <itunes:summary>Gutta diskuterer det virale klippet &#34;Montoya por favor&#34;. Mo vil starte et nytt politisk parti som visstnok skal gjøre Norge bedre.</itunes:summary>
+      <itunes:duration>2196</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Neck slap og slengbukse</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_1435f479-5bae-4117-b5f4-795baec11768</link>
+      <description>Mo har analysert Super Bowl Halftime Show, og en ting skurrer – Kendrick Lamars bukser. Hvem vant beefen mellom Drake og Kendrick?</description>
+      <guid isPermaLink="false">l_1435f479-5bae-4117-b5f4-795baec11768</guid>
+      <pubDate>Wed, 19 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/b3e95413-11c2-4d55-ac95-875b7b6248dc_0_ID192MP3.mp3" type="audio/mpeg" length="44623341"></enclosure>
+      <itunes:title>Neck slap og slengbukse</itunes:title>
+      <itunes:summary>Mo har analysert Super Bowl Halftime Show, og en ting skurrer – Kendrick Lamars bukser. Hvem vant beefen mellom Drake og Kendrick?</itunes:summary>
+      <itunes:duration>1859</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Tshawe og Steinar Wangen</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_ad6a03ab-f303-418f-aa03-abf303218fca</link>
+      <description>Mo og Franky har vært på premiere på Flus 2 og Tshawe visste ikke hvem de var. Hvem er Steinar Wangen?</description>
+      <guid isPermaLink="false">l_ad6a03ab-f303-418f-aa03-abf303218fca</guid>
+      <pubDate>Wed, 12 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/da530db8-1344-43b0-b726-f6d47e06c46b_0_ID192MP3.mp3" type="audio/mpeg" length="39048237"></enclosure>
+      <itunes:title>Tshawe og Steinar Wangen</itunes:title>
+      <itunes:summary>Mo og Franky har vært på premiere på Flus 2 og Tshawe visste ikke hvem de var. Hvem er Steinar Wangen?</itunes:summary>
+      <itunes:duration>1626</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mo ble catcha på byen</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_ff8b8fb5-d4da-4854-8b8f-b5d4da3854bd</link>
+      <description>Mo så seg selv på en «Oslo nightlife»-video.</description>
+      <guid isPermaLink="false">l_ff8b8fb5-d4da-4854-8b8f-b5d4da3854bd</guid>
+      <pubDate>Wed, 05 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/c24313c8-34b7-4416-a995-cef7efebd304_0_ID192MP3.mp3" type="audio/mpeg" length="43709229"></enclosure>
+      <itunes:title>Mo ble catcha på byen</itunes:title>
+      <itunes:summary>Mo så seg selv på en «Oslo nightlife»-video.</itunes:summary>
+      <itunes:duration>1821</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Besvimte i dusjen</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_42f68e57-c84c-49b7-b68e-57c84c39b7e7</link>
+      <description>Franky har vært hos legen og Mo har bestemt seg for å aldri dra på guttetur igjen.</description>
+      <guid isPermaLink="false">l_42f68e57-c84c-49b7-b68e-57c84c39b7e7</guid>
+      <pubDate>Wed, 29 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/a161a158-e9b9-4d5b-9b8e-f281d7d1032b_0_ID192MP3.mp3" type="audio/mpeg" length="39127149"></enclosure>
+      <itunes:title>Besvimte i dusjen</itunes:title>
+      <itunes:summary>Franky har vært hos legen og Mo har bestemt seg for å aldri dra på guttetur igjen.</itunes:summary>
+      <itunes:duration>1630</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Er det ok å snitche?</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_8ea23c8f-1bd0-404f-a23c-8f1bd0704f59</link>
+      <description>Mo har havnet i et moralsk dilemma og gutta finner ut hvem som er best i Spelling bee.</description>
+      <guid isPermaLink="false">l_8ea23c8f-1bd0-404f-a23c-8f1bd0704f59</guid>
+      <pubDate>Wed, 22 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/5dd1c47c-4440-409d-8afc-5626bf95f8c1_0_ID192MP3.mp3" type="audio/mpeg" length="38059821"></enclosure>
+      <itunes:title>Er det ok å snitche?</itunes:title>
+      <itunes:summary>Mo har havnet i et moralsk dilemma og gutta finner ut hvem som er best i Spelling bee.</itunes:summary>
+      <itunes:duration>1585</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hvordan sjekke opp jenter?</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_5413731d-f5a7-4540-9373-1df5a7754075</link>
+      <description>Mo synes jentene i Oslo er røffere enn i Tromsø og Franky har en egen metode for å sjekke opp damer.</description>
+      <guid isPermaLink="false">l_5413731d-f5a7-4540-9373-1df5a7754075</guid>
+      <pubDate>Wed, 15 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/5959e1f3-7f22-4a04-b26f-25bacfc1a587_0_ID192MP3.mp3" type="audio/mpeg" length="53722989"></enclosure>
+      <itunes:title>Hvordan sjekke opp jenter?</itunes:title>
+      <itunes:summary>Mo synes jentene i Oslo er røffere enn i Tromsø og Franky har en egen metode for å sjekke opp damer.</itunes:summary>
+      <itunes:duration>2238</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Mo og Kiwi-jenta</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_5a1123b7-4982-4869-9123-b7498228698f</link>
+      <description>Hva er greia med Mo og Kiwi-jenta? Og vil gutta helst ha en kid som blir mobber eller mobbeoffer?</description>
+      <guid isPermaLink="false">l_5a1123b7-4982-4869-9123-b7498228698f</guid>
+      <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/c472a9d6-e67a-45fc-9729-26288f8bc891_0_ID192MP3.mp3" type="audio/mpeg" length="41640237"></enclosure>
+      <itunes:title>Mo og Kiwi-jenta</itunes:title>
+      <itunes:summary>Hva er greia med Mo og Kiwi-jenta? Og vil gutta helst ha en kid som blir mobber eller mobbeoffer?</itunes:summary>
+      <itunes:duration>1734</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Vollan-tvillingene er gjester</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_8347a00d-0b68-4f2a-87a0-0d0b68cf2af3</link>
+      <description>Vollan tvillingene er internasjonale modeller.</description>
+      <guid isPermaLink="false">l_8347a00d-0b68-4f2a-87a0-0d0b68cf2af3</guid>
+      <pubDate>Wed, 01 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/f84de954-acbb-48d9-a0fc-cb5279483dcc_0_ID192MP3.mp3" type="audio/mpeg" length="55631277"></enclosure>
+      <itunes:title>Vollan-tvillingene er gjester</itunes:title>
+      <itunes:summary>Vollan tvillingene er internasjonale modeller.</itunes:summary>
+      <itunes:duration>2317</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rUJ614_pXXVNjPXw4-K--w3tV_DiqW5sKfwvP5r0P73A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>– Den er dritdyr</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_f412d9ba-a662-422e-92d9-baa662822e48</link>
+      <description>Hør hva som skjedde da Mo glemte Mac-en på bussen.&#xA;En blanding av stress, panikk og noen lærerike øyeblikk.</description>
+      <guid isPermaLink="false">l_f412d9ba-a662-422e-92d9-baa662822e48</guid>
+      <pubDate>Wed, 18 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/71ce38ad-4776-4718-880b-af63551bac6a_0_ID192MP3.mp3" type="audio/mpeg" length="46862829"></enclosure>
+      <itunes:title>– Den er dritdyr</itunes:title>
+      <itunes:summary>Hør hva som skjedde da Mo glemte Mac-en på bussen.&#xA;En blanding av stress, panikk og noen lærerike øyeblikk.</itunes:summary>
+      <itunes:duration>1952</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>–Det irriterte dritten ut av meg</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_9e0076f6-72eb-4adb-8076-f672ebcadb4c</link>
+      <description>Mo og Franky har gått den gule løperen på P3 Gull. Sebastian Solberg har vurdert antrekkene, men Franky fikk ikke terningkast for sitt antrekk.</description>
+      <guid isPermaLink="false">l_9e0076f6-72eb-4adb-8076-f672ebcadb4c</guid>
+      <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/bd16164d-6e7c-49e6-ba0f-2ee302171d2e_0_ID192MP3.mp3" type="audio/mpeg" length="53712621"></enclosure>
+      <itunes:title>–Det irriterte dritten ut av meg</itunes:title>
+      <itunes:summary>Mo og Franky har gått den gule løperen på P3 Gull. Sebastian Solberg har vurdert antrekkene, men Franky fikk ikke terningkast for sitt antrekk.</itunes:summary>
+      <itunes:duration>2237</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>– Jeg skal begynne å ta trening seriøst!</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_7c14ad90-d7aa-4bd2-94ad-90d7aa7bd2ab</link>
+      <description>Franky ble ydmyket på fotoshoot.</description>
+      <guid isPermaLink="false">l_7c14ad90-d7aa-4bd2-94ad-90d7aa7bd2ab</guid>
+      <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/d8358183-9c6f-45d1-bffe-04ea10df3254_0_ID192MP3.mp3" type="audio/mpeg" length="53904429"></enclosure>
+      <itunes:title>– Jeg skal begynne å ta trening seriøst!</itunes:title>
+      <itunes:summary>Franky ble ydmyket på fotoshoot.</itunes:summary>
+      <itunes:duration>2245</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Arif er gjest</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_35bec2cf-ff04-4ed0-bec2-cfff045ed0ba</link>
+      <description>Vi er i studio til Arif på Munchmuseet.</description>
+      <guid isPermaLink="false">l_35bec2cf-ff04-4ed0-bec2-cfff045ed0ba</guid>
+      <pubDate>Fri, 29 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/a05e26b4-e4e1-44be-85f6-0b20d14a3bc4_0_ID192MP3.mp3" type="audio/mpeg" length="60198957"></enclosure>
+      <itunes:title>Arif er gjest</itunes:title>
+      <itunes:summary>Vi er i studio til Arif på Munchmuseet.</itunes:summary>
+      <itunes:duration>2508</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/RhGatshz2oxwTGccgik35w917AYqzpNWadWiB-wcf2_w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>– Jeg har bedre hår enn deg </title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_4aaba10b-2d3f-46b2-aba1-0b2d3f46b26f</link>
+      <description>Mo og Franky nekter å bytte hår for å redde klimaet.</description>
+      <guid isPermaLink="false">l_4aaba10b-2d3f-46b2-aba1-0b2d3f46b26f</guid>
+      <pubDate>Wed, 27 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/c6f2240d-11a3-4042-aa72-3e6f0cec4ab9_0_ID192MP3.mp3" type="audio/mpeg" length="48684717"></enclosure>
+      <itunes:title>– Jeg har bedre hår enn deg </itunes:title>
+      <itunes:summary>Mo og Franky nekter å bytte hår for å redde klimaet.</itunes:summary>
+      <itunes:duration>2028</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Si noe morsomt!</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_d07edf5d-5b68-4158-bedf-5d5b68315870</link>
+      <description>Mo vil teste ut standup selv om han har sceneskrekk, og Franky lurer på hvem av barna mora hans liker best.</description>
+      <guid isPermaLink="false">l_d07edf5d-5b68-4158-bedf-5d5b68315870</guid>
+      <pubDate>Wed, 20 Nov 2024 09:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/d87b56f3-804c-45f0-ae56-f64816ceb96c_0_ID192MP3.mp3" type="audio/mpeg" length="50304429"></enclosure>
+      <itunes:title>Si noe morsomt!</itunes:title>
+      <itunes:summary>Mo vil teste ut standup selv om han har sceneskrekk, og Franky lurer på hvem av barna mora hans liker best.</itunes:summary>
+      <itunes:duration>2095</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Massasje og gratis sofa</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_1d93f7fe-5887-42a9-93f7-fe5887c2a91c</link>
+      <description>Mo lurer på hvorfor det er så mange massasjesalonger. Franky har fått modelloppdrag og gutta har fått seg en gratis sofa.</description>
+      <guid isPermaLink="false">l_1d93f7fe-5887-42a9-93f7-fe5887c2a91c</guid>
+      <pubDate>Wed, 13 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/82012dfe-2d79-4f60-b54f-4a98ec481a95_0_ID192MP3.mp3" type="audio/mpeg" length="48676077"></enclosure>
+      <itunes:title>Massasje og gratis sofa</itunes:title>
+      <itunes:summary>Mo lurer på hvorfor det er så mange massasjesalonger. Franky har fått modelloppdrag og gutta har fått seg en gratis sofa.</itunes:summary>
+      <itunes:duration>2028</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>– Vi trenger ikke lage mat lenger!</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_45d8e404-74db-4943-98e4-0474db5943e8</link>
+      <description>Mo og Franky har spist så mye take away at det har ført dem inn i økonomiske problemer.</description>
+      <guid isPermaLink="false">l_45d8e404-74db-4943-98e4-0474db5943e8</guid>
+      <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/9a215203-b938-491b-8bbf-c3c3f0e71727_0_ID192MP3.mp3" type="audio/mpeg" length="45207981"></enclosure>
+      <itunes:title>– Vi trenger ikke lage mat lenger!</itunes:title>
+      <itunes:summary>Mo og Franky har spist så mye take away at det har ført dem inn i økonomiske problemer.</itunes:summary>
+      <itunes:duration>1883</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>- Du har ikke nok sex!</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_f7754287-de0d-4b47-b542-87de0d3b4797</link>
+      <description>Bestemora til Franky mener han må ha mer sex, mens Mo er klar for kone og barn. Eller er han egentlig det?</description>
+      <guid isPermaLink="false">l_f7754287-de0d-4b47-b542-87de0d3b4797</guid>
+      <pubDate>Wed, 30 Oct 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/ad9e7a48-3079-4a28-8e3d-e9937e2f11fc_0_ID192MP3.mp3" type="audio/mpeg" length="41873517"></enclosure>
+      <itunes:title>- Du har ikke nok sex!</itunes:title>
+      <itunes:summary>Bestemora til Franky mener han må ha mer sex, mens Mo er klar for kone og barn. Eller er han egentlig det?</itunes:summary>
+      <itunes:duration>1744</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Ketsjupflaske på badet?</title>
+      <link>https://radio.nrk.no/podkast/nittiatten/l_acf1a795-eabe-4862-b1a7-95eabe28627a</link>
+      <description>Mo og Franky irriterer seg over hverandres uvaner.</description>
+      <guid isPermaLink="false">l_acf1a795-eabe-4862-b1a7-95eabe28627a</guid>
+      <pubDate>Wed, 23 Oct 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nittiatten/2f18a1fb-4e92-4f35-a7f6-98128eb31abe_0_ID192MP3.mp3" type="audio/mpeg" length="54022509"></enclosure>
+      <itunes:title>Ketsjupflaske på badet?</itunes:title>
+      <itunes:summary>Mo og Franky irriterer seg over hverandres uvaner.</itunes:summary>
+      <itunes:duration>2250</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YUA1B9SWbW5Ys6QNs3iIBgvx6KaMm7soDivA9cifLTZg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

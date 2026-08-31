@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Familiene på Orderud</title>
+    <link>https://radio.nrk.no/podkast/familiene_paa_orderud</link>
+    <description>Joachim Førsund graver i det menneskelige dramaet bak trippeldrapene på Orderud gård – her får du historien slik du aldri har hørt den før.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Sun, 02 Dec 2018 20:21:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/familiene_paa_orderud.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Joachim Førsund graver i det menneskelige dramaet bak trippeldrapene på Orderud gård – her får du historien slik du aldri har hørt den før.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw"></itunes:image>
+    <itunes:category text="History"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw</url>
+      <title>Familiene på Orderud</title>
+      <link>https://radio.nrk.no/podkast/familiene_paa_orderud</link>
+    </image>
+    <item>
+      <title>Åpne sår (6:6)</title>
+      <link>https://radio.nrk.no/podkast/familiene_paa_orderud/l_d4046328-0ead-4d9e-8463-280eadbd9eee</link>
+      <description>I årene etter dommen vokser splittelsen i familiene Orderud og Kirkemo. De dømte soner, men de som ble rammet av tragedien leter fortsatt etter svar.</description>
+      <guid isPermaLink="false">l_d4046328-0ead-4d9e-8463-280eadbd9eee</guid>
+      <pubDate>Sun, 02 Dec 2018 21:21:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-12-02_2021_526.MP3" type="audio/mpeg" length="47780726"></enclosure>
+      <itunes:title>Åpne sår (6:6)</itunes:title>
+      <itunes:summary>I årene etter dommen vokser splittelsen i familiene Orderud og Kirkemo. De dømte soner, men de som ble rammet av tragedien leter fortsatt etter svar.</itunes:summary>
+      <itunes:duration>1987</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Dommen (5:6)</title>
+      <link>https://radio.nrk.no/podkast/familiene_paa_orderud/l_f563557c-eb54-4b89-a355-7ceb546b89db</link>
+      <description>Kristin Kirkemo forsøkte å trekke Lars Grønnerød med seg i avgrunnen, og ansikt til ansikt med juryen kjempet han en desperat kamp for å bli trodd.</description>
+      <guid isPermaLink="false">l_f563557c-eb54-4b89-a355-7ceb546b89db</guid>
+      <pubDate>Sun, 25 Nov 2018 22:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-25_2100_3617.MP3" type="audio/mpeg" length="49508560"></enclosure>
+      <itunes:title>Dommen (5:6)</itunes:title>
+      <itunes:summary>Kristin Kirkemo forsøkte å trekke Lars Grønnerød med seg i avgrunnen, og ansikt til ansikt med juryen kjempet han en desperat kamp for å bli trodd.</itunes:summary>
+      <itunes:duration>2059</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Pinse på Sørumsand (4:6)</title>
+      <link>https://radio.nrk.no/podkast/familiene_paa_orderud/l_cc079e53-6622-4e52-879e-536622be52b0</link>
+      <description>Pinsen 1999 finner en eldre mann broren sin skutt og drept, sammen med kona og dattera. Midt i sjokk og sorg rettes mistanken mot nær familie.</description>
+      <guid isPermaLink="false">l_cc079e53-6622-4e52-879e-536622be52b0</guid>
+      <pubDate>Sun, 18 Nov 2018 20:48:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-18_1945_3892.MP3" type="audio/mpeg" length="47756271"></enclosure>
+      <itunes:title>Pinse på Sørumsand (4:6)</itunes:title>
+      <itunes:summary>Pinsen 1999 finner en eldre mann broren sin skutt og drept, sammen med kona og dattera. Midt i sjokk og sorg rettes mistanken mot nær familie.</itunes:summary>
+      <itunes:duration>1986</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Lille julaften (3:6)</title>
+      <link>https://radio.nrk.no/podkast/familiene_paa_orderud/l_2b32f74f-4d0e-4a28-b2f7-4f4d0eda28aa</link>
+      <description>Jula kommer til Orderud gård, og Kristin Kirkemo bruker sine kriminelle kontakter til å skaffe våpen til Per og Veronica. Men hvorfor?</description>
+      <guid isPermaLink="false">l_2b32f74f-4d0e-4a28-b2f7-4f4d0eda28aa</guid>
+      <pubDate>Sun, 11 Nov 2018 20:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-11_1900_3928.MP3" type="audio/mpeg" length="68345391"></enclosure>
+      <itunes:title>Lille julaften (3:6)</itunes:title>
+      <itunes:summary>Jula kommer til Orderud gård, og Kristin Kirkemo bruker sine kriminelle kontakter til å skaffe våpen til Per og Veronica. Men hvorfor?</itunes:summary>
+      <itunes:duration>2135</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Arven (2:6)</title>
+      <link>https://radio.nrk.no/podkast/familiene_paa_orderud/l_40c6e2ea-b9b2-4185-86e2-eab9b2918576</link>
+      <description>Per og foreldrene er uenige om fordelingen av arven mellom Per og søsteren. Men hvor dypt stikker konflikten? Dypt nok til å drepe?</description>
+      <guid isPermaLink="false">l_40c6e2ea-b9b2-4185-86e2-eab9b2918576</guid>
+      <pubDate>Sun, 04 Nov 2018 19:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-04_1903_1141.MP3" type="audio/mpeg" length="64228004"></enclosure>
+      <itunes:title>Arven (2:6)</itunes:title>
+      <itunes:summary>Per og foreldrene er uenige om fordelingen av arven mellom Per og søsteren. Men hvor dypt stikker konflikten? Dypt nok til å drepe?</itunes:summary>
+      <itunes:duration>2006</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Veronicas dagbok (1:6)</title>
+      <link>https://radio.nrk.no/podkast/familiene_paa_orderud/l_c4261133-09bb-489b-a611-3309bbe89be8</link>
+      <description>Hvis du hadde konkrete planer om å ta livet av noen, ville du da skrevet det i dagboka di? Vi tar en titt på Veronica Orderuds dagbok.</description>
+      <guid isPermaLink="false">l_c4261133-09bb-489b-a611-3309bbe89be8</guid>
+      <pubDate>Sun, 04 Nov 2018 18:57:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/familiene_paa_orderud/familiene_paa_orderud_2018-11-04_1900_195.MP3" type="audio/mpeg" length="62660709"></enclosure>
+      <itunes:title>Veronicas dagbok (1:6)</itunes:title>
+      <itunes:summary>Hvis du hadde konkrete planer om å ta livet av noen, ville du da skrevet det i dagboka di? Vi tar en titt på Veronica Orderuds dagbok.</itunes:summary>
+      <itunes:duration>1957</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9m1obduAWkRjhSUdsHHCswOorqICP0n4IXq6WcnuaKrw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

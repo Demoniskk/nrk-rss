@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>På audition</title>
+    <link>https://radio.nrk.no/podkast/paa_audition</link>
+    <description>Adelina trenger en ny makker! Vi inviterer de morsomste hodene i underholdningsverden på en helt ekte audition – og du får være med.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Mon, 07 Jul 2025 04:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/paa_audition.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Adelina trenger en ny makker! Vi inviterer de morsomste hodene i underholdningsverden på en helt ekte audition – og du får være med.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/qdw2cbwlMR6eRI6xn4FAJAND4QNAvLZ2cdm1qcXjv4fw"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/qdw2cbwlMR6eRI6xn4FAJAND4QNAvLZ2cdm1qcXjv4fw</url>
+      <title>På audition</title>
+      <link>https://radio.nrk.no/podkast/paa_audition</link>
+    </image>
+    <item>
+      <title>Takk for nå!</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_de8a1f1a-ea85-4126-8a1f-1aea85c126c2</link>
+      <description>Adelina, Dr. Jones og innboksen! (Og den store avsløringen om at dukken på bildet hele tiden har vært Obama!)</description>
+      <guid isPermaLink="false">l_de8a1f1a-ea85-4126-8a1f-1aea85c126c2</guid>
+      <pubDate>Mon, 07 Jul 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/494afc1f-525d-48c4-9a09-ecea2f2f2f71_0_ID192MP3.mp3" type="audio/mpeg" length="28260333"></enclosure>
+      <itunes:title>Takk for nå!</itunes:title>
+      <itunes:summary>Adelina, Dr. Jones og innboksen! (Og den store avsløringen om at dukken på bildet hele tiden har vært Obama!)</itunes:summary>
+      <itunes:duration>1177</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HbGUKdz86Qm-c2zXAOwpHwCRvyutMVaWHHsIMxl-Ia5A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juli 2025">202507</podcast:season>
+    </item>
+    <item>
+      <title>Adelina og Jon: Pilot!</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_8e2ea27c-1d1b-4ce3-aea2-7c1d1bcce3a7</link>
+      <description>Auditionrunden er over: Jon Almaas er vinneren. Og dette er vår pilot!</description>
+      <guid isPermaLink="false">l_8e2ea27c-1d1b-4ce3-aea2-7c1d1bcce3a7</guid>
+      <pubDate>Mon, 30 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/c42bd904-6a3b-45a3-9a35-d7462c161f8a_0_ID192MP3.mp3" type="audio/mpeg" length="66805101"></enclosure>
+      <itunes:title>Adelina og Jon: Pilot!</itunes:title>
+      <itunes:summary>Auditionrunden er over: Jon Almaas er vinneren. Og dette er vår pilot!</itunes:summary>
+      <itunes:duration>2783</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ls8ihdfdcb0SXjNHk9J2mg6C6KN59meCWTb-XHKiXqmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2025">202506</podcast:season>
+    </item>
+    <item>
+      <title>Silje Nordnes</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_29bfc2ef-2c49-40df-bfc2-ef2c4950df90</link>
+      <description>Den aller siste kandidaten i rekka er nordlending, levekvinne og Maskorama-legende; Silje Nordnes!</description>
+      <guid isPermaLink="false">l_29bfc2ef-2c49-40df-bfc2-ef2c4950df90</guid>
+      <pubDate>Mon, 23 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/30006196-2940-42b7-8e4c-48738b365d64_0_ID192MP3.mp3" type="audio/mpeg" length="53666541"></enclosure>
+      <itunes:title>Silje Nordnes</itunes:title>
+      <itunes:summary>Den aller siste kandidaten i rekka er nordlending, levekvinne og Maskorama-legende; Silje Nordnes!</itunes:summary>
+      <itunes:duration>2236</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UZYYaZuzqkwGvOj-r7ZvRwVlTCyk1FjS0FWXZsOmWHJw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2025">202506</podcast:season>
+    </item>
+    <item>
+      <title>Markus Neby</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_492eeb53-555d-498c-aeeb-53555da98ce9</link>
+      <description>Kandidat 23 er tøysefrans, musiker og programleder Markus Neby! Han har med seg en meget viktig person for NRK-systemet i Drømmespalten!</description>
+      <guid isPermaLink="false">l_492eeb53-555d-498c-aeeb-53555da98ce9</guid>
+      <pubDate>Mon, 16 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/bc9729c9-ee01-4381-9a0d-1e7d88030c30_0_ID192MP3.mp3" type="audio/mpeg" length="68342445"></enclosure>
+      <itunes:title>Markus Neby</itunes:title>
+      <itunes:summary>Kandidat 23 er tøysefrans, musiker og programleder Markus Neby! Han har med seg en meget viktig person for NRK-systemet i Drømmespalten!</itunes:summary>
+      <itunes:duration>2847</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lqUfJwy_Nl_sGLKBjlH_oQiwLrfSW61ZVk7ApGm-xJvg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2025">202506</podcast:season>
+    </item>
+    <item>
+      <title>Henning Bang</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_7733d9f1-a60d-4f4d-b3d9-f1a60d8f4dd0</link>
+      <description>Komiker og P3morgen-programleder Henning Bang er nestemann ut i rekka - kandidat nummer 22 er på plass!</description>
+      <guid isPermaLink="false">l_7733d9f1-a60d-4f4d-b3d9-f1a60d8f4dd0</guid>
+      <pubDate>Mon, 09 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/b5c826a9-eadd-4586-976e-b9dbfda154f4_0_ID192MP3.mp3" type="audio/mpeg" length="59692077"></enclosure>
+      <itunes:title>Henning Bang</itunes:title>
+      <itunes:summary>Komiker og P3morgen-programleder Henning Bang er nestemann ut i rekka - kandidat nummer 22 er på plass!</itunes:summary>
+      <itunes:duration>2487</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pO6NCRdgxn7NHHNrr7lfBgtwvxG9BmzU-6kem8iJHYig"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2025">202506</podcast:season>
+    </item>
+    <item>
+      <title>Mathea Stensæth Josefsen</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_371cd937-9cc2-4361-9cd9-379cc26361c1</link>
+      <description>Det er tid for kandidat nummer 21, ta godt imot superstjerna fra Humoretaten; Mathea Stensæth Josefsen!</description>
+      <guid isPermaLink="false">l_371cd937-9cc2-4361-9cd9-379cc26361c1</guid>
+      <pubDate>Mon, 02 Jun 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/269c066a-c901-4883-8adf-0fb1a195b74d_0_ID192MP3.mp3" type="audio/mpeg" length="53470701"></enclosure>
+      <itunes:title>Mathea Stensæth Josefsen</itunes:title>
+      <itunes:summary>Det er tid for kandidat nummer 21, ta godt imot superstjerna fra Humoretaten; Mathea Stensæth Josefsen!</itunes:summary>
+      <itunes:duration>2227</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/n7VvFILsV8A_f65xMmBs3g7kmDArQU-8oA5fqr387JsQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2025">202506</podcast:season>
+    </item>
+    <item>
+      <title>Emil Gukild</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_6a674013-4a99-4f19-a740-134a99bf19eb</link>
+      <description>Pensjonert dra-til-tryne, sportsentusiast og en meget dyktig programleder! Ta godt imot kandidat nummer 20; Emil Gukild!</description>
+      <guid isPermaLink="false">l_6a674013-4a99-4f19-a740-134a99bf19eb</guid>
+      <pubDate>Mon, 26 May 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/ec56ed78-3483-477a-a9ad-b7466567fffe_0_ID192MP3.mp3" type="audio/mpeg" length="59851053"></enclosure>
+      <itunes:title>Emil Gukild</itunes:title>
+      <itunes:summary>Pensjonert dra-til-tryne, sportsentusiast og en meget dyktig programleder! Ta godt imot kandidat nummer 20; Emil Gukild!</itunes:summary>
+      <itunes:duration>2493</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BLQTt4GQ5xqYu_DcS2rs4AVZ9NPXaLbIy2QqCTW8vNNA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2025">202505</podcast:season>
+    </item>
+    <item>
+      <title>Caroline Johansen</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_0e1feaea-c094-457a-9fea-eac094b57ad8</link>
+      <description>Fra permisjon til audition, ta godt imot kandidat nummer 18; Caroline Johansen!</description>
+      <guid isPermaLink="false">l_0e1feaea-c094-457a-9fea-eac094b57ad8</guid>
+      <pubDate>Mon, 19 May 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/373f8c3b-c2b8-4efa-84c4-e6c2e768e503_0_ID192MP3.mp3" type="audio/mpeg" length="78586029"></enclosure>
+      <itunes:title>Caroline Johansen</itunes:title>
+      <itunes:summary>Fra permisjon til audition, ta godt imot kandidat nummer 18; Caroline Johansen!</itunes:summary>
+      <itunes:duration>3274</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0J2iZN5OIXk_f0BUYOQHMgGyW7apUXNxDoS9ei86p_rQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2025">202505</podcast:season>
+    </item>
+    <item>
+      <title>Oral Bee</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_e290f15b-fdf9-4ef5-90f1-5bfdf9def595</link>
+      <description>Hvem er denne karen med solbriller og lue på? Det er kandidat nummer 17 i rekka, selveste Oral Bee!</description>
+      <guid isPermaLink="false">l_e290f15b-fdf9-4ef5-90f1-5bfdf9def595</guid>
+      <pubDate>Mon, 12 May 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/db3139ac-0736-43bb-8055-507571f7fd30_0_ID192MP3.mp3" type="audio/mpeg" length="60758829"></enclosure>
+      <itunes:title>Oral Bee</itunes:title>
+      <itunes:summary>Hvem er denne karen med solbriller og lue på? Det er kandidat nummer 17 i rekka, selveste Oral Bee!</itunes:summary>
+      <itunes:duration>2531</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MFtLbanncKKNiluSBuDgNAT5SumJkG7Uw22Zxb8GQb0g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2025">202505</podcast:season>
+    </item>
+    <item>
+      <title>Christian Mikkelsen</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_377fc761-1779-4afc-bfc7-611779bafcbd</link>
+      <description>Kandidat 16 er hele Norges nasjonalskatt; Christian Mikkelsen!</description>
+      <guid isPermaLink="false">l_377fc761-1779-4afc-bfc7-611779bafcbd</guid>
+      <pubDate>Mon, 05 May 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/0e22a3af-b38e-4abc-a030-4fa3cd0f2882_0_ID192MP3.mp3" type="audio/mpeg" length="71341101"></enclosure>
+      <itunes:title>Christian Mikkelsen</itunes:title>
+      <itunes:summary>Kandidat 16 er hele Norges nasjonalskatt; Christian Mikkelsen!</itunes:summary>
+      <itunes:duration>2972</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MW5ROGYtyZM5cLsa9E5jNw8NPqzZGqazaR0x6m7WtC1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2025">202505</podcast:season>
+    </item>
+    <item>
+      <title>Anna Nor Sørensen</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_07095c92-a50f-488d-895c-92a50f588d92</link>
+      <description>Radioprater, musikkleksikon og snowboardikon – kandidat nummer 15 er P3s Anna Nor Sørensen!</description>
+      <guid isPermaLink="false">l_07095c92-a50f-488d-895c-92a50f588d92</guid>
+      <pubDate>Mon, 28 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/5c94a4d5-4045-4a74-af2b-1116d0ca3a32_0_ID192MP3.mp3" type="audio/mpeg" length="58836141"></enclosure>
+      <itunes:title>Anna Nor Sørensen</itunes:title>
+      <itunes:summary>Radioprater, musikkleksikon og snowboardikon – kandidat nummer 15 er P3s Anna Nor Sørensen!</itunes:summary>
+      <itunes:duration>2451</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TfoPj0CQHnFOqxKIKDcYQQ8dcCkUY_6TdHJARxIcG2BQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2025">202504</podcast:season>
+    </item>
+    <item>
+      <title>Javad El Bakali</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_5936e759-4a1a-4bd5-b6e7-594a1abbd5d9</link>
+      <description>Morsom, snill, overraskende og fantasifull! 14. kandidat innehar alle disse kvalitetene! Javad El Bakali er kongen av «memes», men kan han være en god programleder?</description>
+      <guid isPermaLink="false">l_5936e759-4a1a-4bd5-b6e7-594a1abbd5d9</guid>
+      <pubDate>Mon, 21 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/fea40347-f9cf-48d0-b24f-caa7e7cdc156_0_ID192MP3.mp3" type="audio/mpeg" length="60257709"></enclosure>
+      <itunes:title>Javad El Bakali</itunes:title>
+      <itunes:summary>Morsom, snill, overraskende og fantasifull! 14. kandidat innehar alle disse kvalitetene! Javad El Bakali er kongen av «memes», men kan han være en god programleder?</itunes:summary>
+      <itunes:duration>2510</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JjLO8tFGgrtaditVjhSnDA3mXgLEHxQTuoTBJdIeqtvg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2025">202504</podcast:season>
+    </item>
+    <item>
+      <title>Hilde Skaar</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_6886ac88-a86c-4b85-86ac-88a86c4b85ed</link>
+      <description>13. kandidat på audition er popstjerne og dialektikon, Hilde Skaar!</description>
+      <guid isPermaLink="false">l_6886ac88-a86c-4b85-86ac-88a86c4b85ed</guid>
+      <pubDate>Mon, 14 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/3993cb0b-3999-4164-a00f-4ba742290505_0_ID192MP3.mp3" type="audio/mpeg" length="71113581"></enclosure>
+      <itunes:title>Hilde Skaar</itunes:title>
+      <itunes:summary>13. kandidat på audition er popstjerne og dialektikon, Hilde Skaar!</itunes:summary>
+      <itunes:duration>2963</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lz5hlWukPUXzB4JnWJHa6wrj8Kr6aFxoU56yItWe7g4A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2025">202504</podcast:season>
+    </item>
+    <item>
+      <title>Steinar Sagen</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_119a437d-50d7-442e-9a43-7d50d7142e0d</link>
+      <description>Tatoveringer vi angrer på, pantemillionærer og en Steinar-avstemning. Ta godt imot den 12. kandidat!</description>
+      <guid isPermaLink="false">l_119a437d-50d7-442e-9a43-7d50d7142e0d</guid>
+      <pubDate>Mon, 07 Apr 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/474b0e47-c6c2-4043-b95f-4208fa78390f_0_ID192MP3.mp3" type="audio/mpeg" length="72747693"></enclosure>
+      <itunes:title>Steinar Sagen</itunes:title>
+      <itunes:summary>Tatoveringer vi angrer på, pantemillionærer og en Steinar-avstemning. Ta godt imot den 12. kandidat!</itunes:summary>
+      <itunes:duration>3031</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OtGjYKg8NaLD_p2DBs6e0grzA3TbneOuE4LXrP0j_OlQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2025">202504</podcast:season>
+    </item>
+    <item>
+      <title>Ulrikke Brandstorp</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_af7fc435-7853-49cd-bfc4-35785329cd0e</link>
+      <description>Sarpsborg, Sabrina Carpenter og hunder – hva mer kan man ønske seg? Ta godt imot kandidat nummer 11!</description>
+      <guid isPermaLink="false">l_af7fc435-7853-49cd-bfc4-35785329cd0e</guid>
+      <pubDate>Mon, 31 Mar 2025 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/1ee50168-fabe-4a9a-9035-99d72c1d63d7_0_ID192MP3.mp3" type="audio/mpeg" length="75554541"></enclosure>
+      <itunes:title>Ulrikke Brandstorp</itunes:title>
+      <itunes:summary>Sarpsborg, Sabrina Carpenter og hunder – hva mer kan man ønske seg? Ta godt imot kandidat nummer 11!</itunes:summary>
+      <itunes:duration>3148</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/XkuMnGOFll4Ru8qe1y4cUAMNb8a5hG0wTqWFQSNdk0fg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2025">202503</podcast:season>
+    </item>
+    <item>
+      <title>Ole Soo</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_44179e45-0d1c-480c-979e-450d1c280cfc</link>
+      <description>Han tenker alltid på mat, han er stolt el-sparkesyklist og han er vår kandidat nummer 10!</description>
+      <guid isPermaLink="false">l_44179e45-0d1c-480c-979e-450d1c280cfc</guid>
+      <pubDate>Mon, 24 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/ab5fffe3-ae1a-47a1-a8b6-951f971c5005_0_ID192MP3.mp3" type="audio/mpeg" length="66051693"></enclosure>
+      <itunes:title>Ole Soo</itunes:title>
+      <itunes:summary>Han tenker alltid på mat, han er stolt el-sparkesyklist og han er vår kandidat nummer 10!</itunes:summary>
+      <itunes:duration>2752</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xgiyus6fQUW6sHzTiQfu5wirRvHYFd-urpqiNR6J6ncw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2025">202503</podcast:season>
+    </item>
+    <item>
+      <title>Mia Hundvin</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_e7267296-421a-4b85-a672-96421afb85f6</link>
+      <description>Juksemakeri, bryllupsplanlegging og økonomiske investeringer er noen av stikkordene for dagens audition – kandidat ni er på plass!</description>
+      <guid isPermaLink="false">l_e7267296-421a-4b85-a672-96421afb85f6</guid>
+      <pubDate>Mon, 17 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/0938d960-73f6-4345-a76e-97219d412b8b_0_ID192MP3.mp3" type="audio/mpeg" length="74568429"></enclosure>
+      <itunes:title>Mia Hundvin</itunes:title>
+      <itunes:summary>Juksemakeri, bryllupsplanlegging og økonomiske investeringer er noen av stikkordene for dagens audition – kandidat ni er på plass!</itunes:summary>
+      <itunes:duration>3106</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wt1HRCwfIUArSBC6o_IbNgfPCL6HXhQiHlj75FjRNiyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2025">202503</podcast:season>
+    </item>
+    <item>
+      <title>Marlene Stavrum</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_961ff777-bcb7-47d8-9ff7-77bcb7c7d8b0</link>
+      <description>Marlene og Adelina diskuterer ny sminketrend, cottage cheese og gjør stand-up</description>
+      <guid isPermaLink="false">l_961ff777-bcb7-47d8-9ff7-77bcb7c7d8b0</guid>
+      <pubDate>Mon, 10 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/c40bc39b-f934-44c6-a366-c874fd79ca9a_0_ID192MP3.mp3" type="audio/mpeg" length="59662701"></enclosure>
+      <itunes:title>Marlene Stavrum</itunes:title>
+      <itunes:summary>Marlene og Adelina diskuterer ny sminketrend, cottage cheese og gjør stand-up</itunes:summary>
+      <itunes:duration>2485</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UQ_jkmKo1Z3plepGRgUJ2gbhzbJerHS3dVc4MdL8Fw-w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2025">202503</podcast:season>
+    </item>
+    <item>
+      <title>Jon Almaas</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_a86b721d-92b5-4ff7-ab72-1d92b55ff7f5</link>
+      <description>Hele Norges Jon Almaas skal endelig prøve seg som programleder i podkastverdenen – og har mye på hjertet!</description>
+      <guid isPermaLink="false">l_a86b721d-92b5-4ff7-ab72-1d92b55ff7f5</guid>
+      <pubDate>Mon, 03 Mar 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/db59e718-eb27-49ac-8515-da8339389195_0_ID192MP3.mp3" type="audio/mpeg" length="77269293"></enclosure>
+      <itunes:title>Jon Almaas</itunes:title>
+      <itunes:summary>Hele Norges Jon Almaas skal endelig prøve seg som programleder i podkastverdenen – og har mye på hjertet!</itunes:summary>
+      <itunes:duration>3219</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3tWC1WrrXUBWws9On1KR8wq_vqksDKeARWDjfoWTDgHw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mars 2025">202503</podcast:season>
+    </item>
+    <item>
+      <title>Tara Lina Shahin</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_273b0183-fe4a-420e-bb01-83fe4ad20ec8</link>
+      <description>Ta godt imot kandidat seks. En episode med promping som rød tråd!</description>
+      <guid isPermaLink="false">l_273b0183-fe4a-420e-bb01-83fe4ad20ec8</guid>
+      <pubDate>Mon, 24 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/c9e3a241-c19f-433d-af7a-fc1f10ab3e14_0_ID192MP3.mp3" type="audio/mpeg" length="54202221"></enclosure>
+      <itunes:title>Tara Lina Shahin</itunes:title>
+      <itunes:summary>Ta godt imot kandidat seks. En episode med promping som rød tråd!</itunes:summary>
+      <itunes:duration>2258</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/20-iuh8awvCq93MggZD9Bg2Elnt1OFmectH_jgCwpZnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2025">202502</podcast:season>
+    </item>
+    <item>
+      <title>Kristoffer Olsen</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_42b85e75-c90f-45f9-b85e-75c90f25f90b</link>
+      <description>Kandidat fem kommer inn med skyhøy selvtillit. En audition med strøm, analkløe og dødsangst i fokus!</description>
+      <guid isPermaLink="false">l_42b85e75-c90f-45f9-b85e-75c90f25f90b</guid>
+      <pubDate>Mon, 17 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/9041a17c-aed0-490d-9668-bfeae0fd2004_0_ID192MP3.mp3" type="audio/mpeg" length="71951661"></enclosure>
+      <itunes:title>Kristoffer Olsen</itunes:title>
+      <itunes:summary>Kandidat fem kommer inn med skyhøy selvtillit. En audition med strøm, analkløe og dødsangst i fokus!</itunes:summary>
+      <itunes:duration>2997</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gSenJsMekdq_9X4MGt-ZmwrkKk5YA7MrFmzsZCgr1mtA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2025">202502</podcast:season>
+    </item>
+    <item>
+      <title>Martha Leivestad</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_494e9052-eedc-4451-8e90-52eedc645167</link>
+      <description>Martha deler velvillig om nudiststrand på Hawaii, kinogodteri og sin periode som emo-kid. Fjerde kandidat er på plass!</description>
+      <guid isPermaLink="false">l_494e9052-eedc-4451-8e90-52eedc645167</guid>
+      <pubDate>Mon, 10 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/780b3d3a-92ce-4904-a568-ae07ea0f30b7_0_ID192MP3.mp3" type="audio/mpeg" length="55040877"></enclosure>
+      <itunes:title>Martha Leivestad</itunes:title>
+      <itunes:summary>Martha deler velvillig om nudiststrand på Hawaii, kinogodteri og sin periode som emo-kid. Fjerde kandidat er på plass!</itunes:summary>
+      <itunes:duration>2293</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3LFkCyJKyWGyR7Z6T7AzpAkRxxeONuKEvqHT4ajlLcqQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2025">202502</podcast:season>
+    </item>
+    <item>
+      <title>Nora Svenningsen</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_b5b3b3fc-8c11-4ff2-b3b3-fc8c118ff2f6</link>
+      <description>Tredje kandidat! Det blir kaklemaraton når Nora Svenningsen og Adelina gjennomfører audition!</description>
+      <guid isPermaLink="false">l_b5b3b3fc-8c11-4ff2-b3b3-fc8c118ff2f6</guid>
+      <pubDate>Mon, 03 Feb 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/198028da-191d-4da7-bbde-caffc1313774_0_ID192MP3.mp3" type="audio/mpeg" length="66536109"></enclosure>
+      <itunes:title>Nora Svenningsen</itunes:title>
+      <itunes:summary>Tredje kandidat! Det blir kaklemaraton når Nora Svenningsen og Adelina gjennomfører audition!</itunes:summary>
+      <itunes:duration>2772</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/q7QZPqUwRmtTStnLOinYgAIfFQLFVmkMncuBqiCtF4aw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Februar 2025">202502</podcast:season>
+    </item>
+    <item>
+      <title>Steinar Hallert</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_046d250d-e617-4ca8-ad25-0de617aca884</link>
+      <description>Andre kandidat er på plass! Adelina utfordrer Steinar Hallert – for han er jo veldig morsom ... men kan han være genuin?</description>
+      <guid isPermaLink="false">l_046d250d-e617-4ca8-ad25-0de617aca884</guid>
+      <pubDate>Mon, 27 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/2ca08a1c-7f23-45bc-a002-3933985ede1a_0_ID192MP3.mp3" type="audio/mpeg" length="87990381"></enclosure>
+      <itunes:title>Steinar Hallert</itunes:title>
+      <itunes:summary>Andre kandidat er på plass! Adelina utfordrer Steinar Hallert – for han er jo veldig morsom ... men kan han være genuin?</itunes:summary>
+      <itunes:duration>3666</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/czN6kxpmLPoFPod9FjvcCAfsuCLq6AQmBliKNJxGxbJw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2025">202501</podcast:season>
+    </item>
+    <item>
+      <title>Morten Ramm</title>
+      <link>https://radio.nrk.no/podkast/paa_audition/l_6c1e66e1-7bf8-4972-9e66-e17bf8297250</link>
+      <description>Førstemann ut er Morten Ramm. Adelina vil inn under huden: har han egenskaper hun leter etter – eller noen hun absolutt ikke vil ha?</description>
+      <guid isPermaLink="false">l_6c1e66e1-7bf8-4972-9e66-e17bf8297250</guid>
+      <pubDate>Mon, 20 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/paa_audition/10cb16b9-3430-414f-badf-f8f5aefd6170_0_ID192MP3.mp3" type="audio/mpeg" length="58913901"></enclosure>
+      <itunes:title>Morten Ramm</itunes:title>
+      <itunes:summary>Førstemann ut er Morten Ramm. Adelina vil inn under huden: har han egenskaper hun leter etter – eller noen hun absolutt ikke vil ha?</itunes:summary>
+      <itunes:duration>2454</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/So5oz0e3wLJNWzYQOFx6GAn3jlERWIYJys17NRh0Om2w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Januar 2025">202501</podcast:season>
+    </item>
+  </channel>
+</rss>

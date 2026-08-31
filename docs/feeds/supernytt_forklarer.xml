@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supernytt forklarer</title>
+    <link>https://radio.nrk.no/podkast/supernytt_forklarer</link>
+    <description>Hva skjedde egentlig? Supernytt forklarer store og små hendelser som har påvirket verden.&#xA;Supernytt sin egen podkast hører du i appen NRK Radio!&#xA;&#xA;NRK Skole har laget undervisningsopplegg og veiledning til hvordan bruke podkasten i undervisning.  &#xA;</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 04 Dec 2024 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/supernytt_forklarer.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Hva skjedde egentlig? Supernytt forklarer store og små hendelser som har påvirket verden.&#xA;Supernytt sin egen podkast hører du i appen NRK Radio!&#xA;&#xA;NRK Skole har laget undervisningsopplegg og veiledning til hvordan bruke podkasten i undervisning.  &#xA;</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/McgGBvK8QsMThfw4naZDKQ-PYjjAI7OJkzWAeCuoeYzg"></itunes:image>
+    <itunes:category text="Kids &amp; Family"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/McgGBvK8QsMThfw4naZDKQ-PYjjAI7OJkzWAeCuoeYzg</url>
+      <title>Supernytt forklarer</title>
+      <link>https://radio.nrk.no/podkast/supernytt_forklarer</link>
+    </image>
+    <item>
+      <title>Politimannen som ble skurk</title>
+      <link>https://radio.nrk.no/podkast/supernytt_forklarer/l_c14d8d26-f4bd-4ad1-8d8d-26f4bdbad111</link>
+      <description>Eirik Jensen var en flink politimann, men så viste det seg at han samarbeidet med skurkene.</description>
+      <guid isPermaLink="false">l_c14d8d26-f4bd-4ad1-8d8d-26f4bdbad111</guid>
+      <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supernytt_forklarer/66ce7b98-09d4-4bf9-aa9d-78965584bc0d_0_ID192MP3.mp3" type="audio/mpeg" length="18457389"></enclosure>
+      <itunes:title>Politimannen som ble skurk</itunes:title>
+      <itunes:summary>Eirik Jensen var en flink politimann, men så viste det seg at han samarbeidet med skurkene.</itunes:summary>
+      <itunes:duration>768</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/37COUjedUgwLf8flTufn3wGrgZXZHq1bg8YVDoJAjTyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Verdens verste fotball-VM?</title>
+      <link>https://radio.nrk.no/podkast/supernytt_forklarer/l_eca37033-5fe7-45c8-a370-335fe715c8cf</link>
+      <description>Messi og Argentina tok VM-gull i Qatar i 2022, men mange mener at dette VM-et aldri skulle vært arrangert. Hvorfor det?</description>
+      <guid isPermaLink="false">l_eca37033-5fe7-45c8-a370-335fe715c8cf</guid>
+      <pubDate>Wed, 27 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supernytt_forklarer/a01d684d-a6c3-4cf1-8103-22fa39098e01_0_ID192MP3.mp3" type="audio/mpeg" length="19678509"></enclosure>
+      <itunes:title>Verdens verste fotball-VM?</itunes:title>
+      <itunes:summary>Messi og Argentina tok VM-gull i Qatar i 2022, men mange mener at dette VM-et aldri skulle vært arrangert. Hvorfor det?</itunes:summary>
+      <itunes:duration>819</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/miuu2n-ak4v9wlbRVjXhOwj6fxuJfn6XTOe2_B5-Y8EQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva er Brexit?</title>
+      <link>https://radio.nrk.no/podkast/supernytt_forklarer/l_09760473-9081-490e-b604-739081a90e3a</link>
+      <description>Brexit fikk hele Storbritannia til å krangle i 2016, og det ble kaos i mange år etterpå. Hva skjedde og hva er egentlig Brexit?</description>
+      <guid isPermaLink="false">l_09760473-9081-490e-b604-739081a90e3a</guid>
+      <pubDate>Wed, 20 Nov 2024 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supernytt_forklarer/a109fb61-194f-40b2-b056-b5b4a1867358_0_ID192MP3.mp3" type="audio/mpeg" length="18682605"></enclosure>
+      <itunes:title>Hva er Brexit?</itunes:title>
+      <itunes:summary>Brexit fikk hele Storbritannia til å krangle i 2016, og det ble kaos i mange år etterpå. Hva skjedde og hva er egentlig Brexit?</itunes:summary>
+      <itunes:duration>778</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eiCMRSwGjOXU0SxQwSYSigIKaFpLy7pagxSPpcY9rMPA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva mener egentlig Andrew Tate?</title>
+      <link>https://radio.nrk.no/podkast/supernytt_forklarer/l_da2ed58c-736f-41c7-aed5-8c736f81c729</link>
+      <description>Andrew Tate provoserer og inspirerer mange på internett, og nå er han tiltalt for alvorlige forbrytelser. Hva betyr meningene hans egentlig?</description>
+      <guid isPermaLink="false">l_da2ed58c-736f-41c7-aed5-8c736f81c729</guid>
+      <pubDate>Wed, 30 Oct 2024 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supernytt_forklarer/ce10ecbc-db5e-4b50-a681-d4a69e5d5c80_0_ID192MP3.mp3" type="audio/mpeg" length="21677229"></enclosure>
+      <itunes:title>Hva mener egentlig Andrew Tate?</itunes:title>
+      <itunes:summary>Andrew Tate provoserer og inspirerer mange på internett, og nå er han tiltalt for alvorlige forbrytelser. Hva betyr meningene hans egentlig?</itunes:summary>
+      <itunes:duration>903</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7dCkGJx3jo9G05Z7H2XyjANVyJT2gPFdwbs4IdJGSYHQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Da hvalrossen Freya kom til Norge</title>
+      <link>https://radio.nrk.no/podkast/supernytt_forklarer/l_c59e5d98-73ac-4d98-9e5d-9873ac9d9887</link>
+      <description>Hvalrossen Freya ble kjendis i Norge sommeren 2022, og alle ville ta bilder og bade med henne. Og så bestemte myndighetene at hun måtte dø. Hvorfor?</description>
+      <guid isPermaLink="false">l_c59e5d98-73ac-4d98-9e5d-9873ac9d9887</guid>
+      <pubDate>Wed, 23 Oct 2024 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supernytt_forklarer/af34f378-8507-4893-9b73-7eaf84d31053_0_ID192MP3.mp3" type="audio/mpeg" length="19688877"></enclosure>
+      <itunes:title>Da hvalrossen Freya kom til Norge</itunes:title>
+      <itunes:summary>Hvalrossen Freya ble kjendis i Norge sommeren 2022, og alle ville ta bilder og bade med henne. Og så bestemte myndighetene at hun måtte dø. Hvorfor?</itunes:summary>
+      <itunes:duration>820</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/umpv93vlCfNglFm__ZHxbAAhsCAOuaHM8v88w2vyaeFw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Hva skjedde med Prime?</title>
+      <link>https://radio.nrk.no/podkast/supernytt_forklarer/l_d9ba0c49-3287-42d4-ba0c-493287c2d4ef</link>
+      <description>Energidrikken Prime ble solgt for flere hundre kroner flaska. Nå koster den samme flaska få kroner. Hva skjedde?</description>
+      <guid isPermaLink="false">l_d9ba0c49-3287-42d4-ba0c-493287c2d4ef</guid>
+      <pubDate>Wed, 16 Oct 2024 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supernytt_forklarer/52f85922-8a96-4970-980a-84f740dc0767_0_ID192MP3.mp3" type="audio/mpeg" length="16964397"></enclosure>
+      <itunes:title>Hva skjedde med Prime?</itunes:title>
+      <itunes:summary>Energidrikken Prime ble solgt for flere hundre kroner flaska. Nå koster den samme flaska få kroner. Hva skjedde?</itunes:summary>
+      <itunes:duration>706</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uqGMrJxrDWEgpUDT2fiINQgSjWQixAo3nfZZoT6UDcEA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Drapet på George Floyd</title>
+      <link>https://radio.nrk.no/podkast/supernytt_forklarer/l_5e05e53c-cedc-4bdf-85e5-3ccedc4bdfb9</link>
+      <description>Da George Floyd ble drept av en politimann i 2020, skapte det voldsomme reaksjoner over hele verden. Vi forklarer hva som skjedde.</description>
+      <guid isPermaLink="false">l_5e05e53c-cedc-4bdf-85e5-3ccedc4bdfb9</guid>
+      <pubDate>Wed, 25 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supernytt_forklarer/2a7057aa-9c99-402b-9b9f-db3c59f14827_0_ID192MP3.mp3" type="audio/mpeg" length="19929069"></enclosure>
+      <itunes:title>Drapet på George Floyd</itunes:title>
+      <itunes:summary>Da George Floyd ble drept av en politimann i 2020, skapte det voldsomme reaksjoner over hele verden. Vi forklarer hva som skjedde.</itunes:summary>
+      <itunes:duration>830</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4xWvcsm2QPnqD-6ZQ1Qv8ghqgOJHNU5esYGOLs3ZZ5RQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Da mobilen endret verden</title>
+      <link>https://radio.nrk.no/podkast/supernytt_forklarer/l_d9ba1913-0612-4481-ba19-130612e4818f</link>
+      <description>I dag bruker vi mobilen til alt. Men hvor kom smarttelefonen egentlig fra?</description>
+      <guid isPermaLink="false">l_d9ba1913-0612-4481-ba19-130612e4818f</guid>
+      <pubDate>Wed, 18 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supernytt_forklarer/2930cb60-188e-43e3-8ec3-e6f725e6292e_0_ID192MP3.mp3" type="audio/mpeg" length="16872813"></enclosure>
+      <itunes:title>Da mobilen endret verden</itunes:title>
+      <itunes:summary>I dag bruker vi mobilen til alt. Men hvor kom smarttelefonen egentlig fra?</itunes:summary>
+      <itunes:duration>702</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VQ4tjGRQ1S2cARllP16WqwKENDqIATEjRKUdaO0Hx4Sg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Terroren 11.september 2001</title>
+      <link>https://radio.nrk.no/podkast/supernytt_forklarer/l_5d6933ea-a655-4741-a933-eaa655e74135</link>
+      <description>Terrorangrepene i USA den 11. september 2001 endret verden for alltid. Hva skjedde egentlig?</description>
+      <guid isPermaLink="false">l_5d6933ea-a655-4741-a933-eaa655e74135</guid>
+      <pubDate>Wed, 11 Sep 2024 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supernytt_forklarer/a591cf1d-548f-47bc-a2ab-19c3d116cde0_0_ID192MP3.mp3" type="audio/mpeg" length="22159917"></enclosure>
+      <itunes:title>Terroren 11.september 2001</itunes:title>
+      <itunes:summary>Terrorangrepene i USA den 11. september 2001 endret verden for alltid. Hva skjedde egentlig?</itunes:summary>
+      <itunes:duration>923</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/d8qkawmrkz9klx_BzFwN-gnhyv01iUhKuI3XA7PAjnjA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Greta Thunbergs skolestreik</title>
+      <link>https://radio.nrk.no/podkast/supernytt_forklarer/l_cb33805c-f925-4125-b380-5cf92541254d</link>
+      <description>Greta Thunberg skulket skolen for å sette fokus på klimaendringene og fikk med seg elever over hele verden. Hvordan gikk det til?</description>
+      <guid isPermaLink="false">l_cb33805c-f925-4125-b380-5cf92541254d</guid>
+      <pubDate>Wed, 11 Sep 2024 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supernytt_forklarer/751030b3-7816-479d-8ef4-879c12794ba9_0_ID192MP3.mp3" type="audio/mpeg" length="19259181"></enclosure>
+      <itunes:title>Greta Thunbergs skolestreik</itunes:title>
+      <itunes:summary>Greta Thunberg skulket skolen for å sette fokus på klimaendringene og fikk med seg elever over hele verden. Hvordan gikk det til?</itunes:summary>
+      <itunes:duration>802</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FUIMVz_6bzhPq5fJ-GzVvg2O0L0k91vv_8uEex6DJmog"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>#metoo mot trakassering</title>
+      <link>https://radio.nrk.no/podkast/supernytt_forklarer/l_08ea2c35-e122-4ccd-aa2c-35e1224ccd84</link>
+      <description>Hollywood-stjernen Alyssa Milano gikk viralt med å dele to ord: Me too. Hva betydde det, og hvordan endret disse to ordene verden?</description>
+      <guid isPermaLink="false">l_08ea2c35-e122-4ccd-aa2c-35e1224ccd84</guid>
+      <pubDate>Wed, 11 Sep 2024 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supernytt_forklarer/a5e69490-2e66-4258-9e23-b4be3ec4787e_0_ID192MP3.mp3" type="audio/mpeg" length="18635949"></enclosure>
+      <itunes:title>#metoo mot trakassering</itunes:title>
+      <itunes:summary>Hollywood-stjernen Alyssa Milano gikk viralt med å dele to ord: Me too. Hva betydde det, og hvordan endret disse to ordene verden?</itunes:summary>
+      <itunes:duration>776</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rXVIr-PFwW_9UkwafBGz1Az_yuF2WwVEyu217ZDpwJfg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

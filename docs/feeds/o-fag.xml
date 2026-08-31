@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O-fag</title>
+    <link>https://radio.nrk.no/podkast/o-fag</link>
+    <description>Visste du at Brødrene Ylvis lagde radioprogrammet &#34;O-fag&#34; på NRK P3 for 10 år siden? Det ble veldig populært, og mange har etterspurt programmet som podkast. Nå kan du endelig laste ned alle sendingene fra henholdsvis 2006 og 2008. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 12 Sep 2018 06:39:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/o-fag.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Visste du at Brødrene Ylvis lagde radioprogrammet &#34;O-fag&#34; på NRK P3 for 10 år siden? Det ble veldig populært, og mange har etterspurt programmet som podkast. Nå kan du endelig laste ned alle sendingene fra henholdsvis 2006 og 2008. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og</url>
+      <title>O-fag</title>
+      <link>https://radio.nrk.no/podkast/o-fag</link>
+    </image>
+    <item>
+      <title>Program 55: Halitosis, Amen &amp; omen</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_7dd53831-af17-40cf-9538-31af1720cfcc</link>
+      <description>Lite skjer på Tristan da Cunha, men guttene lar seg ikke vippe av pinnen. Kaare Norum svarer på mat- og krydderspørsmål. Paracet. En syngende hotell-booking. Sendt 18. juli 2008.</description>
+      <guid isPermaLink="false">l_7dd53831-af17-40cf-9538-31af1720cfcc</guid>
+      <pubDate>Wed, 12 Sep 2018 08:39:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_2933.MP3" type="audio/mpeg" length="38197917"></enclosure>
+      <itunes:title>Program 55: Halitosis, Amen &amp; omen</itunes:title>
+      <itunes:summary>Lite skjer på Tristan da Cunha, men guttene lar seg ikke vippe av pinnen. Kaare Norum svarer på mat- og krydderspørsmål. Paracet. En syngende hotell-booking. Sendt 18. juli 2008.</itunes:summary>
+      <itunes:duration>1587</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 54: Samisk snikksnakk og leveringsklare u-båter</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_bb687b16-0a07-4610-a87b-160a07461017</link>
+      <description>Ylvis-gutta gir deg leksjon 20 i Samish, Ibux handler om Stevens-Johnson syndrom. Og vi får kåseri ved Johan Olav Radd og premiere på &#34;Der teufels goldfish&#34;. Sendt 17. juli 2008.</description>
+      <guid isPermaLink="false">l_bb687b16-0a07-4610-a87b-160a07461017</guid>
+      <pubDate>Wed, 12 Sep 2018 08:36:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_85.MP3" type="audio/mpeg" length="33708430"></enclosure>
+      <itunes:title>Program 54: Samisk snikksnakk og leveringsklare u-båter</itunes:title>
+      <itunes:summary>Ylvis-gutta gir deg leksjon 20 i Samish, Ibux handler om Stevens-Johnson syndrom. Og vi får kåseri ved Johan Olav Radd og premiere på &#34;Der teufels goldfish&#34;. Sendt 17. juli 2008.</itunes:summary>
+      <itunes:duration>1400</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 53: Dårlige vaner i Nederland og rosinen i Ibux-pølsa</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_de803d86-f5f2-4e66-803d-86f5f2ce6678</link>
+      <description>Den danske ambassaden i Nederland må svare på hvor mye dop det er lov å ta med ut av Nederland. En av de verste mulige bivirkningene av Ibux avsløres.   Sendt 16. juli 2008. &#xA;</description>
+      <guid isPermaLink="false">l_de803d86-f5f2-4e66-803d-86f5f2ce6678</guid>
+      <pubDate>Wed, 12 Sep 2018 08:33:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_516.MP3" type="audio/mpeg" length="32139208"></enclosure>
+      <itunes:title>Program 53: Dårlige vaner i Nederland og rosinen i Ibux-pølsa</itunes:title>
+      <itunes:summary>Den danske ambassaden i Nederland må svare på hvor mye dop det er lov å ta med ut av Nederland. En av de verste mulige bivirkningene av Ibux avsløres.   Sendt 16. juli 2008. &#xA;</itunes:summary>
+      <itunes:duration>1335</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 52: Shopping på &#34;samish&#34; og tidsreiser</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_d1e69dbb-e381-4763-a69d-bbe381b76349</link>
+      <description>Det blir lynkurs i shopping på &#34;samish&#34; og musiker Julian Berntzen kommer innom for å snakke om reiser i tid og rom, kornsirkler og andre paranormale fenomener. Det blir også O-fag-kåseri. Sendt 15. juli 2008. &#xA;</description>
+      <guid isPermaLink="false">l_d1e69dbb-e381-4763-a69d-bbe381b76349</guid>
+      <pubDate>Wed, 12 Sep 2018 08:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_891.MP3" type="audio/mpeg" length="35698324"></enclosure>
+      <itunes:title>Program 52: Shopping på &#34;samish&#34; og tidsreiser</itunes:title>
+      <itunes:summary>Det blir lynkurs i shopping på &#34;samish&#34; og musiker Julian Berntzen kommer innom for å snakke om reiser i tid og rom, kornsirkler og andre paranormale fenomener. Det blir også O-fag-kåseri. Sendt 15. juli 2008. &#xA;</itunes:summary>
+      <itunes:duration>1483</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 51: Tulletelefoner med dobbeltstemme</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_35560212-ad43-493b-9602-12ad43d93b49</link>
+      <description>Det er mandag og spørretime, og spørsmålene raser inn. Bård og Vegard ringer Pensjonistpartiet og Opplysningen med dobbelstemme. I &#34;Samish&#34; handler det om å snakke samisk når du er syk. Sendt 14. juli 2008.</description>
+      <guid isPermaLink="false">l_35560212-ad43-493b-9602-12ad43d93b49</guid>
+      <pubDate>Wed, 12 Sep 2018 08:27:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_2635.MP3" type="audio/mpeg" length="33558580"></enclosure>
+      <itunes:title>Program 51: Tulletelefoner med dobbeltstemme</itunes:title>
+      <itunes:summary>Det er mandag og spørretime, og spørsmålene raser inn. Bård og Vegard ringer Pensjonistpartiet og Opplysningen med dobbelstemme. I &#34;Samish&#34; handler det om å snakke samisk når du er syk. Sendt 14. juli 2008.</itunes:summary>
+      <itunes:duration>1394</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 50: Drit i spriten, ta med grevling</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_486c2c3b-af89-4bd6-ac2c-3baf89abd68d</link>
+      <description>Vidar &#34;Big Boy&#34; Myklebust tar seg av pikante lytterspørsmål og Brynjar Kvam leverer ekstra-ekstra helgenyhetsmagasin. Ellers blir det ny leksjon i Samish, noen lytterspørsmål i en kjapp spørretime og 1002 fantastiske facts. Sendt 11. juli 2008.</description>
+      <guid isPermaLink="false">l_486c2c3b-af89-4bd6-ac2c-3baf89abd68d</guid>
+      <pubDate>Wed, 12 Sep 2018 08:24:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_206.MP3" type="audio/mpeg" length="31128565"></enclosure>
+      <itunes:title>Program 50: Drit i spriten, ta med grevling</itunes:title>
+      <itunes:summary>Vidar &#34;Big Boy&#34; Myklebust tar seg av pikante lytterspørsmål og Brynjar Kvam leverer ekstra-ekstra helgenyhetsmagasin. Ellers blir det ny leksjon i Samish, noen lytterspørsmål i en kjapp spørretime og 1002 fantastiske facts. Sendt 11. juli 2008.</itunes:summary>
+      <itunes:duration>1293</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 49: På Bahamas sin happy day</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_a204160f-1734-4bbb-8416-0f1734abbba4</link>
+      <description>Ny dose Ibux, leksjon 16 i Samish og premiere på låta &#34;Hairy scary&#34;. Og Ylvis ringer sin venn i zoologien, Petter Bøckman. Sendt 10. juli 2008.</description>
+      <guid isPermaLink="false">l_a204160f-1734-4bbb-8416-0f1734abbba4</guid>
+      <pubDate>Wed, 12 Sep 2018 08:21:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1098.MP3" type="audio/mpeg" length="32653900"></enclosure>
+      <itunes:title>Program 49: På Bahamas sin happy day</itunes:title>
+      <itunes:summary>Ny dose Ibux, leksjon 16 i Samish og premiere på låta &#34;Hairy scary&#34;. Og Ylvis ringer sin venn i zoologien, Petter Bøckman. Sendt 10. juli 2008.</itunes:summary>
+      <itunes:duration>1356</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 48: Kva seier katten?</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_a100438b-630d-42f3-8043-8b630db2f368</link>
+      <description>Det er musikkonsdag der lytterne sender inn låttittel og Ylvis-brødrene lager sangen. Brynjar Kvam presenter nyheter, og vi får spaltene Ibux, Samish. og 1002 fantastiske facts. Sendt 9. juli 2008.</description>
+      <guid isPermaLink="false">l_a100438b-630d-42f3-8043-8b630db2f368</guid>
+      <pubDate>Wed, 12 Sep 2018 08:18:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_3912.MP3" type="audio/mpeg" length="33890216"></enclosure>
+      <itunes:title>Program 48: Kva seier katten?</itunes:title>
+      <itunes:summary>Det er musikkonsdag der lytterne sender inn låttittel og Ylvis-brødrene lager sangen. Brynjar Kvam presenter nyheter, og vi får spaltene Ibux, Samish. og 1002 fantastiske facts. Sendt 9. juli 2008.</itunes:summary>
+      <itunes:duration>1408</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 47: Mor, æ vil tebake</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_7444b65b-c303-417b-84b6-5bc303017bda</link>
+      <description>I det paranormale hjørnet forteller Julian Berntzen om spiritisme, teleplasma og ektoplasma. Vi får vite mer om bivirkningene til Ibux og lærer et nytt samisk uttrykk i leksjon 14 i Samish. Sendt 8. juli 2008.</description>
+      <guid isPermaLink="false">l_7444b65b-c303-417b-84b6-5bc303017bda</guid>
+      <pubDate>Wed, 12 Sep 2018 08:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_58.MP3" type="audio/mpeg" length="36393582"></enclosure>
+      <itunes:title>Program 47: Mor, æ vil tebake</itunes:title>
+      <itunes:summary>I det paranormale hjørnet forteller Julian Berntzen om spiritisme, teleplasma og ektoplasma. Vi får vite mer om bivirkningene til Ibux og lærer et nytt samisk uttrykk i leksjon 14 i Samish. Sendt 8. juli 2008.</itunes:summary>
+      <itunes:duration>1512</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 46: Danske midtsommerskikker</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_7abab2e1-c5ab-4698-bab2-e1c5ab56982b</link>
+      <description>Mandag betyr spørretime og Ylvis finner ut mer om danske midtsommerskikker. I Samish får vi leksjon 13 i det samiske språkkurset, i dag med joik. Ellers blir det som vanlig Ibux. Sendt 7. juli 2008.</description>
+      <guid isPermaLink="false">l_7abab2e1-c5ab-4698-bab2-e1c5ab56982b</guid>
+      <pubDate>Wed, 12 Sep 2018 08:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_3168.MP3" type="audio/mpeg" length="35258203"></enclosure>
+      <itunes:title>Program 46: Danske midtsommerskikker</itunes:title>
+      <itunes:summary>Mandag betyr spørretime og Ylvis finner ut mer om danske midtsommerskikker. I Samish får vi leksjon 13 i det samiske språkkurset, i dag med joik. Ellers blir det som vanlig Ibux. Sendt 7. juli 2008.</itunes:summary>
+      <itunes:duration>1465</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 45: Big Boy swinging</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_1fb1170d-14dc-4ccf-b117-0d14dccccffc</link>
+      <description>Vidar &#34;Big Boy&#34; Myklebust svarer på intime lytterspørsmål, det blir konkurranse i Samish, spaltene Ibux, nyheter ved Brynjar Kvam og 1002 fantastiske facts. Sendt 4. juli 2008 </description>
+      <guid isPermaLink="false">l_1fb1170d-14dc-4ccf-b117-0d14dccccffc</guid>
+      <pubDate>Wed, 12 Sep 2018 08:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_3326.MP3" type="audio/mpeg" length="31299077"></enclosure>
+      <itunes:title>Program 45: Big Boy swinging</itunes:title>
+      <itunes:summary>Vidar &#34;Big Boy&#34; Myklebust svarer på intime lytterspørsmål, det blir konkurranse i Samish, spaltene Ibux, nyheter ved Brynjar Kvam og 1002 fantastiske facts. Sendt 4. juli 2008 </itunes:summary>
+      <itunes:duration>1300</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 44: Teller til ti på &#34;samish&#34; og synger &#34;fishy&#34; sang</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_a7a570a2-8cdb-4c8d-a570-a28cdb7c8d71</link>
+      <description>Ylvis-brødrene teller til ti på &#34;Samish&#34;, ringer flere sykkelbutikker i Nederland og framfører sangen &#34;My Fish is Your Fish&#34;.  Sendt 3. juli 2008.</description>
+      <guid isPermaLink="false">l_a7a570a2-8cdb-4c8d-a570-a28cdb7c8d71</guid>
+      <pubDate>Wed, 12 Sep 2018 08:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_2937.MP3" type="audio/mpeg" length="30956173"></enclosure>
+      <itunes:title>Program 44: Teller til ti på &#34;samish&#34; og synger &#34;fishy&#34; sang</itunes:title>
+      <itunes:summary>Ylvis-brødrene teller til ti på &#34;Samish&#34;, ringer flere sykkelbutikker i Nederland og framfører sangen &#34;My Fish is Your Fish&#34;.  Sendt 3. juli 2008.</itunes:summary>
+      <itunes:duration>1286</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 43: Sykling uten søvn og ekkel stank fra septiktank</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_07865fdb-dd3a-4235-865f-dbdd3ab235ae</link>
+      <description>Dr. Asle T. Johansen svarer på spørsmål om tullete kroppsdeler og forteller om egne sykkeleskapader. Jarle Røssland forteller hvordan en lokfører holder seg våken. Ylvis-brødrene framfører sangen &#34;Ekkel stank fra septiktank&#34;. Sendt 2. juli 2008.</description>
+      <guid isPermaLink="false">l_07865fdb-dd3a-4235-865f-dbdd3ab235ae</guid>
+      <pubDate>Wed, 12 Sep 2018 08:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_460.MP3" type="audio/mpeg" length="35216221"></enclosure>
+      <itunes:title>Program 43: Sykling uten søvn og ekkel stank fra septiktank</itunes:title>
+      <itunes:summary>Dr. Asle T. Johansen svarer på spørsmål om tullete kroppsdeler og forteller om egne sykkeleskapader. Jarle Røssland forteller hvordan en lokfører holder seg våken. Ylvis-brødrene framfører sangen &#34;Ekkel stank fra septiktank&#34;. Sendt 2. juli 2008.</itunes:summary>
+      <itunes:duration>1463</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 42: Verdens mest hjemsøkte spøkelseshus</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_6d1012b5-7045-4cfb-9012-b57045fcfb00</link>
+      <description>Zoolog Petter Bøckmann svarer på spørsmål om kortvokste dyr, navler og katter på to bein. Musiker Julian Berntzen forteller om nye paranormale fenomener. Og telefonen til Nederland går til SUS-telefonen. Sendt 1. juli 2008.</description>
+      <guid isPermaLink="false">l_6d1012b5-7045-4cfb-9012-b57045fcfb00</guid>
+      <pubDate>Wed, 12 Sep 2018 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_783.MP3" type="audio/mpeg" length="34610586"></enclosure>
+      <itunes:title>Program 42: Verdens mest hjemsøkte spøkelseshus</itunes:title>
+      <itunes:summary>Zoolog Petter Bøckmann svarer på spørsmål om kortvokste dyr, navler og katter på to bein. Musiker Julian Berntzen forteller om nye paranormale fenomener. Og telefonen til Nederland går til SUS-telefonen. Sendt 1. juli 2008.</itunes:summary>
+      <itunes:duration>1438</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 41: Hemmeligheten bak prosit og flust av friend requests</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_6338810a-5fa0-4ce2-b881-0a5fa0fce240</link>
+      <description>Det skal bestilles tur med Hurtigruten, og det må gjøres på rim. Produsent i O-fag Anne Dorte Lunås får flust av friend requests. Og det er spørretime. Hvorfor sier man egentlig prosit? Sendt 30. juni 2008.</description>
+      <guid isPermaLink="false">l_6338810a-5fa0-4ce2-b881-0a5fa0fce240</guid>
+      <pubDate>Wed, 12 Sep 2018 07:57:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1299.MP3" type="audio/mpeg" length="31993761"></enclosure>
+      <itunes:title>Program 41: Hemmeligheten bak prosit og flust av friend requests</itunes:title>
+      <itunes:summary>Det skal bestilles tur med Hurtigruten, og det må gjøres på rim. Produsent i O-fag Anne Dorte Lunås får flust av friend requests. Og det er spørretime. Hvorfor sier man egentlig prosit? Sendt 30. juni 2008.</itunes:summary>
+      <itunes:duration>1329</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 40: Drømmegjesten og slaget ved Lepanto</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_94621ac2-0688-493b-a21a-c20688193be3</link>
+      <description>Christine Koht er gjest i denne sendingen, mens Vidar &#34;Big Boy&#34; Myklebust svarer på lyttespørsmål pr telefon. Det blir konkurranse i Samish, nyheter ved Brynjar Kvam og Nederland-telefon. Sendt 27. juni 2008.</description>
+      <guid isPermaLink="false">l_94621ac2-0688-493b-a21a-c20688193be3</guid>
+      <pubDate>Wed, 12 Sep 2018 07:54:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1525.MP3" type="audio/mpeg" length="36284513"></enclosure>
+      <itunes:title>Program 40: Drømmegjesten og slaget ved Lepanto</itunes:title>
+      <itunes:summary>Christine Koht er gjest i denne sendingen, mens Vidar &#34;Big Boy&#34; Myklebust svarer på lyttespørsmål pr telefon. Det blir konkurranse i Samish, nyheter ved Brynjar Kvam og Nederland-telefon. Sendt 27. juni 2008.</itunes:summary>
+      <itunes:duration>1508</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 39: En snørrete zoolog og tørste fisk</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_83209d91-6d68-4310-a09d-916d687310fb</link>
+      <description>Petter Bøckman svarer på zoologiske spørsmål og det er premiere på sangen &#34;The evil eye coffee&#34;. Dessuten blir det Ibux, Samish og Tristan da Cunha-nytt. Sendt 26. juni 2008.</description>
+      <guid isPermaLink="false">l_83209d91-6d68-4310-a09d-916d687310fb</guid>
+      <pubDate>Wed, 12 Sep 2018 07:51:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_3833.MP3" type="audio/mpeg" length="33845092"></enclosure>
+      <itunes:title>Program 39: En snørrete zoolog og tørste fisk</itunes:title>
+      <itunes:summary>Petter Bøckman svarer på zoologiske spørsmål og det er premiere på sangen &#34;The evil eye coffee&#34;. Dessuten blir det Ibux, Samish og Tristan da Cunha-nytt. Sendt 26. juni 2008.</itunes:summary>
+      <itunes:duration>1406</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 38: En helt egen gondol på nederlandsk</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_475e662d-504f-44f2-9e66-2d504f44f2f7</link>
+      <description>Musikk-onsdag, samish, Nederland-telefon, nyheter ved Brynjar Kvam og Ibux. Sendt 25. juni 2008.</description>
+      <guid isPermaLink="false">l_475e662d-504f-44f2-9e66-2d504f44f2f7</guid>
+      <pubDate>Wed, 12 Sep 2018 07:48:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_3106.MP3" type="audio/mpeg" length="29556205"></enclosure>
+      <itunes:title>Program 38: En helt egen gondol på nederlandsk</itunes:title>
+      <itunes:summary>Musikk-onsdag, samish, Nederland-telefon, nyheter ved Brynjar Kvam og Ibux. Sendt 25. juni 2008.</itunes:summary>
+      <itunes:duration>1227</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 37: Den store paranormale koteletten</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_a4c47d72-9786-4a9a-847d-7297866a9a57</link>
+      <description>Ibux, det paranormale hjørnet med Julian Berntzen, Samish og 1002 fantastiske facts. Sendt 24. juni 2008.</description>
+      <guid isPermaLink="false">l_a4c47d72-9786-4a9a-847d-7297866a9a57</guid>
+      <pubDate>Wed, 12 Sep 2018 07:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1571.MP3" type="audio/mpeg" length="35374822"></enclosure>
+      <itunes:title>Program 37: Den store paranormale koteletten</itunes:title>
+      <itunes:summary>Ibux, det paranormale hjørnet med Julian Berntzen, Samish og 1002 fantastiske facts. Sendt 24. juni 2008.</itunes:summary>
+      <itunes:duration>1470</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 36: Lubrikasjon og nederlandsk sexmuseum</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_f021f9aa-f0a2-44c9-a1f9-aaf0a2b4c9cf</link>
+      <description>Amsterdam er en potent by, derfor går telefonen til Sexmuseum Amsterdam. Dr. Asle T. Johansen forklarer bl.a. hvorfor man begynner å gråte når man skjærer løk. Og det kurses i å si &#34;ha det&#34; i &#34;Samish&#34;. Sendt 23. juni 2008.</description>
+      <guid isPermaLink="false">l_f021f9aa-f0a2-44c9-a1f9-aaf0a2b4c9cf</guid>
+      <pubDate>Wed, 12 Sep 2018 07:42:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_410.MP3" type="audio/mpeg" length="35523410"></enclosure>
+      <itunes:title>Program 36: Lubrikasjon og nederlandsk sexmuseum</itunes:title>
+      <itunes:summary>Amsterdam er en potent by, derfor går telefonen til Sexmuseum Amsterdam. Dr. Asle T. Johansen forklarer bl.a. hvorfor man begynner å gråte når man skjærer løk. Og det kurses i å si &#34;ha det&#34; i &#34;Samish&#34;. Sendt 23. juni 2008.</itunes:summary>
+      <itunes:duration>1476</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 35: Bernaissauser det til på nederlandsk</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_716b740d-f4d5-48e4-ab74-0df4d508e4d8</link>
+      <description>Ylvis-brødrene har fokus på mat i dag. De sauser det til på telefon til Nederland. Nils Olav Jørgensen i Brynhild avslører hemmeligheten bak chilinøtter. Og det blir fredagsmagasin med Brynjar Kvam. Sendt 20. juni 2008.</description>
+      <guid isPermaLink="false">l_716b740d-f4d5-48e4-ab74-0df4d508e4d8</guid>
+      <pubDate>Wed, 12 Sep 2018 07:39:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_4059.MP3" type="audio/mpeg" length="35828103"></enclosure>
+      <itunes:title>Program 35: Bernaissauser det til på nederlandsk</itunes:title>
+      <itunes:summary>Ylvis-brødrene har fokus på mat i dag. De sauser det til på telefon til Nederland. Nils Olav Jørgensen i Brynhild avslører hemmeligheten bak chilinøtter. Og det blir fredagsmagasin med Brynjar Kvam. Sendt 20. juni 2008.</itunes:summary>
+      <itunes:duration>1489</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 34: Testing av hundemat og null stress i joggedress</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_0bd904e7-a17e-4360-9904-e7a17e33606b</link>
+      <description>Bonusdag, med framføring av sangen &#34;Null stress i joggedress&#34;. Ellers blir det bl.a. testing av hundemat, samtale med zoolog Petter Bøckhman for første gang i sesongen, &#34;Samish&#34; og Tristan. Sendt 19. juni 2008</description>
+      <guid isPermaLink="false">l_0bd904e7-a17e-4360-9904-e7a17e33606b</guid>
+      <pubDate>Wed, 12 Sep 2018 07:36:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1316.MP3" type="audio/mpeg" length="30313560"></enclosure>
+      <itunes:title>Program 34: Testing av hundemat og null stress i joggedress</itunes:title>
+      <itunes:summary>Bonusdag, med framføring av sangen &#34;Null stress i joggedress&#34;. Ellers blir det bl.a. testing av hundemat, samtale med zoolog Petter Bøckhman for første gang i sesongen, &#34;Samish&#34; og Tristan. Sendt 19. juni 2008</itunes:summary>
+      <itunes:duration>1259</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 33: Full åpenhet med Vidar &#34;Big Boy&#34;</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_c7836bae-dd5d-4171-836b-aedd5da171fe</link>
+      <description>Vidar &#34;Big Boy&#34; Myklebust, omtalt som &#34;the definition of sex&#34;, svarer på lytterspørsmål. Det blir telefon på &#34;nederlandsk&#34; til Anne Frank-museet. &#34;Hatønsket&#34;, Ibux, Tristan og &#34;Samish&#34; står også på programmet.  Sendt 18. juni 2008.</description>
+      <guid isPermaLink="false">l_c7836bae-dd5d-4171-836b-aedd5da171fe</guid>
+      <pubDate>Wed, 12 Sep 2018 07:33:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_769.MP3" type="audio/mpeg" length="35260092"></enclosure>
+      <itunes:title>Program 33: Full åpenhet med Vidar &#34;Big Boy&#34;</itunes:title>
+      <itunes:summary>Vidar &#34;Big Boy&#34; Myklebust, omtalt som &#34;the definition of sex&#34;, svarer på lytterspørsmål. Det blir telefon på &#34;nederlandsk&#34; til Anne Frank-museet. &#34;Hatønsket&#34;, Ibux, Tristan og &#34;Samish&#34; står også på programmet.  Sendt 18. juni 2008.</itunes:summary>
+      <itunes:duration>1465</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 32: Ikke-spaltbare sukkerkjeder og det paranormale</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_a993bb46-deac-4a8d-93bb-46deacaa8d09</link>
+      <description>Det blir Samish, Ibux, Tristan da Cunha-nytt og 1002 fantastiske facts. Julian Berntzen er på besøk i det paranormale hjørnet. Sendt 17. juni 2008. </description>
+      <guid isPermaLink="false">l_a993bb46-deac-4a8d-93bb-46deacaa8d09</guid>
+      <pubDate>Wed, 12 Sep 2018 07:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_2965.MP3" type="audio/mpeg" length="36458813"></enclosure>
+      <itunes:title>Program 32: Ikke-spaltbare sukkerkjeder og det paranormale</itunes:title>
+      <itunes:summary>Det blir Samish, Ibux, Tristan da Cunha-nytt og 1002 fantastiske facts. Julian Berntzen er på besøk i det paranormale hjørnet. Sendt 17. juni 2008. </itunes:summary>
+      <itunes:duration>1515</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 31: Fanfarer og smertestillende saker</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_870b2915-22b0-4c5a-8b29-1522b02c5a58</link>
+      <description>Første sending i ny runde. Telefonsamtale på tulle-nederlandsk, spørrespalte og 1002 fantastiske facts. Dessuten blir det premiere på spalten Ibux og første leksjon i samisk. Sendt 16. juni 2008. </description>
+      <guid isPermaLink="false">l_870b2915-22b0-4c5a-8b29-1522b02c5a58</guid>
+      <pubDate>Wed, 12 Sep 2018 07:27:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1720.MP3" type="audio/mpeg" length="38147773"></enclosure>
+      <itunes:title>Program 31: Fanfarer og smertestillende saker</itunes:title>
+      <itunes:summary>Første sending i ny runde. Telefonsamtale på tulle-nederlandsk, spørrespalte og 1002 fantastiske facts. Dessuten blir det premiere på spalten Ibux og første leksjon i samisk. Sendt 16. juni 2008. </itunes:summary>
+      <itunes:duration>1585</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 30: Opprydding med innlagt krisetape</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_0ecac514-db9c-4e77-8ac5-14db9cae77e9</link>
+      <description>Siste sending for denne gang og ryddedag på kontoret. Men vi får selvfølgelig 1002 fantastiske facts, nyheter ved Brynjar Kvam og morsekurs. Dagens motto er: Ikke melankoli, men energi!  Sendt 11. august 2006.</description>
+      <guid isPermaLink="false">l_0ecac514-db9c-4e77-8ac5-14db9cae77e9</guid>
+      <pubDate>Wed, 12 Sep 2018 07:24:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_2144.MP3" type="audio/mpeg" length="41892477"></enclosure>
+      <itunes:title>Program 30: Opprydding med innlagt krisetape</itunes:title>
+      <itunes:summary>Siste sending for denne gang og ryddedag på kontoret. Men vi får selvfølgelig 1002 fantastiske facts, nyheter ved Brynjar Kvam og morsekurs. Dagens motto er: Ikke melankoli, men energi!  Sendt 11. august 2006.</itunes:summary>
+      <itunes:duration>1741</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 29: Datarock-besøk og sendeflate til salgs</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_9db3afa7-eb88-4c77-b3af-a7eb888c778b</link>
+      <description>Datarock er på besøk. Else Kåss Furuseth og Torfinn Borkhus snakker om programmet Show Show. Nyheter ved Brynjar Kvam og morsekurs. Sendt 10. august 2006.</description>
+      <guid isPermaLink="false">l_9db3afa7-eb88-4c77-b3af-a7eb888c778b</guid>
+      <pubDate>Wed, 12 Sep 2018 07:21:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_364.MP3" type="audio/mpeg" length="38418616"></enclosure>
+      <itunes:title>Program 29: Datarock-besøk og sendeflate til salgs</itunes:title>
+      <itunes:summary>Datarock er på besøk. Else Kåss Furuseth og Torfinn Borkhus snakker om programmet Show Show. Nyheter ved Brynjar Kvam og morsekurs. Sendt 10. august 2006.</itunes:summary>
+      <itunes:duration>1597</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 28: Flysending med badminton</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_55624ab1-88bf-432d-a24a-b188bf732d0e</link>
+      <description>Dagens motto er: På luften, fra luften! I tillegg blir det 1002 fantastiske facts, nyheter ved Brynjar Kvam og morsekurs. Sendt 9. august 2006.</description>
+      <guid isPermaLink="false">l_55624ab1-88bf-432d-a24a-b188bf732d0e</guid>
+      <pubDate>Wed, 12 Sep 2018 07:18:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1758.MP3" type="audio/mpeg" length="33039467"></enclosure>
+      <itunes:title>Program 28: Flysending med badminton</itunes:title>
+      <itunes:summary>Dagens motto er: På luften, fra luften! I tillegg blir det 1002 fantastiske facts, nyheter ved Brynjar Kvam og morsekurs. Sendt 9. august 2006.</itunes:summary>
+      <itunes:duration>1372</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 27: Sing and songwriter day med scat-spesial</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_3e1e144b-76e4-4701-9e14-4b76e4570171</link>
+      <description>Sangdag, nyheter ved Brynjar Kvam og morsekurs. Sendt 8. august 2006. </description>
+      <guid isPermaLink="false">l_3e1e144b-76e4-4701-9e14-4b76e4570171</guid>
+      <pubDate>Wed, 12 Sep 2018 07:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_2015.MP3" type="audio/mpeg" length="41162729"></enclosure>
+      <itunes:title>Program 27: Sing and songwriter day med scat-spesial</itunes:title>
+      <itunes:summary>Sangdag, nyheter ved Brynjar Kvam og morsekurs. Sendt 8. august 2006. </itunes:summary>
+      <itunes:duration>1711</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 26: Norsk vs svensk humor, når kyllingen blir høne</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_fac1064e-6194-4f8c-8106-4e61940f8c00</link>
+      <description>Spørretime med bl.a dyrespørsmål, besvart av professor Birger Svihus, siste avsnitt i morsekurset og nyhende ved Brynjar Kvam. Sendt 7. august 2006. </description>
+      <guid isPermaLink="false">l_fac1064e-6194-4f8c-8106-4e61940f8c00</guid>
+      <pubDate>Wed, 12 Sep 2018 07:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1930.MP3" type="audio/mpeg" length="36373549"></enclosure>
+      <itunes:title>Program 26: Norsk vs svensk humor, når kyllingen blir høne</itunes:title>
+      <itunes:summary>Spørretime med bl.a dyrespørsmål, besvart av professor Birger Svihus, siste avsnitt i morsekurset og nyhende ved Brynjar Kvam. Sendt 7. august 2006. </itunes:summary>
+      <itunes:duration>1511</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 25: Avbestilling på nederlandsk og blomsterpotter for NASA</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_7df5dd43-4d08-42cd-b5dd-434d0832cd27</link>
+      <description>Oppgave med straff, Bjørnar Vasenden er gjest, morsekurs, nyheter ved Brynjar Kvam og noen behind the scenes-klipp fra Sommeråpent med Anne Grosvold. Sendt 4. august 2006. </description>
+      <guid isPermaLink="false">l_7df5dd43-4d08-42cd-b5dd-434d0832cd27</guid>
+      <pubDate>Wed, 12 Sep 2018 07:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1247.MP3" type="audio/mpeg" length="35228140"></enclosure>
+      <itunes:title>Program 25: Avbestilling på nederlandsk og blomsterpotter for NASA</itunes:title>
+      <itunes:summary>Oppgave med straff, Bjørnar Vasenden er gjest, morsekurs, nyheter ved Brynjar Kvam og noen behind the scenes-klipp fra Sommeråpent med Anne Grosvold. Sendt 4. august 2006. </itunes:summary>
+      <itunes:duration>1464</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 24: Stein, saks, papir i bil og pinlig middagsselskap</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_8f5ab866-827b-4873-9ab8-66827b38733a</link>
+      <description>Hvem som skal være programleder i O-fag avgjøres på spektakulært vis. Det spilles opptak fra pinlig familieselskap og bestilles hotell på &#34;nederlandsk&#34;. I tillegg blir det fryd og gammen med Sylfest Lomheim. Sendt 3. august 2006.</description>
+      <guid isPermaLink="false">l_8f5ab866-827b-4873-9ab8-66827b38733a</guid>
+      <pubDate>Wed, 12 Sep 2018 07:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1274.MP3" type="audio/mpeg" length="42336367"></enclosure>
+      <itunes:title>Program 24: Stein, saks, papir i bil og pinlig middagsselskap</itunes:title>
+      <itunes:summary>Hvem som skal være programleder i O-fag avgjøres på spektakulært vis. Det spilles opptak fra pinlig familieselskap og bestilles hotell på &#34;nederlandsk&#34;. I tillegg blir det fryd og gammen med Sylfest Lomheim. Sendt 3. august 2006.</itunes:summary>
+      <itunes:duration>1760</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 23: Dogmesending. Helt uten forberedelser!</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_e4a63493-b749-40c0-a634-93b74900c09f</link>
+      <description>Denne utgaven av O-fag er en dogmesending, hvilket betyr at det ikke har vært noen forberedelser før Ylvis-brødrene går på lufta. Det er også en rekke andre dogmer som må følges. Sendt 2. august 2006.</description>
+      <guid isPermaLink="false">l_e4a63493-b749-40c0-a634-93b74900c09f</guid>
+      <pubDate>Wed, 12 Sep 2018 07:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_250.MP3" type="audio/mpeg" length="36737166"></enclosure>
+      <itunes:title>Program 23: Dogmesending. Helt uten forberedelser!</itunes:title>
+      <itunes:summary>Denne utgaven av O-fag er en dogmesending, hvilket betyr at det ikke har vært noen forberedelser før Ylvis-brødrene går på lufta. Det er også en rekke andre dogmer som må følges. Sendt 2. august 2006.</itunes:summary>
+      <itunes:duration>1526</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 22: Fjong og fin som en høvelmaskin</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_09f9366b-22e5-4614-b936-6b22e5a614e2</link>
+      <description>Det er musikktirsdag der lytterne sender inn låttittel og Ylvis-brødrene lager sangen. Det blir noen fantastiske facts, Bjørn Western lærer bort V i morsekode og Brynjar Kvam leser nyheter. Sendt 1. august 2006.</description>
+      <guid isPermaLink="false">l_09f9366b-22e5-4614-b936-6b22e5a614e2</guid>
+      <pubDate>Wed, 12 Sep 2018 07:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_573.MP3" type="audio/mpeg" length="37857498"></enclosure>
+      <itunes:title>Program 22: Fjong og fin som en høvelmaskin</itunes:title>
+      <itunes:summary>Det er musikktirsdag der lytterne sender inn låttittel og Ylvis-brødrene lager sangen. Det blir noen fantastiske facts, Bjørn Western lærer bort V i morsekode og Brynjar Kvam leser nyheter. Sendt 1. august 2006.</itunes:summary>
+      <itunes:duration>1573</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 21: Skal dolokket stå åpent, eller skal det lukkes?</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_f13dc134-ab21-45e4-bdc1-34ab2105e475</link>
+      <description>Hvor mye koster det å fly fra Florø til Bergen? Det skal Ylvis finne ut i oppgave med straff. I spørretimen blir det bl.a. tostemt blokkfløyte og forsker Gjermund Vogt avslører hvorfor noen matvarer setter lukt på urin. Som vanlig nyheter ved Brynjar Kvam og morsekurs med Bjørn Western. Sendt 31. juli 2006</description>
+      <guid isPermaLink="false">l_f13dc134-ab21-45e4-bdc1-34ab2105e475</guid>
+      <pubDate>Wed, 12 Sep 2018 06:57:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1956.MP3" type="audio/mpeg" length="38782249"></enclosure>
+      <itunes:title>Program 21: Skal dolokket stå åpent, eller skal det lukkes?</itunes:title>
+      <itunes:summary>Hvor mye koster det å fly fra Florø til Bergen? Det skal Ylvis finne ut i oppgave med straff. I spørretimen blir det bl.a. tostemt blokkfløyte og forsker Gjermund Vogt avslører hvorfor noen matvarer setter lukt på urin. Som vanlig nyheter ved Brynjar Kvam og morsekurs med Bjørn Western. Sendt 31. juli 2006</itunes:summary>
+      <itunes:duration>1612</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 20: Honnikorn</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_2c3010a4-cf4f-43cf-b010-a4cf4f93cfc1</link>
+      <description>Lukter det honnikorn av tisset etter at du har spist honnikorn? Dette skal Ylvis-brødrene teste. Det blir også tulletelefon til Sverige om Rennesøy, helgemagasin ved Brynjar Kvam og morseprøve med Bjørn Western. Sendt 28. juli 2006</description>
+      <guid isPermaLink="false">l_2c3010a4-cf4f-43cf-b010-a4cf4f93cfc1</guid>
+      <pubDate>Wed, 12 Sep 2018 06:54:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_3996.MP3" type="audio/mpeg" length="34846289"></enclosure>
+      <itunes:title>Program 20: Honnikorn</itunes:title>
+      <itunes:summary>Lukter det honnikorn av tisset etter at du har spist honnikorn? Dette skal Ylvis-brødrene teste. Det blir også tulletelefon til Sverige om Rennesøy, helgemagasin ved Brynjar Kvam og morseprøve med Bjørn Western. Sendt 28. juli 2006</itunes:summary>
+      <itunes:duration>1448</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 19: Geiter, trommer og Tarjei Strøm</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_edf63090-b3c5-4776-b630-90b3c5c77625</link>
+      <description>Gjest i dag er Tarjei Strøm, trommeslager i Ralph Myerz and the Jack Herren Band. Det blir med andre ord mye trommer, men også en geiteprat med Petter Bøckman og faste poster med Brynjar Kvam og Bjørn Western. Sendt 27. juli 2006.</description>
+      <guid isPermaLink="false">l_edf63090-b3c5-4776-b630-90b3c5c77625</guid>
+      <pubDate>Wed, 12 Sep 2018 06:51:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1009.MP3" type="audio/mpeg" length="35542840"></enclosure>
+      <itunes:title>Program 19: Geiter, trommer og Tarjei Strøm</itunes:title>
+      <itunes:summary>Gjest i dag er Tarjei Strøm, trommeslager i Ralph Myerz and the Jack Herren Band. Det blir med andre ord mye trommer, men også en geiteprat med Petter Bøckman og faste poster med Brynjar Kvam og Bjørn Western. Sendt 27. juli 2006.</itunes:summary>
+      <itunes:duration>1477</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 18: Karpe Diem</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_5ff630e8-6bb2-411c-b630-e86bb2711cb1</link>
+      <description>Gjester i studio er Magdi og Chirag fra Karpe Diem. Det blir SSP-battle og samsang, 1002 fantastisk facts, nyheter ved Brynjar Kvam og bokstaven R i morsekode. Sendt 26. juli 2006.</description>
+      <guid isPermaLink="false">l_5ff630e8-6bb2-411c-b630-e86bb2711cb1</guid>
+      <pubDate>Wed, 12 Sep 2018 06:48:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_376.MP3" type="audio/mpeg" length="36097660"></enclosure>
+      <itunes:title>Program 18: Karpe Diem</itunes:title>
+      <itunes:summary>Gjester i studio er Magdi og Chirag fra Karpe Diem. Det blir SSP-battle og samsang, 1002 fantastisk facts, nyheter ved Brynjar Kvam og bokstaven R i morsekode. Sendt 26. juli 2006.</itunes:summary>
+      <itunes:duration>1500</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 17: Skal Jølster få pol?</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_e7487dd2-34f0-45c5-887d-d234f0b5c589</link>
+      <description>Det er musikktirsdag der lytterne sender inn låttittel og Ylvis-brødrene lager sangen. Bjørn Western lærer bort Q i morsekode og Brynjar Kvam har flere nyheter. Sendt 25. juli 2006.  </description>
+      <guid isPermaLink="false">l_e7487dd2-34f0-45c5-887d-d234f0b5c589</guid>
+      <pubDate>Wed, 12 Sep 2018 06:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1750.MP3" type="audio/mpeg" length="34582986"></enclosure>
+      <itunes:title>Program 17: Skal Jølster få pol?</itunes:title>
+      <itunes:summary>Det er musikktirsdag der lytterne sender inn låttittel og Ylvis-brødrene lager sangen. Bjørn Western lærer bort Q i morsekode og Brynjar Kvam har flere nyheter. Sendt 25. juli 2006.  </itunes:summary>
+      <itunes:duration>1437</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 16: Sten, sax, påse og Taboo Shop</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_793ea218-c317-4dd3-bea2-18c3172dd3d7</link>
+      <description>Ylvis ringer til Taboo Shop som selger sex-leketøy i oppgave med straff. Zoolog Petter Bøckman fra Naturhistorisk museum hjelper med svarene i spørretimen. Som vanlig blir det nyheter og morsekurs. Sendt 24. juli 2006. </description>
+      <guid isPermaLink="false">l_793ea218-c317-4dd3-bea2-18c3172dd3d7</guid>
+      <pubDate>Wed, 12 Sep 2018 06:42:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_478.MP3" type="audio/mpeg" length="38872510"></enclosure>
+      <itunes:title>Program 16: Sten, sax, påse og Taboo Shop</itunes:title>
+      <itunes:summary>Ylvis ringer til Taboo Shop som selger sex-leketøy i oppgave med straff. Zoolog Petter Bøckman fra Naturhistorisk museum hjelper med svarene i spørretimen. Som vanlig blir det nyheter og morsekurs. Sendt 24. juli 2006. </itunes:summary>
+      <itunes:duration>1615</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 15: Team Terminator demonstrerer SSP</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_f7ed580b-3718-4e4d-ad58-0b3718de4da3</link>
+      <description>Stein, saks, papir-spesial med Mikkel Aukrust og Pål Magnusson fra Team Terminator. Ellers blir det helgemagasin ved Brynjar Kvam og morseprøve. Sendt 21. juli 2006.</description>
+      <guid isPermaLink="false">l_f7ed580b-3718-4e4d-ad58-0b3718de4da3</guid>
+      <pubDate>Wed, 12 Sep 2018 06:39:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1807.MP3" type="audio/mpeg" length="36107086"></enclosure>
+      <itunes:title>Program 15: Team Terminator demonstrerer SSP</itunes:title>
+      <itunes:summary>Stein, saks, papir-spesial med Mikkel Aukrust og Pål Magnusson fra Team Terminator. Ellers blir det helgemagasin ved Brynjar Kvam og morseprøve. Sendt 21. juli 2006.</itunes:summary>
+      <itunes:duration>1500</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 14: World Jump Day og sexpress på jobbsituasjon</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_4bcfcddd-306d-4c20-8fcd-dd306d3c20a6</link>
+      <description>Brødrene Ylvisåker får hjelp av Tossi, som prøver å finne en fysiker som vet noe om World Jump Day. Det blir 1002 fantastiske facts, i morsekurset lærer vi bokstaven N og Brynjar Kvam leverer dagens nyheter. Sendt 20. juli 2006.</description>
+      <guid isPermaLink="false">l_4bcfcddd-306d-4c20-8fcd-dd306d3c20a6</guid>
+      <pubDate>Wed, 12 Sep 2018 06:36:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_156.MP3" type="audio/mpeg" length="36120263"></enclosure>
+      <itunes:title>Program 14: World Jump Day og sexpress på jobbsituasjon</itunes:title>
+      <itunes:summary>Brødrene Ylvisåker får hjelp av Tossi, som prøver å finne en fysiker som vet noe om World Jump Day. Det blir 1002 fantastiske facts, i morsekurset lærer vi bokstaven N og Brynjar Kvam leverer dagens nyheter. Sendt 20. juli 2006.</itunes:summary>
+      <itunes:duration>1501</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 13: Spørretime og telefon til Color Line</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_6af897d5-d1fc-42c1-b897-d5d1fce2c132</link>
+      <description>Color Line får telefon i dagens oppgave med straff, det er spørretime, morsekurs ved Bjørn Western og nyheter med Brynjar Kvam. Sendt 19. juli 2006.</description>
+      <guid isPermaLink="false">l_6af897d5-d1fc-42c1-b897-d5d1fce2c132</guid>
+      <pubDate>Wed, 12 Sep 2018 06:33:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_3945.MP3" type="audio/mpeg" length="35816818"></enclosure>
+      <itunes:title>Program 13: Spørretime og telefon til Color Line</itunes:title>
+      <itunes:summary>Color Line får telefon i dagens oppgave med straff, det er spørretime, morsekurs ved Bjørn Western og nyheter med Brynjar Kvam. Sendt 19. juli 2006.</itunes:summary>
+      <itunes:duration>1488</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 12: Jingelmaskin, Vafla mi og andre improv-sanger</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_8f5ebce5-6569-4753-9ebc-e56569d753fd</link>
+      <description>Det er musikktirsdag der lytterne sender inn låttittel og Ylvis-brødrene lager sangen. I morsekurset lærer vi bokstaven L, det blir enda mer om sæd og sex i rommet og nyheter ved Brynjar Kvam. Sendt 18. juli 2006.</description>
+      <guid isPermaLink="false">l_8f5ebce5-6569-4753-9ebc-e56569d753fd</guid>
+      <pubDate>Wed, 12 Sep 2018 06:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_2762.MP3" type="audio/mpeg" length="38394172"></enclosure>
+      <itunes:title>Program 12: Jingelmaskin, Vafla mi og andre improv-sanger</itunes:title>
+      <itunes:summary>Det er musikktirsdag der lytterne sender inn låttittel og Ylvis-brødrene lager sangen. I morsekurset lærer vi bokstaven L, det blir enda mer om sæd og sex i rommet og nyheter ved Brynjar Kvam. Sendt 18. juli 2006.</itunes:summary>
+      <itunes:duration>1595</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 11: Nudda i burken, tuppa hanen och sudda gumman</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_bce3ed7f-083d-450b-a3ed-7f083d350b13</link>
+      <description>Hva har et fem måneder gammelt foster mer av på ryggen enn en fullvoksen gorilla? Med russisk rulett, 1002 fantastiske facts, morsekurs og morseprøve ved Bjørn Western og nyheter med Brynjar Kvam. Sendt 17. juli 2006.</description>
+      <guid isPermaLink="false">l_bce3ed7f-083d-450b-a3ed-7f083d350b13</guid>
+      <pubDate>Wed, 12 Sep 2018 06:27:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_2012.MP3" type="audio/mpeg" length="31210080"></enclosure>
+      <itunes:title>Program 11: Nudda i burken, tuppa hanen och sudda gumman</itunes:title>
+      <itunes:summary>Hva har et fem måneder gammelt foster mer av på ryggen enn en fullvoksen gorilla? Med russisk rulett, 1002 fantastiske facts, morsekurs og morseprøve ved Bjørn Western og nyheter med Brynjar Kvam. Sendt 17. juli 2006.</itunes:summary>
+      <itunes:duration>1296</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 10: Sondre Lerche er musikalsk gjest</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_2db9a3cf-ec85-48ca-b9a3-cfec85b8ca15</link>
+      <description>Sondre Lerche er musikalsk gjest, og synger &#34;Cheerio&#34; med Ylvis. Mer snakk om sæd og sex i rommet, 1002 fantastiske facts, bokstaven J i morsekurset og nyheter og helgemagasin ved Brynjar Kvam. Sendt 14. juli 2006.</description>
+      <guid isPermaLink="false">l_2db9a3cf-ec85-48ca-b9a3-cfec85b8ca15</guid>
+      <pubDate>Wed, 12 Sep 2018 06:24:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_420.MP3" type="audio/mpeg" length="34070162"></enclosure>
+      <itunes:title>Program 10: Sondre Lerche er musikalsk gjest</itunes:title>
+      <itunes:summary>Sondre Lerche er musikalsk gjest, og synger &#34;Cheerio&#34; med Ylvis. Mer snakk om sæd og sex i rommet, 1002 fantastiske facts, bokstaven J i morsekurset og nyheter og helgemagasin ved Brynjar Kvam. Sendt 14. juli 2006.</itunes:summary>
+      <itunes:duration>1415</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 9: Vitsebasert men også sex i rommet</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_344e6cdb-3fcf-49b3-8e6c-db3fcff9b37e</link>
+      <description>En vitsebasert sending, inkludert grisevits med Tor. Per Arne Marthinsen fra Norsk Astronautisk Forening snakker om sex i rommet, 1002 fantastiske facts, nyheter ved Brynjar Kvam og et nytt avsnitt i morsekurset. Sendt 13. juli 2006.</description>
+      <guid isPermaLink="false">l_344e6cdb-3fcf-49b3-8e6c-db3fcff9b37e</guid>
+      <pubDate>Wed, 12 Sep 2018 06:21:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_43.MP3" type="audio/mpeg" length="35476386"></enclosure>
+      <itunes:title>Program 9: Vitsebasert men også sex i rommet</itunes:title>
+      <itunes:summary>En vitsebasert sending, inkludert grisevits med Tor. Per Arne Marthinsen fra Norsk Astronautisk Forening snakker om sex i rommet, 1002 fantastiske facts, nyheter ved Brynjar Kvam og et nytt avsnitt i morsekurset. Sendt 13. juli 2006.</itunes:summary>
+      <itunes:duration>1474</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 8: Avstraffelse, rett og slett, og Finn-Erix</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_86ae310c-d694-4162-ae31-0cd694316277</link>
+      <description>Vegard sier &#34;rett og slett&#34; veldig ofte, rett og slett. Nå vanker det skudd med strikk hver gang noen sier &#34;rett og slett&#34;. Ellers blir det bl.a. forberedelser til familieselskap, &#34;Hatønsket&#34; og Finn-Erix. Sendt 12. juli 2006.</description>
+      <guid isPermaLink="false">l_86ae310c-d694-4162-ae31-0cd694316277</guid>
+      <pubDate>Wed, 12 Sep 2018 06:18:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_3834.MP3" type="audio/mpeg" length="36676982"></enclosure>
+      <itunes:title>Program 8: Avstraffelse, rett og slett, og Finn-Erix</itunes:title>
+      <itunes:summary>Vegard sier &#34;rett og slett&#34; veldig ofte, rett og slett. Nå vanker det skudd med strikk hver gang noen sier &#34;rett og slett&#34;. Ellers blir det bl.a. forberedelser til familieselskap, &#34;Hatønsket&#34; og Finn-Erix. Sendt 12. juli 2006.</itunes:summary>
+      <itunes:duration>1524</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 7: Terningkast midt på tre og badeand-blues</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_70637144-21da-4182-a371-4421da61828c</link>
+      <description>Det er musikktirsdag der lytterne sender inn låttittel og Ylvis-brødrene lager sangen. I tillegg blir det nyheter ved Brynjar Kvam og bokstaven G i morsekurset. Sendt 11. juli 2006.</description>
+      <guid isPermaLink="false">l_70637144-21da-4182-a371-4421da61828c</guid>
+      <pubDate>Wed, 12 Sep 2018 06:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_682.MP3" type="audio/mpeg" length="34458244"></enclosure>
+      <itunes:title>Program 7: Terningkast midt på tre og badeand-blues</itunes:title>
+      <itunes:summary>Det er musikktirsdag der lytterne sender inn låttittel og Ylvis-brødrene lager sangen. I tillegg blir det nyheter ved Brynjar Kvam og bokstaven G i morsekurset. Sendt 11. juli 2006.</itunes:summary>
+      <itunes:duration>1431</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 6: Grilltips</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_861bd417-2e58-4bb5-9bd4-172e58cbb535</link>
+      <description>Det blir spørretime, oppgave med straff, 1002 fantastiske facts, morsekurs med Bjørn Western (F) og nyheter med Brynjar Kvam. Sendt 10. juli 2006. </description>
+      <guid isPermaLink="false">l_861bd417-2e58-4bb5-9bd4-172e58cbb535</guid>
+      <pubDate>Wed, 12 Sep 2018 06:12:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1333.MP3" type="audio/mpeg" length="37834906"></enclosure>
+      <itunes:title>Program 6: Grilltips</itunes:title>
+      <itunes:summary>Det blir spørretime, oppgave med straff, 1002 fantastiske facts, morsekurs med Bjørn Western (F) og nyheter med Brynjar Kvam. Sendt 10. juli 2006. </itunes:summary>
+      <itunes:duration>1572</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 5: Morseprøve og kryptozoologi med Julian Berntzen</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_1289f740-bf2c-485f-89f7-40bf2cd85f50</link>
+      <description>Det er på tide med morseprøve. Musiker Julian Berntzen tar lytterne med inn i det paranormale hjørnet og forteller om kryptozoologi. Han har også med fela. Sendt 7. juli 2006.</description>
+      <guid isPermaLink="false">l_1289f740-bf2c-485f-89f7-40bf2cd85f50</guid>
+      <pubDate>Wed, 12 Sep 2018 06:09:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_2114.MP3" type="audio/mpeg" length="30234566"></enclosure>
+      <itunes:title>Program 5: Morseprøve og kryptozoologi med Julian Berntzen</itunes:title>
+      <itunes:summary>Det er på tide med morseprøve. Musiker Julian Berntzen tar lytterne med inn i det paranormale hjørnet og forteller om kryptozoologi. Han har også med fela. Sendt 7. juli 2006.</itunes:summary>
+      <itunes:duration>1255</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 4: Grisevitser og BMI</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_a0c44340-228a-49a4-8443-40228ae9a47b</link>
+      <description>Hvem har den beste grisevitsen i landet? Det blir flere fantastiske facts, morsekurs med Bjørn Western og tulletelefon til Finland. Sendt 6. juli 2006.</description>
+      <guid isPermaLink="false">l_a0c44340-228a-49a4-8443-40228ae9a47b</guid>
+      <pubDate>Wed, 12 Sep 2018 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_843.MP3" type="audio/mpeg" length="34256348"></enclosure>
+      <itunes:title>Program 4: Grisevitser og BMI</itunes:title>
+      <itunes:summary>Hvem har den beste grisevitsen i landet? Det blir flere fantastiske facts, morsekurs med Bjørn Western og tulletelefon til Finland. Sendt 6. juli 2006.</itunes:summary>
+      <itunes:duration>1423</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 3: Hverdagsdrama og hotellbestilling på tysk</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_27684946-17df-45f2-a849-4617dfd5f2e9</link>
+      <description>I dagens konkurranse dramatiserer Ylvis-brødrene lytternes hverdag, dessuten blir det oppgave med straff, 1002 fantastiske facts, morsekurs med Bjørn Western og nyheter med Brynjar Kvam. Sendt 5. juli 2006. </description>
+      <guid isPermaLink="false">l_27684946-17df-45f2-a849-4617dfd5f2e9</guid>
+      <pubDate>Wed, 12 Sep 2018 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_1673.MP3" type="audio/mpeg" length="32056400"></enclosure>
+      <itunes:title>Program 3: Hverdagsdrama og hotellbestilling på tysk</itunes:title>
+      <itunes:summary>I dagens konkurranse dramatiserer Ylvis-brødrene lytternes hverdag, dessuten blir det oppgave med straff, 1002 fantastiske facts, morsekurs med Bjørn Western og nyheter med Brynjar Kvam. Sendt 5. juli 2006. </itunes:summary>
+      <itunes:duration>1331</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 2: Enorm fallhøyde, landingsmusikk og morse</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_1f0810bb-a8ce-4370-8810-bba8cea370f2</link>
+      <description>Ylvis-brødrene vil at lytterne skal foreslå titler på sanger de kan framføre, og opplever at fallhøyden er stor. Det blir også pausemusikk ved landing av fly, fantastiske facts, morse og Brynjar Kvam. Sendt 4. juli 2006.</description>
+      <guid isPermaLink="false">l_1f0810bb-a8ce-4370-8810-bba8cea370f2</guid>
+      <pubDate>Wed, 12 Sep 2018 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_834.MP3" type="audio/mpeg" length="29629562"></enclosure>
+      <itunes:title>Program 2: Enorm fallhøyde, landingsmusikk og morse</itunes:title>
+      <itunes:summary>Ylvis-brødrene vil at lytterne skal foreslå titler på sanger de kan framføre, og opplever at fallhøyden er stor. Det blir også pausemusikk ved landing av fly, fantastiske facts, morse og Brynjar Kvam. Sendt 4. juli 2006.</itunes:summary>
+      <itunes:duration>1230</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+    <item>
+      <title>Program 1: Første sending</title>
+      <link>https://radio.nrk.no/podkast/o-fag/l_de737893-5612-49d9-b378-93561299d9f1</link>
+      <description>I sin første sending får brødrene Ylvisåker programledertips fra Klaus Sonstad, de faste spaltene Oppgave med straff, morsekurs med Bjørn Western, 1002 fantastiske facts m.m. Sendt 3. juli 2006.</description>
+      <guid isPermaLink="false">l_de737893-5612-49d9-b378-93561299d9f1</guid>
+      <pubDate>Tue, 11 Sep 2018 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/o-fag/o-fag_2018-09-12_0400_961.MP3" type="audio/mpeg" length="34194277"></enclosure>
+      <itunes:title>Program 1: Første sending</itunes:title>
+      <itunes:summary>I sin første sending får brødrene Ylvisåker programledertips fra Klaus Sonstad, de faste spaltene Oppgave med straff, morsekurs med Bjørn Western, 1002 fantastiske facts m.m. Sendt 3. juli 2006.</itunes:summary>
+      <itunes:duration>1420</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EySiyEebVzwurwPxK9_5QwgXS-a9Aia4GLVKbW6H84og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2018">2018</podcast:season>
+    </item>
+  </channel>
+</rss>

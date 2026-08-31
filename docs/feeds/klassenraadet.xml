@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Klassen-rådet</title>
+    <link>https://radio.nrk.no/podkast/klassenraadet</link>
+    <description>Kjærlighet, mobbing, kropp og kysseproblemer - noe du lurer på? Selma Ibrahim og skuespillerne fra Klassen gir deg sine beste (og rareste) råd for å fikse livet. Hver onsdag i NRK Radio. </description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 22 Jan 2025 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/klassenraadet.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Kjærlighet, mobbing, kropp og kysseproblemer - noe du lurer på? Selma Ibrahim og skuespillerne fra Klassen gir deg sine beste (og rareste) råd for å fikse livet. Hver onsdag i NRK Radio. </itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/PUIB3ie7JLDzu012l1JyAANQ5uBJALSMY2rf9GzkY15A"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/PUIB3ie7JLDzu012l1JyAANQ5uBJALSMY2rf9GzkY15A</url>
+      <title>Klassen-rådet</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet</link>
+    </image>
+    <item>
+      <title>Forbudte følelser</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_53f4ba79-b250-4d77-b4ba-79b2507d778d</link>
+      <description>Er det greit å være forelska i et stesøsken? Og en venninne må alltid dra tidlig, men så viser det seg at hun henger med andre.</description>
+      <guid isPermaLink="false">l_53f4ba79-b250-4d77-b4ba-79b2507d778d</guid>
+      <pubDate>Wed, 22 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/d5066e1a-eee8-4c34-bbc5-457013409b74_0_ID192MP3.mp3" type="audio/mpeg" length="30187053"></enclosure>
+      <itunes:title>Forbudte følelser</itunes:title>
+      <itunes:summary>Er det greit å være forelska i et stesøsken? Og en venninne må alltid dra tidlig, men så viser det seg at hun henger med andre.</itunes:summary>
+      <itunes:duration>1257</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0wKhitG5o1m4GRx6A8FkbQP6wrk0b7ubC574mcm8R7ew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Venner som aldri drar</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_827ad10e-a6a1-4786-bad1-0ea6a1478695</link>
+      <description>Er utflod farlig? Og hvordan får man venner til å dra hjem etter overnatting, uten å være frekk?</description>
+      <guid isPermaLink="false">l_827ad10e-a6a1-4786-bad1-0ea6a1478695</guid>
+      <pubDate>Wed, 15 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/ded8b007-7b63-4830-abbd-00056e40070a_0_ID192MP3.mp3" type="audio/mpeg" length="27985581"></enclosure>
+      <itunes:title>Venner som aldri drar</itunes:title>
+      <itunes:summary>Er utflod farlig? Og hvordan får man venner til å dra hjem etter overnatting, uten å være frekk?</itunes:summary>
+      <itunes:duration>1166</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VufpS98jXoqtIE2W1SiDtAApDqWsWc4FVFuESjK9sxIA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Antirasisme</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_25182cf6-40f9-40c8-982c-f640f910c8d6</link>
+      <description>Hva gjør du når absolutt alle vet hvem du er forelska i? Og Maxime har et råd mot rasisme, som faktisk funker.</description>
+      <guid isPermaLink="false">l_25182cf6-40f9-40c8-982c-f640f910c8d6</guid>
+      <pubDate>Wed, 08 Jan 2025 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/e4554565-9d16-4c3a-bcb6-05fa4bcd303c_0_ID192MP3.mp3" type="audio/mpeg" length="28537965"></enclosure>
+      <itunes:title>Antirasisme</itunes:title>
+      <itunes:summary>Hva gjør du når absolutt alle vet hvem du er forelska i? Og Maxime har et råd mot rasisme, som faktisk funker.</itunes:summary>
+      <itunes:duration>1189</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Hh_rKaJC1guReb5Yc7xA9AzWUcOUbhdMoeraTppLTivw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2025">2025</podcast:season>
+    </item>
+    <item>
+      <title>Bestevennen og eksen</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_e954799a-2792-4622-9479-9a27924622fc</link>
+      <description>Er det greit å bli sammen med eksen til bestevennen? Og hvordan skjuler man det hvis man får hjemlengsel på overnattingsbesøk?</description>
+      <guid isPermaLink="false">l_e954799a-2792-4622-9479-9a27924622fc</guid>
+      <pubDate>Wed, 18 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/10f37be9-a4fd-4d8d-a4f6-0836b0065eb3_0_ID192MP3.mp3" type="audio/mpeg" length="29954925"></enclosure>
+      <itunes:title>Bestevennen og eksen</itunes:title>
+      <itunes:summary>Er det greit å bli sammen med eksen til bestevennen? Og hvordan skjuler man det hvis man får hjemlengsel på overnattingsbesøk?</itunes:summary>
+      <itunes:duration>1248</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tOIdxEtRgaEWbocXw1IzNAKIerVE4Vn6gryHCuzkL9gQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Hva skjer med gjengen?</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_e91823d3-e932-4a4d-9823-d3e9327a4d87</link>
+      <description>Hva gjør du når vennene dine har forandret seg? Og hvordan skal du få kjæresten til å tørre å møte foreldrene dine?</description>
+      <guid isPermaLink="false">l_e91823d3-e932-4a4d-9823-d3e9327a4d87</guid>
+      <pubDate>Wed, 11 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/1aef32f8-04c5-41d7-9c0f-349707089f22_0_ID192MP3.mp3" type="audio/mpeg" length="27127341"></enclosure>
+      <itunes:title>Hva skjer med gjengen?</itunes:title>
+      <itunes:summary>Hva gjør du når vennene dine har forandret seg? Og hvordan skal du få kjæresten til å tørre å møte foreldrene dine?</itunes:summary>
+      <itunes:duration>1130</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6PEw36rXsH6EGeyBDtvj1A1gfWfIw8VGmgNRwM7sEatg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Tips mot kjærlighetssorg</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_17832dd5-6f24-4333-832d-d56f240333b2</link>
+      <description>Spise is, klippe håret eller lage en tidsmaskin? Hva hjelper egentlig mot kjærlighetssorg?</description>
+      <guid isPermaLink="false">l_17832dd5-6f24-4333-832d-d56f240333b2</guid>
+      <pubDate>Wed, 04 Dec 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/616b2776-234e-437e-8b68-cfaa65092fcc_0_ID192MP3.mp3" type="audio/mpeg" length="31034925"></enclosure>
+      <itunes:title>Tips mot kjærlighetssorg</itunes:title>
+      <itunes:summary>Spise is, klippe håret eller lage en tidsmaskin? Hva hjelper egentlig mot kjærlighetssorg?</itunes:summary>
+      <itunes:duration>1293</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/072dnkDvPOKOpvLKbIFcOQoicsOh34jO60-YuXxfx_NA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Forelska i feil person</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_a31ee4f0-6bfb-4af7-9ee4-f06bfbeaf7ec</link>
+      <description>Hvordan slutte å være forelska i en du vet du aldri kan få? Og hva gjør du når du ønsker deg hund, men foreldrene dine sier nei?</description>
+      <guid isPermaLink="false">l_a31ee4f0-6bfb-4af7-9ee4-f06bfbeaf7ec</guid>
+      <pubDate>Wed, 27 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/4ba23748-f001-4d0d-932f-62972dbb4b54_0_ID192MP3.mp3" type="audio/mpeg" length="27198765"></enclosure>
+      <itunes:title>Forelska i feil person</itunes:title>
+      <itunes:summary>Hvordan slutte å være forelska i en du vet du aldri kan få? Og hva gjør du når du ønsker deg hund, men foreldrene dine sier nei?</itunes:summary>
+      <itunes:duration>1133</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SiCMhoj3AKBjjR6isHgUFgztkPS98oeDP0Uj4ckA-6Qw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Alle har Snapchat utenom meg!</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_42d5b4cb-ce0c-4703-95b4-cbce0c570340</link>
+      <description>Foreldrene mine sier jeg ikke får ha Snapchat, men alle vennene min har det. Hva skal jeg gjøre?&#xA;Improbjella gir gode og rare råd.</description>
+      <guid isPermaLink="false">l_42d5b4cb-ce0c-4703-95b4-cbce0c570340</guid>
+      <pubDate>Wed, 20 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/0676f6de-fcc2-4bec-874f-d8b61cb86b56_0_ID192MP3.mp3" type="audio/mpeg" length="28995885"></enclosure>
+      <itunes:title>Alle har Snapchat utenom meg!</itunes:title>
+      <itunes:summary>Foreldrene mine sier jeg ikke får ha Snapchat, men alle vennene min har det. Hva skal jeg gjøre?&#xA;Improbjella gir gode og rare råd.</itunes:summary>
+      <itunes:duration>1208</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/s5B_cjprAt0ElWOpa-_MUgx4Nqd8lNXQoviOyUUSTEPA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>De beste triksene mot mobbing</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_55412096-60e4-49bb-8120-9660e469bbaa</link>
+      <description>Andrine blir mobbet, og hun er lei og fortvila. Her er tips og råd til hvordan hun kan stå i det, og få dem til å stoppe</description>
+      <guid isPermaLink="false">l_55412096-60e4-49bb-8120-9660e469bbaa</guid>
+      <pubDate>Wed, 13 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/46c88fcf-13dc-4474-95f4-c8b59c62eda0_0_ID192MP3.mp3" type="audio/mpeg" length="27098541"></enclosure>
+      <itunes:title>De beste triksene mot mobbing</itunes:title>
+      <itunes:summary>Andrine blir mobbet, og hun er lei og fortvila. Her er tips og råd til hvordan hun kan stå i det, og få dem til å stoppe</itunes:summary>
+      <itunes:duration>1129</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5P7JZ3jntgqf82R7ufEoZAeH233Ej1CQqGFLU2zUDPaQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Jeg tør ikke spørre</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_6140a7fd-9141-4c14-80a7-fd9141cc1410</link>
+      <description>Nora tror han liker henne, men hun tør ikke spørre om å bli sammen. Og hva gjør du når mammaen din har skikkelig flau musikksmak?</description>
+      <guid isPermaLink="false">l_6140a7fd-9141-4c14-80a7-fd9141cc1410</guid>
+      <pubDate>Wed, 06 Nov 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/55969a41-4c3f-41d4-a2b6-ac9d273ca41d_0_ID192MP3.mp3" type="audio/mpeg" length="25168365"></enclosure>
+      <itunes:title>Jeg tør ikke spørre</itunes:title>
+      <itunes:summary>Nora tror han liker henne, men hun tør ikke spørre om å bli sammen. Og hva gjør du når mammaen din har skikkelig flau musikksmak?</itunes:summary>
+      <itunes:duration>1048</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wck5gCfOa9nqcnhuEHmkWAk_ZuZZxzWCIGXL35pLv9Xg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Blir jeg ghosta?</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_841a11b9-899b-49a7-9a11-b9899bb9a7b8</link>
+      <description>Dersom man blir ghosta, skal man da si ifra? Kan man få noen til å slutte med å ghoste? Og hva gjør du når to av vennene dine ikke liker hverandre?</description>
+      <guid isPermaLink="false">l_841a11b9-899b-49a7-9a11-b9899bb9a7b8</guid>
+      <pubDate>Wed, 30 Oct 2024 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/8d06787c-0f68-4f74-b929-26e2bfdf1b99_0_ID192MP3.mp3" type="audio/mpeg" length="26239725"></enclosure>
+      <itunes:title>Blir jeg ghosta?</itunes:title>
+      <itunes:summary>Dersom man blir ghosta, skal man da si ifra? Kan man få noen til å slutte med å ghoste? Og hva gjør du når to av vennene dine ikke liker hverandre?</itunes:summary>
+      <itunes:duration>1093</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nzxMABxI-C8FN25r2TCA-g2yHZtNmvg4MSNISfxbAwBg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Hår på tissen</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_585d81ec-2d41-4ef2-9d81-ec2d41eef257</link>
+      <description>Plutselig begynner det å vokse hår på de rareste steder; under armene, på beina og på tissen. Må man fjerne det?</description>
+      <guid isPermaLink="false">l_585d81ec-2d41-4ef2-9d81-ec2d41eef257</guid>
+      <pubDate>Wed, 23 Oct 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/189bc487-2d55-4279-b5d2-106916b6d0e1_0_ID192MP3.mp3" type="audio/mpeg" length="31099437"></enclosure>
+      <itunes:title>Hår på tissen</itunes:title>
+      <itunes:summary>Plutselig begynner det å vokse hår på de rareste steder; under armene, på beina og på tissen. Må man fjerne det?</itunes:summary>
+      <itunes:duration>1295</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/i0n3JewiGrDhTVrDJl48FwQzWOS9pA6N9H1gn3TfUeSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Trekantdrama</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_a0b76397-8db1-4408-b763-978db1b40882</link>
+      <description>Et kjærlighetsbrev gikk ikke helt som planlagt – nå er det drama. Og hva svarer du når du blir lei av de samme spørsmålene?</description>
+      <guid isPermaLink="false">l_a0b76397-8db1-4408-b763-978db1b40882</guid>
+      <pubDate>Wed, 16 Oct 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/c308511d-abf9-41cd-8bb7-4d2cd062984b_0_ID192MP3.mp3" type="audio/mpeg" length="29075949"></enclosure>
+      <itunes:title>Trekantdrama</itunes:title>
+      <itunes:summary>Et kjærlighetsbrev gikk ikke helt som planlagt – nå er det drama. Og hva svarer du når du blir lei av de samme spørsmålene?</itunes:summary>
+      <itunes:duration>1211</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/P3CjkUbWo93pDZ-Pbz9FXwCxAQAnju-GfqeS241oqs-A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Savner kjæresten min</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_58327caa-4d7d-4ce4-b27c-aa4d7d0ce47f</link>
+      <description>Hvordan takle at kjæresten bor langt borte – og hva gjør du med en skikkelig klengete venn?</description>
+      <guid isPermaLink="false">l_58327caa-4d7d-4ce4-b27c-aa4d7d0ce47f</guid>
+      <pubDate>Wed, 09 Oct 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/ed95a74e-4d1a-4b82-b87c-79c993c78eb7_0_ID192MP3.mp3" type="audio/mpeg" length="25954029"></enclosure>
+      <itunes:title>Savner kjæresten min</itunes:title>
+      <itunes:summary>Hvordan takle at kjæresten bor langt borte – og hva gjør du med en skikkelig klengete venn?</itunes:summary>
+      <itunes:duration>1081</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p7VVgT4Bjec8G35VmqJHwA9r281GuG-HdZmF-kMRp40Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Ingen ser meg</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_8b1b9001-b457-40d4-9b90-01b45720d49a</link>
+      <description>Hva gjør du når broren din tar all oppmerksomheten – og hva gjør du når venninna di blir sammen med han du nettopp datet?</description>
+      <guid isPermaLink="false">l_8b1b9001-b457-40d4-9b90-01b45720d49a</guid>
+      <pubDate>Wed, 02 Oct 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/1a144c0c-b407-4d44-8f43-99676f260f80_0_ID192MP3.mp3" type="audio/mpeg" length="27743085"></enclosure>
+      <itunes:title>Ingen ser meg</itunes:title>
+      <itunes:summary>Hva gjør du når broren din tar all oppmerksomheten – og hva gjør du når venninna di blir sammen med han du nettopp datet?</itunes:summary>
+      <itunes:duration>1155</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ohDvEvNrqypsUyBC16dc8gsi2QaQ-J6uW_mZDLMHGcWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Aldri bra nok</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_22d41328-9b57-4dcb-9413-289b57ddcbf9</link>
+      <description>Hjelper det å skifte stil hvis du føler deg utenfor? Og hvordan få oppmerksomheten til en av de mest populære på skolen?</description>
+      <guid isPermaLink="false">l_22d41328-9b57-4dcb-9413-289b57ddcbf9</guid>
+      <pubDate>Wed, 25 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/0e3d8b84-bf2a-4beb-8cb0-f9f53c53c410_0_ID192MP3.mp3" type="audio/mpeg" length="30105261"></enclosure>
+      <itunes:title>Aldri bra nok</itunes:title>
+      <itunes:summary>Hjelper det å skifte stil hvis du føler deg utenfor? Og hvordan få oppmerksomheten til en av de mest populære på skolen?</itunes:summary>
+      <itunes:duration>1254</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SI0fN3RGPzOeis5FawXi3ARhAqDS_IY0wL-gEKZ1YH8g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Slutt å flørte!</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_1c37a601-df14-4bc9-b7a6-01df145bc946</link>
+      <description>Hva gjør du når bestevennen din flørter med personen du liker? Og kan foreldrene dine gjøre forskjell på deg og storesøsken når det gjelder sminke?</description>
+      <guid isPermaLink="false">l_1c37a601-df14-4bc9-b7a6-01df145bc946</guid>
+      <pubDate>Wed, 18 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/57fd189e-7238-476d-8800-a9c4913cc5a3_0_ID192MP3.mp3" type="audio/mpeg" length="27661869"></enclosure>
+      <itunes:title>Slutt å flørte!</itunes:title>
+      <itunes:summary>Hva gjør du når bestevennen din flørter med personen du liker? Og kan foreldrene dine gjøre forskjell på deg og storesøsken når det gjelder sminke?</itunes:summary>
+      <itunes:duration>1152</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CvklvaJNGuqTLNFhURQB-QflS0Yfz-PAHf6trP6lYIww"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Hvordan avvise uten å såre?</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_9dd92234-5d29-4fe4-9922-345d294fe47f</link>
+      <description>Hvordan skal man si «nei» uten å såre? Og hvordan snakke med mamma om BH?</description>
+      <guid isPermaLink="false">l_9dd92234-5d29-4fe4-9922-345d294fe47f</guid>
+      <pubDate>Wed, 11 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/4ad25063-e97b-4be5-9bc9-9edb2b597ed4_0_ID192MP3.mp3" type="audio/mpeg" length="26069229"></enclosure>
+      <itunes:title>Hvordan avvise uten å såre?</itunes:title>
+      <itunes:summary>Hvordan skal man si «nei» uten å såre? Og hvordan snakke med mamma om BH?</itunes:summary>
+      <itunes:duration>1086</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Hcib36DHaHTudkxZdtdr3wkga9HGADlM31rVbp9esPSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Hvordan si at jeg liker jenter?</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_775b2a78-2fa5-4ada-9b2a-782fa5eada13</link>
+      <description>Må jeg ha splitter nye merkeklær for å passe inn, eller finnes det alternativ? Og hvordan skal man si at man er skeiv?</description>
+      <guid isPermaLink="false">l_775b2a78-2fa5-4ada-9b2a-782fa5eada13</guid>
+      <pubDate>Wed, 04 Sep 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/d49b8476-f2e3-44fa-8240-24761ad5f9e8_0_ID192MP3.mp3" type="audio/mpeg" length="27932013"></enclosure>
+      <itunes:title>Hvordan si at jeg liker jenter?</itunes:title>
+      <itunes:summary>Må jeg ha splitter nye merkeklær for å passe inn, eller finnes det alternativ? Og hvordan skal man si at man er skeiv?</itunes:summary>
+      <itunes:duration>1163</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2NtYahHWrv4SAbfU2QlkTwhqB7k5VibOQD8DvPsj3Gmg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Hvordan fikse en «player»?</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_7dc1c775-4d81-4922-81c7-754d81692201</link>
+      <description>Hvordan kan du føle deg komfortabel med kroppen din? Og kan du fikse en «player»?</description>
+      <guid isPermaLink="false">l_7dc1c775-4d81-4922-81c7-754d81692201</guid>
+      <pubDate>Wed, 28 Aug 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/15bec501-3732-40e5-be3c-b1a88626c78f_0_ID192MP3.mp3" type="audio/mpeg" length="27975789"></enclosure>
+      <itunes:title>Hvordan fikse en «player»?</itunes:title>
+      <itunes:summary>Hvordan kan du føle deg komfortabel med kroppen din? Og kan du fikse en «player»?</itunes:summary>
+      <itunes:duration>1165</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4fiCn9ynK7nRuGvspDsWcgbsWRb2VlV2NoST_9MYhvmg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Ikke mobb hobbyen min!</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_c8abbb02-882a-4457-abbb-02882ab45715</link>
+      <description>Hvordan få vennene til å godta en litt annerledes (og hårete) hobby? Og hva skal jeg prate om med kjæresten min?</description>
+      <guid isPermaLink="false">l_c8abbb02-882a-4457-abbb-02882ab45715</guid>
+      <pubDate>Wed, 21 Aug 2024 06:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/fe29019d-a168-495e-9465-6d1c118d7cf1_0_ID192MP3.mp3" type="audio/mpeg" length="31192173"></enclosure>
+      <itunes:title>Ikke mobb hobbyen min!</itunes:title>
+      <itunes:summary>Hvordan få vennene til å godta en litt annerledes (og hårete) hobby? Og hva skal jeg prate om med kjæresten min?</itunes:summary>
+      <itunes:duration>1299</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ej5zCVFlT2MCRn8i3wRIeQU5h64PdTOp8lldFA-oc79w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Jeg vil ha kjæreste!</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_e6ebc320-0f11-4c08-abc3-200f111c083e</link>
+      <description>Hvordan blir man egentlig kjærester?  Og hva kan du gjøre hvis du føler deg alene på skolen?</description>
+      <guid isPermaLink="false">l_e6ebc320-0f11-4c08-abc3-200f111c083e</guid>
+      <pubDate>Wed, 21 Aug 2024 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/d89eb050-c4e9-479e-b476-3e5fd5ad5de2_0_ID192MP3.mp3" type="audio/mpeg" length="25982829"></enclosure>
+      <itunes:title>Jeg vil ha kjæreste!</itunes:title>
+      <itunes:summary>Hvordan blir man egentlig kjærester?  Og hva kan du gjøre hvis du føler deg alene på skolen?</itunes:summary>
+      <itunes:duration>1082</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NFaVn__bxA9srau7RKKRmQIMO5iyVagJ0hPx3B37R5fg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Jeg vil kysse, men hvordan?</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_0af70f09-5cba-4522-b70f-095cbae522d6</link>
+      <description>Kan du øve på å bli god til å kysse? Og hva kan du gjøre hvis du ser noen bli mobba?</description>
+      <guid isPermaLink="false">l_0af70f09-5cba-4522-b70f-095cbae522d6</guid>
+      <pubDate>Wed, 21 Aug 2024 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/b98533ee-e70d-45e3-affb-71a99cf30f91_0_ID192MP3.mp3" type="audio/mpeg" length="29944557"></enclosure>
+      <itunes:title>Jeg vil kysse, men hvordan?</itunes:title>
+      <itunes:summary>Kan du øve på å bli god til å kysse? Og hva kan du gjøre hvis du ser noen bli mobba?</itunes:summary>
+      <itunes:duration>1247</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wck5gCfOa9nqcnhuEHmkWAk_ZuZZxzWCIGXL35pLv9Xg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Begynne på ungdomsskolen</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_032603c8-b4a5-4060-a603-c8b4a5006036</link>
+      <description>Hjelp, jeg skal begynne på ungdomskolen!  Og bør Natalie slå opp med kjæresten, siden han er kjip mot vennene hennes?</description>
+      <guid isPermaLink="false">l_032603c8-b4a5-4060-a603-c8b4a5006036</guid>
+      <pubDate>Wed, 21 Aug 2024 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/989d76cb-0c36-4c27-aeea-f0c16dcb41c2_0_ID192MP3.mp3" type="audio/mpeg" length="25849773"></enclosure>
+      <itunes:title>Begynne på ungdomsskolen</itunes:title>
+      <itunes:summary>Hjelp, jeg skal begynne på ungdomskolen!  Og bør Natalie slå opp med kjæresten, siden han er kjip mot vennene hennes?</itunes:summary>
+      <itunes:duration>1077</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oHliEwrCC8qpp2dOiIxwzAhH5hkwOyxy0fq0pYxHwl9g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+    <item>
+      <title>Forelska i bestevennens kjæreste</title>
+      <link>https://radio.nrk.no/podkast/klassenraadet/l_fef36658-fc08-4636-b366-58fc08763652</link>
+      <description>Hva gjør du når du er forelska i HELT feil person? Og hvordan kan du fortelle at du har fått mensen – uten at det blir kleint?</description>
+      <guid isPermaLink="false">l_fef36658-fc08-4636-b366-58fc08763652</guid>
+      <pubDate>Wed, 21 Aug 2024 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/klassenraadet/a773e1c7-95d9-4ba0-a78f-b2f3b4ecca97_0_ID192MP3.mp3" type="audio/mpeg" length="29886957"></enclosure>
+      <itunes:title>Forelska i bestevennens kjæreste</itunes:title>
+      <itunes:summary>Hva gjør du når du er forelska i HELT feil person? Og hvordan kan du fortelle at du har fått mensen – uten at det blir kleint?</itunes:summary>
+      <itunes:duration>1245</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/viwlY9cOplX-iMHaeLsJXwyQu35VoCD2OpxesSVlVcoQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2024">2024</podcast:season>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nesten helt sant </title>
+    <link>https://radio.nrk.no/podkast/nesten_helt_sant_</link>
+    <description>Kirsti Falch-Nilsen, Are Sende Osen og Torfinn Borkhus - din faste leverandør på humorfronten siden 2018.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Wed, 19 Dec 2018 14:09:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/nesten_helt_sant_.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Kirsti Falch-Nilsen, Are Sende Osen og Torfinn Borkhus - din faste leverandør på humorfronten siden 2018.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w</url>
+      <title>Nesten helt sant </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_</link>
+    </image>
+    <item>
+      <title>Siste podkast fra Nesten helt sant!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_95663d64-924a-420a-a63d-64924a120a9b</link>
+      <description>Yes box folks, tiden har kommet. Jørgen Hegstad òg, forsåvidt. &#xA;I siste episode fra Nesten helt sant har Are kul i panna, Jørgen har sortert nips og fått seg nytt dritekjøkken; Kirsti avslører hva hun kommer til å savne mest med Trondheim og Torfinn kommer rett fra julefrokost i grunnskolen.&#xA;Velbekomme, god jul og takk for følget!&#xA;Ses rundt!</description>
+      <guid isPermaLink="false">l_95663d64-924a-420a-a63d-64924a120a9b</guid>
+      <pubDate>Wed, 19 Dec 2018 15:09:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-12-19_1409_514.MP3" type="audio/mpeg" length="77104541"></enclosure>
+      <itunes:title>Siste podkast fra Nesten helt sant!</itunes:title>
+      <itunes:summary>Yes box folks, tiden har kommet. Jørgen Hegstad òg, forsåvidt. &#xA;I siste episode fra Nesten helt sant har Are kul i panna, Jørgen har sortert nips og fått seg nytt dritekjøkken; Kirsti avslører hva hun kommer til å savne mest med Trondheim og Torfinn kommer rett fra julefrokost i grunnskolen.&#xA;Velbekomme, god jul og takk for følget!&#xA;Ses rundt!</itunes:summary>
+      <itunes:duration>3208</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2018">201812</podcast:season>
+    </item>
+    <item>
+      <title>Nest siste pod fra Nesten helt sant!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_8ca4a67b-ed9a-4c6b-a4a6-7bed9afc6b91</link>
+      <description>Are har vært på hyttetur, Kirsti har fått sin første mikrofon og Torfinn må lage en unge til som skal hete Bjørnstjerne. &#xA;Kort oppsummert.&#xA;Velbekomme! </description>
+      <guid isPermaLink="false">l_8ca4a67b-ed9a-4c6b-a4a6-7bed9afc6b91</guid>
+      <pubDate>Fri, 14 Dec 2018 12:56:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-12-14_1156_2460.MP3" type="audio/mpeg" length="55986109"></enclosure>
+      <itunes:title>Nest siste pod fra Nesten helt sant!</itunes:title>
+      <itunes:summary>Are har vært på hyttetur, Kirsti har fått sin første mikrofon og Torfinn må lage en unge til som skal hete Bjørnstjerne. &#xA;Kort oppsummert.&#xA;Velbekomme! </itunes:summary>
+      <itunes:duration>2328</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2018">201812</podcast:season>
+    </item>
+    <item>
+      <title>Tredje siste podkast!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_b61fe83b-b742-4b5d-9fe8-3bb7426b5d34</link>
+      <description>Denne episoden begynner med at Are er forsinka.&#xA;Og han er ikke i spesielt godt humør heller. Og dessuten har&#39;n veldig rar lyd på mikrofonen sin i dag. Dårlig utgangspunkt, altså. &#xA;Men vi får høre stort sett alt som er å si om Kirstis Waldorf-ansvar på julekvelden og redaksjonens erfaringer med nudiststrand.&#xA;Og så er det en del gæmliser som legger til Kirsti på face, mens Are har draget på damer over 65 år.&#xA;Ananas har en spesiell rolle i Molde by, forresten. Det får du òg høre om. Og greie kjøreregler ifht. prester. &#xA;Velbekomme! God tilstand!</description>
+      <guid isPermaLink="false">l_b61fe83b-b742-4b5d-9fe8-3bb7426b5d34</guid>
+      <pubDate>Thu, 06 Dec 2018 15:07:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-12-06_1407_3598.MP3" type="audio/mpeg" length="49568749"></enclosure>
+      <itunes:title>Tredje siste podkast!</itunes:title>
+      <itunes:summary>Denne episoden begynner med at Are er forsinka.&#xA;Og han er ikke i spesielt godt humør heller. Og dessuten har&#39;n veldig rar lyd på mikrofonen sin i dag. Dårlig utgangspunkt, altså. &#xA;Men vi får høre stort sett alt som er å si om Kirstis Waldorf-ansvar på julekvelden og redaksjonens erfaringer med nudiststrand.&#xA;Og så er det en del gæmliser som legger til Kirsti på face, mens Are har draget på damer over 65 år.&#xA;Ananas har en spesiell rolle i Molde by, forresten. Det får du òg høre om. Og greie kjøreregler ifht. prester. &#xA;Velbekomme! God tilstand!</itunes:summary>
+      <itunes:duration>2061</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Desember 2018">201812</podcast:season>
+    </item>
+    <item>
+      <title>Fjerde siste podkast fra Nesten helt sant!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_51e13428-73de-410c-a134-2873de710cf9</link>
+      <description>Kritikk av utekino! &#xA;Den gangen Are feiret barnebursdag!&#xA;Kongen av komplimenter: Are Sende Osen|&#xA;Kirsti har blitt aldersdissa&#xA;De forskjellige nyanser av baseball &amp; kjærleik&#xA;Kirsti Falch-Nilsen presenterer: Popkorn med paprika!&#xA;Salg på sprit!&#xA;Ares whisky-triks&#xA;Nesten helt sant gir seg til jul, og vi snakker ut om den tunge tiden.&#xA;</description>
+      <guid isPermaLink="false">l_51e13428-73de-410c-a134-2873de710cf9</guid>
+      <pubDate>Thu, 29 Nov 2018 13:20:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-11-29_1220_2485.MP3" type="audio/mpeg" length="56121534"></enclosure>
+      <itunes:title>Fjerde siste podkast fra Nesten helt sant!</itunes:title>
+      <itunes:summary>Kritikk av utekino! &#xA;Den gangen Are feiret barnebursdag!&#xA;Kongen av komplimenter: Are Sende Osen|&#xA;Kirsti har blitt aldersdissa&#xA;De forskjellige nyanser av baseball &amp; kjærleik&#xA;Kirsti Falch-Nilsen presenterer: Popkorn med paprika!&#xA;Salg på sprit!&#xA;Ares whisky-triks&#xA;Nesten helt sant gir seg til jul, og vi snakker ut om den tunge tiden.&#xA;</itunes:summary>
+      <itunes:duration>2334</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>Fest og forfall </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_49adeb2a-f83d-4851-adeb-2af83d185123</link>
+      <description>Torfinn går amok med jingler denne uka, han har nemlig hørt på nyheter på morgenen for første gang i sitt liv! Kirsti ga alt på fest og måtte betale dyrt for det. Og Are skjønner ikke hva som feiler folk som eier mikrobølgeovner. Og så: Vi får besøk av selveste FRODE LAGESEN! </description>
+      <guid isPermaLink="false">l_49adeb2a-f83d-4851-adeb-2af83d185123</guid>
+      <pubDate>Fri, 23 Nov 2018 12:54:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-11-23_1154_4040.MP3" type="audio/mpeg" length="56176677"></enclosure>
+      <itunes:title>Fest og forfall </itunes:title>
+      <itunes:summary>Torfinn går amok med jingler denne uka, han har nemlig hørt på nyheter på morgenen for første gang i sitt liv! Kirsti ga alt på fest og måtte betale dyrt for det. Og Are skjønner ikke hva som feiler folk som eier mikrobølgeovner. Og så: Vi får besøk av selveste FRODE LAGESEN! </itunes:summary>
+      <itunes:duration>2336</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>Personlighetstest, pistol og pilot </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_5f70ef71-b267-49e2-b0ef-71b267f9e2a1</link>
+      <description>Vi har tatt den O&#39; store personlighetstesten &#34;Hvem er du i Le Bureau?&#34;. Utfallet passer svært godt for bare én i redaksjonen. Kirsti har møtt en pilot som enten ville hjelpe eller voldta, det er hun usikker på. Are har gjennomført en brukertest på alle offentlige toalett i Trondheim, og Torfinn er oppslukt i et tv-spill de andre såvidt har hørt om. Og så skal vi til juleselskap på Orderud gård! </description>
+      <guid isPermaLink="false">l_5f70ef71-b267-49e2-b0ef-71b267f9e2a1</guid>
+      <pubDate>Fri, 16 Nov 2018 13:43:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-11-16_1243_2171.MP3" type="audio/mpeg" length="51941098"></enclosure>
+      <itunes:title>Personlighetstest, pistol og pilot </itunes:title>
+      <itunes:summary>Vi har tatt den O&#39; store personlighetstesten &#34;Hvem er du i Le Bureau?&#34;. Utfallet passer svært godt for bare én i redaksjonen. Kirsti har møtt en pilot som enten ville hjelpe eller voldta, det er hun usikker på. Are har gjennomført en brukertest på alle offentlige toalett i Trondheim, og Torfinn er oppslukt i et tv-spill de andre såvidt har hørt om. Og så skal vi til juleselskap på Orderud gård! </itunes:summary>
+      <itunes:duration>2160</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>Sveis, small talk og sexdukker</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_689accf0-7c5d-4996-9acc-f07c5d2996a0</link>
+      <description>Torfinn er sin egen frisør, og nå ser det så kort ut at den ni år eldre kona nesten blir bekymra for hvordan dette tar seg ut. Mye gikk til helvete da Kirsti skulle ha sending, og vi diskuterer sexdukker. Are kunne tenkt seg ei i form av mummitrollet, hvis han først må velge. Og så: small talk hos frisør er et mareritt, mener Are. Da skulle han prøvd med gynekolog, mener noen. </description>
+      <guid isPermaLink="false">l_689accf0-7c5d-4996-9acc-f07c5d2996a0</guid>
+      <pubDate>Fri, 09 Nov 2018 11:50:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-11-09_1050_3574.MP3" type="audio/mpeg" length="57715199"></enclosure>
+      <itunes:title>Sveis, small talk og sexdukker</itunes:title>
+      <itunes:summary>Torfinn er sin egen frisør, og nå ser det så kort ut at den ni år eldre kona nesten blir bekymra for hvordan dette tar seg ut. Mye gikk til helvete da Kirsti skulle ha sending, og vi diskuterer sexdukker. Are kunne tenkt seg ei i form av mummitrollet, hvis han først må velge. Og så: small talk hos frisør er et mareritt, mener Are. Da skulle han prøvd med gynekolog, mener noen. </itunes:summary>
+      <itunes:duration>2401</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>NATO-nerding! </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_f1ae64af-18dc-494a-ae64-af18dc094a3b</link>
+      <description>Torfinn har vært på NATO-øvelse hele uka, og dette graver vi selvsagt i! Nå er han så sliten at han helst vil dø,  men enkelte i gjengen er så redd døden, at det blir for mye å tenke på. Og hva burde vært Kirstis navn i militæret, egentlig? Og så krangles det om ei rosa t-skjorte! </description>
+      <guid isPermaLink="false">l_f1ae64af-18dc-494a-ae64-af18dc094a3b</guid>
+      <pubDate>Fri, 02 Nov 2018 15:38:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-11-02_1438_1787.MP3" type="audio/mpeg" length="56110847"></enclosure>
+      <itunes:title>NATO-nerding! </itunes:title>
+      <itunes:summary>Torfinn har vært på NATO-øvelse hele uka, og dette graver vi selvsagt i! Nå er han så sliten at han helst vil dø,  men enkelte i gjengen er så redd døden, at det blir for mye å tenke på. Og hva burde vært Kirstis navn i militæret, egentlig? Og så krangles det om ei rosa t-skjorte! </itunes:summary>
+      <itunes:duration>2334</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2018">201811</podcast:season>
+    </item>
+    <item>
+      <title>Bollebikini, band og bureau </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_0e7b466b-c78e-4d11-bb46-6bc78e6d11ff</link>
+      <description>Are og Kirsti takker alle som gir ut bøker for tida, for her er det mye rart å ta av! Torfinn henger ikke helt med på akkurat det, men skinner som en prins i den nye band-skjorta si. Brukt både sjampo og balsam har han og. Ellers er vi opptatt av det franske byrået, som endelig er tilbake. Det må da ha sine fordeler at han nye hackeren er så myk, hvis man for eksempel skal ligge med ham? &#xA;I tillegg snakker vi om hvordan gikk det da bedriften Tussa Kraft dro til Island, om Siv Jensens bollebikini og om Kirstis første møte med dama til Are. Blant annet. </description>
+      <guid isPermaLink="false">l_0e7b466b-c78e-4d11-bb46-6bc78e6d11ff</guid>
+      <pubDate>Fri, 26 Oct 2018 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-10-26_0800_1022.MP3" type="audio/mpeg" length="59229254"></enclosure>
+      <itunes:title>Bollebikini, band og bureau </itunes:title>
+      <itunes:summary>Are og Kirsti takker alle som gir ut bøker for tida, for her er det mye rart å ta av! Torfinn henger ikke helt med på akkurat det, men skinner som en prins i den nye band-skjorta si. Brukt både sjampo og balsam har han og. Ellers er vi opptatt av det franske byrået, som endelig er tilbake. Det må da ha sine fordeler at han nye hackeren er så myk, hvis man for eksempel skal ligge med ham? &#xA;I tillegg snakker vi om hvordan gikk det da bedriften Tussa Kraft dro til Island, om Siv Jensens bollebikini og om Kirstis første møte med dama til Are. Blant annet. </itunes:summary>
+      <itunes:duration>2464</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2018">201810</podcast:season>
+    </item>
+    <item>
+      <title>Lips don&#39;t lie </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_8eb9f3f1-af0c-4ea4-b9f3-f1af0c5ea436</link>
+      <description>Velkommen til leppebonanza! For Kirsti våkna med dobbelt så store lepper, noe som setter sitt preg på denne podkasten. Vi tester Ares loppefrøskall, som blant annet skal gjøre det enklere å drite, og Torfinn skal i heimevernet. Se for dere det. &#xA;&#xA;</description>
+      <guid isPermaLink="false">l_8eb9f3f1-af0c-4ea4-b9f3-f1af0c5ea436</guid>
+      <pubDate>Fri, 19 Oct 2018 14:19:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-10-19_1219_3111.MP3" type="audio/mpeg" length="59537695"></enclosure>
+      <itunes:title>Lips don&#39;t lie </itunes:title>
+      <itunes:summary>Velkommen til leppebonanza! For Kirsti våkna med dobbelt så store lepper, noe som setter sitt preg på denne podkasten. Vi tester Ares loppefrøskall, som blant annet skal gjøre det enklere å drite, og Torfinn skal i heimevernet. Se for dere det. &#xA;&#xA;</itunes:summary>
+      <itunes:duration>2476</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2018">201810</podcast:season>
+    </item>
+    <item>
+      <title>Gjengen samla! </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_6feadc61-6df6-455b-aadc-616df6f55b20</link>
+      <description>Torfinn og Are er tilbake fra Chicago; en tur som har satt dype spor i dem begge. Kirsti er faktisk glad hun ble hjemme, men blir VELDIG glad for gaven de har med! Stemninga har omtrent aldri vært bedre, helt til Are bestemmer seg for å krangle med Kirsti, for her skal nemlig alt tas i verste mening. &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_6feadc61-6df6-455b-aadc-616df6f55b20</guid>
+      <pubDate>Fri, 12 Oct 2018 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-10-12_0900_913.MP3" type="audio/mpeg" length="51288435"></enclosure>
+      <itunes:title>Gjengen samla! </itunes:title>
+      <itunes:summary>Torfinn og Are er tilbake fra Chicago; en tur som har satt dype spor i dem begge. Kirsti er faktisk glad hun ble hjemme, men blir VELDIG glad for gaven de har med! Stemninga har omtrent aldri vært bedre, helt til Are bestemmer seg for å krangle med Kirsti, for her skal nemlig alt tas i verste mening. &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>2133</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2018">201810</podcast:season>
+    </item>
+    <item>
+      <title>NHS USA-spesial! </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_32fdc9ad-7dda-44c0-bdc9-ad7dda84c05d</link>
+      <description>Velkommen til Nesten helt sant - USA spesial! Alt som kunne gå galt, gjorde nettopp det da Torfinn og Are skulle dra til Chicago. Torfinn var redd han måtte snu på flyplassen, og det er kjipt når du har pakka åtte skitne truser og gjort deg klar for mange dager ute i den store verden. Are har pådratt seg en lei influensa, men det tror verken Kirsti eller supervikarer Jørgen Hegstad og Jørn Kaarstad noe særlig på. &#xA;Advarer mot mye trusesnakk i denne episoden. &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_32fdc9ad-7dda-44c0-bdc9-ad7dda84c05d</guid>
+      <pubDate>Fri, 05 Oct 2018 16:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-10-05_1405_2107.MP3" type="audio/mpeg" length="55114644"></enclosure>
+      <itunes:title>NHS USA-spesial! </itunes:title>
+      <itunes:summary>Velkommen til Nesten helt sant - USA spesial! Alt som kunne gå galt, gjorde nettopp det da Torfinn og Are skulle dra til Chicago. Torfinn var redd han måtte snu på flyplassen, og det er kjipt når du har pakka åtte skitne truser og gjort deg klar for mange dager ute i den store verden. Are har pådratt seg en lei influensa, men det tror verken Kirsti eller supervikarer Jørgen Hegstad og Jørn Kaarstad noe særlig på. &#xA;Advarer mot mye trusesnakk i denne episoden. &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>2292</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2018">201810</podcast:season>
+    </item>
+    <item>
+      <title>Fredagspod! Politi-Kirsti, standup-Are og en fisende Torfinn </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_f8358121-a554-4ef3-b581-21a5540ef334</link>
+      <description>Kirsti drømte om å bli politi i barndommen; nå får hun testa seg. Torfinn flirer på seg en fis, Are har hatt standup og kjøper masse rare ting på internett for typ én krone. Og hvordan funker triksene fra logopeden? Nå reiser gutta til USA, uten Nilsen.&#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_f8358121-a554-4ef3-b581-21a5540ef334</guid>
+      <pubDate>Fri, 28 Sep 2018 15:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-28_1350_488.MP3" type="audio/mpeg" length="54690251"></enclosure>
+      <itunes:title>Fredagspod! Politi-Kirsti, standup-Are og en fisende Torfinn </itunes:title>
+      <itunes:summary>Kirsti drømte om å bli politi i barndommen; nå får hun testa seg. Torfinn flirer på seg en fis, Are har hatt standup og kjøper masse rare ting på internett for typ én krone. Og hvordan funker triksene fra logopeden? Nå reiser gutta til USA, uten Nilsen.&#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>2274</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Hverdagspod! Tidsklemme, tulleringing og &#34;Sushi Man&#34;</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_a4f62969-b88a-4589-b629-69b88a45891f</link>
+      <description>Småbarnsfar Are Sende Osen har hatt en travel ettermiddag med en håndfull poster på programmet, og kommer med en rekke tips og triks til deg som vil komme deg helskinnet gjennom pliktløypa. Det blir tulleringing og &#39;gjett dyret&#39;-konkurranse!&#xA;Nesten helt sant er et klassisk radioprogram; samtaler, deilig musikk, konkurranser og sikkert en innringer eller to. Perfekt følge til klesfoldinga, bussturen eller bikkjeluftinga.</description>
+      <guid isPermaLink="false">l_a4f62969-b88a-4589-b629-69b88a45891f</guid>
+      <pubDate>Fri, 21 Sep 2018 13:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-21_1101_2786.MP3" type="audio/mpeg" length="32579365"></enclosure>
+      <itunes:title>Hverdagspod! Tidsklemme, tulleringing og &#34;Sushi Man&#34;</itunes:title>
+      <itunes:summary>Småbarnsfar Are Sende Osen har hatt en travel ettermiddag med en håndfull poster på programmet, og kommer med en rekke tips og triks til deg som vil komme deg helskinnet gjennom pliktløypa. Det blir tulleringing og &#39;gjett dyret&#39;-konkurranse!&#xA;Nesten helt sant er et klassisk radioprogram; samtaler, deilig musikk, konkurranser og sikkert en innringer eller to. Perfekt følge til klesfoldinga, bussturen eller bikkjeluftinga.</itunes:summary>
+      <itunes:duration>1353</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Fredagspod! Sex, kryssord &amp; ørepinner</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_98d076b7-510e-4170-9076-b7510e3170c3</link>
+      <description>Tabloid nok starter det med sex &amp; samliv i dag. Deretter kommer de på rad og rekke:&#xA;Gjeterhunden med post-traumatisk stressyndrom&#xA;Australieren som ble flådd&#xA;Kirsti har aldri løst kryssord&#xA;Vinkelnersjargong – do&#39;s &amp; dont&#39;s&#xA;Are har lest ei bok om melk!&#xA;Kirsti elsker grandis &amp; melk&#xA;Potetgullomtaler&#xA;Torfinn har hatt øreorgasme&#xA;Tannlegen som inviterte ut på date&#xA;Og så avslutter vi med en gigantisk musikkrangel&#xA;&#xA;sms kodeord kvelds til 1987 | epost nhs@nrk.no | svarer 73 88 14 80</description>
+      <guid isPermaLink="false">l_98d076b7-510e-4170-9076-b7510e3170c3</guid>
+      <pubDate>Fri, 21 Sep 2018 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-21_0800_1771.MP3" type="audio/mpeg" length="43816600"></enclosure>
+      <itunes:title>Fredagspod! Sex, kryssord &amp; ørepinner</itunes:title>
+      <itunes:summary>Tabloid nok starter det med sex &amp; samliv i dag. Deretter kommer de på rad og rekke:&#xA;Gjeterhunden med post-traumatisk stressyndrom&#xA;Australieren som ble flådd&#xA;Kirsti har aldri løst kryssord&#xA;Vinkelnersjargong – do&#39;s &amp; dont&#39;s&#xA;Are har lest ei bok om melk!&#xA;Kirsti elsker grandis &amp; melk&#xA;Potetgullomtaler&#xA;Torfinn har hatt øreorgasme&#xA;Tannlegen som inviterte ut på date&#xA;Og så avslutter vi med en gigantisk musikkrangel&#xA;&#xA;sms kodeord kvelds til 1987 | epost nhs@nrk.no | svarer 73 88 14 80</itunes:summary>
+      <itunes:duration>1821</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Hverdagspod! Fancy mat, hjemmehjelp &amp; campingskrekk!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_3769f603-e50a-474c-a9f6-03e50a374cdc</link>
+      <description>Kirsti og Torfinn ønsker velkommen!&#xA;Hvorfor så fancy mat?&#xA;Mamma ringer!&#xA;Vi tulleringer til Niklas!&#xA;Konfliktskyhet satt i system&#xA;Nesten helt skummelt: campingturen!&#xA;&#xA;sms kodeord kvelds til 1987 | epost nhs@nrk.no | svarer 73 88 14 80</description>
+      <guid isPermaLink="false">l_3769f603-e50a-474c-a9f6-03e50a374cdc</guid>
+      <pubDate>Thu, 20 Sep 2018 14:42:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-20_1242_1692.MP3" type="audio/mpeg" length="32536733"></enclosure>
+      <itunes:title>Hverdagspod! Fancy mat, hjemmehjelp &amp; campingskrekk!</itunes:title>
+      <itunes:summary>Kirsti og Torfinn ønsker velkommen!&#xA;Hvorfor så fancy mat?&#xA;Mamma ringer!&#xA;Vi tulleringer til Niklas!&#xA;Konfliktskyhet satt i system&#xA;Nesten helt skummelt: campingturen!&#xA;&#xA;sms kodeord kvelds til 1987 | epost nhs@nrk.no | svarer 73 88 14 80</itunes:summary>
+      <itunes:duration>1351</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Hverdagspod! Ærlig sykkel, mattestykker og Borat!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_dba8fbbe-ad1d-400f-a8fb-bead1da00fe3</link>
+      <description>Kirsti og nytt redaksjonsmedlem Rune har følgende meny: Når er det greit med grått hår? Nå kan Rune matte! Nilsens nyhetskviss! Rune har hengt seg opp i ordet &#34;føkk&#34; og vi svinger innom elsykkel vs. ærlig sykkel. </description>
+      <guid isPermaLink="false">l_dba8fbbe-ad1d-400f-a8fb-bead1da00fe3</guid>
+      <pubDate>Wed, 19 Sep 2018 13:06:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-19_1106_2353.MP3" type="audio/mpeg" length="34284635"></enclosure>
+      <itunes:title>Hverdagspod! Ærlig sykkel, mattestykker og Borat!</itunes:title>
+      <itunes:summary>Kirsti og nytt redaksjonsmedlem Rune har følgende meny: Når er det greit med grått hår? Nå kan Rune matte! Nilsens nyhetskviss! Rune har hengt seg opp i ordet &#34;føkk&#34; og vi svinger innom elsykkel vs. ærlig sykkel. </itunes:summary>
+      <itunes:duration>1424</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Hverdagspod! Høner, sokker &amp; snus!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_a3fd9f03-9b22-4eab-bd9f-039b22deab7c</link>
+      <description>Hei og velkommen!&#xA;Dyrebilsjåføren som fikk med et fremmedelement i bilen&#xA;Vi tulleringer til Vibeke!&#xA;Lytterspørsmål: hvor mange sokkepar bør en unge ha?&#xA;Snusrester og sortering&#xA;Sokkespørsmål fra en lytter!&#xA;Nesten helt kviss!&#xA;!Takk for i kveld!&#xA;&#xA;sms kodeord kvelds til 1987 | epost nhs@nrk.no | svarer 73 88 14 80</description>
+      <guid isPermaLink="false">l_a3fd9f03-9b22-4eab-bd9f-039b22deab7c</guid>
+      <pubDate>Tue, 18 Sep 2018 13:48:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-18_1148_2960.MP3" type="audio/mpeg" length="26845992"></enclosure>
+      <itunes:title>Hverdagspod! Høner, sokker &amp; snus!</itunes:title>
+      <itunes:summary>Hei og velkommen!&#xA;Dyrebilsjåføren som fikk med et fremmedelement i bilen&#xA;Vi tulleringer til Vibeke!&#xA;Lytterspørsmål: hvor mange sokkepar bør en unge ha?&#xA;Snusrester og sortering&#xA;Sokkespørsmål fra en lytter!&#xA;Nesten helt kviss!&#xA;!Takk for i kveld!&#xA;&#xA;sms kodeord kvelds til 1987 | epost nhs@nrk.no | svarer 73 88 14 80</itunes:summary>
+      <itunes:duration>1114</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Fredagspod med Kirsti Minaj, Are &amp; Torfinn! </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_6d3d6647-fe10-4aaa-bd66-47fe105aaab3</link>
+      <description>I denne gledespodden (eller fredagspodden, som den også er kjent som (for å skille den fra hverdagspoddene (som er radiosendingene våre - uten musikk))), begynner vi med den skumle historien om jenta som ble til en kano. Deretter kommer det på løpende bånd: Kirsti gir fargeblinde buldrere et ansikt; Ares intellektuelle aversjon mot gifler;  Charlotte fra Sex &amp; Singellivs bagel-gate; nakenstuntet i Bodø; Kirsti &#39;KNK&#39; rapper; drømmen om Thomas Dybdahl og Torfinns giftige megafis for å teste kona.&#xA;</description>
+      <guid isPermaLink="false">l_6d3d6647-fe10-4aaa-bd66-47fe105aaab3</guid>
+      <pubDate>Fri, 14 Sep 2018 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-14_0900_3281.MP3" type="audio/mpeg" length="49581309"></enclosure>
+      <itunes:title>Fredagspod med Kirsti Minaj, Are &amp; Torfinn! </itunes:title>
+      <itunes:summary>I denne gledespodden (eller fredagspodden, som den også er kjent som (for å skille den fra hverdagspoddene (som er radiosendingene våre - uten musikk))), begynner vi med den skumle historien om jenta som ble til en kano. Deretter kommer det på løpende bånd: Kirsti gir fargeblinde buldrere et ansikt; Ares intellektuelle aversjon mot gifler;  Charlotte fra Sex &amp; Singellivs bagel-gate; nakenstuntet i Bodø; Kirsti &#39;KNK&#39; rapper; drømmen om Thomas Dybdahl og Torfinns giftige megafis for å teste kona.&#xA;</itunes:summary>
+      <itunes:duration>2062</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Hverdagspod med Kirsti og Rune!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_6fe1a2f5-484a-4fe6-a1a2-f5484acfe6a7</link>
+      <description>Det meste har gått galt for Kirsti i dag. Rune er veldig, veldig gammel, i tillegg samler han på småelektriske ting. Nilsen reagerer på at ingenting skjer med de svenske politiuniformene, og Nilson strekker ikke til når vi snakker om mattelekser. Nevnte vi mareritt? </description>
+      <guid isPermaLink="false">l_6fe1a2f5-484a-4fe6-a1a2-f5484acfe6a7</guid>
+      <pubDate>Fri, 14 Sep 2018 10:48:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-14_0848_1262.MP3" type="audio/mpeg" length="23500643"></enclosure>
+      <itunes:title>Hverdagspod med Kirsti og Rune!</itunes:title>
+      <itunes:summary>Det meste har gått galt for Kirsti i dag. Rune er veldig, veldig gammel, i tillegg samler han på småelektriske ting. Nilsen reagerer på at ingenting skjer med de svenske politiuniformene, og Nilson strekker ikke til når vi snakker om mattelekser. Nevnte vi mareritt? </itunes:summary>
+      <itunes:duration>975</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Hverdagspod med Kirsti &amp; Are! </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_0afe7911-c7f1-4627-be79-11c7f1f627bc</link>
+      <description>God kveld i stua, bilen eller hvor du enn er! &#xA;Mamma ringer!&#xA;Vi snakker om egg&#xA;Hvorfor elske Team Ingebrigtsen&#xA;Vi tulleringer Sigurd!&#xA;Skal det bli slutt på sommertid?&#xA;Takk for idag, nå kommer Slettan og Martin.&#xA;&#xA;sms kodeord kvelds til 1987 | epost nhs@nrk.no | svarer 73 88 14 80</description>
+      <guid isPermaLink="false">l_0afe7911-c7f1-4627-be79-11c7f1f627bc</guid>
+      <pubDate>Thu, 13 Sep 2018 11:33:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-13_0933_2600.MP3" type="audio/mpeg" length="33603134"></enclosure>
+      <itunes:title>Hverdagspod med Kirsti &amp; Are! </itunes:title>
+      <itunes:summary>God kveld i stua, bilen eller hvor du enn er! &#xA;Mamma ringer!&#xA;Vi snakker om egg&#xA;Hvorfor elske Team Ingebrigtsen&#xA;Vi tulleringer Sigurd!&#xA;Skal det bli slutt på sommertid?&#xA;Takk for idag, nå kommer Slettan og Martin.&#xA;&#xA;sms kodeord kvelds til 1987 | epost nhs@nrk.no | svarer 73 88 14 80</itunes:summary>
+      <itunes:duration>1396</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Hverdagspod; Osen &amp; Borkhus hilser deg!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_deb9d4f3-3c8c-43ca-b9d4-f33c8c83cacd</link>
+      <description>Ting som går i stykker (Are satt i stykker en stol i helga)&#xA;Torfinn har et luretriks for deg som er døsig på jobb&#xA;Ørkenkviss ved Are med Jostedalsguten på tråden&#xA;SSSSj! Vi tulleringer Lise!&#xA;Takk for oss!&#xA;&#xA;sms kodeord kvelds til 1987 | epost nhs@nrk.no | svarer 73 88 14 80</description>
+      <guid isPermaLink="false">l_deb9d4f3-3c8c-43ca-b9d4-f33c8c83cacd</guid>
+      <pubDate>Thu, 13 Sep 2018 11:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-13_0911_2968.MP3" type="audio/mpeg" length="32399420"></enclosure>
+      <itunes:title>Hverdagspod; Osen &amp; Borkhus hilser deg!</itunes:title>
+      <itunes:summary>Ting som går i stykker (Are satt i stykker en stol i helga)&#xA;Torfinn har et luretriks for deg som er døsig på jobb&#xA;Ørkenkviss ved Are med Jostedalsguten på tråden&#xA;SSSSj! Vi tulleringer Lise!&#xA;Takk for oss!&#xA;&#xA;sms kodeord kvelds til 1987 | epost nhs@nrk.no | svarer 73 88 14 80</itunes:summary>
+      <itunes:duration>1346</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Hverdagspod; MYE hundepass!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_adb92e06-0382-4042-b92e-0603829042cc</link>
+      <description>Hei og god kveld!&#xA;Kirsti har passa hund i helga!&#xA;Hvor langt bør det være mellom søppeldunkene, i følge Walt Disney? &#xA;Sier du ifra hvis du tror bikkja får feil fôr?&#xA;Takk for i kveld! </description>
+      <guid isPermaLink="false">l_adb92e06-0382-4042-b92e-0603829042cc</guid>
+      <pubDate>Tue, 11 Sep 2018 09:54:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-11_0754_3112.MP3" type="audio/mpeg" length="22152094"></enclosure>
+      <itunes:title>Hverdagspod; MYE hundepass!</itunes:title>
+      <itunes:summary>Hei og god kveld!&#xA;Kirsti har passa hund i helga!&#xA;Hvor langt bør det være mellom søppeldunkene, i følge Walt Disney? &#xA;Sier du ifra hvis du tror bikkja får feil fôr?&#xA;Takk for i kveld! </itunes:summary>
+      <itunes:duration>919</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Kontorpod med Kirsti, Are &amp; Torfinn!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_a5686959-d122-4def-a869-59d122bdef73</link>
+      <description>Morrasmøte på kontoret; hva har folk vært opptatt med i helga?&#xA;Are har vært på hyttetur med kompiser, feiret bursdag og gått på fjelltopp;&#xA;Kirsti har spoona og gått tur med hunden til Are;&#xA;Torfinn har låst seg (og barna) ute av bilen og vært i bryllup.&#xA; &#xA;Ring 73 88 14 80 og legg igjen en beskjed på svareren vår!</description>
+      <guid isPermaLink="false">l_a5686959-d122-4def-a869-59d122bdef73</guid>
+      <pubDate>Mon, 10 Sep 2018 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-10_1200_3978.MP3" type="audio/mpeg" length="23938252"></enclosure>
+      <itunes:title>Kontorpod med Kirsti, Are &amp; Torfinn!</itunes:title>
+      <itunes:summary>Morrasmøte på kontoret; hva har folk vært opptatt med i helga?&#xA;Are har vært på hyttetur med kompiser, feiret bursdag og gått på fjelltopp;&#xA;Kirsti har spoona og gått tur med hunden til Are;&#xA;Torfinn har låst seg (og barna) ute av bilen og vært i bryllup.&#xA; &#xA;Ring 73 88 14 80 og legg igjen en beskjed på svareren vår!</itunes:summary>
+      <itunes:duration>993</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Å ta seg en kvil i dusjen!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_aae68a8b-80f6-4d59-a68a-8b80f68d59d7</link>
+      <description>Velkommen til Frank Løke-fri sone! Eller ikke helt, da, for Kirsti irriterer seg over at han er overalt. Are angrer på at han ikke har kalt hunden sin for Per Sandberg, og Torfinn har kjøpt seg en bil som er skremmende lik seg sjøl. Og hvor bra hadde Torfinn gjort det som spådame? &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_aae68a8b-80f6-4d59-a68a-8b80f68d59d7</guid>
+      <pubDate>Fri, 07 Sep 2018 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-07_0800_158.MP3" type="audio/mpeg" length="43461742"></enclosure>
+      <itunes:title>Å ta seg en kvil i dusjen!</itunes:title>
+      <itunes:summary>Velkommen til Frank Løke-fri sone! Eller ikke helt, da, for Kirsti irriterer seg over at han er overalt. Are angrer på at han ikke har kalt hunden sin for Per Sandberg, og Torfinn har kjøpt seg en bil som er skremmende lik seg sjøl. Og hvor bra hadde Torfinn gjort det som spådame? &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>1807</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Hverdagspod 6.9.18 Ble det føning eller???</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_5d9e5ba6-3da9-49bd-9e5b-a63da9a9bd9a</link>
+      <description>Hysj! Vi tulleringer til Lise!&#xA;Vi tulleringer igjen! Til Petter nå!&#xA;Spalte: Aproposmusikken som feilet&#xA;Hvordan gikk det med brudeparet da?&#xA;Skal du høre ei fet låt?&#xA;Hans Olav har et høstdepresjonråd til Kirsti!&#xA;Takk for i kveld, snart er det Slettan &amp; Martin!&#xA;&#xA;Epost: nhs@nrk.no | Telefonsvarer: 73 88 14 80&#xA;Love love love love love love love love love it&#39;s easy</description>
+      <guid isPermaLink="false">l_5d9e5ba6-3da9-49bd-9e5b-a63da9a9bd9a</guid>
+      <pubDate>Thu, 06 Sep 2018 09:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-06_0708_3522.MP3" type="audio/mpeg" length="27625912"></enclosure>
+      <itunes:title>Hverdagspod 6.9.18 Ble det føning eller???</itunes:title>
+      <itunes:summary>Hysj! Vi tulleringer til Lise!&#xA;Vi tulleringer igjen! Til Petter nå!&#xA;Spalte: Aproposmusikken som feilet&#xA;Hvordan gikk det med brudeparet da?&#xA;Skal du høre ei fet låt?&#xA;Hans Olav har et høstdepresjonråd til Kirsti!&#xA;Takk for i kveld, snart er det Slettan &amp; Martin!&#xA;&#xA;Epost: nhs@nrk.no | Telefonsvarer: 73 88 14 80&#xA;Love love love love love love love love love it&#39;s easy</itunes:summary>
+      <itunes:duration>1147</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Hverdagspod! Yoghurt &amp; best før i går</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_e8838026-923f-4f94-8380-26923f4f942d</link>
+      <description>Ingen har sagt til svenskene at de kan lage sin egen Oboy!&#xA;Hysj! Vi tulleringer til Hans Martin!&#xA;Vi prøver igjen! Til Hans Petter denne gangen.&#xA;Verdens eldste (kjente) edderkopp er død!&#xA;Vi vet forresten hvem som dreper verdens eldste!&#xA;Kirsti klynka litt, og dermed hadde vi ei ny låt!&#xA;Melding på svareren fra gårdbrukeren på Nesna!&#xA;Takk for oss, hold deg på kanalen!&#xA;&#xA;I dagens kontorbonus anbefaler Kirsti FRESH POT på tuben og Agnes Ravatns bok &#39;Veke 53&#39;.&#xA;&#xA;Ring 73 88 14 80 for å legge igjen en beskjed til oss i Nesten helt sant!&#xA;Eller - hvis du er av den skriftlige typen - send oss en epost! NHS@nrk.no!</description>
+      <guid isPermaLink="false">l_e8838026-923f-4f94-8380-26923f4f942d</guid>
+      <pubDate>Wed, 05 Sep 2018 13:33:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-05_1133_640.MP3" type="audio/mpeg" length="44525041"></enclosure>
+      <itunes:title>Hverdagspod! Yoghurt &amp; best før i går</itunes:title>
+      <itunes:summary>Ingen har sagt til svenskene at de kan lage sin egen Oboy!&#xA;Hysj! Vi tulleringer til Hans Martin!&#xA;Vi prøver igjen! Til Hans Petter denne gangen.&#xA;Verdens eldste (kjente) edderkopp er død!&#xA;Vi vet forresten hvem som dreper verdens eldste!&#xA;Kirsti klynka litt, og dermed hadde vi ei ny låt!&#xA;Melding på svareren fra gårdbrukeren på Nesna!&#xA;Takk for oss, hold deg på kanalen!&#xA;&#xA;I dagens kontorbonus anbefaler Kirsti FRESH POT på tuben og Agnes Ravatns bok &#39;Veke 53&#39;.&#xA;&#xA;Ring 73 88 14 80 for å legge igjen en beskjed til oss i Nesten helt sant!&#xA;Eller - hvis du er av den skriftlige typen - send oss en epost! NHS@nrk.no!</itunes:summary>
+      <itunes:duration>1851</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Hverdagspod-debut! &lt;spretter sjampis&gt; &lt;jubelbrøl&gt;</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_03e7c287-4878-4623-a7c2-874878e623fc</link>
+      <description>Bananpannekaker! &#xA;Kirstis favorittøyeblikk fra Luksusfellen&#xA;Berg- og dalbanen og windows-lyden&#xA;Stephen Hawking-filmen!&#xA;Sommeren er over, takk for sist!&#xA;Ny konkurranse av høsten! Kodeord: ringmeg til 1987!&#xA;Noen gleder seg mer enn andre til høsten&#xA;Ringmeg-konkurransen, spilleregler!&#xA;Oboy-krise i Sverige!&#xA;Vi tulleringer til Eivind!&#xA;Alt du trenger å vite om de rosa trusene du kan vinne i høst!&#xA;Når hjernen smelter&#xA;Takk for oss!&#xA;Ring oss og legg igjen en beskjed på 73 88 14 80!</description>
+      <guid isPermaLink="false">l_03e7c287-4878-4623-a7c2-874878e623fc</guid>
+      <pubDate>Tue, 04 Sep 2018 10:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-09-04_0850_2426.MP3" type="audio/mpeg" length="61749569"></enclosure>
+      <itunes:title>Hverdagspod-debut! &lt;spretter sjampis&gt; &lt;jubelbrøl&gt;</itunes:title>
+      <itunes:summary>Bananpannekaker! &#xA;Kirstis favorittøyeblikk fra Luksusfellen&#xA;Berg- og dalbanen og windows-lyden&#xA;Stephen Hawking-filmen!&#xA;Sommeren er over, takk for sist!&#xA;Ny konkurranse av høsten! Kodeord: ringmeg til 1987!&#xA;Noen gleder seg mer enn andre til høsten&#xA;Ringmeg-konkurransen, spilleregler!&#xA;Oboy-krise i Sverige!&#xA;Vi tulleringer til Eivind!&#xA;Alt du trenger å vite om de rosa trusene du kan vinne i høst!&#xA;Når hjernen smelter&#xA;Takk for oss!&#xA;Ring oss og legg igjen en beskjed på 73 88 14 80!</itunes:summary>
+      <itunes:duration>2569</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2018">201809</podcast:season>
+    </item>
+    <item>
+      <title>Are er selvlært på powerpoint!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_d2db1ada-857b-4236-9b1a-da857bb236fa</link>
+      <description>Verdens eldste spiller banjo!&#xA;Kirsti tør ikke føne håret om kveldene når det er mørkt!&#xA;Unger i butikken!&#xA;Hvordan vise en hane hvem som er sjefen!&#xA;Dassen til Jensen roper &#34;skyldig&#34;!&#xA;</description>
+      <guid isPermaLink="false">l_d2db1ada-857b-4236-9b1a-da857bb236fa</guid>
+      <pubDate>Fri, 31 Aug 2018 11:47:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-08-31_0947_3615.MP3" type="audio/mpeg" length="42694373"></enclosure>
+      <itunes:title>Are er selvlært på powerpoint!</itunes:title>
+      <itunes:summary>Verdens eldste spiller banjo!&#xA;Kirsti tør ikke føne håret om kveldene når det er mørkt!&#xA;Unger i butikken!&#xA;Hvordan vise en hane hvem som er sjefen!&#xA;Dassen til Jensen roper &#34;skyldig&#34;!&#xA;</itunes:summary>
+      <itunes:duration>1775</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2018">201808</podcast:season>
+    </item>
+    <item>
+      <title>Fredsmekling, bandtruser og ferieslutt! </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_95b41b34-d4b0-4a7d-b41b-34d4b01a7d7c</link>
+      <description>Nesten helt sant-gjengen møtes for første gang på flere uker. Kirsti og Are ordner opp i sårende språkbruk på chat, Torfinn irriterer seg over folk som krever ekstranummer på konsert, og Kirsti har med en av gavene hun fikk til bursdagen, som kanskje lukter litt sært. I tillegg byr Are på historien om da han skulle få sjekke at alt var som det skal der nede. Og hvordan kan eplet falle så langt fra stammen? &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_95b41b34-d4b0-4a7d-b41b-34d4b01a7d7c</guid>
+      <pubDate>Tue, 21 Aug 2018 16:13:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-08-21_1413_184.MP3" type="audio/mpeg" length="54615624"></enclosure>
+      <itunes:title>Fredsmekling, bandtruser og ferieslutt! </itunes:title>
+      <itunes:summary>Nesten helt sant-gjengen møtes for første gang på flere uker. Kirsti og Are ordner opp i sårende språkbruk på chat, Torfinn irriterer seg over folk som krever ekstranummer på konsert, og Kirsti har med en av gavene hun fikk til bursdagen, som kanskje lukter litt sært. I tillegg byr Are på historien om da han skulle få sjekke at alt var som det skal der nede. Og hvordan kan eplet falle så langt fra stammen? &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>2271</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2018">201808</podcast:season>
+    </item>
+    <item>
+      <title>Velkommen til VM i fortsnakking!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_adb378e9-55be-4d13-b378-e955be3d13c4</link>
+      <description>Torfinn har med seg en overraskelse til Kirsti, i form av en gjest som prater så det renner. Og han har mye å ta Kirsti på, mener han. &#xA;Dessuten: Historia da Torfinn, for bare et par år siden, tissa seg ut mens han spilte konsert. Sånt som skjer, mener han. &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_adb378e9-55be-4d13-b378-e955be3d13c4</guid>
+      <pubDate>Fri, 29 Jun 2018 14:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-06-29_1210_306.MP3" type="audio/mpeg" length="61380285"></enclosure>
+      <itunes:title>Velkommen til VM i fortsnakking!</itunes:title>
+      <itunes:summary>Torfinn har med seg en overraskelse til Kirsti, i form av en gjest som prater så det renner. Og han har mye å ta Kirsti på, mener han. &#xA;Dessuten: Historia da Torfinn, for bare et par år siden, tissa seg ut mens han spilte konsert. Sånt som skjer, mener han. &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>2553</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2018">201806</podcast:season>
+    </item>
+    <item>
+      <title>Hvor mye er det lov å flire av Dan Børges spylyder? </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_d344292e-18ea-4e00-8429-2e18eade0069</link>
+      <description>Dan Børge Akerø har slutta i NRK, og vi koser oss veldig med de legendariske spylydene fra Lesotho. Vi går faktisk aldri lei av det klippet!&#xA;Torfinn har igjen hatt en drøm som nesten ikke egner seg for offentligheten, men så klart for Nesten helt sant! Torfinn og Are krangler seg imellom om den mye omtalte trønderlåta, og Are kjefter på musa til Kirsti. Og hvem av oss var best i å juksing på skolen? Dette er siste ordinære podkast før vi sender gamle Osen på teknologikurs. Ellers flirer vi sånn at vi holder på å sprekke, håper du gjør det samme! &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_d344292e-18ea-4e00-8429-2e18eade0069</guid>
+      <pubDate>Thu, 21 Jun 2018 22:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-06-22_0630_3145.MP3" type="audio/mpeg" length="54720335"></enclosure>
+      <itunes:title>Hvor mye er det lov å flire av Dan Børges spylyder? </itunes:title>
+      <itunes:summary>Dan Børge Akerø har slutta i NRK, og vi koser oss veldig med de legendariske spylydene fra Lesotho. Vi går faktisk aldri lei av det klippet!&#xA;Torfinn har igjen hatt en drøm som nesten ikke egner seg for offentligheten, men så klart for Nesten helt sant! Torfinn og Are krangler seg imellom om den mye omtalte trønderlåta, og Are kjefter på musa til Kirsti. Og hvem av oss var best i å juksing på skolen? Dette er siste ordinære podkast før vi sender gamle Osen på teknologikurs. Ellers flirer vi sånn at vi holder på å sprekke, håper du gjør det samme! &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>2276</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2018">201806</podcast:season>
+    </item>
+    <item>
+      <title>Kirsti er i hovedstaden og rapporterer om fest og bussdrama! </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_6bdb5018-a449-4729-9b50-18a4497729a0</link>
+      <description>Are styrer med hensikt unna all geografisk tilknytning og Njord har spist apehjerne, så rotter Kirsti og Are seg sammen mot vegetarianerne. Før det plutselig blir kjendiser og statslederes toalettvaner i utlandet. Heldigvis kan Are forklare oss dette med eggehviten og kyllingen. Som så styrer oss videre over i ketsjupeffekten - forklart av Kirsti! Hun har forresten gått i bryllup i nye sko og gått hjem uten sko....og må opp om natta fordi det gjør så vondt. Dessuten har hun vært spinninginstruktør! Og så er hun så redd for å få kjeft, vettu. Torfinn, derimot, kan dette med å kjefte og vise respekt samtidig. Han har dessuten et skjegg som høres ut som et kvinnelig syttitallsunderliv. Avslutningsvis forklarer vi hvorfor så mange lesbiske går rundt og holder hender i Oslo om dagen, og hva Are &amp; Torfinn ville gjort dersom de var i den posisjon. &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_6bdb5018-a449-4729-9b50-18a4497729a0</guid>
+      <pubDate>Fri, 15 Jun 2018 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-06-15_0800_555.MP3" type="audio/mpeg" length="63547017"></enclosure>
+      <itunes:title>Kirsti er i hovedstaden og rapporterer om fest og bussdrama! </itunes:title>
+      <itunes:summary>Are styrer med hensikt unna all geografisk tilknytning og Njord har spist apehjerne, så rotter Kirsti og Are seg sammen mot vegetarianerne. Før det plutselig blir kjendiser og statslederes toalettvaner i utlandet. Heldigvis kan Are forklare oss dette med eggehviten og kyllingen. Som så styrer oss videre over i ketsjupeffekten - forklart av Kirsti! Hun har forresten gått i bryllup i nye sko og gått hjem uten sko....og må opp om natta fordi det gjør så vondt. Dessuten har hun vært spinninginstruktør! Og så er hun så redd for å få kjeft, vettu. Torfinn, derimot, kan dette med å kjefte og vise respekt samtidig. Han har dessuten et skjegg som høres ut som et kvinnelig syttitallsunderliv. Avslutningsvis forklarer vi hvorfor så mange lesbiske går rundt og holder hender i Oslo om dagen, og hva Are &amp; Torfinn ville gjort dersom de var i den posisjon. &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>2644</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2018">201806</podcast:season>
+    </item>
+    <item>
+      <title>Are cockblocka Kirsti! Fysj! </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_b4628ed9-61db-4ae6-a28e-d961dbeae68b</link>
+      <description>Kirstis Ikea-tur i forrige uke har blitt til ei lidelseslåt! MEN DRIT NÅ I DET, verre er det at Are cockblocka Kirsti på fest. Ikke greit. Torfinn og Kirsti har fyllesykla, og det kunne ha fått større konsekvenser. &#xA;Og når kjæledyret ditt plutselig er borte fra fjøset, og det er fårikål til middag... Og så: &#34;Alle&#34; ser på Le Bureau, men ingen nevner det åpenbare: Hvorfor bruker de ikke kikkehullene når de har mulighet?! I tillegg byr vi på katt i grillen og rev i rundballen. Kos deg! &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_b4628ed9-61db-4ae6-a28e-d961dbeae68b</guid>
+      <pubDate>Fri, 08 Jun 2018 11:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-06-08_1000_3548.MP3" type="audio/mpeg" length="78309501"></enclosure>
+      <itunes:title>Are cockblocka Kirsti! Fysj! </itunes:title>
+      <itunes:summary>Kirstis Ikea-tur i forrige uke har blitt til ei lidelseslåt! MEN DRIT NÅ I DET, verre er det at Are cockblocka Kirsti på fest. Ikke greit. Torfinn og Kirsti har fyllesykla, og det kunne ha fått større konsekvenser. &#xA;Og når kjæledyret ditt plutselig er borte fra fjøset, og det er fårikål til middag... Og så: &#34;Alle&#34; ser på Le Bureau, men ingen nevner det åpenbare: Hvorfor bruker de ikke kikkehullene når de har mulighet?! I tillegg byr vi på katt i grillen og rev i rundballen. Kos deg! &#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>3259</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2018">201806</podcast:season>
+    </item>
+    <item>
+      <title>FORBIGÅTT AV ELDRE MANN! Deo vs. tannpuss! FRESH POT!!! </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_cde1dcce-e038-4b15-a1dc-cee0381b150c</link>
+      <description>Kirstis møte med en creepy fyr i heisen! Eldre føler seg snytt hvis de ikke får si &#39;neger&#39;! Torfinns busstur til Østersund! Kirsti henta riktig unge i skolegården! Oppramsing av fasttelefonnumre vi husker! Kirsti har vært i helvetes forgård! Toppen av isfjellet! Regjeringskviss! Are drømmer om speilegg! SNU SNU! Blinkende isbjørner på eldresenter! Ares Tore på sporet-parodi! Den siste gangen Torfinn jogga! &#xA;&#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_cde1dcce-e038-4b15-a1dc-cee0381b150c</guid>
+      <pubDate>Fri, 01 Jun 2018 12:38:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-06-01_1038_2931.MP3" type="audio/mpeg" length="76483265"></enclosure>
+      <itunes:title>FORBIGÅTT AV ELDRE MANN! Deo vs. tannpuss! FRESH POT!!! </itunes:title>
+      <itunes:summary>Kirstis møte med en creepy fyr i heisen! Eldre føler seg snytt hvis de ikke får si &#39;neger&#39;! Torfinns busstur til Østersund! Kirsti henta riktig unge i skolegården! Oppramsing av fasttelefonnumre vi husker! Kirsti har vært i helvetes forgård! Toppen av isfjellet! Regjeringskviss! Are drømmer om speilegg! SNU SNU! Blinkende isbjørner på eldresenter! Ares Tore på sporet-parodi! Den siste gangen Torfinn jogga! &#xA;&#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>3183</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Juni 2018">201806</podcast:season>
+    </item>
+    <item>
+      <title>Utdrikningslag-spesial! </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_96e52fcf-3ea2-4a44-a52f-cf3ea22a4417</link>
+      <description>En litt annerledes podkast denne gangen, fordi det har vært streik i NRK. Hør hvordan det gikk da Are skulle arrangere utdrikningslag, hvordan det gikk da Torfinn ble drukket ut dagen før sitt eget bryllup, og hvordan Kirsti greide å knuse ting på innflytningsfest! Og hvordan skal det gå med det raklet der som toastmaster?!&#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_96e52fcf-3ea2-4a44-a52f-cf3ea22a4417</guid>
+      <pubDate>Fri, 25 May 2018 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-05-25_1100_3052.MP3" type="audio/mpeg" length="49819522"></enclosure>
+      <itunes:title>Utdrikningslag-spesial! </itunes:title>
+      <itunes:summary>En litt annerledes podkast denne gangen, fordi det har vært streik i NRK. Hør hvordan det gikk da Are skulle arrangere utdrikningslag, hvordan det gikk da Torfinn ble drukket ut dagen før sitt eget bryllup, og hvordan Kirsti greide å knuse ting på innflytningsfest! Og hvordan skal det gå med det raklet der som toastmaster?!&#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>2072</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2018">201805</podcast:season>
+    </item>
+    <item>
+      <title>Are har træler fra enter-knappen! Torfinn har hatt mareritt om Kjartan Kristiansen!</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_1f7fcfcf-5cb1-4df6-bfcf-cf5cb1fdf636</link>
+      <description>Star Trek-genseren fra loppis på Balstad | Moderne Hollywood-filmer er skrevet av unger på heroin | Mamma ringer! | Deo-prosjektet | Hva hvis Kirsti hadde stoppa ut farmora si? | Radiodate med Tom! | Hårvask annenhver dag vs. én gang i året | Verdens første dokumenterte kjiping | Ny singel fra Stig van Eijk | Dame som lo som ei lidende geit som kjører over en katt som waterboarder ei måke | Hente én unge eller stjele to? | Torfinn passer en katt | Låt: Eg e her førr deg – NHS&#39; cover av I&#39;ll Be There For You |&#xA;&#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_1f7fcfcf-5cb1-4df6-bfcf-cf5cb1fdf636</guid>
+      <pubDate>Fri, 11 May 2018 13:26:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-05-11_1126_3491.MP3" type="audio/mpeg" length="91584984"></enclosure>
+      <itunes:title>Are har træler fra enter-knappen! Torfinn har hatt mareritt om Kjartan Kristiansen!</itunes:title>
+      <itunes:summary>Star Trek-genseren fra loppis på Balstad | Moderne Hollywood-filmer er skrevet av unger på heroin | Mamma ringer! | Deo-prosjektet | Hva hvis Kirsti hadde stoppa ut farmora si? | Radiodate med Tom! | Hårvask annenhver dag vs. én gang i året | Verdens første dokumenterte kjiping | Ny singel fra Stig van Eijk | Dame som lo som ei lidende geit som kjører over en katt som waterboarder ei måke | Hente én unge eller stjele to? | Torfinn passer en katt | Låt: Eg e her førr deg – NHS&#39; cover av I&#39;ll Be There For You |&#xA;&#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>3812</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2018">201805</podcast:season>
+    </item>
+    <item>
+      <title>Kirsti har sletta Tinder! Tatt med tang! Fingre i rekeposen! </title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_54902bc1-dc31-4487-902b-c1dc318487f6</link>
+      <description>Ares begredelige idrettsopplevelser! Den mystiske planten på Surtsey! Svette treningsbilder = dickpicks! Jan Bøhlers låt mot gangsterrap! Uplanlagte barn! Sex i div. kroppsåpninger! Amming som prevensjon! Kutting av sædleder! Såpe i kaffen! Sprit i Baileysen! Kirsti skalla i takgrinda hjemme hos Knut Arild Hareide! Foretrukne ord når man slår seg! Oppfordring: Hold en annens kuk i helga! Knut Folkestads runketriks! Vårlåta &#39;No e det vår&#39;! &#xA;&#xA;I dag prøver vi oss forresten med en litt lengre podkast enn tidligere. Husk at du når som helst kan skru av hvis du kjeder deg! Hvis det derimot skulle falle i smak, si gjerne ifra til meg på torfinn@nrk.no. Og hvis du synes det blir for mye og for langt, må du i alle fall si ifra! Ok? Kult. Takk.&#xA;&#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_54902bc1-dc31-4487-902b-c1dc318487f6</guid>
+      <pubDate>Fri, 04 May 2018 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-05-04_1200_4143.MP3" type="audio/mpeg" length="89309184"></enclosure>
+      <itunes:title>Kirsti har sletta Tinder! Tatt med tang! Fingre i rekeposen! </itunes:title>
+      <itunes:summary>Ares begredelige idrettsopplevelser! Den mystiske planten på Surtsey! Svette treningsbilder = dickpicks! Jan Bøhlers låt mot gangsterrap! Uplanlagte barn! Sex i div. kroppsåpninger! Amming som prevensjon! Kutting av sædleder! Såpe i kaffen! Sprit i Baileysen! Kirsti skalla i takgrinda hjemme hos Knut Arild Hareide! Foretrukne ord når man slår seg! Oppfordring: Hold en annens kuk i helga! Knut Folkestads runketriks! Vårlåta &#39;No e det vår&#39;! &#xA;&#xA;I dag prøver vi oss forresten med en litt lengre podkast enn tidligere. Husk at du når som helst kan skru av hvis du kjeder deg! Hvis det derimot skulle falle i smak, si gjerne ifra til meg på torfinn@nrk.no. Og hvis du synes det blir for mye og for langt, må du i alle fall si ifra! Ok? Kult. Takk.&#xA;&#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Ring gjerne 73881480 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>3717</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Mai 2018">201805</podcast:season>
+    </item>
+    <item>
+      <title>Inderdate, Torfinn knuser nesten tåa på direkten, Ares 3x3-tvangstanker</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_bfebaf07-6766-4f71-abaf-076766cf7158</link>
+      <description>Eirik ringer fra brorens rom, Kirsti har sett sitt gamle jeg, Kirstis radiodate med Marius, Are og Torfinn gir Kirsti en god og en dårlig nyhet, Torfinn brøler ut rusket i halsen, Are forteller en av verdens beste vitser og så hiver vi på en blooper fra Mamma ringer!&#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Spørsmål? Svar? Ris? Ros? Egen bak? &#xA;Ring 73881480 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_bfebaf07-6766-4f71-abaf-076766cf7158</guid>
+      <pubDate>Fri, 27 Apr 2018 15:44:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-04-27_1344_2701.MP3" type="audio/mpeg" length="55380517"></enclosure>
+      <itunes:title>Inderdate, Torfinn knuser nesten tåa på direkten, Ares 3x3-tvangstanker</itunes:title>
+      <itunes:summary>Eirik ringer fra brorens rom, Kirsti har sett sitt gamle jeg, Kirstis radiodate med Marius, Are og Torfinn gir Kirsti en god og en dårlig nyhet, Torfinn brøler ut rusket i halsen, Are forteller en av verdens beste vitser og så hiver vi på en blooper fra Mamma ringer!&#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Spørsmål? Svar? Ris? Ros? Egen bak? &#xA;Ring 73881480 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>2303</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2018">201804</podcast:season>
+    </item>
+    <item>
+      <title>Fyllemandler, Ares softis-diett og grunnen til at barn ikke får gifte seg</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_f9189616-3adc-49d6-9896-163adc19d6f9</link>
+      <description>Ares pork pie-hatt, Kirsti er redusert, Ares kompis snorker ekstremt, Torfinns intense ballonghat, Kirstis siste tinderdate, to pils og en klipp takk og, tilslutt: Skreisangen!&#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Spørsmål? Svar? Ris? Ros? Egen bak? &#xA;Ring 815 21 031 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_f9189616-3adc-49d6-9896-163adc19d6f9</guid>
+      <pubDate>Fri, 20 Apr 2018 14:13:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-04-20_1213_1546.MP3" type="audio/mpeg" length="47503658"></enclosure>
+      <itunes:title>Fyllemandler, Ares softis-diett og grunnen til at barn ikke får gifte seg</itunes:title>
+      <itunes:summary>Ares pork pie-hatt, Kirsti er redusert, Ares kompis snorker ekstremt, Torfinns intense ballonghat, Kirstis siste tinderdate, to pils og en klipp takk og, tilslutt: Skreisangen!&#xA;Nesten helt sant går også direkte på NRK P1 man-tors fra 21-22. &#xA;Spørsmål? Svar? Ris? Ros? Egen bak? &#xA;Ring 815 21 031 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>1975</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2018">201804</podcast:season>
+    </item>
+    <item>
+      <title>Anemonekyssing, pissing på andre og tvillingpass</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_83adf7b1-838f-4cab-adf7-b1838f8cab4e</link>
+      <description>Fyren Kirsti chatter med på Tinder nå; Han som kyssa seg til kjæreste; Dumpsterdiveren som klikka; Han som ble kåt av bæsjing; Beste psykopat på film er kåra! Kirsti må kle seg ut før hun går i garnbutikken; Mamma ringer og mannen som fikk ørti måker på hotellrommet.&#xA;Spørsmål? Svar? Ris? Ros? Egen bak? &#xA;Ring 815 21 031 og bruk telefonsvareren vår!&#xA;</description>
+      <guid isPermaLink="false">l_83adf7b1-838f-4cab-adf7-b1838f8cab4e</guid>
+      <pubDate>Fri, 13 Apr 2018 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-04-13_1054_2004.MP3" type="audio/mpeg" length="47971338"></enclosure>
+      <itunes:title>Anemonekyssing, pissing på andre og tvillingpass</itunes:title>
+      <itunes:summary>Fyren Kirsti chatter med på Tinder nå; Han som kyssa seg til kjæreste; Dumpsterdiveren som klikka; Han som ble kåt av bæsjing; Beste psykopat på film er kåra! Kirsti må kle seg ut før hun går i garnbutikken; Mamma ringer og mannen som fikk ørti måker på hotellrommet.&#xA;Spørsmål? Svar? Ris? Ros? Egen bak? &#xA;Ring 815 21 031 og bruk telefonsvareren vår!&#xA;</itunes:summary>
+      <itunes:duration>1995</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2018">201804</podcast:season>
+    </item>
+    <item>
+      <title>Sittepissing, Kirstis radiodate og hardcore nuns</title>
+      <link>https://radio.nrk.no/podkast/nesten_helt_sant_/l_d07726b2-4e33-4781-b726-b24e332781e7</link>
+      <description>Kubbelyset som tente seg selv, den gangen Torfinn mistet alle borene sine, hun eneste som kledde seg ut på fest og likestillingslåta.&#xA;Spørsmål? Svar? Ris? Ros? Egen bak? &#xA;Ring 815 21 031 og bruk telefonsvareren vår!</description>
+      <guid isPermaLink="false">l_d07726b2-4e33-4781-b726-b24e332781e7</guid>
+      <pubDate>Thu, 12 Apr 2018 12:34:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/nesten_helt_sant_/nesten_helt_sant__2018-04-13_1034_3703.MP3" type="audio/mpeg" length="33744216"></enclosure>
+      <itunes:title>Sittepissing, Kirstis radiodate og hardcore nuns</itunes:title>
+      <itunes:summary>Kubbelyset som tente seg selv, den gangen Torfinn mistet alle borene sine, hun eneste som kledde seg ut på fest og likestillingslåta.&#xA;Spørsmål? Svar? Ris? Ros? Egen bak? &#xA;Ring 815 21 031 og bruk telefonsvareren vår!</itunes:summary>
+      <itunes:duration>1402</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x1MS9rufI1fkXnUkZ-wSQwcDkb4yOjV7HsEVC_UNBD1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="April 2018">201804</podcast:season>
+    </item>
+  </channel>
+</rss>

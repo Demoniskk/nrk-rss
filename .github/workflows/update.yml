@@ -46,7 +46,7 @@ jobs:
         run: go test ./...
 
       - name: Build
-        run: go build -o nrk-podcast-rss ./cmd/nrk-podcast-rss
+        run: go build -o nrk-rss ./cmd/nrk-rss
 
       - name: Resolve Pages base URL
         run: |
@@ -54,7 +54,7 @@ jobs:
 
       - name: Run update
         run: |
-          ./nrk-podcast-rss update \
+          ./nrk-rss update \
             --db state/episodes.db \
             --out docs \
             --base-url "$BASE_URL" \

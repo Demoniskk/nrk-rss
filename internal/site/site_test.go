@@ -56,7 +56,7 @@ func TestExport(t *testing.T) {
 
 	m, err := Export(ctx, st, Options{
 		OutDir:    out,
-		BaseURL:   "https://example.github.io/nrk-podcast-rss/",
+		BaseURL:   "https://example.github.io/nrk-rss/",
 		Generator: "test",
 		Failures:  map[string]string{"kaputt": "boom"},
 	})
@@ -75,7 +75,7 @@ func TestExport(t *testing.T) {
 	for _, p := range m.Podcasts {
 		byID[p.ID] = p
 	}
-	if got := byID["p1"].FeedURL; got != "https://example.github.io/nrk-podcast-rss/feeds/p1.xml" {
+	if got := byID["p1"].FeedURL; got != "https://example.github.io/nrk-rss/feeds/p1.xml" {
 		t.Errorf("FeedURL = %q; the trailing slash on BaseURL should not double up", got)
 	}
 	// Episodes are newest-first, so the manifest's latest_episode is the head.

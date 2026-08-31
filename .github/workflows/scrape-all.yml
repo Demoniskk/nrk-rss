@@ -49,7 +49,7 @@ jobs:
           cache: true
 
       - name: Build
-        run: go build -o nrk-podcast-rss ./cmd/nrk-podcast-rss
+        run: go build -o nrk-rss ./cmd/nrk-rss
 
       # The public site root, used for absolute feed URLs in feeds.json and
       # the atom:self link. Override REPO_PAGES_URL as a repository variable if
@@ -60,7 +60,7 @@ jobs:
 
       - name: Run scrape-all
         run: |
-          ./nrk-podcast-rss scrape-all \
+          ./nrk-rss scrape-all \
             --db state/episodes.db \
             --out docs \
             --base-url "$BASE_URL" \

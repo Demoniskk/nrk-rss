@@ -1,4 +1,4 @@
-// Command nrk-podcast-rss generates standard podcast RSS feeds for every
+// Command nrk-rss generates standard podcast RSS feeds for every
 // podcast on NRK Radio and writes them, with an index page, into a directory
 // suitable for publishing on GitHub Pages.
 package main
@@ -21,12 +21,12 @@ import (
 	"github.com/Demoniskk/nrk-rss/internal/store"
 )
 
-const generator = "nrk-podcast-rss"
+const generator = "nrk-rss"
 
-const usage = `nrk-podcast-rss — RSS feeds for every podcast on NRK Radio.
+const usage = `nrk-rss — RSS feeds for every podcast on NRK Radio.
 
 Usage:
-  nrk-podcast-rss <command> [flags]
+  nrk-rss <command> [flags]
 
 Commands:
   scrape-all   Fetch the complete back catalogue of every podcast. Slow; run
@@ -35,7 +35,7 @@ Commands:
                meant to run daily.
   export       Regenerate the site from the state store without any NRK calls.
 
-Run "nrk-podcast-rss <command> -h" for a command's flags.
+Run "nrk-rss <command> -h" for a command's flags.
 `
 
 func main() {
@@ -87,7 +87,7 @@ func (c *commonFlags) register(fs *flag.FlagSet) {
 	fs.StringVar(&c.db, "db", "state/episodes.db", "path to the SQLite state database")
 	fs.StringVar(&c.out, "out", "docs", "directory to write the generated site into")
 	fs.StringVar(&c.baseURL, "base-url", "",
-		"public root the site is served from, e.g. https://user.github.io/nrk-podcast-rss "+
+		"public root the site is served from, e.g. https://user.github.io/nrk-rss "+
 			"(used for absolute feed URLs; optional)")
 	fs.BoolVar(&c.verbose, "v", false, "log at debug level")
 }
@@ -147,7 +147,7 @@ func runScrape(ctx context.Context, args []string, mode scrape.Mode) error {
 	}
 
 	fs.Usage = func() {
-		fmt.Fprintf(os.Stderr, "Usage: nrk-podcast-rss %s [flags]\n\nFlags:\n", name)
+		fmt.Fprintf(os.Stderr, "Usage: nrk-rss %s [flags]\n\nFlags:\n", name)
 		fs.PrintDefaults()
 	}
 	if err := fs.Parse(args); err != nil {
@@ -261,7 +261,7 @@ func runExport(ctx context.Context, args []string) error {
 	var common commonFlags
 	common.register(fs)
 	fs.Usage = func() {
-		fmt.Fprint(os.Stderr, "Usage: nrk-podcast-rss export [flags]\n\nFlags:\n")
+		fmt.Fprint(os.Stderr, "Usage: nrk-rss export [flags]\n\nFlags:\n")
 		fs.PrintDefaults()
 	}
 	if err := fs.Parse(args); err != nil {

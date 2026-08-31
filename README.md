@@ -1,4 +1,4 @@
-# nrk-podcast-rss
+# nrk-rss
 
 **Podcast RSS feeds for every podcast on NRK Radio.**
 
@@ -7,13 +7,10 @@ This makes them — one standard feed per podcast, updated daily, free to use.
 
 ## Use it
 
-### 👉 https://demoniskk.github.io/nrk-rss/
+### https://demoniskk.github.io/nrk-rss/
 
 Search for a podcast, copy its feed link, paste it into your podcast app.
 That's it — no account, no app to install.
-
-> **Not live yet.** The site appears once the one-time backfill has been run
-> and GitHub Pages is enabled. See [Setup](#setup-if-youre-forking-this).
 
 The feeds work in Apple Podcasts, Pocket Casts, Overcast, AntennaPod, gPodder,
 or anything else that accepts an RSS URL. Each feed carries the podcast's
@@ -51,12 +48,12 @@ podcast and finishes in seconds.
 ### Running it locally
 
 ```bash
-go build -o nrk-podcast-rss ./cmd/nrk-podcast-rss
+go build -o nrk-rss ./cmd/nrk-rss
 
-./nrk-podcast-rss scrape-all --only desken_brenner   # try one podcast
-./nrk-podcast-rss scrape-all                         # the whole catalogue
-./nrk-podcast-rss update                             # only what's new
-./nrk-podcast-rss export                             # rebuild the site
+./nrk-rss scrape-all --only desken_brenner   # try one podcast
+./nrk-rss scrape-all                         # the whole catalogue
+./nrk-rss update                             # only what's new
+./nrk-rss export                             # rebuild the site
 ```
 
 Then open `docs/index.html`. Run any command with `-h` to see its flags.
@@ -68,7 +65,7 @@ limiter. The generated site is plain HTML, CSS and a little vanilla JavaScript �
 no build step, no framework.
 
 ```
-cmd/nrk-podcast-rss/   CLI
+cmd/nrk-rss/   CLI
 internal/nrkapi/       NRK API client, rate limiting, retries
 internal/store/        SQLite state store
 internal/scrape/       works out what's new, fetches it
@@ -76,7 +73,7 @@ internal/feed/         RSS/iTunes XML generation
 internal/site/         index.html and feeds.json
 ```
 
-**📄 [TECHNICAL.md](TECHNICAL.md)** — how the incremental update works, what NRK's
+**[TECHNICAL.md](TECHNICAL.md)** — how the incremental update works, what NRK's
 API does that its shape doesn't suggest, how its rate limiter actually behaves,
 and the bugs found along the way.
 

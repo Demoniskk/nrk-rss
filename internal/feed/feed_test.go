@@ -37,7 +37,7 @@ func sampleFeed() *RSS {
 	}}
 	return Build(p, eps, Options{
 		SelfLink:  "https://example.github.io/feeds/desken_brenner.xml",
-		Generator: "nrk-podcast-rss",
+		Generator: "nrk-rss",
 	})
 }
 

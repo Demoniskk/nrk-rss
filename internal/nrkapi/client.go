@@ -26,7 +26,7 @@ const (
 	// acceptHeader pins the API version these types were written against.
 	acceptHeader = "application/json;api-version=3.5"
 	// DefaultUserAgent identifies this tool to NRK.
-	DefaultUserAgent = "nrk-podcast-rss/1.0 (+https://github.com/Demoniskk/nrk-rss)"
+	DefaultUserAgent = "nrk-rss/1.0 (+https://github.com/Demoniskk/nrk-rss)"
 	// DefaultRate is the sustained request rate, in requests per second, for
 	// the psapi.nrk.no API.
 	//

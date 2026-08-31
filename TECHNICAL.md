@@ -1,6 +1,6 @@
 # Technical notes
 
-Design notes and findings from building [nrk-podcast-rss](README.md). Most of
+Design notes and findings from building [nrk-rss](README.md). Most of
 the interesting parts were things NRK's API does that its shape doesn't suggest.
 
 - [Architecture](#architecture)

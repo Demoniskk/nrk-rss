@@ -24,7 +24,7 @@ type Options struct {
 	// OutDir is the directory published to Pages, conventionally "docs".
 	OutDir string
 	// BaseURL is the public root the site is served from, e.g.
-	// "https://user.github.io/nrk-podcast-rss". Used for absolute feed URLs;
+	// "https://user.github.io/nrk-rss". Used for absolute feed URLs;
 	// when empty, feed URLs in the manifest are site-relative and the
 	// atom:self link is omitted.
 	BaseURL string

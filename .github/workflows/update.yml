@@ -59,7 +59,8 @@ jobs:
             --out docs \
             --base-url "$BASE_URL" \
             --concurrency "${{ inputs.concurrency || '5' }}" \
-            --max-pages-per-podcast "${{ inputs.max_pages_per_podcast || '3' }}"
+            --max-pages-per-podcast "${{ inputs.max_pages_per_podcast || '3' }}" \
+            --max-duration 50m
 
       - name: Commit state and generated site
         id: commit

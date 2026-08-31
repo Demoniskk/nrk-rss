@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 28 Aug 2026 07:46:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Kongen er død: Dette skjer videre</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_d2b8fc26-320e-4502-b8fc-26320e05026c</link>
+      <description>Og sånn har helga vært.</description>
+      <guid isPermaLink="false">l_d2b8fc26-320e-4502-b8fc-26320e05026c</guid>
+      <pubDate>Mon, 31 Aug 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d2b8fc26-320e-4502-b8fc-26320e05026c_1_ID192MP3.mp3" type="audio/mpeg" length="8021420"></enclosure>
+      <itunes:title>Kongen er død: Dette skjer videre</itunes:title>
+      <itunes:summary>Og sånn har helga vært.</itunes:summary>
+      <itunes:duration>334</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/cUrR4H_5_-ZvZdJTMLvONgl7qfOpPbrR0YHbysOo4rNg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2026">202608</podcast:season>
+    </item>
     <item>
       <title>Kong Harald er død</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_e1f50b3a-5d3b-432a-b50b-3a5d3bf32ab8</link>

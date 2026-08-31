@@ -6,7 +6,7 @@
     <description>En tenketank for folk med lav intelligens.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baade_erlend_og_steinar_.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Både Erlend og Steinar </title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
     </image>
+    <item>
+      <title>RIP kong Harald</title>
+      <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_d2464db6-20fc-42ad-864d-b620fca2aded</link>
+      <description>Erlend og Steinar sørger over kong Haralds bortgang, og en 15-åring imponerer i Folkets røst.</description>
+      <guid isPermaLink="false">l_d2464db6-20fc-42ad-864d-b620fca2aded</guid>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/d2464db6-20fc-42ad-864d-b620fca2aded_1_ID192MP3.mp3" type="audio/mpeg" length="84900140"></enclosure>
+      <itunes:title>RIP kong Harald</itunes:title>
+      <itunes:summary>Erlend og Steinar sørger over kong Haralds bortgang, og en 15-åring imponerer i Folkets røst.</itunes:summary>
+      <itunes:duration>3537</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2026">202608</podcast:season>
+    </item>
     <item>
       <title>Tegn fra barndommen</title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_add4256f-40f3-40fb-9425-6f40f3f0fbd2</link>

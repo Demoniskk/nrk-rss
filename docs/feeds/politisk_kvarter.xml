@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 27 Aug 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Island sa Nei</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_3db47444-9667-43cc-b474-449667c3cc74</link>
+      <description>Islendingene sa nei til EU. Hva betyr det for Norge?</description>
+      <guid isPermaLink="false">l_3db47444-9667-43cc-b474-449667c3cc74</guid>
+      <pubDate>Mon, 31 Aug 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/3db47444-9667-43cc-b474-449667c3cc74_1_ID192MP3.mp3" type="audio/mpeg" length="21855788"></enclosure>
+      <itunes:title>Island sa Nei</itunes:title>
+      <itunes:summary>Islendingene sa nei til EU. Hva betyr det for Norge?</itunes:summary>
+      <itunes:duration>910</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3tyrxjFLcZ11qJEvMWtk2QZCjPHJ8cnF7o641cJp5jqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2026">202608</podcast:season>
+    </item>
     <item>
       <title>Støres nye budsjett</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_1824bba5-7f5c-4db4-a4bb-a57f5c1db452</link>

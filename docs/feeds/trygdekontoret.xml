@@ -6,7 +6,7 @@
     <description>Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Trygdekontoret</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret</link>
     </image>
+    <item>
+      <title>Jonestown</title>
+      <link>https://radio.nrk.no/podkast/trygdekontoret/l_0ec434f3-3496-495c-8434-f33496695c14</link>
+      <description>Sektlederen Jim Jones lovet et sosialistisk paradis, men det endte i et massedrap. Even Hauen forteller historien om Jonestown-massakren.</description>
+      <guid isPermaLink="false">l_0ec434f3-3496-495c-8434-f33496695c14</guid>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/0ec434f3-3496-495c-8434-f33496695c14_1_ID192MP3.mp3" type="audio/mpeg" length="77715692"></enclosure>
+      <itunes:title>Jonestown</itunes:title>
+      <itunes:summary>Sektlederen Jim Jones lovet et sosialistisk paradis, men det endte i et massedrap. Even Hauen forteller historien om Jonestown-massakren.</itunes:summary>
+      <itunes:duration>3238</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HV48QSLlp9jmF68k0ubmzAEf8oaV-UbS0tCG5mkeAAvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Punk i 50 år</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret/l_30562d2d-cc08-4c61-962d-2dcc08ac611c</link>

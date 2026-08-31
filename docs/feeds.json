@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-31T04:30:20Z",
-  "latest_episode": "2026-08-30T10:00:00Z",
+  "generated_at": "2026-08-31T07:51:27Z",
+  "latest_episode": "2026-08-31T06:00:00Z",
   "source": "https://radio.nrk.no/",
   "podcast_count": 234,
-  "episode_count": 59302,
+  "episode_count": 59309,
   "podcasts": [
     {
       "id": "22_juli_-_hvordan_kunne_det_skje",
@@ -44,10 +44,10 @@
       "description": "Hverdagsfunderinger over tro og liv.",
       "category": "Kultur og samfunn",
       "image_url": "https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw",
-      "episode_count": 3086,
+      "episode_count": 3087,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml",
       "nrk_url": "https://radio.nrk.no/podkast/andakten",
-      "latest_episode": "2026-08-27T04:00:00Z"
+      "latest_episode": "2026-08-31T04:00:00Z"
     },
     {
       "id": "andregenerasjonen",
@@ -231,10 +231,10 @@
       "description": "En tenketank for folk med lav intelligens.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA",
-      "episode_count": 140,
+      "episode_count": 141,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/baade_erlend_og_steinar_.xml",
       "nrk_url": "https://radio.nrk.no/podkast/baade_erlend_og_steinar_",
-      "latest_episode": "2026-08-24T04:00:00Z"
+      "latest_episode": "2026-08-31T04:00:00Z"
     },
     {
       "id": "clue",
@@ -946,10 +946,10 @@
       "description": "Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/EoJT_rdzPpGdMqizVACGzAM8B8-ytYf6_dcK0t68D1UA",
-      "episode_count": 2,
+      "episode_count": 3,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/kilder_til_begeistring.xml",
       "nrk_url": "https://radio.nrk.no/podkast/kilder_til_begeistring",
-      "latest_episode": "2026-08-24T04:00:00Z"
+      "latest_episode": "2026-08-31T04:00:00Z"
     },
     {
       "id": "kjapt_oppdatert",
@@ -957,10 +957,10 @@
       "description": "Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA",
-      "episode_count": 373,
+      "episode_count": 374,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml",
       "nrk_url": "https://radio.nrk.no/podkast/kjapt_oppdatert",
-      "latest_episode": "2026-08-28T07:46:00Z"
+      "latest_episode": "2026-08-31T03:59:00Z"
     },
     {
       "id": "kjente_boeker_paa_4_minutter",
@@ -1716,10 +1716,10 @@
       "description": "Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. \n",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg",
-      "episode_count": 3502,
+      "episode_count": 3503,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml",
       "nrk_url": "https://radio.nrk.no/podkast/politisk_kvarter",
-      "latest_episode": "2026-08-27T06:00:00Z"
+      "latest_episode": "2026-08-31T06:00:00Z"
     },
     {
       "id": "popaganda",
@@ -2145,10 +2145,10 @@
       "description": "Partyprinser, gærninger og kranglefanter – kongeslekta er full av sinnssyke historier! Med Aslak Sira Myhre og Ole-Albert Rønning Nordby. ",
       "category": "Dokumentar",
       "image_url": "https://gfx.nrk.no/pRLWD7pbrDraKe2wwujhmAaSWskH85Lvup9Ba4KqQtAw",
-      "episode_count": 35,
+      "episode_count": 36,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/strid.xml",
       "nrk_url": "https://radio.nrk.no/podkast/strid",
-      "latest_episode": "2026-08-24T04:00:00Z"
+      "latest_episode": "2026-08-31T04:00:00Z"
     },
     {
       "id": "stroemwasenius",
@@ -2343,10 +2343,10 @@
       "description": "Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  \n",
       "category": "Kultur og samfunn",
       "image_url": "https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ",
-      "episode_count": 165,
+      "episode_count": 166,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml",
       "nrk_url": "https://radio.nrk.no/podkast/trygdekontoret",
-      "latest_episode": "2026-08-24T04:00:00Z"
+      "latest_episode": "2026-08-31T04:00:00Z"
     },
     {
       "id": "traesh",

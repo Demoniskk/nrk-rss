@@ -1,0 +1,9 @@
+# Normalise text to LF in the repository. Shell in the workflows must not
+# arrive on the Linux runners with CRLF line endings.
+* text=auto eol=lf
+
+# The SQLite state database is binary. Without this, autocrlf on Windows would
+# happily "fix" line endings inside it and corrupt the committed state.
+*.db binary
+*.db-wal binary
+*.db-shm binary

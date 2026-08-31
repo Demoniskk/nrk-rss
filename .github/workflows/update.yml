@@ -1,0 +1,99 @@
+name: update
+
+# The daily job. It only fetches episodes that are not already in
+# state/episodes.db, so a normal run costs a handful of requests per podcast.
+on:
+  schedule:
+    # 03:17 UTC — off the hour, to stay out of the crowd of jobs that all fire
+    # exactly on the hour.
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+    inputs:
+      concurrency:
+        description: Podcasts to work on at once
+        required: false
+        default: "5"
+      max_pages_per_podcast:
+        description: Safety cap on episode-list pages read per known podcast
+        required: false
+        default: "3"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: nrk-scrape
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+          cache: true
+
+      - name: Test
+        run: go test ./...
+
+      - name: Build
+        run: go build -o nrk-podcast-rss ./cmd/nrk-podcast-rss
+
+      - name: Resolve Pages base URL
+        run: |
+          echo "BASE_URL=${{ vars.REPO_PAGES_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}" >> "$GITHUB_ENV"
+
+      - name: Run update
+        run: |
+          ./nrk-podcast-rss update \
+            --db state/episodes.db \
+            --out docs \
+            --base-url "$BASE_URL" \
+            --concurrency "${{ inputs.concurrency || '5' }}" \
+            --max-pages-per-podcast "${{ inputs.max_pages_per_podcast || '3' }}"
+
+      - name: Commit state and generated site
+        id: commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A state docs
+
+          # Skip the commit entirely when nothing changed, so quiet days do not
+          # fill the history with empty commits.
+          if [ -z "$(git status --porcelain -- state docs)" ]; then
+            echo "No changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git commit -m "chore: update NRK podcast feeds"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  # Deployment is a separate job so the commit above is not held up by it, and
+  # so a Pages misconfiguration cannot lose a successful scrape.
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

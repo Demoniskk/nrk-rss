@@ -1,0 +1,14 @@
+# Built binaries
+/nrk-podcast-rss
+/nrk-podcast-rss.exe
+
+# SQLite sidecar files. The database itself (state/episodes.db) IS committed —
+# it is the state that makes incremental updates correct — but the write-ahead
+# log and shared-memory files are transient and must not be.
+state/*.db-wal
+state/*.db-shm
+state/*.db-journal
+
+# Go
+*.test
+*.out

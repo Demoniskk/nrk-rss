@@ -4,7 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>NRK Podcast RSS</title>
-<meta name="description" content="Standard RSS-feeder for alle podkaster på NRK Radio.">
+<meta name="description" content="Standard RSS-feeder for alle podkaster på NRK Radio. Søk opp en podkast, kopier feed-lenken, og lim den inn i podkastspilleren din.">
+<meta name="theme-color" content="#fbfbfd" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0f1014" media="(prefers-color-scheme: dark)">
 <style>
   :root {
     color-scheme: light dark;
@@ -34,6 +36,8 @@
     background: var(--bg);
     color: var(--text);
     font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+     
+    -webkit-text-size-adjust: 100%;
   }
   .wrap { max-width: 940px; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
   header h1 { font-size: 1.9rem; margin: 0 0 .4rem; letter-spacing: -.02em; }
@@ -47,6 +51,7 @@
   }
   .search input {
     width: 100%; padding: .7rem .9rem;
+     
     font: inherit; color: var(--text);
     background: var(--surface);
     border: 1px solid var(--border);
@@ -56,27 +61,41 @@
   #count { margin: .5rem 0 0; color: var(--muted); font-size: .87rem; }
   ul { list-style: none; margin: 0; padding: 0; display: grid; gap: .6rem; }
   li {
-    display: flex; gap: .9rem; align-items: center;
-    padding: .8rem .9rem;
+    display: grid;
+    grid-template-columns: 56px minmax(0, 1fr) auto;
+    grid-template-areas: "art meta links";
+    gap: .9rem; align-items: start;
+    padding: .85rem .9rem;
     background: var(--surface);
     border: 1px solid var(--border);
     border-radius: var(--radius);
   }
   li[hidden] { display: none; }
   img {
-    width: 56px; height: 56px; flex: 0 0 56px;
+    grid-area: art;
+    width: 56px; height: 56px;
     border-radius: 8px; object-fit: cover; background: var(--accent-soft);
   }
-  .meta { min-width: 0; flex: 1; }
-  .title { font-weight: 600; display: block; }
+  .meta { grid-area: meta; min-width: 0; }
+  .title { font-weight: 600; display: block; overflow-wrap: anywhere; }
   .sub {
     color: var(--muted); font-size: .85rem;
     display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
   }
-  .links { display: flex; gap: .4rem; flex-wrap: wrap; flex: 0 0 auto; }
+  .desc {
+    margin: .3rem 0 0;
+    color: var(--muted); font-size: .87rem; line-height: 1.4;
+    overflow-wrap: anywhere;
+     
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .links { grid-area: links; display: flex; gap: .4rem; flex-wrap: wrap; }
   .links a, .links button {
     font: inherit; font-size: .85rem;
-    padding: .35rem .65rem;
+    display: inline-flex; align-items: center; justify-content: center;
+     
+    min-height: 40px; padding: .35rem .7rem;
     border-radius: 8px; border: 1px solid var(--border);
     background: transparent; color: var(--accent);
     text-decoration: none; cursor: pointer;
@@ -89,6 +108,19 @@
   .failures { margin-top: 2rem; font-size: .87rem; color: var(--muted); }
   .failures summary { cursor: pointer; }
   .failures code { word-break: break-all; }
+
+   
+  @media (max-width: 34rem) {
+    .wrap { padding: 1.75rem 1rem 3rem; }
+    header h1 { font-size: 1.5rem; }
+    li {
+      grid-template-columns: 48px minmax(0, 1fr);
+      grid-template-areas: "art meta" "links links";
+      gap: .75rem;
+    }
+    img { width: 48px; height: 48px; }
+    .links a, .links button { flex: 1 1 0; }
+  }
 </style>
 </head>
 <body>
@@ -112,6 +144,7 @@
     <div class="meta">
       <span class="title">22. JULI - Hvordan kunne det skje?</span>
       <span class="sub">6 episoder · Lyddrama</span>
+      <p class="desc">Fiksjonsserie i 6 deler. Hvordan var det mulig for en varebil å kjøre inn i Regjeringskvartalet og sprenge en bombe uten å bli stoppet? Rett etter terroren 11. september 2001, får Frank Aamot i oppdrag å sikre Norge mot…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/22_juli_-_hvordan_kunne_det_skje.xml">RSS</a>
@@ -124,6 +157,7 @@
     <div class="meta">
       <span class="title">72 timer</span>
       <span class="sub">5 episoder · Kultur og samfunn</span>
+      <p class="desc">Vi lever i et trygt land der det meste fungerer som det skal. Men hvor forberedte er vi om en krise skulle oppstå? I podkasten «72 timer» fra 2018 prater Marte Stokstad og Knut Folkestad med kjente nordmenn om deres…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/72_timer.xml">RSS</a>
@@ -136,6 +170,7 @@
     <div class="meta">
       <span class="title">Abels tårn</span>
       <span class="sub">811 episoder · Kultur og samfunn</span>
+      <p class="desc">Forum for funfacts, hard forskning og bedrevitenskap</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/abels_taarn.xml">RSS</a>
@@ -148,6 +183,7 @@
     <div class="meta">
       <span class="title">Andakten</span>
       <span class="sub">3087 episoder · Kultur og samfunn</span>
+      <p class="desc">Hverdagsfunderinger over tro og liv.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/andakten.xml">RSS</a>
@@ -160,6 +196,7 @@
     <div class="meta">
       <span class="title">Andregenerasjonen</span>
       <span class="sub">41 episoder · Humor og prateprogram</span>
+      <p class="desc">Adam, Mutta og Cengiz gir deg ærlige diskusjoner om livet, damer og samfunnet. - Vi er her for å sette litt sukker i ørene deres.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/andregenerasjonen.xml">RSS</a>
@@ -172,6 +209,7 @@
     <div class="meta">
       <span class="title">Are og Odin</span>
       <span class="sub">312 episoder · Humor og prateprogram</span>
+      <p class="desc">En bygutt og en sauebonde bygger bro mellom rurale og urbane strøk. Og godt er det, for verden er om mulig enda galere enn før. Klodens befolkning trenger noen som minner oss på at vi må være snille og greie med…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/are_og_odin.xml">RSS</a>
@@ -184,6 +222,7 @@
     <div class="meta">
       <span class="title">Arena</span>
       <span class="sub">59 episoder · Kultur og samfunn</span>
+      <p class="desc">De brennbare sakene fra popkultur, media og tech. Programleder Jeannette Platou og utvalgte gjester gir deg det du trenger å vite.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/arena.xml">RSS</a>
@@ -196,6 +235,7 @@
     <div class="meta">
       <span class="title">Bakrommet</span>
       <span class="sub">98 episoder · Sport</span>
+      <p class="desc">VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/bakrommet.xml">RSS</a>
@@ -208,6 +248,7 @@
     <div class="meta">
       <span class="title">Baksnakk</span>
       <span class="sub">350 episoder · Humor og prateprogram</span>
+      <p class="desc">Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/baksnakk.xml">RSS</a>
@@ -220,6 +261,7 @@
     <div class="meta">
       <span class="title">Berrum &amp; Beyer snakker om greier</span>
       <span class="sub">467 episoder · Humor og prateprogram</span>
+      <p class="desc">En tretrinnsrakett der Berrum har noen greier, Beyer har noen greier og lytterne har sine greier. To venner som ser etter en venn til.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/berrum_beyer_snakker_om_greier.xml">RSS</a>
@@ -232,6 +274,7 @@
     <div class="meta">
       <span class="title">Bibelen</span>
       <span class="sub">32 episoder · Humor og prateprogram</span>
+      <p class="desc">Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/bibelen.xml">RSS</a>
@@ -244,6 +287,7 @@
     <div class="meta">
       <span class="title">Billis og Bollos</span>
       <span class="sub">20 episoder · Barn</span>
+      <p class="desc">Billis og Bollos er to små monstre som bor i lekeskuffen til lille Leandra. Bli med Billis og Bollos på deres morsomme og spennende eventyr.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/billis_og_bollos.xml">RSS</a>
@@ -256,6 +300,7 @@
     <div class="meta">
       <span class="title">Bingen – historier fra bygda</span>
       <span class="sub">22 episoder · Humor og prateprogram</span>
+      <p class="desc">Kåre Magnus Bergh og barndomskomipsene Stian Angel Eriksen og Kristian Møller Johansen samler på de morsomste, groveste og mest overraskende historiene fra bygda. Produsent: Silje Martinsen Wettre</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/bingen.xml">RSS</a>
@@ -268,6 +313,7 @@
     <div class="meta">
       <span class="title">Binnabánnaš &amp; Ujujju</span>
       <span class="sub">27 episoder · Barn</span>
+      <p class="desc">Binnabánnaš og Ujujju er to artige små skruer som alltid er nysgjerrige på nye ting.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/binnabnna_ujujju.xml">RSS</a>
@@ -280,6 +326,7 @@
     <div class="meta">
       <span class="title">Bjørnen lyver</span>
       <span class="sub">3 episoder · Sport</span>
+      <p class="desc">Den russiske dopingskandalen sjokkerte en hel idrettsverden. Mistenkelige dødsfall, hemmelige agenter, en eksentrisk antihelt, svik og løgner. Det høres ut som en spionthriller men dette er virkeligheten.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/bjoernen_lyver.xml">RSS</a>
@@ -292,6 +339,7 @@
     <div class="meta">
       <span class="title">Blåtur</span>
       <span class="sub">26 episoder · Humor og prateprogram</span>
+      <p class="desc">En ukentlig flukt fra hverdagen! Sketsjer, hyss og spik med Christian Mikkelsen, Olav Svarstad Haugland og Emil Berntsen.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/blaatur.xml">RSS</a>
@@ -304,6 +352,7 @@
     <div class="meta">
       <span class="title">Brannbamsen Bjørnis</span>
       <span class="sub">44 episoder · Barn</span>
+      <p class="desc">Livet på brannstasjonen er både morsomt og spennende. Bli med når Brannbamsen Bjørnis løser små og store oppdrag.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/brannbamsen_bjoernis.xml">RSS</a>
@@ -316,6 +365,7 @@
     <div class="meta">
       <span class="title">Brenner deler dikt</span>
       <span class="sub">153 episoder · Kultur og samfunn</span>
+      <p class="desc">Hvordan kan noen få ord gi trøst, håp og et lite løft i hverdagen? Hans Olav Brenner og gjester deler sine favorittdikt.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/brenner_deler_dikt.xml">RSS</a>
@@ -328,6 +378,7 @@
     <div class="meta">
       <span class="title">Brillebjørns Kvissvas</span>
       <span class="sub">10 episoder · Barn</span>
+      <p class="desc">Svar på spørsmål, løs gøyale oppgaver og bruk fantasien i Brillebjørns kvissvas! Ta med deg familien eller vennene dine, og vær klar med pauseknappen mens du lytter.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/brillebjoerns_kvissvas.xml">RSS</a>
@@ -340,6 +391,7 @@
     <div class="meta">
       <span class="title">Burde vært pensum</span>
       <span class="sub">68 episoder · Kultur og samfunn</span>
+      <p class="desc">Smarte folk deler kunnskap du gjerne skulle hatt, men aldri får tid til å lese deg opp på. I hver episode får du et dypdykk inn i temaer de selv mener burde vært pensum!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/burde_vaert_pensum.xml">RSS</a>
@@ -352,6 +404,7 @@
     <div class="meta">
       <span class="title">Både Erlend og Steinar </span>
       <span class="sub">141 episoder · Humor og prateprogram</span>
+      <p class="desc">En tenketank for folk med lav intelligens.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/baade_erlend_og_steinar_.xml">RSS</a>
@@ -364,6 +417,7 @@
     <div class="meta">
       <span class="title">CLUE</span>
       <span class="sub">16 episoder · Barn</span>
+      <p class="desc">Spenningsserie med gåter og mystiske hendelser, skarpsindige ungdommer og mistenkelige personer.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/clue.xml">RSS</a>
@@ -376,6 +430,7 @@
     <div class="meta">
       <span class="title">Cold Front – Skyggekrigen</span>
       <span class="sub">6 episoder · Dokumentar</span>
+      <p class="desc">Russland har blitt landet Europa frykter – en aggressiv nabo som spionerer, saboterer og sprer feilinformasjon. Hva det betyr det for oss i Norden?</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/cold_front_skyggekrigen.xml">RSS</a>
@@ -388,6 +443,7 @@
     <div class="meta">
       <span class="title">Dagsnytt 18</span>
       <span class="sub">3638 episoder · Nyheter</span>
+      <p class="desc">Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/dagsnytt_atten.xml">RSS</a>
@@ -400,6 +456,7 @@
     <div class="meta">
       <span class="title">Death in Ice Valley</span>
       <span class="sub">14 episoder · Dokumentar</span>
+      <p class="desc">An unidentified body. Who was she? Why hasn’t she been missed? A BBC World Service and NRK original podcast, investigating a mystery unsolved for almost half a century.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/p060ms2h.xml">RSS</a>
@@ -412,6 +469,7 @@
     <div class="meta">
       <span class="title">Debatten</span>
       <span class="sub">395 episoder · Nyheter</span>
+      <p class="desc">Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/debatten.xml">RSS</a>
@@ -424,6 +482,7 @@
     <div class="meta">
       <span class="title">Delfi og Dolfy</span>
       <span class="sub">8 episoder · Barn</span>
+      <p class="desc">Delfinene Delfi og Dolfy fra Havpatruljen er på tur langs norskekysten, fra nord til sør, for å gjøre havet renere og tryggere. Alt søppelet i havet skaper problemer for livet i sjøen, så delfinene trenger hjelp fra…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/delfi_og_dolfy.xml">RSS</a>
@@ -436,6 +495,7 @@
     <div class="meta">
       <span class="title">Desken brenner</span>
       <span class="sub">124 episoder · Humor og prateprogram</span>
+      <p class="desc">Alt kan skje og ingen er trygge når fire komikere oppsummerer uka!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/desken_brenner.xml">RSS</a>
@@ -448,6 +508,7 @@
     <div class="meta">
       <span class="title">Dilemmaklemma</span>
       <span class="sub">7 episoder · Barn</span>
+      <p class="desc">Kva er eigentleg verst: Synge alt du seier eller alltid ha med seg fiskestong? Barn diskuterer vanskelege, morosame og absurde dilemma!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/dilemmaklemma.xml">RSS</a>
@@ -460,6 +521,7 @@
     <div class="meta">
       <span class="title">Din venn, Nora</span>
       <span class="sub">83 episoder · Humor og prateprogram</span>
+      <p class="desc">Nok en hektisk uke for komiker Nora Svenningsen. Her er hennes verbale dagbok, hvor du er med på å fargelegge sidene.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/din_venn_nora.xml">RSS</a>
@@ -472,6 +534,7 @@
     <div class="meta">
       <span class="title">Ding-dong, du er død!</span>
       <span class="sub">6 episoder · Lyddrama</span>
+      <p class="desc">Én dag – seks perspektiver. Hvem i alle dager ringte på hos Dyveke Astrup og skjøt henne – i hodet?</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/ding_dong_du_er_doed.xml">RSS</a>
@@ -484,6 +547,7 @@
     <div class="meta">
       <span class="title">Drivkraft</span>
       <span class="sub">956 episoder · Humor og prateprogram</span>
+      <p class="desc">Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/drivkraft.xml">RSS</a>
@@ -496,6 +560,7 @@
     <div class="meta">
       <span class="title">Dynga</span>
       <span class="sub">256 episoder · Humor og prateprogram</span>
+      <p class="desc">Tre søplegutter vender snuten hjem til dynga. Halvparten av søpla har de med selv, resten får de av deg som hører på. Med Martin Lepperød, Jonis Josef og Henrik Farley.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/karakter.xml">RSS</a>
@@ -508,6 +573,7 @@
     <div class="meta">
       <span class="title">Dálla ja dalloj</span>
       <span class="sub">23 episoder · Humor og prateprogram</span>
+      <p class="desc">Naima káfastallá vuorrasap ulmutjij, guládalátjit sijáj girjagis subtsasijda viessomájgijnisá. Majt máhttep boarrásijs oahppat?</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/dlla_ja_dalloj.xml">RSS</a>
@@ -520,6 +586,7 @@
     <div class="meta">
       <span class="title">Dømt</span>
       <span class="sub">7 episoder · Dokumentar</span>
+      <p class="desc">Dømt er en podkast om drap, forbudt kjærlighet og rettsdramaer i norsk middelalder. Serien er laget av Nasjonalbiblioteket.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/doemt.xml">RSS</a>
@@ -532,6 +599,7 @@
     <div class="meta">
       <span class="title">Eallima mohkit</span>
       <span class="sub">5 episoder · Nyheter</span>
+      <p class="desc">Sáhttá leat váttis rahpasit muitalit mii oaivvis jorrá. Dán podkásttas NRK Sámi journalisttat deaivvadit olbmuiguin, geat rahpasit muitalit makkár hástalusat sis leat eallimis. Dáinna sii rahpet tábuaid uvssaid…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/eallima_mohkit.xml">RSS</a>
@@ -544,6 +612,7 @@
     <div class="meta">
       <span class="title">Einstein – på sporet av den tøyde tid</span>
       <span class="sub">16 episoder · Dokumentar</span>
+      <p class="desc">Et dramatisk liv, og forskning som fikk dramatiske følger. Albert Einstein er et ikon, og i denne serien går vi i fotsporene til mennesket og forskeren Albert Einstein.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/einstein__paa_sporet_av_den_toeyde_tid.xml">RSS</a>
@@ -556,6 +625,7 @@
     <div class="meta">
       <span class="title">Ekko</span>
       <span class="sub">7655 episoder · Nyheter</span>
+      <p class="desc">Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/ekko_-_et_aktuelt_samfunnsprogram.xml">RSS</a>
@@ -568,6 +638,7 @@
     <div class="meta">
       <span class="title">Eventyrerne: Jakten på spektralsteinene</span>
       <span class="sub">18 episoder · Humor og prateprogram</span>
+      <p class="desc">Tre drevne underholdere kaster seg ut i et eventyr skapt av spillmester Aslak Maurstad. Hvor langt vil fantasi, kløkt og terninger ta dem?</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/eventyrerne.xml">RSS</a>
@@ -580,6 +651,7 @@
     <div class="meta">
       <span class="title">Eventyret om Vazelina Bilopphøggers</span>
       <span class="sub">6 episoder · Musikk</span>
+      <p class="desc">Det startet som tull på en fest. 40 år senere selger de ut Spektrum to ganger. Hvorfor elsker så mange humorbandet med gamle karer fra Toten-området?</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/eventyret_om_vazelina_bilopphoeggers.xml">RSS</a>
@@ -592,6 +664,7 @@
     <div class="meta">
       <span class="title">Eventyrstund med Morten og Saft</span>
       <span class="sub">30 episoder · Barn</span>
+      <p class="desc">Når Morten forteller folkeeventyrene blir det både skummelt og morsomt, synes hunden Saft. Forteller: Morten Strand Medvirkende: Saft Suse Musikk av Magnus Stinnerbom Lyddesign: Hilde Rolfsnes Produsent: Hanne Vennemo…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/eventyrstund_med_morten_og_saft.xml">RSS</a>
@@ -604,6 +677,7 @@
     <div class="meta">
       <span class="title">Familiene på Orderud</span>
       <span class="sub">6 episoder · Dokumentar</span>
+      <p class="desc">Joachim Førsund graver i det menneskelige dramaet bak trippeldrapene på Orderud gård – her får du historien slik du aldri har hørt den før.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/familiene_paa_orderud.xml">RSS</a>
@@ -616,6 +690,7 @@
     <div class="meta">
       <span class="title">Fantorangenfortellinger</span>
       <span class="sub">36 episoder · Barn</span>
+      <p class="desc">Kjempe-babyer, havfruer og krokodillebriller – hos Pivi, Fantus og Fantorangen kan alt skje, og ingenting er umulig. Bli med på eventyr!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/fantorangenfortellinger.xml">RSS</a>
@@ -628,6 +703,7 @@
     <div class="meta">
       <span class="title">Fantorangens lydmysterier</span>
       <span class="sub">32 episoder · Barn</span>
+      <p class="desc">Fantorangen og Pivi jakter på mystiske lyder! Det blir spenning og forviklinger underveis. Hva er det de egentlig hører?</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/fantorangens_lydmysterier.xml">RSS</a>
@@ -640,6 +716,7 @@
     <div class="meta">
       <span class="title">Fantorangens vitseshow</span>
       <span class="sub">24 episoder · Barn</span>
+      <p class="desc">Fantorangen og Pivi forteller rare og morsomme vitser hele familien kan le av.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/fantorangens_vitseshow.xml">RSS</a>
@@ -652,6 +729,7 @@
     <div class="meta">
       <span class="title">Fantus og lydene</span>
       <span class="sub">8 episoder · Barn</span>
+      <p class="desc">Bæ, voff, plask, promp og tut! Hvilke lyder finnes egentlig på badet, i barnehagen, fjøset, skogen eller på bussholdeplassen? Bli med Fantus og lek med alle lydene.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/fantus_og_lydene.xml">RSS</a>
@@ -664,6 +742,7 @@
     <div class="meta">
       <span class="title">Feriestemning</span>
       <span class="sub">113 episoder · Humor og prateprogram</span>
+      <p class="desc">Kjendisene du elsker deler sine sommerhistorier hver eneste dag gjennom hele sommeren. Skikkelig god feriestemning!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/feriestemning.xml">RSS</a>
@@ -676,6 +755,7 @@
     <div class="meta">
       <span class="title">Filmpolitiets podkast </span>
       <span class="sub">878 episoder · Kultur og samfunn</span>
+      <p class="desc">Ny filmklubb! Bli med og se Joachim Triers filmer sammen med Filmpolitiet og Martha Leivestad før Oscar-utdelingen natt til 16. mars!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/filmpolitiet.xml">RSS</a>
@@ -688,6 +768,7 @@
     <div class="meta">
       <span class="title">Forstå Norge</span>
       <span class="sub">12 episoder · Nyheter</span>
+      <p class="desc">Synes du det skjer mye i Norge som er vanskelig å forstå? Vil du skjønne hvordan ting henger sammen? Bli med til stedene som skaper nyhetsbildet – og bli kjent med menneskene som er direkte berørt. Hver uke får du en…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/forstaa_norge.xml">RSS</a>
@@ -700,6 +781,7 @@
     <div class="meta">
       <span class="title">Fredagspanelet</span>
       <span class="sub">516 episoder · Kultur og samfunn</span>
+      <p class="desc">Vi oppsummerer kulturuka hver fredag, med faste, friske og freidige paneldeltakere.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/fredagspanelet.xml">RSS</a>
@@ -712,6 +794,7 @@
     <div class="meta">
       <span class="title">Friminutt med Herman og Mikkel</span>
       <span class="sub">119 episoder · Humor og prateprogram</span>
+      <p class="desc">En podkast hvor vi snakker om det vi opplever i hverdagen, som vi synes er morsomt og interessant, bare avbrutt av tulletelefoner og annet gøy. Av og med Herman Flesvig og Mikkel Niva.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/friminutt_med_herman_og_mikkel.xml">RSS</a>
@@ -724,6 +807,7 @@
     <div class="meta">
       <span class="title">Gal &amp; genial</span>
       <span class="sub">10 episoder · Dokumentar</span>
+      <p class="desc">Våre største genier var noen skikkelige raringer. I Gal &amp; genial boltrer vi oss i genistrekene OG raritetene til historiens smarteste folk!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/gal_og_genial.xml">RSS</a>
@@ -736,6 +820,7 @@
     <div class="meta">
       <span class="title">Gamle greier</span>
       <span class="sub">79 episoder · Dokumentar</span>
+      <p class="desc">Livsfarlig spionasje, grufulle drap og ulykkelig kjærlighet – Nasjonalbiblioteket dykker ned i noen av fortidas uforglemmelige skjebner.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/gamle_greier.xml">RSS</a>
@@ -748,6 +833,7 @@
     <div class="meta">
       <span class="title">God bedring</span>
       <span class="sub">120 episoder · Kultur og samfunn</span>
+      <p class="desc">Podkasten med akkurat det du trenger – akkurat nå. Har du spørsmål om kropp og sinn? Cecilie Ramona Kåss Furuseth, psykolog Peder Kjøs og lege Kaveh Rashidi gir deg lærerik moro basert på dine spørsmål og historier.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/god_bedring.xml">RSS</a>
@@ -760,6 +846,7 @@
     <div class="meta">
       <span class="title">God natt</span>
       <span class="sub">154 episoder · Lyddrama</span>
+      <p class="desc">Får du ikke sove, eller trenger du noe å koble av med? Vera Kvaal gir deg historier som senker pulsen og gir deg en fin opplevelse.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/god_natt.xml">RSS</a>
@@ -772,6 +859,7 @@
     <div class="meta">
       <span class="title">Googla med Synnøve Svabø</span>
       <span class="sub">16 episoder · Humor og prateprogram</span>
+      <p class="desc">Synnøve Svabø møter kjente nordmenn og overrasker med ei liste over «de 10 mest googlede spørsmålene» fra det norske folk. Googla med Synnøve Svabø er et åpenhjertig underholdningsportrett med oppturer og nedturer fra…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/googla_med_synnoeve_svaboe.xml">RSS</a>
@@ -784,6 +872,7 @@
     <div class="meta">
       <span class="title">Gozuid alde</span>
       <span class="sub">65 episoder · Humor og prateprogram</span>
+      <p class="desc">Njuolggočoalát Ella ja Sajje digáštallaba buolli báhkka áššiid Sámis. Dán studios eai gávdno njuolggadusat mat ráddjejit ságastallama. Gozuid alde kan også ses i tekstet versjon i NRK TV.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/gozuid_alde.xml">RSS</a>
@@ -796,6 +885,7 @@
     <div class="meta">
       <span class="title">Grøss og gru</span>
       <span class="sub">10 episoder · Kultur og samfunn</span>
+      <p class="desc">Har du noengang opplevd at et iskaldt drag går gjennom rommet, selv om alle vinduer og dører er lukket? Og plutselig fått en gnagende, ekkel følelse av at du ikke er alene? At noen – eller noe – er der? Podkastserien…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/groess_og_gru.xml">RSS</a>
@@ -808,6 +898,7 @@
     <div class="meta">
       <span class="title">Guttapassasjen</span>
       <span class="sub">6 episoder · Lyddrama</span>
+      <p class="desc">Fire gutter lager podkast på hyttetur. Så blir de funnet drept. Journalisten Clara får tak i opptakene, og vil finne ut hva som egentlig skjedde.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/guttapassasjen.xml">RSS</a>
@@ -820,6 +911,7 @@
     <div class="meta">
       <span class="title">Gáfestallan Lisain</span>
       <span class="sub">26 episoder · Kultur og samfunn</span>
+      <p class="desc">Dán diibmosaš podkásttas gulat journalistta ja tv-buvttadeaddji Lisa M Kristensena hupmame áigeguovdilis olbmuiguin eallima manuid birra. Podkásta báddejuvvo iditbeivviid podkásttaeamida gievkkanbeavdeguoras. Ja…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/gfestallan_lisain.xml">RSS</a>
@@ -832,6 +924,7 @@
     <div class="meta">
       <span class="title">Gåten i Isdalen</span>
       <span class="sub">20 episoder · Dokumentar</span>
+      <p class="desc">I 1970 ble en kvinne funnet død i Isdalen i Bergen. Hun hadde 8 falske pass. Ingen aner hvem hun var. Men nå har nye lovende spor dukket opp.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/gaaten_i_isdalen.xml">RSS</a>
@@ -844,6 +937,7 @@
     <div class="meta">
       <span class="title">Hallo Bablo</span>
       <span class="sub">19 episoder · Barn</span>
+      <p class="desc">Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/hallo_bablo.xml">RSS</a>
@@ -856,6 +950,7 @@
     <div class="meta">
       <span class="title">Harald V</span>
       <span class="sub">27 episoder · Nyheter</span>
+      <p class="desc">Harald V var konge i Norge fra 1991 til 2026. Her kan du høre viktige lydklipp i forbindelse med tronskiftet.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/harald_v.xml">RSS</a>
@@ -868,6 +963,7 @@
     <div class="meta">
       <span class="title">Hei, nabo</span>
       <span class="sub">4 episoder · Barn</span>
+      <p class="desc">Er du, har du eller ønsker du deg en god nabo? Nabovenninnene Lotta og Isabel vil finne ut mer om folk som bor ved siden av hverandre.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/hei_nabo.xml">RSS</a>
@@ -880,6 +976,7 @@
     <div class="meta">
       <span class="title">Heia Fotball</span>
       <span class="sub">688 episoder · Sport</span>
+      <p class="desc">Fotballpodkast med Sven Bisgaard Sundet, Tete Lidbom og interessante gjester. Lytt litt, lær litt, le litt, lev litt.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/heia_fotball.xml">RSS</a>
@@ -892,6 +989,7 @@
     <div class="meta">
       <span class="title">Hele historien</span>
       <span class="sub">243 episoder · Dokumentar</span>
+      <p class="desc">Sterke historier fra norsk virkelighet. Fortalt av de som opplevde dem. Dokumentarer om hendelser som har gjort inntrykk.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/hele_historien.xml">RSS</a>
@@ -904,6 +1002,7 @@
     <div class="meta">
       <span class="title">Herreavdelingen</span>
       <span class="sub">320 episoder · Humor og prateprogram</span>
+      <p class="desc">Et program der herrene Yan Friis og Finn Bjelke møtes og musikk nytes.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/herreavdelingen.xml">RSS</a>
@@ -916,6 +1015,7 @@
     <div class="meta">
       <span class="title">Historier fra virkeligheten</span>
       <span class="sub">413 episoder · Dokumentar</span>
+      <p class="desc">Her samles podkastdokumentarer fra NRK. Journalistikk og lydopplevelser om mennesker og samfunn. Historier fra virkeligheten bygger videre på podkasten Radiodok.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/radiodokumentaren.xml">RSS</a>
@@ -928,6 +1028,7 @@
     <div class="meta">
       <span class="title">Historiske kjendiser</span>
       <span class="sub">107 episoder · Dokumentar</span>
+      <p class="desc">Idealister, genier og maktgale gærninger; Alexandra Gjerpen vekker historiens største personer til live igjen.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/historiske_kjendiser.xml">RSS</a>
@@ -940,6 +1041,7 @@
     <div class="meta">
       <span class="title">Hvem skjøt Balder?</span>
       <span class="sub">7 episoder · Lyddrama</span>
+      <p class="desc">Den peneste og snilleste guden i Åsgard er drept. Journalisten Eva Strande blir sendt til gudenes verden for å etterforske saken.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/hvem_skjoet_balder.xml">RSS</a>
@@ -952,6 +1054,7 @@
     <div class="meta">
       <span class="title">Hvordan møttes dere? </span>
       <span class="sub">28 episoder · Kultur og samfunn</span>
+      <p class="desc">Hvordan møter man den rette? Hør morsomme, romantiske og pinlige historier om hvordan kjente par møtte hverandre og fant kjærligheten.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/hvordan_moettes_dere_.xml">RSS</a>
@@ -964,6 +1067,7 @@
     <div class="meta">
       <span class="title">Hævvi</span>
       <span class="sub">89 episoder · Humor og prateprogram</span>
+      <p class="desc">Jonna jïh Nelly lægan goh göökte bööremes voelpetje guaktah åvtefeestesne. Dah guaktah juekiejægan guktie jieledh goh noere saemie NRK:n voestes podkaste åarjelsaemiengielesne.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/haevvi.xml">RSS</a>
@@ -976,6 +1080,7 @@
     <div class="meta">
       <span class="title">Hør&#39;a</span>
       <span class="sub">124 episoder · Humor og prateprogram</span>
+      <p class="desc">Ilyada, Sosh, Seppi og Arin åpner opp gjengen og inviterer deg til en ærlig prat om alt som er viktig. For dem. Ris? Ros? Personlige problemer? Send mail til HORA@nrk.no</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/hoera.xml">RSS</a>
@@ -988,6 +1093,7 @@
     <div class="meta">
       <span class="title">I det lange løp</span>
       <span class="sub">198 episoder · Sport</span>
+      <p class="desc">Her får du treningstips fra de beste løperne og langrennsutøverne i landet. De snakker om suksessfaktorer som kan hjelpe deg i bedre form</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/i_det_lange_loep.xml">RSS</a>
@@ -1000,6 +1106,7 @@
     <div class="meta">
       <span class="title">I dødens spor</span>
       <span class="sub">16 episoder · Dokumentar</span>
+      <p class="desc">Leo Ajkic ser på sjokkerende norske drapssaker. Hva får folk til å drepe?</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/i_doedens_spor.xml">RSS</a>
@@ -1012,6 +1119,7 @@
     <div class="meta">
       <span class="title">I Elsa Laulas fotspor</span>
       <span class="sub">4 episoder · Dokumentar</span>
+      <p class="desc">Hvorfor er det så viktig å aksjonere, belyse og stå opp for samiske rettigheter? &#34;I Elsa Laulas fotspor gjennom Sápmi&#34; er en serie om samisk rettighetskamp gjennom 100 år fortalt av samiske kvinner. Vi møter reineiere…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/i_elsa_laulas_fotspor.xml">RSS</a>
@@ -1024,6 +1132,7 @@
     <div class="meta">
       <span class="title">I karantene med Ronny og Tuva</span>
       <span class="sub">122 episoder · Humor og prateprogram</span>
+      <p class="desc">Norge har slått full virusalarm og P3s Ronny Brede Aase og Tuva Fellman har satt opp studio i stua slik at du kan følge dem gjennom store og små utfordringer i koronaens tid. Kontakt oss: karantene@nrk.no.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/i_karantene_med_ronny_og_tuva.xml">RSS</a>
@@ -1036,6 +1145,7 @@
     <div class="meta">
       <span class="title">Jan Olsen fra Lønsj</span>
       <span class="sub">184 episoder · Humor og prateprogram</span>
+      <p class="desc">Jan Olsen er det tjuende århundrets renessansemenneske. Han holder på med ekornvotter, luftballonger og rakettramper på en privat vidde et eller annet sted i Norge. Hver onsdag ringer vi ham og slår av en prat.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/jan_olsen_fra_loensj.xml">RSS</a>
@@ -1048,6 +1158,7 @@
     <div class="meta">
       <span class="title">Jonas og Henrik</span>
       <span class="sub">49 episoder · Humor og prateprogram</span>
+      <p class="desc">Jonas Lihaug Fredriksen og Henrik Hildre er to barndomsvenner med en småsjarmerende mangel på filter. De forsøker å slå to fluer i en smekk ved å underholde seg selv og sine eventuelle lyttere på en og samme tid.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/jonas_og_henrik.xml">RSS</a>
@@ -1060,6 +1171,7 @@
     <div class="meta">
       <span class="title">Julestemning med Live og Ronny</span>
       <span class="sub">133 episoder · Humor og prateprogram</span>
+      <p class="desc">Live Nelvik og Ronny Brede Aase har ulikt forhold til jul, men elsker å møtes i julekottet for en deilig og underholdende koselomme i den kanskje mest stressende tiden på året.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/julestemning.xml">RSS</a>
@@ -1072,6 +1184,7 @@
     <div class="meta">
       <span class="title">Juntafil</span>
       <span class="sub">226 episoder · Dokumentar</span>
+      <p class="desc">P3s sexopplysningsprogram som dykker ned i store og små tema. Hver onsdag gir Juntafil deg prat om alt fra kukost til kjærlighetssorg.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/juntafil.xml">RSS</a>
@@ -1084,6 +1197,7 @@
     <div class="meta">
       <span class="title">Juorre</span>
       <span class="sub">20 episoder · Kultur og samfunn</span>
+      <p class="desc">Risstinin li tjielgga vuojno masi ájggu. Le gus A4-iellem buoremus viessomvuohke, jali ij la huoman nav buorre gåk gullu? Se i NRK TV.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/juorre.xml">RSS</a>
@@ -1096,6 +1210,7 @@
     <div class="meta">
       <span class="title">Kaffipraatti</span>
       <span class="sub">6 episoder · Kultur og samfunn</span>
+      <p class="desc">I verdens første kvenske podkast dykker programleder Tomi Vaara ned i kvensk kultur og språk sammen med spennende gjester. Kom og ta en kaffe med oss!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kaffipraati.xml">RSS</a>
@@ -1108,6 +1223,7 @@
     <div class="meta">
       <span class="title">Karriereveilederen</span>
       <span class="sub">7 episoder · Musikk</span>
+      <p class="desc">P3Christine lar deg bli kjent med norske artister på en annerledes måte. Hvilke skjulte talenter ligger bak den kjente stemmen? I samtale med karriereveileder Elaine Bloom skal vi finne ut hvilke drømmer de har båret…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/karriereveilederen.xml">RSS</a>
@@ -1120,6 +1236,7 @@
     <div class="meta">
       <span class="title">Katakombens hemmelighet </span>
       <span class="sub">8 episoder · Lyddrama</span>
+      <p class="desc">14 år gamle Robert blir med moren til Roma for å utforske en nyoppdaget katakombe. En kveld tar han seg ned i katakomben alene og i mørket støter han på en munk. Livredd løper Robert vekk fra munken, og får hjelp av en…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/katakombens_hemmelighet_.xml">RSS</a>
@@ -1132,6 +1249,7 @@
     <div class="meta">
       <span class="title">Kilder til begeistring</span>
       <span class="sub">3 episoder · Humor og prateprogram</span>
+      <p class="desc">Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kilder_til_begeistring.xml">RSS</a>
@@ -1144,6 +1262,7 @@
     <div class="meta">
       <span class="title">Kjapt oppdatert</span>
       <span class="sub">374 episoder · Nyheter</span>
+      <p class="desc">Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kjapt_oppdatert.xml">RSS</a>
@@ -1156,6 +1275,7 @@
     <div class="meta">
       <span class="title">Kjente bøker på 4 minutter</span>
       <span class="sub">189 episoder · Kultur og samfunn</span>
+      <p class="desc">Alt du burde ha lest, men ikke fikk tid til! Utakt har fått hjelp av forfatter og professor Janne Stigen Drangsholt. Briljere med kunnskapen i sosiale lag, og ingen vil kunne avsløre at du ikke har lest bøkene.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kjente_boeker_paa_4_minutter.xml">RSS</a>
@@ -1168,6 +1288,7 @@
     <div class="meta">
       <span class="title">Kladden har dævva</span>
       <span class="sub">95 episoder · Humor og prateprogram</span>
+      <p class="desc">En humorpodkast om døden. Martin Lepperød har dødsangst og han vil snakke om det.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kladden_har_daevva.xml">RSS</a>
@@ -1180,6 +1301,7 @@
     <div class="meta">
       <span class="title">Klassen-rådet</span>
       <span class="sub">25 episoder · Humor og prateprogram</span>
+      <p class="desc">Kjærlighet, mobbing, kropp og kysseproblemer - noe du lurer på? Selma Ibrahim og skuespillerne fra Klassen gir deg sine beste (og rareste) råd for å fikse livet. Hver onsdag i NRK Radio.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/klassenraadet.xml">RSS</a>
@@ -1192,6 +1314,7 @@
     <div class="meta">
       <span class="title">Klassequizen</span>
       <span class="sub">1021 episoder · Barn</span>
+      <p class="desc">Bli utfordret og imponert når landets 10.-klassinger konkurrerer i quiz. Du kan også ta del i quizen, som har tolv spørsmål fra mange ulike tema.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/klassequizen.xml">RSS</a>
@@ -1204,6 +1327,7 @@
     <div class="meta">
       <span class="title">Klassikere fra P3-arkivet</span>
       <span class="sub">23 episoder · Humor og prateprogram</span>
+      <p class="desc">Gjenhør med blant andre Radioresepsjonen, Are og Odin, HolgerNilsens Metode, XL, Kyrre og Drillpikene. Gamle P3-klassikere om igjen, presentert av arkivar Jonas J. Tomter</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/klassikere_fra_p3-arkivet.xml">RSS</a>
@@ -1216,6 +1340,7 @@
     <div class="meta">
       <span class="title">Kokosbananas</span>
       <span class="sub">3 episoder · Barn</span>
+      <p class="desc">Kokosbananas er halvt kokosnøtt, halvt ananas og 100 prosent genial oppfinner. Han har nettopp flyttet med familien sin til det lille stedet Nøttvik. Nå skal han begynne på skolen og få seg helt nye venner, men det ikke…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kokosbananas.xml">RSS</a>
@@ -1228,6 +1353,7 @@
     <div class="meta">
       <span class="title">Kommentert</span>
       <span class="sub">186 episoder · Nyheter</span>
+      <p class="desc">De store sakene fra nyhetsbildet forklart av Tone Sofie Aglen, Cecilie Langum Becker og Lars Nehru Sand. Programleder er Eivind Waage.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kommentert.xml">RSS</a>
@@ -1240,6 +1366,7 @@
     <div class="meta">
       <span class="title">Kompass</span>
       <span class="sub">146 episoder · Kultur og samfunn</span>
+      <p class="desc">Pål Plassen utforskar trua, livssynet og verdiane vi navigerer etter i samfunnet.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kompass.xml">RSS</a>
@@ -1252,6 +1379,7 @@
     <div class="meta">
       <span class="title">Kongerekka</span>
       <span class="sub">44 episoder · Dokumentar</span>
+      <p class="desc">Intriger, sex, brodermord, trolldom og store slag: Dette er vår Game of Thrones, fra virkeligheten! Are Sende Osen forteller historien om de norske kongene.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kongerekka.xml">RSS</a>
@@ -1264,6 +1392,7 @@
     <div class="meta">
       <span class="title">Koselig</span>
       <span class="sub">24 episoder · Humor og prateprogram</span>
+      <p class="desc">Silje oppsummerer de hyggeligste tingene som har skjedd i løpet av uka.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/koselig.xml">RSS</a>
@@ -1276,6 +1405,7 @@
     <div class="meta">
       <span class="title">KRAFT</span>
       <span class="sub">135 episoder · Kultur og samfunn</span>
+      <p class="desc">Kirsti Kraft snakker med mennesker som kan inspirere og gi innspill til hvordan vi bedre kan takle denne spesielle tiden vi er inne i. Psykolog Catrin Sagen er fast samlivsterapeut &#34;Kraft- Sånn livet er nå&#34; en…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kraft.xml">RSS</a>
@@ -1288,6 +1418,7 @@
     <div class="meta">
       <span class="title">Krig og fred</span>
       <span class="sub">180 episoder · Nyheter</span>
+      <p class="desc">Synes du verden er et forvirrende sted? Bombarderes du av begivenhetene? NRK Urix stopper opp i femten minutter og spør hva som egentlig skjer, hvorfor det skjer, og hva det betyr.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/krig_og_fred.xml">RSS</a>
@@ -1300,6 +1431,7 @@
     <div class="meta">
       <span class="title">Krig på 200 minutter</span>
       <span class="sub">3 episoder · Dokumentar</span>
+      <p class="desc">Studentersamfunnet i Bergen og NRK inviterer til forrykende forelesning fra Kvarteret i Bergen. Den aldri hvilende og alltid frittalende professor, kommentator, demokratiforsker og statsviter Frank Aarebrot byr på en ny…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/krig_paa_200_minutter.xml">RSS</a>
@@ -1312,6 +1444,7 @@
     <div class="meta">
       <span class="title">Krimrommet</span>
       <span class="sub">50 episoder · Dokumentar</span>
+      <p class="desc">Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/krimrommet.xml">RSS</a>
@@ -1324,6 +1457,7 @@
     <div class="meta">
       <span class="title">Kringkastingsorkestret </span>
       <span class="sub">72 episoder · Musikk</span>
+      <p class="desc">Kork gir deg musikk for alle stemninger og anledninger.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kringkastingsorkestret_.xml">RSS</a>
@@ -1336,6 +1470,7 @@
     <div class="meta">
       <span class="title">Kroppen</span>
       <span class="sub">49 episoder · Kultur og samfunn</span>
+      <p class="desc">Trond-Viggo Torgersen i samtale om kroppen fra Litteraturhuset i Bergen</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kroppen.xml">RSS</a>
@@ -1348,6 +1483,7 @@
     <div class="meta">
       <span class="title">Kunne vært meg</span>
       <span class="sub">18 episoder · Kultur og samfunn</span>
+      <p class="desc">Har du noen gang gått skikkelig på trynet? Du er ikke alene.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kunne_vaert_meg.xml">RSS</a>
@@ -1360,6 +1496,7 @@
     <div class="meta">
       <span class="title">Kurer</span>
       <span class="sub">356 episoder · Kultur og samfunn</span>
+      <p class="desc">Interesserer du deg for medienes historie, nåtid og framtid? Da er Kurer programmet for deg. Hvordan påvirker mediene oss? Og hva skjer med demokratiet i en digital mediehverdag? Dette er sentrale temaer i Kurer.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kurer.xml">RSS</a>
@@ -1372,6 +1509,7 @@
     <div class="meta">
       <span class="title">Kveldstanker</span>
       <span class="sub">290 episoder · Kultur og samfunn</span>
+      <p class="desc">Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/kveldstanker.xml">RSS</a>
@@ -1384,6 +1522,7 @@
     <div class="meta">
       <span class="title">Labyrint om natten</span>
       <span class="sub">17 episoder · Barn</span>
+      <p class="desc">Mens Daidalos og Daidalosa sover om natten, blir Labyrinten til robotenes lekeplass. Da kan de gjøre hva de vil – så lenge de ikke blir oppdaget!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/labyrint_om_natten.xml">RSS</a>
@@ -1396,6 +1535,7 @@
     <div class="meta">
       <span class="title">Labyrinthemmeligheter</span>
       <span class="sub">19 episoder · Barn</span>
+      <p class="desc">Vil du vinne over Daidalos? Her får du hemmeligheter og tips du trenger for å klare det. Daidalos vil absolutt ikke at du skal få vite dette!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/labyrinthemmeligheter.xml">RSS</a>
@@ -1408,6 +1548,7 @@
     <div class="meta">
       <span class="title">Leseklubben</span>
       <span class="sub">74 episoder · Kultur og samfunn</span>
+      <p class="desc">KOMMER 2. sept: Vi leser «Prosessen» av Franz Kafka med Einar Tørnquist. Les med oss! Leseklubben leser og diskuterer bøker med morsomme gjester – og gir deg lydboka!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/leseklubben.xml">RSS</a>
@@ -1420,6 +1561,7 @@
     <div class="meta">
       <span class="title">Lev vel</span>
       <span class="sub">102 episoder · Kultur og samfunn</span>
+      <p class="desc">Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/lev_vel.xml">RSS</a>
@@ -1432,6 +1574,7 @@
     <div class="meta">
       <span class="title">Lindmo og Co</span>
       <span class="sub">292 episoder · Humor og prateprogram</span>
+      <p class="desc">Din ukentlige dose vesentlig vrøvl. Med Anne Lindmo, Halvor Haugen og Rune Norum Engelsøy. Tilbake 10. september.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/lindmo_og_co.xml">RSS</a>
@@ -1444,6 +1587,7 @@
     <div class="meta">
       <span class="title">Luođis luohtái</span>
       <span class="sub">37 episoder · Musikk</span>
+      <p class="desc">Luohti sáhttá govvidit ráhkesvuođa, muhto maiddái unohisvuođaid. Dás guorahallabage luđiid, maiddái olbmuiguin geain leat muitalusat ja vásáhusat.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/luois_luohti.xml">RSS</a>
@@ -1456,6 +1600,7 @@
     <div class="meta">
       <span class="title">Lyden av 17. mai</span>
       <span class="sub">10 episoder · Musikk</span>
+      <p class="desc">NRK gir deg lyden du trenger for å komme i 17. mai-stemning. Velg mellom kjente situasjoner slik at du får det lydsporet som passer til din feiring. Lydopptakene er hentet fra NRKs rikholdige arkiv.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/lyden_av_17_mai.xml">RSS</a>
@@ -1468,6 +1613,7 @@
     <div class="meta">
       <span class="title">Lyden av Nytt på Nytt</span>
       <span class="sub">15 episoder · Humor og prateprogram</span>
+      <p class="desc">Fersk satire om nyhetsbildet med programleder Bård Tufte Johansen, lagledere Pernille Sørensen og Johan Golden, samt to gjester. I podkastutgaven av Nytt på nytt får du høre alt som skjer, men slipper å se det. I…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/lyden_av_nytt_paa_nytt.xml">RSS</a>
@@ -1480,6 +1626,7 @@
     <div class="meta">
       <span class="title">Lystad og Mathisens radioshow</span>
       <span class="sub">21 episoder · Humor og prateprogram</span>
+      <p class="desc">Her får du møte humorveteranene Knut Lystad og Tom Mathisen i godt gammelt slag. Tre nye påskespesial med blant annet påskens morsomste krim: Hvem skjøt Rygh?</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/lystad_og_mathisens_radioshow.xml">RSS</a>
@@ -1492,6 +1639,7 @@
     <div class="meta">
       <span class="title">Lønsj med Rune Nilson</span>
       <span class="sub">1056 episoder · Humor og prateprogram</span>
+      <p class="desc">En ukentlig podkast som forsøker å gjøre alt litt mer utholdelig.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/loensj_med_rune_nilson.xml">RSS</a>
@@ -1504,6 +1652,7 @@
     <div class="meta">
       <span class="title">Lørdagsrådet</span>
       <span class="sub">951 episoder · Humor og prateprogram</span>
+      <p class="desc">Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/loerdagsraadet.xml">RSS</a>
@@ -1516,6 +1665,7 @@
     <div class="meta">
       <span class="title">Manin ja danin</span>
       <span class="sub">7 episoder · Humor og prateprogram</span>
+      <p class="desc">Mii lea sámevuohta, ja mii lea sámi dovdomearka? Maid mearkkaša giella, kultuvra, ávvudeapmi ja politihkka sápmelaccaide? Ánne Márjá Guttorm Graven ja Lemet Ailu Anti geahcadeaba makkár guottut dat gávdnojit. Dása ii…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/manin_ja_danin.xml">RSS</a>
@@ -1528,6 +1678,7 @@
     <div class="meta">
       <span class="title">Markus &amp; Else</span>
       <span class="sub">51 episoder · Humor og prateprogram</span>
+      <p class="desc">Ung mann møter gift kvinne i trangt rom og håper på det beste.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/markus_else.xml">RSS</a>
@@ -1540,6 +1691,7 @@
     <div class="meta">
       <span class="title">Markus og Wolfgang snakker klassisk</span>
       <span class="sub">19 episoder · Musikk</span>
+      <p class="desc">Du vil aldri høre musikk på samme måte igjen. Markus Neby og Wolfgang Plagge utforsker hvorfor musikk låter som den gjør.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/markus_og_wolfgang_snakker_klassisk.xml">RSS</a>
@@ -1552,6 +1704,7 @@
     <div class="meta">
       <span class="title">Maskorama-podkasten</span>
       <span class="sub">29 episoder · Humor og prateprogram</span>
+      <p class="desc">Få Maskorama-hintene du ikke finner noe annet sted, møt kjente gjester med ville teorier og, ikke minst, hør de hemmelige kjendisenes egne historier!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/maskoramapodkasten.xml">RSS</a>
@@ -1564,6 +1717,7 @@
     <div class="meta">
       <span class="title">Med all respekt</span>
       <span class="sub">1266 episoder · Humor og prateprogram</span>
+      <p class="desc">Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/med_all_respekt.xml">RSS</a>
@@ -1576,6 +1730,7 @@
     <div class="meta">
       <span class="title">Meininga med livet</span>
       <span class="sub">20 episoder · Humor og prateprogram</span>
+      <p class="desc">Live og Ronny elskar å prate, aller helst saman. Kvar veke prøver dei å finne små og store augeblikk som gir livet (litt) meir meining.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/meininga_med_livet.xml">RSS</a>
@@ -1588,6 +1743,7 @@
     <div class="meta">
       <span class="title">Mellom oss</span>
       <span class="sub">74 episoder · Kultur og samfunn</span>
+      <p class="desc">Her får du serier som tar deg tett på det fineste og vondeste i livet. Hør andres historier og bli klokere på deg selv.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/mellom_oss.xml">RSS</a>
@@ -1600,6 +1756,7 @@
     <div class="meta">
       <span class="title">Mesterdetektiven Mali</span>
       <span class="sub">4 episoder · Barn</span>
+      <p class="desc">Når Mali ikke er i barnehagen er hun en ekte mesterdetektiv som løser mysterier i nabolaget sitt. En podkastserie for barn fra NRK Super.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/mesterdetektiven_mali.xml">RSS</a>
@@ -1612,6 +1769,7 @@
     <div class="meta">
       <span class="title">Mias gym</span>
       <span class="sub">10 episoder · Humor og prateprogram</span>
+      <p class="desc">Skolens eneste fritime eller et svett pubertalt mareritt? Mia Hundvin har invitert kjendiser til en elevsamtale hvor alt skal fram.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/mias_gym.xml">RSS</a>
@@ -1624,6 +1782,7 @@
     <div class="meta">
       <span class="title">Millionærhjerne</span>
       <span class="sub">12 episoder · Kultur og samfunn</span>
+      <p class="desc">Har du lyst til å bli rik? Christian Strand får oppskriften fra unge millionærer som har tjent fett på alt fra vasking til kryptokunst.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/millionaerhjerne.xml">RSS</a>
@@ -1636,6 +1795,7 @@
     <div class="meta">
       <span class="title">Min første gang</span>
       <span class="sub">10 episoder · Kultur og samfunn</span>
+      <p class="desc">Sex kan være skummelt, fint, flaut og katastrofalt. Hør ekte og selvfortalte historier om våre første ligg!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/min_foerste_gang.xml">RSS</a>
@@ -1648,6 +1808,7 @@
     <div class="meta">
       <span class="title">Min venn Marlon</span>
       <span class="sub">13 episoder · Barn</span>
+      <p class="desc">Marlon og Hugo er bestevenner. Så kommer Sander, den nye gutten i klassen. Han spiller fotball, akkurat som Marlon. Hva skjer med bestevennene nå? En podkastserie for barn fra NRK Super.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/min_venn_marlon.xml">RSS</a>
@@ -1660,6 +1821,7 @@
     <div class="meta">
       <span class="title">Misforstå meg rett</span>
       <span class="sub">53 episoder · Humor og prateprogram</span>
+      <p class="desc">Komikerne Martha Leivestad og Galvan Mehidi gjør sitt beste for å ta sterke meninger på alvor. Litt på alvor, i hvert fall.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/misforstaa_meg_rett.xml">RSS</a>
@@ -1672,6 +1834,7 @@
     <div class="meta">
       <span class="title">Mitt liv med hund</span>
       <span class="sub">20 episoder · Humor og prateprogram</span>
+      <p class="desc">Hva sier ditt forhold til hunden din om hvem du er? Hundetrener Maren Teien Rørvik snakker med kjente personer om forholdet til deres firbente venner.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/mitt_liv_med_hund.xml">RSS</a>
@@ -1684,6 +1847,7 @@
     <div class="meta">
       <span class="title">Monsens univers</span>
       <span class="sub">18 episoder · Humor og prateprogram</span>
+      <p class="desc">Lars Monsen møter mennesker som deler hans sterke kjærlighet til naturen og villmarka til en prat om opp-, ned- og toppturer, dyremøter og hjertesaker.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/monsens_univers.xml">RSS</a>
@@ -1696,6 +1860,7 @@
     <div class="meta">
       <span class="title">Museum - et program om norsk historie</span>
       <span class="sub">593 episoder · Dokumentar</span>
+      <p class="desc">Et reportasjeprogram om norsk og nordisk historie og arkeologi. Programledene Øyvind Arntsen og Jan Henrik Ihlebæk reiser land og strand rundt i kulturhistorien. Dette er ikke et studioprogram. Alle reportasjene er &#34;ut…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/museum.xml">RSS</a>
@@ -1708,6 +1873,7 @@
     <div class="meta">
       <span class="title">Musikk fra NRK Super</span>
       <span class="sub">104 episoder · Barn</span>
+      <p class="desc">Hør NRK Super sine beste sanger!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/musikk_fra_nrk_super.xml">RSS</a>
@@ -1720,6 +1886,7 @@
     <div class="meta">
       <span class="title">Musikkhistorier</span>
       <span class="sub">12 episoder · Musikk</span>
+      <p class="desc">Hør historiene bak musikken og artistene du elsker.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/musikkhistorier.xml">RSS</a>
@@ -1732,6 +1899,7 @@
     <div class="meta">
       <span class="title">Musikkrommet</span>
       <span class="sub">117 episoder · Musikk</span>
+      <p class="desc">Anna Nor Sørensen og Jakob Naustdal gir deg de gode historiene bak musikken du bryr deg om. Og den du ikke visste at du digger. Musikkrommet ble produsert fram til og med 2024 og episodene er laget for å høres når som…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/musikkrommet.xml">RSS</a>
@@ -1744,6 +1912,7 @@
     <div class="meta">
       <span class="title">Mysterier fra Norge</span>
       <span class="sub">34 episoder · Dokumentar</span>
+      <p class="desc">Spøkelser, forbannelser og uforklarlige fenomener – landet vårt er fullt av uløste mysterier.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/mysterier_fra_norge.xml">RSS</a>
@@ -1756,6 +1925,7 @@
     <div class="meta">
       <span class="title">Mørke fortellinger</span>
       <span class="sub">24 episoder · Lyddrama</span>
+      <p class="desc">Spennende fiksjonsserier fra NRK. Tips! Bruk hodetelefoner når du lytter for optimal opplevelse.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/radioteatrets_paaskekrim.xml">RSS</a>
@@ -1768,6 +1938,7 @@
     <div class="meta">
       <span class="title">Mørketid</span>
       <span class="sub">6 episoder · Nyheter</span>
+      <p class="desc">En podkastserie om de mørke kreftene i vår tid. Og om klumpen som vokser i magen. Nina Stensrud Martin og Halvor Tretvoll har ett mål: Bearbeide angsten for at vi er på vei mot katastrofen.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/moerketid.xml">RSS</a>
@@ -1780,6 +1951,7 @@
     <div class="meta">
       <span class="title">Natt til lørdag</span>
       <span class="sub">18 episoder · Lyddrama</span>
+      <p class="desc">Når Frid blir overbevist om at en tidligere bestevenninne har blitt utsatt for et overgrep, bestemmer hun seg for å ta saken i egne hender. Frid oppretter en podkast, og gjennom daglige episoder oppdaterer og involverer…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/natt_til_loerdag.xml">RSS</a>
@@ -1792,6 +1964,7 @@
     <div class="meta">
       <span class="title">Nei nei nei</span>
       <span class="sub">27 episoder · Humor og prateprogram</span>
+      <p class="desc">Pinligheter, flauser, blundere, tabber. Humorpodkast med den selvironiske duoen Martha Leivestad og Marlene Stavrum. Jentene møtes ukentlig for å reflektere rundt sine egne og andres sosiale flauser. Så kan vi le av dem…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/nei_nei_nei.xml">RSS</a>
@@ -1804,6 +1977,7 @@
     <div class="meta">
       <span class="title">Nesten helt sant </span>
       <span class="sub">42 episoder · Humor og prateprogram</span>
+      <p class="desc">Kirsti Falch-Nilsen, Are Sende Osen og Torfinn Borkhus - din faste leverandør på humorfronten siden 2018.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/nesten_helt_sant_.xml">RSS</a>
@@ -1816,6 +1990,7 @@
     <div class="meta">
       <span class="title">Nittiatten</span>
       <span class="sub">91 episoder · Humor og prateprogram</span>
+      <p class="desc">En humorpodkast med tromsøgutta Franky og Mo om å drømme stort – og tryne på veien.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/nittiatten.xml">RSS</a>
@@ -1828,6 +2003,7 @@
     <div class="meta">
       <span class="title">Nokke for seg sjøl</span>
       <span class="sub">13 episoder · Dokumentar</span>
+      <p class="desc">«Eg e&#39;kje fra Norge, eg e fra Bergen», heiter det. Kva er eigentleg greia med det «bergenske» og korleis har det blitt sånn?</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/nokke_for_seg_sjoel.xml">RSS</a>
@@ -1840,6 +2016,7 @@
     <div class="meta">
       <span class="title">Norsken, svensken og dansken</span>
       <span class="sub">285 episoder · Nyheter</span>
+      <p class="desc">Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/norsken_svensken_og_dansken.xml">RSS</a>
@@ -1852,6 +2029,7 @@
     <div class="meta">
       <span class="title">NRK-scenen</span>
       <span class="sub">84 episoder · Musikk</span>
+      <p class="desc">Norske musikere gir deg minikonserter på steder som betyr noe for dem. Også tilgjengelig i NRK TV: tv.nrk.no/serie/nrk-scenen</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/nrkscenen.xml">RSS</a>
@@ -1864,6 +2042,7 @@
     <div class="meta">
       <span class="title">NRKbeta</span>
       <span class="sub">25 episoder · Kultur og samfunn</span>
+      <p class="desc">Vi er NRKs sandkasse for teknologi og nye medier. Her får du et dypdykk i det vi jobber med og tenker på.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/nrkbeta.xml">RSS</a>
@@ -1876,6 +2055,7 @@
     <div class="meta">
       <span class="title">Nyhetsblanding</span>
       <span class="sub">39 episoder · Nyheter</span>
+      <p class="desc">Få oversikt over ukens nyheter med Fanny, Rima og Ole.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/nyhetsblanding.xml">RSS</a>
@@ -1888,6 +2068,7 @@
     <div class="meta">
       <span class="title">Nødsamtaler</span>
       <span class="sub">18 episoder · Lyddrama</span>
+      <p class="desc">Pulserende lyddrama fra innsiden av en AMK-sentral.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/noedsamtaler.xml">RSS</a>
@@ -1900,6 +2081,7 @@
     <div class="meta">
       <span class="title">O-fag</span>
       <span class="sub">55 episoder · Humor og prateprogram</span>
+      <p class="desc">Visste du at Brødrene Ylvis lagde radioprogrammet &#34;O-fag&#34; på NRK P3 for 10 år siden? Det ble veldig populært, og mange har etterspurt programmet som podkast. Nå kan du endelig laste ned alle sendingene fra henholdsvis…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/o-fag.xml">RSS</a>
@@ -1912,6 +2094,7 @@
     <div class="meta">
       <span class="title">OL-gull</span>
       <span class="sub">8 episoder · Sport</span>
+      <p class="desc">128 år med juks, jubel og usannsynlige idrettshelter. OL-historien har alt man drømmer om av spenning og skuffelser. Bli med å grave etter OL-gull.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/olgull.xml">RSS</a>
@@ -1924,6 +2107,7 @@
     <div class="meta">
       <span class="title">Oppdatert</span>
       <span class="sub">1322 episoder · Nyheter</span>
+      <p class="desc">Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/oppdatert.xml">RSS</a>
@@ -1936,6 +2120,7 @@
     <div class="meta">
       <span class="title">Ođaspodda</span>
       <span class="sub">77 episoder · Nyheter</span>
+      <p class="desc">Oatnelanbottas čilget dan mii dál beaggá Sámis.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/odaspodda.xml">RSS</a>
@@ -1948,6 +2133,7 @@
     <div class="meta">
       <span class="title">P3 Dokumentar</span>
       <span class="sub">174 episoder · Dokumentar</span>
+      <p class="desc">P3 Dokumentar gir deg de små øyeblikkene som faktisk betyr noe.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/p3_dokumentar.xml">RSS</a>
@@ -1960,6 +2146,7 @@
     <div class="meta">
       <span class="title">P3morgen for B-mennesker</span>
       <span class="sub">3617 episoder · Humor og prateprogram</span>
+      <p class="desc">Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/p3morgen.xml">RSS</a>
@@ -1972,6 +2159,7 @@
     <div class="meta">
       <span class="title">Politisk kvarter</span>
       <span class="sub">3503 episoder · Nyheter</span>
+      <p class="desc">Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/politisk_kvarter.xml">RSS</a>
@@ -1984,6 +2172,7 @@
     <div class="meta">
       <span class="title">Popaganda</span>
       <span class="sub">8 episoder · Musikk</span>
+      <p class="desc">Bård Vegar Solhjell og Nina Stensrud Martin forteller om politikken i musikken vi ofte hører uten å tenke over hva den handler om. Gjennom åtte episoder dykker Popaganda ned i musikken som sier noe om oss som mennesker…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/popaganda.xml">RSS</a>
@@ -1996,6 +2185,7 @@
     <div class="meta">
       <span class="title">Popkorn og politikk</span>
       <span class="sub">68 episoder · Nyheter</span>
+      <p class="desc">Demokratiet er skjørt. Hør om populistiske strømninger og aktuelle utenrikspolitiske dramaer i verden – og i TV-serier.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/popkorn_og_politikk.xml">RSS</a>
@@ -2008,6 +2198,7 @@
     <div class="meta">
       <span class="title">Psykologen</span>
       <span class="sub">261 episoder · Kultur og samfunn</span>
+      <p class="desc">Psykolog Egon Hagen har vært borti det meste og snakker rett fra levra. Hver uke: Sterke tanker om nye tema &#43; et lite plaster på sjelen. Reporter: Ingvill Bjorland</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/psykologen.xml">RSS</a>
@@ -2020,6 +2211,7 @@
     <div class="meta">
       <span class="title">Purk eller skurk?</span>
       <span class="sub">11 episoder · Dokumentar</span>
+      <p class="desc">Hvem er Eirik Jensen? Hvordan endte en av Norges mest betrodde politimenn opp som hovedmistenkt i et kriminelt nettverk han selv jobbet med å bekjempe? Politimann Eirik Jensen står tiltalt for å ha hjulpet narkosmuglere…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/purk_eller_skurk.xml">RSS</a>
@@ -2032,6 +2224,7 @@
     <div class="meta">
       <span class="title">På audition</span>
       <span class="sub">25 episoder · Humor og prateprogram</span>
+      <p class="desc">Adelina trenger en ny makker! Vi inviterer de morsomste hodene i underholdningsverden på en helt ekte audition – og du får være med.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/paa_audition.xml">RSS</a>
@@ -2044,6 +2237,7 @@
     <div class="meta">
       <span class="title">Pålogga</span>
       <span class="sub">45 episoder · Kultur og samfunn</span>
+      <p class="desc">Gode, sterke og rare historier fra livet på internett.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/paalogga.xml">RSS</a>
@@ -2056,6 +2250,7 @@
     <div class="meta">
       <span class="title">Radio Mørch</span>
       <span class="sub">113 episoder · Humor og prateprogram</span>
+      <p class="desc">Erlend Mørch snakker med folk han gjerne vil snakke med. Ofte gøy, alltid interessant.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/radio_moerch.xml">RSS</a>
@@ -2068,6 +2263,7 @@
     <div class="meta">
       <span class="title">Radio Utslagsnes</span>
       <span class="sub">42 episoder · Humor og prateprogram</span>
+      <p class="desc">Ståle Utslagsnes starter sin egen radiostasjon og går motvillig med på at Rune Nilson får publisere sendingene hans som podkast for NRK.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/radio_utslagsnes.xml">RSS</a>
@@ -2080,6 +2276,7 @@
     <div class="meta">
       <span class="title">Radiolegen</span>
       <span class="sub">269 episoder · Kultur og samfunn</span>
+      <p class="desc">Hver uke spør jeg lege Morten Munkvik om ulike hverdagsplager og sykdommer. Her får du gode svar, kan bli kvitt store og små plager og får oppskrifter på et friskt og langt liv. Det eneste som er kort her, er podkasten…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/radiolegen.xml">RSS</a>
@@ -2092,6 +2289,7 @@
     <div class="meta">
       <span class="title">Radiomat</span>
       <span class="sub">16 episoder · Kultur og samfunn</span>
+      <p class="desc">I Radiomat snakker vi om matens kulturhistorie, om råvarer, om smak, om matens betydning opp gjennom historien, og i vår tid. I radiomat vil vår sult på god mat, og vår nysgjerrighet på kunnskap smelte sammen i…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/radiomat.xml">RSS</a>
@@ -2104,6 +2302,7 @@
     <div class="meta">
       <span class="title">Radioresepsjonen</span>
       <span class="sub">1588 episoder · Humor og prateprogram</span>
+      <p class="desc">Preik uten musikk. En feit, en lang og en gammel mann prøver å lage program på P13. Med Bjarte Tjøstheim, Steinar Sagen og Tore Sagen.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/radioresepsjonen.xml">RSS</a>
@@ -2116,6 +2315,7 @@
     <div class="meta">
       <span class="title">Radioresepsjonens arkivpodkast</span>
       <span class="sub">761 episoder · Humor og prateprogram</span>
+      <p class="desc">I denne podkasten får du høre et utvalg av klipp fra Radioresepsjonens rikholdige arkiv fra perioden 2006 og framover. Vi publiserer klipp fra lytternes ønskerepriser. Har du ønsker om hva vi skal legge ut? Send epost…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/radioresepsjonens_arkivpodkast.xml">RSS</a>
@@ -2128,6 +2328,7 @@
     <div class="meta">
       <span class="title">Radioteatret</span>
       <span class="sub">32 episoder · Lyddrama</span>
+      <p class="desc">Forsvinn i spennende og engasjerende historier laget av NRKs radioteater.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/radioteatret.xml">RSS</a>
@@ -2140,6 +2341,7 @@
     <div class="meta">
       <span class="title">Reiseradioens sommerleker</span>
       <span class="sub">40 episoder · Humor og prateprogram</span>
+      <p class="desc">Kviss og sommermoro hvor alle kan delta og svare på oppgaver i appen NRK Radio. Rune Nilson er programleder.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/reiseradioens_sommerleker.xml">RSS</a>
@@ -2152,6 +2354,7 @@
     <div class="meta">
       <span class="title">Revolusjonen</span>
       <span class="sub">6 episoder · Dokumentar</span>
+      <p class="desc">Rullende hoder, vaiende flagg og en intens lengsel etter frihet. Hvordan så den franske revolusjonen ut fra innsiden?</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/revolusjonen.xml">RSS</a>
@@ -2164,6 +2367,7 @@
     <div class="meta">
       <span class="title">Rød løype</span>
       <span class="sub">6 episoder · Lyddrama</span>
+      <p class="desc">En preppemaskinfører kjører over en person i slalåmbakken. Innestengt i maskinen må han bevise sin uskyld før stormen letter.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/roed_loeype.xml">RSS</a>
@@ -2176,6 +2380,7 @@
     <div class="meta">
       <span class="title">Røverradion i NRK P2</span>
       <span class="sub">273 episoder · Kultur og samfunn</span>
+      <p class="desc">Bli med inn i den kriminelle verden. Hvorfor ender man opp i fengsel? Hvordan er livet bak murene? Og hva er rett straff? Laga av og med innsatte.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/roeverradion_i_nrk_p2.xml">RSS</a>
@@ -2188,6 +2393,7 @@
     <div class="meta">
       <span class="title">Salongens lesesirkel </span>
       <span class="sub">1086 episoder · Kultur og samfunn</span>
+      <p class="desc">Les Dostojevskijs mesterverk «Brødrene Karamasov» saaaakte, sammen med oss! Velkommen inn i NRK&#39;s Radioleseklubb &#34;Familien Karamasov&#34;.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/salongen.xml">RSS</a>
@@ -2200,6 +2406,7 @@
     <div class="meta">
       <span class="title">Satiriks redaksjonsmøte</span>
       <span class="sub">106 episoder · Humor og prateprogram</span>
+      <p class="desc">Bli med på NRK Satiriks redaksjonsmøte! Panelet går gjennom dagens viktigste saker, og tuller og tøyser for å komme på idéer til ukens sketsjer.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/satiriks_redaksjonsmoete.xml">RSS</a>
@@ -2212,6 +2419,7 @@
     <div class="meta">
       <span class="title">Sentralbordet på NRK</span>
       <span class="sub">3 episoder · Humor og prateprogram</span>
+      <p class="desc">Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/sentralbordet.xml">RSS</a>
@@ -2224,6 +2432,7 @@
     <div class="meta">
       <span class="title">Seriesnakk</span>
       <span class="sub">53 episoder · Kultur og samfunn</span>
+      <p class="desc">Podkasten for deg som bare må ha litt mer av seriene du har sett i NRK TV.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/seriesnakk.xml">RSS</a>
@@ -2236,6 +2445,7 @@
     <div class="meta">
       <span class="title">Sex over 60</span>
       <span class="sub">24 episoder · Kultur og samfunn</span>
+      <p class="desc">Folk over 60 trenger sex. Tørre skjeder og slappe kuker er ingen hindring for pirrende forspill og stormende orgasmer. Gode råd fra sexolog Haakon Aars og Hege Holm.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/sex_over_60.xml">RSS</a>
@@ -2248,6 +2458,7 @@
     <div class="meta">
       <span class="title">Siesta</span>
       <span class="sub">326 episoder · Humor og prateprogram</span>
+      <p class="desc">Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/siesta.xml">RSS</a>
@@ -2260,6 +2471,7 @@
     <div class="meta">
       <span class="title">Sjakksnakk</span>
       <span class="sub">6 episoder · Sport</span>
+      <p class="desc">Sjakkekspertene Askild Bryn og Odin Blikra Vea tar deg med på innsiden av det norske sjakkmiljøet, som sitrer av spenning frem mot Magnus Carlsens VM-kamp.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/sjakksnakk.xml">RSS</a>
@@ -2272,6 +2484,7 @@
     <div class="meta">
       <span class="title">Skampod</span>
       <span class="sub">23 episoder · Kultur og samfunn</span>
+      <p class="desc">Ukentlig podkast som tar for seg den ferskeste episoden av Skam. Med P3-profiler og kjente gjester.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/skampod.xml">RSS</a>
@@ -2284,6 +2497,7 @@
     <div class="meta">
       <span class="title">Skiklubben</span>
       <span class="sub">178 episoder · Sport</span>
+      <p class="desc">I sommerhalvåret legger vi bort skiene og tar på oss løpeskoene, rulleskiene eller setter oss på sykkelen. Anders Aukland, Silje Nordnes og Sindre Reinholt motiverer deg i til å komme i form og nå dine mål uansett…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/skiklubben.xml">RSS</a>
@@ -2296,6 +2510,7 @@
     <div class="meta">
       <span class="title">Skitprat med Jens og Isak</span>
       <span class="sub">42 episoder · Humor og prateprogram</span>
+      <p class="desc">Villmarkas Jens Kvernmo og Norges tøffeste Isak Dreyer er to kompiser som elsker naturen, livet og skitprat. Send e-post til Skitprat@nrk.no!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/skitprat.xml">RSS</a>
@@ -2308,6 +2523,7 @@
     <div class="meta">
       <span class="title">Smartere på 10 minutter</span>
       <span class="sub">30 episoder · Kultur og samfunn</span>
+      <p class="desc">Hvorfor sier vi «hallo»? Er 5G helseskadelig? Finnes det noe som lever evig? Selda Ekiz gir deg vitenskapelige fun facts – så du kan briljere blant vennene dine!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/smartere_paa_10_minutter.xml">RSS</a>
@@ -2320,6 +2536,7 @@
     <div class="meta">
       <span class="title">Snøfall</span>
       <span class="sub">25 episoder · Barn</span>
+      <p class="desc">Hør podkastversjonen av julekalenderen «Snøfall», hvor Selma, en foreldreløs jente i en grå og fargeløs tilværelse, begir seg ut på en eventyrlig reise til Snøfall og selveste julenissen.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/snoefall.xml">RSS</a>
@@ -2332,6 +2549,7 @@
     <div class="meta">
       <span class="title">Sommer i P2</span>
       <span class="sub">839 episoder · Kultur og samfunn</span>
+      <p class="desc">Kjente folk deler historiene som formet dem.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/sommer_i_p2.xml">RSS</a>
@@ -2344,6 +2562,7 @@
     <div class="meta">
       <span class="title">Sophie og Fetisha</span>
       <span class="sub">25 episoder · Humor og prateprogram</span>
+      <p class="desc">Sophie og Fetisha er de frekke venninnene du ikke visste du trengte – før nå. Bli med bak fasaden til to av Norges største influensere. Hva skjer i livet? Hva skjer i samfunnet? Hva skjer på Jodel? Sophie Elise og…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/sophie_og_fetisha.xml">RSS</a>
@@ -2356,6 +2575,7 @@
     <div class="meta">
       <span class="title">SOS Nødtelefonen</span>
       <span class="sub">20 episoder · Dokumentar</span>
+      <p class="desc">Når en ulykke inntreffer, ringer vi nødtelefon. I denne podkasten får du historiene om hva som skjedde før, under og etter de skjebnesvangre minuttene.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/sos_noedtelefonen.xml">RSS</a>
@@ -2368,6 +2588,7 @@
     <div class="meta">
       <span class="title">Sportsdesken brenner</span>
       <span class="sub">29 episoder · Humor og prateprogram</span>
+      <p class="desc">En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/sportsdesken_brenner.xml">RSS</a>
@@ -2380,6 +2601,7 @@
     <div class="meta">
       <span class="title">Språksnakk</span>
       <span class="sub">656 episoder · Kultur og samfunn</span>
+      <p class="desc">Absolutt alt du kan undre deg over om språk! Lydia Gieselmann spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/spraakteigen.xml">RSS</a>
@@ -2392,6 +2614,7 @@
     <div class="meta">
       <span class="title">Spør for en venn</span>
       <span class="sub">37 episoder · Kultur og samfunn</span>
+      <p class="desc">Din ukentlige dose sex, kropp og følelser! Lydia, Tamanna, Jesper og lege Mari tester trender og gir svar – enten du spør for deg selv eller en venn.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/spoer_for_en_venn.xml">RSS</a>
@@ -2404,6 +2627,7 @@
     <div class="meta">
       <span class="title">Stanghelle</span>
       <span class="sub">109 episoder · Kultur og samfunn</span>
+      <p class="desc">Harald Stanghelle og mange spennende gjester samtaler og forteller interessante historier. I spalten «Stang inn – Stang ut» byr Harald på en subjektiv oppsummering og poengtert kommentar fra uken vi har bak oss…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/stanghelle.xml">RSS</a>
@@ -2416,6 +2640,7 @@
     <div class="meta">
       <span class="title">Statens mal for medarbeidersamtale</span>
       <span class="sub">16 episoder · Humor og prateprogram</span>
+      <p class="desc">Har torpedoen en trygg arbeidsplass? Hvor ser hackeren seg selv om fem år? Og tenker fakiren nok på HMS? Bli med på medarbeidersamtale.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/statens_mal_for_medarbeidersamtale.xml">RSS</a>
@@ -2428,6 +2653,7 @@
     <div class="meta">
       <span class="title">Steinar og Bjørns bærbare fredagsparty</span>
       <span class="sub">17 episoder · Humor og prateprogram</span>
+      <p class="desc">Partystemning og trafikk med Steinar Sagen og Bjørn Eidsvåg!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/steinar_og_bjoerns_baerbare_fredagsparty.xml">RSS</a>
@@ -2440,6 +2666,7 @@
     <div class="meta">
       <span class="title">Strid – de norske borgerkrigene</span>
       <span class="sub">36 episoder · Dokumentar</span>
+      <p class="desc">Partyprinser, gærninger og kranglefanter – kongeslekta er full av sinnssyke historier! Med Aslak Sira Myhre og Ole-Albert Rønning Nordby.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/strid.xml">RSS</a>
@@ -2452,6 +2679,7 @@
     <div class="meta">
       <span class="title">Strøm/Wasenius</span>
       <span class="sub">77 episoder · Humor og prateprogram</span>
+      <p class="desc">En radioserie om hvorfor vi er som vi er, gjør som vi gjør og tenker som vi tenker. Med: Grete Strøm og Ken Wasenius-Nilsen.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/stroemwasenius.xml">RSS</a>
@@ -2464,6 +2692,7 @@
     <div class="meta">
       <span class="title">Ståle Utslagsnes fra Lønsj</span>
       <span class="sub">162 episoder · Humor og prateprogram</span>
+      <p class="desc">Gründer, hattemaker, sjåfør, kursholder og ukuelig optimist fra Utslagsnes som gjør alt i sin makt for å få skuta til å gå rundt. Og ganske ofte er det akkurat det skuta gjør. Men Ståle gir seg aldri. Aldri!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/staale_utslagsnes_fra_loensj.xml">RSS</a>
@@ -2476,6 +2705,7 @@
     <div class="meta">
       <span class="title">Supernytt forklarer</span>
       <span class="sub">11 episoder · Barn</span>
+      <p class="desc">Hva skjedde egentlig? Supernytt forklarer store og små hendelser som har påvirket verden. Supernytt sin egen podkast hører du i appen NRK Radio! NRK Skole har laget undervisningsopplegg og veiledning til hvordan bruke…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/supernytt_forklarer.xml">RSS</a>
@@ -2488,6 +2718,7 @@
     <div class="meta">
       <span class="title">Supertrøtt</span>
       <span class="sub">4 episoder · Barn</span>
+      <p class="desc">Avslutt kveldsstellet med små, underfundige fortellinger som får barna i sovestemning før du sovner selv.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/supertroett.xml">RSS</a>
@@ -2500,6 +2731,7 @@
     <div class="meta">
       <span class="title">Sámi Horror</span>
       <span class="sub">45 episoder · Kultur og samfunn</span>
+      <p class="desc">Sápmelaččain lea guhkes muitalanvierru ja mii leat viššalat baldalit nubbi nuppi. Čohkkehastte gullat issoras ja čilgetmeahttun fearániid.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/smi_horror.xml">RSS</a>
@@ -2512,6 +2744,7 @@
     <div class="meta">
       <span class="title">Sånn er du</span>
       <span class="sub">90 episoder · Humor og prateprogram</span>
+      <p class="desc">Harald Eia og Nils Brenna analyserer kjente personer med personlighetstesten &#34;Big 5&#34;.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/saann_er_du.xml">RSS</a>
@@ -2524,6 +2757,7 @@
     <div class="meta">
       <span class="title">Tazte Priv</span>
       <span class="sub">12 episoder · Humor og prateprogram</span>
+      <p class="desc">Tazte priv var et populært radioprogram med Bård Tufte Johansen og Harald Eia om ble sendt på NRK P3 tolv lørdager i 2004. Nå får du alt som ble sendt som podkast. Musikken er fjernet pga rettigheter.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/tazte_priv.xml">RSS</a>
@@ -2536,6 +2770,7 @@
     <div class="meta">
       <span class="title">Teige lydstudio</span>
       <span class="sub">24 episoder · Humor og prateprogram</span>
+      <p class="desc">Satire, tull og absurd moro i denne helt nye humorpodkasten!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/teige_lydstudio.xml">RSS</a>
@@ -2548,6 +2783,7 @@
     <div class="meta">
       <span class="title">Tett på</span>
       <span class="sub">109 episoder · Kultur og samfunn</span>
+      <p class="desc">Ikke alle samer bor på vidda med massevis av rein. Denne podkasten er din døråpner til Sápmi – som trolig er mye mer sammensatt enn du visste. Programleder er Svein Lian, og redaktør er Jan Roger Østby.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/tett_paa.xml">RSS</a>
@@ -2560,6 +2796,7 @@
     <div class="meta">
       <span class="title">The Kåss Furuseths</span>
       <span class="sub">406 episoder · Humor og prateprogram</span>
+      <p class="desc">Ingen bør være alene på søndager! Else drar hjem til kjente personer for å finne god stemning og hyggelig selskap. Hjertelig velkommen skal du være!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/the_kaass_furuseths.xml">RSS</a>
@@ -2572,6 +2809,7 @@
     <div class="meta">
       <span class="title">Timeout</span>
       <span class="sub">24 episoder · Sport</span>
+      <p class="desc">De gode – og ukjente – historiene fra Norges store håndballprofiler. Et annerledes portrett i en timeout fra hverdagen for kjente og kjære håndballnavn</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/timeout.xml">RSS</a>
@@ -2584,6 +2822,7 @@
     <div class="meta">
       <span class="title">To hvite menn</span>
       <span class="sub">6 episoder · Dokumentar</span>
+      <p class="desc">I 2009 ble Joshua French og Tjostolv Moland dømt til døden i DR Kongo, etter at sjåføren deres ble drept. Hvem var de to nordmennene som satte seg på en motorsykkel og kjørte inn jungelen? Og hva skulle de der? I…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/to_hvite_menn.xml">RSS</a>
@@ -2596,6 +2835,7 @@
     <div class="meta">
       <span class="title">Tomms afrikanske fortellinger</span>
       <span class="sub">17 episoder · Kultur og samfunn</span>
+      <p class="desc">Tomm Kristiansen har vært Afrika-korrespondent for NRK i mange år. Han har truffet mennesker i byen og i bushen og vært øyenvitne til de flere av Afrikas viktigste øyeblikk. I denne podcastserien forteller han personlig…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/tomms_afrikanske_fortellinger.xml">RSS</a>
@@ -2608,6 +2848,7 @@
     <div class="meta">
       <span class="title">Tore og Einars podkast om Norge</span>
       <span class="sub">16 episoder · Humor og prateprogram</span>
+      <p class="desc">Tore og Einars podkast om Norge - i anledning grunnlovsjubileet 1814-2014. To norske eksperter gjør opp regnskap etter tohundre år med såkalt grunnlov.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/tore_og_einars_podkast_om_norge.xml">RSS</a>
@@ -2620,6 +2861,7 @@
     <div class="meta">
       <span class="title">Tore Sagens podkast</span>
       <span class="sub">26 episoder · Kultur og samfunn</span>
+      <p class="desc">Tore snakker med folk som har noe interessant å fortelle, så slipper du å gjøre det.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/tore_sagens_podkast.xml">RSS</a>
@@ -2632,6 +2874,7 @@
     <div class="meta">
       <span class="title">Treningskompis</span>
       <span class="sub">31 episoder · Sport</span>
+      <p class="desc">Norges beste idrettsutøvere gjør sine favorittøkter sammen med deg. Ta på treningstøy, velg en idrettshelt - og tren!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/treningskompis.xml">RSS</a>
@@ -2644,6 +2887,7 @@
     <div class="meta">
       <span class="title">Trump mot verden</span>
       <span class="sub">96 episoder · Nyheter</span>
+      <p class="desc">«Trump mot verden» ble Nordens største podkast om amerikansk politikk. Podkasten forklarte det som skjedde i USA med de samme metodene og virkemidlene som brukes i Tv-serier og filmer. De samme virkemidlene president…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/trump_mot_verden.xml">RSS</a>
@@ -2656,6 +2900,7 @@
     <div class="meta">
       <span class="title">Trygdekontoret</span>
       <span class="sub">166 episoder · Kultur og samfunn</span>
+      <p class="desc">Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/trygdekontoret.xml">RSS</a>
@@ -2668,6 +2913,7 @@
     <div class="meta">
       <span class="title">Træsh</span>
       <span class="sub">219 episoder · Humor og prateprogram</span>
+      <p class="desc">Ingrid Moholt Waaler tar deg med gjennom jungelen av deilig, søplete popkultur.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/traesh.xml">RSS</a>
@@ -2680,6 +2926,7 @@
     <div class="meta">
       <span class="title">Turister</span>
       <span class="sub">7 episoder · Lyddrama</span>
+      <p class="desc">En partytur til Syden utvikler seg til en thriller på liv og død. Etter ett døgn i en masete turistby har fire norske ungdommer fått nok av fulle briter og barnefamilier. I jakten på eksklusive opplevelser, blir de…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/turister.xml">RSS</a>
@@ -2692,6 +2939,7 @@
     <div class="meta">
       <span class="title">Tyrann</span>
       <span class="sub">92 episoder · Dokumentar</span>
+      <p class="desc">Noen mennesker har rett og slett gjort verden til et dårligere sted. Morderiske, korrupte og maktsyke ledere med helt vanvittige historier. Nye Tyranner blir publisert hver måned. Tyrann er en versjonering av den danske…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/tyrann.xml">RSS</a>
@@ -2704,6 +2952,7 @@
     <div class="meta">
       <span class="title">Ubåtsaken</span>
       <span class="sub">5 episoder · Dokumentar</span>
+      <p class="desc">NRK følger rettssaken mot Peter Madsen. Han er tiltalt for å ha drept og partert den unge journalisten Kim Wall i selvbygget ubåt.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/ubaatsaken.xml">RSS</a>
@@ -2716,6 +2965,7 @@
     <div class="meta">
       <span class="title">Ukeslutt</span>
       <span class="sub">750 episoder · Nyheter</span>
+      <p class="desc">Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/ukeslutt.xml">RSS</a>
@@ -2728,6 +2978,7 @@
     <div class="meta">
       <span class="title">Ukjent: Er det noen der ute?</span>
       <span class="sub">9 episoder · Dokumentar</span>
+      <p class="desc">Line Elvsåshagen tar deg med ut i universet på jakt etter utenomjordisk liv. Hva er myter og hva er sant om ufoer, aliens og verdensrommet?</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/ukjent.xml">RSS</a>
@@ -2740,6 +2991,7 @@
     <div class="meta">
       <span class="title">Ulrikkes univers</span>
       <span class="sub">10 episoder · Kultur og samfunn</span>
+      <p class="desc">Velkommen til Ulrikke Falch sitt univers - en ærlig og nær podkastserie på 10 episoder. Her får du møte en vidunderlig blanding av Ulrikkes nære venner, mennesker hun beundrer, familiemedlemmer, ekskjæreste, eksperter…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/ulrikkes_univers.xml">RSS</a>
@@ -2752,6 +3004,7 @@
     <div class="meta">
       <span class="title">Urix</span>
       <span class="sub">928 episoder · Nyheter</span>
+      <p class="desc">Bli med ut i verden. Hør historiene og få forklaringene fra Norges største utenriksredaksjon.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/verden_paa_loerdag.xml">RSS</a>
@@ -2764,6 +3017,7 @@
     <div class="meta">
       <span class="title">Utakt</span>
       <span class="sub">972 episoder · Humor og prateprogram</span>
+      <p class="desc">Vi har spist kjøttkaker fra 1945 og håndhilst på Phil Collins. Vi har både trikot og klokkestreng på kontoret. Sånn er Utakt også - litt av alt. Per Øystein Kvindesland og Bjørn Olav Skjæveland tenker høyt, ofte på…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/utakt.xml">RSS</a>
@@ -2776,6 +3030,7 @@
     <div class="meta">
       <span class="title">Utro, håp og kjærlighet</span>
       <span class="sub">83 episoder · Humor og prateprogram</span>
+      <p class="desc">Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/utro_haap_og_kjaerlighet.xml">RSS</a>
@@ -2788,6 +3043,7 @@
     <div class="meta">
       <span class="title">Valg</span>
       <span class="sub">63 episoder · Nyheter</span>
+      <p class="desc">Hør debatter, innslag og intervjuer fra NRKs valgdekning.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/valg.xml">RSS</a>
@@ -2800,6 +3056,7 @@
     <div class="meta">
       <span class="title">Verdens ekleste podkast</span>
       <span class="sub">12 episoder · Barn</span>
+      <p class="desc">Er du nysgjerrig på alt som er ekkelt? Bli med bæsjemonstret inn i det stinkende laboratoriet til kjemiker Alexander Sandtorv.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/verdens_ekleste_podkast.xml">RSS</a>
@@ -2812,6 +3069,7 @@
     <div class="meta">
       <span class="title">Verdens Rikeste Land</span>
       <span class="sub">862 episoder · Humor og prateprogram</span>
+      <p class="desc">Verdens Rikeste Land er NRK P3s underholdende samfunnsprogram! I studio står Niklas Baarli og Tuva Fellman. Sammen med gode gjester drøfter de iriks, uriks og priks (personlig riks).</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/verdens_rikeste_land.xml">RSS</a>
@@ -2824,6 +3082,7 @@
     <div class="meta">
       <span class="title">Verdibørsen</span>
       <span class="sub">1962 episoder · Nyheter</span>
+      <p class="desc">For folk som liker å vite litt mer</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/verdiboersen.xml">RSS</a>
@@ -2836,6 +3095,7 @@
     <div class="meta">
       <span class="title">VG3</span>
       <span class="sub">15 episoder · Dokumentar</span>
+      <p class="desc">VG3: Året det skjer mest i livet. Vi følger fire elever på Molde VGS skoleåret 20/21 – og deres håp om fester, kjærlighet og karriere. Og en skikkelig russetid.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/vg3.xml">RSS</a>
@@ -2848,6 +3108,7 @@
     <div class="meta">
       <span class="title">Vikinger</span>
       <span class="sub">9 episoder · Lyddrama</span>
+      <p class="desc">Serien som vekker vikingene til live. Dramatiserte fortellinger basert på Snorre Sturlassons udødelige historier.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/vikinger.xml">RSS</a>
@@ -2860,6 +3121,7 @@
     <div class="meta">
       <span class="title">Vittig</span>
       <span class="sub">120 episoder · Humor og prateprogram</span>
+      <p class="desc">To tøysekopper byr på ukas vittigste saker. Med komiker Maria Stavang og hennes helt vanlige, dødelige bestevenn – Ingrid Mikkelsen.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/vittig.xml">RSS</a>
@@ -2872,6 +3134,7 @@
     <div class="meta">
       <span class="title">Westworld-podden</span>
       <span class="sub">12 episoder · Kultur og samfunn</span>
+      <p class="desc">Filmpolitiet elsker å nerde om Westworld! I denne podkasten oppsummerer Sigurd og Marte forrige episode, de kaster seg ut i fanteoriland og svarer på spørsmål fra deg som hører på. Ofte med gjester, alltid med…</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/westworld-podden.xml">RSS</a>
@@ -2884,6 +3147,7 @@
     <div class="meta">
       <span class="title">XL – podkasten</span>
       <span class="sub">40 episoder · Humor og prateprogram</span>
+      <p class="desc">XL er en podkast som trakasserer menigmann under mottoet: &#34;Man sparker der man kan&#34;. Programledere er Linn Skåber og Espen Thoresen. Sistnevnte legger lite i mellom når han tramper inn i komfortsonen.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/xl_podkasten.xml">RSS</a>
@@ -2896,6 +3160,7 @@
     <div class="meta">
       <span class="title">Åpen bok</span>
       <span class="sub">2417 episoder · Kultur og samfunn</span>
+      <p class="desc">Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/bok_i_p2.xml">RSS</a>
@@ -2908,6 +3173,7 @@
     <div class="meta">
       <span class="title">Øyeblikket</span>
       <span class="sub">40 episoder · Dokumentar</span>
+      <p class="desc">Du husker ikke dager, men øyeblikk – gode og vonde. Og noen øyeblikk forandrer livet for alltid.</p>
     </div>
     <div class="links">
       <a class="primary" href="feeds/yeblikket.xml">RSS</a>
@@ -2918,12 +3184,6 @@
 </ul>
 
 <p class="empty" id="empty" hidden>Ingen podkaster matcher søket.</p>
-<details class="failures">
-  <summary>1 podkast(er) feilet under siste kjøring</summary>
-  <ul>
-    <li><code>hos_peder</code>: fetching podcast metadata: nrkapi: not found: https://psapi.nrk.no/radio/catalog/podcast/hos_peder</li>
-  </ul>
-</details>
 
 <footer>
   <p>
@@ -2942,8 +3202,12 @@
   var items = Array.prototype.slice.call(list.getElementsByTagName('li'));
 
   
+  
+  
   var haystacks = items.map(function (li) {
-    return (li.getAttribute('data-search') || '').toLowerCase();
+    var desc = li.getElementsByClassName('desc')[0];
+    var text = (li.getAttribute('data-search') || '') + ' ' + (desc ? desc.textContent : '');
+    return text.toLowerCase();
   });
 
   function filter() {

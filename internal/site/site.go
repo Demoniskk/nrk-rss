@@ -251,7 +251,7 @@ func manifestDiffersOnlyByTimestamp(path string, fresh *Manifest, freshBytes []b
 }
 
 func writeIndex(path string, m *Manifest) error {
-	tmpl, err := template.New("index").Parse(indexTemplate)
+	tmpl, err := template.New("index").Funcs(indexFuncs).Parse(indexTemplate)
 	if err != nil {
 		return fmt.Errorf("site: parsing index template: %w", err)
 	}

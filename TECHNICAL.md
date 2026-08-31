@@ -9,6 +9,7 @@ the interesting parts were things NRK's API does that its shape doesn't suggest.
 - [Findings](#findings)
   - [NRK rate-limits hard, and punishes you for arguing](#nrk-rate-limits-hard-and-punishes-you-for-arguing)
   - [A CI timeout would have silently destroyed the backfill](#a-ci-timeout-would-have-silently-destroyed-the-backfill)
+  - [Two Pages deployments raced each other](#two-pages-deployments-raced-each-other)
   - [Making "no empty commits" actually true](#making-no-empty-commits-actually-true)
   - [What "every podcast" actually means](#what-every-podcast-actually-means)
   - [The page size caps at exactly 50](#the-page-size-caps-at-exactly-50)
@@ -140,6 +141,36 @@ actually arrives. So `ctx.Err()` is still nil, and the first version reported 12
 podcasts as having **failed** when the run had simply ended. The limiter now
 reports that refusal as the context error, and the scraper treats it as the run
 ending rather than as broken podcasts.
+
+### Two Pages deployments raced each other
+
+The `update` workflow originally finished with `actions/upload-pages-artifact`
+and an `actions/deploy-pages` job — the modern GitHub Actions way to publish.
+But Pages was also configured the classic way, deploying from `main`'s `docs/`
+directory, which makes GitHub run its own `pages-build-deployment` on every
+push.
+
+Each run therefore created two deployments to the same `github-pages`
+environment, seconds apart: one from the deploy job, one from the commit that
+job had just pushed. Usually both got through. Once they overlapped closely
+enough that the later one lost:
+
+```
+09:50:49  deployment  sha 4d92450  (deploy-pages job)      -> success  09:51:05
+09:50:54  deployment  sha 3027129  (push-triggered build)  -> failure  09:51:02
+```
+
+Nothing was actually broken — the loser of the race is redundant by definition,
+and the site served the right content throughout. But it surfaced as a red run
+in the Actions tab, which is the kind of noise that teaches you to stop reading
+red runs.
+
+The fix was to delete the deploy job and keep the branch-based deployment.
+One publisher instead of two, no `pages: write` or `id-token: write`
+permissions, and no tarring and uploading 80 MB of `docs/` on every run. It
+also fixed something separate: only `update` had the deploy job, so a fresh
+`scrape-all` used to leave the site untouched until the next daily run. Now any
+push publishes.
 
 ### Making "no empty commits" actually true
 

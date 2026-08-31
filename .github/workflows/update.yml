@@ -18,10 +18,13 @@ on:
         required: false
         default: "3"
 
+# Publishing is not done here. Pages is configured to deploy from the main
+# branch's docs/ directory, so GitHub's own pages-build-deployment picks up the
+# commit below on its own. Adding an actions/deploy-pages job as well meant two
+# deployments raced for the github-pages environment on every run, and the
+# loser was recorded as a failed deployment.
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: nrk-scrape
@@ -31,8 +34,6 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 60
-    outputs:
-      changed: ${{ steps.commit.outputs.changed }}
 
     steps:
       - uses: actions/checkout@v4
@@ -63,7 +64,6 @@ jobs:
             --max-duration 50m
 
       - name: Commit state and generated site
-        id: commit
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -73,28 +73,9 @@ jobs:
           # fill the history with empty commits.
           if [ -z "$(git status --porcelain -- state docs)" ]; then
             echo "No changes to commit."
-            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
           git commit -m "chore: update NRK podcast feeds"
           git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
-          echo "changed=true" >> "$GITHUB_OUTPUT"
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: docs
-
-  # Deployment is a separate job so the commit above is not held up by it, and
-  # so a Pages misconfiguration cannot lose a successful scrape.
-  deploy:
-    needs: update
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4

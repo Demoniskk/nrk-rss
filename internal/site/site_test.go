@@ -9,6 +9,7 @@ import (
 	"strings"
 	"testing"
 	"time"
+	"unicode/utf8"
 
 	"github.com/Demoniskk/nrk-rss/internal/store"
 )
@@ -124,7 +125,14 @@ func TestExport(t *testing.T) {
 		t.Fatalf("reading index.html: %v", err)
 	}
 	page := string(html)
-	for _, want := range []string{"Podkast Én", `href="feeds/p1.xml"`, `id="q"`} {
+	for _, want := range []string{
+		"Podkast Én", `href="feeds/p1.xml"`, `id="q"`,
+		// The description is shown on the card, not just carried in feeds.json.
+		`class="desc"`, "Om &amp; om igjen",
+		// Mobile: a viewport that scales to the device, and the breakpoint
+		// that moves the action buttons onto their own row.
+		`name="viewport"`, "@media (max-width: 34rem)",
+	} {
 		if !strings.Contains(page, want) {
 			t.Errorf("index.html missing %q", want)
 		}
@@ -132,6 +140,43 @@ func TestExport(t *testing.T) {
 	// html/template must escape the ampersand rather than emit it raw.
 	if strings.Contains(page, "Om & om") {
 		t.Error("index.html contains an unescaped ampersand")
+	}
+	// p2 has no description, so it must not get an empty description element.
+	if strings.Count(page, `class="desc"`) != 1 {
+		t.Errorf("expected exactly one rendered description, got %d",
+			strings.Count(page, `class="desc"`))
+	}
+}
+
+func TestSummarise(t *testing.T) {
+	long := strings.Repeat("ærlig ", 200) // multi-byte, well over the limit
+
+	tests := []struct {
+		name string
+		in   string
+		want string
+	}{
+		{"collapses whitespace", "Rett etter\n  terroren\tkom", "Rett etter terroren kom"},
+		{"leaves short text alone", "Kort.", "Kort."},
+		{"trims trailing empty lines", "  Hei  ", "Hei"},
+	}
+	for _, tt := range tests {
+		if got := summarise(tt.in); got != tt.want {
+			t.Errorf("%s: summarise(%q) = %q, want %q", tt.name, tt.in, got, tt.want)
+		}
+	}
+
+	got := summarise(long)
+	if !strings.HasSuffix(got, "…") {
+		t.Errorf("a truncated summary should end in an ellipsis, got %q", got)
+	}
+	// The limit counts runes, so a Norwegian description must not be cut
+	// roughly in half just because its characters are two bytes wide.
+	if n := len([]rune(got)); n > summaryLimit+1 || n < summaryLimit/2 {
+		t.Errorf("truncated summary is %d runes, want about %d", n, summaryLimit)
+	}
+	if !utf8.ValidString(got) {
+		t.Error("truncation split a multi-byte character")
 	}
 }
 

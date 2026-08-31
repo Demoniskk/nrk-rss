@@ -32,7 +32,8 @@ podcast and finishes in seconds.
 
 ## Setup (if you're forking this)
 
-1. **Settings → Pages → Source: GitHub Actions**
+1. **Settings → Pages → Source: Deploy from a branch → `main` / `docs`.** Both
+   workflows commit the generated site, so GitHub publishes it on every push.
 2. **Actions → `scrape-all` → Run workflow.** This is the one-time backfill of
    the entire back catalogue. It takes hours and will probably need running more
    than once — it stops itself before the job timeout and resumes where it left
@@ -60,12 +61,12 @@ limiter. The generated site is plain HTML, CSS and a little vanilla JavaScript �
 no build step, no framework.
 
 ```
-cmd/nrk-rss/   CLI
-internal/nrkapi/       NRK API client, rate limiting, retries
-internal/store/        SQLite state store
-internal/scrape/       works out what's new, fetches it
-internal/feed/         RSS/iTunes XML generation
-internal/site/         index.html and feeds.json
+cmd/nrk-rss/       CLI
+internal/nrkapi/   NRK API client, rate limiting, retries
+internal/store/    SQLite state store
+internal/scrape/   works out what's new, fetches it
+internal/feed/     RSS/iTunes XML generation
+internal/site/     index.html and feeds.json
 ```
 
 **[TECHNICAL.md](TECHNICAL.md)** — how the incremental update works, what NRK's

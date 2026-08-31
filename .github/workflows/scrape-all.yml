@@ -3,6 +3,9 @@ name: scrape-all
 # Manual only. This is the one-time (or deliberately re-run) full backfill: it
 # pages through every episode of every podcast, which is slow and hits the NRK
 # API hard. The daily job is update.yml.
+#
+# Publishing happens by itself: Pages deploys from main's docs/ directory, so
+# the commit at the end of this job is what updates the site.
 on:
   workflow_dispatch:
     inputs:

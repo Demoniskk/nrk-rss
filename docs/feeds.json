@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-31T09:50:23Z",
-  "latest_episode": "2026-08-31T08:05:00Z",
+  "generated_at": "2026-08-31T17:43:08Z",
+  "latest_episode": "2026-08-31T17:00:00Z",
   "source": "https://radio.nrk.no/",
   "podcast_count": 234,
-  "episode_count": 59311,
+  "episode_count": 59316,
   "podcasts": [
     {
       "id": "22_juli_-_hvordan_kunne_det_skje",
@@ -88,10 +88,10 @@
       "description": "VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.",
       "category": "Sport",
       "image_url": "https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A",
-      "episode_count": 97,
+      "episode_count": 98,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml",
       "nrk_url": "https://radio.nrk.no/podkast/bakrommet",
-      "latest_episode": "2026-08-24T12:50:00Z"
+      "latest_episode": "2026-08-31T12:01:00Z"
     },
     {
       "id": "baksnakk",
@@ -264,10 +264,10 @@
       "description": "Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw",
-      "episode_count": 3637,
+      "episode_count": 3638,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml",
       "nrk_url": "https://radio.nrk.no/podkast/dagsnytt_atten",
-      "latest_episode": "2026-08-27T17:00:00Z"
+      "latest_episode": "2026-08-31T17:00:00Z"
     },
     {
       "id": "p060ms2h",
@@ -352,10 +352,10 @@
       "description": "Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. ",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA",
-      "episode_count": 955,
+      "episode_count": 956,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml",
       "nrk_url": "https://radio.nrk.no/podkast/drivkraft",
-      "latest_episode": "2026-08-27T10:15:00Z"
+      "latest_episode": "2026-08-31T12:30:00Z"
     },
     {
       "id": "karakter",
@@ -418,10 +418,10 @@
       "description": "Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. \n\n\n",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q",
-      "episode_count": 7654,
+      "episode_count": 7655,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml",
       "nrk_url": "https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram",
-      "latest_episode": "2026-08-27T11:23:00Z"
+      "latest_episode": "2026-08-31T12:00:00Z"
     },
     {
       "id": "eventyrerne",
@@ -1969,10 +1969,10 @@
       "description": "Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
-      "episode_count": 325,
+      "episode_count": 326,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml",
       "nrk_url": "https://radio.nrk.no/podkast/siesta",
-      "latest_episode": "2026-08-27T04:00:00Z"
+      "latest_episode": "2026-08-31T04:00:00Z"
     },
     {
       "id": "sjakksnakk",

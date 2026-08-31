@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 27 Aug 2026 11:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Når hele Norge Sørger</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_14a0e525-a95f-47e8-a0e5-25a95f97e8c2</link>
+      <description>Mange er blitt overrasket over hvor sterkt kong Haralds død har berørt dem. Hvorfor søker vi sammen, legger ned blomster og tenner lys når en konge dør?</description>
+      <guid isPermaLink="false">l_14a0e525-a95f-47e8-a0e5-25a95f97e8c2</guid>
+      <pubDate>Mon, 31 Aug 2026 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/14a0e525-a95f-47e8-a0e5-25a95f97e8c2_1_ID192MP3.mp3" type="audio/mpeg" length="76790636"></enclosure>
+      <itunes:title>Når hele Norge Sørger</itunes:title>
+      <itunes:summary>Mange er blitt overrasket over hvor sterkt kong Haralds død har berørt dem. Hvorfor søker vi sammen, legger ned blomster og tenner lys når en konge dør?</itunes:summary>
+      <itunes:duration>3199</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/buXWqUIC9kbo8lOMwealgg093hDoI_OWmL1nvnAwELKA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2026">202608</podcast:season>
+    </item>
     <item>
       <title>Trumps USA: Carney slår tilbake</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_96e6b870-d7b7-4ecc-a6b8-70d7b78ecc29</link>

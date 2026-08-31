@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 27 Aug 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Hva betyr borgfred?</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_3cbd0569-1bd2-464e-bd05-691bd2c64e81</link>
+      <description>Partiene på stortinget er enige om «borgfred» frem til kongens begravelse. Hva betyr det for den offentlige samtalen?</description>
+      <guid isPermaLink="false">l_3cbd0569-1bd2-464e-bd05-691bd2c64e81</guid>
+      <pubDate>Mon, 31 Aug 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3cbd0569-1bd2-464e-bd05-691bd2c64e81_1_ID192MP3.mp3" type="audio/mpeg" length="84995756"></enclosure>
+      <itunes:title>Hva betyr borgfred?</itunes:title>
+      <itunes:summary>Partiene på stortinget er enige om «borgfred» frem til kongens begravelse. Hva betyr det for den offentlige samtalen?</itunes:summary>
+      <itunes:duration>3541</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fyx-xTAaW_eFq8Z0ghC4lAm5oWGQ5g677QhMX-kQlJbA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2026">202608</podcast:season>
+    </item>
     <item>
       <title>Kongens tilstand er forverret</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_6a2b5c24-393d-451e-ab5c-24393d951e08</link>

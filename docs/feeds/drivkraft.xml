@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 27 Aug 2026 10:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Tonje Gilje</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_12584dcc-6666-46c9-984d-cc666606c972</link>
+      <description>– Lykken er å game fra fredag til søndag. Å glemme  dusjing og spising, bare være helt nerd! sier  Flipp Klipp- profilen.</description>
+      <guid isPermaLink="false">l_12584dcc-6666-46c9-984d-cc666606c972</guid>
+      <pubDate>Mon, 31 Aug 2026 14:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/12584dcc-6666-46c9-984d-cc666606c972_1_ID192MP3.mp3" type="audio/mpeg" length="82727468"></enclosure>
+      <itunes:title>Tonje Gilje</itunes:title>
+      <itunes:summary>– Lykken er å game fra fredag til søndag. Å glemme  dusjing og spising, bare være helt nerd! sier  Flipp Klipp- profilen.</itunes:summary>
+      <itunes:duration>3446</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/06J2wPDIhNgZbFU0_oPSZgw_no5z8pgEBlJeUXhO_9LA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2026">202608</podcast:season>
+    </item>
     <item>
       <title>Claude Bonde</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_a4222b37-58ae-4e46-a22b-3758ae1e46cd</link>

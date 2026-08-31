@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 12:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:01:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Kongen hedret og Europa-suksess.</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_e9404491-5638-4db4-8044-9156384db421</link>
+      <description>Europa neste for fire norske lag, Nusa og Haaland viser klasse og fotballheder til kongen i helgen. I tillegg lukkes overgangsvinduet straks.</description>
+      <guid isPermaLink="false">l_e9404491-5638-4db4-8044-9156384db421</guid>
+      <pubDate>Mon, 31 Aug 2026 14:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/e9404491-5638-4db4-8044-9156384db421_1_ID192MP3.mp3" type="audio/mpeg" length="48625964"></enclosure>
+      <itunes:title>Kongen hedret og Europa-suksess.</itunes:title>
+      <itunes:summary>Europa neste for fire norske lag, Nusa og Haaland viser klasse og fotballheder til kongen i helgen. I tillegg lukkes overgangsvinduet straks.</itunes:summary>
+      <itunes:duration>2026</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Vi er klare for høstens fotballfest!</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_6cddad2d-d11d-4e70-9dad-2dd11d9e7069</link>

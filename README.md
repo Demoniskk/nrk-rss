@@ -165,9 +165,34 @@ byte-identical.
   cost a fourth call per episode, which is why they sit behind `--rich` instead
   of being on by default.
 
-Also worth knowing: the catalogue mixes in entries of type `customSeason`
-(362 of them versus 235 real podcasts at time of writing). Those are slices of
-other series, not podcasts, and are filtered out.
+### What "every podcast" actually means
+
+The catalogue call returns 597 entries: **235 of type `podcast` and 362 of type
+`customSeason`**. Only the 235 are scraped, which sounds like dropping more than
+half the catalogue. It isn't:
+
+- The 362 custom seasons belong to just **26 distinct parent series, and all 26
+  are already in the 235**. They are alternate views of existing podcasts, not
+  separate ones.
+- Checked directly: all 7 episodes of the `11-september` custom season also
+  appear in the episode list of its parent podcast `krig_og_fred`. Scraping the
+  parent picks them up.
+
+The `letters` index in the same response sums to exactly 597, matching the
+entries returned, which confirms `take=1000` is not truncating the catalogue and
+no pagination is needed.
+
+So: every podcast NRK lists in its podcast category, and every episode each one
+returns. Two things are still legitimately skipped — episodes NRK reports as
+non-playable (geo-blocked or expired), which are logged and counted, and
+podcasts that end up with no playable episodes at all, which get no feed file
+because an empty feed is not subscribable.
+
+### The episode-list page size caps at exactly 50
+
+`pageSize=50` returns 200; **51 and above return 400**, and a 400 is not
+retryable, so an over-large `--page-size` would have failed every podcast in the
+run rather than degrading. The client now clamps to 50.
 
 ### A page cap that would have left permanent holes
 

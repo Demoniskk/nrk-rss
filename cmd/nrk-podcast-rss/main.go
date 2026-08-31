@@ -118,8 +118,9 @@ func runScrape(ctx context.Context, args []string, mode scrape.Mode) error {
 		episodeConcurrency = fs.Int("episode-concurrency", 3,
 			"episodes to fetch at once within one podcast "+
 				"(total in-flight requests stay under concurrency x this)")
-		pageSize = fs.Int("page-size", 50, "episode-list page size requested from NRK")
-		reqRate  = fs.Float64("rate", nrkapi.DefaultRate,
+		pageSize = fs.Int("page-size", nrkapi.MaxPageSize,
+			"episode-list page size requested from NRK (max 50; NRK rejects more with a 400)")
+		reqRate = fs.Float64("rate", nrkapi.DefaultRate,
 			"sustained NRK API requests per second across all workers; "+
 				"NRK rate-limits hard, so raise this with care")
 		userAgent = fs.String("user-agent", nrkapi.DefaultUserAgent, "User-Agent sent to NRK")

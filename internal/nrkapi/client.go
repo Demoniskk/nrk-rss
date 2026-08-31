@@ -41,6 +41,10 @@ const (
 	// DefaultAssetRate paces HEAD requests for audio files. Those go to the
 	// podcast CDN rather than the API, so they get their own budget.
 	DefaultAssetRate = 8.0
+	// MaxPageSize is the largest episode-list page NRK will serve. Measured
+	// against the live API: 50 returns 200, and 51 and above return 400. It is
+	// also the endpoint's default.
+	MaxPageSize = 50
 )
 
 // Client talks to the NRK programme-service API. It is safe for concurrent
@@ -357,12 +361,15 @@ func (c *Client) GetPodcast(ctx context.Context, podcastID string) (*PodcastResp
 
 // EpisodePage fetches one page of a podcast's episodes. Pages are 1-based and
 // ordered newest-first.
+//
+// pageSize is clamped to MaxPageSize: NRK rejects anything larger with a 400,
+// which is not retryable and would otherwise fail every podcast in the run.
 func (c *Client) EpisodePage(ctx context.Context, podcastID string, page, pageSize int) (*EpisodesResponse, error) {
 	if page < 1 {
 		page = 1
 	}
-	if pageSize < 1 {
-		pageSize = 50
+	if pageSize < 1 || pageSize > MaxPageSize {
+		pageSize = MaxPageSize
 	}
 	u := fmt.Sprintf("%s/radio/catalog/podcast/%s/episodes?pageSize=%d&page=%d",
 		c.base(), url.PathEscape(podcastID), pageSize, page)

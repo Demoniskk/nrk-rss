@@ -212,6 +212,36 @@ func TestHeadAssetToleratesMissingLength(t *testing.T) {
 	}
 }
 
+// NRK serves at most 50 episodes per page and answers anything larger with a
+// non-retryable 400, so an over-large --page-size must be clamped rather than
+// failing every podcast in the run.
+func TestEpisodePageClampsPageSize(t *testing.T) {
+	var got string
+	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		got = r.URL.Query().Get("pageSize")
+		w.Write([]byte(`{"_embedded":{"episodes":[]},"_links":{}}`))
+	}))
+	defer srv.Close()
+
+	c := testClient(t, srv.URL)
+	for _, in := range []int{0, -1, 51, 500, 10000} {
+		if _, err := c.EpisodePage(context.Background(), "p1", 1, in); err != nil {
+			t.Fatalf("EpisodePage(pageSize=%d): %v", in, err)
+		}
+		if got != "50" {
+			t.Errorf("pageSize=%d was sent as %q, want 50", in, got)
+		}
+	}
+
+	// A legal value must be passed through untouched.
+	if _, err := c.EpisodePage(context.Background(), "p1", 1, 20); err != nil {
+		t.Fatalf("EpisodePage(20): %v", err)
+	}
+	if got != "20" {
+		t.Errorf("pageSize=20 was sent as %q, want 20", got)
+	}
+}
+
 func TestListPodcastsFiltersNonPodcasts(t *testing.T) {
 	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		w.Write([]byte(`{"series":[

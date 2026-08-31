@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-31T07:51:27Z",
-  "latest_episode": "2026-08-31T06:00:00Z",
+  "generated_at": "2026-08-31T09:50:23Z",
+  "latest_episode": "2026-08-31T08:05:00Z",
   "source": "https://radio.nrk.no/",
   "podcast_count": 234,
-  "episode_count": 59309,
+  "episode_count": 59311,
   "podcasts": [
     {
       "id": "22_juli_-_hvordan_kunne_det_skje",
@@ -1705,10 +1705,10 @@
       "description": "Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew",
-      "episode_count": 3615,
+      "episode_count": 3617,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml",
       "nrk_url": "https://radio.nrk.no/podkast/p3morgen",
-      "latest_episode": "2026-08-29T04:00:00Z"
+      "latest_episode": "2026-08-31T08:05:00Z"
     },
     {
       "id": "politisk_kvarter",

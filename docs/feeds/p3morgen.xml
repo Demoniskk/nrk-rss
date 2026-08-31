@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 29 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:05:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>B-mennesker: Politiker på døra</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_ecf3a414-29b0-4ab0-b3a4-1429b0bab032</link>
+      <description>Hvordan reagerer man når en politiker kommer på besøk?</description>
+      <guid isPermaLink="false">l_ecf3a414-29b0-4ab0-b3a4-1429b0bab032</guid>
+      <pubDate>Mon, 31 Aug 2026 10:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ecf3a414-29b0-4ab0-b3a4-1429b0bab032_1_ID192MP3.mp3" type="audio/mpeg" length="28790828"></enclosure>
+      <itunes:title>B-mennesker: Politiker på døra</itunes:title>
+      <itunes:summary>Hvordan reagerer man når en politiker kommer på besøk?</itunes:summary>
+      <itunes:duration>1199</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/XGvdYVlntt7mKQgNzKSsEAlegpqXFKe-v_Lcedym1IKA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2026">202608</podcast:season>
+    </item>
+    <item>
+      <title>Vi mimrer med Trond-Viggo</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_b4955542-46b6-4a73-9555-4246b61a73b5</link>
+      <description>God mandag! Vi får blant annet besøk av Trond-Viggo Torgersen for å mimre tilbake. Og kom alle kongesangene litt for tidlig?</description>
+      <guid isPermaLink="false">l_b4955542-46b6-4a73-9555-4246b61a73b5</guid>
+      <pubDate>Mon, 31 Aug 2026 09:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b4955542-46b6-4a73-9555-4246b61a73b5_1_ID192MP3.mp3" type="audio/mpeg" length="58294700"></enclosure>
+      <itunes:title>Vi mimrer med Trond-Viggo</itunes:title>
+      <itunes:summary>God mandag! Vi får blant annet besøk av Trond-Viggo Torgersen for å mimre tilbake. Og kom alle kongesangene litt for tidlig?</itunes:summary>
+      <itunes:duration>2428</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CGh6quK2mnhL8p9ShiFLIwltQipJjmxSpcKSZbhDjbCg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="August 2026">202608</podcast:season>
+    </item>
     <item>
       <title>Det beste fra P3morgen</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_d07a7e4b-bc4f-4d34-ba7e-4bbc4fbd34ed</link>

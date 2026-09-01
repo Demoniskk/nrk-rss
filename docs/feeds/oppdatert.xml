@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 30 Aug 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Slottet: Fra elite til «folkets leirbål»</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_c7eca9a9-4cf9-418a-aca9-a94cf9b18ad7</link>
+      <description>Da det kongelige slott ble bygget, var det ikke gitt at det skulle bli folkets samlingspunkt.</description>
+      <guid isPermaLink="false">l_c7eca9a9-4cf9-418a-aca9-a94cf9b18ad7</guid>
+      <pubDate>Tue, 01 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/c7eca9a9-4cf9-418a-aca9-a94cf9b18ad7_1_ID192MP3.mp3" type="audio/mpeg" length="27721196"></enclosure>
+      <itunes:title>Slottet: Fra elite til «folkets leirbål»</itunes:title>
+      <itunes:summary>Da det kongelige slott ble bygget, var det ikke gitt at det skulle bli folkets samlingspunkt.</itunes:summary>
+      <itunes:duration>1155</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R-IKwvwD0D-fgtkaBYx2cQgxDSPdWPkIuztOGcoWcHxQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Tvilte på rollen: Nå er han vår nye konge</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_bd2a15bb-7545-479b-aa15-bb7545e79bfa</link>

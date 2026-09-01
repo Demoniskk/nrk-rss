@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 08:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Jonas trenger tvangstanker.</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_d71a02d9-8fdc-4639-9a02-d98fdcb63917</link>
+      <description>Jonas glemte en pizza i ovnen alt for lenge, Henning vil snakke om internasjonale menyer og Arin har vært i Tunisia før.</description>
+      <guid isPermaLink="false">l_d71a02d9-8fdc-4639-9a02-d98fdcb63917</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d71a02d9-8fdc-4639-9a02-d98fdcb63917_1_ID192MP3.mp3" type="audio/mpeg" length="29594924"></enclosure>
+      <itunes:title>Jonas trenger tvangstanker.</itunes:title>
+      <itunes:summary>Jonas glemte en pizza i ovnen alt for lenge, Henning vil snakke om internasjonale menyer og Arin har vært i Tunisia før.</itunes:summary>
+      <itunes:duration>1233</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x7e_-bS0Um-QJPrupwswvAZIXvv1YP7FLUqWa_z02AwA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>B-mennesker: Politiker på døra</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_ecf3a414-29b0-4ab0-b3a4-1429b0bab032</link>

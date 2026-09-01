@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Avgiftshopp</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_caf55a71-b130-4485-b55a-71b130d485c1</link>
+      <description>I dag er det slutt på det politisk vedtatte avgiftsfritaket for bensin og diesel. Fornuftig?</description>
+      <guid isPermaLink="false">l_caf55a71-b130-4485-b55a-71b130d485c1</guid>
+      <pubDate>Tue, 01 Sep 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/caf55a71-b130-4485-b55a-71b130d485c1_1_ID192MP3.mp3" type="audio/mpeg" length="21744620"></enclosure>
+      <itunes:title>Avgiftshopp</itunes:title>
+      <itunes:summary>I dag er det slutt på det politisk vedtatte avgiftsfritaket for bensin og diesel. Fornuftig?</itunes:summary>
+      <itunes:duration>905</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/17Wo5kIm8Vztb625XEFsGwEptcJbeoihueFvs3fSz7tw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Island sa Nei</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_3db47444-9667-43cc-b474-449667c3cc74</link>

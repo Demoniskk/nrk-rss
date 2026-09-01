@@ -3,14 +3,14 @@
   <channel>
     <title>Kommentert</title>
     <link>https://radio.nrk.no/podkast/kommentert</link>
-    <description>De store sakene fra nyhetsbildet forklart av Tone Sofie Aglen, Cecilie Langum Becker og Lars Nehru Sand. Programleder er Eivind Waage.</description>
+    <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
     <lastBuildDate>Fri, 28 Aug 2026 18:34:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
-    <itunes:summary>De store sakene fra nyhetsbildet forklart av Tone Sofie Aglen, Cecilie Langum Becker og Lars Nehru Sand. Programleder er Eivind Waage.</itunes:summary>
+    <itunes:summary>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</itunes:summary>
     <itunes:owner>
       <itunes:name>NRK</itunes:name>
     </itunes:owner>

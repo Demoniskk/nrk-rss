@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Laksekongen - med Svein Sæter</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_9d7c99e8-f5dd-4dd6-bc99-e8f5ddddd649</link>
+      <description>Noen ganger er det med konger som med små barn, forteller forfatteren Svein Sæter</description>
+      <guid isPermaLink="false">l_9d7c99e8-f5dd-4dd6-bc99-e8f5ddddd649</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9d7c99e8-f5dd-4dd6-bc99-e8f5ddddd649_1_ID192MP3.mp3" type="audio/mpeg" length="4443884"></enclosure>
+      <itunes:title>Laksekongen - med Svein Sæter</itunes:title>
+      <itunes:summary>Noen ganger er det med konger som med små barn, forteller forfatteren Svein Sæter</itunes:summary>
+      <itunes:duration>185</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5wWhHh0P4y7wm8X5dNHN4ANDF_rZAE1cpXHMxj7Dsy7A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Trekkspillprinsessa - med Gunn Marit Nisja</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_559004c0-1f9d-49a0-9004-c01f9de9a075</link>

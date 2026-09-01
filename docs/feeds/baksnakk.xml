@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 28 Aug 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Syk prank, gay best friend og dusjing i mørket</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_67b6a0e4-bbd1-420a-b6a0-e4bbd1620a5e</link>
+      <description>Sade deler sin villeste prank, og Sofie har blitt hacket.</description>
+      <guid isPermaLink="false">l_67b6a0e4-bbd1-420a-b6a0-e4bbd1620a5e</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/67b6a0e4-bbd1-420a-b6a0-e4bbd1620a5e_1_ID192MP3.mp3" type="audio/mpeg" length="65446892"></enclosure>
+      <itunes:title>Syk prank, gay best friend og dusjing i mørket</itunes:title>
+      <itunes:summary>Sade deler sin villeste prank, og Sofie har blitt hacket.</itunes:summary>
+      <itunes:duration>2726</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Nødt eller sannhet, mobilfri uke og amputasjon</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_c3693418-d130-450d-a934-18d130f50d77</link>

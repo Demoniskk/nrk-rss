@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 30 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Siri Kristiansen: Sammen for bestandig</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_21162724-4f03-4899-9627-244f030899da</link>
+      <description>Siri Kristiansen forteller om oppvekst, kjærlighetslivet og hvorfor det tok åtte år fra første møtet til den første daten med ektemannen.</description>
+      <guid isPermaLink="false">l_21162724-4f03-4899-9627-244f030899da</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/21162724-4f03-4899-9627-244f030899da_1_ID192MP3.mp3" type="audio/mpeg" length="58461740"></enclosure>
+      <itunes:title>Siri Kristiansen: Sammen for bestandig</itunes:title>
+      <itunes:summary>Siri Kristiansen forteller om oppvekst, kjærlighetslivet og hvorfor det tok åtte år fra første møtet til den første daten med ektemannen.</itunes:summary>
+      <itunes:duration>2435</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZOFC-nnUKDrxfQKHzioKYgRPd9bALZs8SA1HotmGmJ5w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Panelet: Tarotkort og psykologtime</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_afa93a89-71e6-436b-a93a-8971e6536b43</link>

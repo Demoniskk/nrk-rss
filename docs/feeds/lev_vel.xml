@@ -6,7 +6,7 @@
     <description>Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lev_vel.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lev vel</title>
       <link>https://radio.nrk.no/podkast/lev_vel</link>
     </image>
+    <item>
+      <title>På hjertet: Hvordan motivere seg for høsten</title>
+      <link>https://radio.nrk.no/podkast/lev_vel/l_a1161de5-72f8-4bfc-961d-e572f88bfc75</link>
+      <description>Hvordan har Linnéa taklet en sommer uten alkohol? Og hva skal til for å unngå vinterdepresjon? Linnéa oppsummerer sommeren og setter nye mål for september.</description>
+      <guid isPermaLink="false">l_a1161de5-72f8-4bfc-961d-e572f88bfc75</guid>
+      <pubDate>Tue, 01 Sep 2026 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/a1161de5-72f8-4bfc-961d-e572f88bfc75_1_ID192MP3.mp3" type="audio/mpeg" length="41099948"></enclosure>
+      <itunes:title>På hjertet: Hvordan motivere seg for høsten</itunes:title>
+      <itunes:summary>Hvordan har Linnéa taklet en sommer uten alkohol? Og hva skal til for å unngå vinterdepresjon? Linnéa oppsummerer sommeren og setter nye mål for september.</itunes:summary>
+      <itunes:duration>1712</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/RPyy1A2Jk0-GzpcdlrScEgd0MiLbJJHJXlmglZ5KjM1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Slik unngår du brudd</title>
       <link>https://radio.nrk.no/podkast/lev_vel/l_c888b58b-432b-4625-88b5-8b432be62530</link>

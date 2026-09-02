@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Wrestling i hjemmet</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_cafe2b90-6d64-4be9-be2b-906d649be931</link>
+      <description>Abu har vært på wrestling og interessen smitter over. GTA 6 er rett rundt hjørnet, det lukter virtuell knulling.</description>
+      <guid isPermaLink="false">l_cafe2b90-6d64-4be9-be2b-906d649be931</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/cafe2b90-6d64-4be9-be2b-906d649be931_1_ID192MP3.mp3" type="audio/mpeg" length="56791340"></enclosure>
+      <itunes:title>Wrestling i hjemmet</itunes:title>
+      <itunes:summary>Abu har vært på wrestling og interessen smitter over. GTA 6 er rett rundt hjørnet, det lukter virtuell knulling.</itunes:summary>
+      <itunes:duration>2366</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Kongen er død, leve kongen!</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_872a72e3-a1df-4d21-aa72-e3a1dfbd218d</link>

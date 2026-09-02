@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Norge i rødt, blått og grønt kaos</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_4b36d642-2198-4cb9-b6d6-4221987cb971</link>
+      <description>Tromsø er satt på Robek-lista.&#xA;Ordførerkandidat i Trondheim trakk seg etter Trump-hyllest.&#xA;Og MDG-topp i Oslo anklages for kjeft og baksnakking.</description>
+      <guid isPermaLink="false">l_4b36d642-2198-4cb9-b6d6-4221987cb971</guid>
+      <pubDate>Wed, 02 Sep 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4b36d642-2198-4cb9-b6d6-4221987cb971_1_ID192MP3.mp3" type="audio/mpeg" length="21575852"></enclosure>
+      <itunes:title>Norge i rødt, blått og grønt kaos</itunes:title>
+      <itunes:summary>Tromsø er satt på Robek-lista.&#xA;Ordførerkandidat i Trondheim trakk seg etter Trump-hyllest.&#xA;Og MDG-topp i Oslo anklages for kjeft og baksnakking.</itunes:summary>
+      <itunes:duration>898</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Mbj8CD2WSSpl0h1ppedkPQY18IsJzcMYwoYFBTYUuegw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Avgiftshopp</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_caf55a71-b130-4485-b55a-71b130d485c1</link>

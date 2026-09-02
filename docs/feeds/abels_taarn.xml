@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Har du ødelagt mobilen?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_24fcd339-fca6-4332-bcd3-39fca65332de</link>
+      <description>Snart kan den reparere seg selv. Dessuten, forsker ville krysse menneske med sjimpanse. Og menneskehjerne har levd flere år på en lab</description>
+      <guid isPermaLink="false">l_24fcd339-fca6-4332-bcd3-39fca65332de</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/24fcd339-fca6-4332-bcd3-39fca65332de_1_ID192MP3.mp3" type="audio/mpeg" length="41408684"></enclosure>
+      <itunes:title>Har du ødelagt mobilen?</itunes:title>
+      <itunes:summary>Snart kan den reparere seg selv. Dessuten, forsker ville krysse menneske med sjimpanse. Og menneskehjerne har levd flere år på en lab</itunes:summary>
+      <itunes:duration>1725</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Kan vinduet ditt gi deg mangelsykdommer?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_28ad645a-dd3d-4293-ad64-5add3d7293fe</link>

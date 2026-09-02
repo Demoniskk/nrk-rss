@@ -6,7 +6,7 @@
     <description>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Krimrommet</title>
       <link>https://radio.nrk.no/podkast/krimrommet</link>
     </image>
+    <item>
+      <title>Clancy (1): Drap eller depresjon?</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_1542b4e7-33ea-41e7-82b4-e733ea51e78c</link>
+      <description>En januardag i 2023 blir tre små barn drept på grusomt vis – i sitt eget hjem. Men kan moren deres straffes for å ha begått drapene?</description>
+      <guid isPermaLink="false">l_1542b4e7-33ea-41e7-82b4-e733ea51e78c</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/1542b4e7-33ea-41e7-82b4-e733ea51e78c_1_ID192MP3.mp3" type="audio/mpeg" length="42200108"></enclosure>
+      <itunes:title>Clancy (1): Drap eller depresjon?</itunes:title>
+      <itunes:summary>En januardag i 2023 blir tre små barn drept på grusomt vis – i sitt eget hjem. Men kan moren deres straffes for å ha begått drapene?</itunes:summary>
+      <itunes:duration>1758</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QPx1ddirCoRcgq68TA5AFw4xQvqxgdSD4Z9mtJ7sWj_Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Kvinnen i kofferten</title>
       <link>https://radio.nrk.no/podkast/krimrommet/l_b0060f09-9498-43a1-860f-09949863a111</link>

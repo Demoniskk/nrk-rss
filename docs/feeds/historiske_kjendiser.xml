@@ -6,7 +6,7 @@
     <description>Idealister, genier og maktgale gærninger; Alexandra Gjerpen vekker historiens største personer til live igjen.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/historiske_kjendiser.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Historiske kjendiser</title>
       <link>https://radio.nrk.no/podkast/historiske_kjendiser</link>
     </image>
+    <item>
+      <title>Grace Kelly – fyrstelig filmstjerne</title>
+      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_00ec851e-622b-4fa5-ac85-1e622b5fa55a</link>
+      <description>Filmstjernen forlot Hollywood for å bli fyrstinne av Monaco.</description>
+      <guid isPermaLink="false">l_00ec851e-622b-4fa5-ac85-1e622b5fa55a</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/00ec851e-622b-4fa5-ac85-1e622b5fa55a_1_ID192MP3.mp3" type="audio/mpeg" length="81523052"></enclosure>
+      <itunes:title>Grace Kelly – fyrstelig filmstjerne</itunes:title>
+      <itunes:summary>Filmstjernen forlot Hollywood for å bli fyrstinne av Monaco.</itunes:summary>
+      <itunes:duration>3396</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aaMyKkzJvTwSIvLoXyXmUAWCT6NN6jG2IaCIpfD1x6dQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Saigō Takamori – siste samurai</title>
       <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_e5dc07cc-9231-4299-9c07-cc9231329947</link>

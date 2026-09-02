@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Boobies på kalkulator</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_21a7607a-6a52-4a56-a760-7a6a529a56ad</link>
+      <description>Daniel mimrer om kalkulatoren, Anna er forbanna på forpulte syklister og vi smalltalker europeiske hovedsteder. Stinker Siesta!</description>
+      <guid isPermaLink="false">l_21a7607a-6a52-4a56-a760-7a6a529a56ad</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/21a7607a-6a52-4a56-a760-7a6a529a56ad_1_ID192MP3.mp3" type="audio/mpeg" length="67211756"></enclosure>
+      <itunes:title>Boobies på kalkulator</itunes:title>
+      <itunes:summary>Daniel mimrer om kalkulatoren, Anna er forbanna på forpulte syklister og vi smalltalker europeiske hovedsteder. Stinker Siesta!</itunes:summary>
+      <itunes:duration>2800</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Stormer ut av studio</title>
       <link>https://radio.nrk.no/podkast/siesta/l_311d0621-3be1-42cf-9d06-213be1b2cf00</link>

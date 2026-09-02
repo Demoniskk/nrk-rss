@@ -6,7 +6,7 @@
     <description>Harald V var konge i Norge fra 1991 til 2026. Her kan du høre viktige lydklipp i forbindelse med tronskiftet. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 29 Aug 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:38:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/harald_v.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Harald V</title>
       <link>https://radio.nrk.no/podkast/harald_v</link>
     </image>
+    <item>
+      <title>Kong Haakon avlegger ed</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_726e6cd2-22ff-496c-ae6c-d222ff296c92</link>
+      <description>I Stortinget lovet Kong Haakon VIII å regjere landet i tråd med Grunnloven.</description>
+      <guid isPermaLink="false">l_726e6cd2-22ff-496c-ae6c-d222ff296c92</guid>
+      <pubDate>Tue, 01 Sep 2026 13:38:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/726e6cd2-22ff-496c-ae6c-d222ff296c92_1_ID192MP3.mp3" type="audio/mpeg" length="1833452"></enclosure>
+      <itunes:title>Kong Haakon avlegger ed</itunes:title>
+      <itunes:summary>I Stortinget lovet Kong Haakon VIII å regjere landet i tråd med Grunnloven.</itunes:summary>
+      <itunes:duration>76</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/B8u0GuiDeM7WyVT8i6iT0QIdd__5eG71hlGd-v647ilg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Den nye kongens første tale til folket</title>
       <link>https://radio.nrk.no/podkast/harald_v/l_7d27f48b-a51d-4016-a7f4-8ba51d3016ed</link>

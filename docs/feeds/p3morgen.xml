@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Potetgull til julemidaggen</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_f6e0ca9d-b721-47ef-a0ca-9db721a7efd6</link>
+      <description>Kjenner du igjen låten ved å kun høre Jason Derulo si sitt eget navn? Vi tester det i dag. Henning lurer på om hans nye hobby er problematisk. Vi hører om folks potetgullvaner</description>
+      <guid isPermaLink="false">l_f6e0ca9d-b721-47ef-a0ca-9db721a7efd6</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f6e0ca9d-b721-47ef-a0ca-9db721a7efd6_1_ID192MP3.mp3" type="audio/mpeg" length="60551468"></enclosure>
+      <itunes:title>Potetgull til julemidaggen</itunes:title>
+      <itunes:summary>Kjenner du igjen låten ved å kun høre Jason Derulo si sitt eget navn? Vi tester det i dag. Henning lurer på om hans nye hobby er problematisk. Vi hører om folks potetgullvaner</itunes:summary>
+      <itunes:duration>2522</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Jonas trenger tvangstanker.</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_d71a02d9-8fdc-4639-9a02-d98fdcb63917</link>

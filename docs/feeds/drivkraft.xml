@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 12:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:35:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Ragnar Hovland</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_ad3ee877-b1d6-4955-bee8-77b1d6195501</link>
+      <description>– Dette kommer aldri til å gå bra, sier vestlandsforfatteren om å bli intervjuet.</description>
+      <guid isPermaLink="false">l_ad3ee877-b1d6-4955-bee8-77b1d6195501</guid>
+      <pubDate>Tue, 01 Sep 2026 13:35:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/ad3ee877-b1d6-4955-bee8-77b1d6195501_1_ID192MP3.mp3" type="audio/mpeg" length="82349612"></enclosure>
+      <itunes:title>Ragnar Hovland</itunes:title>
+      <itunes:summary>– Dette kommer aldri til å gå bra, sier vestlandsforfatteren om å bli intervjuet.</itunes:summary>
+      <itunes:duration>3431</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fkwnUUz75FjOgHkJZCHBBQv3N4Qlq6ZK5DhmbItxMCtg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Tonje Gilje</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_12584dcc-6666-46c9-984d-cc666606c972</link>

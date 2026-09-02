@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Grå prikker - Elin S. Rabbevåg</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_437d9d32-e89b-4af3-bd9d-32e89b3af364</link>
+      <description>Det kan gå på selvtilliten løs å gå svanger med en bok.</description>
+      <guid isPermaLink="false">l_437d9d32-e89b-4af3-bd9d-32e89b3af364</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/437d9d32-e89b-4af3-bd9d-32e89b3af364_1_ID192MP3.mp3" type="audio/mpeg" length="6027884"></enclosure>
+      <itunes:title>Grå prikker - Elin S. Rabbevåg</itunes:title>
+      <itunes:summary>Det kan gå på selvtilliten løs å gå svanger med en bok.</itunes:summary>
+      <itunes:duration>251</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Rlb-Gap1AMsDUGS9pCiTGAwuDeYfS4r2LWQOlnXIiTqw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Jesus først - Elin S. Rabbevåg</title>
       <link>https://radio.nrk.no/podkast/andakten/l_67abceba-adea-4d2f-abce-baadea7d2f1d</link>

@@ -6,7 +6,7 @@
     <description>Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 03:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lev_vel.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lev vel</title>
       <link>https://radio.nrk.no/podkast/lev_vel</link>
     </image>
+    <item>
+      <title>Slik avslører du en narsissist</title>
+      <link>https://radio.nrk.no/podkast/lev_vel/l_3e82c25b-8015-4ea0-82c2-5b80156ea056</link>
+      <description>Hvordan oppstår narsissisme? Og hva gjør du hvis samboeren din viser seg å være en? Nevropsykolog Mia Tuft tar oss gjennom 14 ​kjennetegn på narsissisme.</description>
+      <guid isPermaLink="false">l_3e82c25b-8015-4ea0-82c2-5b80156ea056</guid>
+      <pubDate>Wed, 02 Sep 2026 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/3e82c25b-8015-4ea0-82c2-5b80156ea056_1_ID192MP3.mp3" type="audio/mpeg" length="74948588"></enclosure>
+      <itunes:title>Slik avslører du en narsissist</itunes:title>
+      <itunes:summary>Hvordan oppstår narsissisme? Og hva gjør du hvis samboeren din viser seg å være en? Nevropsykolog Mia Tuft tar oss gjennom 14 ​kjennetegn på narsissisme.</itunes:summary>
+      <itunes:duration>3122</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>På hjertet: Hvordan motivere seg for høsten</title>
       <link>https://radio.nrk.no/podkast/lev_vel/l_a1161de5-72f8-4bfc-961d-e572f88bfc75</link>

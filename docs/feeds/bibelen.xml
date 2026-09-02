@@ -6,7 +6,7 @@
     <description>Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller. &#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bibelen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Bibelen</title>
       <link>https://radio.nrk.no/podkast/bibelen</link>
     </image>
+    <item>
+      <title>Jesus samler gjengen (33:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_43c46d52-f0e3-4eee-846d-52f0e37eee7c</link>
+      <description>«Omreisende predikant» og «healer» får plass på CV-en. Men først: Guds sønn savnet!</description>
+      <guid isPermaLink="false">l_43c46d52-f0e3-4eee-846d-52f0e37eee7c</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/43c46d52-f0e3-4eee-846d-52f0e37eee7c_1_ID192MP3.mp3" type="audio/mpeg" length="31215212"></enclosure>
+      <itunes:title>Jesus samler gjengen (33:40)</itunes:title>
+      <itunes:summary>«Omreisende predikant» og «healer» får plass på CV-en. Men først: Guds sønn savnet!</itunes:summary>
+      <itunes:duration>1300</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MEYGWzx75EEwTZ-U46GZFQNrdP0-Q-oJVTX7j1aicwcg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Jesus blir født (32:40)</title>
       <link>https://radio.nrk.no/podkast/bibelen/l_9ad8c481-e5a3-4b4d-98c4-81e5a35b4d74</link>

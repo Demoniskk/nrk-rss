@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 04:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:03:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>7 av 10 vil beholde monarkiet</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_a2ead5e1-8b8d-4e70-aad5-e18b8d6e7028</link>
+      <description>Og USA har inngått en enorm oljeavtale med Venezuela.</description>
+      <guid isPermaLink="false">l_a2ead5e1-8b8d-4e70-aad5-e18b8d6e7028</guid>
+      <pubDate>Wed, 02 Sep 2026 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/a2ead5e1-8b8d-4e70-aad5-e18b8d6e7028_1_ID192MP3.mp3" type="audio/mpeg" length="8464940"></enclosure>
+      <itunes:title>7 av 10 vil beholde monarkiet</itunes:title>
+      <itunes:summary>Og USA har inngått en enorm oljeavtale med Venezuela.</itunes:summary>
+      <itunes:duration>352</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xz5B7JJTegT4F1wemLg1yw0q1k6k83bdVb9gGMfCmGBQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Kong Haakon avlegger ed</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_022c6267-4a0f-4186-ac62-674a0f91861e</link>

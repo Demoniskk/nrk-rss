@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Kapteinen med Lena Lindahl</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_0b33bbb2-dbb1-43e2-b3bb-b2dbb123e2a8</link>
+      <description>Forfatteren Lena Lindahl har aldri fått møte en konge helt på ekte, men likevel har hun tre av dem i livet sitt.</description>
+      <guid isPermaLink="false">l_0b33bbb2-dbb1-43e2-b3bb-b2dbb123e2a8</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/0b33bbb2-dbb1-43e2-b3bb-b2dbb123e2a8_1_ID192MP3.mp3" type="audio/mpeg" length="4393196"></enclosure>
+      <itunes:title>Kapteinen med Lena Lindahl</itunes:title>
+      <itunes:summary>Forfatteren Lena Lindahl har aldri fått møte en konge helt på ekte, men likevel har hun tre av dem i livet sitt.</itunes:summary>
+      <itunes:duration>182</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Laksekongen - med Svein Sæter</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_9d7c99e8-f5dd-4dd6-bc99-e8f5ddddd649</link>

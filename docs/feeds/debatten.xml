@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 21:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:20:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>En kjærlighetshistorie</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_19414506-3d71-4600-8145-063d7146000d</link>
+      <description>Inger Merete Hobbelstad forteller om dronning Sonjas kamp for kjærligheten og kongehuset.</description>
+      <guid isPermaLink="false">l_19414506-3d71-4600-8145-063d7146000d</guid>
+      <pubDate>Tue, 01 Sep 2026 22:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/19414506-3d71-4600-8145-063d7146000d_1_ID192MP3.mp3" type="audio/mpeg" length="49360940"></enclosure>
+      <itunes:title>En kjærlighetshistorie</itunes:title>
+      <itunes:summary>Inger Merete Hobbelstad forteller om dronning Sonjas kamp for kjærligheten og kongehuset.</itunes:summary>
+      <itunes:duration>2056</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WJW9SATT60hTqCt5alPsUQHkro8u_ZdU5gF0RO24WqOg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>&#34;Ditt rasshøl!&#34;</title>
       <link>https://radio.nrk.no/podkast/debatten/l_9f8fc7aa-45b9-45dd-8fc7-aa45b905dd0f</link>

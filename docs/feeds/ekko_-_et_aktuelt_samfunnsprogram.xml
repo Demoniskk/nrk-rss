@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Prins på flukt</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_6f633ffb-088c-4e36-a33f-fb088cce3672</link>
+      <description>Tre år gammel blir prins Harald hasteevakuert ut av landet. Hvis tyskerne hadde fått tak i ham, hadde Norge i dag vært annerledes.</description>
+      <guid isPermaLink="false">l_6f633ffb-088c-4e36-a33f-fb088cce3672</guid>
+      <pubDate>Tue, 01 Sep 2026 12:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/6f633ffb-088c-4e36-a33f-fb088cce3672_1_ID192MP3.mp3" type="audio/mpeg" length="50810156"></enclosure>
+      <itunes:title>Prins på flukt</itunes:title>
+      <itunes:summary>Tre år gammel blir prins Harald hasteevakuert ut av landet. Hvis tyskerne hadde fått tak i ham, hadde Norge i dag vært annerledes.</itunes:summary>
+      <itunes:duration>2117</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7HT5qLRGmnKdbnlL5zS7mQMSsNWfL6KFg0Zjtxp2SdJQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Når hele Norge Sørger</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_14a0e525-a95f-47e8-a0e5-25a95f97e8c2</link>

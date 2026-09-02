@@ -6,7 +6,7 @@
     <description>En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sportsdesken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sportsdesken brenner</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner</link>
     </image>
+    <item>
+      <title>Nattasang for Bodø: Ta med ekstra stilongs!</title>
+      <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_c8a024b8-0756-4dbc-a024-b807568dbccd</link>
+      <description>Nora varmer opp til Bodø/Glimts mesterliga-eventyr med nattasang og i Stavanger går Viking-kommentatorer bananas. &#xA;Sportsdesken hyller også hele Norges idrettskonge, Kong Harald.&#xA;Bli med i vår Fantasy-liga med koden: oyuwxr</description>
+      <guid isPermaLink="false">l_c8a024b8-0756-4dbc-a024-b807568dbccd</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/c8a024b8-0756-4dbc-a024-b807568dbccd_1_ID192MP3.mp3" type="audio/mpeg" length="57088556"></enclosure>
+      <itunes:title>Nattasang for Bodø: Ta med ekstra stilongs!</itunes:title>
+      <itunes:summary>Nora varmer opp til Bodø/Glimts mesterliga-eventyr med nattasang og i Stavanger går Viking-kommentatorer bananas. &#xA;Sportsdesken hyller også hele Norges idrettskonge, Kong Harald.&#xA;Bli med i vår Fantasy-liga med koden: oyuwxr</itunes:summary>
+      <itunes:duration>2378</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Har Haaland «tatt en Britney»?</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_230b79d4-30f3-4965-8b79-d430f3c965d7</link>

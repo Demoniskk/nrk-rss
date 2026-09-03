@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>C S Lewis - Elin S. Rabbevåg</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_4ba4e5d6-6bea-4387-a4e5-d66beab38763</link>
+      <description>Trøst i en vanskelig tid, kan komme fra et veldig uventet hold.</description>
+      <guid isPermaLink="false">l_4ba4e5d6-6bea-4387-a4e5-d66beab38763</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/4ba4e5d6-6bea-4387-a4e5-d66beab38763_1_ID192MP3.mp3" type="audio/mpeg" length="5610284"></enclosure>
+      <itunes:title>C S Lewis - Elin S. Rabbevåg</itunes:title>
+      <itunes:summary>Trøst i en vanskelig tid, kan komme fra et veldig uventet hold.</itunes:summary>
+      <itunes:duration>233</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Rlb-Gap1AMsDUGS9pCiTGAwuDeYfS4r2LWQOlnXIiTqw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Grå prikker - Elin S. Rabbevåg</title>
       <link>https://radio.nrk.no/podkast/andakten/l_437d9d32-e89b-4af3-bd9d-32e89b3af364</link>

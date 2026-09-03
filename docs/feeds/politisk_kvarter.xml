@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Politisk sørgepause</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_ae9840c3-19e4-48ad-9840-c319e4b8adca</link>
+      <description>Sørgereglar set grenser for politikken. Sp vil mjuke opp. Oslo MDG vil lukke kveldens nominasjonsmøte.</description>
+      <guid isPermaLink="false">l_ae9840c3-19e4-48ad-9840-c319e4b8adca</guid>
+      <pubDate>Thu, 03 Sep 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ae9840c3-19e4-48ad-9840-c319e4b8adca_1_ID192MP3.mp3" type="audio/mpeg" length="21648428"></enclosure>
+      <itunes:title>Politisk sørgepause</itunes:title>
+      <itunes:summary>Sørgereglar set grenser for politikken. Sp vil mjuke opp. Oslo MDG vil lukke kveldens nominasjonsmøte.</itunes:summary>
+      <itunes:duration>901</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kM0OX72SFrYs0o1UeVclww5kGTtDYNMlu_7klIB--z8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Norge i rødt, blått og grønt kaos</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_4b36d642-2198-4cb9-b6d6-4221987cb971</link>

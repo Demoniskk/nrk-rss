@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,62 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Ingen engelske ord tillatt</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_1a30b2ab-1b8d-4113-b0b2-ab1b8df1133e</link>
+      <description>Vi slår et slag for det norske språket og prøver å ikke si et eneste ikke-norsk ord. Hvert yes, sorry, eller fuck blir straffet med en bot</description>
+      <guid isPermaLink="false">l_1a30b2ab-1b8d-4113-b0b2-ab1b8df1133e</guid>
+      <pubDate>Thu, 03 Sep 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1a30b2ab-1b8d-4113-b0b2-ab1b8df1133e_1_ID192MP3.mp3" type="audio/mpeg" length="58664492"></enclosure>
+      <itunes:title>Ingen engelske ord tillatt</itunes:title>
+      <itunes:summary>Vi slår et slag for det norske språket og prøver å ikke si et eneste ikke-norsk ord. Hvert yes, sorry, eller fuck blir straffet med en bot</itunes:summary>
+      <itunes:duration>2444</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1eJULp2ECr4ymizsKKaaVgApsf-m3gBi7PmhSPwX1QVw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
+    <item>
+      <title>B-mennesker: Blod, kjønnshår og flytende mais.</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_20cace70-c7f1-4716-8ace-70c7f13716ce</link>
+      <description>Vi har ikke hatt lov til å bruke fremmedord i dag, Henning har havnet i «middagsfella» og vi prater om den ekle doen på NRK.</description>
+      <guid isPermaLink="false">l_20cace70-c7f1-4716-8ace-70c7f13716ce</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/20cace70-c7f1-4716-8ace-70c7f13716ce_1_ID192MP3.mp3" type="audio/mpeg" length="29479724"></enclosure>
+      <itunes:title>B-mennesker: Blod, kjønnshår og flytende mais.</itunes:title>
+      <itunes:summary>Vi har ikke hatt lov til å bruke fremmedord i dag, Henning har havnet i «middagsfella» og vi prater om den ekle doen på NRK.</itunes:summary>
+      <itunes:duration>1228</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
+    <item>
+      <title>Vi tester chipskomboer</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_71c8e689-686f-4173-88e6-89686fa17359</link>
+      <description>Er potetgull og brun saus en god kombo! Nå mener flere at brun saus er den nye holidaydippen, og i dag skal vi endelig teste det.</description>
+      <guid isPermaLink="false">l_71c8e689-686f-4173-88e6-89686fa17359</guid>
+      <pubDate>Wed, 02 Sep 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/71c8e689-686f-4173-88e6-89686fa17359_1_ID192MP3.mp3" type="audio/mpeg" length="57362732"></enclosure>
+      <itunes:title>Vi tester chipskomboer</itunes:title>
+      <itunes:summary>Er potetgull og brun saus en god kombo! Nå mener flere at brun saus er den nye holidaydippen, og i dag skal vi endelig teste det.</itunes:summary>
+      <itunes:duration>2390</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zxDF1RVu8rCZUzpVQngABwde3mtV8iXGqWBQAnAOnWgw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
+    <item>
+      <title>B-mennesker: Krig om skalken på brødet.</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_397e59fa-22bd-47fe-be59-fa22bd37fec1</link>
+      <description>Henning har tatt i bruk sin nye kjøkkenmaskin, Arin prøver å bidra med noe i podkasten og Jonas får høre om 6-7 Grill.</description>
+      <guid isPermaLink="false">l_397e59fa-22bd-47fe-be59-fa22bd37fec1</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/397e59fa-22bd-47fe-be59-fa22bd37fec1_1_ID192MP3.mp3" type="audio/mpeg" length="29598956"></enclosure>
+      <itunes:title>B-mennesker: Krig om skalken på brødet.</itunes:title>
+      <itunes:summary>Henning har tatt i bruk sin nye kjøkkenmaskin, Arin prøver å bidra med noe i podkasten og Jonas får høre om 6-7 Grill.</itunes:summary>
+      <itunes:duration>1233</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Potetgull til julemidaggen</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_f6e0ca9d-b721-47ef-a0ca-9db721a7efd6</link>

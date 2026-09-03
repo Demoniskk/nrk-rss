@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:10:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Den nye trusselen i fjella</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_a7c6cde6-f45a-4e92-86cd-e6f45a5e926b</link>
+      <description>Katastrofa i Nepal rystar verda. Fjella blir meir ustabile overalt, men korleis kan vi ruste oss mot faren?</description>
+      <guid isPermaLink="false">l_a7c6cde6-f45a-4e92-86cd-e6f45a5e926b</guid>
+      <pubDate>Wed, 02 Sep 2026 13:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/a7c6cde6-f45a-4e92-86cd-e6f45a5e926b_1_ID192MP3.mp3" type="audio/mpeg" length="29577644"></enclosure>
+      <itunes:title>Den nye trusselen i fjella</itunes:title>
+      <itunes:summary>Katastrofa i Nepal rystar verda. Fjella blir meir ustabile overalt, men korleis kan vi ruste oss mot faren?</itunes:summary>
+      <itunes:duration>1232</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0ep62exRU3UyhMFoplB2dAX3ONSnhjgPgdsJ18aUp8cA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Prins på flukt</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_6f633ffb-088c-4e36-a33f-fb088cce3672</link>

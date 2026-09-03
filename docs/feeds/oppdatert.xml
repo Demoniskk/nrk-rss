@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Drapet på Tupac: Er saken endelig løst?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_f1834f26-3ed6-4aa1-834f-263ed6daa1c1</link>
+      <description>Rapperens død har vært et mysterium i 30 år. Men så begynte politiet å se nærmere på en bok.</description>
+      <guid isPermaLink="false">l_f1834f26-3ed6-4aa1-834f-263ed6daa1c1</guid>
+      <pubDate>Thu, 03 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/f1834f26-3ed6-4aa1-834f-263ed6daa1c1_1_ID192MP3.mp3" type="audio/mpeg" length="28684844"></enclosure>
+      <itunes:title>Drapet på Tupac: Er saken endelig løst?</itunes:title>
+      <itunes:summary>Rapperens død har vært et mysterium i 30 år. Men så begynte politiet å se nærmere på en bok.</itunes:summary>
+      <itunes:duration>1195</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/IQOLpmymrP1NNjnUSpneuwgxGvYpuyzyTELVGXW_IWIw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Urfolks-ikonet: Bygget hun karrieren på en løgn?</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_18884e09-2ae7-40ec-884e-092ae7e0ec06</link>

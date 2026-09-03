@@ -6,7 +6,7 @@
     <description>Nok en hektisk uke for komiker Nora Svenningsen. Her er hennes verbale dagbok, hvor du er med på å fargelegge sidene. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 27 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/din_venn_nora.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Din venn, Nora</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora</link>
     </image>
+    <item>
+      <title>Ikke lov å le i landesorg</title>
+      <link>https://radio.nrk.no/podkast/din_venn_nora/l_c94cebe1-c2d6-494a-8ceb-e1c2d6094a51</link>
+      <description>Ett minutts stillhet for kongen gikk ordentlig gærent, et sårbart øyeblikk har gått viralt i Kina og en rabies-update.</description>
+      <guid isPermaLink="false">l_c94cebe1-c2d6-494a-8ceb-e1c2d6094a51</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/c94cebe1-c2d6-494a-8ceb-e1c2d6094a51_1_ID192MP3.mp3" type="audio/mpeg" length="58637420"></enclosure>
+      <itunes:title>Ikke lov å le i landesorg</itunes:title>
+      <itunes:summary>Ett minutts stillhet for kongen gikk ordentlig gærent, et sårbart øyeblikk har gått viralt i Kina og en rabies-update.</itunes:summary>
+      <itunes:duration>2443</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Den store episoden om Kina</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora/l_c574af25-fa96-4086-b4af-25fa96708614</link>

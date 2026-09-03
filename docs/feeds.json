@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-02T07:59:22Z",
-  "latest_episode": "2026-09-02T06:00:00Z",
+  "generated_at": "2026-09-03T08:07:53Z",
+  "latest_episode": "2026-09-03T08:00:00Z",
   "source": "https://radio.nrk.no/",
   "podcast_count": 234,
-  "episode_count": 59347,
+  "episode_count": 59363,
   "podcasts": [
     {
       "id": "22_juli_-_hvordan_kunne_det_skje",
@@ -44,10 +44,10 @@
       "description": "Hverdagsfunderinger over tro og liv.",
       "category": "Kultur og samfunn",
       "image_url": "https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw",
-      "episode_count": 3089,
+      "episode_count": 3090,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml",
       "nrk_url": "https://radio.nrk.no/podkast/andakten",
-      "latest_episode": "2026-09-02T04:00:00Z"
+      "latest_episode": "2026-09-03T04:00:00Z"
     },
     {
       "id": "andregenerasjonen",
@@ -264,10 +264,10 @@
       "description": "Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw",
-      "episode_count": 3639,
+      "episode_count": 3640,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml",
       "nrk_url": "https://radio.nrk.no/podkast/dagsnytt_atten",
-      "latest_episode": "2026-09-01T17:00:00Z"
+      "latest_episode": "2026-09-02T17:00:00Z"
     },
     {
       "id": "p060ms2h",
@@ -330,10 +330,10 @@
       "description": "Nok en hektisk uke for komiker Nora Svenningsen. Her er hennes verbale dagbok, hvor du er med på å fargelegge sidene. ",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg",
-      "episode_count": 83,
+      "episode_count": 84,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/din_venn_nora.xml",
       "nrk_url": "https://radio.nrk.no/podkast/din_venn_nora",
-      "latest_episode": "2026-08-27T04:00:00Z"
+      "latest_episode": "2026-09-03T04:00:00Z"
     },
     {
       "id": "ding_dong_du_er_doed",
@@ -352,10 +352,10 @@
       "description": "Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. ",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/ECKert5VSxC1-k29CwbWFAjg4EiyVyRCO5g4y9UH5BSA",
-      "episode_count": 957,
+      "episode_count": 958,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml",
       "nrk_url": "https://radio.nrk.no/podkast/drivkraft",
-      "latest_episode": "2026-09-01T11:35:00Z"
+      "latest_episode": "2026-09-02T12:10:00Z"
     },
     {
       "id": "karakter",
@@ -418,10 +418,10 @@
       "description": "Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. \n\n\n",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/aghJd74QdkLhF9Eknn_x3QnK0jSNyi4lx_3UtaBXQz1Q",
-      "episode_count": 7656,
+      "episode_count": 7657,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml",
       "nrk_url": "https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram",
-      "latest_episode": "2026-09-01T10:30:00Z"
+      "latest_episode": "2026-09-02T11:10:00Z"
     },
     {
       "id": "eventyrerne",
@@ -957,10 +957,10 @@
       "description": "Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA",
-      "episode_count": 376,
+      "episode_count": 377,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml",
       "nrk_url": "https://radio.nrk.no/podkast/kjapt_oppdatert",
-      "latest_episode": "2026-09-02T04:03:00Z"
+      "latest_episode": "2026-09-03T03:59:00Z"
     },
     {
       "id": "kjente_boeker_paa_4_minutter",
@@ -1342,10 +1342,10 @@
       "description": "Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA",
-      "episode_count": 1268,
+      "episode_count": 1269,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml",
       "nrk_url": "https://radio.nrk.no/podkast/med_all_respekt",
-      "latest_episode": "2026-09-02T04:00:00Z"
+      "latest_episode": "2026-09-03T04:00:00Z"
     },
     {
       "id": "meininga_med_livet",
@@ -1672,10 +1672,10 @@
       "description": "Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw",
-      "episode_count": 1324,
+      "episode_count": 1325,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml",
       "nrk_url": "https://radio.nrk.no/podkast/oppdatert",
-      "latest_episode": "2026-09-02T03:59:00Z"
+      "latest_episode": "2026-09-03T03:59:00Z"
     },
     {
       "id": "odaspodda",
@@ -1705,10 +1705,10 @@
       "description": "Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew",
-      "episode_count": 3619,
+      "episode_count": 3623,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml",
       "nrk_url": "https://radio.nrk.no/podkast/p3morgen",
-      "latest_episode": "2026-09-01T10:00:00Z"
+      "latest_episode": "2026-09-03T08:00:00Z"
     },
     {
       "id": "politisk_kvarter",
@@ -1716,10 +1716,10 @@
       "description": "Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. \n",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg",
-      "episode_count": 3505,
+      "episode_count": 3506,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml",
       "nrk_url": "https://radio.nrk.no/podkast/politisk_kvarter",
-      "latest_episode": "2026-09-02T06:00:00Z"
+      "latest_episode": "2026-09-03T06:00:00Z"
     },
     {
       "id": "popaganda",
@@ -1936,10 +1936,10 @@
       "description": "Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA",
-      "episode_count": 3,
+      "episode_count": 4,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml",
       "nrk_url": "https://radio.nrk.no/podkast/sentralbordet",
-      "latest_episode": "2026-08-27T04:00:00Z"
+      "latest_episode": "2026-09-03T04:00:00Z"
     },
     {
       "id": "seriesnakk",
@@ -1969,10 +1969,10 @@
       "description": "Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
-      "episode_count": 327,
+      "episode_count": 328,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml",
       "nrk_url": "https://radio.nrk.no/podkast/siesta",
-      "latest_episode": "2026-09-01T04:00:00Z"
+      "latest_episode": "2026-09-02T04:00:00Z"
     },
     {
       "id": "sjakksnakk",
@@ -2453,10 +2453,10 @@
       "description": "Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg",
-      "episode_count": 84,
+      "episode_count": 85,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml",
       "nrk_url": "https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet",
-      "latest_episode": "2026-09-01T04:00:00Z"
+      "latest_episode": "2026-09-03T04:00:00Z"
     },
     {
       "id": "valg",

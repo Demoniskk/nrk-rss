@@ -6,7 +6,7 @@
     <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 27 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sentralbordet på NRK</title>
       <link>https://radio.nrk.no/podkast/sentralbordet</link>
     </image>
+    <item>
+      <title>– Tenk om jeg har sagt at jeg skal drepe alle?</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_f6022010-8183-4541-8220-1081833541d8</link>
+      <description>Ole Henry pitcher en idé til et tjekkisk voksmuseum, John Arne Riise har et par spørsmål om Kaptein Sabeltann, Emilie leverer naboklage på svensk jente og Vegard synes han kan finsk.</description>
+      <guid isPermaLink="false">l_f6022010-8183-4541-8220-1081833541d8</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/f6022010-8183-4541-8220-1081833541d8_1_ID192MP3.mp3" type="audio/mpeg" length="27406700"></enclosure>
+      <itunes:title>– Tenk om jeg har sagt at jeg skal drepe alle?</itunes:title>
+      <itunes:summary>Ole Henry pitcher en idé til et tjekkisk voksmuseum, John Arne Riise har et par spørsmål om Kaptein Sabeltann, Emilie leverer naboklage på svensk jente og Vegard synes han kan finsk.</itunes:summary>
+      <itunes:duration>1141</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>- Har ni hvitløkspressa på ryggen?</title>
       <link>https://radio.nrk.no/podkast/sentralbordet/l_1ba4903a-1aab-4789-a490-3a1aab7789f8</link>

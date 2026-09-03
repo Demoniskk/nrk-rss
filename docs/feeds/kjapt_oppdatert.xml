@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 04:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Norge venter reaksjoner fra Russland</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_93498506-9633-49e4-8985-06963349e4e4</link>
+      <description>Og mange er redde for at boligprisene blir høye i flere år</description>
+      <guid isPermaLink="false">l_93498506-9633-49e4-8985-06963349e4e4</guid>
+      <pubDate>Thu, 03 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/93498506-9633-49e4-8985-06963349e4e4_1_ID192MP3.mp3" type="audio/mpeg" length="9744236"></enclosure>
+      <itunes:title>Norge venter reaksjoner fra Russland</itunes:title>
+      <itunes:summary>Og mange er redde for at boligprisene blir høye i flere år</itunes:summary>
+      <itunes:duration>405</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NHUTp13RWsgpzr7ci9En6A6uLbzYFsgaqOiZwjmWXT0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>7 av 10 vil beholde monarkiet</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_a2ead5e1-8b8d-4e70-aad5-e18b8d6e7028</link>

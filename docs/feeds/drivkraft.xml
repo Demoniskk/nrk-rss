@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 11:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:10:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>KRISTINE ULLEBØ</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_cc48fa48-251a-4e1b-88fa-48251a0e1b64</link>
+      <description>– Influenseren tok jobb som vaskehjelp da hun møtte veggen</description>
+      <guid isPermaLink="false">l_cc48fa48-251a-4e1b-88fa-48251a0e1b64</guid>
+      <pubDate>Wed, 02 Sep 2026 14:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/cc48fa48-251a-4e1b-88fa-48251a0e1b64_1_ID192MP3.mp3" type="audio/mpeg" length="81508076"></enclosure>
+      <itunes:title>KRISTINE ULLEBØ</itunes:title>
+      <itunes:summary>– Influenseren tok jobb som vaskehjelp da hun møtte veggen</itunes:summary>
+      <itunes:duration>3396</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ORP7Pc29WQvJzBtcvAo-vgK1HSJtkFxLhHuKmVVcn_HQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Ragnar Hovland</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_ad3ee877-b1d6-4955-bee8-77b1d6195501</link>

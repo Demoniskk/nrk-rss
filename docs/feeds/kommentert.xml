@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 13:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:11:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Putin kraftig ut mot Norge: Kan det dra oss inn i krigen?</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_757e7a7a-5218-4cdf-be7a-7a5218ecdf08</link>
+      <description>Vladimir Putin går hardt ut mot Norge, etter at et russisk skip på Svalbard er satt i norsk arrest. Hvilke konsekvenser kan det få?&lt;</description>
+      <guid isPermaLink="false">l_757e7a7a-5218-4cdf-be7a-7a5218ecdf08</guid>
+      <pubDate>Thu, 03 Sep 2026 15:11:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/757e7a7a-5218-4cdf-be7a-7a5218ecdf08_1_ID192MP3.mp3" type="audio/mpeg" length="39226220"></enclosure>
+      <itunes:title>Putin kraftig ut mot Norge: Kan det dra oss inn i krigen?</itunes:title>
+      <itunes:summary>Vladimir Putin går hardt ut mot Norge, etter at et russisk skip på Svalbard er satt i norsk arrest. Hvilke konsekvenser kan det få?&lt;</itunes:summary>
+      <itunes:duration>1634</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I0QmE81nkhzsVWnnXjYcswSaBs3FIxeaz912q6A9owCw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Høiby på slottet: Hvilket signal sender kongehuset?</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_3b473ed7-adb2-48e7-873e-d7adb2a8e732</link>

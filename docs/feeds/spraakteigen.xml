@@ -6,7 +6,7 @@
     <description>Absolutt alt du kan undre deg over om språk! Lydia Gieselmann spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 28 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/spraakteigen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Språksnakk</title>
       <link>https://radio.nrk.no/podkast/spraakteigen</link>
     </image>
+    <item>
+      <title>Det er mange veier til lyden Ø</title>
+      <link>https://radio.nrk.no/podkast/spraakteigen/l_379275b9-60dd-4e44-9275-b960dd2e44d9</link>
+      <description>Heureka - vi skal finne de ulike veien til ø, og vi skal lære mer om ordboksarbeid, suffiks og hat trick</description>
+      <guid isPermaLink="false">l_379275b9-60dd-4e44-9275-b960dd2e44d9</guid>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/379275b9-60dd-4e44-9275-b960dd2e44d9_1_ID192MP3.mp3" type="audio/mpeg" length="82529900"></enclosure>
+      <itunes:title>Det er mange veier til lyden Ø</itunes:title>
+      <itunes:summary>Heureka - vi skal finne de ulike veien til ø, og vi skal lære mer om ordboksarbeid, suffiks og hat trick</itunes:summary>
+      <itunes:duration>3438</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/r7bD_6_Xj76xX8kpaOP6egsm-AN07XKRr1JlPjGwqVHg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Bånnski i schauen</title>
       <link>https://radio.nrk.no/podkast/spraakteigen/l_b357926f-ded6-48ca-9792-6fded6e8ca89</link>

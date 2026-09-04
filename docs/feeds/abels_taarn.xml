@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Østers i fjorden - yea or nay?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c</link>
+      <description>Vi setter opp Tårnet på Oslofjordmuseet, og tar med oss tre eksperter på en frisk tur til havs.&#xA;Lurer du på ting? Spør Abels Tårn!</description>
+      <guid isPermaLink="false">l_a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c</guid>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a4e4aa2a-35d8-49a8-a4aa-2a35d8a9a85c_2_ID192MP3.mp3" type="audio/mpeg" length="93840812"></enclosure>
+      <itunes:title>Østers i fjorden - yea or nay?</itunes:title>
+      <itunes:summary>Vi setter opp Tårnet på Oslofjordmuseet, og tar med oss tre eksperter på en frisk tur til havs.&#xA;Lurer du på ting? Spør Abels Tårn!</itunes:summary>
+      <itunes:duration>3909</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QJN3bDRavORk8zhX35V22gbHpVWB58AsaLI1LZss0IQw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Har du ødelagt mobilen?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_24fcd339-fca6-4332-bcd3-39fca65332de</link>

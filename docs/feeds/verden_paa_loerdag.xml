@@ -6,7 +6,7 @@
     <description>Bli med ut i verden. Hør historiene og få forklaringene fra Norges største utenriksredaksjon.&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 27 Aug 2026 11:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verden_paa_loerdag.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Urix</title>
       <link>https://radio.nrk.no/podkast/verden_paa_loerdag</link>
     </image>
+    <item>
+      <title>De nye monarkene: Modigere og mer politiske?</title>
+      <link>https://radio.nrk.no/podkast/verden_paa_loerdag/l_34c27774-be44-4d5e-8277-74be44bd5e29</link>
+      <description>Norges nye konge er blant de yngste i en ny generasjon monarker. Vil han følge danske Kong Frederik snakke litt tydeligere om politikk i en verden som styres av autoritære, eldre ledere?  Og hva foregår egentlig i den skandinaviske monarkchatten?</description>
+      <guid isPermaLink="false">l_34c27774-be44-4d5e-8277-74be44bd5e29</guid>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/34c27774-be44-4d5e-8277-74be44bd5e29_1_ID192MP3.mp3" type="audio/mpeg" length="30788972"></enclosure>
+      <itunes:title>De nye monarkene: Modigere og mer politiske?</itunes:title>
+      <itunes:summary>Norges nye konge er blant de yngste i en ny generasjon monarker. Vil han følge danske Kong Frederik snakke litt tydeligere om politikk i en verden som styres av autoritære, eldre ledere?  Og hva foregår egentlig i den skandinaviske monarkchatten?</itunes:summary>
+      <itunes:duration>1282</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SN53O4L9ywVMCCbsrUSe5wpNfv2CeuZ7nbYXmK-n6tmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Island: En ganske fredelig folkeavstemning</title>
       <link>https://radio.nrk.no/podkast/verden_paa_loerdag/l_76cd791a-4c64-45ae-8d79-1a4c6485ae89</link>

@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 20:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:15:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -14,15 +14,29 @@
     <itunes:owner>
       <itunes:name>NRK</itunes:name>
     </itunes:owner>
-    <itunes:image href="https://gfx.nrk.no/TrAKzC9jj5hcnRvdDAmZLg9Ez-ezuJw-MATwNSs6BDlg"></itunes:image>
+    <itunes:image href="https://gfx.nrk.no/Eo6YRqFb-dJ0W_Guj6HIRgvUXv9bCID16MczRYD2C4Qg"></itunes:image>
     <itunes:category text="Nyheter"></itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <image>
-      <url>https://gfx.nrk.no/TrAKzC9jj5hcnRvdDAmZLg9Ez-ezuJw-MATwNSs6BDlg</url>
+      <url>https://gfx.nrk.no/Eo6YRqFb-dJ0W_Guj6HIRgvUXv9bCID16MczRYD2C4Qg</url>
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Varsler: - Ble kvalm</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_cb46d363-0f96-4abf-86d3-630f968abf94</link>
+      <description>Ingeborg (18) varslet mot FpU-lederen, som gikk av. I Debatten-studio er de begge gjester i kveld.</description>
+      <guid isPermaLink="false">l_cb46d363-0f96-4abf-86d3-630f968abf94</guid>
+      <pubDate>Thu, 03 Sep 2026 22:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/cb46d363-0f96-4abf-86d3-630f968abf94_1_ID192MP3.mp3" type="audio/mpeg" length="59700140"></enclosure>
+      <itunes:title>Varsler: - Ble kvalm</itunes:title>
+      <itunes:summary>Ingeborg (18) varslet mot FpU-lederen, som gikk av. I Debatten-studio er de begge gjester i kveld.</itunes:summary>
+      <itunes:duration>2487</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/U78M9u3hJHpPogkUpaAXzQM4oAft7K6Tcg0Ps0WjwCkg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>En kjærlighetshistorie</title>
       <link>https://radio.nrk.no/podkast/debatten/l_19414506-3d71-4600-8145-063d7146000d</link>

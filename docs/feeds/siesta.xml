@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Groviser i landesorg</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_3d742924-c789-446b-b429-24c789d46b2d</link>
+      <description>Markus forteller groviser, Daniel ble overfalt på gata og Anna kjører en Donald Trump-parodi.</description>
+      <guid isPermaLink="false">l_3d742924-c789-446b-b429-24c789d46b2d</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3d742924-c789-446b-b429-24c789d46b2d_1_ID192MP3.mp3" type="audio/mpeg" length="63594476"></enclosure>
+      <itunes:title>Groviser i landesorg</itunes:title>
+      <itunes:summary>Markus forteller groviser, Daniel ble overfalt på gata og Anna kjører en Donald Trump-parodi.</itunes:summary>
+      <itunes:duration>2649</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Tisser ikke i andres dusj</title>
       <link>https://radio.nrk.no/podkast/siesta/l_01669b76-b38a-4d24-a69b-76b38aed2431</link>

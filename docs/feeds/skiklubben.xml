@@ -6,7 +6,7 @@
     <description>I sommerhalvåret legger vi bort skiene og tar på oss løpeskoene,  rulleskiene eller  setter oss på sykkelen. Anders Aukland, Silje Nordnes og Sindre Reinholt motiverer deg i til å komme i form og nå dine mål uansett hvilket nivå du er på.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 28 Aug 2026 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 03:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/skiklubben.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Skiklubben</title>
       <link>https://radio.nrk.no/podkast/skiklubben</link>
     </image>
+    <item>
+      <title>Gjørme-Birken + OL-mesterens fjelltips.</title>
+      <link>https://radio.nrk.no/podkast/skiklubben/l_8f60b512-1d30-401f-a0b5-121d30501fe2</link>
+      <description>Sindre og Anders har syklet Birkebeinerittet og skiskytter Maren Hjelmeset Kirkeeide skal løpe samme fjelløp som Silje.</description>
+      <guid isPermaLink="false">l_8f60b512-1d30-401f-a0b5-121d30501fe2</guid>
+      <pubDate>Fri, 04 Sep 2026 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/8f60b512-1d30-401f-a0b5-121d30501fe2_1_ID192MP3.mp3" type="audio/mpeg" length="79028972"></enclosure>
+      <itunes:title>Gjørme-Birken + OL-mesterens fjelltips.</itunes:title>
+      <itunes:summary>Sindre og Anders har syklet Birkebeinerittet og skiskytter Maren Hjelmeset Kirkeeide skal løpe samme fjelløp som Silje.</itunes:summary>
+      <itunes:duration>3292</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Løpehøsten + klare for gjørma.</title>
       <link>https://radio.nrk.no/podkast/skiklubben/l_e54ef63b-c0b8-4724-8ef6-3bc0b837247f</link>

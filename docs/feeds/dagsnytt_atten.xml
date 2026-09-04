@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Russisk skip på Svalbard</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_aaa4efdb-6b47-4079-a4ef-db6b47a07942</link>
+      <description>Russland har kalt inn Norges ambassadør etter at norske myndigheter har tatt beslag i et russisk skip på Svalbard.</description>
+      <guid isPermaLink="false">l_aaa4efdb-6b47-4079-a4ef-db6b47a07942</guid>
+      <pubDate>Thu, 03 Sep 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/aaa4efdb-6b47-4079-a4ef-db6b47a07942_1_ID192MP3.mp3" type="audio/mpeg" length="84973292"></enclosure>
+      <itunes:title>Russisk skip på Svalbard</itunes:title>
+      <itunes:summary>Russland har kalt inn Norges ambassadør etter at norske myndigheter har tatt beslag i et russisk skip på Svalbard.</itunes:summary>
+      <itunes:duration>3540</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/c9PrjOdOg5zs2WDXEmg7NAER9-Udaz_X3kkvTjm8RD_g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Ryktespredningen før kongens død</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_259a6686-a5b5-40e0-9a66-86a5b5b0e00b</link>

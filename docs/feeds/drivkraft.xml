@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 12:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:50:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Håkon Opdal</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_c1914347-fe32-4388-9143-47fe32f388a4</link>
+      <description>— Du må være spesiell for å stå i mål, sier den tidligere landslagskeeperen, som nå satser alt som forfatter</description>
+      <guid isPermaLink="false">l_c1914347-fe32-4388-9143-47fe32f388a4</guid>
+      <pubDate>Thu, 03 Sep 2026 12:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/c1914347-fe32-4388-9143-47fe32f388a4_1_ID192MP3.mp3" type="audio/mpeg" length="82567340"></enclosure>
+      <itunes:title>Håkon Opdal</itunes:title>
+      <itunes:summary>— Du må være spesiell for å stå i mål, sier den tidligere landslagskeeperen, som nå satser alt som forfatter</itunes:summary>
+      <itunes:duration>3440</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mtL5xhvBLCwP7Sy8yz5cxgiTbdH-YSm9HyFvQa93jWdQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>KRISTINE ULLEBØ</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_cc48fa48-251a-4e1b-88fa-48251a0e1b64</link>

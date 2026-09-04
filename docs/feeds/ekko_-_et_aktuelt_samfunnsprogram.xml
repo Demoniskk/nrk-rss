@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 11:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Nytt håp for organdonasjon</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_c5cbd90a-0ae8-451a-8bd9-0a0ae8951a3c</link>
+      <description>Da lille Saga på 6 uker døde ønsket familien at hun skulle bli donor, men fikk nei. Nå er det endringer som gir håp for andre.</description>
+      <guid isPermaLink="false">l_c5cbd90a-0ae8-451a-8bd9-0a0ae8951a3c</guid>
+      <pubDate>Thu, 03 Sep 2026 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c5cbd90a-0ae8-451a-8bd9-0a0ae8951a3c_1_ID192MP3.mp3" type="audio/mpeg" length="37885292"></enclosure>
+      <itunes:title>Nytt håp for organdonasjon</itunes:title>
+      <itunes:summary>Da lille Saga på 6 uker døde ønsket familien at hun skulle bli donor, men fikk nei. Nå er det endringer som gir håp for andre.</itunes:summary>
+      <itunes:duration>1578</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HQ8JhXQtxp5FxO1BZntvZgweN25qOqBqfL1VaiLVAqLg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Den nye trusselen i fjella</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_a7c6cde6-f45a-4e92-86cd-e6f45a5e926b</link>

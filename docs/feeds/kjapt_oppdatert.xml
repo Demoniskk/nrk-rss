@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>– Jeg ble kvalm av det</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_1de102cb-1bce-4f23-a102-cb1bcedf234c</link>
+      <description>Tidligere FpU-leder og varsler møtte i Debatten.</description>
+      <guid isPermaLink="false">l_1de102cb-1bce-4f23-a102-cb1bcedf234c</guid>
+      <pubDate>Fri, 04 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/1de102cb-1bce-4f23-a102-cb1bcedf234c_1_ID192MP3.mp3" type="audio/mpeg" length="9417644"></enclosure>
+      <itunes:title>– Jeg ble kvalm av det</itunes:title>
+      <itunes:summary>Tidligere FpU-leder og varsler møtte i Debatten.</itunes:summary>
+      <itunes:duration>392</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BUjjBSs0eVf8Y-PtXOyYKQZj7djQyoDtmWOVsC_0guwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Norge venter reaksjoner fra Russland</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_93498506-9633-49e4-8985-06963349e4e4</link>

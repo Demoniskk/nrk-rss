@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>MAGA videospill fra Det hvite hus</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_1faff803-968c-468d-aff8-03968c868dcc</link>
+      <description>Ødelegger sugerør for smaken til brus? Arin mener nemlig at det ødelegger smaken, enten det er papp, plast eller metall. Det hvite hus har også lansert MAGA videospill</description>
+      <guid isPermaLink="false">l_1faff803-968c-468d-aff8-03968c868dcc</guid>
+      <pubDate>Fri, 04 Sep 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/1faff803-968c-468d-aff8-03968c868dcc_1_ID192MP3.mp3" type="audio/mpeg" length="58314284"></enclosure>
+      <itunes:title>MAGA videospill fra Det hvite hus</itunes:title>
+      <itunes:summary>Ødelegger sugerør for smaken til brus? Arin mener nemlig at det ødelegger smaken, enten det er papp, plast eller metall. Det hvite hus har også lansert MAGA videospill</itunes:summary>
+      <itunes:duration>2429</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xN6Ysv3XwGVO3ldMuE3L_gGhC-Tkj66o0HkyK8PATzZA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
+    <item>
+      <title>B-mennesker: Hvem er best best på aura farming?</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_46f92819-8778-4c27-b928-1987788c2722</link>
+      <description>P3morgens extended cinematic universe er med og vi aura farmer!</description>
+      <guid isPermaLink="false">l_46f92819-8778-4c27-b928-1987788c2722</guid>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/46f92819-8778-4c27-b928-1987788c2722_1_ID192MP3.mp3" type="audio/mpeg" length="29465324"></enclosure>
+      <itunes:title>B-mennesker: Hvem er best best på aura farming?</itunes:title>
+      <itunes:summary>P3morgens extended cinematic universe er med og vi aura farmer!</itunes:summary>
+      <itunes:duration>1227</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xN6Ysv3XwGVO3ldMuE3L_gGhC-Tkj66o0HkyK8PATzZA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Ingen engelske ord tillatt</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_1a30b2ab-1b8d-4113-b0b2-ab1b8df1133e</link>

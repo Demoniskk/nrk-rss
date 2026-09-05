@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 29 Aug 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:50:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Den mystiske lyden er... (ikke det du tror)</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_1d7f7e90-a122-4730-bf7e-90a122c730d8</link>
+      <description>Vi får endelig svaret på gåten om hva den mystiske lyden til naboen er...</description>
+      <guid isPermaLink="false">l_1d7f7e90-a122-4730-bf7e-90a122c730d8</guid>
+      <pubDate>Fri, 04 Sep 2026 15:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/1d7f7e90-a122-4730-bf7e-90a122c730d8_1_ID192MP3.mp3" type="audio/mpeg" length="21673772"></enclosure>
+      <itunes:title>Den mystiske lyden er... (ikke det du tror)</itunes:title>
+      <itunes:summary>Vi får endelig svaret på gåten om hva den mystiske lyden til naboen er...</itunes:summary>
+      <itunes:duration>903</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Jonis Josef / Mia Hundvin / Olli Wermskog</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_7f3085a3-ce4a-4d25-b085-a3ce4aed2525</link>

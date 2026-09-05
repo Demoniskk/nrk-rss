@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Tinder-bio, skolebilde og navn til studio</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_c43c7b35-61e2-4f9c-bc7b-3561e20f9ccd</link>
+      <description>Backerne har sendt inn masse navneforslag til det nye studioet!&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</description>
+      <guid isPermaLink="false">l_c43c7b35-61e2-4f9c-bc7b-3561e20f9ccd</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/c43c7b35-61e2-4f9c-bc7b-3561e20f9ccd_1_ID192MP3.mp3" type="audio/mpeg" length="87645356"></enclosure>
+      <itunes:title>Tinder-bio, skolebilde og navn til studio</itunes:title>
+      <itunes:summary>Backerne har sendt inn masse navneforslag til det nye studioet!&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</itunes:summary>
+      <itunes:duration>3651</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Syk prank, gay best friend og dusjing i mørket</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_67b6a0e4-bbd1-420a-b6a0-e4bbd1620a5e</link>

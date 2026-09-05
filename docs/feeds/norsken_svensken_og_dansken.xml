@@ -6,7 +6,7 @@
     <description>Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 29 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/norsken_svensken_og_dansken.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Norsken, svensken og dansken</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken</link>
     </image>
+    <item>
+      <title>Totalitære tårer</title>
+      <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_3ecd9652-a7a6-4c80-8d96-52a7a6cc807a</link>
+      <description>Tvangsinnsetting av spiral på grønlendere ønskes undersøkt som folkemord, danskene har fått naturangst, og kan et Norge i sorg framstå som totalitært?</description>
+      <guid isPermaLink="false">l_3ecd9652-a7a6-4c80-8d96-52a7a6cc807a</guid>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3ecd9652-a7a6-4c80-8d96-52a7a6cc807a_1_ID192MP3.mp3" type="audio/mpeg" length="82156652"></enclosure>
+      <itunes:title>Totalitære tårer</itunes:title>
+      <itunes:summary>Tvangsinnsetting av spiral på grønlendere ønskes undersøkt som folkemord, danskene har fått naturangst, og kan et Norge i sorg framstå som totalitært?</itunes:summary>
+      <itunes:duration>3423</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Alt for Norden</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_b874d597-0e52-4b92-b4d5-970e520b921e</link>

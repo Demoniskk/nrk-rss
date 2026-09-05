@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title>Venstrevridde journalister</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_b47d9eb0-ce1a-4189-bd9e-b0ce1a1189ac</link>
+      <description>- og venstrevridde forskere. Hvordan preger det den offentlige debatten?</description>
+      <guid isPermaLink="false">l_b47d9eb0-ce1a-4189-bd9e-b0ce1a1189ac</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/b47d9eb0-ce1a-4189-bd9e-b0ce1a1189ac_1_ID192MP3.mp3" type="audio/mpeg" length="46353644"></enclosure>
+      <itunes:title>Venstrevridde journalister</itunes:title>
+      <itunes:summary>- og venstrevridde forskere. Hvordan preger det den offentlige debatten?</itunes:summary>
+      <itunes:duration>1931</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Islamister bruker ikke Nikesko</title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_ef76bddf-45ef-48b7-b6bd-df45efb8b7b0</link>

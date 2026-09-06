@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 13:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:20:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Cecilie Kåss Furuseth / Trond-Viggo Torgersen / Hilde Skaar</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_460eeb78-610c-4dc5-8eeb-78610ccdc5f6</link>
+      <description>TILBAKEMELDING: Fikk morgenstemningen gull i munn? / PROBLEMER: Jeg har blitt fanget i mitt eget fråtseri / Vi vil gifte oss i hemmelighet / Hva skal jeg plotte inn i kalenderen? / Pappas tupéhemmelighet / Ta initiativ, selv om jeg ikke er så interessert / Quizlag, men ikke venner lenger / Forholdet forsvinner inn i doomscrolling / Antivaxx-svigerinne</description>
+      <guid isPermaLink="false">l_460eeb78-610c-4dc5-8eeb-78610ccdc5f6</guid>
+      <pubDate>Sat, 05 Sep 2026 14:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/460eeb78-610c-4dc5-8eeb-78610ccdc5f6_1_ID192MP3.mp3" type="audio/mpeg" length="195249068"></enclosure>
+      <itunes:title>Cecilie Kåss Furuseth / Trond-Viggo Torgersen / Hilde Skaar</itunes:title>
+      <itunes:summary>TILBAKEMELDING: Fikk morgenstemningen gull i munn? / PROBLEMER: Jeg har blitt fanget i mitt eget fråtseri / Vi vil gifte oss i hemmelighet / Hva skal jeg plotte inn i kalenderen? / Pappas tupéhemmelighet / Ta initiativ, selv om jeg ikke er så interessert / Quizlag, men ikke venner lenger / Forholdet forsvinner inn i doomscrolling / Antivaxx-svigerinne</itunes:summary>
+      <itunes:duration>8135</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/O0Jkzih1JoYqXEqk5UyZtAhseySjxRuO_1_XioPczhpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Den mystiske lyden er... (ikke det du tror)</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_1d7f7e90-a122-4730-bf7e-90a122c730d8</link>

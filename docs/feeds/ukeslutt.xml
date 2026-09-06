@@ -6,7 +6,7 @@
     <description>Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ukeslutt</title>
       <link>https://radio.nrk.no/podkast/ukeslutt</link>
     </image>
+    <item>
+      <title>Å tonesette et tronskifte</title>
+      <link>https://radio.nrk.no/podkast/ukeslutt/l_eb914154-d941-4a42-9141-54d9417a42e3</link>
+      <description>Hvorfor er musikken så viktig i sorgen?</description>
+      <guid isPermaLink="false">l_eb914154-d941-4a42-9141-54d9417a42e3</guid>
+      <pubDate>Sat, 05 Sep 2026 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/eb914154-d941-4a42-9141-54d9417a42e3_1_ID192MP3.mp3" type="audio/mpeg" length="95666156"></enclosure>
+      <itunes:title>Å tonesette et tronskifte</itunes:title>
+      <itunes:summary>Hvorfor er musikken så viktig i sorgen?</itunes:summary>
+      <itunes:duration>3986</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D1kkFX-u-TDLB62jMqij9gHwapEBIVPQkLX009YOq5aQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Tog til besvær</title>
       <link>https://radio.nrk.no/podkast/ukeslutt/l_3e8f6fd3-fb12-4bb9-8f6f-d3fb120bb9fa</link>

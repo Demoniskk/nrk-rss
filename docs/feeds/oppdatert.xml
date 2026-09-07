@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Son døydde på sjukehus: Har «hjerneflukt» skylda?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_00f0ffa0-a879-4228-b0ff-a0a879622859</link>
+      <description>Stjerneforfattar skuldar sjukehuset for grov feil. Fleire varslar om ein skummel trend i nigeriansk helsevesen.</description>
+      <guid isPermaLink="false">l_00f0ffa0-a879-4228-b0ff-a0a879622859</guid>
+      <pubDate>Mon, 07 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/00f0ffa0-a879-4228-b0ff-a0a879622859_1_ID192MP3.mp3" type="audio/mpeg" length="27213164"></enclosure>
+      <itunes:title>Son døydde på sjukehus: Har «hjerneflukt» skylda?</itunes:title>
+      <itunes:summary>Stjerneforfattar skuldar sjukehuset for grov feil. Fleire varslar om ein skummel trend i nigeriansk helsevesen.</itunes:summary>
+      <itunes:duration>1133</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/584UuscPbkhFiFgkce9MigMK-3vAwLVng0pM9dEiZdLQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Barnestjernens død: Derfor raser Hollywood</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_161fda19-e58b-4787-9fda-19e58b978770</link>

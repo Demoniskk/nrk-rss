@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Alt er mulig - Ingjerd Egeberg</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_0345921c-5e8e-44d4-8592-1c5e8ef4d4e9</link>
+      <description>Noen går nye ting i møte med store forventninger. Andre gjør det motsatte, for heller å bli gledelig overrasket.</description>
+      <guid isPermaLink="false">l_0345921c-5e8e-44d4-8592-1c5e8ef4d4e9</guid>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/0345921c-5e8e-44d4-8592-1c5e8ef4d4e9_1_ID192MP3.mp3" type="audio/mpeg" length="6091244"></enclosure>
+      <itunes:title>Alt er mulig - Ingjerd Egeberg</itunes:title>
+      <itunes:summary>Noen går nye ting i møte med store forventninger. Andre gjør det motsatte, for heller å bli gledelig overrasket.</itunes:summary>
+      <itunes:duration>253</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hMmUpSs2zzlyzr6uTI0dewoxtHI44fnXbN6pishYMIwA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>C S Lewis - Elin S. Rabbevåg</title>
       <link>https://radio.nrk.no/podkast/andakten/l_4ba4e5d6-6bea-4387-a4e5-d66beab38763</link>

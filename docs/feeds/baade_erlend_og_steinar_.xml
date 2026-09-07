@@ -6,7 +6,7 @@
     <description>En tenketank for folk med lav intelligens.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baade_erlend_og_steinar_.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Både Erlend og Steinar </title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
     </image>
+    <item>
+      <title>En ubehagelig god gjerning</title>
+      <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_1dd7a8a1-1aa0-43a3-97a8-a11aa093a31a</link>
+      <description>Har Erlend blitt en KI-doomer? Hvordan får man egentlig et bedre selvbilde? Og en lytter har vært vitne til en ubehagelig god gjerning.</description>
+      <guid isPermaLink="false">l_1dd7a8a1-1aa0-43a3-97a8-a11aa093a31a</guid>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/1dd7a8a1-1aa0-43a3-97a8-a11aa093a31a_1_ID192MP3.mp3" type="audio/mpeg" length="82850732"></enclosure>
+      <itunes:title>En ubehagelig god gjerning</itunes:title>
+      <itunes:summary>Har Erlend blitt en KI-doomer? Hvordan får man egentlig et bedre selvbilde? Og en lytter har vært vitne til en ubehagelig god gjerning.</itunes:summary>
+      <itunes:duration>3452</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>RIP kong Harald</title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_d2464db6-20fc-42ad-864d-b620fca2aded</link>

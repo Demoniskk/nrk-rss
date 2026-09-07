@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Oslo forbereder seg på gravferd</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_710ff972-1add-4254-8ff9-721addc25447</link>
+      <description>Og årets El Niño blir trolig den kraftigste noensinne.</description>
+      <guid isPermaLink="false">l_710ff972-1add-4254-8ff9-721addc25447</guid>
+      <pubDate>Mon, 07 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/710ff972-1add-4254-8ff9-721addc25447_1_ID192MP3.mp3" type="audio/mpeg" length="8891180"></enclosure>
+      <itunes:title>Oslo forbereder seg på gravferd</itunes:title>
+      <itunes:summary>Og årets El Niño blir trolig den kraftigste noensinne.</itunes:summary>
+      <itunes:duration>370</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/v9iJxp25OFSmxVyfEhgb8w8FMZsAuaz88n-fVdjR9ZUw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>– Jeg ble kvalm av det</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_1de102cb-1bce-4f23-a102-cb1bcedf234c</link>

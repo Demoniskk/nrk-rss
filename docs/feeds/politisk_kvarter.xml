@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Et barnevern uten kontroll</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_aba9cc70-3869-483e-a9cc-703869383e5e</link>
+      <description>Mer enn 400 aktører innen barnevernet tar imot sårbare barn som ikke kan bo hjemme. &#xA;Politiet mistenker at kriminelle nettverk har fått tilgang til både sårbare barn og offentlige penger.</description>
+      <guid isPermaLink="false">l_aba9cc70-3869-483e-a9cc-703869383e5e</guid>
+      <pubDate>Mon, 07 Sep 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/aba9cc70-3869-483e-a9cc-703869383e5e_1_ID192MP3.mp3" type="audio/mpeg" length="21721004"></enclosure>
+      <itunes:title>Et barnevern uten kontroll</itunes:title>
+      <itunes:summary>Mer enn 400 aktører innen barnevernet tar imot sårbare barn som ikke kan bo hjemme. &#xA;Politiet mistenker at kriminelle nettverk har fått tilgang til både sårbare barn og offentlige penger.</itunes:summary>
+      <itunes:duration>904</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Cf3Umayd01hgGm69nAqmVgWWQuBA0ljpFDdS7xwog5zQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Økt spenning før valget i Sverige</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_cde30433-7dc1-48b9-a304-337dc108b99c</link>

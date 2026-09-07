@@ -6,7 +6,7 @@
     <description>Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kilder_til_begeistring.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kilder til begeistring</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring</link>
     </image>
+    <item>
+      <title>Ledningsknappen</title>
+      <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_cff2fea0-b3ae-41f4-b2fe-a0b3ae11f49d</link>
+      <description>Du har støvsugd. Det var kanskje ikke all verden, men nå er det gjort.</description>
+      <guid isPermaLink="false">l_cff2fea0-b3ae-41f4-b2fe-a0b3ae11f49d</guid>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kilder_til_begeistring/cff2fea0-b3ae-41f4-b2fe-a0b3ae11f49d_1_ID192MP3.mp3" type="audio/mpeg" length="1536236"></enclosure>
+      <itunes:title>Ledningsknappen</itunes:title>
+      <itunes:summary>Du har støvsugd. Det var kanskje ikke all verden, men nå er det gjort.</itunes:summary>
+      <itunes:duration>63</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EoJT_rdzPpGdMqizVACGzAM8B8-ytYf6_dcK0t68D1UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Å brette sengetøy sammen med andre</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_3973590c-8774-4707-b359-0c877437074f</link>

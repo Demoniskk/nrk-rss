@@ -6,7 +6,7 @@
     <description>Partyprinser, gærninger og kranglefanter – kongeslekta er full av sinnssyke historier! Med Aslak Sira Myhre og Ole-Albert Rønning Nordby. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/strid.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Strid – de norske borgerkrigene</title>
       <link>https://radio.nrk.no/podkast/strid</link>
     </image>
+    <item>
+      <title>Kirkegården</title>
+      <link>https://radio.nrk.no/podkast/strid/l_e2bd976a-82a4-4cde-bd97-6a82a41cded8</link>
+      <description>Det er 21. april 1240, og Håkon møter Skule i Oslo, til et slag som kommer til å avgjøre de norske borgerkrigene.</description>
+      <guid isPermaLink="false">l_e2bd976a-82a4-4cde-bd97-6a82a41cded8</guid>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/strid/e2bd976a-82a4-4cde-bd97-6a82a41cded8_1_ID192MP3.mp3" type="audio/mpeg" length="81633068"></enclosure>
+      <itunes:title>Kirkegården</itunes:title>
+      <itunes:summary>Det er 21. april 1240, og Håkon møter Skule i Oslo, til et slag som kommer til å avgjøre de norske borgerkrigene.</itunes:summary>
+      <itunes:duration>3401</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/RAOVUqQdPMfJKZ69fnlOLgPXlS1N37QMyaTqfI4TqBDQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Medvinden</title>
       <link>https://radio.nrk.no/podkast/strid/l_06e1211f-6f5b-4b51-a121-1f6f5b0b5143</link>

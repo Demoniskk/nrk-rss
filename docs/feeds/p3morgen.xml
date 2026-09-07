@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Vi vil døpe en øy</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_4b9c6d90-e9f8-4af4-9c6d-90e9f83af4a2</link>
+      <description>Det har blitt oppdaget en ny øy, vi vil døpe den. Vi har mange forslag og kontakter Norsk Polarinstitutt for å få det til å skje.</description>
+      <guid isPermaLink="false">l_4b9c6d90-e9f8-4af4-9c6d-90e9f83af4a2</guid>
+      <pubDate>Mon, 07 Sep 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/4b9c6d90-e9f8-4af4-9c6d-90e9f83af4a2_1_ID192MP3.mp3" type="audio/mpeg" length="59260652"></enclosure>
+      <itunes:title>Vi vil døpe en øy</itunes:title>
+      <itunes:summary>Det har blitt oppdaget en ny øy, vi vil døpe den. Vi har mange forslag og kontakter Norsk Polarinstitutt for å få det til å skje.</itunes:summary>
+      <itunes:duration>2469</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zrAhH8jI0cAYEZCOXH4qvQi7v1DYr4SYzOdzGzQ4EdKQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>MAGA videospill fra Det hvite hus</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_1faff803-968c-468d-aff8-03968c868dcc</link>

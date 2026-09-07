@@ -6,7 +6,7 @@
     <description>Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Trygdekontoret</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret</link>
     </image>
+    <item>
+      <title>Huleboere</title>
+      <link>https://radio.nrk.no/podkast/trygdekontoret/l_27d1d119-021a-47b1-91d1-19021a67b181</link>
+      <description>Hvorfor har nordmenn bosatt seg i huler og forlatte bjørnehi? Folkeminnegransker Thor Gotaas om samfunnets outsidere, fredløse tyver og hulemannen på Blindern.</description>
+      <guid isPermaLink="false">l_27d1d119-021a-47b1-91d1-19021a67b181</guid>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/27d1d119-021a-47b1-91d1-19021a67b181_1_ID192MP3.mp3" type="audio/mpeg" length="76544684"></enclosure>
+      <itunes:title>Huleboere</itunes:title>
+      <itunes:summary>Hvorfor har nordmenn bosatt seg i huler og forlatte bjørnehi? Folkeminnegransker Thor Gotaas om samfunnets outsidere, fredløse tyver og hulemannen på Blindern.</itunes:summary>
+      <itunes:duration>3189</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Jonestown</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret/l_0ec434f3-3496-495c-8434-f33496695c14</link>

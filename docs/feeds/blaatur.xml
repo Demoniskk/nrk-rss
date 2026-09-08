@@ -6,7 +6,7 @@
     <description>En ukentlig flukt fra hverdagen! Sketsjer, hyss og spik med Christian Mikkelsen, Olav Svarstad Haugland og Emil Berntsen.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/blaatur.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Blåtur</title>
       <link>https://radio.nrk.no/podkast/blaatur</link>
     </image>
+    <item>
+      <title>Plattfot a lá gakkgakk</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_5c7bb8a6-fefc-499a-bbb8-a6fefc999a96</link>
+      <description>Emil har gått på en Texburger-smell. Olav er selvutnevnt mester i brødkuttemaskin. Christian har ikke lunsjen klar.</description>
+      <guid isPermaLink="false">l_5c7bb8a6-fefc-499a-bbb8-a6fefc999a96</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/5c7bb8a6-fefc-499a-bbb8-a6fefc999a96_1_ID192MP3.mp3" type="audio/mpeg" length="55968812"></enclosure>
+      <itunes:title>Plattfot a lá gakkgakk</itunes:title>
+      <itunes:summary>Emil har gått på en Texburger-smell. Olav er selvutnevnt mester i brødkuttemaskin. Christian har ikke lunsjen klar.</itunes:summary>
+      <itunes:duration>2331</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Vi snakker om mat</title>
       <link>https://radio.nrk.no/podkast/blaatur/l_dc791786-5a28-48ab-b917-865a28a8ab00</link>

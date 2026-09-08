@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 31 Aug 2026 12:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:55:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Ødegaards kanonform og nye fjes på landslaget?</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_cb99e855-ece2-4a6a-99e8-55ece2fa6afe</link>
+      <description>Kaptein Martin Ødegaard viser storform før høstens landskamper. Og får vi se noen nye spiller på laget - som ikke var med i VM?&#xA;Kampene mot Danmark og Portugal nærmer seg.</description>
+      <guid isPermaLink="false">l_cb99e855-ece2-4a6a-99e8-55ece2fa6afe</guid>
+      <pubDate>Mon, 07 Sep 2026 14:55:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/cb99e855-ece2-4a6a-99e8-55ece2fa6afe_1_ID192MP3.mp3" type="audio/mpeg" length="57089132"></enclosure>
+      <itunes:title>Ødegaards kanonform og nye fjes på landslaget?</itunes:title>
+      <itunes:summary>Kaptein Martin Ødegaard viser storform før høstens landskamper. Og får vi se noen nye spiller på laget - som ikke var med i VM?&#xA;Kampene mot Danmark og Portugal nærmer seg.</itunes:summary>
+      <itunes:duration>2378</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Kongen hedret og Europa-suksess.</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_e9404491-5638-4db4-8044-9156384db421</link>

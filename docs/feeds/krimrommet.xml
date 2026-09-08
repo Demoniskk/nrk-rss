@@ -6,7 +6,7 @@
     <description>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Krimrommet</title>
       <link>https://radio.nrk.no/podkast/krimrommet</link>
     </image>
+    <item>
+      <title>Clancy (2): Uløst rettsdrama</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_c7e7e50e-8216-4630-a7e5-0e8216c6304b</link>
+      <description>Rettssaken mot Lindsay Clancy går mot en avslutning. Men så setter ett av jurymedlemmene seg på bakbeina.</description>
+      <guid isPermaLink="false">l_c7e7e50e-8216-4630-a7e5-0e8216c6304b</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/c7e7e50e-8216-4630-a7e5-0e8216c6304b_1_ID192MP3.mp3" type="audio/mpeg" length="51687980"></enclosure>
+      <itunes:title>Clancy (2): Uløst rettsdrama</itunes:title>
+      <itunes:summary>Rettssaken mot Lindsay Clancy går mot en avslutning. Men så setter ett av jurymedlemmene seg på bakbeina.</itunes:summary>
+      <itunes:duration>2153</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/p_UcbnpY5gla8fWh5E9t_w8WML-Fd7YNQr3GfJpHUgAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Clancy (1): Drap eller depresjon?</title>
       <link>https://radio.nrk.no/podkast/krimrommet/l_1542b4e7-33ea-41e7-82b4-e733ea51e78c</link>

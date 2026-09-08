@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Sergej Lavrov - fra koseprat til krigsretorikk</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_c0962f6d-2ee3-4c22-962f-6d2ee30c2244</link>
+      <description>En gang tuslet han rundt på Storskog og roste samarbeidet med Norge. Nå kaller han Norge en risiko mot Russland.</description>
+      <guid isPermaLink="false">l_c0962f6d-2ee3-4c22-962f-6d2ee30c2244</guid>
+      <pubDate>Mon, 07 Sep 2026 13:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c0962f6d-2ee3-4c22-962f-6d2ee30c2244_1_ID192MP3.mp3" type="audio/mpeg" length="46539116"></enclosure>
+      <itunes:title>Sergej Lavrov - fra koseprat til krigsretorikk</itunes:title>
+      <itunes:summary>En gang tuslet han rundt på Storskog og roste samarbeidet med Norge. Nå kaller han Norge en risiko mot Russland.</itunes:summary>
+      <itunes:duration>1939</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Mfge3gqnQvmCQzW-9o5XBwNtM8x0-jGrSwuLMfHE4Xgw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Nytt håp for organdonasjon</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_c5cbd90a-0ae8-451a-8bd9-0a0ae8951a3c</link>

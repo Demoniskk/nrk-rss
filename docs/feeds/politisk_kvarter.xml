@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Er Jimmie Åkesson høyreekstrem?</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_63ae1f3f-ec6b-41bd-ae1f-3fec6bf1bd77</link>
+      <description>Sverigedemokratene har klare antidemokratiske trekk, mener kommunikasjonssjefen i Agenda.&#xA;Falske anklager for svekke borgerlig side, svarer Minerva-redaktøren.</description>
+      <guid isPermaLink="false">l_63ae1f3f-ec6b-41bd-ae1f-3fec6bf1bd77</guid>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/63ae1f3f-ec6b-41bd-ae1f-3fec6bf1bd77_1_ID192MP3.mp3" type="audio/mpeg" length="21496364"></enclosure>
+      <itunes:title>Er Jimmie Åkesson høyreekstrem?</itunes:title>
+      <itunes:summary>Sverigedemokratene har klare antidemokratiske trekk, mener kommunikasjonssjefen i Agenda.&#xA;Falske anklager for svekke borgerlig side, svarer Minerva-redaktøren.</itunes:summary>
+      <itunes:duration>895</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6LsGlMe1cnS9oABJlZ4AvwpGDKWoP5SawQ6W9dU9eSUw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Et barnevern uten kontroll</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_aba9cc70-3869-483e-a9cc-703869383e5e</link>

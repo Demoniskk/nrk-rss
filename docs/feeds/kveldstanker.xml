@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Forglem meg ei - med Sigrun Loe Sparboe</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_641fd9e0-9d14-4b26-9fd9-e09d146b2629</link>
+      <description>- Tenk at mye i oss som voksen var der allerede da vi var barn, undrer musiker og komponist Sigrun Loe Sparboe.</description>
+      <guid isPermaLink="false">l_641fd9e0-9d14-4b26-9fd9-e09d146b2629</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/641fd9e0-9d14-4b26-9fd9-e09d146b2629_1_ID192MP3.mp3" type="audio/mpeg" length="4675436"></enclosure>
+      <itunes:title>Forglem meg ei - med Sigrun Loe Sparboe</itunes:title>
+      <itunes:summary>- Tenk at mye i oss som voksen var der allerede da vi var barn, undrer musiker og komponist Sigrun Loe Sparboe.</itunes:summary>
+      <itunes:duration>194</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YKifrZnLK0bkOj4xrHgkjASL_pSlg5mmx7LyQ1xT8a0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Kapteinen med Lena Lindahl</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_0b33bbb2-dbb1-43e2-b3bb-b2dbb123e2a8</link>

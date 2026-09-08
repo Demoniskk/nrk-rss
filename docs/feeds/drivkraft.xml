@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 10:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:37:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Torgrim Eggen</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_3d90fafc-bbfe-45d9-90fa-fcbbfef5d9dd</link>
+      <description>– Jeg visste det lå noe i familiehistorien som var litt ekkelt, sier forfatteren av boken Blodet.</description>
+      <guid isPermaLink="false">l_3d90fafc-bbfe-45d9-90fa-fcbbfef5d9dd</guid>
+      <pubDate>Mon, 07 Sep 2026 12:37:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/3d90fafc-bbfe-45d9-90fa-fcbbfef5d9dd_1_ID192MP3.mp3" type="audio/mpeg" length="82603628"></enclosure>
+      <itunes:title>Torgrim Eggen</itunes:title>
+      <itunes:summary>– Jeg visste det lå noe i familiehistorien som var litt ekkelt, sier forfatteren av boken Blodet.</itunes:summary>
+      <itunes:duration>3441</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JCzZ5laVdpJ-vL31NGfdXgRUY-oZUCofzXwNMrLVes6A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Håkon Opdal</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_c1914347-fe32-4388-9143-47fe32f388a4</link>

@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 06 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Ingar Helge Gimle: 60+ og Tinder</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_5124454d-2bd5-494b-a445-4d2bd5194b94</link>
+      <description>Skuespiller Ingar Helge Gimle om dating i voksen alder og om å finne kjærligheten igjen.</description>
+      <guid isPermaLink="false">l_5124454d-2bd5-494b-a445-4d2bd5194b94</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/5124454d-2bd5-494b-a445-4d2bd5194b94_1_ID192MP3.mp3" type="audio/mpeg" length="54059948"></enclosure>
+      <itunes:title>Ingar Helge Gimle: 60+ og Tinder</itunes:title>
+      <itunes:summary>Skuespiller Ingar Helge Gimle om dating i voksen alder og om å finne kjærligheten igjen.</itunes:summary>
+      <itunes:duration>2252</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HP2Zlqx8NeDNZFrqi6CqQwnxkwGc2WLvfk6Lw4neOV1w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Panelet: Sexfest og romantikk</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_5fd58362-ed7b-4bf6-9583-62ed7b3bf631</link>

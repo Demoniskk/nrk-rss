@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Takknemlighet -Ingjerd Egeberg</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_8b49058d-3332-479e-8905-8d3332279e13</link>
+      <description>Hun er i ferd med å hente inn et etterslep. Noe hun ikke har vært nok bevisst på en stund. Det har gjort henne takknemlig.</description>
+      <guid isPermaLink="false">l_8b49058d-3332-479e-8905-8d3332279e13</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/8b49058d-3332-479e-8905-8d3332279e13_1_ID192MP3.mp3" type="audio/mpeg" length="6374060"></enclosure>
+      <itunes:title>Takknemlighet -Ingjerd Egeberg</itunes:title>
+      <itunes:summary>Hun er i ferd med å hente inn et etterslep. Noe hun ikke har vært nok bevisst på en stund. Det har gjort henne takknemlig.</itunes:summary>
+      <itunes:duration>265</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hMmUpSs2zzlyzr6uTI0dewoxtHI44fnXbN6pishYMIwA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Alt er mulig - Ingjerd Egeberg</title>
       <link>https://radio.nrk.no/podkast/andakten/l_0345921c-5e8e-44d4-8592-1c5e8ef4d4e9</link>

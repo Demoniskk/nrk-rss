@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Hockeyboom i Norge</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_29573147-f275-48de-9731-47f27598dea9</link>
+      <description>Og en ny studie viser at det er geografiske forskjeller i hvem som rammes av parkinson.</description>
+      <guid isPermaLink="false">l_29573147-f275-48de-9731-47f27598dea9</guid>
+      <pubDate>Tue, 08 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/29573147-f275-48de-9731-47f27598dea9_1_ID192MP3.mp3" type="audio/mpeg" length="7398764"></enclosure>
+      <itunes:title>Hockeyboom i Norge</itunes:title>
+      <itunes:summary>Og en ny studie viser at det er geografiske forskjeller i hvem som rammes av parkinson.</itunes:summary>
+      <itunes:duration>308</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8OO0vvym9jj_13oPPMuhIgcJ8unCE94kduTo6jHNiEdg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Oslo forbereder seg på gravferd</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_710ff972-1add-4254-8ff9-721addc25447</link>

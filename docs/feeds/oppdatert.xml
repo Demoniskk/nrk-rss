@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Blått blod: Slik ble de Europas mektigste</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_17eab93b-f752-46f4-aab9-3bf75226f4de</link>
+      <description>Europas største kongeslekt samles nå i Norge. Hvem er de egentlig?</description>
+      <guid isPermaLink="false">l_17eab93b-f752-46f4-aab9-3bf75226f4de</guid>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/17eab93b-f752-46f4-aab9-3bf75226f4de_2_ID192MP3.mp3" type="audio/mpeg" length="22964012"></enclosure>
+      <itunes:title>Blått blod: Slik ble de Europas mektigste</itunes:title>
+      <itunes:summary>Europas største kongeslekt samles nå i Norge. Hvem er de egentlig?</itunes:summary>
+      <itunes:duration>956</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rnF_XXE4nVhcpOVWpwGl8AS9L0vbAsKAOD87JpsnIutg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Fylla og scrolling: Derfor tek du dårlege val</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_7221c50b-7ac3-4966-a1c5-0b7ac3e966f0</link>

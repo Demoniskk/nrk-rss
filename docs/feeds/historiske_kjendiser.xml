@@ -6,7 +6,7 @@
     <description>Idealister, genier og maktgale gærninger; Alexandra Gjerpen vekker historiens største personer til live igjen.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/historiske_kjendiser.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Historiske kjendiser</title>
       <link>https://radio.nrk.no/podkast/historiske_kjendiser</link>
     </image>
+    <item>
+      <title>Neil Armstrong – fryktløs astronaut</title>
+      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_264c28cf-1339-4009-8c28-cf1339d0094d</link>
+      <description>Astronauten tok menneskehetens første steg på månen.</description>
+      <guid isPermaLink="false">l_264c28cf-1339-4009-8c28-cf1339d0094d</guid>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/264c28cf-1339-4009-8c28-cf1339d0094d_1_ID192MP3.mp3" type="audio/mpeg" length="81369836"></enclosure>
+      <itunes:title>Neil Armstrong – fryktløs astronaut</itunes:title>
+      <itunes:summary>Astronauten tok menneskehetens første steg på månen.</itunes:summary>
+      <itunes:duration>3390</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mH19H3-xph-toIdDPlgTswx0gUf8m_lU4B0XP1MUP6gw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Grace Kelly – fyrstelig filmstjerne</title>
       <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_00ec851e-622b-4fa5-ac85-1e622b5fa55a</link>

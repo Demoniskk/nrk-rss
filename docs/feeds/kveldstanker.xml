@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Frivillighet - med Jon Niklas Rønning</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_ec6e4003-0201-43a5-ae40-03020143a5ee</link>
+      <description>Jeg er dypt imponert av frivillige i idretts- og fritidsaktiviteter for barn, forteller musiker Jon Niklas Rønning.</description>
+      <guid isPermaLink="false">l_ec6e4003-0201-43a5-ae40-03020143a5ee</guid>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/ec6e4003-0201-43a5-ae40-03020143a5ee_1_ID192MP3.mp3" type="audio/mpeg" length="4623596"></enclosure>
+      <itunes:title>Frivillighet - med Jon Niklas Rønning</itunes:title>
+      <itunes:summary>Jeg er dypt imponert av frivillige i idretts- og fritidsaktiviteter for barn, forteller musiker Jon Niklas Rønning.</itunes:summary>
+      <itunes:duration>192</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yW5PuBp8Qzcl4EVUSZDWaA6d1o0MhLtuVFtvBAZWy1kw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Forglem meg ei - med Sigrun Loe Sparboe</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_641fd9e0-9d14-4b26-9fd9-e09d146b2629</link>

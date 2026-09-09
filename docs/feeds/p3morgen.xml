@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,48 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>3+3=9?</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_dba1f70d-212d-4b49-a1f7-0d212d0b492b</link>
+      <description>Norske elever blir dårligere og dårligere på lesing og regning. Hvordan står det til med oss i studio? Jonas har gjort klar en vaskeekte prøve.</description>
+      <guid isPermaLink="false">l_dba1f70d-212d-4b49-a1f7-0d212d0b492b</guid>
+      <pubDate>Wed, 09 Sep 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/dba1f70d-212d-4b49-a1f7-0d212d0b492b_1_ID192MP3.mp3" type="audio/mpeg" length="55337516"></enclosure>
+      <itunes:title>3+3=9?</itunes:title>
+      <itunes:summary>Norske elever blir dårligere og dårligere på lesing og regning. Hvordan står det til med oss i studio? Jonas har gjort klar en vaskeekte prøve.</itunes:summary>
+      <itunes:duration>2305</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
+    <item>
+      <title>Pepsi Max = lavstatus?</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_630c1b36-665e-4b55-8c1b-36665ebb557d</link>
+      <description>Kan man bestille brus på fin restaurant? Og i så fall hvilken? Arin og Jonas har listen til deg. Henning elsker interne vitser, og leter etter de beste.</description>
+      <guid isPermaLink="false">l_630c1b36-665e-4b55-8c1b-36665ebb557d</guid>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/630c1b36-665e-4b55-8c1b-36665ebb557d_1_ID192MP3.mp3" type="audio/mpeg" length="55630124"></enclosure>
+      <itunes:title>Pepsi Max = lavstatus?</itunes:title>
+      <itunes:summary>Kan man bestille brus på fin restaurant? Og i så fall hvilken? Arin og Jonas har listen til deg. Henning elsker interne vitser, og leter etter de beste.</itunes:summary>
+      <itunes:duration>2317</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2WrndQIO84Z1mA51ggTEMgpaubod5t1-Nw00IsBur5lA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
+    <item>
+      <title>B-mennesker: Attentatordre på musikklæreren.</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_e464eeb6-8155-42c3-a4ee-b6815572c328</link>
+      <description>Jonas ble homo da han så jentene i klassen danse til «Bumpy ride» og Henning deler sine tanker om «En stjerne skinner i natt».</description>
+      <guid isPermaLink="false">l_e464eeb6-8155-42c3-a4ee-b6815572c328</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e464eeb6-8155-42c3-a4ee-b6815572c328_1_ID192MP3.mp3" type="audio/mpeg" length="29684780"></enclosure>
+      <itunes:title>B-mennesker: Attentatordre på musikklæreren.</itunes:title>
+      <itunes:summary>Jonas ble homo da han så jentene i klassen danse til «Bumpy ride» og Henning deler sine tanker om «En stjerne skinner i natt».</itunes:summary>
+      <itunes:duration>1236</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Vi vil døpe en øy</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_4b9c6d90-e9f8-4af4-9c6d-90e9f83af4a2</link>

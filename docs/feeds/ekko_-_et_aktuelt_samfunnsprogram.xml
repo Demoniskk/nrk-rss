@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Ceuta-konspirasjonane</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_7a0e3500-9305-419c-8e35-009305f19cc5</link>
+      <description>Statsministeren i Spania skuldar Russland og Israel for desinformasjon i Ceuta. Kven tener på å fyre opp krisa og splitte Europa?</description>
+      <guid isPermaLink="false">l_7a0e3500-9305-419c-8e35-009305f19cc5</guid>
+      <pubDate>Tue, 08 Sep 2026 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/7a0e3500-9305-419c-8e35-009305f19cc5_1_ID192MP3.mp3" type="audio/mpeg" length="37354796"></enclosure>
+      <itunes:title>Ceuta-konspirasjonane</itunes:title>
+      <itunes:summary>Statsministeren i Spania skuldar Russland og Israel for desinformasjon i Ceuta. Kven tener på å fyre opp krisa og splitte Europa?</itunes:summary>
+      <itunes:duration>1556</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0MplT2SYRNdSyQvKMkciZQ7t9dNFF5f_J0X1Y9c7-C3Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Sergej Lavrov - fra koseprat til krigsretorikk</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_c0962f6d-2ee3-4c22-962f-6d2ee30c2244</link>

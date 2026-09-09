@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>I dag tar Norge farvel med kong Harald</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_fb15890b-8964-44e2-9589-0b896444e264</link>
+      <description>Gravferden skal vises over hele landet.</description>
+      <guid isPermaLink="false">l_fb15890b-8964-44e2-9589-0b896444e264</guid>
+      <pubDate>Wed, 09 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/fb15890b-8964-44e2-9589-0b896444e264_1_ID192MP3.mp3" type="audio/mpeg" length="6829676"></enclosure>
+      <itunes:title>I dag tar Norge farvel med kong Harald</itunes:title>
+      <itunes:summary>Gravferden skal vises over hele landet.</itunes:summary>
+      <itunes:duration>284</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tli9oakrA-9Nk12TpgEABghGhv0_Xu3T7O_QEXw6dQBQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Hockeyboom i Norge</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_29573147-f275-48de-9731-47f27598dea9</link>

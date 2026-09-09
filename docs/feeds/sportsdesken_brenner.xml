@@ -6,7 +6,7 @@
     <description>En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sportsdesken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sportsdesken brenner</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner</link>
     </image>
+    <item>
+      <title>En gjeng med tapere</title>
+      <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_d9703e98-f41f-42de-b03e-98f41f62de5a</link>
+      <description>Er det greit å kalle konkurrentene sine for en gjeng med tapere, eller bør man heller heie på seg selv underveis? &#xA;Gjengen avdekker sjokkerende garderobelyd fra Sogndal og gransker NRKs elsk for Emilie Nerengs løpesko.&#xA;Vi kårer også Sportsdeskens beste fantasy-liganavn!</description>
+      <guid isPermaLink="false">l_d9703e98-f41f-42de-b03e-98f41f62de5a</guid>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/d9703e98-f41f-42de-b03e-98f41f62de5a_1_ID192MP3.mp3" type="audio/mpeg" length="60363116"></enclosure>
+      <itunes:title>En gjeng med tapere</itunes:title>
+      <itunes:summary>Er det greit å kalle konkurrentene sine for en gjeng med tapere, eller bør man heller heie på seg selv underveis? &#xA;Gjengen avdekker sjokkerende garderobelyd fra Sogndal og gransker NRKs elsk for Emilie Nerengs løpesko.&#xA;Vi kårer også Sportsdeskens beste fantasy-liganavn!</itunes:summary>
+      <itunes:duration>2515</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Nattasang for Bodø: Ta med ekstra stilongs!</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_c8a024b8-0756-4dbc-a024-b807568dbccd</link>

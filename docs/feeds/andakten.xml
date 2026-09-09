@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Godt nok - Ingjerd Egeberg</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_88dca942-ba5d-4071-9ca9-42ba5d3071a4</link>
+      <description>Hva skal til for at vi blir fornøyd med det vi gjør, og det vi har rundt oss? Når er noe godt nok?</description>
+      <guid isPermaLink="false">l_88dca942-ba5d-4071-9ca9-42ba5d3071a4</guid>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/88dca942-ba5d-4071-9ca9-42ba5d3071a4_1_ID192MP3.mp3" type="audio/mpeg" length="6397676"></enclosure>
+      <itunes:title>Godt nok - Ingjerd Egeberg</itunes:title>
+      <itunes:summary>Hva skal til for at vi blir fornøyd med det vi gjør, og det vi har rundt oss? Når er noe godt nok?</itunes:summary>
+      <itunes:duration>266</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hMmUpSs2zzlyzr6uTI0dewoxtHI44fnXbN6pishYMIwA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Takknemlighet -Ingjerd Egeberg</title>
       <link>https://radio.nrk.no/podkast/andakten/l_8b49058d-3332-479e-8905-8d3332279e13</link>

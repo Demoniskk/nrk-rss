@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Alvorlig fall i norske Pisa-resultater</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_0641ede9-6402-44f2-81ed-e9640274f2c1</link>
+      <description>Norske tiendeklassinger gjør det betydelig dårligere enn før i lesing og regning. Norge ligger under OECD-gjennomsnittet i alle de tre fagområdene.</description>
+      <guid isPermaLink="false">l_0641ede9-6402-44f2-81ed-e9640274f2c1</guid>
+      <pubDate>Tue, 08 Sep 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/0641ede9-6402-44f2-81ed-e9640274f2c1_1_ID192MP3.mp3" type="audio/mpeg" length="84671468"></enclosure>
+      <itunes:title>Alvorlig fall i norske Pisa-resultater</itunes:title>
+      <itunes:summary>Norske tiendeklassinger gjør det betydelig dårligere enn før i lesing og regning. Norge ligger under OECD-gjennomsnittet i alle de tre fagområdene.</itunes:summary>
+      <itunes:duration>3527</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bO9xjVjhQM-djcIrQ1BKFAk1siqfF_8-GyPmmpxQDIjg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>AfD vant delstatsvalget i Sachsen-Anhalt</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_f395e663-e723-4047-95e6-63e723404738</link>

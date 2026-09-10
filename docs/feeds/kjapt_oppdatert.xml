@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Ny kamp om billigere bensin og diesel</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_6da79acd-9139-4c45-a79a-cd91395c45dc</link>
+      <description>Og i dag er det verdensdagen for selvmordsforebygging.</description>
+      <guid isPermaLink="false">l_6da79acd-9139-4c45-a79a-cd91395c45dc</guid>
+      <pubDate>Thu, 10 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/6da79acd-9139-4c45-a79a-cd91395c45dc_1_ID192MP3.mp3" type="audio/mpeg" length="7632620"></enclosure>
+      <itunes:title>Ny kamp om billigere bensin og diesel</itunes:title>
+      <itunes:summary>Og i dag er det verdensdagen for selvmordsforebygging.</itunes:summary>
+      <itunes:duration>317</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NNsKf5EUouVZKPcgt6XMtA5Y96oDc4TdIn5RO1RYynFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>I dag tar Norge farvel med kong Harald</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_fb15890b-8964-44e2-9589-0b896444e264</link>

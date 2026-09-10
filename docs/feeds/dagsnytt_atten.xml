@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Kong Haralds gravferd</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_edc6e3e4-bc41-4f2d-86e3-e4bc415f2dd4</link>
+      <description>I dag ble kong Harald bisatt i Oslo domkirke etter sørgeprosesjonen gjennom byen. Senere møtte kongefamilien folket fra Slottsbalkongen.</description>
+      <guid isPermaLink="false">l_edc6e3e4-bc41-4f2d-86e3-e4bc415f2dd4</guid>
+      <pubDate>Wed, 09 Sep 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/edc6e3e4-bc41-4f2d-86e3-e4bc415f2dd4_1_ID192MP3.mp3" type="audio/mpeg" length="85023404"></enclosure>
+      <itunes:title>Kong Haralds gravferd</itunes:title>
+      <itunes:summary>I dag ble kong Harald bisatt i Oslo domkirke etter sørgeprosesjonen gjennom byen. Senere møtte kongefamilien folket fra Slottsbalkongen.</itunes:summary>
+      <itunes:duration>3542</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/w1bdcXUtIJ5WEJx7VNqTFgFzsD8YAPmE3NLLgPv8_gjg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Alvorlig fall i norske Pisa-resultater</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_0641ede9-6402-44f2-81ed-e9640274f2c1</link>

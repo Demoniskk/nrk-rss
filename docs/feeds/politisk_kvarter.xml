@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Statsministerduell om drivstoffpriser og krisen i norsk skole</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_9c0718c3-44c0-492a-8718-c344c0092aad</link>
+      <description>Borgfredens tid er forbi. Støre møter Listhaug om drivstoffavgifter og Pisa -Undersøkelsen.</description>
+      <guid isPermaLink="false">l_9c0718c3-44c0-492a-8718-c344c0092aad</guid>
+      <pubDate>Thu, 10 Sep 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/9c0718c3-44c0-492a-8718-c344c0092aad_1_ID192MP3.mp3" type="audio/mpeg" length="28809260"></enclosure>
+      <itunes:title>Statsministerduell om drivstoffpriser og krisen i norsk skole</itunes:title>
+      <itunes:summary>Borgfredens tid er forbi. Støre møter Listhaug om drivstoffavgifter og Pisa -Undersøkelsen.</itunes:summary>
+      <itunes:duration>1200</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/987JwAcM7qd4SoEFfAdTVAF1ndLfUHrOLmCipjAu9VDQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Det politiske monarkiet</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_b24ca06b-53ec-4971-8ca0-6b53ec197179</link>

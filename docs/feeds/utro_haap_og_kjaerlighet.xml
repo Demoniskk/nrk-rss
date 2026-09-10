@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Jenny Huse: Selvrealisering</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_ca6e0f9e-5d41-45c9-ae0f-9e5d4165c9d3</link>
+      <description>Jenny Huse har lagt kjærligheten på hylla for å følge drømmen. Må man velge mellom karriere og kjærlighet?</description>
+      <guid isPermaLink="false">l_ca6e0f9e-5d41-45c9-ae0f-9e5d4165c9d3</guid>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/ca6e0f9e-5d41-45c9-ae0f-9e5d4165c9d3_1_ID192MP3.mp3" type="audio/mpeg" length="57660524"></enclosure>
+      <itunes:title>Jenny Huse: Selvrealisering</itunes:title>
+      <itunes:summary>Jenny Huse har lagt kjærligheten på hylla for å følge drømmen. Må man velge mellom karriere og kjærlighet?</itunes:summary>
+      <itunes:duration>2402</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QsuwL7l5nlNjCdKXsSr6EQYZOFLuUhMWBoo4Taqiuqxw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Ingar Helge Gimle: 60+ og Tinder</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_5124454d-2bd5-494b-a445-4d2bd5194b94</link>

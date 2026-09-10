@@ -6,7 +6,7 @@
     <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sentralbordet på NRK</title>
       <link>https://radio.nrk.no/podkast/sentralbordet</link>
     </image>
+    <item>
+      <title>– Nesten som en gagball</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_83f23e2a-ea66-461e-b23e-2aea66161e38</link>
+      <description>Læreren Beaver planlegger klassetur til et museum i England, Vegard klager på appelsiner, Catrin Sagen sliter med å legge på, og en spansk danseskole blir for dyr for Emilie.</description>
+      <guid isPermaLink="false">l_83f23e2a-ea66-461e-b23e-2aea66161e38</guid>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/83f23e2a-ea66-461e-b23e-2aea66161e38_1_ID192MP3.mp3" type="audio/mpeg" length="30741740"></enclosure>
+      <itunes:title>– Nesten som en gagball</itunes:title>
+      <itunes:summary>Læreren Beaver planlegger klassetur til et museum i England, Vegard klager på appelsiner, Catrin Sagen sliter med å legge på, og en spansk danseskole blir for dyr for Emilie.</itunes:summary>
+      <itunes:duration>1280</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>– Tenk om jeg har sagt at jeg skal drepe alle?</title>
       <link>https://radio.nrk.no/podkast/sentralbordet/l_f6022010-8183-4541-8220-1081833541d8</link>

@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Intet annet - Ingjerd Egeberg</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_ce8638af-417c-43ea-8638-af417c03ea2b</link>
+      <description>Man kan få mye ros - og så får man en kritisk kommentar. Hva er det man hører best, og husker lengst?</description>
+      <guid isPermaLink="false">l_ce8638af-417c-43ea-8638-af417c03ea2b</guid>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/ce8638af-417c-43ea-8638-af417c03ea2b_1_ID192MP3.mp3" type="audio/mpeg" length="6627500"></enclosure>
+      <itunes:title>Intet annet - Ingjerd Egeberg</itunes:title>
+      <itunes:summary>Man kan få mye ros - og så får man en kritisk kommentar. Hva er det man hører best, og husker lengst?</itunes:summary>
+      <itunes:duration>276</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hMmUpSs2zzlyzr6uTI0dewoxtHI44fnXbN6pishYMIwA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Godt nok - Ingjerd Egeberg</title>
       <link>https://radio.nrk.no/podkast/andakten/l_88dca942-ba5d-4071-9ca9-42ba5d3071a4</link>

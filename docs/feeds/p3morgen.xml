@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Er vi smartere enn en 10ende klassing?</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_194fb3e0-fdfa-4f79-8fb3-e0fdfa9f7983</link>
+      <description>Vi har fått prøveresultatene våre og skal finne ut hvor smarte vi er. Blir det fotballfest neste år også, under fotball-VM for kvinner? Eller er det en fare for at vi ikke en gang blir med? Vi skal se framover med programleder Gunnhild Toldnes!</description>
+      <guid isPermaLink="false">l_194fb3e0-fdfa-4f79-8fb3-e0fdfa9f7983</guid>
+      <pubDate>Thu, 10 Sep 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/194fb3e0-fdfa-4f79-8fb3-e0fdfa9f7983_1_ID192MP3.mp3" type="audio/mpeg" length="56389292"></enclosure>
+      <itunes:title>Er vi smartere enn en 10ende klassing?</itunes:title>
+      <itunes:summary>Vi har fått prøveresultatene våre og skal finne ut hvor smarte vi er. Blir det fotballfest neste år også, under fotball-VM for kvinner? Eller er det en fare for at vi ikke en gang blir med? Vi skal se framover med programleder Gunnhild Toldnes!</itunes:summary>
+      <itunes:duration>2349</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jDR0Cfi1jYCrfJeP5uZaUQmpGyqc9fKe30aH6k_u7FSg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>3+3=9?</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_dba1f70d-212d-4b49-a1f7-0d212d0b492b</link>

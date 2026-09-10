@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Nye måter å jukse på</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_21ca64c6-b97b-40fe-8a64-c6b97b40feef</link>
+      <description>Tiden forandrer seg og verden blir digitalisert, vi savner den gode gamle meldingsboka fra barneskolen!</description>
+      <guid isPermaLink="false">l_21ca64c6-b97b-40fe-8a64-c6b97b40feef</guid>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/21ca64c6-b97b-40fe-8a64-c6b97b40feef_1_ID192MP3.mp3" type="audio/mpeg" length="48749804"></enclosure>
+      <itunes:title>Nye måter å jukse på</itunes:title>
+      <itunes:summary>Tiden forandrer seg og verden blir digitalisert, vi savner den gode gamle meldingsboka fra barneskolen!</itunes:summary>
+      <itunes:duration>2031</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Stagedive-bonanza</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_359c9d5d-038e-4b0c-9c9d-5d038efb0c87</link>

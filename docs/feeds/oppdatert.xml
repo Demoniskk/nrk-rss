@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Nepal-katastrofen: Saradas kamp for kjæresten</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_027e1d5d-d660-4328-be1d-5dd66003289a</link>
+      <description>Under en pilegrimstur i Nepal havnet kjæresten midt i katastrofen. Men Sarada nekter å gi opp.</description>
+      <guid isPermaLink="false">l_027e1d5d-d660-4328-be1d-5dd66003289a</guid>
+      <pubDate>Thu, 10 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/027e1d5d-d660-4328-be1d-5dd66003289a_1_ID192MP3.mp3" type="audio/mpeg" length="23578028"></enclosure>
+      <itunes:title>Nepal-katastrofen: Saradas kamp for kjæresten</itunes:title>
+      <itunes:summary>Under en pilegrimstur i Nepal havnet kjæresten midt i katastrofen. Men Sarada nekter å gi opp.</itunes:summary>
+      <itunes:duration>982</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/DjMfxOYIDU_wN8Wh-el_tgkbp5p4dq8FIMK3qzXB0DwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Blått blod: Slik ble de Europas mektigste</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_17eab93b-f752-46f4-aab9-3bf75226f4de</link>

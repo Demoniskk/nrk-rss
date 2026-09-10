@@ -6,7 +6,7 @@
     <description>Harald V var konge i Norge fra 1991 til 2026. Her kan du høre viktige lydklipp i forbindelse med tronskiftet. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 11:38:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:02:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/harald_v.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,48 @@
       <title>Harald V</title>
       <link>https://radio.nrk.no/podkast/harald_v</link>
     </image>
+    <item>
+      <title>Preses Olav Fykse Tveit si tale</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_f2e9f37e-da81-4d4b-a9f3-7eda813d4bf8</link>
+      <description>– Det meste tek slutt i dette livet. Nesten alt. Men ikkje kjærleiken. Kjærleiken tek aldri slutt.</description>
+      <guid isPermaLink="false">l_f2e9f37e-da81-4d4b-a9f3-7eda813d4bf8</guid>
+      <pubDate>Wed, 09 Sep 2026 15:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/f2e9f37e-da81-4d4b-a9f3-7eda813d4bf8_1_ID192MP3.mp3" type="audio/mpeg" length="12821804"></enclosure>
+      <itunes:title>Preses Olav Fykse Tveit si tale</itunes:title>
+      <itunes:summary>– Det meste tek slutt i dette livet. Nesten alt. Men ikkje kjærleiken. Kjærleiken tek aldri slutt.</itunes:summary>
+      <itunes:duration>534</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Statsminister Jonas Gahr Støres minneord</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_f3f02fc2-7ff3-48c6-b02f-c27ff338c622</link>
+      <description>– Vi er dypt takknemlig for 35 år med kong Harald som Norges konge, sa statsministeren under seremonien i Oslo domkirke.</description>
+      <guid isPermaLink="false">l_f3f02fc2-7ff3-48c6-b02f-c27ff338c622</guid>
+      <pubDate>Wed, 09 Sep 2026 15:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/f3f02fc2-7ff3-48c6-b02f-c27ff338c622_1_ID192MP3.mp3" type="audio/mpeg" length="7575596"></enclosure>
+      <itunes:title>Statsminister Jonas Gahr Støres minneord</itunes:title>
+      <itunes:summary>– Vi er dypt takknemlig for 35 år med kong Harald som Norges konge, sa statsministeren under seremonien i Oslo domkirke.</itunes:summary>
+      <itunes:duration>315</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Stortingspresident Masud Gharahkhanis minneord</title>
+      <link>https://radio.nrk.no/podkast/harald_v/l_9ac8da03-252b-433d-88da-03252b533db5</link>
+      <description>– Kong Harald så mennesker, ikke bare de med posisjoner, sa stortingspresidenten i Oslo domkirke.</description>
+      <guid isPermaLink="false">l_9ac8da03-252b-433d-88da-03252b533db5</guid>
+      <pubDate>Wed, 09 Sep 2026 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/harald_v/9ac8da03-252b-433d-88da-03252b533db5_1_ID192MP3.mp3" type="audio/mpeg" length="3988844"></enclosure>
+      <itunes:title>Stortingspresident Masud Gharahkhanis minneord</itunes:title>
+      <itunes:summary>– Kong Harald så mennesker, ikke bare de med posisjoner, sa stortingspresidenten i Oslo domkirke.</itunes:summary>
+      <itunes:duration>166</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jgz2nMX8Byt1uNIApXLKzAJDuZFuRgwbuIAQYqmC-ADQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Kong Haakon avlegger ed</title>
       <link>https://radio.nrk.no/podkast/harald_v/l_726e6cd2-22ff-496c-ae6c-d222ff296c92</link>

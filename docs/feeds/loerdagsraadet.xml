@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 05 Sep 2026 12:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:02:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>To kjærlighetshistorier</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_16fd1a1c-efde-403c-bd1a-1cefde303c60</link>
+      <description>To tilbakemeldinger hvor mye har skjedd!</description>
+      <guid isPermaLink="false">l_16fd1a1c-efde-403c-bd1a-1cefde303c60</guid>
+      <pubDate>Wed, 09 Sep 2026 16:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/16fd1a1c-efde-403c-bd1a-1cefde303c60_1_ID192MP3.mp3" type="audio/mpeg" length="33311852"></enclosure>
+      <itunes:title>To kjærlighetshistorier</itunes:title>
+      <itunes:summary>To tilbakemeldinger hvor mye har skjedd!</itunes:summary>
+      <itunes:duration>1387</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Cecilie Kåss Furuseth / Trond-Viggo Torgersen / Hilde Skaar</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_460eeb78-610c-4dc5-8eeb-78610ccdc5f6</link>

@@ -6,7 +6,7 @@
     <description>Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 28 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bok_i_p2.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Åpen bok</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2</link>
     </image>
+    <item>
+      <title>Alexander Kielland Krag: Begjær, aldersforskjell og skam</title>
+      <link>https://radio.nrk.no/podkast/bok_i_p2/l_f0105295-2740-4aba-9052-9527406abab0</link>
+      <description>Han ville det selv. Men var de egentlig likestilte? Alexander Kielland Krag om sex, makt og skam.</description>
+      <guid isPermaLink="false">l_f0105295-2740-4aba-9052-9527406abab0</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/f0105295-2740-4aba-9052-9527406abab0_1_ID192MP3.mp3" type="audio/mpeg" length="82156652"></enclosure>
+      <itunes:title>Alexander Kielland Krag: Begjær, aldersforskjell og skam</itunes:title>
+      <itunes:summary>Han ville det selv. Men var de egentlig likestilte? Alexander Kielland Krag om sex, makt og skam.</itunes:summary>
+      <itunes:duration>3423</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/b7qyUakgYPxT9KQOckziJwmMiujEynHmDQns4SytPRCg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Feita</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2/l_6225b947-a909-478c-a5b9-47a909878c38</link>

@@ -6,7 +6,7 @@
     <description>Bli med ut i verden. Hør historiene og få forklaringene fra Norges største utenriksredaksjon.&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verden_paa_loerdag.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Urix</title>
       <link>https://radio.nrk.no/podkast/verden_paa_loerdag</link>
     </image>
+    <item>
+      <title>Afghanistan: Fem år med Taliban</title>
+      <link>https://radio.nrk.no/podkast/verden_paa_loerdag/l_b5a574ba-a3d1-46fa-a574-baa3d176fa76</link>
+      <description>Folk i Kabul var desperate etter å komme seg vekk da Taliban tok makta. Har det gått like ille som frykta?</description>
+      <guid isPermaLink="false">l_b5a574ba-a3d1-46fa-a574-baa3d176fa76</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/b5a574ba-a3d1-46fa-a574-baa3d176fa76_1_ID192MP3.mp3" type="audio/mpeg" length="22049324"></enclosure>
+      <itunes:title>Afghanistan: Fem år med Taliban</itunes:title>
+      <itunes:summary>Folk i Kabul var desperate etter å komme seg vekk da Taliban tok makta. Har det gått like ille som frykta?</itunes:summary>
+      <itunes:duration>918</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yucg0cgWLBOWoR69HS9qhA9JAlSZC2Qg8iGCN53GbC9Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>De nye monarkene: Modigere og mer politiske?</title>
       <link>https://radio.nrk.no/podkast/verden_paa_loerdag/l_34c27774-be44-4d5e-8277-74be44bd5e29</link>

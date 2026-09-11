@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Ytre høyre vokser</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_2982e68b-6e24-4539-82e6-8b6e24b53948</link>
+      <description>Ekstreme høyrepartier vokser i flere land.&#xA;Det at vi har vært mer nasjonalistiske i Norge kan ha vært med på å redde oss, sier Ola Svenneby</description>
+      <guid isPermaLink="false">l_2982e68b-6e24-4539-82e6-8b6e24b53948</guid>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/2982e68b-6e24-4539-82e6-8b6e24b53948_1_ID192MP3.mp3" type="audio/mpeg" length="21847724"></enclosure>
+      <itunes:title>Ytre høyre vokser</itunes:title>
+      <itunes:summary>Ekstreme høyrepartier vokser i flere land.&#xA;Det at vi har vært mer nasjonalistiske i Norge kan ha vært med på å redde oss, sier Ola Svenneby</itunes:summary>
+      <itunes:duration>910</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LWtqSMFxnNiRkr7RPggokwZZvexiTb_AglURH7FmPkXQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Statsministerduell om drivstoffpriser og krisen i norsk skole</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_9c0718c3-44c0-492a-8718-c344c0092aad</link>

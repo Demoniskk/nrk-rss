@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Nedgangen i lesing og regning fortsetter</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_6fa6e6fc-fc9c-4033-a6e6-fcfc9cf03371</link>
+      <description>Én av tre norske 15-åringer kan ikke lese ordentlig.</description>
+      <guid isPermaLink="false">l_6fa6e6fc-fc9c-4033-a6e6-fcfc9cf03371</guid>
+      <pubDate>Thu, 10 Sep 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6fa6e6fc-fc9c-4033-a6e6-fcfc9cf03371_1_ID192MP3.mp3" type="audio/mpeg" length="85041836"></enclosure>
+      <itunes:title>Nedgangen i lesing og regning fortsetter</itunes:title>
+      <itunes:summary>Én av tre norske 15-åringer kan ikke lese ordentlig.</itunes:summary>
+      <itunes:duration>3543</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JklHD4rehdwlmznkIVGYNQiN5uUh9xiDYcL6YVXfR1Kw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Kong Haralds gravferd</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_edc6e3e4-bc41-4f2d-86e3-e4bc415f2dd4</link>

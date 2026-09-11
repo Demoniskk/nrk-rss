@@ -6,7 +6,7 @@
     <description>Absolutt alt du kan undre deg over om språk! Jesper Nondal spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/spraakteigen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Språksnakk</title>
       <link>https://radio.nrk.no/podkast/spraakteigen</link>
     </image>
+    <item>
+      <title>Blåmandag for prostinnen</title>
+      <link>https://radio.nrk.no/podkast/spraakteigen/l_1fd30df4-de2f-4297-930d-f4de2f92978f</link>
+      <description>Blir det for mye fjas og for lite tant? Hvor ble det av -innene? De gikk visst ut på dato. Blått har ikke alltid vært blått.</description>
+      <guid isPermaLink="false">l_1fd30df4-de2f-4297-930d-f4de2f92978f</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/1fd30df4-de2f-4297-930d-f4de2f92978f_1_ID192MP3.mp3" type="audio/mpeg" length="82965932"></enclosure>
+      <itunes:title>Blåmandag for prostinnen</itunes:title>
+      <itunes:summary>Blir det for mye fjas og for lite tant? Hvor ble det av -innene? De gikk visst ut på dato. Blått har ikke alltid vært blått.</itunes:summary>
+      <itunes:duration>3456</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2TvOfsrDcr5auT3M1LgFigBrInEvCkkXEHL4J_JYW50Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Det er mange veier til lyden Ø</title>
       <link>https://radio.nrk.no/podkast/spraakteigen/l_379275b9-60dd-4e44-9275-b960dd2e44d9</link>

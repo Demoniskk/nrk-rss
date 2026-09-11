@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 10:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:05:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Frida Marie Grande</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_21411747-9071-4411-8117-479071841116</link>
+      <description>– Jeg har to forskjellige personligheter, forteller den prisvinnende influenseren med PMDD.</description>
+      <guid isPermaLink="false">l_21411747-9071-4411-8117-479071841116</guid>
+      <pubDate>Thu, 10 Sep 2026 13:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/21411747-9071-4411-8117-479071841116_1_ID192MP3.mp3" type="audio/mpeg" length="82137644"></enclosure>
+      <itunes:title>Frida Marie Grande</itunes:title>
+      <itunes:summary>– Jeg har to forskjellige personligheter, forteller den prisvinnende influenseren med PMDD.</itunes:summary>
+      <itunes:duration>3422</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Wq9kU3JoL1GFtoWHIWw3bg8_EeYTR-njo46m_SAuW5bg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Torgrim Eggen</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_3d90fafc-bbfe-45d9-90fa-fcbbfef5d9dd</link>

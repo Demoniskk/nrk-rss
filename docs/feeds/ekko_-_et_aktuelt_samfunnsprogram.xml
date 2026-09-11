@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Trumps USA: Et dystert 25-årsminne</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_542f12b3-f1fd-42f9-af12-b3f1fdf2f9bf</link>
+      <description>For tjuefem år siden skrev en fryktelig terrorhandling seg inn i verdenshistorien. Det skjedde på amerikansk jord.</description>
+      <guid isPermaLink="false">l_542f12b3-f1fd-42f9-af12-b3f1fdf2f9bf</guid>
+      <pubDate>Thu, 10 Sep 2026 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/542f12b3-f1fd-42f9-af12-b3f1fdf2f9bf_1_ID192MP3.mp3" type="audio/mpeg" length="80127404"></enclosure>
+      <itunes:title>Trumps USA: Et dystert 25-årsminne</itunes:title>
+      <itunes:summary>For tjuefem år siden skrev en fryktelig terrorhandling seg inn i verdenshistorien. Det skjedde på amerikansk jord.</itunes:summary>
+      <itunes:duration>3338</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/sflnsUmIpSxVs9psxvvkPQLuKbmSIfW9dMslE7blCFGA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Ceuta-konspirasjonane</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_7a0e3500-9305-419c-8e35-009305f19cc5</link>

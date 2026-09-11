@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 20:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:22:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Ok med diesel til 30 kroner literen?</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_e4840a17-a33e-4ef9-840a-17a33eeef925</link>
+      <description>Idet borgfreden er over, kaster Frp og Sp seg på dieseldebatten. Men Ap og Høyre står på sitt og vil ikke senke avgiftene.</description>
+      <guid isPermaLink="false">l_e4840a17-a33e-4ef9-840a-17a33eeef925</guid>
+      <pubDate>Fri, 11 Sep 2026 09:22:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/e4840a17-a33e-4ef9-840a-17a33eeef925_1_ID192MP3.mp3" type="audio/mpeg" length="61982252"></enclosure>
+      <itunes:title>Ok med diesel til 30 kroner literen?</itunes:title>
+      <itunes:summary>Idet borgfreden er over, kaster Frp og Sp seg på dieseldebatten. Men Ap og Høyre står på sitt og vil ikke senke avgiftene.</itunes:summary>
+      <itunes:duration>2582</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KWP1UtBE7LZ1UkcOCJZuEgN6h0Lb-Q8iQiF-Oo0WKgVg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Varsler: - Ble kvalm</title>
       <link>https://radio.nrk.no/podkast/debatten/l_cb46d363-0f96-4abf-86d3-630f968abf94</link>

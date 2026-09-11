@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Girl in red har blitt skuespiller</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_62abcc2c-4370-4d92-abcc-2c43705d925e</link>
+      <description>Girl in red har blitt skuespiller! Hun kommer på besøk for å snakke om da hun rodde på Karl Johan, og om det er sant at hun avlyste en danseopptreden for Charli XCX.</description>
+      <guid isPermaLink="false">l_62abcc2c-4370-4d92-abcc-2c43705d925e</guid>
+      <pubDate>Fri, 11 Sep 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/62abcc2c-4370-4d92-abcc-2c43705d925e_1_ID192MP3.mp3" type="audio/mpeg" length="49404716"></enclosure>
+      <itunes:title>Girl in red har blitt skuespiller</itunes:title>
+      <itunes:summary>Girl in red har blitt skuespiller! Hun kommer på besøk for å snakke om da hun rodde på Karl Johan, og om det er sant at hun avlyste en danseopptreden for Charli XCX.</itunes:summary>
+      <itunes:duration>2058</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
+    <item>
+      <title>B-mennesker: Mormonisme, Buddhisme og kamelsalg</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_ff751c8d-d114-4ad9-b51c-8dd114bad926</link>
+      <description>Arin prøver å forklare mormoner-drama, Henning lurer på hva vi kommer til å bli gjenfødt som, og vi deler hvem vi vil «soake» med.</description>
+      <guid isPermaLink="false">l_ff751c8d-d114-4ad9-b51c-8dd114bad926</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ff751c8d-d114-4ad9-b51c-8dd114bad926_1_ID192MP3.mp3" type="audio/mpeg" length="29643884"></enclosure>
+      <itunes:title>B-mennesker: Mormonisme, Buddhisme og kamelsalg</itunes:title>
+      <itunes:summary>Arin prøver å forklare mormoner-drama, Henning lurer på hva vi kommer til å bli gjenfødt som, og vi deler hvem vi vil «soake» med.</itunes:summary>
+      <itunes:duration>1235</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7Yj6y8aFZP-BZ2cc7gjXQA1EqrdoQLbkWpjMfNfZ9y0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Er vi smartere enn en 10ende klassing?</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_194fb3e0-fdfa-4f79-8fb3-e0fdfa9f7983</link>

@@ -6,7 +6,7 @@
     <description>Alt kan skje og ingen er trygge når fire komikere oppsummerer uka!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/desken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Desken brenner</title>
       <link>https://radio.nrk.no/podkast/desken_brenner</link>
     </image>
+    <item>
+      <title>3500 soldater og en gravferd</title>
+      <link>https://radio.nrk.no/podkast/desken_brenner/l_6232a772-241c-485b-b2a7-72241cc85b98</link>
+      <description>Vi ser nærmere på Kong Harald Vs gravferd. Amalie tar oss med til Popeye village. Ytre høyre tar seieren i Tyskland</description>
+      <guid isPermaLink="false">l_6232a772-241c-485b-b2a7-72241cc85b98</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/6232a772-241c-485b-b2a7-72241cc85b98_1_ID192MP3.mp3" type="audio/mpeg" length="53282348"></enclosure>
+      <itunes:title>3500 soldater og en gravferd</itunes:title>
+      <itunes:summary>Vi ser nærmere på Kong Harald Vs gravferd. Amalie tar oss med til Popeye village. Ytre høyre tar seieren i Tyskland</itunes:summary>
+      <itunes:duration>2220</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Alle har en venninne på Rikshospitalet</title>
       <link>https://radio.nrk.no/podkast/desken_brenner/l_2c6045c3-3b09-41ab-a045-c33b09a1ab95</link>

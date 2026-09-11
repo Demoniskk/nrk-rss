@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>I dag er det 25 år siden 9/11</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_880a1d07-5043-4ddc-8a1d-0750436ddcaf</link>
+      <description>Og i dag gjør statsministeren store endringer i regjeringa.</description>
+      <guid isPermaLink="false">l_880a1d07-5043-4ddc-8a1d-0750436ddcaf</guid>
+      <pubDate>Fri, 11 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/880a1d07-5043-4ddc-8a1d-0750436ddcaf_1_ID192MP3.mp3" type="audio/mpeg" length="8498348"></enclosure>
+      <itunes:title>I dag er det 25 år siden 9/11</itunes:title>
+      <itunes:summary>Og i dag gjør statsministeren store endringer i regjeringa.</itunes:summary>
+      <itunes:duration>354</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xHDeLXa5E4IfkAsol_Sm6QGZcfUlqTU6Piv1ADFO8REA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Ny kamp om billigere bensin og diesel</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_6da79acd-9139-4c45-a79a-cd91395c45dc</link>

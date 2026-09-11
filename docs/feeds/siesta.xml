@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Fullkornspasta er ikke mat</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_7b8eabca-c94b-4425-8eab-cac94b7425a0</link>
+      <description>Daniel blir kastet ut av studio, Anna er forbanna over julevarer og Markus kjører stand-up om blant annet kongens gravferd.</description>
+      <guid isPermaLink="false">l_7b8eabca-c94b-4425-8eab-cac94b7425a0</guid>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/7b8eabca-c94b-4425-8eab-cac94b7425a0_1_ID192MP3.mp3" type="audio/mpeg" length="63823148"></enclosure>
+      <itunes:title>Fullkornspasta er ikke mat</itunes:title>
+      <itunes:summary>Daniel blir kastet ut av studio, Anna er forbanna over julevarer og Markus kjører stand-up om blant annet kongens gravferd.</itunes:summary>
+      <itunes:duration>2659</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Forrett er verre enn dessert</title>
       <link>https://radio.nrk.no/podkast/siesta/l_2c2e2006-2c58-4641-ae20-062c5876414f</link>

@@ -6,7 +6,7 @@
     <description>I sommerhalvåret legger vi bort skiene og tar på oss løpeskoene,  rulleskiene eller  setter oss på sykkelen. Anders Aukland, Silje Nordnes og Sindre Reinholt motiverer deg i til å komme i form og nå dine mål uansett hvilket nivå du er på.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 03:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/skiklubben.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Skiklubben</title>
       <link>https://radio.nrk.no/podkast/skiklubben</link>
     </image>
+    <item>
+      <title>En løpers dilemma</title>
+      <link>https://radio.nrk.no/podkast/skiklubben/l_6eeb9f33-790a-42ce-ab9f-33790a42ceee</link>
+      <description>Skader, sykdom og ønsket om å delta. Tusenvis skal ut og løpe i høst,  men når kan man kjøre på og når er det lurt å si at det rett og slett ikke går?</description>
+      <guid isPermaLink="false">l_6eeb9f33-790a-42ce-ab9f-33790a42ceee</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/6eeb9f33-790a-42ce-ab9f-33790a42ceee_1_ID192MP3.mp3" type="audio/mpeg" length="61232876"></enclosure>
+      <itunes:title>En løpers dilemma</itunes:title>
+      <itunes:summary>Skader, sykdom og ønsket om å delta. Tusenvis skal ut og løpe i høst,  men når kan man kjøre på og når er det lurt å si at det rett og slett ikke går?</itunes:summary>
+      <itunes:duration>2551</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Gjørme-Birken + OL-mesterens fjelltips.</title>
       <link>https://radio.nrk.no/podkast/skiklubben/l_8f60b512-1d30-401f-a0b5-121d30501fe2</link>

@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title>Kupp i USA?</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_85346aa1-b3e3-4e34-b46a-a1b3e30e3487</link>
+      <description>Hvordan kan et kupp skje i USA? Og hvor nære er USA et statskupp?</description>
+      <guid isPermaLink="false">l_85346aa1-b3e3-4e34-b46a-a1b3e30e3487</guid>
+      <pubDate>Fri, 11 Sep 2026 10:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/85346aa1-b3e3-4e34-b46a-a1b3e30e3487_1_ID192MP3.mp3" type="audio/mpeg" length="66236012"></enclosure>
+      <itunes:title>Kupp i USA?</itunes:title>
+      <itunes:summary>Hvordan kan et kupp skje i USA? Og hvor nære er USA et statskupp?</itunes:summary>
+      <itunes:duration>2759</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Venstrevridde journalister</title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_b47d9eb0-ce1a-4189-bd9e-b0ce1a1189ac</link>

@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Gyda Waagbø, eldre menn og «pick me» venner</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_7fe1a4d9-b5fd-47c9-a1a4-d9b5fd27c970</link>
+      <description>Skal man gi opp sin «sugar daddy dream», eller fortsette å drømme? Gyda Ulrikke Waagbø er gjest!&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</description>
+      <guid isPermaLink="false">l_7fe1a4d9-b5fd-47c9-a1a4-d9b5fd27c970</guid>
+      <pubDate>Fri, 11 Sep 2026 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/7fe1a4d9-b5fd-47c9-a1a4-d9b5fd27c970_1_ID192MP3.mp3" type="audio/mpeg" length="57491180"></enclosure>
+      <itunes:title>Gyda Waagbø, eldre menn og «pick me» venner</itunes:title>
+      <itunes:summary>Skal man gi opp sin «sugar daddy dream», eller fortsette å drømme? Gyda Ulrikke Waagbø er gjest!&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</itunes:summary>
+      <itunes:duration>2395</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Mensen-starterpack, flauser og kong Haralds liv</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_987a2659-28c9-4660-ba26-5928c9966035</link>

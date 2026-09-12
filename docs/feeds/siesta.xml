@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>- Heter du faktisk Gladkokken?</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_794e8447-5443-4f00-8e84-4754437f00c0</link>
+      <description>Daniel intervjuer Gladkokken, Markus leder Quizvang og hva betyr ikåddn?</description>
+      <guid isPermaLink="false">l_794e8447-5443-4f00-8e84-4754437f00c0</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/794e8447-5443-4f00-8e84-4754437f00c0_1_ID192MP3.mp3" type="audio/mpeg" length="73862828"></enclosure>
+      <itunes:title>- Heter du faktisk Gladkokken?</itunes:title>
+      <itunes:summary>Daniel intervjuer Gladkokken, Markus leder Quizvang og hva betyr ikåddn?</itunes:summary>
+      <itunes:duration>3077</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/W5qWejIG0k-BNAFkLTFrJwlM3WvKpZdAfnToH0JSk-YA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Fullkornspasta er ikke mat</title>
       <link>https://radio.nrk.no/podkast/siesta/l_7b8eabca-c94b-4425-8eab-cac94b7425a0</link>

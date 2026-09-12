@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,32 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Det finnes en riktig tissevinkel</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_fa893938-21f7-4cd4-8939-3821f77cd4f4</link>
+      <description>Pissoarteknikk, kakerlakkmelk, og hva truser kan si om jordkvalitet. Ig-Nobel hedrer igjen forskning som først får deg til å le og så tenke</description>
+      <guid isPermaLink="false">l_fa893938-21f7-4cd4-8939-3821f77cd4f4</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/fa893938-21f7-4cd4-8939-3821f77cd4f4_1_ID192MP3.mp3" type="audio/mpeg" length="82149164"></enclosure>
+      <itunes:title>Det finnes en riktig tissevinkel</itunes:title>
+      <itunes:summary>Pissoarteknikk, kakerlakkmelk, og hva truser kan si om jordkvalitet. Ig-Nobel hedrer igjen forskning som først får deg til å le og så tenke</itunes:summary>
+      <itunes:duration>3422</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Var T-rex tjukk i hodehuden?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_06098e92-1933-4a6b-898e-9219331a6b23</link>
+      <description>Vi vet i hvert fall at det var ikke var spesielt mye på innsida.&#xA;Lurer du på merkelige saker? Få svar fra ekspertene i Abels Tårn!</description>
+      <guid isPermaLink="false">l_06098e92-1933-4a6b-898e-9219331a6b23</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/06098e92-1933-4a6b-898e-9219331a6b23_1_ID192MP3.mp3" type="audio/mpeg" length="82933676"></enclosure>
+      <itunes:title>Var T-rex tjukk i hodehuden?</itunes:title>
+      <itunes:summary>Vi vet i hvert fall at det var ikke var spesielt mye på innsida.&#xA;Lurer du på merkelige saker? Få svar fra ekspertene i Abels Tårn!</itunes:summary>
+      <itunes:duration>3455</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/afYDzOjWNP8YCOF9byaTuwcWlX0Fk5Kc9GOG2Infg6gQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Enkelt triks skjerper konsentrasjonen</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_4047cef7-201a-49a4-87ce-f7201ab9a425</link>

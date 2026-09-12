@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Prinsesse Astrid er død</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_6ff1ec37-6a3b-49b7-b1ec-376a3b89b72b</link>
+      <description>For to dager siden fulgte hun lillebror, kong Harald, til graven. Nå er prinsesse Astrid død, 94 år gammel.</description>
+      <guid isPermaLink="false">l_6ff1ec37-6a3b-49b7-b1ec-376a3b89b72b</guid>
+      <pubDate>Fri, 11 Sep 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6ff1ec37-6a3b-49b7-b1ec-376a3b89b72b_1_ID192MP3.mp3" type="audio/mpeg" length="85045868"></enclosure>
+      <itunes:title>Prinsesse Astrid er død</itunes:title>
+      <itunes:summary>For to dager siden fulgte hun lillebror, kong Harald, til graven. Nå er prinsesse Astrid død, 94 år gammel.</itunes:summary>
+      <itunes:duration>3543</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pHxgOR-tNKQxeERnpiW5Hw8plzpWyq2rR4V02XD8p1mQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Nedgangen i lesing og regning fortsetter</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_6fa6e6fc-fc9c-4033-a6e6-fcfc9cf03371</link>

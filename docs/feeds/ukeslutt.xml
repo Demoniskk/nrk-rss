@@ -6,7 +6,7 @@
     <description>Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 05 Sep 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ukeslutt</title>
       <link>https://radio.nrk.no/podkast/ukeslutt</link>
     </image>
+    <item>
+      <title>Barn uten lærekondis</title>
+      <link>https://radio.nrk.no/podkast/ukeslutt/l_b92b30a4-3ef8-4ce6-ab30-a43ef8cce655</link>
+      <description>Hva gjør vi feil i Norge - og hva gjør de riktig i Tyrkia?</description>
+      <guid isPermaLink="false">l_b92b30a4-3ef8-4ce6-ab30-a43ef8cce655</guid>
+      <pubDate>Sat, 12 Sep 2026 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/b92b30a4-3ef8-4ce6-ab30-a43ef8cce655_1_ID192MP3.mp3" type="audio/mpeg" length="96528428"></enclosure>
+      <itunes:title>Barn uten lærekondis</itunes:title>
+      <itunes:summary>Hva gjør vi feil i Norge - og hva gjør de riktig i Tyrkia?</itunes:summary>
+      <itunes:duration>4021</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kV2rhMmvRT-GW30fT6VN_QHU9finme8og7POsWWEsHfw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Å tonesette et tronskifte</title>
       <link>https://radio.nrk.no/podkast/ukeslutt/l_eb914154-d941-4a42-9141-54d9417a42e3</link>

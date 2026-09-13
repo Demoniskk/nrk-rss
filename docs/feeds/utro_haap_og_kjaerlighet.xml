@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Panelet: Datingbio og sugarcoating</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_4e3d0a65-db48-431e-bd0a-65db48831e3a</link>
+      <description>Panelet diskuterer temaet sex og bekreftelse, og Selma spør gutta hvor ofte hun bør date.</description>
+      <guid isPermaLink="false">l_4e3d0a65-db48-431e-bd0a-65db48831e3a</guid>
+      <pubDate>Sun, 13 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/4e3d0a65-db48-431e-bd0a-65db48831e3a_1_ID192MP3.mp3" type="audio/mpeg" length="64713068"></enclosure>
+      <itunes:title>Panelet: Datingbio og sugarcoating</itunes:title>
+      <itunes:summary>Panelet diskuterer temaet sex og bekreftelse, og Selma spør gutta hvor ofte hun bør date.</itunes:summary>
+      <itunes:duration>2696</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yJWGnGgnz8jzvPiGxbqKuQ_PjVBl4VqtDjjmQwLlbNQw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Jenny Huse: Selvrealisering</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_ca6e0f9e-5d41-45c9-ae0f-9e5d4165c9d3</link>

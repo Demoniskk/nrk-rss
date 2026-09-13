@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-12T07:59:30Z",
-  "latest_episode": "2026-09-12T04:00:00Z",
+  "generated_at": "2026-09-13T08:23:17Z",
+  "latest_episode": "2026-09-13T04:00:00Z",
   "source": "https://radio.nrk.no/",
   "podcast_count": 234,
-  "episode_count": 59471,
+  "episode_count": 59474,
   "podcasts": [
     {
       "id": "22_juli_-_hvordan_kunne_det_skje",
@@ -1287,10 +1287,10 @@
       "description": "Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw",
-      "episode_count": 954,
+      "episode_count": 955,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml",
       "nrk_url": "https://radio.nrk.no/podkast/loerdagsraadet",
-      "latest_episode": "2026-09-09T14:02:00Z"
+      "latest_episode": "2026-09-12T11:02:00Z"
     },
     {
       "id": "manin_ja_danin",
@@ -2398,10 +2398,10 @@
       "description": "Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ",
-      "episode_count": 751,
+      "episode_count": 752,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml",
       "nrk_url": "https://radio.nrk.no/podkast/ukeslutt",
-      "latest_episode": "2026-09-05T12:00:00Z"
+      "latest_episode": "2026-09-12T12:00:00Z"
     },
     {
       "id": "ukjent",
@@ -2453,10 +2453,10 @@
       "description": "Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg",
-      "episode_count": 88,
+      "episode_count": 89,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml",
       "nrk_url": "https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet",
-      "latest_episode": "2026-09-10T04:00:00Z"
+      "latest_episode": "2026-09-13T04:00:00Z"
     },
     {
       "id": "valg",

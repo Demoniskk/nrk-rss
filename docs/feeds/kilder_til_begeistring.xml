@@ -6,7 +6,7 @@
     <description>Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kilder_til_begeistring.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kilder til begeistring</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring</link>
     </image>
+    <item>
+      <title>Sjampo og balsam</title>
+      <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_5e8d5f12-b821-4099-8d5f-12b821709986</link>
+      <description>Sjampo og balsam er et team. En duo. De utgjør en harmonisk helhet.</description>
+      <guid isPermaLink="false">l_5e8d5f12-b821-4099-8d5f-12b821709986</guid>
+      <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kilder_til_begeistring/5e8d5f12-b821-4099-8d5f-12b821709986_1_ID192MP3.mp3" type="audio/mpeg" length="2568428"></enclosure>
+      <itunes:title>Sjampo og balsam</itunes:title>
+      <itunes:summary>Sjampo og balsam er et team. En duo. De utgjør en harmonisk helhet.</itunes:summary>
+      <itunes:duration>106</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EoJT_rdzPpGdMqizVACGzAM8B8-ytYf6_dcK0t68D1UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Ledningsknappen</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_cff2fea0-b3ae-41f4-b2fe-a0b3ae11f49d</link>

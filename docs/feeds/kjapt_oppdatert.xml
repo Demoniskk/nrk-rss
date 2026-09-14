@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Dødt løp i det svenske valget</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_807466eb-72f4-456c-b466-eb72f4956c32</link>
+      <description>Og Trump vil ikke roe ned KI-bruken i USA.</description>
+      <guid isPermaLink="false">l_807466eb-72f4-456c-b466-eb72f4956c32</guid>
+      <pubDate>Mon, 14 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/807466eb-72f4-456c-b466-eb72f4956c32_1_ID192MP3.mp3" type="audio/mpeg" length="8390060"></enclosure>
+      <itunes:title>Dødt løp i det svenske valget</itunes:title>
+      <itunes:summary>Og Trump vil ikke roe ned KI-bruken i USA.</itunes:summary>
+      <itunes:duration>349</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KUXZXIikRfpzyxrCggiV-QcY0JhVf1Rg9CGpHdEEH9-Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>I dag er det 25 år siden 9/11</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_880a1d07-5043-4ddc-8a1d-0750436ddcaf</link>

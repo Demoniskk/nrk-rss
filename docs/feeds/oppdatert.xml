@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Dette er «Tysklands farlegaste mann»</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_beed1a52-ff5c-4216-ad1a-52ff5c82165c</link>
+      <description>Partiet hans, AfD, er under overvaking mistenkt for høgreekstremisme. No kan dei for første gong få regjeringsmakt.</description>
+      <guid isPermaLink="false">l_beed1a52-ff5c-4216-ad1a-52ff5c82165c</guid>
+      <pubDate>Mon, 14 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/beed1a52-ff5c-4216-ad1a-52ff5c82165c_1_ID192MP3.mp3" type="audio/mpeg" length="29362220"></enclosure>
+      <itunes:title>Dette er «Tysklands farlegaste mann»</itunes:title>
+      <itunes:summary>Partiet hans, AfD, er under overvaking mistenkt for høgreekstremisme. No kan dei for første gong få regjeringsmakt.</itunes:summary>
+      <itunes:duration>1223</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/89Bl2j4eOxEU4Q56yWRrHgC_70qniORR-glnZacnn9Ng"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Guantánamo: «Skrekkfengslet» verden glemte</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_436f7b46-08e9-4f1b-af7b-4608e92f1b3f</link>

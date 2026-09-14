@@ -6,7 +6,7 @@
     <description>En tenketank for folk med lav intelligens.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baade_erlend_og_steinar_.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Både Erlend og Steinar </title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
     </image>
+    <item>
+      <title>Erlend letter på sløret</title>
+      <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_beb99ebc-3e8b-4dab-b99e-bc3e8b9dabf1</link>
+      <description>Trenger alle en idrettspsykolog? Hvor lenge kan man egentlig sitte på kafé? Og hva lukter Norge?</description>
+      <guid isPermaLink="false">l_beb99ebc-3e8b-4dab-b99e-bc3e8b9dabf1</guid>
+      <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/beb99ebc-3e8b-4dab-b99e-bc3e8b9dabf1_2_ID192MP3.mp3" type="audio/mpeg" length="97691948"></enclosure>
+      <itunes:title>Erlend letter på sløret</itunes:title>
+      <itunes:summary>Trenger alle en idrettspsykolog? Hvor lenge kan man egentlig sitte på kafé? Og hva lukter Norge?</itunes:summary>
+      <itunes:duration>4070</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>En ubehagelig god gjerning</title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_1dd7a8a1-1aa0-43a3-97a8-a11aa093a31a</link>

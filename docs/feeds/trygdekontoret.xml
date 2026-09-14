@@ -6,7 +6,7 @@
     <description>Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Trygdekontoret</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret</link>
     </image>
+    <item>
+      <title>Anarki!</title>
+      <link>https://radio.nrk.no/podkast/trygdekontoret/l_28fec120-6bd5-4bc3-bec1-206bd5ebc372</link>
+      <description>Forsker Terje Emberland rydder opp i 100 år med anarkist-myter.</description>
+      <guid isPermaLink="false">l_28fec120-6bd5-4bc3-bec1-206bd5ebc372</guid>
+      <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/28fec120-6bd5-4bc3-bec1-206bd5ebc372_1_ID192MP3.mp3" type="audio/mpeg" length="78560684"></enclosure>
+      <itunes:title>Anarki!</itunes:title>
+      <itunes:summary>Forsker Terje Emberland rydder opp i 100 år med anarkist-myter.</itunes:summary>
+      <itunes:duration>3273</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yWS86hpHRXQ4i94L6UhAlQd1Fmfim0Vuig0s0Z96KgfA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Huleboere</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret/l_27d1d119-021a-47b1-91d1-19021a67b181</link>

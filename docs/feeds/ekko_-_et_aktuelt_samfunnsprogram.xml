@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Oppdage ADHD ved fødsel?</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_e84b9ef0-93e6-457b-8b9e-f093e6757b27</link>
+      <description>Blod frå navlestrengen kan gi svar om ADHD. Ny forsking opnar for at barna kan få betre og tidlegare hjelp.</description>
+      <guid isPermaLink="false">l_e84b9ef0-93e6-457b-8b9e-f093e6757b27</guid>
+      <pubDate>Mon, 14 Sep 2026 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/e84b9ef0-93e6-457b-8b9e-f093e6757b27_1_ID192MP3.mp3" type="audio/mpeg" length="27757484"></enclosure>
+      <itunes:title>Oppdage ADHD ved fødsel?</itunes:title>
+      <itunes:summary>Blod frå navlestrengen kan gi svar om ADHD. Ny forsking opnar for at barna kan få betre og tidlegare hjelp.</itunes:summary>
+      <itunes:duration>1156</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JEUDe7swYHHnAbrstO7a3grrMvMUxyuNSgzy9iEzUwPg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Trumps USA: Et dystert 25-årsminne</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_542f12b3-f1fd-42f9-af12-b3f1fdf2f9bf</link>

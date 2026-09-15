@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Utrolige dyr - Thor Haavik</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_5efd25e1-fbd6-469c-bd25-e1fbd6f69c3b</link>
+      <description>Vi kan lære mye av dyrene mener Thor Haavik. I tillegg har de egenskaper som virker helt utrolige for oss mennesker.</description>
+      <guid isPermaLink="false">l_5efd25e1-fbd6-469c-bd25-e1fbd6f69c3b</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/5efd25e1-fbd6-469c-bd25-e1fbd6f69c3b_1_ID192MP3.mp3" type="audio/mpeg" length="5908076"></enclosure>
+      <itunes:title>Utrolige dyr - Thor Haavik</itunes:title>
+      <itunes:summary>Vi kan lære mye av dyrene mener Thor Haavik. I tillegg har de egenskaper som virker helt utrolige for oss mennesker.</itunes:summary>
+      <itunes:duration>246</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Mulig, umulig - Thor Haavik</title>
       <link>https://radio.nrk.no/podkast/andakten/l_e3cf5931-5b17-4318-8f59-315b176318ab</link>

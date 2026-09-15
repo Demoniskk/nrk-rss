@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Støveldans - med Lena Lindahl</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_3e66d0d7-8b9c-4eac-a6d0-d78b9cbeac03</link>
+      <description>Fottøyet kan fortelle mye om den som går i det, tenkte forfatteren Lena Lindahl. Men kan det egentlig det?</description>
+      <guid isPermaLink="false">l_3e66d0d7-8b9c-4eac-a6d0-d78b9cbeac03</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/3e66d0d7-8b9c-4eac-a6d0-d78b9cbeac03_1_ID192MP3.mp3" type="audio/mpeg" length="4879340"></enclosure>
+      <itunes:title>Støveldans - med Lena Lindahl</itunes:title>
+      <itunes:summary>Fottøyet kan fortelle mye om den som går i det, tenkte forfatteren Lena Lindahl. Men kan det egentlig det?</itunes:summary>
+      <itunes:duration>203</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Frivillighet - med Jon Niklas Rønning</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_ec6e4003-0201-43a5-ae40-03020143a5ee</link>

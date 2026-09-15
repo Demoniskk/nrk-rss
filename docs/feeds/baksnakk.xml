@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Dyre gaver, tånegler og tissing i hagen (Spøtta-spesial #11)</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_e38b08ba-5422-4490-8b08-ba5422f490db</link>
+      <description>Er denne backeren kresen, eller har hun fått et gyldig ick?&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</description>
+      <guid isPermaLink="false">l_e38b08ba-5422-4490-8b08-ba5422f490db</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/e38b08ba-5422-4490-8b08-ba5422f490db_1_ID192MP3.mp3" type="audio/mpeg" length="69748460"></enclosure>
+      <itunes:title>Dyre gaver, tånegler og tissing i hagen (Spøtta-spesial #11)</itunes:title>
+      <itunes:summary>Er denne backeren kresen, eller har hun fått et gyldig ick?&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</itunes:summary>
+      <itunes:duration>2906</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Gyda Waagbø, eldre menn og «pick me» venner</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_7fe1a4d9-b5fd-47c9-a1a4-d9b5fd27c970</link>

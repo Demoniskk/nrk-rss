@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Regjeringen varsler mer statlig styring av skolen</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_249599a3-92ea-4696-9599-a392ea2696e8</link>
+      <description>Vil ha samme lærebok til alle</description>
+      <guid isPermaLink="false">l_249599a3-92ea-4696-9599-a392ea2696e8</guid>
+      <pubDate>Tue, 15 Sep 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/249599a3-92ea-4696-9599-a392ea2696e8_1_ID192MP3.mp3" type="audio/mpeg" length="21875948"></enclosure>
+      <itunes:title>Regjeringen varsler mer statlig styring av skolen</itunes:title>
+      <itunes:summary>Vil ha samme lærebok til alle</itunes:summary>
+      <itunes:duration>911</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Q4vO3GfaSTvQsp0Ofy8FlwWNJWvWidau4-paSQ3MVFGA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Svensk thriller</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_160fcce1-53d3-40bd-8fcc-e153d330bd77</link>

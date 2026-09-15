@@ -6,7 +6,7 @@
     <description>Risstinin li tjielgga vuojno masi ájggu. Le gus A4-iellem buoremus viessomvuohke, jali ij la huoman nav buorre gåk gullu? Se i NRK TV.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 12 May 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/juorre.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Juorre</title>
       <link>https://radio.nrk.no/podkast/juorre</link>
     </image>
+    <item>
+      <title>Mánájt oadtjot jali ij?</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_c969c834-e241-4f25-a9c8-34e2411f25d8</link>
+      <description>Risstin buohtastahttá iesselisvuodav parasihttajn tjoajven. Ailo sihtá unna Ailov, madi Johanna ij riek diede majt sihtá.</description>
+      <guid isPermaLink="false">l_c969c834-e241-4f25-a9c8-34e2411f25d8</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/c969c834-e241-4f25-a9c8-34e2411f25d8_1_ID192MP3.mp3" type="audio/mpeg" length="29552876"></enclosure>
+      <itunes:title>Mánájt oadtjot jali ij?</itunes:title>
+      <itunes:summary>Risstin buohtastahttá iesselisvuodav parasihttajn tjoajven. Ailo sihtá unna Ailov, madi Johanna ij riek diede majt sihtá.</itunes:summary>
+      <itunes:duration>1231</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7oTqUFN2rJ_A7v0t6Kg-2w9RkrMGqQ0htOSNu7amGLmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Joarme, botoxa ja festa</title>
       <link>https://radio.nrk.no/podkast/juorre/l_1e79e72c-8149-4a16-b9e7-2c8149da160a</link>

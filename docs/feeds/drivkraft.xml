@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 11:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:27:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Marius Bakken</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_5ad943cd-c5dd-4a08-9943-cdc5dd6a08ce</link>
+      <description>– Motivasjon er oppskrytt, sier løperen som holdt norgesrekord på 3000 meter i 18 år.</description>
+      <guid isPermaLink="false">l_5ad943cd-c5dd-4a08-9943-cdc5dd6a08ce</guid>
+      <pubDate>Mon, 14 Sep 2026 14:27:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/5ad943cd-c5dd-4a08-9943-cdc5dd6a08ce_1_ID192MP3.mp3" type="audio/mpeg" length="82296620"></enclosure>
+      <itunes:title>Marius Bakken</itunes:title>
+      <itunes:summary>– Motivasjon er oppskrytt, sier løperen som holdt norgesrekord på 3000 meter i 18 år.</itunes:summary>
+      <itunes:duration>3428</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xfsHl_6Fu6WYCuAQpQbr9gQcRCWjU1ljulvfoFlrvNFg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Frida Marie Grande</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_21411747-9071-4411-8117-479071841116</link>

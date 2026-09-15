@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 13 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Janne Amble: Likestilt parforhold</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_77485dd8-dae5-4e77-885d-d8dae50e7703</link>
+      <description>Janne Amble om å fordele 50/50 hjemme, og hvordan et likestilt samliv gir rom for både familie og karriere.</description>
+      <guid isPermaLink="false">l_77485dd8-dae5-4e77-885d-d8dae50e7703</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/77485dd8-dae5-4e77-885d-d8dae50e7703_1_ID192MP3.mp3" type="audio/mpeg" length="67451372"></enclosure>
+      <itunes:title>Janne Amble: Likestilt parforhold</itunes:title>
+      <itunes:summary>Janne Amble om å fordele 50/50 hjemme, og hvordan et likestilt samliv gir rom for både familie og karriere.</itunes:summary>
+      <itunes:duration>2810</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4j2T98VuLW_qEKF0PowrfgSVXvV_KCJuE8YqLTRwvwxA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Panelet: Datingbio og sugarcoating</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_4e3d0a65-db48-431e-bd0a-65db48831e3a</link>

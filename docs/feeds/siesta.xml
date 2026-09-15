@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Sprengt lyd fra hælvete</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_e9b143d9-68ac-4186-b143-d968ace18679</link>
+      <description>Daniel har krangla med en amerikaner, Anna vil lage skjerf med påkjørt røyskatt og Markus lager lyder fra hælvete.</description>
+      <guid isPermaLink="false">l_e9b143d9-68ac-4186-b143-d968ace18679</guid>
+      <pubDate>Mon, 14 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/e9b143d9-68ac-4186-b143-d968ace18679_1_ID192MP3.mp3" type="audio/mpeg" length="62031788"></enclosure>
+      <itunes:title>Sprengt lyd fra hælvete</itunes:title>
+      <itunes:summary>Daniel har krangla med en amerikaner, Anna vil lage skjerf med påkjørt røyskatt og Markus lager lyder fra hælvete.</itunes:summary>
+      <itunes:duration>2584</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>- Heter du faktisk Gladkokken?</title>
       <link>https://radio.nrk.no/podkast/siesta/l_794e8447-5443-4f00-8e84-4754437f00c0</link>

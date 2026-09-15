@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 12:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:15:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>- Dette laget bør Ståle ta ut</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_c6fc948b-d86e-4167-bc94-8bd86e0167a9</link>
+      <description>Dagen før landslagstroppen tas ut, gir ekspertene sine tips om hvem som kommer med. Hvem de tror og hvem de mener bør få sjansen.</description>
+      <guid isPermaLink="false">l_c6fc948b-d86e-4167-bc94-8bd86e0167a9</guid>
+      <pubDate>Mon, 14 Sep 2026 12:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/c6fc948b-d86e-4167-bc94-8bd86e0167a9_1_ID192MP3.mp3" type="audio/mpeg" length="47768876"></enclosure>
+      <itunes:title>- Dette laget bør Ståle ta ut</itunes:title>
+      <itunes:summary>Dagen før landslagstroppen tas ut, gir ekspertene sine tips om hvem som kommer med. Hvem de tror og hvem de mener bør få sjansen.</itunes:summary>
+      <itunes:duration>1990</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Ødegaards kanonform og nye fjes på landslaget?</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_cb99e855-ece2-4a6a-99e8-55ece2fa6afe</link>

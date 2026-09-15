@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>I strupen på datasentre: Kan Erin stoppe dem?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_b5bb419f-db57-4c9a-bb41-9fdb57cc9a67</link>
+      <description>Hun slo et av USAs mektigste energiselskaper. Nå har hun tatt på seg en ny kamp. Kan hun klare det igjen?</description>
+      <guid isPermaLink="false">l_b5bb419f-db57-4c9a-bb41-9fdb57cc9a67</guid>
+      <pubDate>Tue, 15 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b5bb419f-db57-4c9a-bb41-9fdb57cc9a67_1_ID192MP3.mp3" type="audio/mpeg" length="22862060"></enclosure>
+      <itunes:title>I strupen på datasentre: Kan Erin stoppe dem?</itunes:title>
+      <itunes:summary>Hun slo et av USAs mektigste energiselskaper. Nå har hun tatt på seg en ny kamp. Kan hun klare det igjen?</itunes:summary>
+      <itunes:duration>952</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/j4RFzlO3jOal1rJ5osJa8wSUrDq1DJQC8Rr5kNMUooMA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Dette er «Tysklands farlegaste mann»</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_beed1a52-ff5c-4216-ad1a-52ff5c82165c</link>

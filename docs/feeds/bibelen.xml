@@ -6,7 +6,7 @@
     <description>Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller. &#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bibelen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Bibelen</title>
       <link>https://radio.nrk.no/podkast/bibelen</link>
     </image>
+    <item>
+      <title>Jesus provoserer (35:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_bc218da5-34b1-4234-a18d-a534b1723481</link>
+      <description>Jesus får stadig flere følgere. Men kommentarfeltet er delt.</description>
+      <guid isPermaLink="false">l_bc218da5-34b1-4234-a18d-a534b1723481</guid>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/bc218da5-34b1-4234-a18d-a534b1723481_1_ID192MP3.mp3" type="audio/mpeg" length="35216108"></enclosure>
+      <itunes:title>Jesus provoserer (35:40)</itunes:title>
+      <itunes:summary>Jesus får stadig flere følgere. Men kommentarfeltet er delt.</itunes:summary>
+      <itunes:duration>1467</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3ioObHjSmavUEIwVl_Ngnwa9yGAfI2S8U4BOM1NFpaiQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Jesus Christ Superstar (34:40)</title>
       <link>https://radio.nrk.no/podkast/bibelen/l_3e0ccabf-8a31-4418-8cca-bf8a313418be</link>

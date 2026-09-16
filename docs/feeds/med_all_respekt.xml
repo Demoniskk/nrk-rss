@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Brownface og porno-hotell</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_82642be1-d231-49c5-a42b-e1d23159c556</link>
+      <description>Hvordan så forfedrene våre ut? Folk driter på seg i idrett og Galvan har nok en business idé til et porno-hotell. Levende kaos!</description>
+      <guid isPermaLink="false">l_82642be1-d231-49c5-a42b-e1d23159c556</guid>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/82642be1-d231-49c5-a42b-e1d23159c556_1_ID192MP3.mp3" type="audio/mpeg" length="54839276"></enclosure>
+      <itunes:title>Brownface og porno-hotell</itunes:title>
+      <itunes:summary>Hvordan så forfedrene våre ut? Folk driter på seg i idrett og Galvan har nok en business idé til et porno-hotell. Levende kaos!</itunes:summary>
+      <itunes:duration>2284</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Er vi analfabeter?</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_18a43c5f-5dba-4051-a43c-5f5dba4051c5</link>

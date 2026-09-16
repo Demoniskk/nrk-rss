@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Lager kunst med egen fis</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_93f6986b-7a4c-4aa9-b698-6b7a4caaa938</link>
+      <description>Vi får besøk av kunstner Saune And, hvem har den beste fotball-talen og vi smalltalker ting som ser godt ut, men smaker vondt.</description>
+      <guid isPermaLink="false">l_93f6986b-7a4c-4aa9-b698-6b7a4caaa938</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/93f6986b-7a4c-4aa9-b698-6b7a4caaa938_1_ID192MP3.mp3" type="audio/mpeg" length="62304812"></enclosure>
+      <itunes:title>Lager kunst med egen fis</itunes:title>
+      <itunes:summary>Vi får besøk av kunstner Saune And, hvem har den beste fotball-talen og vi smalltalker ting som ser godt ut, men smaker vondt.</itunes:summary>
+      <itunes:duration>2595</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Sprengt lyd fra hælvete</title>
       <link>https://radio.nrk.no/podkast/siesta/l_e9b143d9-68ac-4186-b143-d968ace18679</link>

@@ -6,7 +6,7 @@
     <description>En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sportsdesken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sportsdesken brenner</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner</link>
     </image>
+    <item>
+      <title>Sport er også følelser</title>
+      <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_5d2bc53b-3b8d-4bd5-a5c4-3c40c29e22e6</link>
+      <description>Sportsdesken rystes av et VM-gull vunnet med avføring nedover beina, og Vålerenga-fans som rasérer toaletter etter derby-tapet. &#xA;Marius avslører om han klarte det magiske målet sitt i Oslo Maraton. &#xA;Bli med i vår fantasy-liga med koden: oyuwxr.&#xA;&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_5d2bc53b-3b8d-4bd5-a5c4-3c40c29e22e6</guid>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/5d2bc53b-3b8d-4bd5-a5c4-3c40c29e22e6_f3310758-5b27-4b6c-a85f-0a4b565f3fa9_ID192MP3.mp3" type="audio/mpeg" length="57866156"></enclosure>
+      <itunes:title>Sport er også følelser</itunes:title>
+      <itunes:summary>Sportsdesken rystes av et VM-gull vunnet med avføring nedover beina, og Vålerenga-fans som rasérer toaletter etter derby-tapet. &#xA;Marius avslører om han klarte det magiske målet sitt i Oslo Maraton. &#xA;Bli med i vår fantasy-liga med koden: oyuwxr.&#xA;&#xA;&#xA;</itunes:summary>
+      <itunes:duration>2411</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>En gjeng med tapere</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_d9703e98-f41f-42de-b03e-98f41f62de5a</link>

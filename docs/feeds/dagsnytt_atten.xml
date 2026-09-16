@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Telenor ransaket</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_3ab1016d-362d-4cff-b101-6d362dacff73</link>
+      <description>PST og kripos har siktet Telenor for mulig medvirkning til forbrytelser mot menneskeheten i Myanmar og for overtredelse av sanksjonsloven.</description>
+      <guid isPermaLink="false">l_3ab1016d-362d-4cff-b101-6d362dacff73</guid>
+      <pubDate>Tue, 15 Sep 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/3ab1016d-362d-4cff-b101-6d362dacff73_1_ID192MP3.mp3" type="audio/mpeg" length="85022828"></enclosure>
+      <itunes:title>Telenor ransaket</itunes:title>
+      <itunes:summary>PST og kripos har siktet Telenor for mulig medvirkning til forbrytelser mot menneskeheten i Myanmar og for overtredelse av sanksjonsloven.</itunes:summary>
+      <itunes:duration>3542</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ptQKBrr4kJl55RqB_elRVgdayE4VdLFHN862AwgsNLaQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Advarer unge mot Tiktok, Youtube og Snapchat</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_a830fc15-b81c-41c7-b0fc-15b81ca1c7c5</link>

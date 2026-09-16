@@ -6,7 +6,7 @@
     <description>Luohti sáhttá govvidit ráhkesvuođa, muhto maiddái unohisvuođaid. Dás guorahallabage luđiid, maiddái olbmuiguin geain leat muitalusat ja vásáhusat.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 17 Jun 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/luois_luohti.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Luođis luohtái</title>
       <link>https://radio.nrk.no/podkast/luois_luohti</link>
     </image>
+    <item>
+      <title>Ávžži luđiid juoiggadit</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_1bd3a6c3-da53-4f86-93a6-c3da539f869b</link>
+      <description>Gilažis olggobealde Guovdageainnu juiget veahá earáládje go márkanis. Svein Ole Klemetsen lea mielde guossin go čiekŋudit fáttas.</description>
+      <guid isPermaLink="false">l_1bd3a6c3-da53-4f86-93a6-c3da539f869b</guid>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/1bd3a6c3-da53-4f86-93a6-c3da539f869b_1_ID192MP3.mp3" type="audio/mpeg" length="47505644"></enclosure>
+      <itunes:title>Ávžži luđiid juoiggadit</itunes:title>
+      <itunes:summary>Gilažis olggobealde Guovdageainnu juiget veahá earáládje go márkanis. Svein Ole Klemetsen lea mielde guossin go čiekŋudit fáttas.</itunes:summary>
+      <itunes:duration>1979</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Golli vuorkkáin</title>
       <link>https://radio.nrk.no/podkast/luois_luohti/l_386bf82f-44ae-4f87-abf8-2f44aeff874f</link>

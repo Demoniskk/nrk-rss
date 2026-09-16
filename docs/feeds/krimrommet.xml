@@ -6,7 +6,7 @@
     <description>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Krimrommet</title>
       <link>https://radio.nrk.no/podkast/krimrommet</link>
     </image>
+    <item>
+      <title>Jørn Andersen (3): Forklaringen</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_92f87710-6ca7-4757-b877-106ca7675799</link>
+      <description>Jørn Andersen sier han ikke husker kvelden Marita Løfshus Haugen ble drept. Men er det sant?</description>
+      <guid isPermaLink="false">l_92f87710-6ca7-4757-b877-106ca7675799</guid>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/92f87710-6ca7-4757-b877-106ca7675799_1_ID192MP3.mp3" type="audio/mpeg" length="38010860"></enclosure>
+      <itunes:title>Jørn Andersen (3): Forklaringen</itunes:title>
+      <itunes:summary>Jørn Andersen sier han ikke husker kvelden Marita Løfshus Haugen ble drept. Men er det sant?</itunes:summary>
+      <itunes:duration>1583</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jlgpNWWNownKIhUUUJ-USw9P6_VofBpEMWRoDCSfl2Lg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Clancy (2): Uløst rettsdrama</title>
       <link>https://radio.nrk.no/podkast/krimrommet/l_c7e7e50e-8216-4630-a7e5-0e8216c6304b</link>

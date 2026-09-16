@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 04:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Eksperter er uenige om hvor farlig KI er</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_a8088500-0071-4f45-8885-0000712f4544</link>
+      <description>Og flere artister trekker seg fra Ed Sheeran-turné.</description>
+      <guid isPermaLink="false">l_a8088500-0071-4f45-8885-0000712f4544</guid>
+      <pubDate>Wed, 16 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/a8088500-0071-4f45-8885-0000712f4544_1_ID192MP3.mp3" type="audio/mpeg" length="10925036"></enclosure>
+      <itunes:title>Eksperter er uenige om hvor farlig KI er</itunes:title>
+      <itunes:summary>Og flere artister trekker seg fra Ed Sheeran-turné.</itunes:summary>
+      <itunes:duration>455</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jyfaO7pqzAYTPsJtEU2b0gHErcCeD8hTZfI4fl3korZQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Økning i antall tips om seksuelle overgrep</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_efb03cff-d848-402d-b03c-ffd848e02d1a</link>

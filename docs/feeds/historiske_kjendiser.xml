@@ -6,7 +6,7 @@
     <description>Idealister, genier og maktgale gærninger; Alexandra Gjerpen vekker historiens største personer til live igjen.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/historiske_kjendiser.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Historiske kjendiser</title>
       <link>https://radio.nrk.no/podkast/historiske_kjendiser</link>
     </image>
+    <item>
+      <title>Indira Gandhi – Indias jernkvinne</title>
+      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_cc54b620-bdb9-4fe4-94b6-20bdb95fe41e</link>
+      <description>Indias første kvinnelige statsminister ble drept av sine egne livvakter.</description>
+      <guid isPermaLink="false">l_cc54b620-bdb9-4fe4-94b6-20bdb95fe41e</guid>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/cc54b620-bdb9-4fe4-94b6-20bdb95fe41e_1_ID192MP3.mp3" type="audio/mpeg" length="81681452"></enclosure>
+      <itunes:title>Indira Gandhi – Indias jernkvinne</itunes:title>
+      <itunes:summary>Indias første kvinnelige statsminister ble drept av sine egne livvakter.</itunes:summary>
+      <itunes:duration>3403</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-IgONy6nLGsazMq0u2SX4A-L7oa277McwIm4PCxmDHLA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Neil Armstrong – fryktløs astronaut</title>
       <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_264c28cf-1339-4009-8c28-cf1339d0094d</link>

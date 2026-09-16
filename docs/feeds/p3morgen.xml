@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Vi samler gode gruppechatnavn!</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_2824d9aa-59ac-4911-8a2b-c1d7fc74d3f7</link>
+      <description>Hva var du redd for som barn, som viste seg å gå bra! Vi feirer at ozonlaget er blitt bedre med å dykke ned i barndomsfrykter.</description>
+      <guid isPermaLink="false">l_2824d9aa-59ac-4911-8a2b-c1d7fc74d3f7</guid>
+      <pubDate>Wed, 16 Sep 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/2824d9aa-59ac-4911-8a2b-c1d7fc74d3f7_fc5a095c-344c-4b16-b783-f0c08b9f01dd_ID192MP3.mp3" type="audio/mpeg" length="49358636"></enclosure>
+      <itunes:title>Vi samler gode gruppechatnavn!</itunes:title>
+      <itunes:summary>Hva var du redd for som barn, som viste seg å gå bra! Vi feirer at ozonlaget er blitt bedre med å dykke ned i barndomsfrykter.</itunes:summary>
+      <itunes:duration>2056</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PhVh4bVk6tGxCmQQh0gZTQBYr3J8hvBja6TJVsCV0Fkw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Hva skal man ha på seg på konsert?</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_d3651de2-1f28-4f73-a51d-e21f28bf73d6</link>

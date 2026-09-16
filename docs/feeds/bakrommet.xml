@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 10:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Norges tropp: Sørloths plass i fare?</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_1244c4af-d2cf-4a80-84c4-afd2cf4a80a6</link>
+      <description>Etter noen dager med spekulasjoner om hvem som ville komme med i Norges tropp, har nå landslagstrener Ståle Solbakken levert fasiten.</description>
+      <guid isPermaLink="false">l_1244c4af-d2cf-4a80-84c4-afd2cf4a80a6</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/1244c4af-d2cf-4a80-84c4-afd2cf4a80a6_1_ID192MP3.mp3" type="audio/mpeg" length="62926316"></enclosure>
+      <itunes:title>Norges tropp: Sørloths plass i fare?</itunes:title>
+      <itunes:summary>Etter noen dager med spekulasjoner om hvem som ville komme med i Norges tropp, har nå landslagstrener Ståle Solbakken levert fasiten.</itunes:summary>
+      <itunes:duration>2621</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>- Dette laget bør Ståle ta ut</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_c6fc948b-d86e-4167-bc94-8bd86e0167a9</link>

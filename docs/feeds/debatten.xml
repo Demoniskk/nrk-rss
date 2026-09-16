@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 07:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:10:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Har foreldrene skylda for skoletallene?</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_4cbb0c75-6e5a-473a-bb0c-756e5af73a68</link>
+      <description>Kunnskapsministeren møter både oppgitte foreldre og frustrerte politiske motstandere til debatt om PISA-tallene.</description>
+      <guid isPermaLink="false">l_4cbb0c75-6e5a-473a-bb0c-756e5af73a68</guid>
+      <pubDate>Tue, 15 Sep 2026 22:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/4cbb0c75-6e5a-473a-bb0c-756e5af73a68_1_ID192MP3.mp3" type="audio/mpeg" length="65570156"></enclosure>
+      <itunes:title>Har foreldrene skylda for skoletallene?</itunes:title>
+      <itunes:summary>Kunnskapsministeren møter både oppgitte foreldre og frustrerte politiske motstandere til debatt om PISA-tallene.</itunes:summary>
+      <itunes:duration>2732</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hRQMnPeX71CiGm3zhZoUiQ_NMTnXlJe_i0d-5Aw2uIGA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Ok med diesel til 30 kroner literen?</title>
       <link>https://radio.nrk.no/podkast/debatten/l_e4840a17-a33e-4ef9-840a-17a33eeef925</link>

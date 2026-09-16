@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Våpen og overvåkning: Er dette «Europas ICE»?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_cdf11c64-b27b-47fd-b11c-64b27bf7fde7</link>
+      <description>Nylig vedtok EU en ny og strengere migrasjonslov, og grensestyrkene ruster opp. Nå slår flere alarm.</description>
+      <guid isPermaLink="false">l_cdf11c64-b27b-47fd-b11c-64b27bf7fde7</guid>
+      <pubDate>Wed, 16 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/cdf11c64-b27b-47fd-b11c-64b27bf7fde7_1_ID192MP3.mp3" type="audio/mpeg" length="30168620"></enclosure>
+      <itunes:title>Våpen og overvåkning: Er dette «Europas ICE»?</itunes:title>
+      <itunes:summary>Nylig vedtok EU en ny og strengere migrasjonslov, og grensestyrkene ruster opp. Nå slår flere alarm.</itunes:summary>
+      <itunes:duration>1256</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_FUeVmzQPPOZAPYI5jOwXgBrfHZvmk55mreO1r7x9vYQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>I strupen på datasentre: Kan Erin stoppe dem?</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_b5bb419f-db57-4c9a-bb41-9fdb57cc9a67</link>

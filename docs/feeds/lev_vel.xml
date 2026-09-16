@@ -6,7 +6,7 @@
     <description>Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lev_vel.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lev vel</title>
       <link>https://radio.nrk.no/podkast/lev_vel</link>
     </image>
+    <item>
+      <title>Åpent forhold</title>
+      <link>https://radio.nrk.no/podkast/lev_vel/l_25264a7d-bc2e-4186-a64a-7dbc2ef186dc</link>
+      <description>Hvordan tolerere flere sex-partnere? Sexolog Nanna Klingenberg gir oss innsikt i hvordan et åpent forhold fungerer.</description>
+      <guid isPermaLink="false">l_25264a7d-bc2e-4186-a64a-7dbc2ef186dc</guid>
+      <pubDate>Wed, 16 Sep 2026 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/25264a7d-bc2e-4186-a64a-7dbc2ef186dc_2_ID192MP3.mp3" type="audio/mpeg" length="56886380"></enclosure>
+      <itunes:title>Åpent forhold</itunes:title>
+      <itunes:summary>Hvordan tolerere flere sex-partnere? Sexolog Nanna Klingenberg gir oss innsikt i hvordan et åpent forhold fungerer.</itunes:summary>
+      <itunes:duration>2370</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Vil du studere smartere?</title>
       <link>https://radio.nrk.no/podkast/lev_vel/l_0f0cd936-9e78-48ad-8cd9-369e7818ad04</link>

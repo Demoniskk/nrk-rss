@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 12:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Ida Fladen</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_1a1ad527-cb7f-48e2-8832-6ce79e0feee3</link>
+      <description>– Jeg blir spurt fire ganger daglig om jeg har kjæreste, forteller programskaperen bak &#34;Ida med hjertet i hånden&#34;</description>
+      <guid isPermaLink="false">l_1a1ad527-cb7f-48e2-8832-6ce79e0feee3</guid>
+      <pubDate>Tue, 15 Sep 2026 14:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1a1ad527-cb7f-48e2-8832-6ce79e0feee3_b32509e5-10a1-42d5-9afe-9307970e09c6_ID192MP3.mp3" type="audio/mpeg" length="82446380"></enclosure>
+      <itunes:title>Ida Fladen</itunes:title>
+      <itunes:summary>– Jeg blir spurt fire ganger daglig om jeg har kjæreste, forteller programskaperen bak &#34;Ida med hjertet i hånden&#34;</itunes:summary>
+      <itunes:duration>3435</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gWSKEMnEyv_TIpHmh07VDAHNb7kKlzG4_SAxUqX-8JHQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Marius Bakken</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_5ad943cd-c5dd-4a08-9943-cdc5dd6a08ce</link>

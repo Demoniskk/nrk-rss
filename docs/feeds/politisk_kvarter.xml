@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Tromsø, Nordens Hellas?</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_6e5dcc42-f9e8-4f4f-9dcc-42f9e87f4fec</link>
+      <description>En plaget by. Store underskudd.&#xA;Ferskt medlem av den ikke så populære klubben Robek.&#xA;Hvordan skal Arbeiderpartiet beholde makten i Tromsø?</description>
+      <guid isPermaLink="false">l_6e5dcc42-f9e8-4f4f-9dcc-42f9e87f4fec</guid>
+      <pubDate>Thu, 17 Sep 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/6e5dcc42-f9e8-4f4f-9dcc-42f9e87f4fec_1_ID192MP3.mp3" type="audio/mpeg" length="21766508"></enclosure>
+      <itunes:title>Tromsø, Nordens Hellas?</itunes:title>
+      <itunes:summary>En plaget by. Store underskudd.&#xA;Ferskt medlem av den ikke så populære klubben Robek.&#xA;Hvordan skal Arbeiderpartiet beholde makten i Tromsø?</itunes:summary>
+      <itunes:duration>906</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Mbj8CD2WSSpl0h1ppedkPQY18IsJzcMYwoYFBTYUuegw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Leite etter meir olje</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_6a8ff69b-645a-4d92-8ff6-9b645acd92b9</link>

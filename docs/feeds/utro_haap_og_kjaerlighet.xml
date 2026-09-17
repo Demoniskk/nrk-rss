@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Frida Grande: Kjærlighet og PMDD</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_57b506ba-60b7-4a9d-b506-ba60b71a9de8</link>
+      <description>Frida Grande lever med PMDD, en alvorlig form for PMS. Hvordan påvirker det parforhold, dating og kjærlighetslivet i 30-årene?</description>
+      <guid isPermaLink="false">l_57b506ba-60b7-4a9d-b506-ba60b71a9de8</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/57b506ba-60b7-4a9d-b506-ba60b71a9de8_1_ID192MP3.mp3" type="audio/mpeg" length="56691116"></enclosure>
+      <itunes:title>Frida Grande: Kjærlighet og PMDD</itunes:title>
+      <itunes:summary>Frida Grande lever med PMDD, en alvorlig form for PMS. Hvordan påvirker det parforhold, dating og kjærlighetslivet i 30-årene?</itunes:summary>
+      <itunes:duration>2362</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mxAdHkFOkiDTq7qaZv7dbgWp27Gs7duzrkTcu5QHJ0Mw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Janne Amble: Likestilt parforhold</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_77485dd8-dae5-4e77-885d-d8dae50e7703</link>

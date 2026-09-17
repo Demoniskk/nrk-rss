@@ -6,7 +6,7 @@
     <description>Din ukentlige dose vesentlig vrøvl. Med Anne Lindmo, Halvor Haugen og Rune Norum Engelsøy. Tilbake 10. september.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lindmo_og_co.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Lindmo og Co</title>
       <link>https://radio.nrk.no/podkast/lindmo_og_co</link>
     </image>
+    <item>
+      <title>Teppetrøbbel og maratonmage</title>
+      <link>https://radio.nrk.no/podkast/lindmo_og_co/l_98321fdc-0a3b-4fbd-b21f-dc0a3bafbd57</link>
+      <description>Anne har en dødsfelle i leiligheten og vi avslører maratonløpets ubeleilige baksider.</description>
+      <guid isPermaLink="false">l_98321fdc-0a3b-4fbd-b21f-dc0a3bafbd57</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/98321fdc-0a3b-4fbd-b21f-dc0a3bafbd57_1_ID192MP3.mp3" type="audio/mpeg" length="35994860"></enclosure>
+      <itunes:title>Teppetrøbbel og maratonmage</itunes:title>
+      <itunes:summary>Anne har en dødsfelle i leiligheten og vi avslører maratonløpets ubeleilige baksider.</itunes:summary>
+      <itunes:duration>1499</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Fellesgryta</title>
       <link>https://radio.nrk.no/podkast/lindmo_og_co/l_f7fd5272-97aa-4279-bd52-7297aa3279c6</link>

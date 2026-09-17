@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 12:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Mah-Rukh Ali</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_66b439d1-10f0-4f81-b06e-6eaea848f2b1</link>
+      <description>– Iran er et misforstått land, sier journalisten som  har skrevet bok om landet</description>
+      <guid isPermaLink="false">l_66b439d1-10f0-4f81-b06e-6eaea848f2b1</guid>
+      <pubDate>Wed, 16 Sep 2026 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/66b439d1-10f0-4f81-b06e-6eaea848f2b1_ff64fb57-958b-47ab-bcc9-029d1cdccdd3_ID192MP3.mp3" type="audio/mpeg" length="82483244"></enclosure>
+      <itunes:title>Mah-Rukh Ali</itunes:title>
+      <itunes:summary>– Iran er et misforstått land, sier journalisten som  har skrevet bok om landet</itunes:summary>
+      <itunes:duration>3436</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OyQ-09PAtvQk_ZQTc6h0_wvsFMfTKw6juRIx5aJPBBzQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Ida Fladen</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_1a1ad527-cb7f-48e2-8832-6ce79e0feee3</link>

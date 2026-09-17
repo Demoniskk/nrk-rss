@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Ti år igjen å leve?</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_43e2451f-9528-4815-a245-1f9528f81518</link>
+      <description>KI-eksperter mener dommedag er nær. Galvan innser at han ikke er beredt. Tara satser på at rottene vil redde henne.</description>
+      <guid isPermaLink="false">l_43e2451f-9528-4815-a245-1f9528f81518</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/43e2451f-9528-4815-a245-1f9528f81518_1_ID192MP3.mp3" type="audio/mpeg" length="48627116"></enclosure>
+      <itunes:title>Ti år igjen å leve?</itunes:title>
+      <itunes:summary>KI-eksperter mener dommedag er nær. Galvan innser at han ikke er beredt. Tara satser på at rottene vil redde henne.</itunes:summary>
+      <itunes:duration>2026</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Brownface og porno-hotell</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_82642be1-d231-49c5-a42b-e1d23159c556</link>

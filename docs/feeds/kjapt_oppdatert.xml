@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>To av tre får negative konsekvenser av cannabis</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_813a1d96-481c-4b66-ba1d-96481c4b66fb</link>
+      <description>Og EU vil åpne døra for Canada, lage et nytt sikkerhetsråd og forby sosiale medier for de under 13 år.</description>
+      <guid isPermaLink="false">l_813a1d96-481c-4b66-ba1d-96481c4b66fb</guid>
+      <pubDate>Thu, 17 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/813a1d96-481c-4b66-ba1d-96481c4b66fb_1_ID192MP3.mp3" type="audio/mpeg" length="10589804"></enclosure>
+      <itunes:title>To av tre får negative konsekvenser av cannabis</itunes:title>
+      <itunes:summary>Og EU vil åpne døra for Canada, lage et nytt sikkerhetsråd og forby sosiale medier for de under 13 år.</itunes:summary>
+      <itunes:duration>441</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JfyF-fugWlWe10j7hBQDewqV9MqyvCxOVQyZNlZOyoTg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Eksperter er uenige om hvor farlig KI er</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_a8088500-0071-4f45-8885-0000712f4544</link>

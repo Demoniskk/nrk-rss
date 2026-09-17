@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Ønsker europeisk sikkerhetsråd</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_e3e9c38a-fcb2-487f-a9c3-8afcb2c87f84</link>
+      <description>EU-kommisjonens leder vil ha tettere samarbeid med Canada, Ukraina, Storbritannia og Norge.</description>
+      <guid isPermaLink="false">l_e3e9c38a-fcb2-487f-a9c3-8afcb2c87f84</guid>
+      <pubDate>Wed, 16 Sep 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e3e9c38a-fcb2-487f-a9c3-8afcb2c87f84_1_ID192MP3.mp3" type="audio/mpeg" length="85039532"></enclosure>
+      <itunes:title>Ønsker europeisk sikkerhetsråd</itunes:title>
+      <itunes:summary>EU-kommisjonens leder vil ha tettere samarbeid med Canada, Ukraina, Storbritannia og Norge.</itunes:summary>
+      <itunes:duration>3543</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LzqQvOC82RLS6yXLJM1c3gh52C68Mbb1u0aOgKOIrq_A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Telenor ransaket</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_3ab1016d-362d-4cff-b101-6d362dacff73</link>

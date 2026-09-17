@@ -6,7 +6,7 @@
     <description>Nok en hektisk uke for komiker Nora Svenningsen. Her er hennes verbale dagbok, hvor du er med på å fargelegge sidene. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/din_venn_nora.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Din venn, Nora</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora</link>
     </image>
+    <item>
+      <title>Et hekseliv</title>
+      <link>https://radio.nrk.no/podkast/din_venn_nora/l_a9134ea8-3268-4625-934e-a83268c625df</link>
+      <description>En innføring i hevn, en etiketteguide for idrettsarrangementer og et endelig bevis på det jeg alltid har trodd: Jeg er 100 % heks.</description>
+      <guid isPermaLink="false">l_a9134ea8-3268-4625-934e-a83268c625df</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/a9134ea8-3268-4625-934e-a83268c625df_1_ID192MP3.mp3" type="audio/mpeg" length="42266924"></enclosure>
+      <itunes:title>Et hekseliv</itunes:title>
+      <itunes:summary>En innføring i hevn, en etiketteguide for idrettsarrangementer og et endelig bevis på det jeg alltid har trodd: Jeg er 100 % heks.</itunes:summary>
+      <itunes:duration>1761</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Selge seg selv for tusen kroner</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora/l_c99eefdd-9fe5-43b3-9eef-dd9fe563b3ce</link>

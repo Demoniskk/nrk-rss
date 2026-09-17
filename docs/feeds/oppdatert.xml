@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Tyskeren som fikk Norge til verdensrommet</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_d888d246-824d-4380-88d2-46824d738024</link>
+      <description>5. september 2026 ble det skrevet norsk romfartshistorie. Hvem er tyskeren som gjorde det hele mulig?</description>
+      <guid isPermaLink="false">l_d888d246-824d-4380-88d2-46824d738024</guid>
+      <pubDate>Thu, 17 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/d888d246-824d-4380-88d2-46824d738024_1_ID192MP3.mp3" type="audio/mpeg" length="29200364"></enclosure>
+      <itunes:title>Tyskeren som fikk Norge til verdensrommet</itunes:title>
+      <itunes:summary>5. september 2026 ble det skrevet norsk romfartshistorie. Hvem er tyskeren som gjorde det hele mulig?</itunes:summary>
+      <itunes:duration>1216</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Yy6rJNZ6joUc7gySx-vzaw9T6VjrJ4XXNmhXqFRyHqmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Våpen og overvåkning: Er dette «Europas ICE»?</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_cdf11c64-b27b-47fd-b11c-64b27bf7fde7</link>

@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Løsningen - Thor Haavik</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_aae34351-e563-4dbe-a343-51e563adbe1b</link>
+      <description>Det sies at når vi har det som tøffest, er håpet det siste vi slipper.</description>
+      <guid isPermaLink="false">l_aae34351-e563-4dbe-a343-51e563adbe1b</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/aae34351-e563-4dbe-a343-51e563adbe1b_1_ID192MP3.mp3" type="audio/mpeg" length="5914988"></enclosure>
+      <itunes:title>Løsningen - Thor Haavik</itunes:title>
+      <itunes:summary>Det sies at når vi har det som tøffest, er håpet det siste vi slipper.</itunes:summary>
+      <itunes:duration>246</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Kroppen - Thor Haavik</title>
       <link>https://radio.nrk.no/podkast/andakten/l_b9346e4d-9edd-4d66-b46e-4d9edd1d6666</link>

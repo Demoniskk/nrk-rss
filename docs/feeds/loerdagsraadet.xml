@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 12 Sep 2026 11:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:35:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Fluff!</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_49d4bad8-d7ff-4ba7-94ba-d8d7ffeba7ee</link>
+      <description>Tilbakemelding fra et problem vi løste i 2018 (!)</description>
+      <guid isPermaLink="false">l_49d4bad8-d7ff-4ba7-94ba-d8d7ffeba7ee</guid>
+      <pubDate>Wed, 16 Sep 2026 17:35:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/49d4bad8-d7ff-4ba7-94ba-d8d7ffeba7ee_1_ID192MP3.mp3" type="audio/mpeg" length="24192620"></enclosure>
+      <itunes:title>Fluff!</itunes:title>
+      <itunes:summary>Tilbakemelding fra et problem vi løste i 2018 (!)</itunes:summary>
+      <itunes:duration>1007</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Solveig Kloppen / Are Sende Osen / Nora Svenningsen</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_638467fe-379a-4620-8467-fe379a262070</link>

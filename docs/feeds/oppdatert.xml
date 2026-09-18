@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Naken i sportsreklame: Hån mot kvinner?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_9d368638-fc96-4980-b686-38fc96798034</link>
+      <description>Sydney Sweeney dukker opp uten klær i en reklamefilm. Nå ser flere rødt.&#xA;&#xA;Faksimile: Novig Sports</description>
+      <guid isPermaLink="false">l_9d368638-fc96-4980-b686-38fc96798034</guid>
+      <pubDate>Fri, 18 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/9d368638-fc96-4980-b686-38fc96798034_1_ID192MP3.mp3" type="audio/mpeg" length="26404460"></enclosure>
+      <itunes:title>Naken i sportsreklame: Hån mot kvinner?</itunes:title>
+      <itunes:summary>Sydney Sweeney dukker opp uten klær i en reklamefilm. Nå ser flere rødt.&#xA;&#xA;Faksimile: Novig Sports</itunes:summary>
+      <itunes:duration>1100</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/XLe03AAhaEzGFlFhkUq6sQeQUQyZsrGV1kn3Ny4-vnDA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Tyskeren som fikk Norge til verdensrommet</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_d888d246-824d-4380-88d2-46824d738024</link>

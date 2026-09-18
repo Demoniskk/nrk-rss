@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 14:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:20:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Trump truer Europa etter Canada-flørting</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_d600388f-23ee-4bca-8038-8f23ee6bcaba</link>
+      <description>EU vil ha Canada med på laget og det provoserer USA: – En fiendtlig handling, svarer Donald Trump og truer Europa. Og hvorfor skal vi i Norge bry oss om det svenske valget?</description>
+      <guid isPermaLink="false">l_d600388f-23ee-4bca-8038-8f23ee6bcaba</guid>
+      <pubDate>Thu, 17 Sep 2026 15:20:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/d600388f-23ee-4bca-8038-8f23ee6bcaba_1_ID192MP3.mp3" type="audio/mpeg" length="42875756"></enclosure>
+      <itunes:title>Trump truer Europa etter Canada-flørting</itunes:title>
+      <itunes:summary>EU vil ha Canada med på laget og det provoserer USA: – En fiendtlig handling, svarer Donald Trump og truer Europa. Og hvorfor skal vi i Norge bry oss om det svenske valget?</itunes:summary>
+      <itunes:duration>1786</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AyG_LjHgyFuzNFoaJV7DbwmARlMckEpXOyJbtpSTDFJw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Kan KI drepe alle mennesker innen 2030?</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_019a1699-dd78-41a2-9a16-99dd7861a2c8</link>

@@ -6,7 +6,7 @@
     <description>Vi oppsummerer kulturuka hver fredag, med faste, friske og freidige paneldeltakere.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 06:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/fredagspanelet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Fredagspanelet</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet</link>
     </image>
+    <item>
+      <title>Dokument.no, KI-skapt musikk og influensere</title>
+      <link>https://radio.nrk.no/podkast/fredagspanelet/l_d6a6a32c-ddc5-41f9-a6a3-2cddc5b1f9cd</link>
+      <description>Bør Redaktørforeningen ekskludere Hans Rustad?  Er KI en trussel for musikken ? Gir vi influenserne for mye oppmerksomhet?</description>
+      <guid isPermaLink="false">l_d6a6a32c-ddc5-41f9-a6a3-2cddc5b1f9cd</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/d6a6a32c-ddc5-41f9-a6a3-2cddc5b1f9cd_1_ID192MP3.mp3" type="audio/mpeg" length="18628460"></enclosure>
+      <itunes:title>Dokument.no, KI-skapt musikk og influensere</itunes:title>
+      <itunes:summary>Bør Redaktørforeningen ekskludere Hans Rustad?  Er KI en trussel for musikken ? Gir vi influenserne for mye oppmerksomhet?</itunes:summary>
+      <itunes:duration>776</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Lesing, drivstoff og fraværet av Trump</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet/l_8446c86e-cd1b-4015-86c8-6ecd1b501576</link>

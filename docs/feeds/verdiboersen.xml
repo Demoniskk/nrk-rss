@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 08:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title>Hva var det med tyskerne?</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_18a822e4-8afb-4a7c-a822-e48afb5a7c10</link>
+      <description>Historikeren svarer på spørsmål fra lytterne om Det tredje riket. Om krigen og Holocaust - og lever vi nå i en ny mellomkrigstid?</description>
+      <guid isPermaLink="false">l_18a822e4-8afb-4a7c-a822-e48afb5a7c10</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/18a822e4-8afb-4a7c-a822-e48afb5a7c10_1_ID192MP3.mp3" type="audio/mpeg" length="80902124"></enclosure>
+      <itunes:title>Hva var det med tyskerne?</itunes:title>
+      <itunes:summary>Historikeren svarer på spørsmål fra lytterne om Det tredje riket. Om krigen og Holocaust - og lever vi nå i en ny mellomkrigstid?</itunes:summary>
+      <itunes:duration>3370</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D5KcsVd8Rr4TmJHLJr-1IgtpwD7AarVB2gSas_1biXUQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Kupp i USA?</title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_85346aa1-b3e3-4e34-b46a-a1b3e30e3487</link>

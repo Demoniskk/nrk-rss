@@ -6,7 +6,7 @@
     <description>Alt kan skje og ingen er trygge når fire komikere oppsummerer uka!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/desken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Desken brenner</title>
       <link>https://radio.nrk.no/podkast/desken_brenner</link>
     </image>
+    <item>
+      <title>Den myke foreldrefellen</title>
+      <link>https://radio.nrk.no/podkast/desken_brenner/l_67240fd2-4777-4b8a-a40f-d247776b8a12</link>
+      <description>Sanna Sarromaa tordner mot myke foreldre. En krig har brutt ut på Grønland. Tara tar en alvorsprat med KI-kjæresten sin.</description>
+      <guid isPermaLink="false">l_67240fd2-4777-4b8a-a40f-d247776b8a12</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/67240fd2-4777-4b8a-a40f-d247776b8a12_1_ID192MP3.mp3" type="audio/mpeg" length="53614700"></enclosure>
+      <itunes:title>Den myke foreldrefellen</itunes:title>
+      <itunes:summary>Sanna Sarromaa tordner mot myke foreldre. En krig har brutt ut på Grønland. Tara tar en alvorsprat med KI-kjæresten sin.</itunes:summary>
+      <itunes:duration>2233</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>3500 soldater og en gravferd</title>
       <link>https://radio.nrk.no/podkast/desken_brenner/l_6232a772-241c-485b-b2a7-72241cc85b98</link>

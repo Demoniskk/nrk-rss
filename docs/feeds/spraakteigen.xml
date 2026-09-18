@@ -6,7 +6,7 @@
     <description>Absolutt alt du kan undre deg over om språk! Jesper Nondal spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/spraakteigen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Språksnakk</title>
       <link>https://radio.nrk.no/podkast/spraakteigen</link>
     </image>
+    <item>
+      <title>Attråverdig løpepass</title>
+      <link>https://radio.nrk.no/podkast/spraakteigen/l_7e810bce-5eab-4f1a-810b-ce5eabef1a63</link>
+      <description>Blir språket fattigere når ord byttes ut? Krenkealarmen har gått, og vi tar saken. Navneuttale er ett tema som betyr mye for mange.</description>
+      <guid isPermaLink="false">l_7e810bce-5eab-4f1a-810b-ce5eabef1a63</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/7e810bce-5eab-4f1a-810b-ce5eabef1a63_1_ID192MP3.mp3" type="audio/mpeg" length="81991916"></enclosure>
+      <itunes:title>Attråverdig løpepass</itunes:title>
+      <itunes:summary>Blir språket fattigere når ord byttes ut? Krenkealarmen har gått, og vi tar saken. Navneuttale er ett tema som betyr mye for mange.</itunes:summary>
+      <itunes:duration>3416</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2TvOfsrDcr5auT3M1LgFigBrInEvCkkXEHL4J_JYW50Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Blåmandag for prostinnen</title>
       <link>https://radio.nrk.no/podkast/spraakteigen/l_1fd30df4-de2f-4297-930d-f4de2f92978f</link>

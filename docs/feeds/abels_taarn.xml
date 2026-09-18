@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 12 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Hvor vakker er naturen?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_684cc404-fcd9-4208-8cc4-04fcd9020877</link>
+      <description>Om det nå er det den er da.&#xA;Vi setter opp Tårnet på Galleri F15 på Jeløya for å finne ut hvordan vitenskap og kunst henger sammen!</description>
+      <guid isPermaLink="false">l_684cc404-fcd9-4208-8cc4-04fcd9020877</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/684cc404-fcd9-4208-8cc4-04fcd9020877_1_ID192MP3.mp3" type="audio/mpeg" length="85388588"></enclosure>
+      <itunes:title>Hvor vakker er naturen?</itunes:title>
+      <itunes:summary>Om det nå er det den er da.&#xA;Vi setter opp Tårnet på Galleri F15 på Jeløya for å finne ut hvordan vitenskap og kunst henger sammen!</itunes:summary>
+      <itunes:duration>3557</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/40zlF_B1LuftpK4N-FApSgJ__TB267bGwOaNGJLaWg5A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Det finnes en riktig tissevinkel</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_fa893938-21f7-4cd4-8939-3821f77cd4f4</link>

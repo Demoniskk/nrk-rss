@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Alpelue er stygt</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_7a98e1e3-6d8a-4b5c-98e1-e36d8a9b5c0a</link>
+      <description>Anna har verdens lengste vignett, hva hadde vi gjort som kjøttmeiser og Markus sliter seg igjennom stand-up.</description>
+      <guid isPermaLink="false">l_7a98e1e3-6d8a-4b5c-98e1-e36d8a9b5c0a</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/7a98e1e3-6d8a-4b5c-98e1-e36d8a9b5c0a_1_ID192MP3.mp3" type="audio/mpeg" length="66026348"></enclosure>
+      <itunes:title>Alpelue er stygt</itunes:title>
+      <itunes:summary>Anna har verdens lengste vignett, hva hadde vi gjort som kjøttmeiser og Markus sliter seg igjennom stand-up.</itunes:summary>
+      <itunes:duration>2751</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Husedderkoppens tyranni</title>
       <link>https://radio.nrk.no/podkast/siesta/l_7304efb6-aafe-4499-84ef-b6aafed4997b</link>

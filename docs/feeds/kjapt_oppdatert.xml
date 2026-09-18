@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Vil ikke senke drivstoffprisene</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_485f4f69-fa3d-41a8-9f4f-69fa3d41a874</link>
+      <description>Og hvorfor lukter det fis på Vestli?</description>
+      <guid isPermaLink="false">l_485f4f69-fa3d-41a8-9f4f-69fa3d41a874</guid>
+      <pubDate>Fri, 18 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/485f4f69-fa3d-41a8-9f4f-69fa3d41a874_1_ID192MP3.mp3" type="audio/mpeg" length="10815596"></enclosure>
+      <itunes:title>Vil ikke senke drivstoffprisene</itunes:title>
+      <itunes:summary>Og hvorfor lukter det fis på Vestli?</itunes:summary>
+      <itunes:duration>450</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Uo4SfNrOa1FHUOPibbmvsQeDBPkyPGEjQJLB-UMXgikQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>To av tre får negative konsekvenser av cannabis</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_813a1d96-481c-4b66-ba1d-96481c4b66fb</link>

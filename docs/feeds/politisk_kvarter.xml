@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Kun de beste får bli?</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_6eecb2be-fa8f-43d5-acb2-befa8f63d5b2</link>
+      <description>Nærmere 19.000 ukrainere kan få varig opphold i Norge hvis de tjener nok penger.&#xA;Er det likebehandling? Og er det ikke de som skal bygge opp igjen Ukraina når det blir fred?</description>
+      <guid isPermaLink="false">l_6eecb2be-fa8f-43d5-acb2-befa8f63d5b2</guid>
+      <pubDate>Fri, 18 Sep 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/6eecb2be-fa8f-43d5-acb2-befa8f63d5b2_1_ID192MP3.mp3" type="audio/mpeg" length="21880556"></enclosure>
+      <itunes:title>Kun de beste får bli?</itunes:title>
+      <itunes:summary>Nærmere 19.000 ukrainere kan få varig opphold i Norge hvis de tjener nok penger.&#xA;Er det likebehandling? Og er det ikke de som skal bygge opp igjen Ukraina når det blir fred?</itunes:summary>
+      <itunes:duration>911</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1fssIRyI9P7dRE9ljAbVHQuyz5BpVjU-vffbzCHt6wRQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Tromsø, Nordens Hellas?</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_6e5dcc42-f9e8-4f4f-9dcc-42f9e87f4fec</link>

@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Trumps USA: Mykje motstand</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_01d82fa4-8e37-4d24-982f-a48e378d241f</link>
+      <description>Det går trått for Trump når den handplukka mannen hans trassar han, og to sterke demokratar truer republikanarane.</description>
+      <guid isPermaLink="false">l_01d82fa4-8e37-4d24-982f-a48e378d241f</guid>
+      <pubDate>Thu, 17 Sep 2026 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/01d82fa4-8e37-4d24-982f-a48e378d241f_1_ID192MP3.mp3" type="audio/mpeg" length="78565868"></enclosure>
+      <itunes:title>Trumps USA: Mykje motstand</itunes:title>
+      <itunes:summary>Det går trått for Trump når den handplukka mannen hans trassar han, og to sterke demokratar truer republikanarane.</itunes:summary>
+      <itunes:duration>3273</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/N1NaOicRHZCmFl7jX-a7XwIJn_he1vejMZYSY5U5jWNg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Solarpunk - en bærekraftig drøm</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_28c304fe-a899-431e-8304-fea899b31e46</link>

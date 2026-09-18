@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:02:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Carl I. Hagen</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_8e44efd3-c47f-4dae-81a0-81bc1dbe1e02</link>
+      <description>Få har irritert på seg så mange i norsk politikk som Carl I Hagen, som var mangeårig formann i FrP. Og nesten ingen har også blitt så beundret. Pensjonisten Hagen har overlevd tiår med politiske bikkjeslagsmål og framstår som et politisk dyr. Men hvem er egentlig mennesket, Carl Ivar Hagen? </description>
+      <guid isPermaLink="false">l_8e44efd3-c47f-4dae-81a0-81bc1dbe1e02</guid>
+      <pubDate>Thu, 17 Sep 2026 14:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/8e44efd3-c47f-4dae-81a0-81bc1dbe1e02_f961fac5-0f9f-4f95-bb6b-0e7c0afbbfe8_ID192MP3.mp3" type="audio/mpeg" length="82667564"></enclosure>
+      <itunes:title>Carl I. Hagen</itunes:title>
+      <itunes:summary>Få har irritert på seg så mange i norsk politikk som Carl I Hagen, som var mangeårig formann i FrP. Og nesten ingen har også blitt så beundret. Pensjonisten Hagen har overlevd tiår med politiske bikkjeslagsmål og framstår som et politisk dyr. Men hvem er egentlig mennesket, Carl Ivar Hagen? </itunes:summary>
+      <itunes:duration>3444</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/P6gMdkr7zRVZi8UylWVPJgOLQQGLcxza4uHR_7Jta_9Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Mah-Rukh Ali</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_66b439d1-10f0-4f81-b06e-6eaea848f2b1</link>

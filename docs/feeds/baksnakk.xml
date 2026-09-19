@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Jentekveld, fake selvtillit og kleint, kleint, kleint</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_33696ecc-ea64-4658-a96e-ccea64665831</link>
+      <description>Hva gjør man med venner som synes ALT er kleint? Gyda er tilbake som gjest!&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</description>
+      <guid isPermaLink="false">l_33696ecc-ea64-4658-a96e-ccea64665831</guid>
+      <pubDate>Fri, 18 Sep 2026 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/33696ecc-ea64-4658-a96e-ccea64665831_1_ID192MP3.mp3" type="audio/mpeg" length="66835628"></enclosure>
+      <itunes:title>Jentekveld, fake selvtillit og kleint, kleint, kleint</itunes:title>
+      <itunes:summary>Hva gjør man med venner som synes ALT er kleint? Gyda er tilbake som gjest!&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</itunes:summary>
+      <itunes:duration>2784</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Dyre gaver, tånegler og tissing i hagen (Spøtta-spesial #11)</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_e38b08ba-5422-4490-8b08-ba5422f490db</link>

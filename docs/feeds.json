@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-18T08:19:40Z",
-  "latest_episode": "2026-09-18T07:00:00Z",
+  "generated_at": "2026-09-19T08:07:42Z",
+  "latest_episode": "2026-09-19T04:00:00Z",
   "source": "https://radio.nrk.no/",
   "podcast_count": 235,
-  "episode_count": 59554,
+  "episode_count": 59559,
   "podcasts": [
     {
       "id": "22_juli_-_hvordan_kunne_det_skje",
@@ -99,10 +99,10 @@
       "description": "Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg",
-      "episode_count": 355,
+      "episode_count": 356,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml",
       "nrk_url": "https://radio.nrk.no/podkast/baksnakk",
-      "latest_episode": "2026-09-15T04:00:00Z"
+      "latest_episode": "2026-09-18T10:00:00Z"
     },
     {
       "id": "berrum_beyer_snakker_om_greier",
@@ -264,10 +264,10 @@
       "description": "Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw",
-      "episode_count": 3651,
+      "episode_count": 3652,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml",
       "nrk_url": "https://radio.nrk.no/podkast/dagsnytt_atten",
-      "latest_episode": "2026-09-17T17:00:00Z"
+      "latest_episode": "2026-09-18T17:00:00Z"
     },
     {
       "id": "p060ms2h",
@@ -1595,10 +1595,10 @@
       "description": "Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ",
-      "episode_count": 287,
+      "episode_count": 288,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/norsken_svensken_og_dansken.xml",
       "nrk_url": "https://radio.nrk.no/podkast/norsken_svensken_og_dansken",
-      "latest_episode": "2026-09-12T04:00:00Z"
+      "latest_episode": "2026-09-19T04:00:00Z"
     },
     {
       "id": "nrkscenen",
@@ -1672,10 +1672,10 @@
       "description": "Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw",
-      "episode_count": 1336,
+      "episode_count": 1337,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml",
       "nrk_url": "https://radio.nrk.no/podkast/oppdatert",
-      "latest_episode": "2026-09-18T03:59:00Z"
+      "latest_episode": "2026-09-18T14:15:00Z"
     },
     {
       "id": "odaspodda",
@@ -1969,10 +1969,10 @@
       "description": "Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
-      "episode_count": 338,
+      "episode_count": 339,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml",
       "nrk_url": "https://radio.nrk.no/podkast/siesta",
-      "latest_episode": "2026-09-17T04:00:00Z"
+      "latest_episode": "2026-09-18T04:00:00Z"
     },
     {
       "id": "sjakksnakk",

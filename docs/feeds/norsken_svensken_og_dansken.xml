@@ -6,7 +6,7 @@
     <description>Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 12 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/norsken_svensken_og_dansken.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Norsken, svensken og dansken</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken</link>
     </image>
+    <item>
+      <title>Vanskelige venner</title>
+      <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_3fb3c06e-27f5-4582-b3c0-6e27f5f5822c</link>
+      <description>Hvorfor gjorde Sosialdemokratene tidenes dårligste valg i Sverige? Truer ukrainsk korrupsjon Vesten? Og kan jenter egentlig ha guttevenner?</description>
+      <guid isPermaLink="false">l_3fb3c06e-27f5-4582-b3c0-6e27f5f5822c</guid>
+      <pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3fb3c06e-27f5-4582-b3c0-6e27f5f5822c_1_ID192MP3.mp3" type="audio/mpeg" length="82160108"></enclosure>
+      <itunes:title>Vanskelige venner</itunes:title>
+      <itunes:summary>Hvorfor gjorde Sosialdemokratene tidenes dårligste valg i Sverige? Truer ukrainsk korrupsjon Vesten? Og kan jenter egentlig ha guttevenner?</itunes:summary>
+      <itunes:duration>3423</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Ekstreme ytterkanter</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_db14229f-e0c0-4f13-9422-9fe0c0bf13f1</link>

@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 15:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:14:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Mari Garås Monsson / Jørgen EP / Anna Nor Sørensen</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_a1fc729b-c7b7-45da-bc72-9bc7b795da89</link>
+      <description>TILBAKEMELDING: Ny tittel? / PROBLEMER: Hvordan snakker man med kjekkasen på flyet? / Fikk personlig vekst, men til hvilken pris? / Sosial sommerfugl søker vinterdvale / Jada, det er flest hverdager... men! / Blir forbanna når kjæresten er syk / La ikke til, dårlig stemning / De beste faste «tradisjonene» / Hvilken avkjørsel i livets rundkjøring? / Et dritt-problem, bokstavelig talt / Deppa nabo - være en støtte eller skygge unna?</description>
+      <guid isPermaLink="false">l_a1fc729b-c7b7-45da-bc72-9bc7b795da89</guid>
+      <pubDate>Sat, 19 Sep 2026 13:14:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/a1fc729b-c7b7-45da-bc72-9bc7b795da89_1_ID192MP3.mp3" type="audio/mpeg" length="173850668"></enclosure>
+      <itunes:title>Mari Garås Monsson / Jørgen EP / Anna Nor Sørensen</itunes:title>
+      <itunes:summary>TILBAKEMELDING: Ny tittel? / PROBLEMER: Hvordan snakker man med kjekkasen på flyet? / Fikk personlig vekst, men til hvilken pris? / Sosial sommerfugl søker vinterdvale / Jada, det er flest hverdager... men! / Blir forbanna når kjæresten er syk / La ikke til, dårlig stemning / De beste faste «tradisjonene» / Hvilken avkjørsel i livets rundkjøring? / Et dritt-problem, bokstavelig talt / Deppa nabo - være en støtte eller skygge unna?</itunes:summary>
+      <itunes:duration>7243</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iB44JzYJp581xAqdRY3KBAN8DvKtD2EON4vpJRgfRL7w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Fluff!</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_49d4bad8-d7ff-4ba7-94ba-d8d7ffeba7ee</link>

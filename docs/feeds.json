@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-19T08:07:42Z",
-  "latest_episode": "2026-09-19T04:00:00Z",
+  "generated_at": "2026-09-20T08:40:07Z",
+  "latest_episode": "2026-09-20T04:01:00Z",
   "source": "https://radio.nrk.no/",
   "podcast_count": 235,
-  "episode_count": 59559,
+  "episode_count": 59566,
   "podcasts": [
     {
       "id": "22_juli_-_hvordan_kunne_det_skje",
@@ -1287,10 +1287,10 @@
       "description": "Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw",
-      "episode_count": 956,
+      "episode_count": 957,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml",
       "nrk_url": "https://radio.nrk.no/podkast/loerdagsraadet",
-      "latest_episode": "2026-09-16T15:35:00Z"
+      "latest_episode": "2026-09-19T11:14:00Z"
     },
     {
       "id": "manin_ja_danin",
@@ -2079,10 +2079,10 @@
       "description": "Noen låter setter dypere spor. Artistene våre forteller om musikken de er mest stolt av – den som endret livet og karrieren.",
       "category": "Musikk",
       "image_url": "https://gfx.nrk.no/VRXWIsafdxLtlNKk4mVP1wK5xciXPKQgQEXSpGduJv0A",
-      "episode_count": 1,
+      "episode_count": 5,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/spor.xml",
       "nrk_url": "https://radio.nrk.no/podkast/spor",
-      "latest_episode": "2026-09-14T04:00:00Z"
+      "latest_episode": "2026-09-20T04:01:00Z"
     },
     {
       "id": "sportsdesken_brenner",
@@ -2409,10 +2409,10 @@
       "description": "Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/fbHyXQ8TzLXZCa9Ja-wCrwd8DGCnk4s5k2j_s6Ky-VoQ",
-      "episode_count": 752,
+      "episode_count": 753,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml",
       "nrk_url": "https://radio.nrk.no/podkast/ukeslutt",
-      "latest_episode": "2026-09-12T12:00:00Z"
+      "latest_episode": "2026-09-19T13:00:00Z"
     },
     {
       "id": "ukjent",
@@ -2464,10 +2464,10 @@
       "description": "Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/i6WpRMdSUR8U5mKLWBcDAAGgUEsgdUJWSTNFpFaD-XUg",
-      "episode_count": 91,
+      "episode_count": 92,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml",
       "nrk_url": "https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet",
-      "latest_episode": "2026-09-17T04:00:00Z"
+      "latest_episode": "2026-09-20T04:00:00Z"
     },
     {
       "id": "valg",

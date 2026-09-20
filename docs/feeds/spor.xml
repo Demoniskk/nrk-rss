@@ -6,7 +6,7 @@
     <description>Noen låter setter dypere spor. Artistene våre forteller om musikken de er mest stolt av – den som endret livet og karrieren.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:01:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/spor.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,62 @@
       <title>Spor</title>
       <link>https://radio.nrk.no/podkast/spor</link>
     </image>
+    <item>
+      <title>1. «Mitt hjerte hamrer og hamrer» – trassig suksess</title>
+      <link>https://radio.nrk.no/podkast/spor/l_30727b41-f05a-4135-b27b-41f05a4135cf</link>
+      <description>Hvem vil satse på en ubeskrevet nordnorsk visesanger med danske dikt? Selv Kari Bremnes må mase seg til platekontrakt.</description>
+      <guid isPermaLink="false">l_30727b41-f05a-4135-b27b-41f05a4135cf</guid>
+      <pubDate>Sun, 20 Sep 2026 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/spor/30727b41-f05a-4135-b27b-41f05a4135cf_1_ID192MP3.mp3" type="audio/mpeg" length="26483948"></enclosure>
+      <itunes:title>1. «Mitt hjerte hamrer og hamrer» – trassig suksess</itunes:title>
+      <itunes:summary>Hvem vil satse på en ubeskrevet nordnorsk visesanger med danske dikt? Selv Kari Bremnes må mase seg til platekontrakt.</itunes:summary>
+      <itunes:duration>1103</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UAiKQcRPkg1qupDb1gGIfQeVmdweXpzBiO9yCyIKW9-w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>2. «E du nord» - redda fra reklame</title>
+      <link>https://radio.nrk.no/podkast/spor/l_e3eb6af1-f4dd-4e3f-ab6a-f1f4dd5e3f8d</link>
+      <description>Låten er blitt en nasjonalskatt, men var egentlig ment for en firmafest.</description>
+      <guid isPermaLink="false">l_e3eb6af1-f4dd-4e3f-ab6a-f1f4dd5e3f8d</guid>
+      <pubDate>Sun, 20 Sep 2026 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/spor/e3eb6af1-f4dd-4e3f-ab6a-f1f4dd5e3f8d_1_ID192MP3.mp3" type="audio/mpeg" length="26497196"></enclosure>
+      <itunes:title>2. «E du nord» - redda fra reklame</itunes:title>
+      <itunes:summary>Låten er blitt en nasjonalskatt, men var egentlig ment for en firmafest.</itunes:summary>
+      <itunes:duration>1104</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UAiKQcRPkg1qupDb1gGIfQeVmdweXpzBiO9yCyIKW9-w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>1. «Borgerskapets utakknemlige sønner» – en finger til bibelbeltet</title>
+      <link>https://radio.nrk.no/podkast/spor/l_80985d4e-4cf9-4f73-985d-4e4cf9ff73ad</link>
+      <description>Fem gutter fra bibelbeltet finner sammen i opprør, men så snart de slår gjennom skjer tragedien.</description>
+      <guid isPermaLink="false">l_80985d4e-4cf9-4f73-985d-4e4cf9ff73ad</guid>
+      <pubDate>Sun, 20 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/spor/80985d4e-4cf9-4f73-985d-4e4cf9ff73ad_1_ID192MP3.mp3" type="audio/mpeg" length="28304684"></enclosure>
+      <itunes:title>1. «Borgerskapets utakknemlige sønner» – en finger til bibelbeltet</itunes:title>
+      <itunes:summary>Fem gutter fra bibelbeltet finner sammen i opprør, men så snart de slår gjennom skjer tragedien.</itunes:summary>
+      <itunes:duration>1179</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MasGiktNAkYJFDbarsCQFwaaVRooN0vtlM-8ifXz0jRg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>2. «Øyane er mosaikk» - gleden kommer tilbake</title>
+      <link>https://radio.nrk.no/podkast/spor/l_987e2ab1-2670-4cac-be2a-b126704cac14</link>
+      <description>Turnélivet tærer på og bandet slår sprekker. Er det slutt for Honningbarna – eller kan en låt blåse liv i glørne igjen?</description>
+      <guid isPermaLink="false">l_987e2ab1-2670-4cac-be2a-b126704cac14</guid>
+      <pubDate>Sun, 20 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/spor/987e2ab1-2670-4cac-be2a-b126704cac14_1_ID192MP3.mp3" type="audio/mpeg" length="28495916"></enclosure>
+      <itunes:title>2. «Øyane er mosaikk» - gleden kommer tilbake</itunes:title>
+      <itunes:summary>Turnélivet tærer på og bandet slår sprekker. Er det slutt for Honningbarna – eller kan en låt blåse liv i glørne igjen?</itunes:summary>
+      <itunes:duration>1187</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MasGiktNAkYJFDbarsCQFwaaVRooN0vtlM-8ifXz0jRg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Snart kommer Spor!</title>
       <link>https://radio.nrk.no/podkast/spor/l_2168c5af-209e-47b3-a8c5-af209e47b3e6</link>

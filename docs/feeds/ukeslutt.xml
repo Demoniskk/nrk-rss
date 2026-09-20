@@ -6,7 +6,7 @@
     <description>Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 12 Sep 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 13:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ukeslutt</title>
       <link>https://radio.nrk.no/podkast/ukeslutt</link>
     </image>
+    <item>
+      <title>Influensarar og makt</title>
+      <link>https://radio.nrk.no/podkast/ukeslutt/l_a85d1734-d842-455a-9d17-34d842c55abc</link>
+      <description>Dei får oss til å drøyme oss bort, og samtidig klikke på kjøp-knappen. Men når er dei privatpersoner, og når er dei bedriftseigarar?</description>
+      <guid isPermaLink="false">l_a85d1734-d842-455a-9d17-34d842c55abc</guid>
+      <pubDate>Sat, 19 Sep 2026 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/a85d1734-d842-455a-9d17-34d842c55abc_1_ID192MP3.mp3" type="audio/mpeg" length="89505260"></enclosure>
+      <itunes:title>Influensarar og makt</itunes:title>
+      <itunes:summary>Dei får oss til å drøyme oss bort, og samtidig klikke på kjøp-knappen. Men når er dei privatpersoner, og når er dei bedriftseigarar?</itunes:summary>
+      <itunes:duration>3729</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KnMKD1wSYPJ-2Sgr_fKdMwmTEZ31LaE9S8LKOE9T88Jg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Barn uten lærekondis</title>
       <link>https://radio.nrk.no/podkast/ukeslutt/l_b92b30a4-3ef8-4ce6-ab30-a43ef8cce655</link>

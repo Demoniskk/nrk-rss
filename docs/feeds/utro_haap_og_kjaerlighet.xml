@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Panelet: Solotur og søkehistorikk</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_f7ee0942-6dbc-495d-ae09-426dbc095d26</link>
+      <description>Selma deler fra sin første solotur, Kai Thomas har blitt Lars Monsen, og Jonas lurer på om han må ta med dama på gorillasafari.</description>
+      <guid isPermaLink="false">l_f7ee0942-6dbc-495d-ae09-426dbc095d26</guid>
+      <pubDate>Sun, 20 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/f7ee0942-6dbc-495d-ae09-426dbc095d26_1_ID192MP3.mp3" type="audio/mpeg" length="70656812"></enclosure>
+      <itunes:title>Panelet: Solotur og søkehistorikk</itunes:title>
+      <itunes:summary>Selma deler fra sin første solotur, Kai Thomas har blitt Lars Monsen, og Jonas lurer på om han må ta med dama på gorillasafari.</itunes:summary>
+      <itunes:duration>2943</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yJWGnGgnz8jzvPiGxbqKuQ_PjVBl4VqtDjjmQwLlbNQw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Frida Grande: Kjærlighet og PMDD</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_57b506ba-60b7-4a9d-b506-ba60b71a9de8</link>

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-20T08:40:07Z",
-  "latest_episode": "2026-09-20T04:01:00Z",
+  "generated_at": "2026-09-21T09:02:01Z",
+  "latest_episode": "2026-09-21T08:30:00Z",
   "source": "https://radio.nrk.no/",
   "podcast_count": 235,
-  "episode_count": 59566,
+  "episode_count": 59575,
   "podcasts": [
     {
       "id": "22_juli_-_hvordan_kunne_det_skje",
@@ -33,10 +33,10 @@
       "description": "Forum for funfacts, hard forskning og bedrevitenskap ",
       "category": "Kultur og samfunn",
       "image_url": "https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw",
-      "episode_count": 817,
+      "episode_count": 818,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml",
       "nrk_url": "https://radio.nrk.no/podkast/abels_taarn",
-      "latest_episode": "2026-09-18T04:00:00Z"
+      "latest_episode": "2026-09-21T04:00:00Z"
     },
     {
       "id": "andakten",
@@ -44,10 +44,10 @@
       "description": "Hverdagsfunderinger over tro og liv.",
       "category": "Kultur og samfunn",
       "image_url": "https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw",
-      "episode_count": 3098,
+      "episode_count": 3099,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml",
       "nrk_url": "https://radio.nrk.no/podkast/andakten",
-      "latest_episode": "2026-09-17T04:00:00Z"
+      "latest_episode": "2026-09-21T04:00:00Z"
     },
     {
       "id": "andregenerasjonen",
@@ -231,10 +231,10 @@
       "description": "En tenketank for folk med lav intelligens.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA",
-      "episode_count": 143,
+      "episode_count": 144,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/baade_erlend_og_steinar_.xml",
       "nrk_url": "https://radio.nrk.no/podkast/baade_erlend_og_steinar_",
-      "latest_episode": "2026-09-14T04:00:00Z"
+      "latest_episode": "2026-09-21T04:00:00Z"
     },
     {
       "id": "clue",
@@ -946,10 +946,10 @@
       "description": "Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/EoJT_rdzPpGdMqizVACGzAM8B8-ytYf6_dcK0t68D1UA",
-      "episode_count": 5,
+      "episode_count": 6,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/kilder_til_begeistring.xml",
       "nrk_url": "https://radio.nrk.no/podkast/kilder_til_begeistring",
-      "latest_episode": "2026-09-14T04:00:00Z"
+      "latest_episode": "2026-09-21T04:00:00Z"
     },
     {
       "id": "kjapt_oppdatert",
@@ -957,10 +957,10 @@
       "description": "Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA",
-      "episode_count": 388,
+      "episode_count": 389,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml",
       "nrk_url": "https://radio.nrk.no/podkast/kjapt_oppdatert",
-      "latest_episode": "2026-09-18T03:59:00Z"
+      "latest_episode": "2026-09-21T03:59:00Z"
     },
     {
       "id": "kjente_boeker_paa_4_minutter",
@@ -1705,10 +1705,10 @@
       "description": "Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew",
-      "episode_count": 3638,
+      "episode_count": 3640,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml",
       "nrk_url": "https://radio.nrk.no/podkast/p3morgen",
-      "latest_episode": "2026-09-17T08:00:00Z"
+      "latest_episode": "2026-09-21T08:30:00Z"
     },
     {
       "id": "politisk_kvarter",
@@ -1716,10 +1716,10 @@
       "description": "Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. \n",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg",
-      "episode_count": 3517,
+      "episode_count": 3518,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml",
       "nrk_url": "https://radio.nrk.no/podkast/politisk_kvarter",
-      "latest_episode": "2026-09-18T06:00:00Z"
+      "latest_episode": "2026-09-21T06:00:00Z"
     },
     {
       "id": "popaganda",
@@ -2354,10 +2354,10 @@
       "description": "Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  \n",
       "category": "Kultur og samfunn",
       "image_url": "https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ",
-      "episode_count": 168,
+      "episode_count": 169,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml",
       "nrk_url": "https://radio.nrk.no/podkast/trygdekontoret",
-      "latest_episode": "2026-09-14T04:00:00Z"
+      "latest_episode": "2026-09-21T04:00:00Z"
     },
     {
       "id": "traesh",

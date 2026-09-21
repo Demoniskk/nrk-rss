@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Glassblåseren - Kjetil Gilberg</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_66379da7-f93f-4589-a55d-c64312d5b8af</link>
+      <description>Å puste gir liv, men pust gir også liv til mer enn oss som trenger å puste. Det kommer mye vakkert fra den som kan å bruke pusten</description>
+      <guid isPermaLink="false">l_66379da7-f93f-4589-a55d-c64312d5b8af</guid>
+      <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/66379da7-f93f-4589-a55d-c64312d5b8af_1b120487-b549-4924-b054-2b8573ec9c62_ID192MP3.mp3" type="audio/mpeg" length="4289516"></enclosure>
+      <itunes:title>Glassblåseren - Kjetil Gilberg</itunes:title>
+      <itunes:summary>Å puste gir liv, men pust gir også liv til mer enn oss som trenger å puste. Det kommer mye vakkert fra den som kan å bruke pusten</itunes:summary>
+      <itunes:duration>178</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gASAtLDLHCAFGCrOtfW_VgN-LSqMpAImMrJpvCtuQIZw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Løsningen - Thor Haavik</title>
       <link>https://radio.nrk.no/podkast/andakten/l_aae34351-e563-4dbe-a343-51e563adbe1b</link>

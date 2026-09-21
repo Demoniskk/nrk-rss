@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 18 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Nå kan varene du handler bli dyrere</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_d6b1d0cd-63e0-47b5-b1d0-cd63e087b554</link>
+      <description>Og en mann er skutt av ICE i USA</description>
+      <guid isPermaLink="false">l_d6b1d0cd-63e0-47b5-b1d0-cd63e087b554</guid>
+      <pubDate>Mon, 21 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d6b1d0cd-63e0-47b5-b1d0-cd63e087b554_1_ID192MP3.mp3" type="audio/mpeg" length="9742508"></enclosure>
+      <itunes:title>Nå kan varene du handler bli dyrere</itunes:title>
+      <itunes:summary>Og en mann er skutt av ICE i USA</itunes:summary>
+      <itunes:duration>405</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/slaN-EdRJ-6BegIoKndu5A_j0H3UScFw0ugDcrgMp44w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Vil ikke senke drivstoffprisene</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_485f4f69-fa3d-41a8-9f4f-69fa3d41a874</link>

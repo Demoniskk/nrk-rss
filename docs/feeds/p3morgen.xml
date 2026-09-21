@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 08:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Er du favorittbarnet?</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_7f7c8e3e-35c8-41d9-83b8-0a475d1161d6</link>
+      <description>Hvem er egentlig favorittbarnet til foreldrene våre og er østers godt?</description>
+      <guid isPermaLink="false">l_7f7c8e3e-35c8-41d9-83b8-0a475d1161d6</guid>
+      <pubDate>Mon, 21 Sep 2026 10:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7f7c8e3e-35c8-41d9-83b8-0a475d1161d6_c247a3a9-b889-4389-9f71-fae25de960ae_ID192MP3.mp3" type="audio/mpeg" length="28813292"></enclosure>
+      <itunes:title>Er du favorittbarnet?</itunes:title>
+      <itunes:summary>Hvem er egentlig favorittbarnet til foreldrene våre og er østers godt?</itunes:summary>
+      <itunes:duration>1200</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
+    <item>
+      <title>Mannen som ble slått av Martin Schanche</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_c7f740e8-8245-4207-a029-8a0df35e6f18</link>
+      <description>Henning kaller sin mormor for farmor! Har alle besteforeldre kallenavn? Vi får også besøk av mannen som ble utsatt for et legendarisk slag for over 20år siden</description>
+      <guid isPermaLink="false">l_c7f740e8-8245-4207-a029-8a0df35e6f18</guid>
+      <pubDate>Mon, 21 Sep 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c7f740e8-8245-4207-a029-8a0df35e6f18_8c4c2aef-82c6-454b-a736-467fb719b829_ID192MP3.mp3" type="audio/mpeg" length="74850668"></enclosure>
+      <itunes:title>Mannen som ble slått av Martin Schanche</itunes:title>
+      <itunes:summary>Henning kaller sin mormor for farmor! Har alle besteforeldre kallenavn? Vi får også besøk av mannen som ble utsatt for et legendarisk slag for over 20år siden</itunes:summary>
+      <itunes:duration>3118</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9ZPL5noAA1_XVRtiq1KhkQby_MpcP_ekpLw5u8xA3O1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Alexander Tetti origin story</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_e049790c-75e4-418d-8696-feb78c08ba77</link>

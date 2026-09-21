@@ -6,7 +6,7 @@
     <description>Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Trygdekontoret</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret</link>
     </image>
+    <item>
+      <title>Mistet Norge uskylden med Big Brother?</title>
+      <link>https://radio.nrk.no/podkast/trygdekontoret/l_8b9b7b14-0670-4a31-9b7b-1406705a31f6</link>
+      <description>Forfatter og regissør Christopher Pahle tar oss med til reality-serienes urtid</description>
+      <guid isPermaLink="false">l_8b9b7b14-0670-4a31-9b7b-1406705a31f6</guid>
+      <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/8b9b7b14-0670-4a31-9b7b-1406705a31f6_1_ID192MP3.mp3" type="audio/mpeg" length="86271596"></enclosure>
+      <itunes:title>Mistet Norge uskylden med Big Brother?</itunes:title>
+      <itunes:summary>Forfatter og regissør Christopher Pahle tar oss med til reality-serienes urtid</itunes:summary>
+      <itunes:duration>3594</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/A0Z_sepvrUERnt1dRolNswKHATPwt64O8s3DlQqqh61Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Anarki!</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret/l_28fec120-6bd5-4bc3-bec1-206bd5ebc372</link>

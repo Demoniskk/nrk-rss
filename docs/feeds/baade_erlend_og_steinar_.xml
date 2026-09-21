@@ -6,7 +6,7 @@
     <description>En tenketank for folk med lav intelligens.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baade_erlend_og_steinar_.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Både Erlend og Steinar </title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
     </image>
+    <item>
+      <title>En personlig beskjed fra vikingtiden</title>
+      <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_9b4b0949-cb93-4824-8b09-49cb930824d4</link>
+      <description>Skal man fikse annen manns knirkedør? Hvilket menneske fra vår tid huskes om 1000 år? Og Erlend og Steinar vil ha mer hokus pokus inn i skolen.</description>
+      <guid isPermaLink="false">l_9b4b0949-cb93-4824-8b09-49cb930824d4</guid>
+      <pubDate>Mon, 21 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/9b4b0949-cb93-4824-8b09-49cb930824d4_1_ID192MP3.mp3" type="audio/mpeg" length="96015212"></enclosure>
+      <itunes:title>En personlig beskjed fra vikingtiden</itunes:title>
+      <itunes:summary>Skal man fikse annen manns knirkedør? Hvilket menneske fra vår tid huskes om 1000 år? Og Erlend og Steinar vil ha mer hokus pokus inn i skolen.</itunes:summary>
+      <itunes:duration>4000</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Erlend letter på sløret</title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_beb99ebc-3e8b-4dab-b99e-bc3e8b9dabf1</link>

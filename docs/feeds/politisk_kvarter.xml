@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Kan en SMS fra NAV få unge uføre inn i jobb?</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_d912a964-5e9a-4401-92a9-645e9a84017d</link>
+      <description>NAV sender tekstmelding til unge uføre. Effektivt, eller bare symbolpolitikk?</description>
+      <guid isPermaLink="false">l_d912a964-5e9a-4401-92a9-645e9a84017d</guid>
+      <pubDate>Tue, 22 Sep 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/d912a964-5e9a-4401-92a9-645e9a84017d_1_ID192MP3.mp3" type="audio/mpeg" length="21786092"></enclosure>
+      <itunes:title>Kan en SMS fra NAV få unge uføre inn i jobb?</itunes:title>
+      <itunes:summary>NAV sender tekstmelding til unge uføre. Effektivt, eller bare symbolpolitikk?</itunes:summary>
+      <itunes:duration>907</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WQftPYhGNuLtLQNB-E33EQQIyN6V1m39gpXu-T32FmCQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>SVs budsjettkrav</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_fac0b422-e26b-4473-80b4-22e26b047389</link>

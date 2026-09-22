@@ -6,7 +6,7 @@
     <description>Risstinin li tjielgga vuojno masi ájggu. Le gus A4-iellem buoremus viessomvuohke, jali ij la huoman nav buorre gåk gullu? Se i NRK TV.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/juorre.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Juorre</title>
       <link>https://radio.nrk.no/podkast/juorre</link>
     </image>
+    <item>
+      <title>Vuorkki sjermav!</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_82e76bb5-b8b8-4224-a76b-b5b8b81224c8</link>
+      <description>Jáhkki gus ulmutja dån la jábmám jus la nehtas ierit låggim? Ailoa miella l mobijllaj dæhppum, Ristin dåssju politilåkkav gæhttjá, ja udnásj guosse rijbbat sjerma dagi.</description>
+      <guid isPermaLink="false">l_82e76bb5-b8b8-4224-a76b-b5b8b81224c8</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/82e76bb5-b8b8-4224-a76b-b5b8b81224c8_1_ID192MP3.mp3" type="audio/mpeg" length="31362668"></enclosure>
+      <itunes:title>Vuorkki sjermav!</itunes:title>
+      <itunes:summary>Jáhkki gus ulmutja dån la jábmám jus la nehtas ierit låggim? Ailoa miella l mobijllaj dæhppum, Ristin dåssju politilåkkav gæhttjá, ja udnásj guosse rijbbat sjerma dagi.</itunes:summary>
+      <itunes:duration>1306</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CtKePSbyDWBmphW8zK7YyQIkmEfAHpemvXdQ0w9C8Qwg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Mánájt oadtjot jali ij?</title>
       <link>https://radio.nrk.no/podkast/juorre/l_c969c834-e241-4f25-a9c8-34e2411f25d8</link>

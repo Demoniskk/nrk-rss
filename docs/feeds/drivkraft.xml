@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 12:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:55:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Emma Steinbakken</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_31c109de-3d9d-4556-a379-cbd9c70f82c3</link>
+      <description>- Jeg tenker på meg selv hele tiden, sier artisten, som skriver på ny musikk om opplevelser fra eget liv </description>
+      <guid isPermaLink="false">l_31c109de-3d9d-4556-a379-cbd9c70f82c3</guid>
+      <pubDate>Mon, 21 Sep 2026 13:55:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/31c109de-3d9d-4556-a379-cbd9c70f82c3_746718df-0b63-4d2d-9c0f-726fea386937_ID192MP3.mp3" type="audio/mpeg" length="82903148"></enclosure>
+      <itunes:title>Emma Steinbakken</itunes:title>
+      <itunes:summary>- Jeg tenker på meg selv hele tiden, sier artisten, som skriver på ny musikk om opplevelser fra eget liv </itunes:summary>
+      <itunes:duration>3454</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/W-TqgYz1XdQmjGoXhfAWQwEILJLrbl6NuiimLOOtNBnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Carl I. Hagen</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_8e44efd3-c47f-4dae-81a0-81bc1dbe1e02</link>

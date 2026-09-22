@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,32 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Gjest: VM-dommer Espen Eskås</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_079c2ede-2f33-492c-9c2e-de2f33992c84</link>
+      <description>En vaskeekte VM-dommer er gjest hos oss i dag. Espen Eskås dømte blant annet i det glohete oppgjøret mellom Portugal og Kroatia.&#xA;Hvordan føles det når han må la teknologien ha siste ord og hva tror han om wire-gate?</description>
+      <guid isPermaLink="false">l_079c2ede-2f33-492c-9c2e-de2f33992c84</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/079c2ede-2f33-492c-9c2e-de2f33992c84_2_ID192MP3.mp3" type="audio/mpeg" length="84341420"></enclosure>
+      <itunes:title>Gjest: VM-dommer Espen Eskås</itunes:title>
+      <itunes:summary>En vaskeekte VM-dommer er gjest hos oss i dag. Espen Eskås dømte blant annet i det glohete oppgjøret mellom Portugal og Kroatia.&#xA;Hvordan føles det når han må la teknologien ha siste ord og hva tror han om wire-gate?</itunes:summary>
+      <itunes:duration>3514</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Nå skjer det!</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_d3e10084-4866-414f-a100-844866b14f90</link>
+      <description>Denne uka blir det kamper mot både Danmark og Portugal. Danskene er livredde, svenskene sure og vi lurer på om det var for tidlig å gi ut bok fra VM-garderoben.</description>
+      <guid isPermaLink="false">l_d3e10084-4866-414f-a100-844866b14f90</guid>
+      <pubDate>Mon, 21 Sep 2026 12:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/d3e10084-4866-414f-a100-844866b14f90_1_ID192MP3.mp3" type="audio/mpeg" length="49432364"></enclosure>
+      <itunes:title>Nå skjer det!</itunes:title>
+      <itunes:summary>Denne uka blir det kamper mot både Danmark og Portugal. Danskene er livredde, svenskene sure og vi lurer på om det var for tidlig å gi ut bok fra VM-garderoben.</itunes:summary>
+      <itunes:duration>2059</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Norges tropp: Sørloths plass i fare?</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_1244c4af-d2cf-4a80-84c4-afd2cf4a80a6</link>

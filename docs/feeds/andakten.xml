@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Nytt liv - Kjetil Gilberg</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_4330a9d1-4560-4c8d-8eae-9b59a5204b68</link>
+      <description>Det gjelder å ha trua - sier vi ofte om både det ene og det andre. Men hva om det er nettopp trua det skorter på</description>
+      <guid isPermaLink="false">l_4330a9d1-4560-4c8d-8eae-9b59a5204b68</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/4330a9d1-4560-4c8d-8eae-9b59a5204b68_d8b22c7b-63f0-4e42-ac51-182aeb150953_ID192MP3.mp3" type="audio/mpeg" length="4617836"></enclosure>
+      <itunes:title>Nytt liv - Kjetil Gilberg</itunes:title>
+      <itunes:summary>Det gjelder å ha trua - sier vi ofte om både det ene og det andre. Men hva om det er nettopp trua det skorter på</itunes:summary>
+      <itunes:duration>192</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gASAtLDLHCAFGCrOtfW_VgN-LSqMpAImMrJpvCtuQIZw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Glassblåseren - Kjetil Gilberg</title>
       <link>https://radio.nrk.no/podkast/andakten/l_66379da7-f93f-4589-a55d-c64312d5b8af</link>

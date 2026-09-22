@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Digital - med Terje Torkildsen</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_a9f7f485-da97-46b0-b7f4-85da9736b0eb</link>
+      <description>- Har vi glemt av at noen ting var litt enklere før? spør komiker og forfatter Terje Torkildsen.</description>
+      <guid isPermaLink="false">l_a9f7f485-da97-46b0-b7f4-85da9736b0eb</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/a9f7f485-da97-46b0-b7f4-85da9736b0eb_1_ID192MP3.mp3" type="audio/mpeg" length="3859820"></enclosure>
+      <itunes:title>Digital - med Terje Torkildsen</itunes:title>
+      <itunes:summary>- Har vi glemt av at noen ting var litt enklere før? spør komiker og forfatter Terje Torkildsen.</itunes:summary>
+      <itunes:duration>160</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MIaaiCXe_AzVkp3CFJ-YoA41qjANNIq2JqgQomYQq87Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Handlejakke - med Ingelin Røssland</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_fe181def-f11d-46ca-981d-eff11df6caf8</link>

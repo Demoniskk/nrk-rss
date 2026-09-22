@@ -6,7 +6,7 @@
     <description>En ukentlig flukt fra hverdagen! Sketsjer, hyss og spik med Christian Mikkelsen, Olav Svarstad Haugland og Emil Berntsen.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/blaatur.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Blåtur</title>
       <link>https://radio.nrk.no/podkast/blaatur</link>
     </image>
+    <item>
+      <title>Stryk i norsk</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_a79319e6-f09f-4d21-9319-e6f09f1d2194</link>
+      <description>Ed Sheeran har ødelagt for konfimarsjonsartisten. Olav har skapt et monster. Er diskgolfere lykkelige?</description>
+      <guid isPermaLink="false">l_a79319e6-f09f-4d21-9319-e6f09f1d2194</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/a79319e6-f09f-4d21-9319-e6f09f1d2194_1_ID192MP3.mp3" type="audio/mpeg" length="51772652"></enclosure>
+      <itunes:title>Stryk i norsk</itunes:title>
+      <itunes:summary>Ed Sheeran har ødelagt for konfimarsjonsartisten. Olav har skapt et monster. Er diskgolfere lykkelige?</itunes:summary>
+      <itunes:duration>2157</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Et kjapt besøk hos Lars Dehli</title>
       <link>https://radio.nrk.no/podkast/blaatur/l_77c59d19-0a78-4568-859d-190a78e56867</link>

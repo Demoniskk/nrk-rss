@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 08:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Slik slutter du å være kresen</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_3791de28-1ac9-4e4e-be5c-521ebf810bdb</link>
+      <description>Hvordan dreper man kresenhet? Gjengen har en teori.</description>
+      <guid isPermaLink="false">l_3791de28-1ac9-4e4e-be5c-521ebf810bdb</guid>
+      <pubDate>Tue, 22 Sep 2026 10:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/3791de28-1ac9-4e4e-be5c-521ebf810bdb_677dba8d-7816-4f6b-9934-62ab2fbfbe00_ID192MP3.mp3" type="audio/mpeg" length="28802348"></enclosure>
+      <itunes:title>Slik slutter du å være kresen</itunes:title>
+      <itunes:summary>Hvordan dreper man kresenhet? Gjengen har en teori.</itunes:summary>
+      <itunes:duration>1200</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
+    <item>
+      <title>Julie Thorsen må forsvare seg selv</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_8c3e8ac8-01b8-400a-b2ca-108eb0b37430</link>
+      <description>Er det rart å ikke like pølser? TV2s Julie Thorsen blir konfrontert av oss</description>
+      <guid isPermaLink="false">l_8c3e8ac8-01b8-400a-b2ca-108eb0b37430</guid>
+      <pubDate>Tue, 22 Sep 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/8c3e8ac8-01b8-400a-b2ca-108eb0b37430_6a7f7af4-9157-4c85-9e10-d06504fb5d88_ID192MP3.mp3" type="audio/mpeg" length="58681772"></enclosure>
+      <itunes:title>Julie Thorsen må forsvare seg selv</itunes:title>
+      <itunes:summary>Er det rart å ikke like pølser? TV2s Julie Thorsen blir konfrontert av oss</itunes:summary>
+      <itunes:duration>2445</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mpINOQCnkDAygdR4buTgEAGRg1pnIULfiNVgw6pMk_cg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Er du favorittbarnet?</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_7f7c8e3e-35c8-41d9-83b8-0a475d1161d6</link>

@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 20 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Sissel Gran: Det jeg har lært</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_ff5371f1-885a-494a-9371-f1885a894a86</link>
+      <description>Hva skal til for at et forhold varer? Kjærlighetsguru Sissel Gran deler egne erfaringer og lærdom fra mange år som parterapeut.</description>
+      <guid isPermaLink="false">l_ff5371f1-885a-494a-9371-f1885a894a86</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/ff5371f1-885a-494a-9371-f1885a894a86_1_ID192MP3.mp3" type="audio/mpeg" length="67139180"></enclosure>
+      <itunes:title>Sissel Gran: Det jeg har lært</itunes:title>
+      <itunes:summary>Hva skal til for at et forhold varer? Kjærlighetsguru Sissel Gran deler egne erfaringer og lærdom fra mange år som parterapeut.</itunes:summary>
+      <itunes:duration>2797</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/x6EUBXRGW5nXDBQ8SqIjtAI-I1VABztcreLg5ooHXdJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Panelet: Solotur og søkehistorikk</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_f7ee0942-6dbc-495d-ae09-426dbc095d26</link>

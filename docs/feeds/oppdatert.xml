@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 18 Sep 2026 14:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Fra eventyr til katastrofe: Kan KI drepe oss?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_8eea7f2f-d1da-4a84-aa7f-2fd1daaa8435</link>
+      <description>Nylig gikk en av hjernene bak kunstig intelligens ut med en krass advarsel. Han mener KI kan ta livet av menneskeheten.</description>
+      <guid isPermaLink="false">l_8eea7f2f-d1da-4a84-aa7f-2fd1daaa8435</guid>
+      <pubDate>Tue, 22 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8eea7f2f-d1da-4a84-aa7f-2fd1daaa8435_1_ID192MP3.mp3" type="audio/mpeg" length="28594412"></enclosure>
+      <itunes:title>Fra eventyr til katastrofe: Kan KI drepe oss?</itunes:title>
+      <itunes:summary>Nylig gikk en av hjernene bak kunstig intelligens ut med en krass advarsel. Han mener KI kan ta livet av menneskeheten.</itunes:summary>
+      <itunes:duration>1191</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wgvFDFRJWJLo6luROgEyPg9b5LYXoMpZ1h8UxpUnq9zg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Ed Sheeran-bråket: Derfor trekker artistene seg</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_9c12256e-19ba-4150-9225-6e19bab150d6</link>

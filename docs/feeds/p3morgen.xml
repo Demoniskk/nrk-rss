@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 08:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>B-mennesker: Alt som er digg er dårlig for deg. </title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_187eb3b4-e4a4-44fe-853d-099ba43140d1</link>
+      <description>Arin og Henning skåler med maten og vi spår fremtidens historiebøker.</description>
+      <guid isPermaLink="false">l_187eb3b4-e4a4-44fe-853d-099ba43140d1</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/187eb3b4-e4a4-44fe-853d-099ba43140d1_566665f7-d128-402a-81a0-fbaabc9b6940_ID192MP3.mp3" type="audio/mpeg" length="29405996"></enclosure>
+      <itunes:title>B-mennesker: Alt som er digg er dårlig for deg. </itunes:title>
+      <itunes:summary>Arin og Henning skåler med maten og vi spår fremtidens historiebøker.</itunes:summary>
+      <itunes:duration>1225</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7Yj6y8aFZP-BZ2cc7gjXQA1EqrdoQLbkWpjMfNfZ9y0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Slik slutter du å være kresen</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_3791de28-1ac9-4e4e-be5c-521ebf810bdb</link>

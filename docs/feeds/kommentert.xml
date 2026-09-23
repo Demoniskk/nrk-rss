@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 13:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 13:57:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Prinsesse Diana: Nytt bråk og nye beskyldninger</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_e98aa463-6569-46c3-8aa4-63656906c3ef</link>
+      <description>Hvorfor skaper prinsesse Dianas død bråk og trøbbel for den britiske kongefamilien etter snart 30 år? Dianas bror med kraftige påstander om kong Charles.&#xA;&#xA;Og hvorfor er tog og jernbane så vanskelig i Norge?</description>
+      <guid isPermaLink="false">l_e98aa463-6569-46c3-8aa4-63656906c3ef</guid>
+      <pubDate>Tue, 22 Sep 2026 15:57:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/e98aa463-6569-46c3-8aa4-63656906c3ef_1_ID192MP3.mp3" type="audio/mpeg" length="32918444"></enclosure>
+      <itunes:title>Prinsesse Diana: Nytt bråk og nye beskyldninger</itunes:title>
+      <itunes:summary>Hvorfor skaper prinsesse Dianas død bråk og trøbbel for den britiske kongefamilien etter snart 30 år? Dianas bror med kraftige påstander om kong Charles.&#xA;&#xA;Og hvorfor er tog og jernbane så vanskelig i Norge?</itunes:summary>
+      <itunes:duration>1371</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/i7BY26s5r7u7a1TcnCE4bQtoraHjKnzoOP-s0iJ6yweg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Trump truer Europa etter Canada-flørting</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_d600388f-23ee-4bca-8038-8f23ee6bcaba</link>

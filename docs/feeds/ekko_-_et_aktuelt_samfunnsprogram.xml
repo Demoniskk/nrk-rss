@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Nettsekta &#34;The Com&#34;</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_29372b59-9530-46be-b72b-59953016be0d</link>
+      <description>Norske barn vert lokka inn i nettverk, der vald for valden si skuld er poenget. Kva gjer vi når radikaliseringa snik seg inn på barnerommet?</description>
+      <guid isPermaLink="false">l_29372b59-9530-46be-b72b-59953016be0d</guid>
+      <pubDate>Tue, 22 Sep 2026 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/29372b59-9530-46be-b72b-59953016be0d_1_ID192MP3.mp3" type="audio/mpeg" length="48889196"></enclosure>
+      <itunes:title>Nettsekta &#34;The Com&#34;</itunes:title>
+      <itunes:summary>Norske barn vert lokka inn i nettverk, der vald for valden si skuld er poenget. Kva gjer vi når radikaliseringa snik seg inn på barnerommet?</itunes:summary>
+      <itunes:duration>2036</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/juOKfbS520w7qbjQ7IUnWQpJ5jm-R1vSEmxVtLO82tcw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Hva skjedde med verdenskartet?</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_e4f34ebf-440a-4ffa-b34e-bf440acffaae</link>

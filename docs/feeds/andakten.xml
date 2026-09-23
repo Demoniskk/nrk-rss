@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Finne gull - Kjetil Gilberg</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_e340d8df-0e50-4021-88e9-d24ac10ce439</link>
+      <description>Gull eller gråstein - av og til er det ikke lett å se forskjell. Men noen evner å se gull der andre ser gråstein.</description>
+      <guid isPermaLink="false">l_e340d8df-0e50-4021-88e9-d24ac10ce439</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/e340d8df-0e50-4021-88e9-d24ac10ce439_3e852801-1615-4370-93f2-78f344fb33f1_ID192MP3.mp3" type="audio/mpeg" length="4489388"></enclosure>
+      <itunes:title>Finne gull - Kjetil Gilberg</itunes:title>
+      <itunes:summary>Gull eller gråstein - av og til er det ikke lett å se forskjell. Men noen evner å se gull der andre ser gråstein.</itunes:summary>
+      <itunes:duration>187</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gASAtLDLHCAFGCrOtfW_VgN-LSqMpAImMrJpvCtuQIZw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Nytt liv - Kjetil Gilberg</title>
       <link>https://radio.nrk.no/podkast/andakten/l_4330a9d1-4560-4c8d-8eae-9b59a5204b68</link>

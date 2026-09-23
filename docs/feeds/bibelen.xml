@@ -6,7 +6,7 @@
     <description>Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller. &#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bibelen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Bibelen</title>
       <link>https://radio.nrk.no/podkast/bibelen</link>
     </image>
+    <item>
+      <title>Jesus på korset (36:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_2924bcef-3c25-4ad6-a4bc-ef3c254ad6e5</link>
+      <description>Ikke akkurat en stille uke for Jesus.</description>
+      <guid isPermaLink="false">l_2924bcef-3c25-4ad6-a4bc-ef3c254ad6e5</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/2924bcef-3c25-4ad6-a4bc-ef3c254ad6e5_1_ID192MP3.mp3" type="audio/mpeg" length="53515052"></enclosure>
+      <itunes:title>Jesus på korset (36:40)</itunes:title>
+      <itunes:summary>Ikke akkurat en stille uke for Jesus.</itunes:summary>
+      <itunes:duration>2229</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_-YYjDPJ6nebbhtPE7BcNwbaH44HJNmthW6-GTPMrchg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Jesus provoserer (35:40)</title>
       <link>https://radio.nrk.no/podkast/bibelen/l_bc218da5-34b1-4234-a18d-a534b1723481</link>

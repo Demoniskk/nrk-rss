@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Si det - med Oda Gravdal Ulriksen</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_779fd424-d6a3-4fcd-9fd4-24d6a3ffcd3a</link>
+      <description>- Kan vi bli bedre på å takke dem som betyr noe for oss ? spør Oda Gravdal Ulriksen.</description>
+      <guid isPermaLink="false">l_779fd424-d6a3-4fcd-9fd4-24d6a3ffcd3a</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/779fd424-d6a3-4fcd-9fd4-24d6a3ffcd3a_1_ID192MP3.mp3" type="audio/mpeg" length="3859820"></enclosure>
+      <itunes:title>Si det - med Oda Gravdal Ulriksen</itunes:title>
+      <itunes:summary>- Kan vi bli bedre på å takke dem som betyr noe for oss ? spør Oda Gravdal Ulriksen.</itunes:summary>
+      <itunes:duration>160</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Digital - med Terje Torkildsen</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_a9f7f485-da97-46b0-b7f4-85da9736b0eb</link>

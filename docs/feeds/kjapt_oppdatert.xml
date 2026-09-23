@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 04:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:10:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Skummelt å være landeveissyklist</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_6a13bd3e-5677-4908-93bd-3e5677390861</link>
+      <description>Og Donald Trump og Volodymyr Zelenskyj hadde et langt møte om krigen i Ukraina.</description>
+      <guid isPermaLink="false">l_6a13bd3e-5677-4908-93bd-3e5677390861</guid>
+      <pubDate>Wed, 23 Sep 2026 06:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/6a13bd3e-5677-4908-93bd-3e5677390861_1_ID192MP3.mp3" type="audio/mpeg" length="9653804"></enclosure>
+      <itunes:title>Skummelt å være landeveissyklist</itunes:title>
+      <itunes:summary>Og Donald Trump og Volodymyr Zelenskyj hadde et langt møte om krigen i Ukraina.</itunes:summary>
+      <itunes:duration>402</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oAJgQcKejNF9l8mT6Vy0PgTlNBllHclwQVOQL9uIEw2Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Nordmenn spiller årlig for milliarder på ulovlige nettkasinoer</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_70345fad-55c6-404f-b45f-ad55c6f04f6b</link>

@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Ny skoleplan fra regjeringen</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_9b1013e2-a6ea-42e3-9013-e2a6ea32e389</link>
+      <description>Frp reagerer på regjeringens forslag om å fjerne dagens fag for 1. og 2. klassinger til fordel for mer lek og fysisk aktivitet.</description>
+      <guid isPermaLink="false">l_9b1013e2-a6ea-42e3-9013-e2a6ea32e389</guid>
+      <pubDate>Tue, 22 Sep 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/9b1013e2-a6ea-42e3-9013-e2a6ea32e389_1_ID192MP3.mp3" type="audio/mpeg" length="84768236"></enclosure>
+      <itunes:title>Ny skoleplan fra regjeringen</itunes:title>
+      <itunes:summary>Frp reagerer på regjeringens forslag om å fjerne dagens fag for 1. og 2. klassinger til fordel for mer lek og fysisk aktivitet.</itunes:summary>
+      <itunes:duration>3531</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/z07qqhK1SBiO_Ng7C2D8qwG2KvuipADjCyGiDxH9TpmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>EU-nei til olje- og gassutvinning i Arktis</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_8f9ecb7d-e6ad-4632-9ecb-7de6ad263253</link>

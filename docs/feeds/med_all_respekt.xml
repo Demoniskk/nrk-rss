@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Slik oppdrar du barna!</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_2fb6ea93-e21e-4651-b6ea-93e21eb65160</link>
+      <description>Sandnes kryr av en spesifikk fast-food kjede, nå har enda en dukket opp! Oppdragelse er ikke bare bare, men det må finnes grenser!</description>
+      <guid isPermaLink="false">l_2fb6ea93-e21e-4651-b6ea-93e21eb65160</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/2fb6ea93-e21e-4651-b6ea-93e21eb65160_1_ID192MP3.mp3" type="audio/mpeg" length="57017708"></enclosure>
+      <itunes:title>Slik oppdrar du barna!</itunes:title>
+      <itunes:summary>Sandnes kryr av en spesifikk fast-food kjede, nå har enda en dukket opp! Oppdragelse er ikke bare bare, men det må finnes grenser!</itunes:summary>
+      <itunes:duration>2375</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Når pappa plutselig dør</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_5341d808-24d9-411e-81d8-0824d9b11ebf</link>

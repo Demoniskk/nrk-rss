@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 20:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 18:01:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Går Document-redaktøren for langt?</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_7883a164-fbd2-4e4e-83a1-64fbd28e4eab</link>
+      <description>Redaktører melder seg ut i protest mot Hans Rustad fra Document. Er det han sier virkelig så ille?</description>
+      <guid isPermaLink="false">l_7883a164-fbd2-4e4e-83a1-64fbd28e4eab</guid>
+      <pubDate>Tue, 22 Sep 2026 20:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/7883a164-fbd2-4e4e-83a1-64fbd28e4eab_1_ID192MP3.mp3" type="audio/mpeg" length="59451884"></enclosure>
+      <itunes:title>Går Document-redaktøren for langt?</itunes:title>
+      <itunes:summary>Redaktører melder seg ut i protest mot Hans Rustad fra Document. Er det han sier virkelig så ille?</itunes:summary>
+      <itunes:duration>2477</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NoQcbyxnOizItxNU6ltECgphESpawFcYbVXJeFFDxqRQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Utsletter KI menneskeheten innen 3 til 5 år?</title>
       <link>https://radio.nrk.no/podkast/debatten/l_4a1f6b20-a025-49d2-9f6b-20a02589d2c5</link>

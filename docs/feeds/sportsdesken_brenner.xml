@@ -6,7 +6,7 @@
     <description>En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sportsdesken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sportsdesken brenner</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner</link>
     </image>
+    <item>
+      <title>Sportsdesken ringer Danmark</title>
+      <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_3cab1434-c0bf-4911-b76c-9458ba3da34b</link>
+      <description>Sportsdesken varmer opp til landskamp ved å ringe to elleville dansker for å grave i forholdet mellom Norge og Danmark.&#xA;Du kan fortsatt bli med i vår fantasy-liga med koden: oyuwxr.&#xA;</description>
+      <guid isPermaLink="false">l_3cab1434-c0bf-4911-b76c-9458ba3da34b</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/3cab1434-c0bf-4911-b76c-9458ba3da34b_0b54908d-f041-4744-9191-2287fc3fe8d3_ID192MP3.mp3" type="audio/mpeg" length="59712236"></enclosure>
+      <itunes:title>Sportsdesken ringer Danmark</itunes:title>
+      <itunes:summary>Sportsdesken varmer opp til landskamp ved å ringe to elleville dansker for å grave i forholdet mellom Norge og Danmark.&#xA;Du kan fortsatt bli med i vår fantasy-liga med koden: oyuwxr.&#xA;</itunes:summary>
+      <itunes:duration>2487</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Sport er også følelser</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_5d2bc53b-3b8d-4bd5-a5c4-3c40c29e22e6</link>

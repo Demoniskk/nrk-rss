@@ -6,7 +6,7 @@
     <description>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Krimrommet</title>
       <link>https://radio.nrk.no/podkast/krimrommet</link>
     </image>
+    <item>
+      <title>Ski: Derfor ble hun frikjent</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_d3e10f4b-12f6-4ce1-a10f-4b12f61ce1f2</link>
+      <description>En desemberdag i 2024 dreper en kvinne moren og broren sin i et falleferdig hus i Ski. Nå er hun frikjent for dobbeltdrapet.</description>
+      <guid isPermaLink="false">l_d3e10f4b-12f6-4ce1-a10f-4b12f61ce1f2</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/d3e10f4b-12f6-4ce1-a10f-4b12f61ce1f2_2_ID192MP3.mp3" type="audio/mpeg" length="40885100"></enclosure>
+      <itunes:title>Ski: Derfor ble hun frikjent</itunes:title>
+      <itunes:summary>En desemberdag i 2024 dreper en kvinne moren og broren sin i et falleferdig hus i Ski. Nå er hun frikjent for dobbeltdrapet.</itunes:summary>
+      <itunes:duration>1703</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/C4mP9WtDcjc-L4iGDJ0YpA2xdKYjbYik45936wm8hrbg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Jørn Andersen (3): Forklaringen</title>
       <link>https://radio.nrk.no/podkast/krimrommet/l_92f87710-6ca7-4757-b877-106ca7675799</link>

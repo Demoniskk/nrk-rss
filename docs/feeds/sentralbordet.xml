@@ -6,7 +6,7 @@
     <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sentralbordet på NRK</title>
       <link>https://radio.nrk.no/podkast/sentralbordet</link>
     </image>
+    <item>
+      <title>– Jeg tror dette er spam?</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_1047adf2-2479-4dfd-87ad-f224797dfd4f</link>
+      <description>En nordmann bestiller takeaway fra Australia, Ole Henry vil fortsatt gifte seg i en dyrehage, Emilie trenger ny vaskemaskin, og Vegard vil leie hamster, nei, vent, gravemaskin.</description>
+      <guid isPermaLink="false">l_1047adf2-2479-4dfd-87ad-f224797dfd4f</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/1047adf2-2479-4dfd-87ad-f224797dfd4f_1_ID192MP3.mp3" type="audio/mpeg" length="28608236"></enclosure>
+      <itunes:title>– Jeg tror dette er spam?</itunes:title>
+      <itunes:summary>En nordmann bestiller takeaway fra Australia, Ole Henry vil fortsatt gifte seg i en dyrehage, Emilie trenger ny vaskemaskin, og Vegard vil leie hamster, nei, vent, gravemaskin.</itunes:summary>
+      <itunes:duration>1191</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JdK6Jz4qE3JfOzh4lWbJdgSJzM2vjuGP8u-VCB-X45Dg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>– Kan jeg ri på en floodhorse?</title>
       <link>https://radio.nrk.no/podkast/sentralbordet/l_1001ce55-14f0-4f1b-81ce-5514f0ff1b4b</link>

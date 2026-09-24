@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Anna er sur på Markus og Daniel</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_47f8feba-8462-4a7c-b8fe-ba8462ca7cae</link>
+      <description>Markus har med en flue, Daniel skal finne veien til Sophie Elise og Anna har marinert fingeren i solkrem og er generelt sur i dag.</description>
+      <guid isPermaLink="false">l_47f8feba-8462-4a7c-b8fe-ba8462ca7cae</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/47f8feba-8462-4a7c-b8fe-ba8462ca7cae_1_ID192MP3.mp3" type="audio/mpeg" length="63142892"></enclosure>
+      <itunes:title>Anna er sur på Markus og Daniel</itunes:title>
+      <itunes:summary>Markus har med en flue, Daniel skal finne veien til Sophie Elise og Anna har marinert fingeren i solkrem og er generelt sur i dag.</itunes:summary>
+      <itunes:duration>2630</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Banner på kino</title>
       <link>https://radio.nrk.no/podkast/siesta/l_c486bba2-02f7-46de-86bb-a202f7b6de9f</link>

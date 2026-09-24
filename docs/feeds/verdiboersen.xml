@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 18 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title>Aldri mer 9. april</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_9533c49c-4cfd-430f-b3c4-9c4cfdd30fae</link>
+      <description>Hvorfor var Norge så dårlig forberedt på krig? Vi snakker om året 1939- og hvordan man tenkte</description>
+      <guid isPermaLink="false">l_9533c49c-4cfd-430f-b3c4-9c4cfdd30fae</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/9533c49c-4cfd-430f-b3c4-9c4cfdd30fae_1_ID192MP3.mp3" type="audio/mpeg" length="44176940"></enclosure>
+      <itunes:title>Aldri mer 9. april</itunes:title>
+      <itunes:summary>Hvorfor var Norge så dårlig forberedt på krig? Vi snakker om året 1939- og hvordan man tenkte</itunes:summary>
+      <itunes:duration>1840</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/i1WzEThKKSqlDfT3FvPShwuD6_oHkEY5qrfwV9dtocIg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Hva var det med tyskerne?</title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_18a822e4-8afb-4a7c-a822-e48afb5a7c10</link>

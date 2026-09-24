@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Å bære tro - Kjetil GIlberg</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_6bc89350-232b-491c-8053-db30b5780148</link>
+      <description>Kjetil Gilberg kom i tanker om hvor enkelt og fint nytt liv skapes. Han ble inspirert av solbærbusken han har i hagen.</description>
+      <guid isPermaLink="false">l_6bc89350-232b-491c-8053-db30b5780148</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/6bc89350-232b-491c-8053-db30b5780148_d1c7b617-d0da-4755-aa0d-fbd5984b227e_ID192MP3.mp3" type="audio/mpeg" length="4693292"></enclosure>
+      <itunes:title>Å bære tro - Kjetil GIlberg</itunes:title>
+      <itunes:summary>Kjetil Gilberg kom i tanker om hvor enkelt og fint nytt liv skapes. Han ble inspirert av solbærbusken han har i hagen.</itunes:summary>
+      <itunes:duration>195</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gASAtLDLHCAFGCrOtfW_VgN-LSqMpAImMrJpvCtuQIZw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Finne gull - Kjetil Gilberg</title>
       <link>https://radio.nrk.no/podkast/andakten/l_e340d8df-0e50-4021-88e9-d24ac10ce439</link>

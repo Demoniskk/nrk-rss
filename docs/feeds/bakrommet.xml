@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 14:25:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Skal vi ro mot Danmark?</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_50c92257-ddae-4a57-8922-57ddae9a5739</link>
+      <description>Det er klart for slaget om Skandinavia. Hvor gode er danskene? Vil Norge fortsette storformen fra VM og vil publikum fortsatt ro?</description>
+      <guid isPermaLink="false">l_50c92257-ddae-4a57-8922-57ddae9a5739</guid>
+      <pubDate>Wed, 23 Sep 2026 16:25:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/50c92257-ddae-4a57-8922-57ddae9a5739_1_ID192MP3.mp3" type="audio/mpeg" length="49994540"></enclosure>
+      <itunes:title>Skal vi ro mot Danmark?</itunes:title>
+      <itunes:summary>Det er klart for slaget om Skandinavia. Hvor gode er danskene? Vil Norge fortsette storformen fra VM og vil publikum fortsatt ro?</itunes:summary>
+      <itunes:duration>2083</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Gjest: VM-dommer Espen Eskås</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_079c2ede-2f33-492c-9c2e-de2f33992c84</link>

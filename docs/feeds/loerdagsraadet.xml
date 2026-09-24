@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 19 Sep 2026 11:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 13:45:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Det hemmelige brevet</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_1e114388-a5db-46bf-9143-88a5db26bf67</link>
+      <description>Har Cassandra åpnet brevet hun fikk?</description>
+      <guid isPermaLink="false">l_1e114388-a5db-46bf-9143-88a5db26bf67</guid>
+      <pubDate>Wed, 23 Sep 2026 15:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/1e114388-a5db-46bf-9143-88a5db26bf67_1_ID192MP3.mp3" type="audio/mpeg" length="24044012"></enclosure>
+      <itunes:title>Det hemmelige brevet</itunes:title>
+      <itunes:summary>Har Cassandra åpnet brevet hun fikk?</itunes:summary>
+      <itunes:duration>1001</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Mari Garås Monsson / Jørgen EP / Anna Nor Sørensen</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_a1fc729b-c7b7-45da-bc72-9bc7b795da89</link>

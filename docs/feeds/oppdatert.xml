@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Pavens oppgjør: Slik vil han redde kirkens rykte</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_e3dcbe2b-a188-412c-9cbe-2ba188112ce5</link>
+      <description>Robert Prevost ble pave i 2025. Nå tar pave Leo XIV et oppgjør med kirkens mørke fortid.</description>
+      <guid isPermaLink="false">l_e3dcbe2b-a188-412c-9cbe-2ba188112ce5</guid>
+      <pubDate>Thu, 24 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e3dcbe2b-a188-412c-9cbe-2ba188112ce5_1_ID192MP3.mp3" type="audio/mpeg" length="22551596"></enclosure>
+      <itunes:title>Pavens oppgjør: Slik vil han redde kirkens rykte</itunes:title>
+      <itunes:summary>Robert Prevost ble pave i 2025. Nå tar pave Leo XIV et oppgjør med kirkens mørke fortid.</itunes:summary>
+      <itunes:duration>939</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alFEP2hwF__eT_2fB3KNiwOiMLT1tiQH48CtLzDeK_gQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>AOC: Kan ho bli USAs neste president?</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_7e6fc26c-ca8b-42a9-afc2-6cca8ba2a970</link>

@@ -6,7 +6,7 @@
     <description>Spøkelser, forbannelser og uforklarlige fenomener – landet vårt er fullt av uløste mysterier.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 27 Mar 2026 05:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/mysterier_fra_norge.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Mysterier fra Norge</title>
       <link>https://radio.nrk.no/podkast/mysterier_fra_norge</link>
     </image>
+    <item>
+      <title>Telefonen på Bærums Verk</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_2594101d-a0fc-4e91-9410-1da0fc4e91c9</link>
+      <description>I flere år ringer telefonen, hver natt. Ingen er i andre enden. Noen vil ha det til at det er en avdød bestyrer som ringer.</description>
+      <guid isPermaLink="false">l_2594101d-a0fc-4e91-9410-1da0fc4e91c9</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/2594101d-a0fc-4e91-9410-1da0fc4e91c9_1_ID192MP3.mp3" type="audio/mpeg" length="40322348"></enclosure>
+      <itunes:title>Telefonen på Bærums Verk</itunes:title>
+      <itunes:summary>I flere år ringer telefonen, hver natt. Ingen er i andre enden. Noen vil ha det til at det er en avdød bestyrer som ringer.</itunes:summary>
+      <itunes:duration>1680</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Sj2IAx6P7Gl5QscnTwckHAk2E5fVGd8QsippQh1nUFIw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Bensinstasjonen i Ålen</title>
       <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_69a0d7a6-2243-4f5c-a0d7-a62243af5cfe</link>

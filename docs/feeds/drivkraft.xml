@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 11:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:50:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Ellen Holager Andenæs</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_85259a74-8aea-4eec-81f1-258615aaa064</link>
+      <description>Forsvarsadvokaten til Marius Høiby blir kvalm når media skylder på samfunnsoppdraget. </description>
+      <guid isPermaLink="false">l_85259a74-8aea-4eec-81f1-258615aaa064</guid>
+      <pubDate>Wed, 23 Sep 2026 14:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/85259a74-8aea-4eec-81f1-258615aaa064_11b35d9a-fa32-4a6d-86cc-cac699ba6bcb_ID192MP3.mp3" type="audio/mpeg" length="82735532"></enclosure>
+      <itunes:title>Ellen Holager Andenæs</itunes:title>
+      <itunes:summary>Forsvarsadvokaten til Marius Høiby blir kvalm når media skylder på samfunnsoppdraget. </itunes:summary>
+      <itunes:duration>3447</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Le-zBzYCgWShmP_f2-FB1AXVdJOahCm8qbA6fdaHcJwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Fabian Stang</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_c6c1fd52-85e5-47df-b8fb-a0c3c4d3ae3f</link>

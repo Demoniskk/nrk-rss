@@ -6,7 +6,7 @@
     <description>Nok en hektisk uke for komiker Nora Svenningsen. Her er hennes verbale dagbok, hvor du er med på å fargelegge sidene. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/din_venn_nora.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Din venn, Nora</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora</link>
     </image>
+    <item>
+      <title>Verdens verste liggeliste</title>
+      <link>https://radio.nrk.no/podkast/din_venn_nora/l_7c85d168-017b-4c2d-85d1-68017b5c2dff</link>
+      <description>Dårlig musikksmak kan ødelegge både en hel dag og et enkelt ligg, og en tur til Lofoten kan få deg til å revurdere alle livsvalgene dine.</description>
+      <guid isPermaLink="false">l_7c85d168-017b-4c2d-85d1-68017b5c2dff</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/7c85d168-017b-4c2d-85d1-68017b5c2dff_1_ID192MP3.mp3" type="audio/mpeg" length="44587052"></enclosure>
+      <itunes:title>Verdens verste liggeliste</itunes:title>
+      <itunes:summary>Dårlig musikksmak kan ødelegge både en hel dag og et enkelt ligg, og en tur til Lofoten kan få deg til å revurdere alle livsvalgene dine.</itunes:summary>
+      <itunes:duration>1857</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Et hekseliv</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora/l_a9134ea8-3268-4625-934e-a83268c625df</link>

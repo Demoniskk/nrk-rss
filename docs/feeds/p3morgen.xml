@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -14,15 +14,29 @@
     <itunes:owner>
       <itunes:name>NRK</itunes:name>
     </itunes:owner>
-    <itunes:image href="https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew"></itunes:image>
+    <itunes:image href="https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA"></itunes:image>
     <itunes:category text="Comedy"></itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <image>
-      <url>https://gfx.nrk.no/gRADnqRAtciRSe7vTC7pVQSs5xHwcsiSioQ5Nz53FHew</url>
+      <url>https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA</url>
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Stig Brenner tyglet om å bli med på «Ikke lov å le på hytta»</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_7d81cdce-33ae-4b73-b702-d0106883270f</link>
+      <description>Stig Brenner har så mye selvtillit på egen humor at han tryglet Mads Hansen om å få være med på «Ikke lov å le på hytta». I dag kommer han til oss for å forklare historien bak den fantastiske Martin Schanche-parodien.</description>
+      <guid isPermaLink="false">l_7d81cdce-33ae-4b73-b702-d0106883270f</guid>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/7d81cdce-33ae-4b73-b702-d0106883270f_8a23b0cf-c1f9-4841-a53e-dbe57c886b04_ID192MP3.mp3" type="audio/mpeg" length="61854956"></enclosure>
+      <itunes:title>Stig Brenner tyglet om å bli med på «Ikke lov å le på hytta»</itunes:title>
+      <itunes:summary>Stig Brenner har så mye selvtillit på egen humor at han tryglet Mads Hansen om å få være med på «Ikke lov å le på hytta». I dag kommer han til oss for å forklare historien bak den fantastiske Martin Schanche-parodien.</itunes:summary>
+      <itunes:duration>2577</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PBHy4gFIHcm6Ta9KgfP_2ArWhD198wCuWlT5cJekG75g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>B-mennesker: Alt som er digg er dårlig for deg. </title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_187eb3b4-e4a4-44fe-853d-099ba43140d1</link>

@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Mistenkt for valgjuks i Sverige </title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_0dee6f6d-1f4a-4714-99c7-1c7a375b616e</link>
+      <description>Vänsterpartiet gjorde et brakvalg - nå beskyldes de for valgjuks. &#xA;Og Frp-politikk kan gi industridød, hevder Næringsforeningen i Stavanger. </description>
+      <guid isPermaLink="false">l_0dee6f6d-1f4a-4714-99c7-1c7a375b616e</guid>
+      <pubDate>Thu, 24 Sep 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/0dee6f6d-1f4a-4714-99c7-1c7a375b616e_db9c790e-e6bf-442a-8d56-a4d4b3f343ed_ID192MP3.mp3" type="audio/mpeg" length="21597164"></enclosure>
+      <itunes:title>Mistenkt for valgjuks i Sverige </itunes:title>
+      <itunes:summary>Vänsterpartiet gjorde et brakvalg - nå beskyldes de for valgjuks. &#xA;Og Frp-politikk kan gi industridød, hevder Næringsforeningen i Stavanger. </itunes:summary>
+      <itunes:duration>899</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/e77A9kjvr6vuSew1cM5yPAGhjNo3xeK2HDHfyQTlxgeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Flyplasser i fare?</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_63c5c6db-742a-40c5-85c6-db742a10c5f0</link>

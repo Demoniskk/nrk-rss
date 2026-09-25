@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Fikk ikke bursdagsgratulasjon</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_7b9e0b47-6e55-43e5-9e0b-476e5523e5e7</link>
+      <description>Vi feirer Markus sine 31 år med spesielle sanger, det blir dagsaktuell stand up og hvilken bokstav vi trenger vi egentlig ikke?</description>
+      <guid isPermaLink="false">l_7b9e0b47-6e55-43e5-9e0b-476e5523e5e7</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/7b9e0b47-6e55-43e5-9e0b-476e5523e5e7_1_ID192MP3.mp3" type="audio/mpeg" length="65933036"></enclosure>
+      <itunes:title>Fikk ikke bursdagsgratulasjon</itunes:title>
+      <itunes:summary>Vi feirer Markus sine 31 år med spesielle sanger, det blir dagsaktuell stand up og hvilken bokstav vi trenger vi egentlig ikke?</itunes:summary>
+      <itunes:duration>2747</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Anna er sur på Markus og Daniel</title>
       <link>https://radio.nrk.no/podkast/siesta/l_47f8feba-8462-4a7c-b8fe-ba8462ca7cae</link>

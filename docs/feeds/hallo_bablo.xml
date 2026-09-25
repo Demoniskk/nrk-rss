@@ -6,7 +6,7 @@
     <description>Bli med gjengen i Bablo på nye gøyale sprell! På dette biblioteket kan man bable, tulle og gjøre alt som er rart.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 19 Jun 2026 04:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/hallo_bablo.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Hallo Bablo</title>
       <link>https://radio.nrk.no/podkast/hallo_bablo</link>
     </image>
+    <item>
+      <title>Jakten på det forsvunne godteriet</title>
+      <link>https://radio.nrk.no/podkast/hallo_bablo/l_6aeac930-137d-4bc8-aac9-30137d6bc830</link>
+      <description>Adil, Pia og Even drar på et fantastisk eventyr i fantasien. Klarer de å redde alt godteriet?</description>
+      <guid isPermaLink="false">l_6aeac930-137d-4bc8-aac9-30137d6bc830</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/hallo_bablo/6aeac930-137d-4bc8-aac9-30137d6bc830_1_ID192MP3.mp3" type="audio/mpeg" length="27668204"></enclosure>
+      <itunes:title>Jakten på det forsvunne godteriet</itunes:title>
+      <itunes:summary>Adil, Pia og Even drar på et fantastisk eventyr i fantasien. Klarer de å redde alt godteriet?</itunes:summary>
+      <itunes:duration>1152</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bJJrhQCzJdd3b04bLaLT-QrB6eHt2kWqXg9cW1KjHy_Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Fantasibygging</title>
       <link>https://radio.nrk.no/podkast/hallo_bablo/l_6e7a2e2c-44f3-4660-ba2e-2c44f366607f</link>

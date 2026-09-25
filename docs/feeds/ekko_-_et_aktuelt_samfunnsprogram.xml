@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Trumps USA: Vinden har vendt</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_716cc1f0-2591-4fe8-acc1-f025914fe861</link>
+      <description>Krigene mot mediene hardner til samtidig som flere prøver å distansere seg fra Donald Trump.</description>
+      <guid isPermaLink="false">l_716cc1f0-2591-4fe8-acc1-f025914fe861</guid>
+      <pubDate>Thu, 24 Sep 2026 13:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/716cc1f0-2591-4fe8-acc1-f025914fe861_1_ID192MP3.mp3" type="audio/mpeg" length="82122092"></enclosure>
+      <itunes:title>Trumps USA: Vinden har vendt</itunes:title>
+      <itunes:summary>Krigene mot mediene hardner til samtidig som flere prøver å distansere seg fra Donald Trump.</itunes:summary>
+      <itunes:duration>3421</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AeIFRhGB41ao_bE4_UQDMQHT48XaKR5hVd2dJUR7EgdA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Bedre kjøpekraft - for hvem?</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_5434f486-a324-4ab1-b4f4-86a324eab1be</link>

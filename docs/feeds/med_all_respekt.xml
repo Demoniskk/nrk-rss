@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Forstoppet i Japan</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_a1202d6c-ef49-4c7d-a02d-6cef494c7da7</link>
+      <description>Er det bedre å være forstoppet i Japan? Vi skal på danskebåten og gleder oss til én spesifikk ting. Diskusjonen om å få penger av familie fortsetter.</description>
+      <guid isPermaLink="false">l_a1202d6c-ef49-4c7d-a02d-6cef494c7da7</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/a1202d6c-ef49-4c7d-a02d-6cef494c7da7_1_ID192MP3.mp3" type="audio/mpeg" length="49181228"></enclosure>
+      <itunes:title>Forstoppet i Japan</itunes:title>
+      <itunes:summary>Er det bedre å være forstoppet i Japan? Vi skal på danskebåten og gleder oss til én spesifikk ting. Diskusjonen om å få penger av familie fortsetter.</itunes:summary>
+      <itunes:duration>2049</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Ingen har rett!</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_56d34fec-7a5a-4fc3-934f-ec7a5a1fc3f6</link>

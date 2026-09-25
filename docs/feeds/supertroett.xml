@@ -6,7 +6,7 @@
     <description>Avslutt kveldsstellet med små, underfundige fortellinger som får barna i sovestemning før du sovner selv. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 19 Jun 2026 04:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:02:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/supertroett.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>Supertrøtt</title>
       <link>https://radio.nrk.no/podkast/supertroett</link>
     </image>
+    <item>
+      <title>Ella Enhjørning og hårbørsten</title>
+      <link>https://radio.nrk.no/podkast/supertroett/l_dc4c5213-d03c-4491-8c52-13d03cc491a1</link>
+      <description>Ella Enhjørning drømmer om å bli popstjerne, men har satt fast håret i hårbørsten. Lest av Katarina Harestad Haukaas.</description>
+      <guid isPermaLink="false">l_dc4c5213-d03c-4491-8c52-13d03cc491a1</guid>
+      <pubDate>Fri, 25 Sep 2026 06:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supertroett/dc4c5213-d03c-4491-8c52-13d03cc491a1_1_ID192MP3.mp3" type="audio/mpeg" length="13955372"></enclosure>
+      <itunes:title>Ella Enhjørning og hårbørsten</itunes:title>
+      <itunes:summary>Ella Enhjørning drømmer om å bli popstjerne, men har satt fast håret i hårbørsten. Lest av Katarina Harestad Haukaas.</itunes:summary>
+      <itunes:duration>581</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2g2tM__q8SIqHcJZjwyGEgDwWD0TzQuPlO_vKyZILtFQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Bastian Blekksprut har åtte armer</title>
+      <link>https://radio.nrk.no/podkast/supertroett/l_56b8f270-244c-4480-b8f2-70244c8480e2</link>
+      <description>Bastian Blekksprut har åtte armer som slår floke når han skal sove. Fortalt av Margrethe Røed.</description>
+      <guid isPermaLink="false">l_56b8f270-244c-4480-b8f2-70244c8480e2</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/supertroett/56b8f270-244c-4480-b8f2-70244c8480e2_1_ID192MP3.mp3" type="audio/mpeg" length="22055084"></enclosure>
+      <itunes:title>Bastian Blekksprut har åtte armer</itunes:title>
+      <itunes:summary>Bastian Blekksprut har åtte armer som slår floke når han skal sove. Fortalt av Margrethe Røed.</itunes:summary>
+      <itunes:duration>918</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/b1xJ-yVZFqpGQc4qh1A0uQ4M-9hHnRItESrq2KL77iKA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Jaff Sjiraff har en lang hals</title>
       <link>https://radio.nrk.no/podkast/supertroett/l_efb6d452-1e2b-4ae6-b6d4-521e2beae675</link>

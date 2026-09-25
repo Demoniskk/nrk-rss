@@ -6,7 +6,7 @@
     <description>Kjempe-babyer, havfruer og krokodillebriller – hos Pivi, Fantus og Fantorangen kan alt skje, og ingenting er umulig. Bli med på eventyr! </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 19 Jun 2026 04:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:01:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/fantorangenfortellinger.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>Fantorangenfortellinger</title>
       <link>https://radio.nrk.no/podkast/fantorangenfortellinger</link>
     </image>
+    <item>
+      <title>Prompeputa</title>
+      <link>https://radio.nrk.no/podkast/fantorangenfortellinger/l_21ae5c2a-5678-4e91-ae5c-2a56780e9142</link>
+      <description>Pivi ser for seg ein roleg båttur, men Fantorangen har med seg ei prompepute.</description>
+      <guid isPermaLink="false">l_21ae5c2a-5678-4e91-ae5c-2a56780e9142</guid>
+      <pubDate>Fri, 25 Sep 2026 06:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/21ae5c2a-5678-4e91-ae5c-2a56780e9142_1_ID192MP3.mp3" type="audio/mpeg" length="15520364"></enclosure>
+      <itunes:title>Prompeputa</itunes:title>
+      <itunes:summary>Pivi ser for seg ein roleg båttur, men Fantorangen har med seg ei prompepute.</itunes:summary>
+      <itunes:duration>646</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/m024D0QECSKYt7zLR2YCkAL7QQgww3lDtmdvxuMPsxNg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+    <item>
+      <title>Knask eller knep</title>
+      <link>https://radio.nrk.no/podkast/fantorangenfortellinger/l_c5b52a49-0f40-4112-b52a-490f403112e9</link>
+      <description>Fantorangen og Pivi skal gå Knask eller Knep. Frykteleg skummelt, synest Pivi.</description>
+      <guid isPermaLink="false">l_c5b52a49-0f40-4112-b52a-490f403112e9</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangenfortellinger/c5b52a49-0f40-4112-b52a-490f403112e9_1_ID192MP3.mp3" type="audio/mpeg" length="17208620"></enclosure>
+      <itunes:title>Knask eller knep</itunes:title>
+      <itunes:summary>Fantorangen og Pivi skal gå Knask eller Knep. Frykteleg skummelt, synest Pivi.</itunes:summary>
+      <itunes:duration>716</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JPFqLy1raR2X9-xJSvn8XQ-O6BZayjCiISvzF6sGGiuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Gøy natt</title>
       <link>https://radio.nrk.no/podkast/fantorangenfortellinger/l_d48e356d-6498-4991-8e35-6d6498099107</link>

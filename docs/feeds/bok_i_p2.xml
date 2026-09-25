@@ -6,7 +6,7 @@
     <description>Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 18 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bok_i_p2.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Åpen bok</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2</link>
     </image>
+    <item>
+      <title>Jan Kjærstad: Kan du hjelpe med en metafor?</title>
+      <link>https://radio.nrk.no/podkast/bok_i_p2/l_2fe622df-8790-4580-a622-df87900580fc</link>
+      <description>Jan Kjærstad avslører: Derfor blir utro partnere geniale spioner! Er ekteskapet bare en stor løgn?</description>
+      <guid isPermaLink="false">l_2fe622df-8790-4580-a622-df87900580fc</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/2fe622df-8790-4580-a622-df87900580fc_1_ID192MP3.mp3" type="audio/mpeg" length="82133036"></enclosure>
+      <itunes:title>Jan Kjærstad: Kan du hjelpe med en metafor?</itunes:title>
+      <itunes:summary>Jan Kjærstad avslører: Derfor blir utro partnere geniale spioner! Er ekteskapet bare en stor løgn?</itunes:summary>
+      <itunes:duration>3422</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uNFKGEYKYSf1D43Mujwd_QzFgGO_9q0vgoZHLQzclJ-A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Unni Lindell</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2/l_033394c4-c4dc-4168-b394-c4c4dcc168ae</link>

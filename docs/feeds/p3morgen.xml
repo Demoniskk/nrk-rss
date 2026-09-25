@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,62 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Renteheving for dummies</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_9b82bd72-7e0d-4193-9885-fc795df87cd8</link>
+      <description>Henning har vært å provosert danske fotballfans som er på tur i Norge. Fikk han en på tygga? I dag får vi høre hvordan det gikk. Vi får også besøk av Hallgeir Kvadsheim som svarer på alle våre dumme spørsmål om renteheving.</description>
+      <guid isPermaLink="false">l_9b82bd72-7e0d-4193-9885-fc795df87cd8</guid>
+      <pubDate>Fri, 25 Sep 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9b82bd72-7e0d-4193-9885-fc795df87cd8_1440a092-ecf2-49a4-ba38-3a595c91d382_ID192MP3.mp3" type="audio/mpeg" length="59636780"></enclosure>
+      <itunes:title>Renteheving for dummies</itunes:title>
+      <itunes:summary>Henning har vært å provosert danske fotballfans som er på tur i Norge. Fikk han en på tygga? I dag får vi høre hvordan det gikk. Vi får også besøk av Hallgeir Kvadsheim som svarer på alle våre dumme spørsmål om renteheving.</itunes:summary>
+      <itunes:duration>2484</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7CaTGBT-Ff3zFHDPQ3gUYggQ8qe78Y8IQpJSd_MpfspQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
+    <item>
+      <title>B-mennesker: Det er slutt.</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_fbaf45e0-6270-476f-a88d-5715dabfe3f7</link>
+      <description>Dette er den siste episoden av P3morgen for B-mennesker, derfor snakker vi om nakenhet&lt;3 </description>
+      <guid isPermaLink="false">l_fbaf45e0-6270-476f-a88d-5715dabfe3f7</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/fbaf45e0-6270-476f-a88d-5715dabfe3f7_13edc9bb-a92c-4e74-a479-8974bcfaa264_ID192MP3.mp3" type="audio/mpeg" length="29365100"></enclosure>
+      <itunes:title>B-mennesker: Det er slutt.</itunes:title>
+      <itunes:summary>Dette er den siste episoden av P3morgen for B-mennesker, derfor snakker vi om nakenhet&lt;3 </itunes:summary>
+      <itunes:duration>1223</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
+    <item>
+      <title>Hvilken prat er KI?</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_969e59b9-9e57-4716-9b44-3cfcb9cfa904</link>
+      <description>En samtale fra dagens sending er 100% skrevet av KI og fremført av oss. Klarer du å høre når det er KI? Oliver Bergset har laget en viral dans og lagt den død, han er på besøk</description>
+      <guid isPermaLink="false">l_969e59b9-9e57-4716-9b44-3cfcb9cfa904</guid>
+      <pubDate>Thu, 24 Sep 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/969e59b9-9e57-4716-9b44-3cfcb9cfa904_4e4d2213-5565-4313-a8a2-9c2ee5bbe475_ID192MP3.mp3" type="audio/mpeg" length="60917228"></enclosure>
+      <itunes:title>Hvilken prat er KI?</itunes:title>
+      <itunes:summary>En samtale fra dagens sending er 100% skrevet av KI og fremført av oss. Klarer du å høre når det er KI? Oliver Bergset har laget en viral dans og lagt den død, han er på besøk</itunes:summary>
+      <itunes:duration>2538</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
+    <item>
+      <title>B-mennesker: Mat, mat og mer mat. </title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_852bc9e6-c046-414f-9a7f-1ecb64eff557</link>
+      <description>Arin har med seg Nora og Heidi fra P3morgens extended cinematic universe, og praten går utelukkende i mat.</description>
+      <guid isPermaLink="false">l_852bc9e6-c046-414f-9a7f-1ecb64eff557</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/852bc9e6-c046-414f-9a7f-1ecb64eff557_df3c6996-5ac7-4a5d-af01-5aef17de4a97_ID192MP3.mp3" type="audio/mpeg" length="29553452"></enclosure>
+      <itunes:title>B-mennesker: Mat, mat og mer mat. </itunes:title>
+      <itunes:summary>Arin har med seg Nora og Heidi fra P3morgens extended cinematic universe, og praten går utelukkende i mat.</itunes:summary>
+      <itunes:duration>1231</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Stig Brenner tyglet om å bli med på «Ikke lov å le på hytta»</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_7d81cdce-33ae-4b73-b702-d0106883270f</link>

@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 14:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:52:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Dødballtriks avgjorde fotballdrama</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_8ecf9bcf-d58a-4e07-8f9b-cfd58a0e0785</link>
+      <description>Puh! En berg- og dalbane av en kamp, men Norge slo Danmark for første gang i en kamp av betydning. Nå venter Portugal og Ronaldo.</description>
+      <guid isPermaLink="false">l_8ecf9bcf-d58a-4e07-8f9b-cfd58a0e0785</guid>
+      <pubDate>Fri, 25 Sep 2026 02:52:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/8ecf9bcf-d58a-4e07-8f9b-cfd58a0e0785_1_ID192MP3.mp3" type="audio/mpeg" length="73044332"></enclosure>
+      <itunes:title>Dødballtriks avgjorde fotballdrama</itunes:title>
+      <itunes:summary>Puh! En berg- og dalbane av en kamp, men Norge slo Danmark for første gang i en kamp av betydning. Nå venter Portugal og Ronaldo.</itunes:summary>
+      <itunes:duration>3043</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Skal vi ro mot Danmark?</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_50c92257-ddae-4a57-8922-57ddae9a5739</link>

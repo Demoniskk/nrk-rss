@@ -6,7 +6,7 @@
     <description>I sommerhalvåret legger vi bort skiene og tar på oss løpeskoene,  rulleskiene eller  setter oss på sykkelen. Anders Aukland, Silje Nordnes og Sindre Reinholt motiverer deg i til å komme i form og nå dine mål uansett hvilket nivå du er på.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 18 Sep 2026 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 03:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/skiklubben.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Skiklubben</title>
       <link>https://radio.nrk.no/podkast/skiklubben</link>
     </image>
+    <item>
+      <title>Vår aller siste episode</title>
+      <link>https://radio.nrk.no/podkast/skiklubben/l_279dee0d-4a21-4f28-9dee-0d4a216f287f</link>
+      <description>Da var det slutt for Skiklubben. Vi oppsummerer tre år med lytterne og svarer på en rekke spørsmål for siste gang.</description>
+      <guid isPermaLink="false">l_279dee0d-4a21-4f28-9dee-0d4a216f287f</guid>
+      <pubDate>Fri, 25 Sep 2026 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/skiklubben/279dee0d-4a21-4f28-9dee-0d4a216f287f_1_ID192MP3.mp3" type="audio/mpeg" length="112794668"></enclosure>
+      <itunes:title>Vår aller siste episode</itunes:title>
+      <itunes:summary>Da var det slutt for Skiklubben. Vi oppsummerer tre år med lytterne og svarer på en rekke spørsmål for siste gang.</itunes:summary>
+      <itunes:duration>4699</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wiCIYwjL9AY91NkrQrx8CgNtFXSDlSs3iWSDzhGS9bmA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>– Vi har en viktig beskjed. til deg,</title>
       <link>https://radio.nrk.no/podkast/skiklubben/l_5b1cda83-8a68-405a-9cda-838a68605a7f</link>

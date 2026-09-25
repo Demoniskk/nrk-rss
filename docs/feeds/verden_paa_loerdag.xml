@@ -6,7 +6,7 @@
     <description>Bli med ut i verden. Hør historiene og få forklaringene fra Norges største utenriksredaksjon.&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 18 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verden_paa_loerdag.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Urix</title>
       <link>https://radio.nrk.no/podkast/verden_paa_loerdag</link>
     </image>
+    <item>
+      <title>USA: Til krig mot mediene</title>
+      <link>https://radio.nrk.no/podkast/verden_paa_loerdag/l_d044ebb8-c134-4f61-84eb-b8c1344f61be</link>
+      <description>Donald Trump vil  kaste tre medier ut av Det hvite hus. Møt reporteren som har stått midt i Trumps krig mot &#34;fake news&#34; i ti år.</description>
+      <guid isPermaLink="false">l_d044ebb8-c134-4f61-84eb-b8c1344f61be</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/d044ebb8-c134-4f61-84eb-b8c1344f61be_1_ID192MP3.mp3" type="audio/mpeg" length="33364268"></enclosure>
+      <itunes:title>USA: Til krig mot mediene</itunes:title>
+      <itunes:summary>Donald Trump vil  kaste tre medier ut av Det hvite hus. Møt reporteren som har stått midt i Trumps krig mot &#34;fake news&#34; i ti år.</itunes:summary>
+      <itunes:duration>1390</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/g0ULV8DP5lJfVUXj9oB9IgEVyhVl_yEz3ZqjAVF63wfQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>USA: Til helvete med mellomvalget</title>
       <link>https://radio.nrk.no/podkast/verden_paa_loerdag/l_fe10e4eb-d7f4-41c9-90e4-ebd7f471c93d</link>

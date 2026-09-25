@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Erdogans «trygge» Tyrkia: Et angrep mot skeive?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_a099add7-1872-4094-99ad-d7187280941a</link>
+      <description>Tyrkias president lover å beskytte familier i ny kampanje. Det skaper redsel i det skeive miljøet.</description>
+      <guid isPermaLink="false">l_a099add7-1872-4094-99ad-d7187280941a</guid>
+      <pubDate>Fri, 25 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/a099add7-1872-4094-99ad-d7187280941a_3_ID192MP3.mp3" type="audio/mpeg" length="17384876"></enclosure>
+      <itunes:title>Erdogans «trygge» Tyrkia: Et angrep mot skeive?</itunes:title>
+      <itunes:summary>Tyrkias president lover å beskytte familier i ny kampanje. Det skaper redsel i det skeive miljøet.</itunes:summary>
+      <itunes:duration>724</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CYu78fAS7e7njMPKJGL_yQywakABAA7LBL94YNg3tZbg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Pavens oppgjør: Slik vil han redde kirkens rykte</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_e3dcbe2b-a188-412c-9cbe-2ba188112ce5</link>

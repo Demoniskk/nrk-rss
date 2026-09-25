@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Protester mot Netanyahus tale</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_2c6774f3-4dba-4cdd-a774-f34dba0cdd2f</link>
+      <description>Og vi forklarer veien mot fotball-EM</description>
+      <guid isPermaLink="false">l_2c6774f3-4dba-4cdd-a774-f34dba0cdd2f</guid>
+      <pubDate>Fri, 25 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/2c6774f3-4dba-4cdd-a774-f34dba0cdd2f_1_ID192MP3.mp3" type="audio/mpeg" length="9387116"></enclosure>
+      <itunes:title>Protester mot Netanyahus tale</itunes:title>
+      <itunes:summary>Og vi forklarer veien mot fotball-EM</itunes:summary>
+      <itunes:duration>391</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/B0_0sIcaKLnxQUuSjJ-PhwrhvOyGzIlGffT7_iiOkseg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Hva skjer med renta i dag?</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_1fd2e81a-2c4d-40a0-92e8-1a2c4d30a0d3</link>

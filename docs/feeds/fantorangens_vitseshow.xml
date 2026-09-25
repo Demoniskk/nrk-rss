@@ -6,7 +6,7 @@
     <description>Fantorangen og Pivi forteller rare og morsomme vitser hele familien kan le av.&#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/fantorangens_vitseshow.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Fantorangens vitseshow</title>
       <link>https://radio.nrk.no/podkast/fantorangens_vitseshow</link>
     </image>
+    <item>
+      <title>Månepromp og sure sitroner</title>
+      <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_2d756626-f500-4fab-b566-26f500efabf8</link>
+      <description>Er månen egentlig laget av ost? Fantorangen vil bli astronaut, og Pivi synger planetsangen.</description>
+      <guid isPermaLink="false">l_2d756626-f500-4fab-b566-26f500efabf8</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fantorangens_vitseshow/2d756626-f500-4fab-b566-26f500efabf8_1_ID192MP3.mp3" type="audio/mpeg" length="13753196"></enclosure>
+      <itunes:title>Månepromp og sure sitroner</itunes:title>
+      <itunes:summary>Er månen egentlig laget av ost? Fantorangen vil bli astronaut, og Pivi synger planetsangen.</itunes:summary>
+      <itunes:duration>572</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aFDSzj7snqj8fYlwmTrDeQWUnKobvCfpv6_MIvVLMijA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Vi er kule og vi er rare</title>
       <link>https://radio.nrk.no/podkast/fantorangens_vitseshow/l_6c816775-1724-4835-8167-7517241835ba</link>

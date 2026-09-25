@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 13:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:41:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Hvorfor stoppet ingen Terje Rød-Larsen?</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_02b1bdfb-0201-4f02-9c3d-31c3085f315c</link>
+      <description>Terje Rød-Larsen fikk 116 millioner over 15 år til tenketanken han var leder for. Nå vet vi at han pleide nær kontakt med Jeffrey Epstein, men hvordan kunne dette skje? Noen av svarene ligger kanskje i Epstein-høringen.&#xA;&#xA;Og hvorfor hever Norges Bank styringsrenta?</description>
+      <guid isPermaLink="false">l_02b1bdfb-0201-4f02-9c3d-31c3085f315c</guid>
+      <pubDate>Thu, 24 Sep 2026 15:41:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/02b1bdfb-0201-4f02-9c3d-31c3085f315c_b591f14c-a3cb-41c2-a7d2-2461362c151a_ID192MP3.mp3" type="audio/mpeg" length="45449324"></enclosure>
+      <itunes:title>Hvorfor stoppet ingen Terje Rød-Larsen?</itunes:title>
+      <itunes:summary>Terje Rød-Larsen fikk 116 millioner over 15 år til tenketanken han var leder for. Nå vet vi at han pleide nær kontakt med Jeffrey Epstein, men hvordan kunne dette skje? Noen av svarene ligger kanskje i Epstein-høringen.&#xA;&#xA;Og hvorfor hever Norges Bank styringsrenta?</itunes:summary>
+      <itunes:duration>1893</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Gdi7qLzfIieh_nmK4_eL5gDVcgByH8HVyMKujTWLnSbw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Prinsesse Diana: Nytt bråk og nye beskyldninger</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_e98aa463-6569-46c3-8aa4-63656906c3ef</link>

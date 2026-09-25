@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 12:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:45:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Kari Spjeldnæs</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_dd5e3783-eab1-4d77-8450-0a59a04f3be2</link>
+      <description>– Det er bedre for hjernen å lese på papir, sier leseforskeren</description>
+      <guid isPermaLink="false">l_dd5e3783-eab1-4d77-8450-0a59a04f3be2</guid>
+      <pubDate>Thu, 24 Sep 2026 13:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/dd5e3783-eab1-4d77-8450-0a59a04f3be2_c67c9526-5189-4a3a-b7c2-aad8da4aa0b7_ID192MP3.mp3" type="audio/mpeg" length="82431980"></enclosure>
+      <itunes:title>Kari Spjeldnæs</itunes:title>
+      <itunes:summary>– Det er bedre for hjernen å lese på papir, sier leseforskeren</itunes:summary>
+      <itunes:duration>3434</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/UpvhHG-Gy-UNH1xIikK0WA59Rrq7A9EfJTQ9tgAJCFpw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Ellen Holager Andenæs</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_85259a74-8aea-4eec-81f1-258615aaa064</link>

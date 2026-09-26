@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Tok Einstein feil?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_2a1c21f0-8d3f-4806-9c21-f08d3ff80633</link>
+      <description>Selv genier kan stå for fall.&#xA;Stusser du på alskens bisarre saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!</description>
+      <guid isPermaLink="false">l_2a1c21f0-8d3f-4806-9c21-f08d3ff80633</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/2a1c21f0-8d3f-4806-9c21-f08d3ff80633_1_ID192MP3.mp3" type="audio/mpeg" length="81932012"></enclosure>
+      <itunes:title>Tok Einstein feil?</itunes:title>
+      <itunes:summary>Selv genier kan stå for fall.&#xA;Stusser du på alskens bisarre saker? Send inn dine spørsmål til Abels Tårns kompetente ekspertpanel!</itunes:summary>
+      <itunes:duration>3413</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hMMzvT1ZF3ULyKG98hLLpQPRWFAVtcoira7V7FcJuCQQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Et gjennombrudd i kreftforskning</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_f9f65c4d-2915-49ea-b65c-4d2915b9ead7</link>

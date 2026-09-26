@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 18:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 09:55:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Renta går opp, opp, opp</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_66f90e6b-8f5a-4482-b90e-6b8f5a948204</link>
+      <description>Politikerne kappes om hva som må til for å gi folk bedre råd.</description>
+      <guid isPermaLink="false">l_66f90e6b-8f5a-4482-b90e-6b8f5a948204</guid>
+      <pubDate>Fri, 25 Sep 2026 11:55:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/66f90e6b-8f5a-4482-b90e-6b8f5a948204_1_ID192MP3.mp3" type="audio/mpeg" length="56180780"></enclosure>
+      <itunes:title>Renta går opp, opp, opp</itunes:title>
+      <itunes:summary>Politikerne kappes om hva som må til for å gi folk bedre råd.</itunes:summary>
+      <itunes:duration>2340</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VNZfhX1GmIcKTTSRwjMX3gXTO1fMMPA0hpg1fQ2YuJHQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Går Document-redaktøren for langt?</title>
       <link>https://radio.nrk.no/podkast/debatten/l_7883a164-fbd2-4e4e-83a1-64fbd28e4eab</link>

@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Tulleringing, «mile high club» og hot or not</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_1ef3fc92-b04b-4267-b3fc-92b04ba2674a</link>
+      <description>Sofie har tatt med sin favorittaktivitet fra ungdomsskolen!&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</description>
+      <guid isPermaLink="false">l_1ef3fc92-b04b-4267-b3fc-92b04ba2674a</guid>
+      <pubDate>Fri, 25 Sep 2026 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/1ef3fc92-b04b-4267-b3fc-92b04ba2674a_1_ID192MP3.mp3" type="audio/mpeg" length="75428972"></enclosure>
+      <itunes:title>Tulleringing, «mile high club» og hot or not</itunes:title>
+      <itunes:summary>Sofie har tatt med sin favorittaktivitet fra ungdomsskolen!&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</itunes:summary>
+      <itunes:duration>3142</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Oldemor i farta, hårruller og flørting i forhold</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_c9eff6be-a97c-4a86-aff6-bea97c8a8636</link>

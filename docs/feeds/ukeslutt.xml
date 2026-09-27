@@ -6,7 +6,7 @@
     <description>Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 19 Sep 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ukeslutt</title>
       <link>https://radio.nrk.no/podkast/ukeslutt</link>
     </image>
+    <item>
+      <title>Hva gjør en by god å bo i?</title>
+      <link>https://radio.nrk.no/podkast/ukeslutt/l_58c0014b-8514-411f-8001-4b8514011fa8</link>
+      <description>Bergen ble kåret til verdens nest beste by, men hva er oppskriften på et godt, urbant liv?</description>
+      <guid isPermaLink="false">l_58c0014b-8514-411f-8001-4b8514011fa8</guid>
+      <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/58c0014b-8514-411f-8001-4b8514011fa8_1_ID192MP3.mp3" type="audio/mpeg" length="87708140"></enclosure>
+      <itunes:title>Hva gjør en by god å bo i?</itunes:title>
+      <itunes:summary>Bergen ble kåret til verdens nest beste by, men hva er oppskriften på et godt, urbant liv?</itunes:summary>
+      <itunes:duration>3654</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gumIXtO8So32pSFXnGT6bQsaFm-PwEXmS9-zeWsmSH5A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Influensarar og makt</title>
       <link>https://radio.nrk.no/podkast/ukeslutt/l_a85d1734-d842-455a-9d17-34d842c55abc</link>

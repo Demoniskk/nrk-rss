@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Panelet: Seksualisering og Kaptein Sabeltann</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_5320b011-388d-433b-a0b0-11388dc33b04</link>
+      <description>Panelet diskuterer seksualisering, småbydating og intuisjon. Hva gjør man med en venninne som ikke støtter ditt valg av partner?</description>
+      <guid isPermaLink="false">l_5320b011-388d-433b-a0b0-11388dc33b04</guid>
+      <pubDate>Sun, 27 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/5320b011-388d-433b-a0b0-11388dc33b04_1_ID192MP3.mp3" type="audio/mpeg" length="44474732"></enclosure>
+      <itunes:title>Panelet: Seksualisering og Kaptein Sabeltann</itunes:title>
+      <itunes:summary>Panelet diskuterer seksualisering, småbydating og intuisjon. Hva gjør man med en venninne som ikke støtter ditt valg av partner?</itunes:summary>
+      <itunes:duration>1853</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yJWGnGgnz8jzvPiGxbqKuQ_PjVBl4VqtDjjmQwLlbNQw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Juliane Snekkestad: Valg av menn</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_a015dbe6-f3c4-4827-95db-e6f3c4d8271c</link>

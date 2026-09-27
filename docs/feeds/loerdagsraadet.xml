@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 13:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:15:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Geir «Fenriken» Aker / Martha Leivestad / Odd Nordstoga</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_387fd908-2668-4f46-bfd9-0826686f466e</link>
+      <description>TILBAKEMELDING: Ble det flørting på tur for Tina? / PROBLEMER: Takeaway i bygdenorge / Klassiker: Kan man tilgi utroskap / (Lille)brodern er ferdigutdanna / Hjemmelengsel / Hvordan oppfører man seg alene på konsert? / Konstituert mellomleder i trivsel søker råd / Ikke nok komplimenter, kyss og klem / Venner jeg glemmer</description>
+      <guid isPermaLink="false">l_387fd908-2668-4f46-bfd9-0826686f466e</guid>
+      <pubDate>Sat, 26 Sep 2026 13:15:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/387fd908-2668-4f46-bfd9-0826686f466e_1_ID192MP3.mp3" type="audio/mpeg" length="216343916"></enclosure>
+      <itunes:title>Geir «Fenriken» Aker / Martha Leivestad / Odd Nordstoga</itunes:title>
+      <itunes:summary>TILBAKEMELDING: Ble det flørting på tur for Tina? / PROBLEMER: Takeaway i bygdenorge / Klassiker: Kan man tilgi utroskap / (Lille)brodern er ferdigutdanna / Hjemmelengsel / Hvordan oppfører man seg alene på konsert? / Konstituert mellomleder i trivsel søker råd / Ikke nok komplimenter, kyss og klem / Venner jeg glemmer</itunes:summary>
+      <itunes:duration>9014</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mnD6QV9Jil8jWbXjTITRdwZWXLjoa_YpOeoNkYrmxifA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Det hemmelige brevet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_1e114388-a5db-46bf-9143-88a5db26bf67</link>

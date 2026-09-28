@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Spicy påstander om statsministeren</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_a36f3475-a0b8-4689-b4e0-f77f32b593a6</link>
+      <description>En ny øy har blitt oppdaget på Svalbard, og vi vil kalle den Arin! Vi har sendt brev til de som skal bestemme hva navnet blir, og nå har vi fått et svar. Får vi det som vi har ønsket? Vi hører også med ytringsfrihetsekpsert Anine Kierulf om hvor drøye påstander vi kan komme med</description>
+      <guid isPermaLink="false">l_a36f3475-a0b8-4689-b4e0-f77f32b593a6</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a36f3475-a0b8-4689-b4e0-f77f32b593a6_7a41d83f-3afd-44da-91b8-c2f0529314a7_ID192MP3.mp3" type="audio/mpeg" length="61841132"></enclosure>
+      <itunes:title>Spicy påstander om statsministeren</itunes:title>
+      <itunes:summary>En ny øy har blitt oppdaget på Svalbard, og vi vil kalle den Arin! Vi har sendt brev til de som skal bestemme hva navnet blir, og nå har vi fått et svar. Får vi det som vi har ønsket? Vi hører også med ytringsfrihetsekpsert Anine Kierulf om hvor drøye påstander vi kan komme med</itunes:summary>
+      <itunes:duration>2576</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/02szJfuBotiAutOT-OiD4Q2dHEy4ZwG9L_jGVEuRusDw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Renteheving for dummies</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_9b82bd72-7e0d-4193-9885-fc795df87cd8</link>

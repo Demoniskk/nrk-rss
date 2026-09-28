@@ -6,7 +6,7 @@
     <description>Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Trygdekontoret</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret</link>
     </image>
+    <item>
+      <title>Naturdøden</title>
+      <link>https://radio.nrk.no/podkast/trygdekontoret/l_ef20d35b-11c5-43b8-a0d3-5b11c503b8b7</link>
+      <description>Vi befinner oss i den sjette masseutryddelsen, men bryr vi oss egentlig? Filosof Arne Johan Vetlesen om hvorfor vi knapt merker at natur forsvinner og dyr dør ut.</description>
+      <guid isPermaLink="false">l_ef20d35b-11c5-43b8-a0d3-5b11c503b8b7</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/ef20d35b-11c5-43b8-a0d3-5b11c503b8b7_1_ID192MP3.mp3" type="audio/mpeg" length="80881388"></enclosure>
+      <itunes:title>Naturdøden</itunes:title>
+      <itunes:summary>Vi befinner oss i den sjette masseutryddelsen, men bryr vi oss egentlig? Filosof Arne Johan Vetlesen om hvorfor vi knapt merker at natur forsvinner og dyr dør ut.</itunes:summary>
+      <itunes:duration>3370</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aBI58yWiX8Snc52JSGMVSwwBHtBGj4kI3UOD1YzyetjQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Mistet Norge uskylden med Big Brother?</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret/l_8b9b7b14-0670-4a31-9b7b-1406705a31f6</link>

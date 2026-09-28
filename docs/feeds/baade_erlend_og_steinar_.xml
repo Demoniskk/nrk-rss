@@ -6,7 +6,7 @@
     <description>En tenketank for folk med lav intelligens.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baade_erlend_og_steinar_.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Både Erlend og Steinar </title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
     </image>
+    <item>
+      <title>PISA-taperne versus superintelligens</title>
+      <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_a89216d6-13d1-4048-9216-d613d1e0482a</link>
+      <description>Steinar har en plan for å snu PISA-tallene. Erlend har en plan for å lure en fremtidig superintelligens. Og hvordan «sexter» man egentlig?</description>
+      <guid isPermaLink="false">l_a89216d6-13d1-4048-9216-d613d1e0482a</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/a89216d6-13d1-4048-9216-d613d1e0482a_2_ID192MP3.mp3" type="audio/mpeg" length="90576620"></enclosure>
+      <itunes:title>PISA-taperne versus superintelligens</itunes:title>
+      <itunes:summary>Steinar har en plan for å snu PISA-tallene. Erlend har en plan for å lure en fremtidig superintelligens. Og hvordan «sexter» man egentlig?</itunes:summary>
+      <itunes:duration>3773</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>En personlig beskjed fra vikingtiden</title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_9b4b0949-cb93-4824-8b09-49cb930824d4</link>

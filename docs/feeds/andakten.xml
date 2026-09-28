@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Barnet - Kristin Saxegaard</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_db06ab4c-d4b9-4bf7-8c71-6737ae2d4f78</link>
+      <description>Man husker ikke alt fra man var barn. Men et foto kan vekke minner til live, slik det gjorde for Kristin Moen Saxegaard.</description>
+      <guid isPermaLink="false">l_db06ab4c-d4b9-4bf7-8c71-6737ae2d4f78</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/db06ab4c-d4b9-4bf7-8c71-6737ae2d4f78_634be220-0985-45ca-b105-973ed8bde99e_ID192MP3.mp3" type="audio/mpeg" length="6495020"></enclosure>
+      <itunes:title>Barnet - Kristin Saxegaard</itunes:title>
+      <itunes:summary>Man husker ikke alt fra man var barn. Men et foto kan vekke minner til live, slik det gjorde for Kristin Moen Saxegaard.</itunes:summary>
+      <itunes:duration>270</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kFVpZHt5U7BsCUrENQsHZAZQuG7_3esN7g8JTllSsSGw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Å bære tro - Kjetil GIlberg</title>
       <link>https://radio.nrk.no/podkast/andakten/l_6bc89350-232b-491c-8053-db30b5780148</link>

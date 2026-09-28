@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Da KI tok matematikken</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_9ca5b009-5b28-4047-a5b0-095b28e04755</link>
+      <description>Hva nå, matematiker? Er det bruk for deg lenger? Dette er historien om da OpenAi løste Navier Stokes, et av de sju milleniumsproblemene i matematikk. En hendelse som sendte sjokkbølger gjennom hele feltet, og trolig blir stående igjen som et vannskille i historien. &#xA;Dette er også historien om en eksistensiell trussel, og om en politisk vekkelse som hjemsøker matematikkens verden.</description>
+      <guid isPermaLink="false">l_9ca5b009-5b28-4047-a5b0-095b28e04755</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/9ca5b009-5b28-4047-a5b0-095b28e04755_1_ID192MP3.mp3" type="audio/mpeg" length="82173356"></enclosure>
+      <itunes:title>Da KI tok matematikken</itunes:title>
+      <itunes:summary>Hva nå, matematiker? Er det bruk for deg lenger? Dette er historien om da OpenAi løste Navier Stokes, et av de sju milleniumsproblemene i matematikk. En hendelse som sendte sjokkbølger gjennom hele feltet, og trolig blir stående igjen som et vannskille i historien. &#xA;Dette er også historien om en eksistensiell trussel, og om en politisk vekkelse som hjemsøker matematikkens verden.</itunes:summary>
+      <itunes:duration>3423</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0B59pjE2aHd-m73GNveqCAhzWVxAwFMkcHd0OhVITrrw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Tok Einstein feil?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_2a1c21f0-8d3f-4806-9c21-f08d3ff80633</link>

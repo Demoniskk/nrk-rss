@@ -6,7 +6,7 @@
     <description>Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kilder_til_begeistring.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kilder til begeistring</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring</link>
     </image>
+    <item>
+      <title>Kart</title>
+      <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_317d4906-07d8-44f9-bd49-0607d8a4f9a6</link>
+      <description>Altså, hvor vanskelig kan det egentlig være? Kartet kom jo fint brettet!</description>
+      <guid isPermaLink="false">l_317d4906-07d8-44f9-bd49-0607d8a4f9a6</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kilder_til_begeistring/317d4906-07d8-44f9-bd49-0607d8a4f9a6_1_ID192MP3.mp3" type="audio/mpeg" length="2648492"></enclosure>
+      <itunes:title>Kart</itunes:title>
+      <itunes:summary>Altså, hvor vanskelig kan det egentlig være? Kartet kom jo fint brettet!</itunes:summary>
+      <itunes:duration>110</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KPRjvwa34d9oFPwhvkrPFAYOVDsg08gwuOLIqzG6d6Sg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Dører</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_d39c8eed-673f-44f0-9c8e-ed673f24f0da</link>

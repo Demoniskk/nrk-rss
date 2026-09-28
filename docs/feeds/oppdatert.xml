@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Uefa mot Fifa: Slik vil de finte ut Infantino</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_2a078a47-1283-470a-878a-471283770ab8</link>
+      <description>Fotballens mektigste mann har skapt kaos. Nå prøver Uefa å felle ham.</description>
+      <guid isPermaLink="false">l_2a078a47-1283-470a-878a-471283770ab8</guid>
+      <pubDate>Mon, 28 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/2a078a47-1283-470a-878a-471283770ab8_1_ID192MP3.mp3" type="audio/mpeg" length="22404716"></enclosure>
+      <itunes:title>Uefa mot Fifa: Slik vil de finte ut Infantino</itunes:title>
+      <itunes:summary>Fotballens mektigste mann har skapt kaos. Nå prøver Uefa å felle ham.</itunes:summary>
+      <itunes:duration>933</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1C1U2D6FMq3mv8YwS996uQ8g4mk4pzImf98qNo4M8goQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Erdogans «trygge» Tyrkia: Et angrep mot skeive?</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_a099add7-1872-4094-99ad-d7187280941a</link>

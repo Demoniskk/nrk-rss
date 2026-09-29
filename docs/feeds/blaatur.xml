@@ -6,7 +6,7 @@
     <description>En ukentlig flukt fra hverdagen! Sketsjer, hyss og spik med Christian Mikkelsen, Olav Svarstad Haugland og Emil Berntsen.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/blaatur.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Blåtur</title>
       <link>https://radio.nrk.no/podkast/blaatur</link>
     </image>
+    <item>
+      <title>Har du lyst, har du lov</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_b58d3fd1-f0c9-4110-8d3f-d1f0c9c1104d</link>
+      <description>Olav får en skummel telefon fra Kjøllefjord. Christian prøver å ta quiz-revansje. Emil møter en taxisjåfør med en komiker i magen.</description>
+      <guid isPermaLink="false">l_b58d3fd1-f0c9-4110-8d3f-d1f0c9c1104d</guid>
+      <pubDate>Tue, 29 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/b58d3fd1-f0c9-4110-8d3f-d1f0c9c1104d_1_ID192MP3.mp3" type="audio/mpeg" length="51415532"></enclosure>
+      <itunes:title>Har du lyst, har du lov</itunes:title>
+      <itunes:summary>Olav får en skummel telefon fra Kjøllefjord. Christian prøver å ta quiz-revansje. Emil møter en taxisjåfør med en komiker i magen.</itunes:summary>
+      <itunes:duration>2142</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Stryk i norsk</title>
       <link>https://radio.nrk.no/podkast/blaatur/l_a79319e6-f09f-4d21-9319-e6f09f1d2194</link>

@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Norsk drivstoff</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_4641ed1e-44ea-4a7b-a510-8ef1dc0f166f</link>
+      <description>Senterpartiet mener Norge må lage mer drivstoff selv, og vil bygge raffineri i Nord-Norge.&#xA;Det er en veldig dårlig ide, sier økonomiprofessor.</description>
+      <guid isPermaLink="false">l_4641ed1e-44ea-4a7b-a510-8ef1dc0f166f</guid>
+      <pubDate>Tue, 29 Sep 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/4641ed1e-44ea-4a7b-a510-8ef1dc0f166f_8f69ffe0-a125-41c8-8660-ceb1526cffad_ID192MP3.mp3" type="audio/mpeg" length="21743468"></enclosure>
+      <itunes:title>Norsk drivstoff</itunes:title>
+      <itunes:summary>Senterpartiet mener Norge må lage mer drivstoff selv, og vil bygge raffineri i Nord-Norge.&#xA;Det er en veldig dårlig ide, sier økonomiprofessor.</itunes:summary>
+      <itunes:duration>905</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/crvSbnn7nVy76oviGpjP4Ah6OFIIRGclFgdS7N64Xd-w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Bryllupsbonus fra KrFU</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_da6555d2-27fd-4be3-b2cf-d68c0366afd9</link>

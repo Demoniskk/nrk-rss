@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Vil vrake Nyland</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_85cf8073-97ba-42e7-b29e-241354f1f5be</link>
+      <description>Keepertabben avgjorde kampen mot Portugal. Nå vil flere fotballeksperter bytte keeper til neste kamp.</description>
+      <guid isPermaLink="false">l_85cf8073-97ba-42e7-b29e-241354f1f5be</guid>
+      <pubDate>Mon, 28 Sep 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/85cf8073-97ba-42e7-b29e-241354f1f5be_45137f51-4741-434a-bf0c-9020008f935c_ID192MP3.mp3" type="audio/mpeg" length="84999788"></enclosure>
+      <itunes:title>Vil vrake Nyland</itunes:title>
+      <itunes:summary>Keepertabben avgjorde kampen mot Portugal. Nå vil flere fotballeksperter bytte keeper til neste kamp.</itunes:summary>
+      <itunes:duration>3541</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kFL22xph0RjBmJtAKVKSdgG1Wg5Nato8gJLlMZfYunkg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Får kritikk for å legge inn bøker i KI</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_e6672bae-69e7-40f8-be23-d09f2b0aac45</link>

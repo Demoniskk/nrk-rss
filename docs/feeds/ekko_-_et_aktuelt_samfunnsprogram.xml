@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Umodne skolebarn</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_9ff23b0a-03ec-49c5-b23b-0a03ec69c582</link>
+      <description>Noen barn møter skolen før de egentlig er klare for det. Nye undersøkelser viser overraskende resultater.</description>
+      <guid isPermaLink="false">l_9ff23b0a-03ec-49c5-b23b-0a03ec69c582</guid>
+      <pubDate>Mon, 28 Sep 2026 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/9ff23b0a-03ec-49c5-b23b-0a03ec69c582_1_ID192MP3.mp3" type="audio/mpeg" length="35364140"></enclosure>
+      <itunes:title>Umodne skolebarn</itunes:title>
+      <itunes:summary>Noen barn møter skolen før de egentlig er klare for det. Nye undersøkelser viser overraskende resultater.</itunes:summary>
+      <itunes:duration>1473</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/XXohESNBhU98t8wq-iEwKwr5lpZ0a9vSsgTV_RPTFV3g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Trumps USA: Vinden har vendt</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_716cc1f0-2591-4fe8-acc1-f025914fe861</link>

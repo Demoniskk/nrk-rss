@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 27 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Jonas Lihaug: Blitt voksen</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_f33e6685-185c-41b9-be66-85185c61b98e</link>
+      <description>Jonas Lihaug om hvordan han slet i ungdomstiden, møtet med den rette og den vanskelige veien til å bli far.</description>
+      <guid isPermaLink="false">l_f33e6685-185c-41b9-be66-85185c61b98e</guid>
+      <pubDate>Tue, 29 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/f33e6685-185c-41b9-be66-85185c61b98e_1_ID192MP3.mp3" type="audio/mpeg" length="68598764"></enclosure>
+      <itunes:title>Jonas Lihaug: Blitt voksen</itunes:title>
+      <itunes:summary>Jonas Lihaug om hvordan han slet i ungdomstiden, møtet med den rette og den vanskelige veien til å bli far.</itunes:summary>
+      <itunes:duration>2858</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aoS11UGDQB0voQJDeM5CXgdO2T5B4L8cPsqq1_kp2uzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Panelet: Seksualisering og Kaptein Sabeltann</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_5320b011-388d-433b-a0b0-11388dc33b04</link>

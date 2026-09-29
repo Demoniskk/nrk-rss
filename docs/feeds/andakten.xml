@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Barnets vei -Kristin Saxegaard</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_4ea965d7-0d30-426d-8a25-9172fc438fa4</link>
+      <description>Vi har nettopp vært gjennom en landesorg, etter kong Haralds død. En sorg også barna tok del i.</description>
+      <guid isPermaLink="false">l_4ea965d7-0d30-426d-8a25-9172fc438fa4</guid>
+      <pubDate>Tue, 29 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/4ea965d7-0d30-426d-8a25-9172fc438fa4_964ca922-3467-4d10-86dd-cb192eec85e4_ID192MP3.mp3" type="audio/mpeg" length="6065324"></enclosure>
+      <itunes:title>Barnets vei -Kristin Saxegaard</itunes:title>
+      <itunes:summary>Vi har nettopp vært gjennom en landesorg, etter kong Haralds død. En sorg også barna tok del i.</itunes:summary>
+      <itunes:duration>252</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kFVpZHt5U7BsCUrENQsHZAZQuG7_3esN7g8JTllSsSGw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Barnet - Kristin Saxegaard</title>
       <link>https://radio.nrk.no/podkast/andakten/l_db06ab4c-d4b9-4bf7-8c71-6737ae2d4f78</link>

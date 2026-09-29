@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 07:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Når blir en quiz en quiz</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_f88ca78c-0c24-4e24-8836-2471564e02d8</link>
+      <description>I følge TikTok tar gen-z med seg iskaffe på jobbintervju og det kan koste dem jobben. Jonas har med en quiz som bare har ett spørsmål, og vi lurer på om det er nok spørsmål til å kalles en quiz</description>
+      <guid isPermaLink="false">l_f88ca78c-0c24-4e24-8836-2471564e02d8</guid>
+      <pubDate>Tue, 29 Sep 2026 09:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/f88ca78c-0c24-4e24-8836-2471564e02d8_9b891119-37b2-442b-bd43-a86908078ce7_ID192MP3.mp3" type="audio/mpeg" length="64016684"></enclosure>
+      <itunes:title>Når blir en quiz en quiz</itunes:title>
+      <itunes:summary>I følge TikTok tar gen-z med seg iskaffe på jobbintervju og det kan koste dem jobben. Jonas har med en quiz som bare har ett spørsmål, og vi lurer på om det er nok spørsmål til å kalles en quiz</itunes:summary>
+      <itunes:duration>2667</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-Kwcw3xPPKnTOv9zL3a_iw0AmQ-iO70Oymu8GlqKsybw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Spicy påstander om statsministeren</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_a36f3475-a0b8-4689-b4e0-f77f32b593a6</link>

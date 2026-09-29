@@ -3,14 +3,14 @@
   <channel>
     <title>Oppdatert</title>
     <link>https://radio.nrk.no/podkast/oppdatert</link>
-    <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</description>
+    <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
-    <itunes:summary>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets faktapodkast i 2025. Ny episode hver dag, mandag til fredag.</itunes:summary>
+    <itunes:summary>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</itunes:summary>
     <itunes:owner>
       <itunes:name>NRK</itunes:name>
     </itunes:owner>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Storpolitisk flørt: Derfor frir Canada til Europa</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_e3e48c50-ef58-4d73-a48c-50ef588d7379</link>
+      <description>Etter ett år med turbulens mellom den kanadiske statsministeren og Donald Trump, ser Canada mot EU og Norge.</description>
+      <guid isPermaLink="false">l_e3e48c50-ef58-4d73-a48c-50ef588d7379</guid>
+      <pubDate>Tue, 29 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e3e48c50-ef58-4d73-a48c-50ef588d7379_1_ID192MP3.mp3" type="audio/mpeg" length="26467820"></enclosure>
+      <itunes:title>Storpolitisk flørt: Derfor frir Canada til Europa</itunes:title>
+      <itunes:summary>Etter ett år med turbulens mellom den kanadiske statsministeren og Donald Trump, ser Canada mot EU og Norge.</itunes:summary>
+      <itunes:duration>1102</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/XUHNjOuLqR6iaBfD2i-dUQ664eQ4-1cMvNhAJpfLzuGA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Uefa mot Fifa: Slik vil de finte ut Infantino</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_2a078a47-1283-470a-878a-471283770ab8</link>

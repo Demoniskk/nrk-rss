@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Anoreksi, regulering og studio-navn</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_c5296590-c058-4b34-a965-90c0588b34d1</link>
+      <description>Det er mange negative følger av anoreksi som ikke snakkes så mye om. Og vi gir endelig navn til studioet vårt!&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</description>
+      <guid isPermaLink="false">l_c5296590-c058-4b34-a965-90c0588b34d1</guid>
+      <pubDate>Tue, 29 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/c5296590-c058-4b34-a965-90c0588b34d1_1_ID192MP3.mp3" type="audio/mpeg" length="88747820"></enclosure>
+      <itunes:title>Anoreksi, regulering og studio-navn</itunes:title>
+      <itunes:summary>Det er mange negative følger av anoreksi som ikke snakkes så mye om. Og vi gir endelig navn til studioet vårt!&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</itunes:summary>
+      <itunes:duration>3697</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Tulleringing, «mile high club» og hot or not</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_1ef3fc92-b04b-4267-b3fc-92b04ba2674a</link>

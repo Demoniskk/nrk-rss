@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Flere som har overlevd barnekreft sliter psykisk</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_ad4543a3-837a-4c19-8543-a3837adc1940</link>
+      <description>Og regjeringen vil bruke mer penger på integrering.</description>
+      <guid isPermaLink="false">l_ad4543a3-837a-4c19-8543-a3837adc1940</guid>
+      <pubDate>Tue, 29 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/ad4543a3-837a-4c19-8543-a3837adc1940_1_ID192MP3.mp3" type="audio/mpeg" length="8128556"></enclosure>
+      <itunes:title>Flere som har overlevd barnekreft sliter psykisk</itunes:title>
+      <itunes:summary>Og regjeringen vil bruke mer penger på integrering.</itunes:summary>
+      <itunes:duration>338</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-A47mKw59NPmyeBMub6bvgRfpetqPAHDQzFnSI13mUqQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Keepertabbe kostet Norge dyrt</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_b8ec5850-d403-49f3-ac58-50d403a9f3bd</link>

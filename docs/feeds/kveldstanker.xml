@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Luftslott - med Gunn Marit Nisja</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_72efe331-5f54-44aa-84f6-60f1805a06c7</link>
+      <description>En fiasko kan fort bli en ny vei videre, forteller forfatter Gunn Marit Nisja.</description>
+      <guid isPermaLink="false">l_72efe331-5f54-44aa-84f6-60f1805a06c7</guid>
+      <pubDate>Tue, 29 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/72efe331-5f54-44aa-84f6-60f1805a06c7_89c759e8-3e1f-4544-98d6-3fef2aef12a3_ID192MP3.mp3" type="audio/mpeg" length="3556844"></enclosure>
+      <itunes:title>Luftslott - med Gunn Marit Nisja</itunes:title>
+      <itunes:summary>En fiasko kan fort bli en ny vei videre, forteller forfatter Gunn Marit Nisja.</itunes:summary>
+      <itunes:duration>148</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mTK509RkSftPrg2n5FaVngc2T97fS6iQybFe81bD-G0Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Si det - med Oda Gravdal Ulriksen</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_779fd424-d6a3-4fcd-9fd4-24d6a3ffcd3a</link>

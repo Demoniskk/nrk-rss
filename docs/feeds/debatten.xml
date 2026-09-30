@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 09:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:05:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Har du dårligere råd, eller er det bare føleri?</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_324cddac-cde6-4f05-8cdd-accde68f0535</link>
+      <description>Økonomer og politikere er veldig uenige om virkeligheten vi lever i; har folk flest fått dårligere råd eller ei?</description>
+      <guid isPermaLink="false">l_324cddac-cde6-4f05-8cdd-accde68f0535</guid>
+      <pubDate>Tue, 29 Sep 2026 22:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/324cddac-cde6-4f05-8cdd-accde68f0535_1_ID192MP3.mp3" type="audio/mpeg" length="58766444"></enclosure>
+      <itunes:title>Har du dårligere råd, eller er det bare føleri?</itunes:title>
+      <itunes:summary>Økonomer og politikere er veldig uenige om virkeligheten vi lever i; har folk flest fått dårligere råd eller ei?</itunes:summary>
+      <itunes:duration>2448</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9QMz_ypRXKUCAnFwabkLrQm-fGIv9E_rxBxkLFZxAzXw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Renta går opp, opp, opp</title>
       <link>https://radio.nrk.no/podkast/debatten/l_66f90e6b-8f5a-4482-b90e-6b8f5a948204</link>

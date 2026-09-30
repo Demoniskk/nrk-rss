@@ -6,7 +6,7 @@
     <description>En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sportsdesken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sportsdesken brenner</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner</link>
     </image>
+    <item>
+      <title>Vi prater piss fra A til Å</title>
+      <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_bd902eb8-f1c8-4aa1-8c16-a0f5e5ac2672</link>
+      <description>Ståle Solbakken feller en nådeløs dom over podkasten, mens panelet irriterer seg over Ronaldo-hysteri blant voksne menn og Ørjan Nylands skjebnesvangre keepertabbe. </description>
+      <guid isPermaLink="false">l_bd902eb8-f1c8-4aa1-8c16-a0f5e5ac2672</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/bd902eb8-f1c8-4aa1-8c16-a0f5e5ac2672_da70febd-163e-41e4-b7a0-40bf96658336_ID192MP3.mp3" type="audio/mpeg" length="50685740"></enclosure>
+      <itunes:title>Vi prater piss fra A til Å</itunes:title>
+      <itunes:summary>Ståle Solbakken feller en nådeløs dom over podkasten, mens panelet irriterer seg over Ronaldo-hysteri blant voksne menn og Ørjan Nylands skjebnesvangre keepertabbe. </itunes:summary>
+      <itunes:duration>2111</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Sportsdesken ringer Danmark</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_3cab1434-c0bf-4911-b76c-9458ba3da34b</link>

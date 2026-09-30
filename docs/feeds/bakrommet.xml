@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 01:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:54:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Ødegaards kamp mot klokka</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_df3177b3-13d5-4e99-b177-b313d59e99e9</link>
+      <description>Står kampen mot Wales i fare for Norges kaptein? Er det viktigere å vinne mot Portugal enn Wales og hvorfor når ikke flere innlegg frem Vi lader opp fra Cardiff.</description>
+      <guid isPermaLink="false">l_df3177b3-13d5-4e99-b177-b313d59e99e9</guid>
+      <pubDate>Tue, 29 Sep 2026 22:54:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/df3177b3-13d5-4e99-b177-b313d59e99e9_1_ID192MP3.mp3" type="audio/mpeg" length="55061036"></enclosure>
+      <itunes:title>Ødegaards kamp mot klokka</itunes:title>
+      <itunes:summary>Står kampen mot Wales i fare for Norges kaptein? Er det viktigere å vinne mot Portugal enn Wales og hvorfor når ikke flere innlegg frem Vi lader opp fra Cardiff.</itunes:summary>
+      <itunes:duration>2294</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>- Bytt keeper og benk Haaland!</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_4de4067c-84f6-4acf-a406-7c84f6cacf22</link>

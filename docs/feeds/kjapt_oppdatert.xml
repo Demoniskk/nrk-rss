@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Støre skal svare om Epstein</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_fb190b91-47ae-4007-990b-9147aef007fc</link>
+      <description>Og «Dora the Explorer» kan stoppe Leah Behn fra å ta patent.</description>
+      <guid isPermaLink="false">l_fb190b91-47ae-4007-990b-9147aef007fc</guid>
+      <pubDate>Wed, 30 Sep 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/fb190b91-47ae-4007-990b-9147aef007fc_1_ID192MP3.mp3" type="audio/mpeg" length="8702828"></enclosure>
+      <itunes:title>Støre skal svare om Epstein</itunes:title>
+      <itunes:summary>Og «Dora the Explorer» kan stoppe Leah Behn fra å ta patent.</itunes:summary>
+      <itunes:duration>362</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Uf0klLWc43nszDlKj7z68Qsk8dl0H99B7M7bwjb7WNoQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Flere som har overlevd barnekreft sliter psykisk</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_ad4543a3-837a-4c19-8543-a3837adc1940</link>

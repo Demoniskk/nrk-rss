@@ -6,7 +6,7 @@
     <description>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Krimrommet</title>
       <link>https://radio.nrk.no/podkast/krimrommet</link>
     </image>
+    <item>
+      <title>Realitystjerne drept: Var det sjalusi?</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_e86973b2-5c57-473e-a973-b25c57573efb</link>
+      <description>Utad virker Rolf og Janne som et lykkelig par, de poserer i matchende antrekk på Instagram og kjøper drømmehuset. Så endrer alt seg.</description>
+      <guid isPermaLink="false">l_e86973b2-5c57-473e-a973-b25c57573efb</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/e86973b2-5c57-473e-a973-b25c57573efb_1_ID192MP3.mp3" type="audio/mpeg" length="52134956"></enclosure>
+      <itunes:title>Realitystjerne drept: Var det sjalusi?</itunes:title>
+      <itunes:summary>Utad virker Rolf og Janne som et lykkelig par, de poserer i matchende antrekk på Instagram og kjøper drømmehuset. Så endrer alt seg.</itunes:summary>
+      <itunes:duration>2172</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ub2X3WEmG7u_bVnmaDkIFAoFbB2XrTVAhNtqvbi4lfgA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Ski: Derfor ble hun frikjent</title>
       <link>https://radio.nrk.no/podkast/krimrommet/l_d3e10f4b-12f6-4ce1-a10f-4b12f61ce1f2</link>

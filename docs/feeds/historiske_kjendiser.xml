@@ -6,7 +6,7 @@
     <description>Idealister, genier og maktgale gærninger; Alexandra Gjerpen vekker historiens største personer til live igjen.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/historiske_kjendiser.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Historiske kjendiser</title>
       <link>https://radio.nrk.no/podkast/historiske_kjendiser</link>
     </image>
+    <item>
+      <title>Edvard Grieg – Norges toneskaper</title>
+      <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_c168edfa-4150-4272-a8ed-fa41508272a3</link>
+      <description>Komponisten skapte «lyden av Norge».</description>
+      <guid isPermaLink="false">l_c168edfa-4150-4272-a8ed-fa41508272a3</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/historiske_kjendiser/c168edfa-4150-4272-a8ed-fa41508272a3_1_ID192MP3.mp3" type="audio/mpeg" length="81620396"></enclosure>
+      <itunes:title>Edvard Grieg – Norges toneskaper</itunes:title>
+      <itunes:summary>Komponisten skapte «lyden av Norge».</itunes:summary>
+      <itunes:duration>3400</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/V4l5dkZTuAh5FXUnEe51zQX6HELdzM23z0tUMu1L2xUg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Lev Trotskij – jaget revolusjonær</title>
       <link>https://radio.nrk.no/podkast/historiske_kjendiser/l_46425b7a-62d7-442b-825b-7a62d7942b8e</link>

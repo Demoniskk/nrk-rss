@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Kulde - med Sunniva Relling Berg</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_644e4eb7-6027-45eb-8d8e-36a88e7a90f0</link>
+      <description>Litteratur kan viske ut landegrenser, hevder forfatteren Sunniva Relling Berg</description>
+      <guid isPermaLink="false">l_644e4eb7-6027-45eb-8d8e-36a88e7a90f0</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/644e4eb7-6027-45eb-8d8e-36a88e7a90f0_1a429bf7-7f1a-457f-a341-914b1cfc84ee_ID192MP3.mp3" type="audio/mpeg" length="4821740"></enclosure>
+      <itunes:title>Kulde - med Sunniva Relling Berg</itunes:title>
+      <itunes:summary>Litteratur kan viske ut landegrenser, hevder forfatteren Sunniva Relling Berg</itunes:summary>
+      <itunes:duration>200</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/z8CIr6NfCmd6o8_LOA9cUQByLqt8xqVPETMGVT3yCmnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Luftslott - med Gunn Marit Nisja</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_72efe331-5f54-44aa-84f6-60f1805a06c7</link>

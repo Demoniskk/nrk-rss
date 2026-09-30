@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Står Oslo-avtalen seg som en diplomatisk bragd?  </title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_78ac5508-e7db-4643-ae4c-7a33aa646ac3</link>
+      <description>Oslo-avtalen var beviset på at Norge kunne spille en stor rolle i fredsdiplomati og bidro til storsatsingen som nå granskes. Men var Oslo-avtalen en så stor bragd som hyllesten her i Norge tilsier?   </description>
+      <guid isPermaLink="false">l_78ac5508-e7db-4643-ae4c-7a33aa646ac3</guid>
+      <pubDate>Wed, 30 Sep 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/78ac5508-e7db-4643-ae4c-7a33aa646ac3_d46afd58-6b68-46c7-bfe0-d3d4b470eab3_ID192MP3.mp3" type="audio/mpeg" length="21779756"></enclosure>
+      <itunes:title>Står Oslo-avtalen seg som en diplomatisk bragd?  </itunes:title>
+      <itunes:summary>Oslo-avtalen var beviset på at Norge kunne spille en stor rolle i fredsdiplomati og bidro til storsatsingen som nå granskes. Men var Oslo-avtalen en så stor bragd som hyllesten her i Norge tilsier?   </itunes:summary>
+      <itunes:duration>907</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NhyzkDn-QKSqe9AnW9kZmQGPrgvvNde-_XqR9BD3UXyw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Norsk drivstoff</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_4641ed1e-44ea-4a7b-a510-8ef1dc0f166f</link>

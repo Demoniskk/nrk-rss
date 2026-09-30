@@ -6,7 +6,7 @@
     <description>Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller. &#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bibelen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Bibelen</title>
       <link>https://radio.nrk.no/podkast/bibelen</link>
     </image>
+    <item>
+      <title>Graven er tom! (37:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_18e0d3fa-e4b9-4ed0-a0d3-fae4b93ed0f0</link>
+      <description>Helt om natta – helt om dagen! Jesus kommer seg opp, men hva skjedde med Judas?</description>
+      <guid isPermaLink="false">l_18e0d3fa-e4b9-4ed0-a0d3-fae4b93ed0f0</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/18e0d3fa-e4b9-4ed0-a0d3-fae4b93ed0f0_1_ID192MP3.mp3" type="audio/mpeg" length="31267628"></enclosure>
+      <itunes:title>Graven er tom! (37:40)</itunes:title>
+      <itunes:summary>Helt om natta – helt om dagen! Jesus kommer seg opp, men hva skjedde med Judas?</itunes:summary>
+      <itunes:duration>1302</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/E1-GBIl8JQ7U3WexTE4Zuwyw_J_MZ5wdNJAFXS1Ksr7g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Jesus på korset (36:40)</title>
       <link>https://radio.nrk.no/podkast/bibelen/l_2924bcef-3c25-4ad6-a4bc-ef3c254ad6e5</link>

@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Er humor fra 40-tallet gøy?</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_6edc1544-19f5-4fba-9c15-4419f57fbaff</link>
+      <description>Markus har med seg humor klassiker fra 1941, Daniel marinerer fingeren sin i noe og er rista brød smæsj eller bæsj?</description>
+      <guid isPermaLink="false">l_6edc1544-19f5-4fba-9c15-4419f57fbaff</guid>
+      <pubDate>Wed, 30 Sep 2026 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/6edc1544-19f5-4fba-9c15-4419f57fbaff_1_ID192MP3.mp3" type="audio/mpeg" length="59693804"></enclosure>
+      <itunes:title>Er humor fra 40-tallet gøy?</itunes:title>
+      <itunes:summary>Markus har med seg humor klassiker fra 1941, Daniel marinerer fingeren sin i noe og er rista brød smæsj eller bæsj?</itunes:summary>
+      <itunes:duration>2487</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Daniel har vært «utro»</title>
       <link>https://radio.nrk.no/podkast/siesta/l_63bd764e-c519-4d2c-bd76-4ec519dd2cdc</link>

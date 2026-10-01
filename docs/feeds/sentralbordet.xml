@@ -6,7 +6,7 @@
     <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sentralbordet på NRK</title>
       <link>https://radio.nrk.no/podkast/sentralbordet</link>
     </image>
+    <item>
+      <title>– Kan barna bli med deg?</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_9b6c0325-7f45-43d6-ac03-257f4543d6ee</link>
+      <description>Sanna Sarromaa har en hemmelig hobby, Sigurd Jorsalfare ringer til Island, Oddvar (76) søker jobb, og Emilie må be en tilfeldig på telefonlista om alt for mye.</description>
+      <guid isPermaLink="false">l_9b6c0325-7f45-43d6-ac03-257f4543d6ee</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/9b6c0325-7f45-43d6-ac03-257f4543d6ee_1_ID192MP3.mp3" type="audio/mpeg" length="30707180"></enclosure>
+      <itunes:title>– Kan barna bli med deg?</itunes:title>
+      <itunes:summary>Sanna Sarromaa har en hemmelig hobby, Sigurd Jorsalfare ringer til Island, Oddvar (76) søker jobb, og Emilie må be en tilfeldig på telefonlista om alt for mye.</itunes:summary>
+      <itunes:duration>1279</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>– Jeg tror dette er spam?</title>
       <link>https://radio.nrk.no/podkast/sentralbordet/l_1047adf2-2479-4dfd-87ad-f224797dfd4f</link>

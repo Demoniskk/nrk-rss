@@ -3,14 +3,14 @@
   <channel>
     <title>Dagsnytt 18</title>
     <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
-    <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.</description>
+    <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
-    <itunes:summary>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Sigrid Sollund og Espen Aas.</itunes:summary>
+    <itunes:summary>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</itunes:summary>
     <itunes:owner>
       <itunes:name>NRK</itunes:name>
     </itunes:owner>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Epstein-høring i Stortinget</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_08d3d113-e461-423d-9823-cb97f0422467</link>
+      <description>Ingen ukultur i Utenriksdepartementet, sa fem forskjellige statsråder i høringen om utenrikstjenesten i dag.</description>
+      <guid isPermaLink="false">l_08d3d113-e461-423d-9823-cb97f0422467</guid>
+      <pubDate>Wed, 30 Sep 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/08d3d113-e461-423d-9823-cb97f0422467_4605e601-0124-4a5b-b0d8-20f40ef3691f_ID192MP3.mp3" type="audio/mpeg" length="85041836"></enclosure>
+      <itunes:title>Epstein-høring i Stortinget</itunes:title>
+      <itunes:summary>Ingen ukultur i Utenriksdepartementet, sa fem forskjellige statsråder i høringen om utenrikstjenesten i dag.</itunes:summary>
+      <itunes:duration>3543</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/l8DdOtO_dpO_SIKAUgh03gSfvORK_0lYjTQjQ2l1lXUw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Toppduell om personlig økonomi</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_5d0286d7-9d12-4fce-9205-daa5b5f4e4c2</link>

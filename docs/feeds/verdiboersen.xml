@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,32 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title>Ondskapens banalitet</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_9adc8586-7cea-473a-9c85-867cea573a81</link>
+      <description>1961 fulgte filosofen Hannah Arendt rettssaken mot SS-offiseren Adolf Eichmann. Her så hun  &#34;ondskapens banalitet&#34;</description>
+      <guid isPermaLink="false">l_9adc8586-7cea-473a-9c85-867cea573a81</guid>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/9adc8586-7cea-473a-9c85-867cea573a81_1_ID192MP3.mp3" type="audio/mpeg" length="16085996"></enclosure>
+      <itunes:title>Ondskapens banalitet</itunes:title>
+      <itunes:summary>1961 fulgte filosofen Hannah Arendt rettssaken mot SS-offiseren Adolf Eichmann. Her så hun  &#34;ondskapens banalitet&#34;</itunes:summary>
+      <itunes:duration>670</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Hvorfor velge KI-kjæreste!</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_ccf35a5b-9cad-43e3-b35a-5b9cad53e356</link>
+      <description>- og hvorfor ikke!</description>
+      <guid isPermaLink="false">l_ccf35a5b-9cad-43e3-b35a-5b9cad53e356</guid>
+      <pubDate>Fri, 25 Sep 2026 18:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ccf35a5b-9cad-43e3-b35a-5b9cad53e356_1_ID192MP3.mp3" type="audio/mpeg" length="37375532"></enclosure>
+      <itunes:title>Hvorfor velge KI-kjæreste!</itunes:title>
+      <itunes:summary>- og hvorfor ikke!</itunes:summary>
+      <itunes:duration>1557</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Aldri mer 9. april</title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_9533c49c-4cfd-430f-b3c4-9c4cfdd30fae</link>

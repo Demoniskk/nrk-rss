@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Burger uten pinne!</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_3a39d3c5-359f-446b-860e-b0e2478e1d5c</link>
+      <description>Sulten gjeng snakker om mat igjen. Det er flaut at nordmenn tar helt av når de får et glimt av Ronaldo. Og kan man bare FÅ penger?</description>
+      <guid isPermaLink="false">l_3a39d3c5-359f-446b-860e-b0e2478e1d5c</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/3a39d3c5-359f-446b-860e-b0e2478e1d5c_b73df5bf-555f-4adc-b7c1-b76a21509025_ID192MP3.mp3" type="audio/mpeg" length="53841068"></enclosure>
+      <itunes:title>Burger uten pinne!</itunes:title>
+      <itunes:summary>Sulten gjeng snakker om mat igjen. Det er flaut at nordmenn tar helt av når de får et glimt av Ronaldo. Og kan man bare FÅ penger?</itunes:summary>
+      <itunes:duration>2243</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Fingring i Køben</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_503422d1-27f5-4fba-86ce-4be46f6182a5</link>

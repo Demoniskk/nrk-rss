@@ -6,7 +6,7 @@
     <description>Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 03:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lev_vel.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lev vel</title>
       <link>https://radio.nrk.no/podkast/lev_vel</link>
     </image>
+    <item>
+      <title>På hjertet: Les med Linnéa</title>
+      <link>https://radio.nrk.no/podkast/lev_vel/l_f7f4fe91-457c-42d8-b4fe-91457c72d886</link>
+      <description>Hvordan står det til med skjermtiden ett år etter scrollechallenge? Linnéa oppsummerer måneden og har et mål hun vil invitere lytterne med på.</description>
+      <guid isPermaLink="false">l_f7f4fe91-457c-42d8-b4fe-91457c72d886</guid>
+      <pubDate>Thu, 01 Oct 2026 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/f7f4fe91-457c-42d8-b4fe-91457c72d886_1_ID192MP3.mp3" type="audio/mpeg" length="33200108"></enclosure>
+      <itunes:title>På hjertet: Les med Linnéa</itunes:title>
+      <itunes:summary>Hvordan står det til med skjermtiden ett år etter scrollechallenge? Linnéa oppsummerer måneden og har et mål hun vil invitere lytterne med på.</itunes:summary>
+      <itunes:duration>1383</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/RPyy1A2Jk0-GzpcdlrScEgd0MiLbJJHJXlmglZ5KjM1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Demens: Kan det forebygges? (1:2)</title>
       <link>https://radio.nrk.no/podkast/lev_vel/l_80a109ee-c50d-4d9e-a109-eec50dbd9e67</link>

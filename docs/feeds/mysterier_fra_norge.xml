@@ -6,7 +6,7 @@
     <description>Spøkelser, forbannelser og uforklarlige fenomener – landet vårt er fullt av uløste mysterier.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/mysterier_fra_norge.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Mysterier fra Norge</title>
       <link>https://radio.nrk.no/podkast/mysterier_fra_norge</link>
     </image>
+    <item>
+      <title>Nille og presten</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_ecbb9391-c0c9-4dc8-bb93-91c0c90dc805</link>
+      <description>En tjenestepike blir henrettet – på grunn av noe et spøkelse skal ha sagt til en prest.</description>
+      <guid isPermaLink="false">l_ecbb9391-c0c9-4dc8-bb93-91c0c90dc805</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/ecbb9391-c0c9-4dc8-bb93-91c0c90dc805_1_ID192MP3.mp3" type="audio/mpeg" length="48107564"></enclosure>
+      <itunes:title>Nille og presten</itunes:title>
+      <itunes:summary>En tjenestepike blir henrettet – på grunn av noe et spøkelse skal ha sagt til en prest.</itunes:summary>
+      <itunes:duration>2004</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LYv8d5wi-3TD03T3pQB5pQs_zp5H25S3hmIfvIr6dB8Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Telefonen på Bærums Verk</title>
       <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_2594101d-a0fc-4e91-9410-1da0fc4e91c9</link>

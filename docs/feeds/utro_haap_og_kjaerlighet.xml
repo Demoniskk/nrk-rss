@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Jannecke Weeden: Umulig å elske?</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_1c75305f-56ba-4043-b530-5f56ba7043c2</link>
+      <description>Jannecke Weeden deler ærlig og sårbart om å ikke føle seg god nok – og hvordan det utspiller seg i relasjoner.</description>
+      <guid isPermaLink="false">l_1c75305f-56ba-4043-b530-5f56ba7043c2</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/1c75305f-56ba-4043-b530-5f56ba7043c2_1_ID192MP3.mp3" type="audio/mpeg" length="63193004"></enclosure>
+      <itunes:title>Jannecke Weeden: Umulig å elske?</itunes:title>
+      <itunes:summary>Jannecke Weeden deler ærlig og sårbart om å ikke føle seg god nok – og hvordan det utspiller seg i relasjoner.</itunes:summary>
+      <itunes:duration>2632</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ABcS20Evm0yPzrXcLPPoCQy23mhFxS2P6CAqAYaHduxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Jonas Lihaug: Blitt voksen</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_f33e6685-185c-41b9-be66-85185c61b98e</link>

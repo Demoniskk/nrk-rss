@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 20:54:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:50:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>- Klart de snakker om Man City</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_1872d803-0ef3-44e7-b2d8-030ef304e783</link>
+      <description>Skandalen rundt Haalands arbeidsgiver ryster fotballverdenen, men landslaget holder kortene tett til brystet. Norge er storfavoritter. Ekspertene er nervøse, mens Ronaldo skaper kaos i Portugal.</description>
+      <guid isPermaLink="false">l_1872d803-0ef3-44e7-b2d8-030ef304e783</guid>
+      <pubDate>Wed, 30 Sep 2026 22:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/1872d803-0ef3-44e7-b2d8-030ef304e783_1_ID192MP3.mp3" type="audio/mpeg" length="71933804"></enclosure>
+      <itunes:title>- Klart de snakker om Man City</itunes:title>
+      <itunes:summary>Skandalen rundt Haalands arbeidsgiver ryster fotballverdenen, men landslaget holder kortene tett til brystet. Norge er storfavoritter. Ekspertene er nervøse, mens Ronaldo skaper kaos i Portugal.</itunes:summary>
+      <itunes:duration>2997</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Ødegaards kamp mot klokka</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_df3177b3-13d5-4e99-b177-b313d59e99e9</link>

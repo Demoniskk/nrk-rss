@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Håpet - Kristin Saxegaard</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_b5753788-f879-4361-b0d7-72672dffdad6</link>
+      <description>Vi har håp for kommende generasjoner. Et håp Kristin Moen Saxegaard deler og tror på.</description>
+      <guid isPermaLink="false">l_b5753788-f879-4361-b0d7-72672dffdad6</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/b5753788-f879-4361-b0d7-72672dffdad6_960eebdf-5fef-4de4-ad4c-3b53b3ac19f7_ID192MP3.mp3" type="audio/mpeg" length="6268652"></enclosure>
+      <itunes:title>Håpet - Kristin Saxegaard</itunes:title>
+      <itunes:summary>Vi har håp for kommende generasjoner. Et håp Kristin Moen Saxegaard deler og tror på.</itunes:summary>
+      <itunes:duration>261</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kFVpZHt5U7BsCUrENQsHZAZQuG7_3esN7g8JTllSsSGw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Lovsang - Kristin Saxegaard</title>
       <link>https://radio.nrk.no/podkast/andakten/l_59cb5655-7fe0-4723-b450-82e9afa91fdb</link>

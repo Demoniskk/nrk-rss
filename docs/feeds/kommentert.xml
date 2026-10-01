@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 13:41:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:05:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Epstein-høring: – Politisk teater og angrende synder</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_fed8cfeb-2847-466a-99e1-420f47ffb935</link>
+      <description>Hvorfor fikk Terje Rød-Larsens tenketank så mye penger av utenriksdepartementet? Flere tidligere statsråder ble grillet i Stortingets Epstein-høring, og stemningen var tidvis amper og hissig. Var det en ukultur? Og har departementet en utfordring med kameraderi?</description>
+      <guid isPermaLink="false">l_fed8cfeb-2847-466a-99e1-420f47ffb935</guid>
+      <pubDate>Wed, 30 Sep 2026 20:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/fed8cfeb-2847-466a-99e1-420f47ffb935_b214b9cd-876c-4226-861c-b6bc7dbf6cab_ID192MP3.mp3" type="audio/mpeg" length="37243052"></enclosure>
+      <itunes:title>Epstein-høring: – Politisk teater og angrende synder</itunes:title>
+      <itunes:summary>Hvorfor fikk Terje Rød-Larsens tenketank så mye penger av utenriksdepartementet? Flere tidligere statsråder ble grillet i Stortingets Epstein-høring, og stemningen var tidvis amper og hissig. Var det en ukultur? Og har departementet en utfordring med kameraderi?</itunes:summary>
+      <itunes:duration>1551</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uZXXzOlFFsrFef2M47hZUA0btFN3NcprOybQ5Bhs2rYQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Hvorfor stoppet ingen Terje Rød-Larsen?</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_02b1bdfb-0201-4f02-9c3d-31c3085f315c</link>

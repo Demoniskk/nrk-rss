@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Polen har fått «abortomat»</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_248b8bdf-b5b6-4651-8b8b-dfb5b666519d</link>
+      <description>Og Haaland saksøker Norwegian.</description>
+      <guid isPermaLink="false">l_248b8bdf-b5b6-4651-8b8b-dfb5b666519d</guid>
+      <pubDate>Thu, 01 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/248b8bdf-b5b6-4651-8b8b-dfb5b666519d_1_ID192MP3.mp3" type="audio/mpeg" length="8285228"></enclosure>
+      <itunes:title>Polen har fått «abortomat»</itunes:title>
+      <itunes:summary>Og Haaland saksøker Norwegian.</itunes:summary>
+      <itunes:duration>345</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pzmihMJSHAFbby4iFzGnSQ1lkj_j-o3Ge9GEPmzJorjg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Støre skal svare om Epstein</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_fb190b91-47ae-4007-990b-9147aef007fc</link>

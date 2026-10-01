@@ -6,7 +6,7 @@
     <description>Din ukentlige dose vesentlig vrøvl. Med Anne Lindmo, Halvor Haugen og Rune Norum Engelsøy. Tilbake 10. september.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lindmo_og_co.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Lindmo og Co</title>
       <link>https://radio.nrk.no/podkast/lindmo_og_co</link>
     </image>
+    <item>
+      <title>Indremisjonskoret Refleks</title>
+      <link>https://radio.nrk.no/podkast/lindmo_og_co/l_fda1ecb3-34b9-49e6-a1ec-b334b949e677</link>
+      <description>Anne har møtt den gamle ungdomsgjengen fra Toten og vi diskuterer hva som er det beste folkeslaget.</description>
+      <guid isPermaLink="false">l_fda1ecb3-34b9-49e6-a1ec-b334b949e677</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/fda1ecb3-34b9-49e6-a1ec-b334b949e677_1_ID192MP3.mp3" type="audio/mpeg" length="33520940"></enclosure>
+      <itunes:title>Indremisjonskoret Refleks</itunes:title>
+      <itunes:summary>Anne har møtt den gamle ungdomsgjengen fra Toten og vi diskuterer hva som er det beste folkeslaget.</itunes:summary>
+      <itunes:duration>1396</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Skammens kartotek</title>
       <link>https://radio.nrk.no/podkast/lindmo_og_co/l_9fde770a-8115-47b0-9e77-0a8115a7b03c</link>

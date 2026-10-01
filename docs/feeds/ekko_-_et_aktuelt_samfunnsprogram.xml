@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 11:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Hvordan omfavne høsten?</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_92100842-a6ff-42c3-9008-42a6ff92c33b</link>
+      <description>Høsten er en spagat mellom høyt tempo og lav energi for mange.</description>
+      <guid isPermaLink="false">l_92100842-a6ff-42c3-9008-42a6ff92c33b</guid>
+      <pubDate>Wed, 30 Sep 2026 13:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/92100842-a6ff-42c3-9008-42a6ff92c33b_2_ID192MP3.mp3" type="audio/mpeg" length="70507628"></enclosure>
+      <itunes:title>Hvordan omfavne høsten?</itunes:title>
+      <itunes:summary>Høsten er en spagat mellom høyt tempo og lav energi for mange.</itunes:summary>
+      <itunes:duration>2937</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FgR-fkZS2zyj9xQtS-rdwgTnLt3g6H7OAiLcbXklFFgQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="September 2026">202609</podcast:season>
+    </item>
     <item>
       <title>Unge ryddar opp gamle synder</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_18c11b12-d7b0-4941-811b-12d7b0b941dc</link>

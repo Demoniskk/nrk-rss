@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Hva er inni et datasenter?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_a8269b66-0e44-490d-a69b-660e44390d40</link>
+      <description>Håper det også finnes rom for folk der.&#xA;Lurer du på de merkeligste saker og ting? Få svar fra Abels Tårns allvitende ekspertise!</description>
+      <guid isPermaLink="false">l_a8269b66-0e44-490d-a69b-660e44390d40</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/a8269b66-0e44-490d-a69b-660e44390d40_1_ID192MP3.mp3" type="audio/mpeg" length="82844972"></enclosure>
+      <itunes:title>Hva er inni et datasenter?</itunes:title>
+      <itunes:summary>Håper det også finnes rom for folk der.&#xA;Lurer du på de merkeligste saker og ting? Få svar fra Abels Tårns allvitende ekspertise!</itunes:summary>
+      <itunes:duration>3451</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3YxQmnhWKkiHyRQPbJ7IrQ3tO5rtJ9h_mWF8GJM-iwDA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Da KI tok matematikken</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_9ca5b009-5b28-4047-a5b0-095b28e04755</link>

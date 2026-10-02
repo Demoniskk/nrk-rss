@@ -6,7 +6,7 @@
     <description>Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bok_i_p2.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Åpen bok</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2</link>
     </image>
+    <item>
+      <title>Kim Leine: Sekt, overgrep, røtter</title>
+      <link>https://radio.nrk.no/podkast/bok_i_p2/l_f62ac96b-3fa0-4931-aac9-6b3fa00931b2</link>
+      <description>I «Olavs hus» graver Kim Leine i sin mørke slektshistorie. Fra fjøshore til brutal overlevelse.</description>
+      <guid isPermaLink="false">l_f62ac96b-3fa0-4931-aac9-6b3fa00931b2</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/f62ac96b-3fa0-4931-aac9-6b3fa00931b2_1_ID192MP3.mp3" type="audio/mpeg" length="82157804"></enclosure>
+      <itunes:title>Kim Leine: Sekt, overgrep, røtter</itunes:title>
+      <itunes:summary>I «Olavs hus» graver Kim Leine i sin mørke slektshistorie. Fra fjøshore til brutal overlevelse.</itunes:summary>
+      <itunes:duration>3423</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9loWMTjh5uSYnIeqrZ0s7AWoiUK4r1C_YSgZCExmtoGA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Jan Kjærstad: Kan du hjelpe med en metafor?</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2/l_2fe622df-8790-4580-a622-df87900580fc</link>

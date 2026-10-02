@@ -6,7 +6,7 @@
     <description>Absolutt alt du kan undre deg over om språk! Jesper Nondal spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/spraakteigen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Språksnakk</title>
       <link>https://radio.nrk.no/podkast/spraakteigen</link>
     </image>
+    <item>
+      <title>Autoritær fjompenisse</title>
+      <link>https://radio.nrk.no/podkast/spraakteigen/l_ac3e9c10-c0f8-4175-be9c-10c0f8617540</link>
+      <description>Vi hjelper deg å bruke pronomen riktig. Delikat har hatt en reise og utvikling som ord, og lær også mer om esperanto.</description>
+      <guid isPermaLink="false">l_ac3e9c10-c0f8-4175-be9c-10c0f8617540</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/ac3e9c10-c0f8-4175-be9c-10c0f8617540_1_ID192MP3.mp3" type="audio/mpeg" length="82581164"></enclosure>
+      <itunes:title>Autoritær fjompenisse</itunes:title>
+      <itunes:summary>Vi hjelper deg å bruke pronomen riktig. Delikat har hatt en reise og utvikling som ord, og lær også mer om esperanto.</itunes:summary>
+      <itunes:duration>3440</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2TvOfsrDcr5auT3M1LgFigvBNIkGwBHcYHL4J_JYW50Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Sviskete bukseroller</title>
       <link>https://radio.nrk.no/podkast/spraakteigen/l_f5467154-00ae-441d-8671-5400aef41dc7</link>

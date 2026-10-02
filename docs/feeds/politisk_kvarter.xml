@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Fem flyplasser fredes</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_e13ab57e-1f24-482a-a22e-1b7e89fd23c5</link>
+      <description>Samferdselsministeren freder flytilbudet i nord.&#xA;Var det ikke så farlig med høringen likevel?</description>
+      <guid isPermaLink="false">l_e13ab57e-1f24-482a-a22e-1b7e89fd23c5</guid>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/e13ab57e-1f24-482a-a22e-1b7e89fd23c5_2a15823c-58af-423c-8ad7-5eb2c217d717_ID192MP3.mp3" type="audio/mpeg" length="21782636"></enclosure>
+      <itunes:title>Fem flyplasser fredes</itunes:title>
+      <itunes:summary>Samferdselsministeren freder flytilbudet i nord.&#xA;Var det ikke så farlig med høringen likevel?</itunes:summary>
+      <itunes:duration>907</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JWwDBFaWEAD6G4oiZw6qJAJfmKraUlbBOiBshtl-w29g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Krever endringer i SV ledelsen</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_f89fe7a6-ec85-450d-9138-6c28c616cd1f</link>

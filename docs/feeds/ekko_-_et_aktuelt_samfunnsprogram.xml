@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Trumps USA: Hva er bra med Donald Trump?</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_3e7c43fd-7810-41fd-bc43-fd781041fdd5</link>
+      <description>Han er sterkt omstridt. Han fremstår impulsstyrt og vil ha ting gjort. Ukas episode utforsker hvordan det kan gavne USA.</description>
+      <guid isPermaLink="false">l_3e7c43fd-7810-41fd-bc43-fd781041fdd5</guid>
+      <pubDate>Thu, 01 Oct 2026 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/3e7c43fd-7810-41fd-bc43-fd781041fdd5_1_ID192MP3.mp3" type="audio/mpeg" length="77995052"></enclosure>
+      <itunes:title>Trumps USA: Hva er bra med Donald Trump?</itunes:title>
+      <itunes:summary>Han er sterkt omstridt. Han fremstår impulsstyrt og vil ha ting gjort. Ukas episode utforsker hvordan det kan gavne USA.</itunes:summary>
+      <itunes:duration>3249</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hRFOFTdWhz4k5v9Jg2t-eg8-xQN_qxdL00tAIMc91A7Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Hvordan omfavne høsten?</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_92100842-a6ff-42c3-9008-42a6ff92c33b</link>

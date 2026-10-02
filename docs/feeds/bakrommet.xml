@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 20:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:52:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Sjokktap - hva nå Norge?</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_85311449-fbdd-49f4-b114-49fbddc9f4c7</link>
+      <description>Det begynte så bra med ledelse, men så gikk det bare nedover.  Storfavoritt Norge ble knust av Wales. Hvordan kunne dette skje og hva nå?</description>
+      <guid isPermaLink="false">l_85311449-fbdd-49f4-b114-49fbddc9f4c7</guid>
+      <pubDate>Fri, 02 Oct 2026 02:52:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/85311449-fbdd-49f4-b114-49fbddc9f4c7_1_ID192MP3.mp3" type="audio/mpeg" length="65497004"></enclosure>
+      <itunes:title>Sjokktap - hva nå Norge?</itunes:title>
+      <itunes:summary>Det begynte så bra med ledelse, men så gikk det bare nedover.  Storfavoritt Norge ble knust av Wales. Hvordan kunne dette skje og hva nå?</itunes:summary>
+      <itunes:duration>2728</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>- Klart de snakker om Man City</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_1872d803-0ef3-44e7-b2d8-030ef304e783</link>

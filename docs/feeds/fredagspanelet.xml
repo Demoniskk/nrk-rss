@@ -6,7 +6,7 @@
     <description>Vi oppsummerer kulturuka hver fredag, med faste, friske og freidige paneldeltakere.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/fredagspanelet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Fredagspanelet</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet</link>
     </image>
+    <item>
+      <title>Fra Haaland til Norge Rundt</title>
+      <link>https://radio.nrk.no/podkast/fredagspanelet/l_4ba8f80f-1cd1-46ba-a8f8-0f1cd106ba7e</link>
+      <description>Krise i norsk film- og TV-bransje,&#xA;Erling Braut Haaland saksøker Norwegian - og &#xA;Norge Rundt feirer 50år.</description>
+      <guid isPermaLink="false">l_4ba8f80f-1cd1-46ba-a8f8-0f1cd106ba7e</guid>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/4ba8f80f-1cd1-46ba-a8f8-0f1cd106ba7e_1_ID192MP3.mp3" type="audio/mpeg" length="16777196"></enclosure>
+      <itunes:title>Fra Haaland til Norge Rundt</itunes:title>
+      <itunes:summary>Krise i norsk film- og TV-bransje,&#xA;Erling Braut Haaland saksøker Norwegian - og &#xA;Norge Rundt feirer 50år.</itunes:summary>
+      <itunes:duration>698</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Nasjonalgalleriet, bibliotek og Ed Sheeran</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet/l_86fa1e25-519d-4463-ba1e-25519dd46373</link>

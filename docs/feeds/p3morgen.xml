@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 07:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Arin vil spise ting som ikke er mat</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_77f5c71b-96aa-45a6-97cf-f34f30856864</link>
+      <description>Skal det å spotte røde flagg bli pensum? Vi diskuterer hva vi gjerne skulle lært på skolen. Jonas forteller om eventyret på isfabrikken, og vi smaker hans kreasjoner. </description>
+      <guid isPermaLink="false">l_77f5c71b-96aa-45a6-97cf-f34f30856864</guid>
+      <pubDate>Fri, 02 Oct 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/77f5c71b-96aa-45a6-97cf-f34f30856864_3a2be746-322c-4d24-9374-a0440498966c_ID192MP3.mp3" type="audio/mpeg" length="64168748"></enclosure>
+      <itunes:title>Arin vil spise ting som ikke er mat</itunes:title>
+      <itunes:summary>Skal det å spotte røde flagg bli pensum? Vi diskuterer hva vi gjerne skulle lært på skolen. Jonas forteller om eventyret på isfabrikken, og vi smaker hans kreasjoner. </itunes:summary>
+      <itunes:duration>2673</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bqNdJfWD8sBhnm7n4ls6LQRcz0luckIo04Lh200ijk5A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
+    <item>
+      <title>Mímir Kristjánsson sitt alter ego</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_531b4b0d-4898-4c81-a7bb-54970497e87e</link>
+      <description>Bytter du personlighet når du er på fylla? Vi må diskutere om det er innafor eller bare kleint. Vi skal også prate fotball med Mímir Kristjánsson!</description>
+      <guid isPermaLink="false">l_531b4b0d-4898-4c81-a7bb-54970497e87e</guid>
+      <pubDate>Thu, 01 Oct 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/531b4b0d-4898-4c81-a7bb-54970497e87e_66769135-26c0-4395-951e-3b6ebdb5f54c_ID192MP3.mp3" type="audio/mpeg" length="63433196"></enclosure>
+      <itunes:title>Mímir Kristjánsson sitt alter ego</itunes:title>
+      <itunes:summary>Bytter du personlighet når du er på fylla? Vi må diskutere om det er innafor eller bare kleint. Vi skal også prate fotball med Mímir Kristjánsson!</itunes:summary>
+      <itunes:duration>2642</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xpuemwzkapBuV_AkNFtuigN2PjZuX1C6gyT5EfjP5Nsg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Når blir en quiz en quiz</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_f88ca78c-0c24-4e24-8836-2471564e02d8</link>

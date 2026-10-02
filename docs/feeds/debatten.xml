@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 20:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:55:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Hva har vi lært av Epstein-høringene?</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_418706a6-e94a-4373-8706-a6e94a037365</link>
+      <description>Kritikere mener Epstein-høringene på Stortinget var en dårlig ide. Høringens leder svarer.</description>
+      <guid isPermaLink="false">l_418706a6-e94a-4373-8706-a6e94a037365</guid>
+      <pubDate>Thu, 01 Oct 2026 21:55:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/418706a6-e94a-4373-8706-a6e94a037365_1_ID192MP3.mp3" type="audio/mpeg" length="44691884"></enclosure>
+      <itunes:title>Hva har vi lært av Epstein-høringene?</itunes:title>
+      <itunes:summary>Kritikere mener Epstein-høringene på Stortinget var en dårlig ide. Høringens leder svarer.</itunes:summary>
+      <itunes:duration>1862</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KR5Me4wc_rLu38mN_-JDgQAhhvVI_KVRK9JfIm8Y2bJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Har du dårligere råd, eller er det bare føleri?</title>
       <link>https://radio.nrk.no/podkast/debatten/l_324cddac-cde6-4f05-8cdd-accde68f0535</link>

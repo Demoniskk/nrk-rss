@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Høytlesning om delfinsex</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_6e4d4359-1f3d-478b-8d43-591f3d778b18</link>
+      <description>Markus har peaket med ordspill, vi har høytlesning om delfinsex og Anna forklarer at alle har et søskenbarn på Gjøvik.</description>
+      <guid isPermaLink="false">l_6e4d4359-1f3d-478b-8d43-591f3d778b18</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/6e4d4359-1f3d-478b-8d43-591f3d778b18_1_ID192MP3.mp3" type="audio/mpeg" length="63019628"></enclosure>
+      <itunes:title>Høytlesning om delfinsex</itunes:title>
+      <itunes:summary>Markus har peaket med ordspill, vi har høytlesning om delfinsex og Anna forklarer at alle har et søskenbarn på Gjøvik.</itunes:summary>
+      <itunes:duration>2625</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Er humor fra 40-tallet gøy?</title>
       <link>https://radio.nrk.no/podkast/siesta/l_6edc1544-19f5-4fba-9c15-4419f57fbaff</link>

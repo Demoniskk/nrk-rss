@@ -6,7 +6,7 @@
     <description>Bli med ut i verden. Hør historiene og få forklaringene fra Norges største utenriksredaksjon.&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verden_paa_loerdag.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Urix</title>
       <link>https://radio.nrk.no/podkast/verden_paa_loerdag</link>
     </image>
+    <item>
+      <title>USA: Da KI kom til bygda</title>
+      <link>https://radio.nrk.no/podkast/verden_paa_loerdag/l_94b121d9-6a55-44dc-b121-d96a5554dc10</link>
+      <description>Donald Trump vil bygge datasentre og knuse Kina med kunstig intelligens. Men Stacy vil ikke ha det i hagen sin.</description>
+      <guid isPermaLink="false">l_94b121d9-6a55-44dc-b121-d96a5554dc10</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/94b121d9-6a55-44dc-b121-d96a5554dc10_1_ID192MP3.mp3" type="audio/mpeg" length="28717676"></enclosure>
+      <itunes:title>USA: Da KI kom til bygda</itunes:title>
+      <itunes:summary>Donald Trump vil bygge datasentre og knuse Kina med kunstig intelligens. Men Stacy vil ikke ha det i hagen sin.</itunes:summary>
+      <itunes:duration>1196</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-N6gRZL6viOOc47YP9EPBwbDcr9595HBQ4PhnFxzJFNA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>USA: Til krig mot mediene</title>
       <link>https://radio.nrk.no/podkast/verden_paa_loerdag/l_d044ebb8-c134-4f61-84eb-b8c1344f61be</link>

@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title>Russland skremmer Europa</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_ceae0174-0736-4c5f-ae01-7407363c5fbd</link>
+      <description>Hva er det russerne egentlig vil?  Er det et budskap?</description>
+      <guid isPermaLink="false">l_ceae0174-0736-4c5f-ae01-7407363c5fbd</guid>
+      <pubDate>Fri, 02 Oct 2026 10:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ceae0174-0736-4c5f-ae01-7407363c5fbd_1_ID192MP3.mp3" type="audio/mpeg" length="27514412"></enclosure>
+      <itunes:title>Russland skremmer Europa</itunes:title>
+      <itunes:summary>Hva er det russerne egentlig vil?  Er det et budskap?</itunes:summary>
+      <itunes:duration>1146</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Ondskapens banalitet</title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_9adc8586-7cea-473a-9c85-867cea573a81</link>

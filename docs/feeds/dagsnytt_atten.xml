@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Siste dag med Epstein-høring i Stortinget</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_649c22d9-e6d4-46cd-8ca1-25dbd707bb52</link>
+      <description> Hva fikk vi egentlig ut av de ni tidligere og to nåværende ministrene sine forklaringer?</description>
+      <guid isPermaLink="false">l_649c22d9-e6d4-46cd-8ca1-25dbd707bb52</guid>
+      <pubDate>Thu, 01 Oct 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/649c22d9-e6d4-46cd-8ca1-25dbd707bb52_c0c90972-d6c2-4e73-98ed-874c4e208127_ID192MP3.mp3" type="audio/mpeg" length="85053932"></enclosure>
+      <itunes:title>Siste dag med Epstein-høring i Stortinget</itunes:title>
+      <itunes:summary> Hva fikk vi egentlig ut av de ni tidligere og to nåværende ministrene sine forklaringer?</itunes:summary>
+      <itunes:duration>3543</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/g-54ix3foFvpamyy7R4zXwldMYrFW5Fw_tNZnpWF5MYA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Epstein-høring i Stortinget</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_08d3d113-e461-423d-9823-cb97f0422467</link>

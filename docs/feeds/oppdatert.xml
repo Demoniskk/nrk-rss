@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Bolsonaro bak murene: Kan han påvirke valget?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_d6e5e5c3-db50-4b65-a5e5-c3db502b656b</link>
+      <description>Lenge var Jair Bolsonaro den mektigste i Brasil. Nå vil sønnen gå i hans fotspor.</description>
+      <guid isPermaLink="false">l_d6e5e5c3-db50-4b65-a5e5-c3db502b656b</guid>
+      <pubDate>Fri, 02 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/d6e5e5c3-db50-4b65-a5e5-c3db502b656b_1_ID192MP3.mp3" type="audio/mpeg" length="30255596"></enclosure>
+      <itunes:title>Bolsonaro bak murene: Kan han påvirke valget?</itunes:title>
+      <itunes:summary>Lenge var Jair Bolsonaro den mektigste i Brasil. Nå vil sønnen gå i hans fotspor.</itunes:summary>
+      <itunes:duration>1260</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GyKZItmGXtkqudKJS362-Q-POE4eC8PTiC78omQe5dRg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Springsteens protestfest: I strupen på Trump</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_b672bb49-bd5d-4aac-b2bb-49bd5d7aacd5</link>

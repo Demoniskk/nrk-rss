@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Boktober, rap battle og sparkesykkel som hobby</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_2da404e8-3668-4a6e-a404-e836685a6e51</link>
+      <description>Shady og Lil Fyne Shyt er på micen. &#xA;&#xA;Send oss en melding med hvilken bok du vil lese med oss! :)</description>
+      <guid isPermaLink="false">l_2da404e8-3668-4a6e-a404-e836685a6e51</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/2da404e8-3668-4a6e-a404-e836685a6e51_1_ID192MP3.mp3" type="audio/mpeg" length="76220972"></enclosure>
+      <itunes:title>Boktober, rap battle og sparkesykkel som hobby</itunes:title>
+      <itunes:summary>Shady og Lil Fyne Shyt er på micen. &#xA;&#xA;Send oss en melding med hvilken bok du vil lese med oss! :)</itunes:summary>
+      <itunes:duration>3175</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Anoreksi, regulering og studio-navn</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_c5296590-c058-4b34-a965-90c0588b34d1</link>

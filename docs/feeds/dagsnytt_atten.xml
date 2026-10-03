@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Har folk fått dårligere råd, eller bare føles det sånn?</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_c3d9bfe7-0a66-4941-ac97-e3dbdd78ee7a</link>
+      <description>Vi må akseptere at folk har fått det verre, sier en sjefsøkonom. Tallene viser det motsatte, sier en annen.</description>
+      <guid isPermaLink="false">l_c3d9bfe7-0a66-4941-ac97-e3dbdd78ee7a</guid>
+      <pubDate>Fri, 02 Oct 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c3d9bfe7-0a66-4941-ac97-e3dbdd78ee7a_53c03f2e-357e-4576-88a0-44b430bdeb4f_ID192MP3.mp3" type="audio/mpeg" length="85038380"></enclosure>
+      <itunes:title>Har folk fått dårligere råd, eller bare føles det sånn?</itunes:title>
+      <itunes:summary>Vi må akseptere at folk har fått det verre, sier en sjefsøkonom. Tallene viser det motsatte, sier en annen.</itunes:summary>
+      <itunes:duration>3543</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Okj8iFf2GgLg17Nyu63rPwWdPleB4ljN2mRtyQkoXs-w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Siste dag med Epstein-høring i Stortinget</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_649c22d9-e6d4-46cd-8ca1-25dbd707bb52</link>

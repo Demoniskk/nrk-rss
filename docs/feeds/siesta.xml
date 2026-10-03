@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Daniel intervjuer Gaute Skjervø</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_3df49e84-fdd5-45be-b49e-84fdd555be13</link>
+      <description>Det blir ellevill karoke i Quizvang, hvem kommer til å skjelle ut noen i offentligheten og det blir trønderspesial i revolverintervju.</description>
+      <guid isPermaLink="false">l_3df49e84-fdd5-45be-b49e-84fdd555be13</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3df49e84-fdd5-45be-b49e-84fdd555be13_1_ID192MP3.mp3" type="audio/mpeg" length="72667628"></enclosure>
+      <itunes:title>Daniel intervjuer Gaute Skjervø</itunes:title>
+      <itunes:summary>Det blir ellevill karoke i Quizvang, hvem kommer til å skjelle ut noen i offentligheten og det blir trønderspesial i revolverintervju.</itunes:summary>
+      <itunes:duration>3027</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/n3sfYURZWc8DqrcpvhKgaAeuECSb7ZqAQ5tS6hDyFFbw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Høytlesning om delfinsex</title>
       <link>https://radio.nrk.no/podkast/siesta/l_6e4d4359-1f3d-478b-8d43-591f3d778b18</link>

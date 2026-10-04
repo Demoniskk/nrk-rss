@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 22:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 22:01:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Dette venter Norge mot Portugal</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_2d1a9c55-ff95-44da-9a9c-55ff9524da71</link>
+      <description>Tapet på Ullevål var bittert. Nå er det kamp igjen og Norge har sjansen til å ta revansj. Portugiserne frykter høye, blonde spillere, mens Portugal har fått Bruno Fernandes tilbake og det kan bli skummelt.</description>
+      <guid isPermaLink="false">l_2d1a9c55-ff95-44da-9a9c-55ff9524da71</guid>
+      <pubDate>Sun, 04 Oct 2026 00:01:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/2d1a9c55-ff95-44da-9a9c-55ff9524da71_1_ID192MP3.mp3" type="audio/mpeg" length="47217644"></enclosure>
+      <itunes:title>Dette venter Norge mot Portugal</itunes:title>
+      <itunes:summary>Tapet på Ullevål var bittert. Nå er det kamp igjen og Norge har sjansen til å ta revansj. Portugiserne frykter høye, blonde spillere, mens Portugal har fått Bruno Fernandes tilbake og det kan bli skummelt.</itunes:summary>
+      <itunes:duration>1967</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Heksejakt på Nyland?</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_6e595c26-8caa-4b9c-995c-268caa0b9c4c</link>

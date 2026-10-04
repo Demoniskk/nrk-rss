@@ -6,7 +6,7 @@
     <description>Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 26 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ukeslutt</title>
       <link>https://radio.nrk.no/podkast/ukeslutt</link>
     </image>
+    <item>
+      <title>Laila Goody spiller mora til Benjamin</title>
+      <link>https://radio.nrk.no/podkast/ukeslutt/l_fbf65acb-b3ef-4a5b-b65a-cbb3ef6a5bf7</link>
+      <description>- Noen scener prega meg mer enn vanlig.</description>
+      <guid isPermaLink="false">l_fbf65acb-b3ef-4a5b-b65a-cbb3ef6a5bf7</guid>
+      <pubDate>Sat, 03 Oct 2026 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/fbf65acb-b3ef-4a5b-b65a-cbb3ef6a5bf7_1_ID192MP3.mp3" type="audio/mpeg" length="93113324"></enclosure>
+      <itunes:title>Laila Goody spiller mora til Benjamin</itunes:title>
+      <itunes:summary>- Noen scener prega meg mer enn vanlig.</itunes:summary>
+      <itunes:duration>3879</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uYbiZ8ReIpOpsVILxZW8AAUgXx7YQOxRG-nf-NfZ7z2g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Hva gjør en by god å bo i?</title>
       <link>https://radio.nrk.no/podkast/ukeslutt/l_58c0014b-8514-411f-8001-4b8514011fa8</link>

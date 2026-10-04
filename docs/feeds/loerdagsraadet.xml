@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 26 Sep 2026 11:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Kinamat og familievernkontor</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_5b3e045f-64d8-4dbe-be04-5f64d80dbee3</link>
+      <description>Vi lærer mer om kinamat og om tilbudet til familievernkontorene rundt om i landet!</description>
+      <guid isPermaLink="false">l_5b3e045f-64d8-4dbe-be04-5f64d80dbee3</guid>
+      <pubDate>Sun, 04 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/5b3e045f-64d8-4dbe-be04-5f64d80dbee3_1_ID192MP3.mp3" type="audio/mpeg" length="31335020"></enclosure>
+      <itunes:title>Kinamat og familievernkontor</itunes:title>
+      <itunes:summary>Vi lærer mer om kinamat og om tilbudet til familievernkontorene rundt om i landet!</itunes:summary>
+      <itunes:duration>1305</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
+    <item>
+      <title>Linnéa Myhre / Sindre Reinholt / Amalie Stuve</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_b029b769-0d80-41ec-a9b7-690d8061ece1</link>
+      <description>TILBAKEMELDING: Hvordan ble antibryllupsdagen? / PROBLEMER: My big fat cheap wedding / Anbefale slutty bøker? / Usikker på det som har vært planen hele tiden / Alle elsker triatlon / Bo alene eller i kollektiv etter brudd / Burde jeg kjempe? / Hvordan blir jeg litt rausere? / Kjæresten min henger alene med eksen</description>
+      <guid isPermaLink="false">l_b029b769-0d80-41ec-a9b7-690d8061ece1</guid>
+      <pubDate>Sat, 03 Oct 2026 14:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/b029b769-0d80-41ec-a9b7-690d8061ece1_1_ID192MP3.mp3" type="audio/mpeg" length="206489708"></enclosure>
+      <itunes:title>Linnéa Myhre / Sindre Reinholt / Amalie Stuve</itunes:title>
+      <itunes:summary>TILBAKEMELDING: Hvordan ble antibryllupsdagen? / PROBLEMER: My big fat cheap wedding / Anbefale slutty bøker? / Usikker på det som har vært planen hele tiden / Alle elsker triatlon / Bo alene eller i kollektiv etter brudd / Burde jeg kjempe? / Hvordan blir jeg litt rausere? / Kjæresten min henger alene med eksen</itunes:summary>
+      <itunes:duration>8603</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JQK7jHw8nqzisODcHetw1wJ2JzHMCnATVVrwVXF2ltXw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Geir «Fenriken» Aker / Martha Leivestad / Odd Nordstoga</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_387fd908-2668-4f46-bfd9-0826686f466e</link>

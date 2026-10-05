@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Smarttelefon fører til færre fødsler</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_50077ba6-5d3c-48d8-877b-a65d3c98d8db</link>
+      <description>Forskere ser en sammenheng. Dessuten, KI må hallusinere mye mer, og en ny katteart er oppdaget</description>
+      <guid isPermaLink="false">l_50077ba6-5d3c-48d8-877b-a65d3c98d8db</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/50077ba6-5d3c-48d8-877b-a65d3c98d8db_1_ID192MP3.mp3" type="audio/mpeg" length="46357676"></enclosure>
+      <itunes:title>Smarttelefon fører til færre fødsler</itunes:title>
+      <itunes:summary>Forskere ser en sammenheng. Dessuten, KI må hallusinere mye mer, og en ny katteart er oppdaget</itunes:summary>
+      <itunes:duration>1931</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Hva er inni et datasenter?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_a8269b66-0e44-490d-a69b-660e44390d40</link>

@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 08:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title>Hvorfor er noen imot vaksine?</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_86ce7dc0-d6c6-4f14-8e7d-c0d6c61f1484</link>
+      <description>Det handler ikke alltid om manglende kunnskap.</description>
+      <guid isPermaLink="false">l_86ce7dc0-d6c6-4f14-8e7d-c0d6c61f1484</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/86ce7dc0-d6c6-4f14-8e7d-c0d6c61f1484_1_ID192MP3.mp3" type="audio/mpeg" length="22503788"></enclosure>
+      <itunes:title>Hvorfor er noen imot vaksine?</itunes:title>
+      <itunes:summary>Det handler ikke alltid om manglende kunnskap.</itunes:summary>
+      <itunes:duration>937</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Russland skremmer Europa</title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_ceae0174-0736-4c5f-ae01-7407363c5fbd</link>

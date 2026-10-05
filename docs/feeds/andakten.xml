@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Kongen - Jan Erik Larssen</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_4102604a-898e-48a0-a209-77f625165305</link>
+      <description>Mange av oss har gode minner om et møte med Kong Harald. Det har også Jan Erik Larssen.</description>
+      <guid isPermaLink="false">l_4102604a-898e-48a0-a209-77f625165305</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/4102604a-898e-48a0-a209-77f625165305_9ad065c8-a5fc-4086-807b-e9c27f90ba80_ID192MP3.mp3" type="audio/mpeg" length="5259500"></enclosure>
+      <itunes:title>Kongen - Jan Erik Larssen</itunes:title>
+      <itunes:summary>Mange av oss har gode minner om et møte med Kong Harald. Det har også Jan Erik Larssen.</itunes:summary>
+      <itunes:duration>219</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vauVz0tjzFuCJhp2fkZBCQtaz3AQBjNG_2eP8HBghR-Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Håpet - Kristin Saxegaard</title>
       <link>https://radio.nrk.no/podkast/andakten/l_b5753788-f879-4361-b0d7-72672dffdad6</link>

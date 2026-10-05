@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:05:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Siste nytt om dobbeldrapet i Halden</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_55c3097f-a736-45f2-8309-7fa736b5f268</link>
+      <description>Og USA har hentet hjem alle bombeflyene sine fra en britisk flybase.</description>
+      <guid isPermaLink="false">l_55c3097f-a736-45f2-8309-7fa736b5f268</guid>
+      <pubDate>Mon, 05 Oct 2026 06:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/55c3097f-a736-45f2-8309-7fa736b5f268_1_ID192MP3.mp3" type="audio/mpeg" length="9604844"></enclosure>
+      <itunes:title>Siste nytt om dobbeldrapet i Halden</itunes:title>
+      <itunes:summary>Og USA har hentet hjem alle bombeflyene sine fra en britisk flybase.</itunes:summary>
+      <itunes:duration>400</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gOYvCWtbEIvuu2ULKOQozgIIfJNPC_mf0Feo6SpvPCow"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Fotball-nedtur i Wales</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_2adcafd7-1b81-40b2-9caf-d71b81e0b22a</link>

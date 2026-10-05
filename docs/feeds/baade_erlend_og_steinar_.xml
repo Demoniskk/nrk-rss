@@ -6,7 +6,7 @@
     <description>En tenketank for folk med lav intelligens.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baade_erlend_og_steinar_.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Både Erlend og Steinar </title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
     </image>
+    <item>
+      <title>Intellektuell kullosforgiftning</title>
+      <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_d7e86a7c-27bf-4480-a86a-7c27bf248054</link>
+      <description>Har dommedag alltid vært ti år unna? Hva bør du gjøre hvis du er den minst likte i vennegjengen? Og en lytter rører Erlend og Steinar med sin historie.</description>
+      <guid isPermaLink="false">l_d7e86a7c-27bf-4480-a86a-7c27bf248054</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/d7e86a7c-27bf-4480-a86a-7c27bf248054_5_ID192MP3.mp3" type="audio/mpeg" length="94700204"></enclosure>
+      <itunes:title>Intellektuell kullosforgiftning</itunes:title>
+      <itunes:summary>Har dommedag alltid vært ti år unna? Hva bør du gjøre hvis du er den minst likte i vennegjengen? Og en lytter rører Erlend og Steinar med sin historie.</itunes:summary>
+      <itunes:duration>3945</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>PISA-taperne versus superintelligens</title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_a89216d6-13d1-4048-9216-d613d1e0482a</link>

@@ -6,7 +6,7 @@
     <description>Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kilder_til_begeistring.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kilder til begeistring</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring</link>
     </image>
+    <item>
+      <title>Nesespray</title>
+      <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_853d275b-c1cc-4ef8-bd27-5bc1ccdef890</link>
+      <description>En tett nese er på mange måter en øvelse i takknemlighet. For med ett blir det så tydelig hva vi ellers tar for gitt.</description>
+      <guid isPermaLink="false">l_853d275b-c1cc-4ef8-bd27-5bc1ccdef890</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kilder_til_begeistring/853d275b-c1cc-4ef8-bd27-5bc1ccdef890_1_ID192MP3.mp3" type="audio/mpeg" length="1991276"></enclosure>
+      <itunes:title>Nesespray</itunes:title>
+      <itunes:summary>En tett nese er på mange måter en øvelse i takknemlighet. For med ett blir det så tydelig hva vi ellers tar for gitt.</itunes:summary>
+      <itunes:duration>82</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QhHyiatWgYU2Njo7M_hRmw6KGE2JeBlWmyk-SQcJRnQw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Kart</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_317d4906-07d8-44f9-bd49-0607d8a4f9a6</link>

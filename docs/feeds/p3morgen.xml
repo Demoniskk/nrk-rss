@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Bli hos meg-Dina konfronterer Jonas!</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_679b0213-29f2-4985-bc07-37046da823ec</link>
+      <description>Jonas har spredd falske rykter om artisten bak låta &#34;Bli hos meg&#34;. Dina kommer på besøk til oss for å få ryddet opp i dette og motbevise ryktene. I tillegg diskuterer vi hvor terskelen for å ta smertestillende går. Er du en av de som tar en paracet om du føler deg litt pjusk, eller må du være døden nær før du rører smertestillende?</description>
+      <guid isPermaLink="false">l_679b0213-29f2-4985-bc07-37046da823ec</guid>
+      <pubDate>Mon, 05 Oct 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/679b0213-29f2-4985-bc07-37046da823ec_d96a4ff7-68c3-4cf0-8d61-de0e4fd9e7d8_ID192MP3.mp3" type="audio/mpeg" length="63362348"></enclosure>
+      <itunes:title>Bli hos meg-Dina konfronterer Jonas!</itunes:title>
+      <itunes:summary>Jonas har spredd falske rykter om artisten bak låta &#34;Bli hos meg&#34;. Dina kommer på besøk til oss for å få ryddet opp i dette og motbevise ryktene. I tillegg diskuterer vi hvor terskelen for å ta smertestillende går. Er du en av de som tar en paracet om du føler deg litt pjusk, eller må du være døden nær før du rører smertestillende?</itunes:summary>
+      <itunes:duration>2640</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4jCbxQuaSz8rut0097mLUQH36G1Udil6yrZ_HNHkLURQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Arin vil spise ting som ikke er mat</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_77f5c71b-96aa-45a6-97cf-f34f30856864</link>

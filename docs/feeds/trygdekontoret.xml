@@ -6,7 +6,7 @@
     <description>Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Trygdekontoret</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret</link>
     </image>
+    <item>
+      <title>KI-søl</title>
+      <link>https://radio.nrk.no/podkast/trygdekontoret/l_5ea712cf-3449-4b5b-a712-cf3449bb5bfb</link>
+      <description>Kunstig Intelligens spiser opp kulturen vår! Det er på tide å si ifra, mener tegner Flu Hartberg.</description>
+      <guid isPermaLink="false">l_5ea712cf-3449-4b5b-a712-cf3449bb5bfb</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/5ea712cf-3449-4b5b-a712-cf3449bb5bfb_1_ID192MP3.mp3" type="audio/mpeg" length="83608748"></enclosure>
+      <itunes:title>KI-søl</itunes:title>
+      <itunes:summary>Kunstig Intelligens spiser opp kulturen vår! Det er på tide å si ifra, mener tegner Flu Hartberg.</itunes:summary>
+      <itunes:duration>3483</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Y7ez-VxY9yjnhG8FUHBAHw54acRkMohzBZ6x4qc-5CZA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Naturdøden</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret/l_ef20d35b-11c5-43b8-a0d3-5b11c503b8b7</link>

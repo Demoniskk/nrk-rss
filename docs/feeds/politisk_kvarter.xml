@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Ein billig plass å bu</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_bfb84249-a4c8-40d6-b4a3-0425e131977d</link>
+      <description>Korleis kan vi få bygd fleire billige bustader for unge vaksne?</description>
+      <guid isPermaLink="false">l_bfb84249-a4c8-40d6-b4a3-0425e131977d</guid>
+      <pubDate>Mon, 05 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/bfb84249-a4c8-40d6-b4a3-0425e131977d_852d1cb7-9696-406b-a95b-f45ab717f3da_ID192MP3.mp3" type="audio/mpeg" length="21460076"></enclosure>
+      <itunes:title>Ein billig plass å bu</itunes:title>
+      <itunes:summary>Korleis kan vi få bygd fleire billige bustader for unge vaksne?</itunes:summary>
+      <itunes:duration>894</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kvIJnEHCMjcpdq2pS68JDgUpLhUUDJ-E1qNHT0xNiCng"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Fem flyplasser fredes</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_e13ab57e-1f24-482a-a22e-1b7e89fd23c5</link>

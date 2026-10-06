@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Hjerte/smerte</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_410e897f-f6ac-4260-8e46-a35a77e076ad</link>
+      <description>Det er hardt å bli dumpa. Galvan, Anders og Alon gir råd til deg med kjærlighetssorg. Og hjelper noen andre morrapulere også.</description>
+      <guid isPermaLink="false">l_410e897f-f6ac-4260-8e46-a35a77e076ad</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/410e897f-f6ac-4260-8e46-a35a77e076ad_ec8c7e20-ceb7-47c8-8adf-7067838cac6c_ID192MP3.mp3" type="audio/mpeg" length="44805932"></enclosure>
+      <itunes:title>Hjerte/smerte</itunes:title>
+      <itunes:summary>Det er hardt å bli dumpa. Galvan, Anders og Alon gir råd til deg med kjærlighetssorg. Og hjelper noen andre morrapulere også.</itunes:summary>
+      <itunes:duration>1866</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Voksenkjeft</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_5d4e9e7f-dac9-4449-8e83-2d3a2c16bdd3</link>

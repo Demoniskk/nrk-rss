@@ -6,7 +6,7 @@
     <description>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Krimrommet</title>
       <link>https://radio.nrk.no/podkast/krimrommet</link>
     </image>
+    <item>
+      <title>Jaktdrapet i Halden: Dette vet vi</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_14515e38-bab5-4b18-915e-38bab5ab18a6</link>
+      <description>Søndag morgen våkner Halden opp til drapsalarm. To voksne menn, far og sønn, har mistet livet. Men ble de tilfeldig utvalgt?</description>
+      <guid isPermaLink="false">l_14515e38-bab5-4b18-915e-38bab5ab18a6</guid>
+      <pubDate>Mon, 05 Oct 2026 19:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/14515e38-bab5-4b18-915e-38bab5ab18a6_1_ID192MP3.mp3" type="audio/mpeg" length="21471596"></enclosure>
+      <itunes:title>Jaktdrapet i Halden: Dette vet vi</itunes:title>
+      <itunes:summary>Søndag morgen våkner Halden opp til drapsalarm. To voksne menn, far og sønn, har mistet livet. Men ble de tilfeldig utvalgt?</itunes:summary>
+      <itunes:duration>894</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kQe-RoEu715lE0wqGFV20Q7XZN4zLZjMxfh1lBHhGW4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Realitystjerne drept: Var det sjalusi?</title>
       <link>https://radio.nrk.no/podkast/krimrommet/l_e86973b2-5c57-473e-a973-b25c57573efb</link>

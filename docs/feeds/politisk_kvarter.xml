@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Fakta og følelser i økonomien </title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_1e7a8875-8697-4ba6-9609-265794dc96c3</link>
+      <description>Tar økonomene feil når de sier folk flest har fått mer å rutte med? Rødt-lederen tror mer på folk som sier de har fått trangere økonomi. Hun velger føleri framfor fakta, advarer MDG. </description>
+      <guid isPermaLink="false">l_1e7a8875-8697-4ba6-9609-265794dc96c3</guid>
+      <pubDate>Tue, 06 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/1e7a8875-8697-4ba6-9609-265794dc96c3_c2cf0e66-daa6-47f1-926b-e65ebebf17da_ID192MP3.mp3" type="audio/mpeg" length="21887468"></enclosure>
+      <itunes:title>Fakta og følelser i økonomien </itunes:title>
+      <itunes:summary>Tar økonomene feil når de sier folk flest har fått mer å rutte med? Rødt-lederen tror mer på folk som sier de har fått trangere økonomi. Hun velger føleri framfor fakta, advarer MDG. </itunes:summary>
+      <itunes:duration>911</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lxI9mfpbk6mnZIMt114BlQriwawby1_o1_sz5tuD4caA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Ein billig plass å bu</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_bfb84249-a4c8-40d6-b4a3-0425e131977d</link>

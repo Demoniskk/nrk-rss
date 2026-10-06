@@ -6,7 +6,7 @@
     <description>En ukentlig flukt fra hverdagen! Sketsjer, hyss og spik med Christian Mikkelsen, Olav Svarstad Haugland og Emil Berntsen.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/blaatur.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Blåtur</title>
       <link>https://radio.nrk.no/podkast/blaatur</link>
     </image>
+    <item>
+      <title>Jeg kommer ikke inn i jenta mi</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_92a37700-8aa5-40f9-a377-008aa580f98f</link>
+      <description>Olav har gjenopplevd et barndomstraume. Vi gjør vår egen vri på &#34;Boktober&#34;. Christian er svett.</description>
+      <guid isPermaLink="false">l_92a37700-8aa5-40f9-a377-008aa580f98f</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/92a37700-8aa5-40f9-a377-008aa580f98f_1_ID192MP3.mp3" type="audio/mpeg" length="58034348"></enclosure>
+      <itunes:title>Jeg kommer ikke inn i jenta mi</itunes:title>
+      <itunes:summary>Olav har gjenopplevd et barndomstraume. Vi gjør vår egen vri på &#34;Boktober&#34;. Christian er svett.</itunes:summary>
+      <itunes:duration>2418</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Har du lyst, har du lov</title>
       <link>https://radio.nrk.no/podkast/blaatur/l_b58d3fd1-f0c9-4110-8d3f-d1f0c9c1104d</link>

@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Mari Monsson klemmer ikke</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_57a08361-2e34-41ba-a083-612e34e1ba98</link>
+      <description>Daniel har en cucking-stol, Anna har sølt vann i sofaen og Markus konfronterer Mari Monsson fra nitimen.</description>
+      <guid isPermaLink="false">l_57a08361-2e34-41ba-a083-612e34e1ba98</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/57a08361-2e34-41ba-a083-612e34e1ba98_1_ID192MP3.mp3" type="audio/mpeg" length="62741420"></enclosure>
+      <itunes:title>Mari Monsson klemmer ikke</itunes:title>
+      <itunes:summary>Daniel har en cucking-stol, Anna har sølt vann i sofaen og Markus konfronterer Mari Monsson fra nitimen.</itunes:summary>
+      <itunes:duration>2614</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Daniel intervjuer Gaute Skjervø</title>
       <link>https://radio.nrk.no/podkast/siesta/l_3df49e84-fdd5-45be-b49e-84fdd555be13</link>

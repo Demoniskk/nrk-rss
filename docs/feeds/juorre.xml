@@ -6,7 +6,7 @@
     <description>Risstinin li tjielgga vuojno masi ájggu. Le gus A4-iellem buoremus viessomvuohke, jali ij la huoman nav buorre gåk gullu? Se i NRK TV.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/juorre.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Juorre</title>
       <link>https://radio.nrk.no/podkast/juorre</link>
     </image>
+    <item>
+      <title>Sivva manen viessop</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_242a0da1-9076-4e6b-aa0d-a190764e6b2f</link>
+      <description>Mij mijáv måvtåstuhttá juohkka biejve? Rissten viessu biejves bæjvváj, Ailo vuojnná vihtta jage åvddålij guovlluj ja Naima viessu luondo diehti.</description>
+      <guid isPermaLink="false">l_242a0da1-9076-4e6b-aa0d-a190764e6b2f</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/242a0da1-9076-4e6b-aa0d-a190764e6b2f_1_ID192MP3.mp3" type="audio/mpeg" length="31428908"></enclosure>
+      <itunes:title>Sivva manen viessop</itunes:title>
+      <itunes:summary>Mij mijáv måvtåstuhttá juohkka biejve? Rissten viessu biejves bæjvváj, Ailo vuojnná vihtta jage åvddålij guovlluj ja Naima viessu luondo diehti.</itunes:summary>
+      <itunes:duration>1309</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7oTqUFN2rJ_A7v0t6Kg-2w9RkrMGqQ0htOSNu7amGLmw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Guovggisruoppsis vuopta</title>
       <link>https://radio.nrk.no/podkast/juorre/l_f734efe4-8503-447c-b4ef-e48503447caf</link>

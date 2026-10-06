@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Kampen om tysk stoltheit</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_4ffb5822-dd7e-474b-bb58-22dd7e474b2d</link>
+      <description>Partiet AfD stormar fram med eit bodskap om tysk stoltheit. Bør vi heie på den nye nasjonalkjensla, eller er det grunn til uro?</description>
+      <guid isPermaLink="false">l_4ffb5822-dd7e-474b-bb58-22dd7e474b2d</guid>
+      <pubDate>Mon, 05 Oct 2026 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/4ffb5822-dd7e-474b-bb58-22dd7e474b2d_1_ID192MP3.mp3" type="audio/mpeg" length="45568556"></enclosure>
+      <itunes:title>Kampen om tysk stoltheit</itunes:title>
+      <itunes:summary>Partiet AfD stormar fram med eit bodskap om tysk stoltheit. Bør vi heie på den nye nasjonalkjensla, eller er det grunn til uro?</itunes:summary>
+      <itunes:duration>1898</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fdv0J-I1RVtRcc5FNcE2FgXWLVukgT2DeF14XZ-tjaVw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Trumps USA: Hva er bra med Donald Trump?</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_3e7c43fd-7810-41fd-bc43-fd781041fdd5</link>

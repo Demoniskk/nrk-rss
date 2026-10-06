@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Skam - med Ann Helen Kolås Ingebrigtsen</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_930c738f-3790-47a9-af03-b5d7a5c122d7</link>
+      <description>- Eg har båre på ei skam heile livet, fortel forfattaren Ann Helen Kolås Ingebrigtsen.</description>
+      <guid isPermaLink="false">l_930c738f-3790-47a9-af03-b5d7a5c122d7</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/930c738f-3790-47a9-af03-b5d7a5c122d7_d3d820f4-8dab-437e-951c-0b53ab266edc_ID192MP3.mp3" type="audio/mpeg" length="4089068"></enclosure>
+      <itunes:title>Skam - med Ann Helen Kolås Ingebrigtsen</itunes:title>
+      <itunes:summary>- Eg har båre på ei skam heile livet, fortel forfattaren Ann Helen Kolås Ingebrigtsen.</itunes:summary>
+      <itunes:duration>170</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/X2COIk2Hv6DH_Z7r5ijDmQN69LbCSFtAo-oo48HGwXvw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Kulde - med Sunniva Relling Berg</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_644e4eb7-6027-45eb-8d8e-36a88e7a90f0</link>

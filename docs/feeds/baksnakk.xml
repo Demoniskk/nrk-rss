@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Jentenes nyttår, players og Sades venninnedrama</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_c5ad0c07-439c-40b3-ad0c-07439c80b301</link>
+      <description>Hva gjør man når alle vennene dine snur ryggen til deg på grunn av en misforståelse?&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</description>
+      <guid isPermaLink="false">l_c5ad0c07-439c-40b3-ad0c-07439c80b301</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/c5ad0c07-439c-40b3-ad0c-07439c80b301_1_ID192MP3.mp3" type="audio/mpeg" length="56232620"></enclosure>
+      <itunes:title>Jentenes nyttår, players og Sades venninnedrama</itunes:title>
+      <itunes:summary>Hva gjør man når alle vennene dine snur ryggen til deg på grunn av en misforståelse?&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</itunes:summary>
+      <itunes:duration>2342</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Boktober, rap battle og sparkesykkel som hobby</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_2da404e8-3668-4a6e-a404-e836685a6e51</link>

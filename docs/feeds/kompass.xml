@@ -6,7 +6,7 @@
     <description>Pål Plassen utforskar trua, livssynet og verdiane vi navigerer etter i samfunnet.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 04:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:04:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kompass.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kompass</title>
       <link>https://radio.nrk.no/podkast/kompass</link>
     </image>
+    <item>
+      <title>Mitt indre kompass: Helge Hognestad</title>
+      <link>https://radio.nrk.no/podkast/kompass/l_97441620-85bb-45fd-8416-2085bbd5fd91</link>
+      <description>Han var prestestudenten som dro til England og fikk nye ideer. Mennesket er ikke ondt, og Jesus døde ikke for våre synder, mener Helge Hognestad. Nå ser 86-åringen tilbake på et liv i mye motvind.</description>
+      <guid isPermaLink="false">l_97441620-85bb-45fd-8416-2085bbd5fd91</guid>
+      <pubDate>Mon, 05 Oct 2026 06:04:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/97441620-85bb-45fd-8416-2085bbd5fd91_1_ID192MP3.mp3" type="audio/mpeg" length="45194732"></enclosure>
+      <itunes:title>Mitt indre kompass: Helge Hognestad</itunes:title>
+      <itunes:summary>Han var prestestudenten som dro til England og fikk nye ideer. Mennesket er ikke ondt, og Jesus døde ikke for våre synder, mener Helge Hognestad. Nå ser 86-åringen tilbake på et liv i mye motvind.</itunes:summary>
+      <itunes:duration>1883</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Q9OD1VAzr1AO3XH9vVby8w3nr7zAbCDt-A67TG3If6tg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Mitt indre kompass: Ingrid Bjørnov</title>
       <link>https://radio.nrk.no/podkast/kompass/l_07238761-4bfd-4555-a387-614bfd75553f</link>

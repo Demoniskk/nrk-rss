@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 04 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Sophie Elise: Bekreftelse</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_5a545dc0-235a-4da5-945d-c0235a3da5fd</link>
+      <description>Sophie Elise forteller åpent om hvordan hun tidligere har søkt mannlig bekreftelse, og hva som ble vendepunktet.</description>
+      <guid isPermaLink="false">l_5a545dc0-235a-4da5-945d-c0235a3da5fd</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/5a545dc0-235a-4da5-945d-c0235a3da5fd_1_ID192MP3.mp3" type="audio/mpeg" length="78441452"></enclosure>
+      <itunes:title>Sophie Elise: Bekreftelse</itunes:title>
+      <itunes:summary>Sophie Elise forteller åpent om hvordan hun tidligere har søkt mannlig bekreftelse, og hva som ble vendepunktet.</itunes:summary>
+      <itunes:duration>3268</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BcHdT_xOgsetJw4uNpAi3wmhxOXSA14_tQSwKKg5usuQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Panelet: Eskorte og “pudding season”</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_b4625ac9-6cbc-4c71-a25a-c96cbcfc71f8</link>

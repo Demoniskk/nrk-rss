@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 11:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:28:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Lilli Bendriss</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_8aef0977-057e-4bc2-b3cb-86d2ceeae559</link>
+      <description>– Jeg endte opp med å vaske toaletter da jeg kom tilbake til Norge, forteller Åndenes makt-profilen om tiden etter pyramidespillkonkursen. </description>
+      <guid isPermaLink="false">l_8aef0977-057e-4bc2-b3cb-86d2ceeae559</guid>
+      <pubDate>Mon, 05 Oct 2026 14:28:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/8aef0977-057e-4bc2-b3cb-86d2ceeae559_85971cfe-441b-4344-bfa6-5f7efb150213_ID192MP3.mp3" type="audio/mpeg" length="82253420"></enclosure>
+      <itunes:title>Lilli Bendriss</itunes:title>
+      <itunes:summary>– Jeg endte opp med å vaske toaletter da jeg kom tilbake til Norge, forteller Åndenes makt-profilen om tiden etter pyramidespillkonkursen. </itunes:summary>
+      <itunes:duration>3427</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ykVFqAnsrzNUhfu7T5PJsg8dar9k2A-Mm1XOI2ojCqJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Kari Spjeldnæs</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_dd5e3783-eab1-4d77-8450-0a59a04f3be2</link>

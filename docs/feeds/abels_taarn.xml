@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Er gen Z dummere enn sine foreldre?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_641212df-eff4-463f-9212-dfeff4d63f47</link>
+      <description>Eller er testene feil? Dessuten, genetiske bomber er rundt deg. Og nytt romteleskop brukes av alle</description>
+      <guid isPermaLink="false">l_641212df-eff4-463f-9212-dfeff4d63f47</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/641212df-eff4-463f-9212-dfeff4d63f47_1_ID192MP3.mp3" type="audio/mpeg" length="37305836"></enclosure>
+      <itunes:title>Er gen Z dummere enn sine foreldre?</itunes:title>
+      <itunes:summary>Eller er testene feil? Dessuten, genetiske bomber er rundt deg. Og nytt romteleskop brukes av alle</itunes:summary>
+      <itunes:duration>1554</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Smarttelefon fører til færre fødsler</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_50077ba6-5d3c-48d8-877b-a65d3c98d8db</link>

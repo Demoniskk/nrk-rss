@@ -6,7 +6,7 @@
     <description>Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller. &#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bibelen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Bibelen</title>
       <link>https://radio.nrk.no/podkast/bibelen</link>
     </image>
+    <item>
+      <title>Apostlenes gjerninger (38:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_130b3d80-7391-408b-8b3d-807391608b53</link>
+      <description>Hvordan skal gjengen klare seg nå som Jesus har dratt? De får ånden over seg.</description>
+      <guid isPermaLink="false">l_130b3d80-7391-408b-8b3d-807391608b53</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/130b3d80-7391-408b-8b3d-807391608b53_1_ID192MP3.mp3" type="audio/mpeg" length="31761836"></enclosure>
+      <itunes:title>Apostlenes gjerninger (38:40)</itunes:title>
+      <itunes:summary>Hvordan skal gjengen klare seg nå som Jesus har dratt? De får ånden over seg.</itunes:summary>
+      <itunes:duration>1323</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lMEs8aKKysb7EITGDR8IEwA5UHMmH-q67BNY2jV-cDXA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Graven er tom! (37:40)</title>
       <link>https://radio.nrk.no/podkast/bibelen/l_18e0d3fa-e4b9-4ed0-a0d3-fae4b93ed0f0</link>

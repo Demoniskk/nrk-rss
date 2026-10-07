@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Shady Cash - med Terje Torkildsen</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_9a9c6df0-4a10-4f0e-a5e7-d889e71b689c</link>
+      <description>Besteforeldre driver med mye skummelt, forteller Terje Torkildsen.</description>
+      <guid isPermaLink="false">l_9a9c6df0-4a10-4f0e-a5e7-d889e71b689c</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9a9c6df0-4a10-4f0e-a5e7-d889e71b689c_ed62854f-0475-4131-b957-ba3369eeed77_ID192MP3.mp3" type="audio/mpeg" length="3581612"></enclosure>
+      <itunes:title>Shady Cash - med Terje Torkildsen</itunes:title>
+      <itunes:summary>Besteforeldre driver med mye skummelt, forteller Terje Torkildsen.</itunes:summary>
+      <itunes:duration>149</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/X939GbGhjkYdCBR1K3Du1Q-RxV2CoQeE3h6P-VUMk7DA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Skam - med Ann Helen Kolås Ingebrigtsen</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_930c738f-3790-47a9-af03-b5d7a5c122d7</link>

@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Tre år siden krigen mellom Israel og Hamas ble utløst</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_914eae37-4504-4c4d-8eae-374504ac4d2d</link>
+      <description>Og i dag legger regjeringen frem statsbudsjettet for neste år.</description>
+      <guid isPermaLink="false">l_914eae37-4504-4c4d-8eae-374504ac4d2d</guid>
+      <pubDate>Wed, 07 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/914eae37-4504-4c4d-8eae-374504ac4d2d_1_ID192MP3.mp3" type="audio/mpeg" length="9234476"></enclosure>
+      <itunes:title>Tre år siden krigen mellom Israel og Hamas ble utløst</itunes:title>
+      <itunes:summary>Og i dag legger regjeringen frem statsbudsjettet for neste år.</itunes:summary>
+      <itunes:duration>384</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jH-JXuDxh_Zs_VlWbpf_Wwru6K3EApT2PQimm_z0_92g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Demonstrasjoner ved Cornell-universitetet</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_f557dd18-9844-4a6c-97dd-1898448a6cd4</link>

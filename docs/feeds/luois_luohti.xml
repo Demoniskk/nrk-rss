@@ -6,7 +6,7 @@
     <description>Luohti sáhttá govvidit ráhkesvuođa, muhto maiddái unohisvuođaid. Dás guorahallabage luđiid, maiddái olbmuiguin geain leat muitalusat ja vásáhusat.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/luois_luohti.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Luođis luohtái</title>
       <link>https://radio.nrk.no/podkast/luois_luohti</link>
     </image>
+    <item>
+      <title>Luohti ilbmá filbmamáilbmai</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_1abee20e-1f63-4bcb-bee2-0e1f631bcb88</link>
+      <description>Vuosttaš luohtemusikála lea ráhkaduvvon ja dat galgá čájehuvvot viidat máilmmis. Filbmadahkki Elle Sofe Sara galleda sáddaga.</description>
+      <guid isPermaLink="false">l_1abee20e-1f63-4bcb-bee2-0e1f631bcb88</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/1abee20e-1f63-4bcb-bee2-0e1f631bcb88_1_ID192MP3.mp3" type="audio/mpeg" length="60433964"></enclosure>
+      <itunes:title>Luohti ilbmá filbmamáilbmai</itunes:title>
+      <itunes:summary>Vuosttaš luohtemusikála lea ráhkaduvvon ja dat galgá čájehuvvot viidat máilmmis. Filbmadahkki Elle Sofe Sara galleda sáddaga.</itunes:summary>
+      <itunes:duration>2518</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Romssa rittus Ruoŧa čearuide</title>
       <link>https://radio.nrk.no/podkast/luois_luohti/l_1e87c9bf-a776-4c3b-87c9-bfa7767c3b00</link>

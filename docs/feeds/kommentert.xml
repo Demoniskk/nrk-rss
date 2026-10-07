@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 18:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:08:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Cornell-saken: – Kanskje toppen av isfjellet</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_015aa999-9258-4977-ad4d-d8a5271bb798</link>
+      <description>En påstått gjengvoldtekt fra 2024 har skapt fyr og flamme i USA. Først henlagt, nå gjenåpnet: Hva handler Cornell-saken egentlig om? Og hvorfor er folk så sinte?&#xA;&#xA;Og regjeringen vil heve aldersgrensen på elsparkesykkel. Endrer det egentlig noe?</description>
+      <guid isPermaLink="false">l_015aa999-9258-4977-ad4d-d8a5271bb798</guid>
+      <pubDate>Tue, 06 Oct 2026 16:08:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/015aa999-9258-4977-ad4d-d8a5271bb798_bd65a6cf-5fd5-4101-bf70-976df79fc317_ID192MP3.mp3" type="audio/mpeg" length="39888620"></enclosure>
+      <itunes:title>Cornell-saken: – Kanskje toppen av isfjellet</itunes:title>
+      <itunes:summary>En påstått gjengvoldtekt fra 2024 har skapt fyr og flamme i USA. Først henlagt, nå gjenåpnet: Hva handler Cornell-saken egentlig om? Og hvorfor er folk så sinte?&#xA;&#xA;Og regjeringen vil heve aldersgrensen på elsparkesykkel. Endrer det egentlig noe?</itunes:summary>
+      <itunes:duration>1661</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fAfkCdwphuZHBN1qqC2ocAtSTozVrV10lBDJgboMbqrg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Epstein-høring: – Politisk teater og angrende synder</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_fed8cfeb-2847-466a-99e1-420f47ffb935</link>

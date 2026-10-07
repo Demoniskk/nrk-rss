@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 19:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Voldsom økning i norgesprisen på strøm, eller innafor?</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_61913922-67b7-41dc-9139-2267b721dc17</link>
+      <description>Regjeringen øker norgesprisen på strøm, og LO raser. Hvilke alternativer har vi?</description>
+      <guid isPermaLink="false">l_61913922-67b7-41dc-9139-2267b721dc17</guid>
+      <pubDate>Tue, 06 Oct 2026 22:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/61913922-67b7-41dc-9139-2267b721dc17_1_ID192MP3.mp3" type="audio/mpeg" length="58405868"></enclosure>
+      <itunes:title>Voldsom økning i norgesprisen på strøm, eller innafor?</itunes:title>
+      <itunes:summary>Regjeringen øker norgesprisen på strøm, og LO raser. Hvilke alternativer har vi?</itunes:summary>
+      <itunes:duration>2433</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/roTHHx8oWZ2_qjO2EDYtTwIlsmHm5kdxi_ksP4UPin2A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Hva har vi lært av Epstein-høringene?</title>
       <link>https://radio.nrk.no/podkast/debatten/l_418706a6-e94a-4373-8706-a6e94a037365</link>

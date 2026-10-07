@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>«Cornell 7»: Valdtektssaka som rystar USA</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_2d9dcb82-19ce-4207-9dcb-8219ce620724</link>
+      <description>Ei kvinne hevdar å ha blitt dopa og valdtatt av sju menn. No rasar folk i sosiale medium. Kva skjedde på eliteuniversitetet?</description>
+      <guid isPermaLink="false">l_2d9dcb82-19ce-4207-9dcb-8219ce620724</guid>
+      <pubDate>Wed, 07 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/2d9dcb82-19ce-4207-9dcb-8219ce620724_1_ID192MP3.mp3" type="audio/mpeg" length="24564716"></enclosure>
+      <itunes:title>«Cornell 7»: Valdtektssaka som rystar USA</itunes:title>
+      <itunes:summary>Ei kvinne hevdar å ha blitt dopa og valdtatt av sju menn. No rasar folk i sosiale medium. Kva skjedde på eliteuniversitetet?</itunes:summary>
+      <itunes:duration>1023</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fV509HwsQeEOBBnz3oGx9AWst9YRCy7aPKnFGWrHeuIQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Epsteins norske koblinger: Nå er oppvasken i gang</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_91256cca-ae51-47f1-a56c-caae5157f115</link>

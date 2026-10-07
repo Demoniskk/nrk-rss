@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Får du betre råd no?</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_07b161ca-a5c0-4b07-8b9a-c76b506712d8</link>
+      <description>Jens Stoltenberg legg fram 27-budsjettet.</description>
+      <guid isPermaLink="false">l_07b161ca-a5c0-4b07-8b9a-c76b506712d8</guid>
+      <pubDate>Wed, 07 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/07b161ca-a5c0-4b07-8b9a-c76b506712d8_1e0d7118-3b11-487e-ac1c-c59688750768_ID192MP3.mp3" type="audio/mpeg" length="21729644"></enclosure>
+      <itunes:title>Får du betre råd no?</itunes:title>
+      <itunes:summary>Jens Stoltenberg legg fram 27-budsjettet.</itunes:summary>
+      <itunes:duration>905</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qREGc34mtJkLdcTLOSAH_gxpBB0Vb-O65HVAwhkWBxFg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Fakta og følelser i økonomien </title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_1e7a8875-8697-4ba6-9609-265794dc96c3</link>

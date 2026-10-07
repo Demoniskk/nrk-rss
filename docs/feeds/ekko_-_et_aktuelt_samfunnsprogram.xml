@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Hvis barna må i bomberommet</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_ec42bc01-62a1-4d23-bc35-1c88df21d314</link>
+      <description>Vi lagrer vann og mat – men hvordan gir vi barna trygghet når de frykter krig?</description>
+      <guid isPermaLink="false">l_ec42bc01-62a1-4d23-bc35-1c88df21d314</guid>
+      <pubDate>Tue, 06 Oct 2026 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/ec42bc01-62a1-4d23-bc35-1c88df21d314_0ee7eda9-8d66-43d7-8ff2-78b16db236d0_ID192MP3.mp3" type="audio/mpeg" length="34267436"></enclosure>
+      <itunes:title>Hvis barna må i bomberommet</itunes:title>
+      <itunes:summary>Vi lagrer vann og mat – men hvordan gir vi barna trygghet når de frykter krig?</itunes:summary>
+      <itunes:duration>1427</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/79RP8ijY13VLcAOnJwgSgw1WgEwYj8S-dsHkpsV4XYjQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Kampen om tysk stoltheit</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_4ffb5822-dd7e-474b-bb58-22dd7e474b2d</link>

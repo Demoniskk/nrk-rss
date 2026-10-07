@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 07:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Vi har fått lydmeldinger!</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_17c1e8a0-2bde-44f0-87ee-2253b375b553</link>
+      <description>Kjøpte dine foreldre alkohol til deg før du ble 18? En fersk undersøkelse viser at det blir mer og mer vanlig. Vi må også snakke om at KI skal erstatte flere hundre ansatte i DNB.</description>
+      <guid isPermaLink="false">l_17c1e8a0-2bde-44f0-87ee-2253b375b553</guid>
+      <pubDate>Wed, 07 Oct 2026 09:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/17c1e8a0-2bde-44f0-87ee-2253b375b553_6e03d0c7-13c0-46c4-ab09-c402ba608ba7_ID192MP3.mp3" type="audio/mpeg" length="59770988"></enclosure>
+      <itunes:title>Vi har fått lydmeldinger!</itunes:title>
+      <itunes:summary>Kjøpte dine foreldre alkohol til deg før du ble 18? En fersk undersøkelse viser at det blir mer og mer vanlig. Vi må også snakke om at KI skal erstatte flere hundre ansatte i DNB.</itunes:summary>
+      <itunes:duration>2490</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GXtB1gJ_vpIssbLIsccNZww9DwrQ3aoHB5jnqJ5wSFCQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Steinar Klouman Hallert har blitt tryllekunstner</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_60289bb8-9c04-41fe-b34c-64e1eb36b131</link>

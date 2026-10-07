@@ -6,7 +6,7 @@
     <description>Pål Plassen utforskar trua, livssynet og verdiane vi navigerer etter i samfunnet.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 04:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:03:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kompass.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kompass</title>
       <link>https://radio.nrk.no/podkast/kompass</link>
     </image>
+    <item>
+      <title>Åndelighet på Granka</title>
+      <link>https://radio.nrk.no/podkast/kompass/l_68918bba-20d7-4272-918b-ba20d722728f</link>
+      <description>Da regissør Itonje Søimer Guttormsen skulle velge ut hovedrolleinnhaver til filmen Butterfly, brukte hun tarotkort og pendel for å få råd. Dermed ble hun sikker på at Renate Reinsve var den rette for rollen.</description>
+      <guid isPermaLink="false">l_68918bba-20d7-4272-918b-ba20d722728f</guid>
+      <pubDate>Tue, 06 Oct 2026 06:03:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kompass/68918bba-20d7-4272-918b-ba20d722728f_1_ID192MP3.mp3" type="audio/mpeg" length="29367404"></enclosure>
+      <itunes:title>Åndelighet på Granka</itunes:title>
+      <itunes:summary>Da regissør Itonje Søimer Guttormsen skulle velge ut hovedrolleinnhaver til filmen Butterfly, brukte hun tarotkort og pendel for å få råd. Dermed ble hun sikker på at Renate Reinsve var den rette for rollen.</itunes:summary>
+      <itunes:duration>1223</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qHXztCs-ngJ3VRkzsXSZWwJZCBwF7EycJ4GTydRQurNw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Mitt indre kompass: Helge Hognestad</title>
       <link>https://radio.nrk.no/podkast/kompass/l_97441620-85bb-45fd-8416-2085bbd5fd91</link>

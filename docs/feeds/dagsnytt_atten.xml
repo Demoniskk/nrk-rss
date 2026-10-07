@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Regjeringen vil gjøre Norgespris dyrere</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_8f4c8269-8218-433f-8e9a-caea805cb12c</link>
+      <description>Økning på 12,5%, fire ganger så mye som prisstigningen ellers.</description>
+      <guid isPermaLink="false">l_8f4c8269-8218-433f-8e9a-caea805cb12c</guid>
+      <pubDate>Tue, 06 Oct 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/8f4c8269-8218-433f-8e9a-caea805cb12c_6785efa0-370f-4581-a7c3-044f2d0b34a4_ID192MP3.mp3" type="audio/mpeg" length="85039532"></enclosure>
+      <itunes:title>Regjeringen vil gjøre Norgespris dyrere</itunes:title>
+      <itunes:summary>Økning på 12,5%, fire ganger så mye som prisstigningen ellers.</itunes:summary>
+      <itunes:duration>3543</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OGOnMjowJw5mygUKp_SJTQNIgPkPLGLiMf7zaHE6YnSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Lederkabalen i SV</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_308c266b-c017-4f6a-94ce-126a60b454f2</link>

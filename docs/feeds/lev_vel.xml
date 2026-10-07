@@ -6,7 +6,7 @@
     <description>Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lev_vel.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lev vel</title>
       <link>https://radio.nrk.no/podkast/lev_vel</link>
     </image>
+    <item>
+      <title>Søskenflokken: Kan rekkefølgen definere deg?</title>
+      <link>https://radio.nrk.no/podkast/lev_vel/l_19be2e7e-ad5f-4719-be2e-7ead5f671947</link>
+      <description>Hvorfor har den eldste ofte høyest IQ? Utviklingspsykolog Frida Felicia Vennerød-Diesen forteller oss hvordan rollene vi har i søskenflokken påvirker oss.</description>
+      <guid isPermaLink="false">l_19be2e7e-ad5f-4719-be2e-7ead5f671947</guid>
+      <pubDate>Wed, 07 Oct 2026 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/19be2e7e-ad5f-4719-be2e-7ead5f671947_1_ID192MP3.mp3" type="audio/mpeg" length="62092268"></enclosure>
+      <itunes:title>Søskenflokken: Kan rekkefølgen definere deg?</itunes:title>
+      <itunes:summary>Hvorfor har den eldste ofte høyest IQ? Utviklingspsykolog Frida Felicia Vennerød-Diesen forteller oss hvordan rollene vi har i søskenflokken påvirker oss.</itunes:summary>
+      <itunes:duration>2587</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>På hjertet: Les med Linnéa</title>
       <link>https://radio.nrk.no/podkast/lev_vel/l_f7f4fe91-457c-42d8-b4fe-91457c72d886</link>

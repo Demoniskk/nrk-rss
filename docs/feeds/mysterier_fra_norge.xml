@@ -6,7 +6,7 @@
     <description>Spøkelser, forbannelser og uforklarlige fenomener – landet vårt er fullt av uløste mysterier.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/mysterier_fra_norge.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Mysterier fra Norge</title>
       <link>https://radio.nrk.no/podkast/mysterier_fra_norge</link>
     </image>
+    <item>
+      <title>Blindpassasjeren fra Cuba</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_5b0cf79e-fa95-489d-8cf7-9efa95e89d01</link>
+      <description>At hun har fått en forbannelse på seg på Cuba, tror Bianca ingenting på. Men så begynner det å skje rare ting hjemme i Oslo.</description>
+      <guid isPermaLink="false">l_5b0cf79e-fa95-489d-8cf7-9efa95e89d01</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/5b0cf79e-fa95-489d-8cf7-9efa95e89d01_2_ID192MP3.mp3" type="audio/mpeg" length="65779244"></enclosure>
+      <itunes:title>Blindpassasjeren fra Cuba</itunes:title>
+      <itunes:summary>At hun har fått en forbannelse på seg på Cuba, tror Bianca ingenting på. Men så begynner det å skje rare ting hjemme i Oslo.</itunes:summary>
+      <itunes:duration>2740</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/itlkAeN6zCIdKfolAVwjswakU5JXcWIHsJl84SvEW-HA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Nille og presten</title>
       <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_ecbb9391-c0c9-4dc8-bb93-91c0c90dc805</link>

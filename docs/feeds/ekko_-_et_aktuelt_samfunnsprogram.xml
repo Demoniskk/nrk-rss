@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 11:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Rafto-prisen - den nye Nobel?</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_fea6d0d8-7f83-4b83-9784-50349ea58592</link>
+      <description>Mens Fredsprisen kan drukne i storpolitikk, treffer bergenske Raftoprisen stadig tidsånden. Har Nobelkomiteen mistet retningssansen –og kan prisvinnerne i Bergen få større reell betydning enn de i Oslo?  </description>
+      <guid isPermaLink="false">l_fea6d0d8-7f83-4b83-9784-50349ea58592</guid>
+      <pubDate>Wed, 07 Oct 2026 13:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/fea6d0d8-7f83-4b83-9784-50349ea58592_250faf0a-d7d8-4b4f-b3a4-b3f3fc6d5091_ID192MP3.mp3" type="audio/mpeg" length="37979756"></enclosure>
+      <itunes:title>Rafto-prisen - den nye Nobel?</itunes:title>
+      <itunes:summary>Mens Fredsprisen kan drukne i storpolitikk, treffer bergenske Raftoprisen stadig tidsånden. Har Nobelkomiteen mistet retningssansen –og kan prisvinnerne i Bergen få større reell betydning enn de i Oslo?  </itunes:summary>
+      <itunes:duration>1582</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iRwDjPdAyvHrt8nNA9wyogLLaGHYFjMT3uWMPOw0_aGw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Hvis barna må i bomberommet</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_ec42bc01-62a1-4d23-bc35-1c88df21d314</link>

@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Forslag til statsbudsjettet 2027 lagt frem</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_a03d0777-51b0-4a60-899b-d4c4031e3ede</link>
+      <description>Frp mener regjeringens forslag til statsbudsjett vil gi mange dårligere råd, til tross for skattekutt.</description>
+      <guid isPermaLink="false">l_a03d0777-51b0-4a60-899b-d4c4031e3ede</guid>
+      <pubDate>Wed, 07 Oct 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a03d0777-51b0-4a60-899b-d4c4031e3ede_91d7f437-3f28-4851-a6a8-8aa6426e6b22_ID192MP3.mp3" type="audio/mpeg" length="85022828"></enclosure>
+      <itunes:title>Forslag til statsbudsjettet 2027 lagt frem</itunes:title>
+      <itunes:summary>Frp mener regjeringens forslag til statsbudsjett vil gi mange dårligere råd, til tross for skattekutt.</itunes:summary>
+      <itunes:duration>3542</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TE9kIteU-esynB4umOxmIwjwaJQCIPZ-eWmg4W9DsiRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Regjeringen vil gjøre Norgespris dyrere</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_8f4c8269-8218-433f-8e9a-caea805cb12c</link>

@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Finne mening -Jan Erik Larssen</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_fde8b3da-7f15-453f-b746-0339864dd607</link>
+      <description>Hvor finner vi meningen med livet? Jan Erik Larssen tror svaret finnes nærmere enn mange tror.</description>
+      <guid isPermaLink="false">l_fde8b3da-7f15-453f-b746-0339864dd607</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/fde8b3da-7f15-453f-b746-0339864dd607_3d83d2ad-be0e-4cf5-8ffa-70407a17afa6_ID192MP3.mp3" type="audio/mpeg" length="4792364"></enclosure>
+      <itunes:title>Finne mening -Jan Erik Larssen</itunes:title>
+      <itunes:summary>Hvor finner vi meningen med livet? Jan Erik Larssen tror svaret finnes nærmere enn mange tror.</itunes:summary>
+      <itunes:duration>199</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vauVz0tjzFuCJhp2fkZBCQtaz3AQBjNG_2eP8HBghR-Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Hjem - Jan Erik Larssen</title>
       <link>https://radio.nrk.no/podkast/andakten/l_ea3ee9f7-083c-44c6-baa9-4ca25727da48</link>

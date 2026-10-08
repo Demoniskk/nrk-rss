@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 11:50:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Jeanette Dyhre Kvisvik</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_82c24183-df2c-4dc3-9806-bc4998ebdfe3</link>
+      <description>– Jenter setter seg ofte i baksetet, men sånn er ikke jeg, forteller Villoid-gründer med stor suksess.</description>
+      <guid isPermaLink="false">l_82c24183-df2c-4dc3-9806-bc4998ebdfe3</guid>
+      <pubDate>Wed, 07 Oct 2026 13:50:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/82c24183-df2c-4dc3-9806-bc4998ebdfe3_bd5dea98-d1e4-485e-a2e7-b55ce716bfc2_ID192MP3.mp3" type="audio/mpeg" length="82337516"></enclosure>
+      <itunes:title>Jeanette Dyhre Kvisvik</itunes:title>
+      <itunes:summary>– Jenter setter seg ofte i baksetet, men sånn er ikke jeg, forteller Villoid-gründer med stor suksess.</itunes:summary>
+      <itunes:duration>3430</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JbaHHmgFz1p2H7tbjuKdwAsnwwbnNp_vT7Mok-WDmyWQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Usman Chaudhry</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_94251e77-f95e-43c5-9230-d29b38055aa1</link>

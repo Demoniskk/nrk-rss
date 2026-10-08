@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Vi oppsummerer statsbudsjettet</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_f531e072-4bbb-4d7f-b1e0-724bbbad7fb7</link>
+      <description>Og Donald Trump vil (igjen) ha Nobels fredspris.</description>
+      <guid isPermaLink="false">l_f531e072-4bbb-4d7f-b1e0-724bbbad7fb7</guid>
+      <pubDate>Thu, 08 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f531e072-4bbb-4d7f-b1e0-724bbbad7fb7_1_ID192MP3.mp3" type="audio/mpeg" length="10153196"></enclosure>
+      <itunes:title>Vi oppsummerer statsbudsjettet</itunes:title>
+      <itunes:summary>Og Donald Trump vil (igjen) ha Nobels fredspris.</itunes:summary>
+      <itunes:duration>422</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YKuDkuaQmtGSsKGbfYmNEwB-DBQfMdCEM4Y5r54iDg2Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Tre år siden krigen mellom Israel og Hamas ble utløst</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_914eae37-4504-4c4d-8eae-374504ac4d2d</link>

@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 07:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Voksenkjeft fra stortingspresidenten </title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_9925cd65-3821-497f-9399-4429a656fc02</link>
+      <description>Er det lov å si 6-7 på Stortinget? Vi skal bryte regler sammen med stortingspresidenten. Henning oppsummerer hva du FAKTISK trenger å forstå fra statsbudsjettet.</description>
+      <guid isPermaLink="false">l_9925cd65-3821-497f-9399-4429a656fc02</guid>
+      <pubDate>Thu, 08 Oct 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9925cd65-3821-497f-9399-4429a656fc02_a570178b-26d3-4cbf-9f1d-0c764b04a039_ID192MP3.mp3" type="audio/mpeg" length="60641324"></enclosure>
+      <itunes:title>Voksenkjeft fra stortingspresidenten </itunes:title>
+      <itunes:summary>Er det lov å si 6-7 på Stortinget? Vi skal bryte regler sammen med stortingspresidenten. Henning oppsummerer hva du FAKTISK trenger å forstå fra statsbudsjettet.</itunes:summary>
+      <itunes:duration>2526</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_ylAUgcRKeiba828riPxjAhFVmaqVTeeD3cZDBVNYnhg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Vi har fått lydmeldinger!</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_17c1e8a0-2bde-44f0-87ee-2253b375b553</link>

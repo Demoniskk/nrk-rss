@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Annas hot take på statsbudsjett</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_7b85c9af-4d80-4ab4-85c9-af4d800ab41a</link>
+      <description>Markus har marinert fingeren i wasabi, Anna tar en runde på statsbudsjettet og Daniel har med seg gamle trønder vitser.</description>
+      <guid isPermaLink="false">l_7b85c9af-4d80-4ab4-85c9-af4d800ab41a</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/7b85c9af-4d80-4ab4-85c9-af4d800ab41a_1_ID192MP3.mp3" type="audio/mpeg" length="69098156"></enclosure>
+      <itunes:title>Annas hot take på statsbudsjett</itunes:title>
+      <itunes:summary>Markus har marinert fingeren i wasabi, Anna tar en runde på statsbudsjettet og Daniel har med seg gamle trønder vitser.</itunes:summary>
+      <itunes:duration>2879</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Daniel legger Anna i bakken</title>
       <link>https://radio.nrk.no/podkast/siesta/l_dd09a734-1c6c-49dc-89a7-341c6cb9dcf0</link>

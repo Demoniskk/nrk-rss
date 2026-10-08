@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Kontakt Kveldstanker</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_8d3dbeef-feea-4a51-a2ca-37ec40f7f384</link>
+      <description>Bruk send inn-knappen om du vil kontakte oss i Kveldstanker. Kom med ris og ros, og tips om folk du vil høre fortelle.</description>
+      <guid isPermaLink="false">l_8d3dbeef-feea-4a51-a2ca-37ec40f7f384</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/8d3dbeef-feea-4a51-a2ca-37ec40f7f384_1ae2c3e7-f830-41bb-b46b-847fd1bf8d18_ID192MP3.mp3" type="audio/mpeg" length="678572"></enclosure>
+      <itunes:title>Kontakt Kveldstanker</itunes:title>
+      <itunes:summary>Bruk send inn-knappen om du vil kontakte oss i Kveldstanker. Kom med ris og ros, og tips om folk du vil høre fortelle.</itunes:summary>
+      <itunes:duration>28</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/En_xP2amWxAhDtLbn8lnsgvmzEN1nzWO8xdy1x65rreA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Shady Cash - med Terje Torkildsen</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_9a9c6df0-4a10-4f0e-a5e7-d889e71b689c</link>

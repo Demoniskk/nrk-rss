@@ -6,7 +6,7 @@
     <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sentralbordet på NRK</title>
       <link>https://radio.nrk.no/podkast/sentralbordet</link>
     </image>
+    <item>
+      <title>Live er ufrivillig Farmen-diva</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_ea96b7de-7dd0-4613-96b7-de7dd0261342</link>
+      <description>Den nye manageren til Live har store planer, en møbelinteressert dame vil bleke håret, Steinar og Kari har reist til England, og Catrin Sagen ringer en nybakt pappa.</description>
+      <guid isPermaLink="false">l_ea96b7de-7dd0-4613-96b7-de7dd0261342</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/ea96b7de-7dd0-4613-96b7-de7dd0261342_1_ID192MP3.mp3" type="audio/mpeg" length="29307500"></enclosure>
+      <itunes:title>Live er ufrivillig Farmen-diva</itunes:title>
+      <itunes:summary>Den nye manageren til Live har store planer, en møbelinteressert dame vil bleke håret, Steinar og Kari har reist til England, og Catrin Sagen ringer en nybakt pappa.</itunes:summary>
+      <itunes:duration>1221</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>– Kan barna bli med deg?</title>
       <link>https://radio.nrk.no/podkast/sentralbordet/l_9b6c0325-7f45-43d6-ac03-257f4543d6ee</link>

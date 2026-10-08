@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Når ikke bistandsmålet</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_ca539f01-5ff8-44de-8c9b-304fca20edff</link>
+      <description>Regjeringen når ikke sitt eget bistandsmål.&#xA;Det mangler over fire milliarder kroner i statsbudsjettet for å nå 1%.</description>
+      <guid isPermaLink="false">l_ca539f01-5ff8-44de-8c9b-304fca20edff</guid>
+      <pubDate>Thu, 08 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ca539f01-5ff8-44de-8c9b-304fca20edff_76ec3da3-3d84-49af-8079-2bc96640a901_ID192MP3.mp3" type="audio/mpeg" length="21760172"></enclosure>
+      <itunes:title>Når ikke bistandsmålet</itunes:title>
+      <itunes:summary>Regjeringen når ikke sitt eget bistandsmål.&#xA;Det mangler over fire milliarder kroner i statsbudsjettet for å nå 1%.</itunes:summary>
+      <itunes:duration>906</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6t7zm-QqKWe3-o-Ge9FUcwK8BpjkkloNI-SRnByOKQDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Får du betre råd no?</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_07b161ca-a5c0-4b07-8b9a-c76b506712d8</link>

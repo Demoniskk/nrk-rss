@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Derfor stormer det rundt Document-sjefen</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_78ae7a5b-468f-4a18-ae7a-5b468faa1823</link>
+      <description>Hvorfor er presse-Norge i strupen på redaktøren?</description>
+      <guid isPermaLink="false">l_78ae7a5b-468f-4a18-ae7a-5b468faa1823</guid>
+      <pubDate>Thu, 08 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/78ae7a5b-468f-4a18-ae7a-5b468faa1823_1_ID192MP3.mp3" type="audio/mpeg" length="27030572"></enclosure>
+      <itunes:title>Derfor stormer det rundt Document-sjefen</itunes:title>
+      <itunes:summary>Hvorfor er presse-Norge i strupen på redaktøren?</itunes:summary>
+      <itunes:duration>1126</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fUl9DHqEAErG9xS9T0NJhgVM-f8HjNI5i5fN9M8Jfdqg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>«Cornell 7»: Valdtektssaka som rystar USA</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_2d9dcb82-19ce-4207-9dcb-8219ce620724</link>

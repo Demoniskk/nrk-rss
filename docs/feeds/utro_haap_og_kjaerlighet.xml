@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Else Kåss: Knekke kjærlighetskoden</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_37e1e92e-de88-4288-a1e9-2ede88528875</link>
+      <description>Else Kåss Furuseth forteller om kjipe erfaringer fra singellivet og hvordan hun endelig har funnet ekte kjærlighet.</description>
+      <guid isPermaLink="false">l_37e1e92e-de88-4288-a1e9-2ede88528875</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/37e1e92e-de88-4288-a1e9-2ede88528875_1_ID192MP3.mp3" type="audio/mpeg" length="74831660"></enclosure>
+      <itunes:title>Else Kåss: Knekke kjærlighetskoden</itunes:title>
+      <itunes:summary>Else Kåss Furuseth forteller om kjipe erfaringer fra singellivet og hvordan hun endelig har funnet ekte kjærlighet.</itunes:summary>
+      <itunes:duration>3117</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/b-UJzRbXg_6RdT6I4VGzNA5JGiHMOLHHpBpY6wkp3hYQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Sophie Elise: Bekreftelse</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_5a545dc0-235a-4da5-945d-c0235a3da5fd</link>

@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Store mobilproblemer</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_605ed521-93da-4060-bce9-6397ed0176f8</link>
+      <description>Politiet får ikke inn alle anrop, og &#xA;Bane Nor varsler full togstans i hele landet.</description>
+      <guid isPermaLink="false">l_605ed521-93da-4060-bce9-6397ed0176f8</guid>
+      <pubDate>Thu, 08 Oct 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/605ed521-93da-4060-bce9-6397ed0176f8_8370b35d-7ecf-42ef-a1c0-e6f8367e266a_ID192MP3.mp3" type="audio/mpeg" length="84509612"></enclosure>
+      <itunes:title>Store mobilproblemer</itunes:title>
+      <itunes:summary>Politiet får ikke inn alle anrop, og &#xA;Bane Nor varsler full togstans i hele landet.</itunes:summary>
+      <itunes:duration>3521</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0td8cQhY8cSeI_i-Wo651gWO9kLkJG3IJnVuR0GWThLQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Forslag til statsbudsjettet 2027 lagt frem</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_a03d0777-51b0-4a60-899b-d4c4031e3ede</link>

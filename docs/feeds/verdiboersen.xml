@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title>Intelligent liv i MAGA</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_ac4cdf9f-c981-4bf0-8cdf-9fc9811bf026</link>
+      <description>Om tenkerne og ideene bak den mektige MAGA-bevegelsen</description>
+      <guid isPermaLink="false">l_ac4cdf9f-c981-4bf0-8cdf-9fc9811bf026</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ac4cdf9f-c981-4bf0-8cdf-9fc9811bf026_1_ID192MP3.mp3" type="audio/mpeg" length="55356524"></enclosure>
+      <itunes:title>Intelligent liv i MAGA</itunes:title>
+      <itunes:summary>Om tenkerne og ideene bak den mektige MAGA-bevegelsen</itunes:summary>
+      <itunes:duration>2306</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Hvorfor er noen imot vaksine?</title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_86ce7dc0-d6c6-4f14-8e7d-c0d6c61f1484</link>

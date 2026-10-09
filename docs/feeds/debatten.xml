@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:35:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Påstått gruppevoldtekt setter sinnene i kok også i Norge</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_1d6c86fe-66be-4da7-ac86-fe66beada720</link>
+      <description>Cornell-saken i USA har satt i gang en diskusjon her hjemme om hvilket ansvar norske menn har for å stoppe voldtekter.</description>
+      <guid isPermaLink="false">l_1d6c86fe-66be-4da7-ac86-fe66beada720</guid>
+      <pubDate>Fri, 09 Oct 2026 10:35:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/1d6c86fe-66be-4da7-ac86-fe66beada720_1_ID192MP3.mp3" type="audio/mpeg" length="60139628"></enclosure>
+      <itunes:title>Påstått gruppevoldtekt setter sinnene i kok også i Norge</itunes:title>
+      <itunes:summary>Cornell-saken i USA har satt i gang en diskusjon her hjemme om hvilket ansvar norske menn har for å stoppe voldtekter.</itunes:summary>
+      <itunes:duration>2505</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nnnJZ4k590mp0AZth68QZwVMWPryo6neS-nAdYPC8gZw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Voldsom økning i norgesprisen på strøm, eller innafor?</title>
       <link>https://radio.nrk.no/podkast/debatten/l_61913922-67b7-41dc-9139-2267b721dc17</link>

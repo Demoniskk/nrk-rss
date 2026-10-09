@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Hvem får fredsprisen?</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_3243ac19-db55-4e13-83ac-19db554e132a</link>
+      <description>Og blir menn friskere av å ha barn?</description>
+      <guid isPermaLink="false">l_3243ac19-db55-4e13-83ac-19db554e132a</guid>
+      <pubDate>Fri, 09 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/3243ac19-db55-4e13-83ac-19db554e132a_1_ID192MP3.mp3" type="audio/mpeg" length="10436012"></enclosure>
+      <itunes:title>Hvem får fredsprisen?</itunes:title>
+      <itunes:summary>Og blir menn friskere av å ha barn?</itunes:summary>
+      <itunes:duration>434</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/drtb86LAMN1-MCsXE1lZHwxTny_FMz86_yBZEQmfTQYA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Vi oppsummerer statsbudsjettet</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_f531e072-4bbb-4d7f-b1e0-724bbbad7fb7</link>

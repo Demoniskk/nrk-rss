@@ -6,7 +6,7 @@
     <description>Absolutt alt du kan undre deg over om språk! Jesper Nondal spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/spraakteigen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Språksnakk</title>
       <link>https://radio.nrk.no/podkast/spraakteigen</link>
     </image>
+    <item>
+      <title>Medium industripark</title>
+      <link>https://radio.nrk.no/podkast/spraakteigen/l_9ce2d43a-ac5a-4ac5-a2d4-3aac5a8ac5a7</link>
+      <description>Hvorfor angrer man som en hund? Alle mann alle, gir det mening? Hvorfor skrives kost, kost og kost likt? Park, hva betyr det?</description>
+      <guid isPermaLink="false">l_9ce2d43a-ac5a-4ac5-a2d4-3aac5a8ac5a7</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/9ce2d43a-ac5a-4ac5-a2d4-3aac5a8ac5a7_1_ID192MP3.mp3" type="audio/mpeg" length="82900844"></enclosure>
+      <itunes:title>Medium industripark</itunes:title>
+      <itunes:summary>Hvorfor angrer man som en hund? Alle mann alle, gir det mening? Hvorfor skrives kost, kost og kost likt? Park, hva betyr det?</itunes:summary>
+      <itunes:duration>3454</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2TvOfsrDcr5auT3M1LgFigvBNIkGwBHcYHL4J_JYW50Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Autoritær fjompenisse</title>
       <link>https://radio.nrk.no/podkast/spraakteigen/l_ac3e9c10-c0f8-4175-be9c-10c0f8617540</link>

@@ -6,7 +6,7 @@
     <description>Bli med ut i verden. Hør historiene og få forklaringene fra Norges største utenriksredaksjon.&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verden_paa_loerdag.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Urix</title>
       <link>https://radio.nrk.no/podkast/verden_paa_loerdag</link>
     </image>
+    <item>
+      <title>USA:  Demokrater kan ta prærien</title>
+      <link>https://radio.nrk.no/podkast/verden_paa_loerdag/l_9f48efab-8abd-41d2-96d6-162599d0e1cf</link>
+      <description>Intro: &#xA;Det ser lyst ut for demokratene foran mellomvalget 3. november.&#xA;Selv et godt stykke ute på prærien, ser det ut til at de kan vinne for første gang på tiår. Men er partiet for splitta til å klare det? &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_9f48efab-8abd-41d2-96d6-162599d0e1cf</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/9f48efab-8abd-41d2-96d6-162599d0e1cf_21ab303e-6cd6-4d1c-9586-2f08f244c0b7_ID192MP3.mp3" type="audio/mpeg" length="36263852"></enclosure>
+      <itunes:title>USA:  Demokrater kan ta prærien</itunes:title>
+      <itunes:summary>Intro: &#xA;Det ser lyst ut for demokratene foran mellomvalget 3. november.&#xA;Selv et godt stykke ute på prærien, ser det ut til at de kan vinne for første gang på tiår. Men er partiet for splitta til å klare det? &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;</itunes:summary>
+      <itunes:duration>1510</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NtchuNX81088-NeRdcXaBw0xTJuHqxedwoplC_Si0Brg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>USA: Da KI kom til bygda</title>
       <link>https://radio.nrk.no/podkast/verden_paa_loerdag/l_94b121d9-6a55-44dc-b121-d96a5554dc10</link>

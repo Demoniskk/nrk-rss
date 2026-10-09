@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Tok hun over et konkursbo? </title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_783999b0-f479-45e4-a794-1220173dbc8a</link>
+      <description>Sigrun Aasland har vært klimaminister i under en måned. Budsjettet viser at hun overtok et konkursbo, mener SV. Katastrofalt, ifølge WWF. </description>
+      <guid isPermaLink="false">l_783999b0-f479-45e4-a794-1220173dbc8a</guid>
+      <pubDate>Fri, 09 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/783999b0-f479-45e4-a794-1220173dbc8a_89de90b6-8a38-4f93-8a19-dba86bbd1469_ID192MP3.mp3" type="audio/mpeg" length="21927788"></enclosure>
+      <itunes:title>Tok hun over et konkursbo? </itunes:title>
+      <itunes:summary>Sigrun Aasland har vært klimaminister i under en måned. Budsjettet viser at hun overtok et konkursbo, mener SV. Katastrofalt, ifølge WWF. </itunes:summary>
+      <itunes:duration>913</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HI753YeJv9Y3v3gwLerwKwnTIXa_AOLffMuk732qRueA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Når ikke bistandsmålet</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_ca539f01-5ff8-44de-8c9b-304fca20edff</link>

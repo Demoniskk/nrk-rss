@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Venter på dødsstraff: Er «Ørkenmorderen» uskyldig?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_917baa75-9986-419b-bbaa-759986619b89</link>
+      <description>Nå stormer det rundt den kontroversielle straffemetoden. En av dem som venter på å dø er David Wood.</description>
+      <guid isPermaLink="false">l_917baa75-9986-419b-bbaa-759986619b89</guid>
+      <pubDate>Fri, 09 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/917baa75-9986-419b-bbaa-759986619b89_1_ID192MP3.mp3" type="audio/mpeg" length="24787052"></enclosure>
+      <itunes:title>Venter på dødsstraff: Er «Ørkenmorderen» uskyldig?</itunes:title>
+      <itunes:summary>Nå stormer det rundt den kontroversielle straffemetoden. En av dem som venter på å dø er David Wood.</itunes:summary>
+      <itunes:duration>1032</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/K8kNhV2nCsaicWlTG98-5AGBT7pQDUz0w9NmcfV0ou0Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Derfor stormer det rundt Document-sjefen</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_78ae7a5b-468f-4a18-ae7a-5b468faa1823</link>

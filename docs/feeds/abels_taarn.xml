@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Hvordan lader du mobilen perfekt?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_59575a02-8559-4b80-975a-0285598b8073</link>
+      <description>Er du lydig og stopper på 80%, eller er du en rebell som lader til 100%? Det kommer kanskje an på om du FØLER deg stor eller liten? Men hva ER du?</description>
+      <guid isPermaLink="false">l_59575a02-8559-4b80-975a-0285598b8073</guid>
+      <pubDate>Fri, 09 Oct 2026 11:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/59575a02-8559-4b80-975a-0285598b8073_1_ID192MP3.mp3" type="audio/mpeg" length="82900844"></enclosure>
+      <itunes:title>Hvordan lader du mobilen perfekt?</itunes:title>
+      <itunes:summary>Er du lydig og stopper på 80%, eller er du en rebell som lader til 100%? Det kommer kanskje an på om du FØLER deg stor eller liten? Men hva ER du?</itunes:summary>
+      <itunes:duration>3454</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iJM4L3gh1slXOtu2L4FZHAHs-6QmzSLzYYW91WQLFJ4Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Er gen Z dummere enn sine foreldre?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_641212df-eff4-463f-9212-dfeff4d63f47</link>

@@ -6,7 +6,7 @@
     <description>Alt kan skje og ingen er trygge når fire komikere oppsummerer uka!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/desken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Desken brenner</title>
       <link>https://radio.nrk.no/podkast/desken_brenner</link>
     </image>
+    <item>
+      <title>Helt vanlig amerikansk college-kultur</title>
+      <link>https://radio.nrk.no/podkast/desken_brenner/l_e2d42dbc-4f22-41b9-942d-bc4f22f1b929</link>
+      <description>Cornell-saken ryster en hel verden. De finske parlamentsmedlemmene lurer på hvem som har bæsja i doen deres. Lokførerstreiken toger videre.</description>
+      <guid isPermaLink="false">l_e2d42dbc-4f22-41b9-942d-bc4f22f1b929</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/e2d42dbc-4f22-41b9-942d-bc4f22f1b929_1_ID192MP3.mp3" type="audio/mpeg" length="62704556"></enclosure>
+      <itunes:title>Helt vanlig amerikansk college-kultur</itunes:title>
+      <itunes:summary>Cornell-saken ryster en hel verden. De finske parlamentsmedlemmene lurer på hvem som har bæsja i doen deres. Lokførerstreiken toger videre.</itunes:summary>
+      <itunes:duration>2612</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Stortingets Epstein-time</title>
       <link>https://radio.nrk.no/podkast/desken_brenner/l_f4fd1cb7-6433-4d83-bd1c-b764335d836d</link>

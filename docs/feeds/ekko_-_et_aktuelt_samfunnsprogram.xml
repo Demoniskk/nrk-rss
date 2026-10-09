@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Trumps USA: På friarferd igjen</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_8834c93e-b69d-43c8-8ac3-9ef5e81f29d2</link>
+      <description>Trump dansar på nye folkemøte før mellomvalet, men er historisk upopulær. Vi ser på kontrastane i USA før valet.&#xA;</description>
+      <guid isPermaLink="false">l_8834c93e-b69d-43c8-8ac3-9ef5e81f29d2</guid>
+      <pubDate>Thu, 08 Oct 2026 13:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/8834c93e-b69d-43c8-8ac3-9ef5e81f29d2_b34330b1-5a10-402f-b872-3d363015044c_ID192MP3.mp3" type="audio/mpeg" length="79815788"></enclosure>
+      <itunes:title>Trumps USA: På friarferd igjen</itunes:title>
+      <itunes:summary>Trump dansar på nye folkemøte før mellomvalet, men er historisk upopulær. Vi ser på kontrastane i USA før valet.&#xA;</itunes:summary>
+      <itunes:duration>3325</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mofumOR0ET2ty1a6d7TzLgrfh2GMD_hn7YlFIfcwt8EA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Rafto-prisen - den nye Nobel?</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_fea6d0d8-7f83-4b83-9784-50349ea58592</link>

@@ -6,7 +6,7 @@
     <description>Vi oppsummerer kulturuka hver fredag, med faste, friske og freidige paneldeltakere.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/fredagspanelet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Fredagspanelet</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet</link>
     </image>
+    <item>
+      <title>Strøymetenester, Boktober og Nobels fredspris</title>
+      <link>https://radio.nrk.no/podkast/fredagspanelet/l_43eedf08-7195-4891-aedf-087195389163</link>
+      <description>Er det egentlig mogeleg å velge bort strøymetenester ? Må det kjendisar og influensarar til for å få folk til å lese igjen? Er Nobelkomiteen redd for å provosere Donald Trump?</description>
+      <guid isPermaLink="false">l_43eedf08-7195-4891-aedf-087195389163</guid>
+      <pubDate>Fri, 09 Oct 2026 08:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/43eedf08-7195-4891-aedf-087195389163_1_ID192MP3.mp3" type="audio/mpeg" length="18964844"></enclosure>
+      <itunes:title>Strøymetenester, Boktober og Nobels fredspris</itunes:title>
+      <itunes:summary>Er det egentlig mogeleg å velge bort strøymetenester ? Må det kjendisar og influensarar til for å få folk til å lese igjen? Er Nobelkomiteen redd for å provosere Donald Trump?</itunes:summary>
+      <itunes:duration>790</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Fra Haaland til Norge Rundt</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet/l_4ba8f80f-1cd1-46ba-a8f8-0f1cd106ba7e</link>

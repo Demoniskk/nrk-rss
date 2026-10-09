@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 11:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Dag Simastuen</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_d57ed2e8-7244-4e82-9293-a8e976a60e12</link>
+      <description>– Det ER en guttedrøm, og ikke  oppskrytt, mener en av landets mest erfarne jagerflygere</description>
+      <guid isPermaLink="false">l_d57ed2e8-7244-4e82-9293-a8e976a60e12</guid>
+      <pubDate>Thu, 08 Oct 2026 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/d57ed2e8-7244-4e82-9293-a8e976a60e12_722fb26a-52d8-455f-af61-545f4b1becab_ID192MP3.mp3" type="audio/mpeg" length="82095596"></enclosure>
+      <itunes:title>Dag Simastuen</itunes:title>
+      <itunes:summary>– Det ER en guttedrøm, og ikke  oppskrytt, mener en av landets mest erfarne jagerflygere</itunes:summary>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ta_WkgnhE-IJIuq8tlsaSQp9jDxmIRCf4mLTFXRHJ1og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Jeanette Dyhre Kvisvik</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_82c24183-df2c-4dc3-9806-bc4998ebdfe3</link>

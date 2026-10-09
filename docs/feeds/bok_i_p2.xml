@@ -6,7 +6,7 @@
     <description>Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bok_i_p2.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Åpen bok</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2</link>
     </image>
+    <item>
+      <title>Line Baugstø: Demens og skilsmisse</title>
+      <link>https://radio.nrk.no/podkast/bok_i_p2/l_915a26e2-7a6d-4578-9e4a-4368e7e4496e</link>
+      <description>Hennes mann ble syk og døde. Midt i sorgen skrev Line Baugstø en underholdende roman om skilsmisse og demens.</description>
+      <guid isPermaLink="false">l_915a26e2-7a6d-4578-9e4a-4368e7e4496e</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/915a26e2-7a6d-4578-9e4a-4368e7e4496e_26e20a04-7ac4-4f5c-90d1-3016247a46cf_ID192MP3.mp3" type="audio/mpeg" length="82149164"></enclosure>
+      <itunes:title>Line Baugstø: Demens og skilsmisse</itunes:title>
+      <itunes:summary>Hennes mann ble syk og døde. Midt i sorgen skrev Line Baugstø en underholdende roman om skilsmisse og demens.</itunes:summary>
+      <itunes:duration>3422</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/sof0gn8mhk4hmmieDEw5fwP2Fkgr7PukbDXWD8ch5JMg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Kim Leine: Sekt, overgrep, røtter</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2/l_f62ac96b-3fa0-4931-aac9-6b3fa00931b2</link>

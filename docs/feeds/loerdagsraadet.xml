@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 04 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Blir det bryllup på budsjett?</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_cbae8a48-6b9a-4a7d-ae8a-486b9a4a7d62</link>
+      <description>Vi får tilbakemelding fra &#34;Brura&#34; - også snakker vi litt mer om kinesisk mat!</description>
+      <guid isPermaLink="false">l_cbae8a48-6b9a-4a7d-ae8a-486b9a4a7d62</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/cbae8a48-6b9a-4a7d-ae8a-486b9a4a7d62_1_ID192MP3.mp3" type="audio/mpeg" length="32852780"></enclosure>
+      <itunes:title>Blir det bryllup på budsjett?</itunes:title>
+      <itunes:summary>Vi får tilbakemelding fra &#34;Brura&#34; - også snakker vi litt mer om kinesisk mat!</itunes:summary>
+      <itunes:duration>1368</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Kinamat og familievernkontor</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_5b3e045f-64d8-4dbe-be04-5f64d80dbee3</link>

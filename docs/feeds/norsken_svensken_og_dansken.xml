@@ -6,7 +6,7 @@
     <description>Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 03 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/norsken_svensken_og_dansken.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Norsken, svensken og dansken</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken</link>
     </image>
+    <item>
+      <title>Ukulturuke</title>
+      <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_8a562ec4-1400-494e-962e-c41400e94ef2</link>
+      <description>Har den nordiske mannen gått helt av skaftet? Er danske grisebønder rasistiske? Og var Epstein-høringene kun et teater?</description>
+      <guid isPermaLink="false">l_8a562ec4-1400-494e-962e-c41400e94ef2</guid>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/8a562ec4-1400-494e-962e-c41400e94ef2_1_ID192MP3.mp3" type="audio/mpeg" length="82164716"></enclosure>
+      <itunes:title>Ukulturuke</itunes:title>
+      <itunes:summary>Har den nordiske mannen gått helt av skaftet? Er danske grisebønder rasistiske? Og var Epstein-høringene kun et teater?</itunes:summary>
+      <itunes:duration>3423</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Ærlig talt!</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_e0da0c94-e310-4dd9-9a0c-94e310edd90d</link>

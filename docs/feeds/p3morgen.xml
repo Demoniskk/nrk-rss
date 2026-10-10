@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Rip Ensomhetspartiet, lenge leve Else!</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_d90edcb5-87ce-458c-816a-9c0f24986e36</link>
+      <description>Vi leser ofte om at flere unge føler seg ensom. Men hva kan vi egentlig gjøre for å hjelpe hverandre? Else Kåss Furuseths er vår fredagsgjest.</description>
+      <guid isPermaLink="false">l_d90edcb5-87ce-458c-816a-9c0f24986e36</guid>
+      <pubDate>Fri, 09 Oct 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d90edcb5-87ce-458c-816a-9c0f24986e36_e1e3a8c4-43fe-42f4-8366-3bd81ecf9f38_ID192MP3.mp3" type="audio/mpeg" length="59559596"></enclosure>
+      <itunes:title>Rip Ensomhetspartiet, lenge leve Else!</itunes:title>
+      <itunes:summary>Vi leser ofte om at flere unge føler seg ensom. Men hva kan vi egentlig gjøre for å hjelpe hverandre? Else Kåss Furuseths er vår fredagsgjest.</itunes:summary>
+      <itunes:duration>2481</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YInZpRJ-gL8gNkQ33UcylAtkR0btNbGz8x6bm45tVgGA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Voksenkjeft fra stortingspresidenten </title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_9925cd65-3821-497f-9399-4429a656fc02</link>

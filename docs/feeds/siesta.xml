@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Markus intervjuer Espen Nakstad</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_3ccf1876-700f-418a-8f18-76700f918a1f</link>
+      <description>Vi avslører ny pub i jakten etter Norges beste, Markus intervjuer Nakstad og hvem er best på imitasjon av hverandre?</description>
+      <guid isPermaLink="false">l_3ccf1876-700f-418a-8f18-76700f918a1f</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3ccf1876-700f-418a-8f18-76700f918a1f_1_ID192MP3.mp3" type="audio/mpeg" length="73030508"></enclosure>
+      <itunes:title>Markus intervjuer Espen Nakstad</itunes:title>
+      <itunes:summary>Vi avslører ny pub i jakten etter Norges beste, Markus intervjuer Nakstad og hvem er best på imitasjon av hverandre?</itunes:summary>
+      <itunes:duration>3042</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Klarer Markus å kjøpe tampong?</title>
       <link>https://radio.nrk.no/podkast/siesta/l_13ef2be7-82ac-451a-af2b-e782ac251a0b</link>

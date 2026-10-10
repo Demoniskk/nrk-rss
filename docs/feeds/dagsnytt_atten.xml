@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Fredsprisen til Navi Pillay</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_42696f24-0e09-412a-b548-f7db9bd488ae</link>
+      <description>Den sørafrikanske juristen Navanethem &#34;Navi&#34; Pillay tildeles Nobels fredspris. Både Israel og USA reagerer.</description>
+      <guid isPermaLink="false">l_42696f24-0e09-412a-b548-f7db9bd488ae</guid>
+      <pubDate>Fri, 09 Oct 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/42696f24-0e09-412a-b548-f7db9bd488ae_70041afc-08a9-40f8-91eb-dd77a809bbf0_ID192MP3.mp3" type="audio/mpeg" length="84852908"></enclosure>
+      <itunes:title>Fredsprisen til Navi Pillay</itunes:title>
+      <itunes:summary>Den sørafrikanske juristen Navanethem &#34;Navi&#34; Pillay tildeles Nobels fredspris. Både Israel og USA reagerer.</itunes:summary>
+      <itunes:duration>3535</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/86pW0li9PcoHKMfQS40gjABE4IARbBTtw7OZTsNNriWg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Store mobilproblemer</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_605ed521-93da-4060-bce9-6397ed0176f8</link>

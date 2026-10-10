@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-09T10:39:38Z",
-  "latest_episode": "2026-10-09T10:00:00Z",
+  "generated_at": "2026-10-10T09:55:43Z",
+  "latest_episode": "2026-10-10T04:00:00Z",
   "source": "https://radio.nrk.no/",
   "podcast_count": 235,
-  "episode_count": 59836,
+  "episode_count": 59842,
   "podcasts": [
     {
       "id": "22_juli_-_hvordan_kunne_det_skje",
@@ -264,10 +264,10 @@
       "description": "Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw",
-      "episode_count": 3666,
+      "episode_count": 3667,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml",
       "nrk_url": "https://radio.nrk.no/podkast/dagsnytt_atten",
-      "latest_episode": "2026-10-08T17:00:00Z"
+      "latest_episode": "2026-10-09T17:00:00Z"
     },
     {
       "id": "p060ms2h",
@@ -1287,10 +1287,10 @@
       "description": "Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw",
-      "episode_count": 961,
+      "episode_count": 962,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml",
       "nrk_url": "https://radio.nrk.no/podkast/loerdagsraadet",
-      "latest_episode": "2026-10-04T04:00:00Z"
+      "latest_episode": "2026-10-09T04:00:00Z"
     },
     {
       "id": "manin_ja_danin",
@@ -1595,10 +1595,10 @@
       "description": "Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ",
-      "episode_count": 290,
+      "episode_count": 291,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/norsken_svensken_og_dansken.xml",
       "nrk_url": "https://radio.nrk.no/podkast/norsken_svensken_og_dansken",
-      "latest_episode": "2026-10-03T04:00:00Z"
+      "latest_episode": "2026-10-10T04:00:00Z"
     },
     {
       "id": "nrkscenen",
@@ -1672,10 +1672,10 @@
       "description": "Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw",
-      "episode_count": 1351,
+      "episode_count": 1352,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml",
       "nrk_url": "https://radio.nrk.no/podkast/oppdatert",
-      "latest_episode": "2026-10-09T03:59:00Z"
+      "latest_episode": "2026-10-09T13:00:00Z"
     },
     {
       "id": "odaspodda",
@@ -1705,10 +1705,10 @@
       "description": "Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA",
-      "episode_count": 3656,
+      "episode_count": 3657,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml",
       "nrk_url": "https://radio.nrk.no/podkast/p3morgen",
-      "latest_episode": "2026-10-08T08:00:00Z"
+      "latest_episode": "2026-10-09T08:00:00Z"
     },
     {
       "id": "politisk_kvarter",
@@ -1969,10 +1969,10 @@
       "description": "Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
-      "episode_count": 353,
+      "episode_count": 354,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml",
       "nrk_url": "https://radio.nrk.no/podkast/siesta",
-      "latest_episode": "2026-10-08T04:00:00Z"
+      "latest_episode": "2026-10-09T04:00:00Z"
     },
     {
       "id": "sjakksnakk",

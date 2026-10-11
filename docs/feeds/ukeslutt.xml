@@ -6,7 +6,7 @@
     <description>Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 03 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ukeslutt</title>
       <link>https://radio.nrk.no/podkast/ukeslutt</link>
     </image>
+    <item>
+      <title>Forfattere spammes av merkelige e-poster</title>
+      <link>https://radio.nrk.no/podkast/ukeslutt/l_f708859e-30d1-46c3-8885-9e30d156c397</link>
+      <description>Anne Gunn Halvorsen ville lure luringen</description>
+      <guid isPermaLink="false">l_f708859e-30d1-46c3-8885-9e30d156c397</guid>
+      <pubDate>Sat, 10 Oct 2026 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/f708859e-30d1-46c3-8885-9e30d156c397_1_ID192MP3.mp3" type="audio/mpeg" length="97670060"></enclosure>
+      <itunes:title>Forfattere spammes av merkelige e-poster</itunes:title>
+      <itunes:summary>Anne Gunn Halvorsen ville lure luringen</itunes:summary>
+      <itunes:duration>4069</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/K0rPJN4tQJrmHgZYO_YgNgWY9TRh9Uqh-oq4-ckzISDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Laila Goody spiller mora til Benjamin</title>
       <link>https://radio.nrk.no/podkast/ukeslutt/l_fbf65acb-b3ef-4a5b-b65a-cbb3ef6a5bf7</link>

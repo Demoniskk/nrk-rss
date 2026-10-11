@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 11:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Adelina Ibishi / Jon Martin Henriksen / Janne Rønningen</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_badb0ae5-50ce-4436-9b0a-e550cec436f0</link>
+      <description>TILBAKEMELDING: Er Tante Skrue fremdeles rik? / PROBLEMER: Nygifte på hvert sitt soverom / Familiebursdag i skilsmisseland / Jeg kan ikke pusse opp / Vi har gjort det slutt med avstand / Hvordan sjekker man opp en venn? / Vanskelig kollega i min første voksenjobb / Må jeg planlegge brudens bryllup? / Kan jeg hevne meg?</description>
+      <guid isPermaLink="false">l_badb0ae5-50ce-4436-9b0a-e550cec436f0</guid>
+      <pubDate>Sat, 10 Oct 2026 13:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/badb0ae5-50ce-4436-9b0a-e550cec436f0_1_ID192MP3.mp3" type="audio/mpeg" length="211389164"></enclosure>
+      <itunes:title>Adelina Ibishi / Jon Martin Henriksen / Janne Rønningen</itunes:title>
+      <itunes:summary>TILBAKEMELDING: Er Tante Skrue fremdeles rik? / PROBLEMER: Nygifte på hvert sitt soverom / Familiebursdag i skilsmisseland / Jeg kan ikke pusse opp / Vi har gjort det slutt med avstand / Hvordan sjekker man opp en venn? / Vanskelig kollega i min første voksenjobb / Må jeg planlegge brudens bryllup? / Kan jeg hevne meg?</itunes:summary>
+      <itunes:duration>8807</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yVIdIJNJ6O9WZ9pebhMvDgisUEg3BAYNdg6jeuzjoukw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Blir det bryllup på budsjett?</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_cbae8a48-6b9a-4a7d-ae8a-486b9a4a7d62</link>

@@ -6,7 +6,7 @@
     <description>Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kilder_til_begeistring.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kilder til begeistring</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring</link>
     </image>
+    <item>
+      <title>Latterkrampe</title>
+      <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_b0fb696f-54b3-453e-bb69-6f54b3053e9d</link>
+      <description>Hva som utløste latterkrampen, er ikke godt å si.</description>
+      <guid isPermaLink="false">l_b0fb696f-54b3-453e-bb69-6f54b3053e9d</guid>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kilder_til_begeistring/b0fb696f-54b3-453e-bb69-6f54b3053e9d_1_ID192MP3.mp3" type="audio/mpeg" length="2107628"></enclosure>
+      <itunes:title>Latterkrampe</itunes:title>
+      <itunes:summary>Hva som utløste latterkrampen, er ikke godt å si.</itunes:summary>
+      <itunes:duration>87</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Bg-n2FBEAR_05OQGjLw8pwYHUtQzovN50EoatYinSUMg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Nesespray</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_853d275b-c1cc-4ef8-bd27-5bc1ccdef890</link>

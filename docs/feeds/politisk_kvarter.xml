@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Borgerlig krangel</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_5261f828-b0d5-4bfc-ba09-01d271cb58d5</link>
+      <description>Høyre mener Frp må slutte å angripe Høyre.&#xA;Frp nekter å møte Høyre.</description>
+      <guid isPermaLink="false">l_5261f828-b0d5-4bfc-ba09-01d271cb58d5</guid>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/5261f828-b0d5-4bfc-ba09-01d271cb58d5_3c65b8e7-5f9b-4fb3-a59b-34e058b51dad_ID192MP3.mp3" type="audio/mpeg" length="21820652"></enclosure>
+      <itunes:title>Borgerlig krangel</itunes:title>
+      <itunes:summary>Høyre mener Frp må slutte å angripe Høyre.&#xA;Frp nekter å møte Høyre.</itunes:summary>
+      <itunes:duration>909</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/C6SXTsEDKAY7624dgMuARApgfJ8ihWc8eLTgMim8cGDQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Tok hun over et konkursbo? </title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_783999b0-f479-45e4-a794-1220173dbc8a</link>

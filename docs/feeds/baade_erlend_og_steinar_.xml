@@ -6,7 +6,7 @@
     <description>En tenketank for folk med lav intelligens.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baade_erlend_og_steinar_.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Både Erlend og Steinar </title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
     </image>
+    <item>
+      <title>Hele hjernen i Norge</title>
+      <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_e9ebc925-8a6f-47fa-abc9-258a6f27fa58</link>
+      <description>Hvor godt funker det å ha en taper som psykolog? Kan vi lære noe av KI-selskapenes dommedagsprofetier? Og Steinar har fått en «ick».</description>
+      <guid isPermaLink="false">l_e9ebc925-8a6f-47fa-abc9-258a6f27fa58</guid>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/e9ebc925-8a6f-47fa-abc9-258a6f27fa58_2_ID192MP3.mp3" type="audio/mpeg" length="99707948"></enclosure>
+      <itunes:title>Hele hjernen i Norge</itunes:title>
+      <itunes:summary>Hvor godt funker det å ha en taper som psykolog? Kan vi lære noe av KI-selskapenes dommedagsprofetier? Og Steinar har fått en «ick».</itunes:summary>
+      <itunes:duration>4154</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Intellektuell kullosforgiftning</title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_d7e86a7c-27bf-4480-a86a-7c27bf248054</link>

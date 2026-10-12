@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:40:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Sinnsyke sparetips</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_c60de585-162e-489b-b403-db75157028e8</link>
+      <description>Jonas har noen rare sparetips, og er ute etter enda flere. Arin har også nye rare meninger om temperatur og lukt.</description>
+      <guid isPermaLink="false">l_c60de585-162e-489b-b403-db75157028e8</guid>
+      <pubDate>Mon, 12 Oct 2026 09:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/c60de585-162e-489b-b403-db75157028e8_9695f7a8-1245-45f1-a0b5-046834e49a72_ID192MP3.mp3" type="audio/mpeg" length="62875052"></enclosure>
+      <itunes:title>Sinnsyke sparetips</itunes:title>
+      <itunes:summary>Jonas har noen rare sparetips, og er ute etter enda flere. Arin har også nye rare meninger om temperatur og lukt.</itunes:summary>
+      <itunes:duration>2619</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lzaexVstGqWyE2JBXnS9EAyFTNR7cw5r0ptkcW01qCSw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Rip Ensomhetspartiet, lenge leve Else!</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_d90edcb5-87ce-458c-816a-9c0f24986e36</link>

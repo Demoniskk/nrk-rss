@@ -6,7 +6,7 @@
     <description>Risstinin li tjielgga vuojno masi ájggu. Le gus A4-iellem buoremus viessomvuohke, jali ij la huoman nav buorre gåk gullu? Se i NRK TV.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/juorre.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Juorre</title>
       <link>https://radio.nrk.no/podkast/juorre</link>
     </image>
+    <item>
+      <title>Dahkojiermme válldá badjel væráldav?</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_899bb66e-9533-4a64-9bb6-6e95330a6439</link>
+      <description>Sjaddá dahkojiermme sámev oahppat? Ailo usjudallá dahkojiermme máhttá ávkken sjaddat madi Risstin dassta ballá. Johanna giehttu ietjas åtsådallamijs skåvlås.</description>
+      <guid isPermaLink="false">l_899bb66e-9533-4a64-9bb6-6e95330a6439</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/899bb66e-9533-4a64-9bb6-6e95330a6439_1_ID192MP3.mp3" type="audio/mpeg" length="24367148"></enclosure>
+      <itunes:title>Dahkojiermme válldá badjel væráldav?</itunes:title>
+      <itunes:summary>Sjaddá dahkojiermme sámev oahppat? Ailo usjudallá dahkojiermme máhttá ávkken sjaddat madi Risstin dassta ballá. Johanna giehttu ietjas åtsådallamijs skåvlås.</itunes:summary>
+      <itunes:duration>1015</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Sivva manen viessop</title>
       <link>https://radio.nrk.no/podkast/juorre/l_242a0da1-9076-4e6b-aa0d-a190764e6b2f</link>

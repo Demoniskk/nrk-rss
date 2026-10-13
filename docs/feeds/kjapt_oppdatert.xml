@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Ny forsvarsavtale mellom Norge og Polen</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_6b70373f-0353-4bc7-b037-3f03537bc7c2</link>
+      <description>Og billetter til en norsk Champions League-kamp har gått for elleville billettpriser.</description>
+      <guid isPermaLink="false">l_6b70373f-0353-4bc7-b037-3f03537bc7c2</guid>
+      <pubDate>Tue, 13 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/6b70373f-0353-4bc7-b037-3f03537bc7c2_1_ID192MP3.mp3" type="audio/mpeg" length="8952236"></enclosure>
+      <itunes:title>Ny forsvarsavtale mellom Norge og Polen</itunes:title>
+      <itunes:summary>Og billetter til en norsk Champions League-kamp har gått for elleville billettpriser.</itunes:summary>
+      <itunes:duration>372</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1T6hh8lMdH8VFx91yiKTlQYc3WqTQABspkVQLoe-Y2Lw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Togstreiken fortsetter i dag</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_a877faee-21bd-4677-b7fa-ee21bd1677bb</link>

@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Bart på barneskolen</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_431d517b-12ed-4e87-ba06-f7c04162e806</link>
+      <description>Noen har aldri trengt å vise leg på Vinmonopolet. Vi hjelper noen morrapulere i trassrådet.</description>
+      <guid isPermaLink="false">l_431d517b-12ed-4e87-ba06-f7c04162e806</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/431d517b-12ed-4e87-ba06-f7c04162e806_950f2429-4e00-4ef4-8c37-7fbe2ba06ceb_ID192MP3.mp3" type="audio/mpeg" length="39422636"></enclosure>
+      <itunes:title>Bart på barneskolen</itunes:title>
+      <itunes:summary>Noen har aldri trengt å vise leg på Vinmonopolet. Vi hjelper noen morrapulere i trassrådet.</itunes:summary>
+      <itunes:duration>1642</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Digital uthenging</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_4a73dde3-0adc-4d17-9a59-7423b1710c1f</link>

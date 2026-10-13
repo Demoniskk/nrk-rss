@@ -6,7 +6,7 @@
     <description>En ukentlig flukt fra hverdagen! Sketsjer, hyss og spik med Christian Mikkelsen, Olav Svarstad Haugland og Emil Berntsen.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/blaatur.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Blåtur</title>
       <link>https://radio.nrk.no/podkast/blaatur</link>
     </image>
+    <item>
+      <title>Et farlig møte i borettslaget</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_780ecc19-2667-4b07-afaf-7d7d6d00c7b8</link>
+      <description>En trist telefon fra en gammel kompis. Christians nedrige legetime. Alt som gikk galt på Olavs ferie.</description>
+      <guid isPermaLink="false">l_780ecc19-2667-4b07-afaf-7d7d6d00c7b8</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/780ecc19-2667-4b07-afaf-7d7d6d00c7b8_0e2f8e9c-47d9-477f-a231-40ee1e759eb7_ID192MP3.mp3" type="audio/mpeg" length="48300524"></enclosure>
+      <itunes:title>Et farlig møte i borettslaget</itunes:title>
+      <itunes:summary>En trist telefon fra en gammel kompis. Christians nedrige legetime. Alt som gikk galt på Olavs ferie.</itunes:summary>
+      <itunes:duration>2012</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Jeg kommer ikke inn i jenta mi</title>
       <link>https://radio.nrk.no/podkast/blaatur/l_92a37700-8aa5-40f9-a377-008aa580f98f</link>

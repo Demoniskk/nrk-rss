@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 01:21:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:22:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Nærmer det seg slutten i City?</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_f7b39fa7-e392-454c-b39f-a7e392a54cd7</link>
+      <description>Hva skjer dersom Manchester City rammes av harde straffer? Må Haaland pakke kofferten og blir Spania neste stoppested?</description>
+      <guid isPermaLink="false">l_f7b39fa7-e392-454c-b39f-a7e392a54cd7</guid>
+      <pubDate>Mon, 12 Oct 2026 13:22:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/f7b39fa7-e392-454c-b39f-a7e392a54cd7_1_ID192MP3.mp3" type="audio/mpeg" length="60124076"></enclosure>
+      <itunes:title>Nærmer det seg slutten i City?</itunes:title>
+      <itunes:summary>Hva skjer dersom Manchester City rammes av harde straffer? Må Haaland pakke kofferten og blir Spania neste stoppested?</itunes:summary>
+      <itunes:duration>2505</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Tre strake tap og kniven på strupen</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_dd523b47-8b29-41ed-923b-478b29c1ed39</link>

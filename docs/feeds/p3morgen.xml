@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 07:40:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Vi lukter på Arin</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_676e4761-8841-4c35-bfa9-d4fa212ede72</link>
+      <description>Er det sant at alle har hatt en flørt med noen som har kjæreste? Artisten Synne Sørgjerd har tatt fyr på TikTok, etter å ha fortalt at dette er noe som er helt vanlig. Er det faktisk sant? Vi har invitert Selma Ibrahim, for å ta diskusjonen!</description>
+      <guid isPermaLink="false">l_676e4761-8841-4c35-bfa9-d4fa212ede72</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/676e4761-8841-4c35-bfa9-d4fa212ede72_d869a984-665b-4543-9ab8-7c47721ba688_ID192MP3.mp3" type="audio/mpeg" length="60538796"></enclosure>
+      <itunes:title>Vi lukter på Arin</itunes:title>
+      <itunes:summary>Er det sant at alle har hatt en flørt med noen som har kjæreste? Artisten Synne Sørgjerd har tatt fyr på TikTok, etter å ha fortalt at dette er noe som er helt vanlig. Er det faktisk sant? Vi har invitert Selma Ibrahim, for å ta diskusjonen!</itunes:summary>
+      <itunes:duration>2522</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fBsX7odlgoZkxXinhIw7bAP0lX7PGfi-wZGqyo3_TYOQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Sinnsyke sparetips</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_c60de585-162e-489b-b403-db75157028e8</link>

@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>100 kokaindoser i kroppen: Hva skjedde med Amanda?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_a2d331d4-416a-4465-9331-d4416ac4650f</link>
+      <description>Trebarnsmoren ble funnet død under mistenkelige omstendigheter. Gjorde politiet nok?</description>
+      <guid isPermaLink="false">l_a2d331d4-416a-4465-9331-d4416ac4650f</guid>
+      <pubDate>Tue, 13 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/a2d331d4-416a-4465-9331-d4416ac4650f_1_ID192MP3.mp3" type="audio/mpeg" length="27576620"></enclosure>
+      <itunes:title>100 kokaindoser i kroppen: Hva skjedde med Amanda?</itunes:title>
+      <itunes:summary>Trebarnsmoren ble funnet død under mistenkelige omstendigheter. Gjorde politiet nok?</itunes:summary>
+      <itunes:duration>1148</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YkHCI4TvLeCKRYOnwJFJHA_cRusr2kjkGetPOKfCbo5w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Mystisk innbruddsbølge: Står fremmed makt bak?</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_91fd8484-ad4f-4016-bd84-84ad4f1016bf</link>

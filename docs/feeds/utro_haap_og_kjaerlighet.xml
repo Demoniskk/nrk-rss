@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 11 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Eva B. Ragde: Rikt liv alene</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_1903d01a-0a3d-4e9f-83d0-1a0a3d0e9fa1</link>
+      <description>Krimtekniker Eva B. Ragde trives godt alene. Hun deler sine beste tips til hvordan man kan leve et rikt liv som singel.</description>
+      <guid isPermaLink="false">l_1903d01a-0a3d-4e9f-83d0-1a0a3d0e9fa1</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/1903d01a-0a3d-4e9f-83d0-1a0a3d0e9fa1_1_ID192MP3.mp3" type="audio/mpeg" length="62331884"></enclosure>
+      <itunes:title>Eva B. Ragde: Rikt liv alene</itunes:title>
+      <itunes:summary>Krimtekniker Eva B. Ragde trives godt alene. Hun deler sine beste tips til hvordan man kan leve et rikt liv som singel.</itunes:summary>
+      <itunes:duration>2597</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4BZjgGJRzbSnSndZJwaM-AMoE5ZpT3Gd0C0Nqp5fXh-A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Panelet: Rollespill og tungeskrubb</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_281859e4-ffc7-4e60-9859-e4ffc7fe6044</link>

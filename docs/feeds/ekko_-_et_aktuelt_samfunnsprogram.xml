@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Straumsvoltne datasenter</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_c0e9dcea-aa1c-42aa-ab6c-8d96d160a884</link>
+      <description>Vi står i spagaten mellom behovet for arbeidsplassar og digitale tenester, og frykta for tapt natur og kraftmangel. Kva om vi seier nei til å byggje fleire datasenter i Noreg?</description>
+      <guid isPermaLink="false">l_c0e9dcea-aa1c-42aa-ab6c-8d96d160a884</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/c0e9dcea-aa1c-42aa-ab6c-8d96d160a884_f2877ff9-b17c-4a63-893d-c18c156a0304_ID192MP3.mp3" type="audio/mpeg" length="32242220"></enclosure>
+      <itunes:title>Straumsvoltne datasenter</itunes:title>
+      <itunes:summary>Vi står i spagaten mellom behovet for arbeidsplassar og digitale tenester, og frykta for tapt natur og kraftmangel. Kva om vi seier nei til å byggje fleire datasenter i Noreg?</itunes:summary>
+      <itunes:duration>1343</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EHye_2zsU-YthIeyPhYqSg6FMe34P3r3ZvLrKcQBc9cg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
+    <item>
+      <title>- Menn må ta samtalen</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_22e7de41-cb2d-447f-aff0-8eb6c1a12959</link>
+      <description>Hvorfor snakker ikke flere menn om overgrep? Seksuelle overgrep er et stort samfunnsproblem, men det er ofte kvinnene selv som må løfte debatten. </description>
+      <guid isPermaLink="false">l_22e7de41-cb2d-447f-aff0-8eb6c1a12959</guid>
+      <pubDate>Mon, 12 Oct 2026 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/22e7de41-cb2d-447f-aff0-8eb6c1a12959_ce12d493-aea3-4401-bf48-e6269f6c186d_ID192MP3.mp3" type="audio/mpeg" length="33881516"></enclosure>
+      <itunes:title>- Menn må ta samtalen</itunes:title>
+      <itunes:summary>Hvorfor snakker ikke flere menn om overgrep? Seksuelle overgrep er et stort samfunnsproblem, men det er ofte kvinnene selv som må løfte debatten. </itunes:summary>
+      <itunes:duration>1411</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-9J2l_prmEvQRwch1isODAbIkoFLd01yOH3tpw6CCvJg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Trumps USA: På friarferd igjen</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_8834c93e-b69d-43c8-8ac3-9ef5e81f29d2</link>

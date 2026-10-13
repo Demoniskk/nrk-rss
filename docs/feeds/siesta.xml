@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Toll-Steffen fingrer oss i øret</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_a3e04674-4d57-4c93-a046-744d57bc9375</link>
+      <description>Finn Glede kjemper for TV-aksjonen, Steffen fra spillet gir oss «wet willy»  og Anna forteller om verdens verste leirskole.</description>
+      <guid isPermaLink="false">l_a3e04674-4d57-4c93-a046-744d57bc9375</guid>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/a3e04674-4d57-4c93-a046-744d57bc9375_1_ID192MP3.mp3" type="audio/mpeg" length="71941292"></enclosure>
+      <itunes:title>Toll-Steffen fingrer oss i øret</itunes:title>
+      <itunes:summary>Finn Glede kjemper for TV-aksjonen, Steffen fra spillet gir oss «wet willy»  og Anna forteller om verdens verste leirskole.</itunes:summary>
+      <itunes:duration>2997</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Markus intervjuer Espen Nakstad</title>
       <link>https://radio.nrk.no/podkast/siesta/l_3ccf1876-700f-418a-8f18-76700f918a1f</link>

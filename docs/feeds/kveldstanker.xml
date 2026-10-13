@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Enkelt - med Julie Killingberg</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_9f9fcf3a-e04f-4736-9e05-d0b72e712341</link>
+      <description>- VI er blitt for glad i å gjøre alt så enkelt som mulig. Det ikke lurt, mener Julie Killingberg. </description>
+      <guid isPermaLink="false">l_9f9fcf3a-e04f-4736-9e05-d0b72e712341</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/9f9fcf3a-e04f-4736-9e05-d0b72e712341_9309c10e-0284-47c3-acc8-677f52b8cc4e_ID192MP3.mp3" type="audio/mpeg" length="4128236"></enclosure>
+      <itunes:title>Enkelt - med Julie Killingberg</itunes:title>
+      <itunes:summary>- VI er blitt for glad i å gjøre alt så enkelt som mulig. Det ikke lurt, mener Julie Killingberg. </itunes:summary>
+      <itunes:duration>171</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QuJ-8g-H9W4qlIAWribQngatcWiFuMaq-qy9QgaE_ioA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Kontakt Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_8d3dbeef-feea-4a51-a2ca-37ec40f7f384</link>

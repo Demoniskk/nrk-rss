@@ -6,7 +6,7 @@
     <description>Luohti sáhttá govvidit ráhkesvuođa, muhto maiddái unohisvuođaid. Dás guorahallabage luđiid, maiddái olbmuiguin geain leat muitalusat ja vásáhusat.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/luois_luohti.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Luođis luohtái</title>
       <link>https://radio.nrk.no/podkast/luois_luohti</link>
     </image>
+    <item>
+      <title>Boazodoallu ja luođit Alaskas</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_9b861d2c-8a55-4c85-861d-2c8a551c8592</link>
+      <description>Sámit vulge Amerihkii gádjut Alaska eamiálbmogiid nealggis. Sii eai váldan fárrui dušše boazodoallomáhtu, muhto maiddái luđiid.</description>
+      <guid isPermaLink="false">l_9b861d2c-8a55-4c85-861d-2c8a551c8592</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/9b861d2c-8a55-4c85-861d-2c8a551c8592_1_ID192MP3.mp3" type="audio/mpeg" length="87825068"></enclosure>
+      <itunes:title>Boazodoallu ja luođit Alaskas</itunes:title>
+      <itunes:summary>Sámit vulge Amerihkii gádjut Alaska eamiálbmogiid nealggis. Sii eai váldan fárrui dušše boazodoallomáhtu, muhto maiddái luđiid.</itunes:summary>
+      <itunes:duration>3659</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Luohti ilbmá filbmamáilbmai</title>
       <link>https://radio.nrk.no/podkast/luois_luohti/l_1abee20e-1f63-4bcb-bee2-0e1f631bcb88</link>

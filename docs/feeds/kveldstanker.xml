@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Midtlivskrise - med Ingelin Røssland</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_d268ecb2-2c8d-4f7a-9478-11666015424b</link>
+      <description>- Eg veit det er galskap det eg har sett i gang, fortel forfattaren Ingelin Røssland</description>
+      <guid isPermaLink="false">l_d268ecb2-2c8d-4f7a-9478-11666015424b</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/d268ecb2-2c8d-4f7a-9478-11666015424b_d95162f1-8e5e-427e-9bb9-cad311acbedd_ID192MP3.mp3" type="audio/mpeg" length="4180076"></enclosure>
+      <itunes:title>Midtlivskrise - med Ingelin Røssland</itunes:title>
+      <itunes:summary>- Eg veit det er galskap det eg har sett i gang, fortel forfattaren Ingelin Røssland</itunes:summary>
+      <itunes:duration>174</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZKOUbqyomccDRNvQqWQj5gTlUTR5Jefxd3eKJ6pwHmDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Enkelt - med Julie Killingberg</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_9f9fcf3a-e04f-4736-9e05-d0b72e712341</link>

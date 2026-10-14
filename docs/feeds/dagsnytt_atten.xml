@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Kinesiske biler overvåker</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_c277ef10-d704-41d0-910f-8a1237c62b5b</link>
+      <description>Nytt eksperiment viser at bilene våre er rullende overvåkingsplattformer. Hvordan er egentlig sikkerheten når Kina kan sikre seg  informasjon via biler?</description>
+      <guid isPermaLink="false">l_c277ef10-d704-41d0-910f-8a1237c62b5b</guid>
+      <pubDate>Tue, 13 Oct 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c277ef10-d704-41d0-910f-8a1237c62b5b_786e396f-d850-4553-8b71-0e687c968d50_ID192MP3.mp3" type="audio/mpeg" length="85022252"></enclosure>
+      <itunes:title>Kinesiske biler overvåker</itunes:title>
+      <itunes:summary>Nytt eksperiment viser at bilene våre er rullende overvåkingsplattformer. Hvordan er egentlig sikkerheten når Kina kan sikre seg  informasjon via biler?</itunes:summary>
+      <itunes:duration>3542</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qqeQ5CZyodgDY9La_0va4g_WCbMMLaB-9QBy7z0Br6bw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Norge undertegnet avtale med Polen</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_7f11899f-5f43-4b89-a312-863b00c0b310</link>

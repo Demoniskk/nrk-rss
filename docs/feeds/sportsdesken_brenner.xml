@@ -6,7 +6,7 @@
     <description>En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sportsdesken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sportsdesken brenner</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner</link>
     </image>
+    <item>
+      <title>Fire m-høns</title>
+      <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_c984b6bf-792f-44de-b9da-b40aae870164</link>
+      <description>Rögle-spilleren Tinus Luc Koblar går i tydelig forvar for sin mor, City-fansen kjører på med en snart 40år gammel bananreferanse, og vi rangerer pep-talks.</description>
+      <guid isPermaLink="false">l_c984b6bf-792f-44de-b9da-b40aae870164</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/c984b6bf-792f-44de-b9da-b40aae870164_325c6a59-920a-4425-823f-aa8e74243942_ID192MP3.mp3" type="audio/mpeg" length="59568236"></enclosure>
+      <itunes:title>Fire m-høns</itunes:title>
+      <itunes:summary>Rögle-spilleren Tinus Luc Koblar går i tydelig forvar for sin mor, City-fansen kjører på med en snart 40år gammel bananreferanse, og vi rangerer pep-talks.</itunes:summary>
+      <itunes:duration>2481</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Oliver Solberg hopper av i svingen</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_501ee9cb-f1ca-4a33-936e-1d185b6103cf</link>

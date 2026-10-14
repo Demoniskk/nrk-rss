@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Cornell tar grep etter voldtektssak</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_fe0fce9b-06f1-404b-b669-38af4b1fd98d</link>
+      <description>Og det var flere norske fotballbragder i går.</description>
+      <guid isPermaLink="false">l_fe0fce9b-06f1-404b-b669-38af4b1fd98d</guid>
+      <pubDate>Wed, 14 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/fe0fce9b-06f1-404b-b669-38af4b1fd98d_6d4d343d-bfcf-4865-926c-25622a6b8666_ID192MP3.mp3" type="audio/mpeg" length="9800684"></enclosure>
+      <itunes:title>Cornell tar grep etter voldtektssak</itunes:title>
+      <itunes:summary>Og det var flere norske fotballbragder i går.</itunes:summary>
+      <itunes:duration>408</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5iVg4iShWYTgsd5ULgLRzwlTUkKuC5u_RbMUxwUKDMMQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Ny forsvarsavtale mellom Norge og Polen</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_6b70373f-0353-4bc7-b037-3f03537bc7c2</link>

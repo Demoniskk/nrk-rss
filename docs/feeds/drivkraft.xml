@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 11:28:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:25:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Marie Blokhus </title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_0610943b-1500-4c39-823c-f9fa5771c448</link>
+      <description>På bursdagen sin satt skuespilleren med en mimosa i hånden og ventet på 40-årskrisa</description>
+      <guid isPermaLink="false">l_0610943b-1500-4c39-823c-f9fa5771c448</guid>
+      <pubDate>Tue, 13 Oct 2026 14:25:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/0610943b-1500-4c39-823c-f9fa5771c448_982c399e-319a-4342-b057-b20a16ae07e3_ID192MP3.mp3" type="audio/mpeg" length="82568492"></enclosure>
+      <itunes:title>Marie Blokhus </itunes:title>
+      <itunes:summary>På bursdagen sin satt skuespilleren med en mimosa i hånden og ventet på 40-årskrisa</itunes:summary>
+      <itunes:duration>3440</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5BCbyrKS1JYBVa3s5hEFhgKkgjzcbbD3r0duKTGBaOVg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Halvar Ellingsen</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_2706985f-fda5-4d0d-856b-5982a2d889c3</link>

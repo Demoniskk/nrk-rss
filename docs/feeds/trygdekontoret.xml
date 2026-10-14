@@ -6,7 +6,7 @@
     <description>Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Trygdekontoret</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret</link>
     </image>
+    <item>
+      <title>En viktig beskjed til deg!</title>
+      <link>https://radio.nrk.no/podkast/trygdekontoret/l_a4ca948f-07af-4645-8a94-8f07af864575</link>
+      <description>Mellomvalg i USA og Trygdekontoret gjør ting litt annerledes de neste ukene...</description>
+      <guid isPermaLink="false">l_a4ca948f-07af-4645-8a94-8f07af864575</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/a4ca948f-07af-4645-8a94-8f07af864575_1_ID192MP3.mp3" type="audio/mpeg" length="1577708"></enclosure>
+      <itunes:title>En viktig beskjed til deg!</itunes:title>
+      <itunes:summary>Mellomvalg i USA og Trygdekontoret gjør ting litt annerledes de neste ukene...</itunes:summary>
+      <itunes:duration>65</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7cFDKybYc-0e72TjGemI0QCDtOQ3GhoX_1rkjKiq2XnA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Droner, dagligliv og dødsforakt</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret/l_cae822c8-ec45-4a5a-a822-c8ec45ba5a2a</link>

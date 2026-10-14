@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 08:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 20:05:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Har lederne i statlige selskaper en lønnsfest?</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_b8aeab0f-94c6-4c74-aeab-0f94c61c74d6</link>
+      <description>Kreves det større politisk styring av statlige selskapers lønnsstruktur, eller er det &#34;gammelkommunisme&#34;?</description>
+      <guid isPermaLink="false">l_b8aeab0f-94c6-4c74-aeab-0f94c61c74d6</guid>
+      <pubDate>Tue, 13 Oct 2026 22:05:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/b8aeab0f-94c6-4c74-aeab-0f94c61c74d6_1_ID192MP3.mp3" type="audio/mpeg" length="59848172"></enclosure>
+      <itunes:title>Har lederne i statlige selskaper en lønnsfest?</itunes:title>
+      <itunes:summary>Kreves det større politisk styring av statlige selskapers lønnsstruktur, eller er det &#34;gammelkommunisme&#34;?</itunes:summary>
+      <itunes:duration>2493</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PWh1xbTo9IgeVDzPs4RVygtwNBL4wHhhiESrXKwEN7IA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Påstått gruppevoldtekt setter sinnene i kok også i Norge</title>
       <link>https://radio.nrk.no/podkast/debatten/l_1d6c86fe-66be-4da7-ac86-fe66beada720</link>

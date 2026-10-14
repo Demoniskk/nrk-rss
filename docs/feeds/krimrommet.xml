@@ -6,7 +6,7 @@
     <description>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Krimrommet</title>
       <link>https://radio.nrk.no/podkast/krimrommet</link>
     </image>
+    <item>
+      <title>Clancy (3): «Patrick did it!»</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_6a71d6d1-5ef3-49ab-8bdd-70e03b4a460e</link>
+      <description>Lindsay Clancy er tiltalt for å ha drept barna sine – men på internett florerer teoriene om en helt annen gjerningsmann. </description>
+      <guid isPermaLink="false">l_6a71d6d1-5ef3-49ab-8bdd-70e03b4a460e</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/6a71d6d1-5ef3-49ab-8bdd-70e03b4a460e_71f79399-b314-4634-83ea-b13e95b6eb08_ID192MP3.mp3" type="audio/mpeg" length="60017516"></enclosure>
+      <itunes:title>Clancy (3): «Patrick did it!»</itunes:title>
+      <itunes:summary>Lindsay Clancy er tiltalt for å ha drept barna sine – men på internett florerer teoriene om en helt annen gjerningsmann. </itunes:summary>
+      <itunes:duration>2500</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TDOLI_bbx7TRvSSy8GRNCAqsAjmWDfUfJSi71Gz5EZRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Cornell: Hva er egentlig sant?</title>
       <link>https://radio.nrk.no/podkast/krimrommet/l_117b939f-cd70-4d78-bd34-ccded230685f</link>

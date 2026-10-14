@@ -6,7 +6,7 @@
     <description>Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller. &#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bibelen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Bibelen</title>
       <link>https://radio.nrk.no/podkast/bibelen</link>
     </image>
+    <item>
+      <title>Paulus – Operasjon helomvending (39:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_15030f0e-bd56-4b9e-830f-0ebd565b9e82</link>
+      <description>Paulus blir ny. Og Den hellige ånd sier sin eneste replikk.</description>
+      <guid isPermaLink="false">l_15030f0e-bd56-4b9e-830f-0ebd565b9e82</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/15030f0e-bd56-4b9e-830f-0ebd565b9e82_1_ID192MP3.mp3" type="audio/mpeg" length="53069228"></enclosure>
+      <itunes:title>Paulus – Operasjon helomvending (39:40)</itunes:title>
+      <itunes:summary>Paulus blir ny. Og Den hellige ånd sier sin eneste replikk.</itunes:summary>
+      <itunes:duration>2211</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MM0cZxX6vhEKqKwY5DtHuwQJKaGyPc639Tebj20To06w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Apostlenes gjerninger (38:40)</title>
       <link>https://radio.nrk.no/podkast/bibelen/l_130b3d80-7391-408b-8b3d-807391608b53</link>

@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Flom, tørke og brann: Hva er værfenomenet El Niño?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_f77253f0-583d-47c6-b253-f0583d27c69a</link>
+      <description>Årets El Niño sammenliknes med Godzilla. Forskere spår at flere hundre tusen liv kan gå tapt.</description>
+      <guid isPermaLink="false">l_f77253f0-583d-47c6-b253-f0583d27c69a</guid>
+      <pubDate>Wed, 14 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/f77253f0-583d-47c6-b253-f0583d27c69a_b1ef4a68-adb4-4b09-9068-8b7353e41260_ID192MP3.mp3" type="audio/mpeg" length="21564908"></enclosure>
+      <itunes:title>Flom, tørke og brann: Hva er værfenomenet El Niño?</itunes:title>
+      <itunes:summary>Årets El Niño sammenliknes med Godzilla. Forskere spår at flere hundre tusen liv kan gå tapt.</itunes:summary>
+      <itunes:duration>898</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2QudLOh_5lEISxVTXH11OQm1qh1bEJ2abanC7kccL4QQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>100 kokaindoser i kroppen: Hva skjedde med Amanda?</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_a2d331d4-416a-4465-9331-d4416ac4650f</link>

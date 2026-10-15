@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Grønt lys for midlertidig dumping av gruveavfall i Førdefjorden</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_0378324c-4b3d-4417-bb66-ed320d724149</link>
+      <description>Regjeringen tillater 4,5 millioner tonn med gruveavfall i i Førdefjorden. Trosser klimaministeren høyesterett?  </description>
+      <guid isPermaLink="false">l_0378324c-4b3d-4417-bb66-ed320d724149</guid>
+      <pubDate>Thu, 15 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/0378324c-4b3d-4417-bb66-ed320d724149_0745b0ed-c135-4c60-aa49-01d5cefa6085_ID192MP3.mp3" type="audio/mpeg" length="21757868"></enclosure>
+      <itunes:title>Grønt lys for midlertidig dumping av gruveavfall i Førdefjorden</itunes:title>
+      <itunes:summary>Regjeringen tillater 4,5 millioner tonn med gruveavfall i i Førdefjorden. Trosser klimaministeren høyesterett?  </itunes:summary>
+      <itunes:duration>906</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/QOXPq11BvK26KyiSOdIMxwJeXKbSMA_sIO267pHoI1SA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Har vi for mange kommuner?</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_26d94c62-359b-42bf-8591-9e7c3f798078</link>

@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Matgigantene i retten: Ulovlig prissamarbeid?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_15310543-ea74-4fe1-af45-29cdbbad95e4</link>
+      <description>Milliarder på spill når Konkurransetilsynet møter dagligvarekjedene i Norges største konkurranserettssak.</description>
+      <guid isPermaLink="false">l_15310543-ea74-4fe1-af45-29cdbbad95e4</guid>
+      <pubDate>Thu, 15 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/15310543-ea74-4fe1-af45-29cdbbad95e4_89dac566-0292-4ca2-bafb-e38718ebcd66_ID192MP3.mp3" type="audio/mpeg" length="21258476"></enclosure>
+      <itunes:title>Matgigantene i retten: Ulovlig prissamarbeid?</itunes:title>
+      <itunes:summary>Milliarder på spill når Konkurransetilsynet møter dagligvarekjedene i Norges største konkurranserettssak.</itunes:summary>
+      <itunes:duration>885</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/G-9xpSUbAhcfIpfuRKldtAVSeHsC0aJ1V1cgzPJQPnww"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Flom, tørke og brann: Hva er værfenomenet El Niño?</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_f77253f0-583d-47c6-b253-f0583d27c69a</link>

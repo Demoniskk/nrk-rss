@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Spør Ekko om ungdomskriminalitet</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_fb1ca898-38c4-4bd8-8e4c-e9ae8084542d</link>
+      <description>Kva dreg barn inn i kriminelle nettverk, og korleis hjelper vi dei ut? Ekspertane svarer.</description>
+      <guid isPermaLink="false">l_fb1ca898-38c4-4bd8-8e4c-e9ae8084542d</guid>
+      <pubDate>Wed, 14 Oct 2026 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/fb1ca898-38c4-4bd8-8e4c-e9ae8084542d_7e0ced19-7d6b-4f3f-86b8-94d205454251_ID192MP3.mp3" type="audio/mpeg" length="79227116"></enclosure>
+      <itunes:title>Spør Ekko om ungdomskriminalitet</itunes:title>
+      <itunes:summary>Kva dreg barn inn i kriminelle nettverk, og korleis hjelper vi dei ut? Ekspertane svarer.</itunes:summary>
+      <itunes:duration>3301</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/-4M9b7qIWYpPgLY2PSTRxgkSfQTg6jJLeQRJc4-1terQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Straumsvoltne datasenter</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_c0e9dcea-aa1c-42aa-ab6c-8d96d160a884</link>

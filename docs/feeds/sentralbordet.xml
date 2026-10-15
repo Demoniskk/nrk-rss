@@ -6,7 +6,7 @@
     <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sentralbordet på NRK</title>
       <link>https://radio.nrk.no/podkast/sentralbordet</link>
     </image>
+    <item>
+      <title>Ole Henry cosplayer kriminell</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_1de12aee-3b7a-4a14-a12a-ee3b7a8a14a7</link>
+      <description>Vegard drømmer fortsatt om en platting på Island, «John Arne Riise» har en klage til en leketøysbutikk, en usedvanlig trivelig fyr forhører seg om en bil, og Ole Henry, som for tiden er husløs på grunn av vannlekkasje, blir oppringt av forsikringsselskapet med litt ny info.</description>
+      <guid isPermaLink="false">l_1de12aee-3b7a-4a14-a12a-ee3b7a8a14a7</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/1de12aee-3b7a-4a14-a12a-ee3b7a8a14a7_2_ID192MP3.mp3" type="audio/mpeg" length="31336748"></enclosure>
+      <itunes:title>Ole Henry cosplayer kriminell</itunes:title>
+      <itunes:summary>Vegard drømmer fortsatt om en platting på Island, «John Arne Riise» har en klage til en leketøysbutikk, en usedvanlig trivelig fyr forhører seg om en bil, og Ole Henry, som for tiden er husløs på grunn av vannlekkasje, blir oppringt av forsikringsselskapet med litt ny info.</itunes:summary>
+      <itunes:duration>1305</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Live er ufrivillig Farmen-diva</title>
       <link>https://radio.nrk.no/podkast/sentralbordet/l_ea96b7de-7dd0-4613-96b7-de7dd0261342</link>

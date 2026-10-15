@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Daniel elsker excel og hater snø</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_0c3216cf-36a3-44a3-b216-cf36a3d4a3c3</link>
+      <description>Finn Glede intervjuer &#34;Jan Eggum&#34;, Anna kom for seint på grunn av vaffelsteking og Daniel er klimaflytkning som hater snø.</description>
+      <guid isPermaLink="false">l_0c3216cf-36a3-44a3-b216-cf36a3d4a3c3</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/0c3216cf-36a3-44a3-b216-cf36a3d4a3c3_1_ID192MP3.mp3" type="audio/mpeg" length="66276908"></enclosure>
+      <itunes:title>Daniel elsker excel og hater snø</itunes:title>
+      <itunes:summary>Finn Glede intervjuer &#34;Jan Eggum&#34;, Anna kom for seint på grunn av vaffelsteking og Daniel er klimaflytkning som hater snø.</itunes:summary>
+      <itunes:duration>2761</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Tror vi på astrologi?</title>
       <link>https://radio.nrk.no/podkast/siesta/l_71f5ce69-6a5c-4223-b5ce-696a5c4223e9</link>

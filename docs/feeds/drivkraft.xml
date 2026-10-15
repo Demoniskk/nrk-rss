@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 12:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:54:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Linda Eide</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_06ee3099-4bd1-402c-aa11-b543bcc99739</link>
+      <description>– Eg har pådratt meg hjernerysting for eit godt sjov, fortel programleiaren som er perfeksjonist. </description>
+      <guid isPermaLink="false">l_06ee3099-4bd1-402c-aa11-b543bcc99739</guid>
+      <pubDate>Wed, 14 Oct 2026 13:54:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/06ee3099-4bd1-402c-aa11-b543bcc99739_f4883146-bba0-4969-82ae-d88980e3ab2e_ID192MP3.mp3" type="audio/mpeg" length="82481516"></enclosure>
+      <itunes:title>Linda Eide</itunes:title>
+      <itunes:summary>– Eg har pådratt meg hjernerysting for eit godt sjov, fortel programleiaren som er perfeksjonist. </itunes:summary>
+      <itunes:duration>3436</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NdtuRYuOIYh9ol6LkfKghALtcrCZyuBeEXBW7pJBM8tQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Marie Blokhus </title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_0610943b-1500-4c39-823c-f9fa5771c448</link>

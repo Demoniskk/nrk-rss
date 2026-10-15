@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Seksuelt trakassert av en robot</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_05914f59-6393-4841-8742-a2c57a190b03</link>
+      <description>Det er refleksens dag, og er refleks egentlig litt sexy? Jonas har oppgradert tacoen, og er på jakt etter flere taco-hacks</description>
+      <guid isPermaLink="false">l_05914f59-6393-4841-8742-a2c57a190b03</guid>
+      <pubDate>Thu, 15 Oct 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/05914f59-6393-4841-8742-a2c57a190b03_95486fca-5d0a-4e50-ad58-0e30da1a9bd4_ID192MP3.mp3" type="audio/mpeg" length="60212204"></enclosure>
+      <itunes:title>Seksuelt trakassert av en robot</itunes:title>
+      <itunes:summary>Det er refleksens dag, og er refleks egentlig litt sexy? Jonas har oppgradert tacoen, og er på jakt etter flere taco-hacks</itunes:summary>
+      <itunes:duration>2508</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fC_cFiQqEhGfugvln5ePmA_LpUChAg6kFeWOcDohGurw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
+    <item>
+      <title>Jonas lever Ole Brumm-drømmen</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_9db4ba8f-de23-48cb-a33f-2630ba648e7d</link>
+      <description>Har Ole Brumm en håndgranat i rumpen, eller en sprettkniv i lommen? Vi feirer bjørnens 100-årsjubileum med litt mimring til upassende barnelåter.</description>
+      <guid isPermaLink="false">l_9db4ba8f-de23-48cb-a33f-2630ba648e7d</guid>
+      <pubDate>Wed, 14 Oct 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/9db4ba8f-de23-48cb-a33f-2630ba648e7d_a0fe26ea-79b5-4e3e-a7b9-345f6d1a225b_ID192MP3.mp3" type="audio/mpeg" length="62255276"></enclosure>
+      <itunes:title>Jonas lever Ole Brumm-drømmen</itunes:title>
+      <itunes:summary>Har Ole Brumm en håndgranat i rumpen, eller en sprettkniv i lommen? Vi feirer bjørnens 100-årsjubileum med litt mimring til upassende barnelåter.</itunes:summary>
+      <itunes:duration>2593</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JXKR3Rm9LZgjw15LYWTJbgLvIJJIfw3uWq5Mee2emFmQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Vi lukter på Arin</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_676e4761-8841-4c35-bfa9-d4fa212ede72</link>

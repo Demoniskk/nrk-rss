@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Trafikklys - Silje Aune Meisal</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_bb3c2b6a-4147-4e61-9a08-92d022441161</link>
+      <description>Verden er mer komplisert enn enkle regler. Av og til kan du lure på om du heller bør bryte en regel enn å overholde den.</description>
+      <guid isPermaLink="false">l_bb3c2b6a-4147-4e61-9a08-92d022441161</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/bb3c2b6a-4147-4e61-9a08-92d022441161_2ad8f751-54d5-4f21-966b-050e7ac08d92_ID192MP3.mp3" type="audio/mpeg" length="4450220"></enclosure>
+      <itunes:title>Trafikklys - Silje Aune Meisal</itunes:title>
+      <itunes:summary>Verden er mer komplisert enn enkle regler. Av og til kan du lure på om du heller bør bryte en regel enn å overholde den.</itunes:summary>
+      <itunes:duration>185</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zJ9vsuM972XAOYyAXEc41AMxBGf4NXgiyBQN7RZ-Wy0A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Sinne - Silje Meisal</title>
       <link>https://radio.nrk.no/podkast/andakten/l_3dd90959-8232-44c3-8732-42d6c6ab7cc0</link>

@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Nora Svenningsen: Egenkjærlighet</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_da415e16-c9de-4660-815e-16c9def6605d</link>
+      <description>Nora Svenningsen om dårlig selvbilde i oppveksten, og hvordan det har påvirket henne som singel og i hennes første forhold.</description>
+      <guid isPermaLink="false">l_da415e16-c9de-4660-815e-16c9def6605d</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/da415e16-c9de-4660-815e-16c9def6605d_1_ID192MP3.mp3" type="audio/mpeg" length="70042796"></enclosure>
+      <itunes:title>Nora Svenningsen: Egenkjærlighet</itunes:title>
+      <itunes:summary>Nora Svenningsen om dårlig selvbilde i oppveksten, og hvordan det har påvirket henne som singel og i hennes første forhold.</itunes:summary>
+      <itunes:duration>2918</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TrUhaLthhUhVLCuqfsFKlQ7A0Dj99cGUnEAONrxn7glg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Eva B. Ragde: Rikt liv alene</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_1903d01a-0a3d-4e9f-83d0-1a0a3d0e9fa1</link>

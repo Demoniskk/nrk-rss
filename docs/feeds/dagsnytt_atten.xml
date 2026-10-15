@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Drapsoppdrag på Instagram</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_2d98806d-5e85-45eb-a18e-bb08632690b1</link>
+      <description>Norske barn og unge rekrutteres til drapsoppdrag på sosiale medier. Frp mener regjeringen gjør for lite for å stanse utviklingen.</description>
+      <guid isPermaLink="false">l_2d98806d-5e85-45eb-a18e-bb08632690b1</guid>
+      <pubDate>Wed, 14 Oct 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/2d98806d-5e85-45eb-a18e-bb08632690b1_19d2d79c-2e69-4170-a42f-58ee74c4d32a_ID192MP3.mp3" type="audio/mpeg" length="84927212"></enclosure>
+      <itunes:title>Drapsoppdrag på Instagram</itunes:title>
+      <itunes:summary>Norske barn og unge rekrutteres til drapsoppdrag på sosiale medier. Frp mener regjeringen gjør for lite for å stanse utviklingen.</itunes:summary>
+      <itunes:duration>3538</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HCLOpzcm4AU8Dl0kCDigawL8Na7V_Ba47aHnaA002hyA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Kinesiske biler overvåker</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_c277ef10-d704-41d0-910f-8a1237c62b5b</link>

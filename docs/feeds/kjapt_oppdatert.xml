@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Refleksdagen markeres i dag</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_e8de8bd7-a39b-4832-b8e5-03a70d53019a</link>
+      <description>Og Oljefondet sitt Etikkråd får nye anbefalinger.</description>
+      <guid isPermaLink="false">l_e8de8bd7-a39b-4832-b8e5-03a70d53019a</guid>
+      <pubDate>Thu, 15 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/e8de8bd7-a39b-4832-b8e5-03a70d53019a_5f2bdb87-b7c5-4418-b99a-4743e04303f5_ID192MP3.mp3" type="audio/mpeg" length="8525420"></enclosure>
+      <itunes:title>Refleksdagen markeres i dag</itunes:title>
+      <itunes:summary>Og Oljefondet sitt Etikkråd får nye anbefalinger.</itunes:summary>
+      <itunes:duration>355</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/milKwJ1vX5SYZirvQE1efAT3DL3SvPLG_j_m7-d7eWxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Cornell tar grep etter voldtektssak</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_fe0fce9b-06f1-404b-b669-38af4b1fd98d</link>

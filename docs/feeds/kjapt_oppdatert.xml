@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Flere barn drept i skoleskyting i USA</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_9645cf30-dd49-419e-b357-e203d580b619</link>
+      <description>Og partene i lokførerstreiken møtes til tvungen mekling.</description>
+      <guid isPermaLink="false">l_9645cf30-dd49-419e-b357-e203d580b619</guid>
+      <pubDate>Fri, 16 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/9645cf30-dd49-419e-b357-e203d580b619_4cde7f80-7037-4a0e-a46b-4d3965c713cf_ID192MP3.mp3" type="audio/mpeg" length="7934444"></enclosure>
+      <itunes:title>Flere barn drept i skoleskyting i USA</itunes:title>
+      <itunes:summary>Og partene i lokførerstreiken møtes til tvungen mekling.</itunes:summary>
+      <itunes:duration>330</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wzJzj6gtlO8waAjoZnIKXAb_d4zNXw1W7kb-Y2-iIakA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Refleksdagen markeres i dag</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_e8de8bd7-a39b-4832-b8e5-03a70d53019a</link>

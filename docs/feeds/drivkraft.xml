@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 11:54:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Snorre Klanderud</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_197fb3e5-3dce-47ab-b39a-2c3fa4f200e0</link>
+      <description>Vi satt i studio og drakk oss dritings sammen med kjendiser, forteller influenseren Snorrepus om tiden i podkasten &#34;Kontoret&#34;, som han drev sammen med Oskar Westerlin.</description>
+      <guid isPermaLink="false">l_197fb3e5-3dce-47ab-b39a-2c3fa4f200e0</guid>
+      <pubDate>Thu, 15 Oct 2026 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/197fb3e5-3dce-47ab-b39a-2c3fa4f200e0_7f1ab391-9677-4263-837f-d794b7e6de60_ID192MP3.mp3" type="audio/mpeg" length="82630124"></enclosure>
+      <itunes:title>Snorre Klanderud</itunes:title>
+      <itunes:summary>Vi satt i studio og drakk oss dritings sammen med kjendiser, forteller influenseren Snorrepus om tiden i podkasten &#34;Kontoret&#34;, som han drev sammen med Oskar Westerlin.</itunes:summary>
+      <itunes:duration>3442</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVl4KNq49ciLj5nxFqxqgg6OCUrmo092lc4vDLc0htcg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Linda Eide</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_06ee3099-4bd1-402c-aa11-b543bcc99739</link>

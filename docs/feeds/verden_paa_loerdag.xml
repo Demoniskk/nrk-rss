@@ -6,7 +6,7 @@
     <description>Bli med ut i verden. Hør historiene og få forklaringene fra Norges største utenriksredaksjon.&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verden_paa_loerdag.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Urix</title>
       <link>https://radio.nrk.no/podkast/verden_paa_loerdag</link>
     </image>
+    <item>
+      <title>USA: Polymarket eller meningsmålinger?</title>
+      <link>https://radio.nrk.no/podkast/verden_paa_loerdag/l_0f6da4a7-49c9-4f34-a8a0-17fc0f1208a1</link>
+      <description>Mange tjener penger på å vedde på utfallet av valgene i USA i november. Er Polymarket i ferd med å overta rollen til meningsmålinger. Og hva betyr det for demokratiet?</description>
+      <guid isPermaLink="false">l_0f6da4a7-49c9-4f34-a8a0-17fc0f1208a1</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/0f6da4a7-49c9-4f34-a8a0-17fc0f1208a1_a35dadfd-701f-4528-8aae-28384f66562a_ID192MP3.mp3" type="audio/mpeg" length="22922540"></enclosure>
+      <itunes:title>USA: Polymarket eller meningsmålinger?</itunes:title>
+      <itunes:summary>Mange tjener penger på å vedde på utfallet av valgene i USA i november. Er Polymarket i ferd med å overta rollen til meningsmålinger. Og hva betyr det for demokratiet?</itunes:summary>
+      <itunes:duration>955</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nGsatNUAMJ4tYdVFIERm3AH0fh1BAuW1fT3kY1zRLsaA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>USA:  Demokrater kan ta prærien</title>
       <link>https://radio.nrk.no/podkast/verden_paa_loerdag/l_9f48efab-8abd-41d2-96d6-162599d0e1cf</link>

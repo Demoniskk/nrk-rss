@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 13:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 13:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Atomvåpen og oljefondet: – Penger viktigere enn etikk</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_55b61f4c-1739-4780-865f-5e5e11ce3903</link>
+      <description>Utvalg vil at oljefondet skal kunne investere i atomvåpen. Har penger og inntjening blitt mye viktigere enn etikk? &#xA;&#xA;Og nytt superpar i norsk politikk: Sylvi Listhaug og Dag Inge Ulstein har funnet hverandre. </description>
+      <guid isPermaLink="false">l_55b61f4c-1739-4780-865f-5e5e11ce3903</guid>
+      <pubDate>Thu, 15 Oct 2026 15:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/55b61f4c-1739-4780-865f-5e5e11ce3903_79193c10-b164-43c7-8f81-ef74f740c79a_ID192MP3.mp3" type="audio/mpeg" length="37774124"></enclosure>
+      <itunes:title>Atomvåpen og oljefondet: – Penger viktigere enn etikk</itunes:title>
+      <itunes:summary>Utvalg vil at oljefondet skal kunne investere i atomvåpen. Har penger og inntjening blitt mye viktigere enn etikk? &#xA;&#xA;Og nytt superpar i norsk politikk: Sylvi Listhaug og Dag Inge Ulstein har funnet hverandre. </itunes:summary>
+      <itunes:duration>1573</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qgExs7XqhtXQjrtWUwi85QAREwOGt6NxiIsLPIwiaqzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Er Donald Trump på Putins side i krigen?</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_28f09beb-22b9-476b-82e7-65fd7d3a2d3b</link>

@@ -6,7 +6,7 @@
     <description>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Krimrommet</title>
       <link>https://radio.nrk.no/podkast/krimrommet</link>
     </image>
+    <item>
+      <title>Kvinnen som ikke vil dø</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_f64d6ef8-f2e0-448b-b0a4-02c9811d41ea</link>
+      <description>Christa Gail Pike blir dømt til døden, og føres inn i et henrettelseskammer. Men så går noe galt.</description>
+      <guid isPermaLink="false">l_f64d6ef8-f2e0-448b-b0a4-02c9811d41ea</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/f64d6ef8-f2e0-448b-b0a4-02c9811d41ea_0f970563-a2c0-48ce-82a3-2de3c73dfd9a_ID192MP3.mp3" type="audio/mpeg" length="50769260"></enclosure>
+      <itunes:title>Kvinnen som ikke vil dø</itunes:title>
+      <itunes:summary>Christa Gail Pike blir dømt til døden, og føres inn i et henrettelseskammer. Men så går noe galt.</itunes:summary>
+      <itunes:duration>2115</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aYbp4qbR0tCqbMGpmI9MZg_rFGFIXk3G6yq_-avjkv4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Clancy (3): «Patrick did it!»</title>
       <link>https://radio.nrk.no/podkast/krimrommet/l_6a71d6d1-5ef3-49ab-8bdd-70e03b4a460e</link>

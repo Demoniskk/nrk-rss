@@ -6,7 +6,7 @@
     <description>Vi oppsummerer kulturuka hver fredag, med faste, friske og freidige paneldeltakere.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 06:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/fredagspanelet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Fredagspanelet</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet</link>
     </image>
+    <item>
+      <title>Fotball, leder lønn og tidlig jul</title>
+      <link>https://radio.nrk.no/podkast/fredagspanelet/l_5a3cf346-b832-46e8-bcf3-46b832f6e8d5</link>
+      <description>Bryr du deg mer om herrelandslaget enn kvinnelandslaget?  Blir du en bedre leder jo mer penger du får? Er det for tidlig å snakke om at det er for tidlig med julevarer i butikkene?</description>
+      <guid isPermaLink="false">l_5a3cf346-b832-46e8-bcf3-46b832f6e8d5</guid>
+      <pubDate>Fri, 16 Oct 2026 08:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/5a3cf346-b832-46e8-bcf3-46b832f6e8d5_1_ID192MP3.mp3" type="audio/mpeg" length="17114156"></enclosure>
+      <itunes:title>Fotball, leder lønn og tidlig jul</itunes:title>
+      <itunes:summary>Bryr du deg mer om herrelandslaget enn kvinnelandslaget?  Blir du en bedre leder jo mer penger du får? Er det for tidlig å snakke om at det er for tidlig med julevarer i butikkene?</itunes:summary>
+      <itunes:duration>713</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Strøymetenester, Boktober og Nobels fredspris</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet/l_43eedf08-7195-4891-aedf-087195389163</link>

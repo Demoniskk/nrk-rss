@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 20:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:02:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Etikk eller butikk i Oljefondet?</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_66c68cc6-f26c-4d1d-868c-c6f26cdd1dad</link>
+      <description>Legger nye forslag til retningslinjer opp til uetiske investeringer?</description>
+      <guid isPermaLink="false">l_66c68cc6-f26c-4d1d-868c-c6f26cdd1dad</guid>
+      <pubDate>Thu, 15 Oct 2026 22:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/66c68cc6-f26c-4d1d-868c-c6f26cdd1dad_1_ID192MP3.mp3" type="audio/mpeg" length="59529644"></enclosure>
+      <itunes:title>Etikk eller butikk i Oljefondet?</itunes:title>
+      <itunes:summary>Legger nye forslag til retningslinjer opp til uetiske investeringer?</itunes:summary>
+      <itunes:duration>2480</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aVamubbdKipGU6vMvW331wQPCRuTBjCyLZCGumRKW4Og"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Har lederne i statlige selskaper en lønnsfest?</title>
       <link>https://radio.nrk.no/podkast/debatten/l_b8aeab0f-94c6-4c74-aeab-0f94c61c74d6</link>

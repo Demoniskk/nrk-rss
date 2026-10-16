@@ -6,7 +6,7 @@
     <description>Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bok_i_p2.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Åpen bok</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2</link>
     </image>
+    <item>
+      <title>Vetle Lid Larsen: – Vi er fortiden</title>
+      <link>https://radio.nrk.no/podkast/bok_i_p2/l_9b449df7-3228-400f-84b9-db2b5b56ee5c</link>
+      <description>Vetle Lid Larsen om Skagerraks hemmeligheter, sterke kystkvinner og vår høyteknologiske vikingtid.</description>
+      <guid isPermaLink="false">l_9b449df7-3228-400f-84b9-db2b5b56ee5c</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/9b449df7-3228-400f-84b9-db2b5b56ee5c_dc2cdc49-5dc3-4c8c-b511-e0cc14dcfaad_ID192MP3.mp3" type="audio/mpeg" length="78765740"></enclosure>
+      <itunes:title>Vetle Lid Larsen: – Vi er fortiden</itunes:title>
+      <itunes:summary>Vetle Lid Larsen om Skagerraks hemmeligheter, sterke kystkvinner og vår høyteknologiske vikingtid.</itunes:summary>
+      <itunes:duration>3281</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oc-j01bax5flhpDElTFtnwuV0lY5Vvu9NrAksll68VeA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Line Baugstø: Demens og skilsmisse</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2/l_915a26e2-7a6d-4578-9e4a-4368e7e4496e</link>

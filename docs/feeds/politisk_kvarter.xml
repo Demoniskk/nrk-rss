@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Skogen må vike i Østfold</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_d3a92b20-09fd-40e3-8afb-f6bcbc4a0bca</link>
+      <description>Eit av landets største naturinngrep er eitt steg nærmare.</description>
+      <guid isPermaLink="false">l_d3a92b20-09fd-40e3-8afb-f6bcbc4a0bca</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/d3a92b20-09fd-40e3-8afb-f6bcbc4a0bca_6744c308-eccd-4b4b-94b6-aac67c4a6a9a_ID192MP3.mp3" type="audio/mpeg" length="21803948"></enclosure>
+      <itunes:title>Skogen må vike i Østfold</itunes:title>
+      <itunes:summary>Eit av landets største naturinngrep er eitt steg nærmare.</itunes:summary>
+      <itunes:duration>908</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/9-qEhVo7lFCVQUBddVpNvgrlvA3iqqwLR3lsvMFvfsBw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Grønt lys for midlertidig dumping av gruveavfall i Førdefjorden</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_0378324c-4b3d-4417-bb66-ed320d724149</link>

@@ -6,7 +6,7 @@
     <description>Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lev_vel.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lev vel</title>
       <link>https://radio.nrk.no/podkast/lev_vel</link>
     </image>
+    <item>
+      <title>Linnéa leser: «Slutt å la alt gå innpå deg»</title>
+      <link>https://radio.nrk.no/podkast/lev_vel/l_036bff92-c38f-4848-abff-92c38f0848d4</link>
+      <description>Funker selvhjelpsbøker? Linnéa drar oss gjennom «Slutt å la alt gå innpå deg» av Daniel Chidiac.</description>
+      <guid isPermaLink="false">l_036bff92-c38f-4848-abff-92c38f0848d4</guid>
+      <pubDate>Fri, 16 Oct 2026 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/036bff92-c38f-4848-abff-92c38f0848d4_700a2100-3b25-4132-a85e-363c5c8d52ab_ID192MP3.mp3" type="audio/mpeg" length="46469420"></enclosure>
+      <itunes:title>Linnéa leser: «Slutt å la alt gå innpå deg»</itunes:title>
+      <itunes:summary>Funker selvhjelpsbøker? Linnéa drar oss gjennom «Slutt å la alt gå innpå deg» av Daniel Chidiac.</itunes:summary>
+      <itunes:duration>1936</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EHd_j77WU-STdBipOc_pqgtGVWvFuPPzkCmKGT_2lGeg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Medisinerer vi vanlig følelser?</title>
       <link>https://radio.nrk.no/podkast/lev_vel/l_83b5ad1f-62df-4346-b5ad-1f62df234689</link>

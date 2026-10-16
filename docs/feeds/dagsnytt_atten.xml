@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Ny rapport om oljefondets etikk</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_a06caf18-d204-4e3f-abeb-475c4a55def1</link>
+      <description>Vil åpne for investeringer i selskaper som lager atomvåpen.</description>
+      <guid isPermaLink="false">l_a06caf18-d204-4e3f-abeb-475c4a55def1</guid>
+      <pubDate>Thu, 15 Oct 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a06caf18-d204-4e3f-abeb-475c4a55def1_0dbfeb76-b36a-40c6-b3d0-355041ba0227_ID192MP3.mp3" type="audio/mpeg" length="85029740"></enclosure>
+      <itunes:title>Ny rapport om oljefondets etikk</itunes:title>
+      <itunes:summary>Vil åpne for investeringer i selskaper som lager atomvåpen.</itunes:summary>
+      <itunes:duration>3542</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zhos_dx53kWSjgTErXWgaQhl6Jx3mSQlipySwM2S59Jw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Drapsoppdrag på Instagram</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_2d98806d-5e85-45eb-a18e-bb08632690b1</link>

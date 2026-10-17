@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Halloween, side chicks og «goo goo gaga»</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_e3f17044-27f2-4758-b170-4427f2e7586b</link>
+      <description>Sofie datet en fyr som holdt på med flere jenter samtidig, og Sade og Sofie deler sine halloween-planer.&#xA;&#xA;Send oss meldinger i appen NRK Radio! :)</description>
+      <guid isPermaLink="false">l_e3f17044-27f2-4758-b170-4427f2e7586b</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/e3f17044-27f2-4758-b170-4427f2e7586b_1_ID192MP3.mp3" type="audio/mpeg" length="78667244"></enclosure>
+      <itunes:title>Halloween, side chicks og «goo goo gaga»</itunes:title>
+      <itunes:summary>Sofie datet en fyr som holdt på med flere jenter samtidig, og Sade og Sofie deler sine halloween-planer.&#xA;&#xA;Send oss meldinger i appen NRK Radio! :)</itunes:summary>
+      <itunes:duration>3277</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Katten med hatten, liggelappen og bok-valget</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_74208b49-a836-4310-a08b-49a836031069</link>

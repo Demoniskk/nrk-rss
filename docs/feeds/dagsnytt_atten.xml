@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Foxtrot-rettssaker</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_119cf24f-497a-44a0-b3ab-08ffd53a9f3e</link>
+      <description>To unge nordmenn er henholdsvis dømt og tiltalt for drapsplanlegging, og kan ende med å bli straffet totalt ulikt.</description>
+      <guid isPermaLink="false">l_119cf24f-497a-44a0-b3ab-08ffd53a9f3e</guid>
+      <pubDate>Fri, 16 Oct 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/119cf24f-497a-44a0-b3ab-08ffd53a9f3e_8375ad53-7de1-431f-8ee0-c7c86eda3f26_ID192MP3.mp3" type="audio/mpeg" length="85052204"></enclosure>
+      <itunes:title>Foxtrot-rettssaker</itunes:title>
+      <itunes:summary>To unge nordmenn er henholdsvis dømt og tiltalt for drapsplanlegging, og kan ende med å bli straffet totalt ulikt.</itunes:summary>
+      <itunes:duration>3543</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tF9fKZGZ28xh9aeyF4lthgvhqFAi_MXfku9qEL59bhnA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Ny rapport om oljefondets etikk</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_a06caf18-d204-4e3f-abeb-475c4a55def1</link>

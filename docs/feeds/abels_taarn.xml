@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Har maneter det gøy?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_4115f770-e95c-45d4-95f7-70e95c55d42b</link>
+      <description>Skulle tro humor krever ryggrad.&#xA;Går du omkring og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende eksperter!</description>
+      <guid isPermaLink="false">l_4115f770-e95c-45d4-95f7-70e95c55d42b</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/4115f770-e95c-45d4-95f7-70e95c55d42b_1_ID192MP3.mp3" type="audio/mpeg" length="82824812"></enclosure>
+      <itunes:title>Har maneter det gøy?</itunes:title>
+      <itunes:summary>Skulle tro humor krever ryggrad.&#xA;Går du omkring og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende eksperter!</itunes:summary>
+      <itunes:duration>3450</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TNVVmByORxGCwOHVQ5rHQA_-IZWHCAUhF_Ewp0S743KQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Du får bedre helse av å lese</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_b5474e37-ce04-4e64-874e-37ce041e643c</link>

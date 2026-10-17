@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Anna intervjuer Ingar Helge Gimle</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_5d221404-3199-49e0-a214-04319949e09e</link>
+      <description>Anna var fanget på Rema 1000, det blir TV-aksjonen spesial i Quizvang og ikke minst et revolverintervju av Ingar Helge Gimle.</description>
+      <guid isPermaLink="false">l_5d221404-3199-49e0-a214-04319949e09e</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/5d221404-3199-49e0-a214-04319949e09e_1_ID192MP3.mp3" type="audio/mpeg" length="68284268"></enclosure>
+      <itunes:title>Anna intervjuer Ingar Helge Gimle</itunes:title>
+      <itunes:summary>Anna var fanget på Rema 1000, det blir TV-aksjonen spesial i Quizvang og ikke minst et revolverintervju av Ingar Helge Gimle.</itunes:summary>
+      <itunes:duration>2845</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eJTFbI-C1qNR7eT6zZWecA5Of4RdDqicVPR_WBwLixJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Markus redda kvinne med mensen</title>
       <link>https://radio.nrk.no/podkast/siesta/l_f674225e-9c80-4f26-b422-5e9c80ff262c</link>

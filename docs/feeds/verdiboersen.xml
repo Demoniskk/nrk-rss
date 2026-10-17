@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 11 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title>Elon Musk endrer verden</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_8b001b39-ad1f-48b5-8887-960d335eab3e</link>
+      <description>Hva er Musk et symbol på?</description>
+      <guid isPermaLink="false">l_8b001b39-ad1f-48b5-8887-960d335eab3e</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/8b001b39-ad1f-48b5-8887-960d335eab3e_d1d9fa20-d0f2-4ecd-a37a-12ea372a6974_ID192MP3.mp3" type="audio/mpeg" length="31564844"></enclosure>
+      <itunes:title>Elon Musk endrer verden</itunes:title>
+      <itunes:summary>Hva er Musk et symbol på?</itunes:summary>
+      <itunes:duration>1315</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Eksistensen går forut for essensen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_ded263a4-43ee-45b0-9263-a443ee25b0e4</link>

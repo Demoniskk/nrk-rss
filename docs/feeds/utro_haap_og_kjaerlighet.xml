@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Panelet: Mobbehund og eks på Insta</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_caffbaad-8fe6-4988-9bb4-179ea224e313</link>
+      <description>Panelet deler åpent om kroppsfokus og selvbilde. De diskuterer også: Må man slette bildene av eksen på Insta?</description>
+      <guid isPermaLink="false">l_caffbaad-8fe6-4988-9bb4-179ea224e313</guid>
+      <pubDate>Sun, 18 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/caffbaad-8fe6-4988-9bb4-179ea224e313_c943febc-696c-4bd5-ba40-7d351333190f_ID192MP3.mp3" type="audio/mpeg" length="47473964"></enclosure>
+      <itunes:title>Panelet: Mobbehund og eks på Insta</itunes:title>
+      <itunes:summary>Panelet deler åpent om kroppsfokus og selvbilde. De diskuterer også: Må man slette bildene av eksen på Insta?</itunes:summary>
+      <itunes:duration>1978</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yJWGnGgnz8jzvPiGxbqKuQ_PjVBl4VqtDjjmQwLlbNQw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Nora Svenningsen: Egenkjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_da415e16-c9de-4660-815e-16c9def6605d</link>

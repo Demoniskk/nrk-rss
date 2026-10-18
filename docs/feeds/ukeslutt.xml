@@ -6,7 +6,7 @@
     <description>Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 10 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ukeslutt</title>
       <link>https://radio.nrk.no/podkast/ukeslutt</link>
     </image>
+    <item>
+      <title>Pent brukt VM-tromme</title>
+      <link>https://radio.nrk.no/podkast/ukeslutt/l_c198b48e-ea8b-42c4-98b4-8eea8bb2c438</link>
+      <description>Kjendiser, bedrifter og organisasjoner har lang tradisjon for å donere alt mulig rart til en god sak.</description>
+      <guid isPermaLink="false">l_c198b48e-ea8b-42c4-98b4-8eea8bb2c438</guid>
+      <pubDate>Sat, 17 Oct 2026 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/c198b48e-ea8b-42c4-98b4-8eea8bb2c438_1_ID192MP3.mp3" type="audio/mpeg" length="102335660"></enclosure>
+      <itunes:title>Pent brukt VM-tromme</itunes:title>
+      <itunes:summary>Kjendiser, bedrifter og organisasjoner har lang tradisjon for å donere alt mulig rart til en god sak.</itunes:summary>
+      <itunes:duration>4263</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MdDDE2kublmQQOkxR_C4PwPedzSbZrriLxsRKFZG2Wzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Forfattere spammes av merkelige e-poster</title>
       <link>https://radio.nrk.no/podkast/ukeslutt/l_f708859e-30d1-46c3-8885-9e30d156c397</link>

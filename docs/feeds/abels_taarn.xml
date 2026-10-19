@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Kjefter du på KI&#39;en din?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_e5eaa410-cb54-4c8c-aaa4-10cb543c8c99</link>
+      <description>Nå blir du utestengt hvis du er for slem. Dessuten, Jorda snurrer fortere. India har testet mobilforbud. Og verdens mest bråkete fugl er kåra</description>
+      <guid isPermaLink="false">l_e5eaa410-cb54-4c8c-aaa4-10cb543c8c99</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e5eaa410-cb54-4c8c-aaa4-10cb543c8c99_1_ID192MP3.mp3" type="audio/mpeg" length="41427692"></enclosure>
+      <itunes:title>Kjefter du på KI&#39;en din?</itunes:title>
+      <itunes:summary>Nå blir du utestengt hvis du er for slem. Dessuten, Jorda snurrer fortere. India har testet mobilforbud. Og verdens mest bråkete fugl er kåra</itunes:summary>
+      <itunes:duration>1726</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Har maneter det gøy?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_4115f770-e95c-45d4-95f7-70e95c55d42b</link>

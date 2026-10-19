@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Rødgrønn enighet om nær gratis tannhelse</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_ac65402a-0078-44ac-8f70-742ceae7b94e</link>
+      <description>De rødgrønne partiene har blitt enige om en tannhelsereform som skal gjøre at staten plukker opp mesteparten av regningen din. Men regjeringen har satt av akkurat null kroner i statsbudsjettet til å betale for det. </description>
+      <guid isPermaLink="false">l_ac65402a-0078-44ac-8f70-742ceae7b94e</guid>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ac65402a-0078-44ac-8f70-742ceae7b94e_a552cc9f-0bb0-437e-9a2b-6f40046aaafe_ID192MP3.mp3" type="audio/mpeg" length="21683564"></enclosure>
+      <itunes:title>Rødgrønn enighet om nær gratis tannhelse</itunes:title>
+      <itunes:summary>De rødgrønne partiene har blitt enige om en tannhelsereform som skal gjøre at staten plukker opp mesteparten av regningen din. Men regjeringen har satt av akkurat null kroner i statsbudsjettet til å betale for det. </itunes:summary>
+      <itunes:duration>903</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gQPIuorUQeBGxFXmMOgD0wTxg_teMlBsbfg6exQuhCsw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Skogen må vike i Østfold</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_d3a92b20-09fd-40e3-8afb-f6bcbc4a0bca</link>

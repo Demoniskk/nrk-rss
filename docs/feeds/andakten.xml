@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Kronisk klovn - Kristin N Mork</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_c3f9011d-229d-4c84-882a-fdc3b299621e</link>
+      <description>Om du sjøl sliter, men må prestere, så hjelper det mye at din prestasjon betydde noe for noen</description>
+      <guid isPermaLink="false">l_c3f9011d-229d-4c84-882a-fdc3b299621e</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/c3f9011d-229d-4c84-882a-fdc3b299621e_df3640c8-8ead-49be-959e-f68069059b74_ID192MP3.mp3" type="audio/mpeg" length="5480108"></enclosure>
+      <itunes:title>Kronisk klovn - Kristin N Mork</itunes:title>
+      <itunes:summary>Om du sjøl sliter, men må prestere, så hjelper det mye at din prestasjon betydde noe for noen</itunes:summary>
+      <itunes:duration>228</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YHOQbH3LpG5zI_mVkDS5pQyWmLw9bhaTUxwKpQZVC1aQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Trafikklys - Silje Aune Meisal</title>
       <link>https://radio.nrk.no/podkast/andakten/l_bb3c2b6a-4147-4e61-9a08-92d022441161</link>

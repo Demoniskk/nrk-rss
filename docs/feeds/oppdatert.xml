@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Eldrebølgen er her: Slik kan det bli i 2060</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_6a0610c6-0b71-45d2-9180-cacdfcde9810</link>
+      <description>I flere tiår har politikerne varslet om den kommende eldrebølgen. Nå er den her. Er vi forberedt?</description>
+      <guid isPermaLink="false">l_6a0610c6-0b71-45d2-9180-cacdfcde9810</guid>
+      <pubDate>Mon, 19 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/6a0610c6-0b71-45d2-9180-cacdfcde9810_4adfaf5d-2b8d-419e-b287-95c7a980fecf_ID192MP3.mp3" type="audio/mpeg" length="23262380"></enclosure>
+      <itunes:title>Eldrebølgen er her: Slik kan det bli i 2060</itunes:title>
+      <itunes:summary>I flere tiår har politikerne varslet om den kommende eldrebølgen. Nå er den her. Er vi forberedt?</itunes:summary>
+      <itunes:duration>969</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1mnt6XxEAAhkEpM1NrN5xQ33cZePdTBj7z90GEtChugQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Hackere og lekkasje: Dette er Playstation-stormen</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_86239a99-f8d6-4b92-a39a-99f8d67b92f2</link>

@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 11:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 03:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Hvor viktig er plasten?</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_a44f88eb-07c6-48cd-8f88-eb07c628cd91</link>
+      <description>Europeiske storlag er knapt borti kunstgress før de gjester Norge. Hvor mye betyr plasten for norske bragder i Mesterligaen?</description>
+      <guid isPermaLink="false">l_a44f88eb-07c6-48cd-8f88-eb07c628cd91</guid>
+      <pubDate>Mon, 19 Oct 2026 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/a44f88eb-07c6-48cd-8f88-eb07c628cd91_1_ID192MP3.mp3" type="audio/mpeg" length="62218412"></enclosure>
+      <itunes:title>Hvor viktig er plasten?</itunes:title>
+      <itunes:summary>Europeiske storlag er knapt borti kunstgress før de gjester Norge. Hvor mye betyr plasten for norske bragder i Mesterligaen?</itunes:summary>
+      <itunes:duration>2592</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Nærmer det seg slutten i City?</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_f7b39fa7-e392-454c-b39f-a7e392a54cd7</link>

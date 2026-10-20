@@ -6,7 +6,7 @@
     <description>En ukentlig flukt fra hverdagen! Sketsjer, hyss og spik med Christian Mikkelsen, Olav Svarstad Haugland og Emil Berntsen.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/blaatur.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Blåtur</title>
       <link>https://radio.nrk.no/podkast/blaatur</link>
     </image>
+    <item>
+      <title>En kniv i Olavs hjerte</title>
+      <link>https://radio.nrk.no/podkast/blaatur/l_a9b480bf-a500-4c14-892b-d19fb43475d5</link>
+      <description>Olav har et imageproblem. Vi improviserer frem MGP jr.-låter. En mann som snakker kvinners sak kommer til orde.</description>
+      <guid isPermaLink="false">l_a9b480bf-a500-4c14-892b-d19fb43475d5</guid>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/blaatur/a9b480bf-a500-4c14-892b-d19fb43475d5_5ad3fb6b-1b9a-4183-b9a4-649a3d9eb510_ID192MP3.mp3" type="audio/mpeg" length="52473644"></enclosure>
+      <itunes:title>En kniv i Olavs hjerte</itunes:title>
+      <itunes:summary>Olav har et imageproblem. Vi improviserer frem MGP jr.-låter. En mann som snakker kvinners sak kommer til orde.</itunes:summary>
+      <itunes:duration>2186</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/alxIITN_-f_ScUM_ZlZZ8ggf0HODKlaJOTidxTht-BBA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Et farlig møte i borettslaget</title>
       <link>https://radio.nrk.no/podkast/blaatur/l_780ecc19-2667-4b07-afaf-7d7d6d00c7b8</link>

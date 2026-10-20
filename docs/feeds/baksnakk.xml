@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Ailo Thomassen, maskulinitet og torpedo-nabo</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_5ea005c1-d49c-479b-a005-c1d49cd79bc8</link>
+      <description>Er det maskulint å reise seg for eldre på bussen? Ailo er gjest!&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</description>
+      <guid isPermaLink="false">l_5ea005c1-d49c-479b-a005-c1d49cd79bc8</guid>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/5ea005c1-d49c-479b-a005-c1d49cd79bc8_1_ID192MP3.mp3" type="audio/mpeg" length="83914604"></enclosure>
+      <itunes:title>Ailo Thomassen, maskulinitet og torpedo-nabo</itunes:title>
+      <itunes:summary>Er det maskulint å reise seg for eldre på bussen? Ailo er gjest!&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</itunes:summary>
+      <itunes:duration>3496</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Halloween, side chicks og «goo goo gaga»</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_e3f17044-27f2-4758-b170-4427f2e7586b</link>

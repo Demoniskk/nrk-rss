@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Partiet som blør</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_aa0eddc4-2cde-4387-a10f-8401843d3908</link>
+      <description>Kirsti Bergstø styrer et SV som få velgere vil ha. Det krever hardt arbeid å komme ut av skyggenes dal.</description>
+      <guid isPermaLink="false">l_aa0eddc4-2cde-4387-a10f-8401843d3908</guid>
+      <pubDate>Mon, 19 Oct 2026 12:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/aa0eddc4-2cde-4387-a10f-8401843d3908_34199aea-9f1d-442d-9fbc-148a759fbc45_ID192MP3.mp3" type="audio/mpeg" length="38880044"></enclosure>
+      <itunes:title>Partiet som blør</itunes:title>
+      <itunes:summary>Kirsti Bergstø styrer et SV som få velgere vil ha. Det krever hardt arbeid å komme ut av skyggenes dal.</itunes:summary>
+      <itunes:duration>1619</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0982GJqa15_4FWkEsd541A2STfcSyuurYXSv7ADLWHzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>- Verdens mest slitsomme jobb</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_98a86b2b-c45d-4234-bcbf-6875ea872fb8</link>

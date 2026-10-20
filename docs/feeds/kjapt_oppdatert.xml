@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Zelenskyj: Forhandlinger kan skje i Norge</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_7d6502c0-c8bc-4813-9ae0-a154c9d91d2b</link>
+      <description>Og hva er egentlig den verste dagen i uka?</description>
+      <guid isPermaLink="false">l_7d6502c0-c8bc-4813-9ae0-a154c9d91d2b</guid>
+      <pubDate>Tue, 20 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/7d6502c0-c8bc-4813-9ae0-a154c9d91d2b_6097f272-b966-4215-be2e-12e18ced839e_ID192MP3.mp3" type="audio/mpeg" length="8171180"></enclosure>
+      <itunes:title>Zelenskyj: Forhandlinger kan skje i Norge</itunes:title>
+      <itunes:summary>Og hva er egentlig den verste dagen i uka?</itunes:summary>
+      <itunes:duration>340</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CPqBareeWVoccqKVQjGNLQsW3LFO2KR_O1ARGFAuN7kg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Voldelige opptøyer i Frankrike</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_b6da9354-91fe-4574-91fd-4d6d9574d614</link>

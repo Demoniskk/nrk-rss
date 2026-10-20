@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Gard Øksendal: Jobbe med seg selv</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_b3bd2a69-45c8-4243-b320-179dc16f6460</link>
+      <description>Gard Øksendal, «MankeGard», om angst, dårlig selvfølelse og veien til kjærligheten – og hvordan det å jobbe med seg selv kan endre alt.</description>
+      <guid isPermaLink="false">l_b3bd2a69-45c8-4243-b320-179dc16f6460</guid>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/b3bd2a69-45c8-4243-b320-179dc16f6460_6b4bac92-9178-44e0-aff5-ac649307cf25_ID192MP3.mp3" type="audio/mpeg" length="65113388"></enclosure>
+      <itunes:title>Gard Øksendal: Jobbe med seg selv</itunes:title>
+      <itunes:summary>Gard Øksendal, «MankeGard», om angst, dårlig selvfølelse og veien til kjærligheten – og hvordan det å jobbe med seg selv kan endre alt.</itunes:summary>
+      <itunes:duration>2713</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/G6rIJzufBTO_cTnnwfHMyQMixrcHaDfuu5xzHm5cqSyQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Panelet: Mobbehund og eks på Insta</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_caffbaad-8fe6-4988-9bb4-179ea224e313</link>

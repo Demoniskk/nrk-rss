@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Kampen om Førdefjorden: Derfor er det bråk igjen</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_3a0b187f-912b-49e1-9ea5-438aa66a2ee8</link>
+      <description>En årelang konflikt har blusset opp på ny. </description>
+      <guid isPermaLink="false">l_3a0b187f-912b-49e1-9ea5-438aa66a2ee8</guid>
+      <pubDate>Tue, 20 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/3a0b187f-912b-49e1-9ea5-438aa66a2ee8_8746b196-207b-47d7-b35a-854b97001f0f_ID192MP3.mp3" type="audio/mpeg" length="20072492"></enclosure>
+      <itunes:title>Kampen om Førdefjorden: Derfor er det bråk igjen</itunes:title>
+      <itunes:summary>En årelang konflikt har blusset opp på ny. </itunes:summary>
+      <itunes:duration>836</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0GsiHhmEQQZ29m-8-SGP4gqEXnrpbAJjq74PYeTeBO3w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Eldrebølgen er her: Slik kan det bli i 2060</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_6a0610c6-0b71-45d2-9180-cacdfcde9810</link>

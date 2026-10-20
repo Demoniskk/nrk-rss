@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Anna kysser Daniels kjæreste</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_6fe422e5-eb4e-478b-a422-e5eb4e578bfa</link>
+      <description>Det blir ubehagelig når Daniel skal sitte i en cuckingstol, Finn Glede konfronterer Karsten Blomvik og ukas dumfette skal kåres.</description>
+      <guid isPermaLink="false">l_6fe422e5-eb4e-478b-a422-e5eb4e578bfa</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/6fe422e5-eb4e-478b-a422-e5eb4e578bfa_1_ID192MP3.mp3" type="audio/mpeg" length="57464684"></enclosure>
+      <itunes:title>Anna kysser Daniels kjæreste</itunes:title>
+      <itunes:summary>Det blir ubehagelig når Daniel skal sitte i en cuckingstol, Finn Glede konfronterer Karsten Blomvik og ukas dumfette skal kåres.</itunes:summary>
+      <itunes:duration>2394</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Anna intervjuer Ingar Helge Gimle</title>
       <link>https://radio.nrk.no/podkast/siesta/l_5d221404-3199-49e0-a214-04319949e09e</link>

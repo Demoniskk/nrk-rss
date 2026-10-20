@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Verdi - med Miriam Våga</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_3a1a0c33-4b03-4bdd-a829-b9da6dcb7df5</link>
+      <description>Når sykdom hindrer deg i å leve som andre kan du føle deg liten, men du har en verdi bare ved å finnes, forteller Miriam Våga.</description>
+      <guid isPermaLink="false">l_3a1a0c33-4b03-4bdd-a829-b9da6dcb7df5</guid>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/3a1a0c33-4b03-4bdd-a829-b9da6dcb7df5_171a478d-4d13-4e79-91b3-42e5553390a0_ID192MP3.mp3" type="audio/mpeg" length="4722668"></enclosure>
+      <itunes:title>Verdi - med Miriam Våga</itunes:title>
+      <itunes:summary>Når sykdom hindrer deg i å leve som andre kan du føle deg liten, men du har en verdi bare ved å finnes, forteller Miriam Våga.</itunes:summary>
+      <itunes:duration>196</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aRIlWUZUajBD9lC3JJ6E8wiojXQUNgH2B41RSpAPMxIQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Midtlivskrise - med Ingelin Røssland</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_d268ecb2-2c8d-4f7a-9478-11666015424b</link>

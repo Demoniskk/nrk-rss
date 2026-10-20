@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Marstein</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_737c270e-9b60-46d7-af77-fae1fcd7ba7d</link>
+      <description>– Jeg har bedt til Gud i all hemmelighet, sier artisten, som er vokst opp med ateistiske foreldre</description>
+      <guid isPermaLink="false">l_737c270e-9b60-46d7-af77-fae1fcd7ba7d</guid>
+      <pubDate>Mon, 19 Oct 2026 13:30:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/737c270e-9b60-46d7-af77-fae1fcd7ba7d_1703f194-d688-4899-a865-96c19d94fe17_ID192MP3.mp3" type="audio/mpeg" length="82541996"></enclosure>
+      <itunes:title>Marstein</itunes:title>
+      <itunes:summary>– Jeg har bedt til Gud i all hemmelighet, sier artisten, som er vokst opp med ateistiske foreldre</itunes:summary>
+      <itunes:duration>3439</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vR_MXeEPhPU-5QpEOukViQWCZEViRc7pc09ROOFj0RKw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Snorre Klanderud</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_197fb3e5-3dce-47ab-b39a-2c3fa4f200e0</link>

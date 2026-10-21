@@ -6,7 +6,7 @@
     <description>Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 03:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lev_vel.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lev vel</title>
       <link>https://radio.nrk.no/podkast/lev_vel</link>
     </image>
+    <item>
+      <title>Matstøy</title>
+      <link>https://radio.nrk.no/podkast/lev_vel/l_8f837a23-98b9-418c-b21d-122710ee9653</link>
+      <description>Hvorfor tenker noen på mat hele tiden, mens andre kan glemme å spise i løpet av en hel dag?&#xA;Samira Lekhal, spesialist i indremedisin gir oss et innblikk i hva som påvirker vår sult og appetitt.</description>
+      <guid isPermaLink="false">l_8f837a23-98b9-418c-b21d-122710ee9653</guid>
+      <pubDate>Wed, 21 Oct 2026 05:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/8f837a23-98b9-418c-b21d-122710ee9653_c3ff096d-e11c-4e57-9d30-708a6c8d63f8_ID192MP3.mp3" type="audio/mpeg" length="64314476"></enclosure>
+      <itunes:title>Matstøy</itunes:title>
+      <itunes:summary>Hvorfor tenker noen på mat hele tiden, mens andre kan glemme å spise i løpet av en hel dag?&#xA;Samira Lekhal, spesialist i indremedisin gir oss et innblikk i hva som påvirker vår sult og appetitt.</itunes:summary>
+      <itunes:duration>2679</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Linnéa leser: «Slutt å la alt gå innpå deg»</title>
       <link>https://radio.nrk.no/podkast/lev_vel/l_036bff92-c38f-4848-abff-92c38f0848d4</link>

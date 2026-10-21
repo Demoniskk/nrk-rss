@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Den verste versjonen av bursdagssangen?</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_124593e8-a6f9-4883-9183-008b7e8e6d20</link>
+      <description>Jonas har hørt en variant av bursdagssangen han synes er forferdelig, er vi ikke alle enige om hvordan vi skal synge bursdagssangen. Lytter Selma har sendt fyllasnaps til crushet og ber oss om hjelp. </description>
+      <guid isPermaLink="false">l_124593e8-a6f9-4883-9183-008b7e8e6d20</guid>
+      <pubDate>Wed, 21 Oct 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/124593e8-a6f9-4883-9183-008b7e8e6d20_a0da2d0b-8c70-475c-a920-7f4013117e26_ID192MP3.mp3" type="audio/mpeg" length="64675628"></enclosure>
+      <itunes:title>Den verste versjonen av bursdagssangen?</itunes:title>
+      <itunes:summary>Jonas har hørt en variant av bursdagssangen han synes er forferdelig, er vi ikke alle enige om hvordan vi skal synge bursdagssangen. Lytter Selma har sendt fyllasnaps til crushet og ber oss om hjelp. </itunes:summary>
+      <itunes:duration>2694</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lszShehf7xFnisj0ik8W0AWB2bdyf2-DaMKZgLZu_b1Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
+    <item>
+      <title>GTA6 skaper moralske dilemmaer</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_3f7793d3-01fd-469a-a0f0-a6e7ef22e8b6</link>
+      <description>Grafikken i GTA6 er så realistisk at det kanskje føles umoralsk å begå kriminalitet. Vi snakker om andre ganger vi har vært onde i spill. NRK har også undersøkt hvilke dager for liker best, og funnet de mest åpenbare svarene man kan se for seg</description>
+      <guid isPermaLink="false">l_3f7793d3-01fd-469a-a0f0-a6e7ef22e8b6</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/3f7793d3-01fd-469a-a0f0-a6e7ef22e8b6_30d944f8-59ef-415e-9132-0a9887795789_ID192MP3.mp3" type="audio/mpeg" length="51772076"></enclosure>
+      <itunes:title>GTA6 skaper moralske dilemmaer</itunes:title>
+      <itunes:summary>Grafikken i GTA6 er så realistisk at det kanskje føles umoralsk å begå kriminalitet. Vi snakker om andre ganger vi har vært onde i spill. NRK har også undersøkt hvilke dager for liker best, og funnet de mest åpenbare svarene man kan se for seg</itunes:summary>
+      <itunes:duration>2157</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uQLdJslbyeu20ArOMIaUIw2fg47ixKuV8CgP6KrDij5w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Hva skal til for å tyste på en venn?</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_89d1418d-15cd-49eb-b0a7-d91dcad76fea</link>

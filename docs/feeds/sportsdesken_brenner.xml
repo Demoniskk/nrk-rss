@@ -6,7 +6,7 @@
     <description>En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sportsdesken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sportsdesken brenner</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner</link>
     </image>
+    <item>
+      <title>Et banner må brenne!</title>
+      <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_36f362b6-cd02-4e06-9743-a94b381ec273</link>
+      <description>Fotball: Vi kårer topp 3 norske supporterøyeblikk. 1. plassen ble en nyhetssak i India. </description>
+      <guid isPermaLink="false">l_36f362b6-cd02-4e06-9743-a94b381ec273</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/36f362b6-cd02-4e06-9743-a94b381ec273_02486ea8-8362-4ecd-a469-d0718a65d6b6_ID192MP3.mp3" type="audio/mpeg" length="59482988"></enclosure>
+      <itunes:title>Et banner må brenne!</itunes:title>
+      <itunes:summary>Fotball: Vi kårer topp 3 norske supporterøyeblikk. 1. plassen ble en nyhetssak i India. </itunes:summary>
+      <itunes:duration>2478</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Fire m-høns</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_c984b6bf-792f-44de-b9da-b40aae870164</link>

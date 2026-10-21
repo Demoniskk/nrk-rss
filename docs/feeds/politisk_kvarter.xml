@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Politiker og aksjonist</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_710871d0-8738-4cf5-96d3-e7d86d3896b2</link>
+      <description>Tolletaten prøvde å stanse ham, men Høyres Peter Frølich dro likevel til Ukraina med et stort lass varmesøkende droner. - Noen ganger må du bare kjøre på, skriver han i ny bok. </description>
+      <guid isPermaLink="false">l_710871d0-8738-4cf5-96d3-e7d86d3896b2</guid>
+      <pubDate>Wed, 21 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/710871d0-8738-4cf5-96d3-e7d86d3896b2_9c50fba9-ecf2-470b-b0f2-aad70981b801_ID192MP3.mp3" type="audio/mpeg" length="21892076"></enclosure>
+      <itunes:title>Politiker og aksjonist</itunes:title>
+      <itunes:summary>Tolletaten prøvde å stanse ham, men Høyres Peter Frølich dro likevel til Ukraina med et stort lass varmesøkende droner. - Noen ganger må du bare kjøre på, skriver han i ny bok. </itunes:summary>
+      <itunes:duration>912</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/K-H8zPyhp3dSL1Jrmg4-XAiL11pmxIlNCxWEq9owXxaQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Ny AUF-leder spår Frps fall</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_d5c48f9b-9cb9-4a6e-865b-4c6ce2c3eaf1</link>

@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Frankrike i flammer: Starten på en global protest?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_e3ac88b7-2ad9-418c-a20e-65ac869a125d</link>
+      <description>Det begynte utenfor en skole i Paris, og utviklet seg til voldelige opptøyer. Nå sprer det seg utenfor landet.  </description>
+      <guid isPermaLink="false">l_e3ac88b7-2ad9-418c-a20e-65ac869a125d</guid>
+      <pubDate>Wed, 21 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e3ac88b7-2ad9-418c-a20e-65ac869a125d_c9c84263-750d-4e87-a8b5-4a02690d8166_ID192MP3.mp3" type="audio/mpeg" length="25376876"></enclosure>
+      <itunes:title>Frankrike i flammer: Starten på en global protest?</itunes:title>
+      <itunes:summary>Det begynte utenfor en skole i Paris, og utviklet seg til voldelige opptøyer. Nå sprer det seg utenfor landet.  </itunes:summary>
+      <itunes:duration>1057</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KEABdMQitYGTJ7_LUN0qoQWxWvGfWIIfEEZY7ri612pQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Kampen om Førdefjorden: Derfor er det bråk igjen</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_3a0b187f-912b-49e1-9ea5-438aa66a2ee8</link>

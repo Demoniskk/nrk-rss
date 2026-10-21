@@ -6,7 +6,7 @@
     <description>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:40:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Krimrommet</title>
       <link>https://radio.nrk.no/podkast/krimrommet</link>
     </image>
+    <item>
+      <title>Tenåring dømt: Skulle drepe på bestilling</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_a10328e3-0fae-4216-abec-833aa661281a</link>
+      <description>19-åringen fra Stavanger ble fjernstyrt av Foxtrot. Nå risikerer han å sitte 20 år i britisk fengsel. </description>
+      <guid isPermaLink="false">l_a10328e3-0fae-4216-abec-833aa661281a</guid>
+      <pubDate>Wed, 21 Oct 2026 06:40:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/a10328e3-0fae-4216-abec-833aa661281a_f85364ec-1b2c-4b3a-8aa7-c3efcd627a6d_ID192MP3.mp3" type="audio/mpeg" length="42129836"></enclosure>
+      <itunes:title>Tenåring dømt: Skulle drepe på bestilling</itunes:title>
+      <itunes:summary>19-åringen fra Stavanger ble fjernstyrt av Foxtrot. Nå risikerer han å sitte 20 år i britisk fengsel. </itunes:summary>
+      <itunes:duration>1755</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5SAiBevJw_8dG3AUTI5CfQx0itjJcO63wySFkmJpqwsw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Kvinnen som ikke vil dø</title>
       <link>https://radio.nrk.no/podkast/krimrommet/l_f64d6ef8-f2e0-448b-b0a4-02c9811d41ea</link>

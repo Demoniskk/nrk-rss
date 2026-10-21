@@ -6,7 +6,7 @@
     <description>Luohti sáhttá govvidit ráhkesvuođa, muhto maiddái unohisvuođaid. Dás guorahallabage luđiid, maiddái olbmuiguin geain leat muitalusat ja vásáhusat.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/luois_luohti.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Luođis luohtái</title>
       <link>https://radio.nrk.no/podkast/luois_luohti</link>
     </image>
+    <item>
+      <title>Luđiin guođoha</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_429f3bc4-9822-40f3-990a-713344a413db</link>
+      <description>Go Jussen Ánte Mihkkal eallorávddas juoiggada, de leat bohccot lojit ja boraspiret eai bahkke.</description>
+      <guid isPermaLink="false">l_429f3bc4-9822-40f3-990a-713344a413db</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/429f3bc4-9822-40f3-990a-713344a413db_98238149-15ea-4409-a6ee-a8cd709a9fc6_ID192MP3.mp3" type="audio/mpeg" length="58046444"></enclosure>
+      <itunes:title>Luđiin guođoha</itunes:title>
+      <itunes:summary>Go Jussen Ánte Mihkkal eallorávddas juoiggada, de leat bohccot lojit ja boraspiret eai bahkke.</itunes:summary>
+      <itunes:duration>2418</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Boazodoallu ja luođit Alaskas</title>
       <link>https://radio.nrk.no/podkast/luois_luohti/l_9b861d2c-8a55-4c85-861d-2c8a551c8592</link>

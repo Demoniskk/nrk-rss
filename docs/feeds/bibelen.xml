@@ -6,7 +6,7 @@
     <description>Intriger, sex og brodermord – undere, undergang og oppstandelse. Ingen bok har påvirket vår verden mer enn Bibelen. Men vet du hva som står i den? Are Sende Osen forteller. &#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bibelen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Bibelen</title>
       <link>https://radio.nrk.no/podkast/bibelen</link>
     </image>
+    <item>
+      <title>Johannes&#39; åpenbaring (40:40)</title>
+      <link>https://radio.nrk.no/podkast/bibelen/l_e80187b3-bb8a-483f-8187-b3bb8ae83fc9</link>
+      <description>Er det en drøm? Er det en syretripp? Eller er det Guds plan for verdens undergang og for en ny himmel og en ny jord?</description>
+      <guid isPermaLink="false">l_e80187b3-bb8a-483f-8187-b3bb8ae83fc9</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bibelen/e80187b3-bb8a-483f-8187-b3bb8ae83fc9_1_ID192MP3.mp3" type="audio/mpeg" length="52322732"></enclosure>
+      <itunes:title>Johannes&#39; åpenbaring (40:40)</itunes:title>
+      <itunes:summary>Er det en drøm? Er det en syretripp? Eller er det Guds plan for verdens undergang og for en ny himmel og en ny jord?</itunes:summary>
+      <itunes:duration>2180</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nmIbSD23oxZnnmFTm24-pwiZ3nXrR2E8q7c3ZHuAmz7w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Paulus – Operasjon helomvending (39:40)</title>
       <link>https://radio.nrk.no/podkast/bibelen/l_15030f0e-bd56-4b9e-830f-0ebd565b9e82</link>

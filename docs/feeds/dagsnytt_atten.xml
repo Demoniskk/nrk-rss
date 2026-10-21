@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Ukraina-samtaler i Norge</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_dd4e8896-e1c1-47a7-a464-cab9647b0eac</link>
+      <description>Ukrainas president Volodymyr Zelenskyj og USAs spesialutsending Steve Witkoff møtes i regjeringens representasjonsbolig i Parkveien i Oslo, sammen med statsminister Jonas Gahr Støre (Ap) og Finlands president Alexander Stubb.</description>
+      <guid isPermaLink="false">l_dd4e8896-e1c1-47a7-a464-cab9647b0eac</guid>
+      <pubDate>Tue, 20 Oct 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/dd4e8896-e1c1-47a7-a464-cab9647b0eac_afcd4c07-813a-4cc8-9882-408fb01a1753_ID192MP3.mp3" type="audio/mpeg" length="84871340"></enclosure>
+      <itunes:title>Ukraina-samtaler i Norge</itunes:title>
+      <itunes:summary>Ukrainas president Volodymyr Zelenskyj og USAs spesialutsending Steve Witkoff møtes i regjeringens representasjonsbolig i Parkveien i Oslo, sammen med statsminister Jonas Gahr Støre (Ap) og Finlands president Alexander Stubb.</itunes:summary>
+      <itunes:duration>3536</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mxDCClUthnKSmCpNU4ePgA5V8MAeMHtzExCAS__vcNVA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Opptøyer i Frankrike</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_748012c2-a01b-4882-9126-e4eb3df5a1a3</link>

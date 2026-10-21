@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Vasker du hjemmet ditt feil?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_1a4fb855-4dec-4b1f-8fb8-554dec5b1f10</link>
+      <description>Det lukter friskt men er egentlig helsefarlig. Dessuten, atomkjerneuret er snart her, og minilunger kan brukes i neste pandemi</description>
+      <guid isPermaLink="false">l_1a4fb855-4dec-4b1f-8fb8-554dec5b1f10</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1a4fb855-4dec-4b1f-8fb8-554dec5b1f10_1_ID192MP3.mp3" type="audio/mpeg" length="43429868"></enclosure>
+      <itunes:title>Vasker du hjemmet ditt feil?</itunes:title>
+      <itunes:summary>Det lukter friskt men er egentlig helsefarlig. Dessuten, atomkjerneuret er snart her, og minilunger kan brukes i neste pandemi</itunes:summary>
+      <itunes:duration>1809</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Kjefter du på KI&#39;en din?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_e5eaa410-cb54-4c8c-aaa4-10cb543c8c99</link>

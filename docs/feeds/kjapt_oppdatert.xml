@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Prosessen mot fred i Ukraina er «back on track»</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_62f1bff6-1b27-48f4-8ffe-ec3dedfe1892</link>
+      <description>Og nå kan unge voksne måtte betale gebyr hos tannlegen.</description>
+      <guid isPermaLink="false">l_62f1bff6-1b27-48f4-8ffe-ec3dedfe1892</guid>
+      <pubDate>Wed, 21 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/62f1bff6-1b27-48f4-8ffe-ec3dedfe1892_ae91b035-71f8-45f2-8485-2a1b6d88b034_ID192MP3.mp3" type="audio/mpeg" length="8909036"></enclosure>
+      <itunes:title>Prosessen mot fred i Ukraina er «back on track»</itunes:title>
+      <itunes:summary>Og nå kan unge voksne måtte betale gebyr hos tannlegen.</itunes:summary>
+      <itunes:duration>371</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZvPrXLHevcCvtDMxGNDu2QxoikFDyq7YPtx4ZL5-v7RQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Zelenskyj: Forhandlinger kan skje i Norge</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_7d6502c0-c8bc-4813-9ae0-a154c9d91d2b</link>

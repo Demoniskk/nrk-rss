@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:41:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Trump og Zelenskyj: Kan Norge redde forholdet?</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_b119f9bc-9f0e-464f-aef4-43239860b9a1</link>
+      <description>Donald Trump påstår usant at Ukraina ikke vil ha fredsavtale. Nå øker presset mot Zelenskyj, som har vært i Oslo for å ha fredssamtaler. Kan forholdet mellom Trump og Zelenskyj reddes? Eller er det for seint?</description>
+      <guid isPermaLink="false">l_b119f9bc-9f0e-464f-aef4-43239860b9a1</guid>
+      <pubDate>Wed, 21 Oct 2026 14:41:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/b119f9bc-9f0e-464f-aef4-43239860b9a1_d858ef76-5090-4fac-b70a-1046a359a291_ID192MP3.mp3" type="audio/mpeg" length="31067180"></enclosure>
+      <itunes:title>Trump og Zelenskyj: Kan Norge redde forholdet?</itunes:title>
+      <itunes:summary>Donald Trump påstår usant at Ukraina ikke vil ha fredsavtale. Nå øker presset mot Zelenskyj, som har vært i Oslo for å ha fredssamtaler. Kan forholdet mellom Trump og Zelenskyj reddes? Eller er det for seint?</itunes:summary>
+      <itunes:duration>1294</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JAeFljMtZANPaMdcVMcIdQg_hhsiBxY3-9mAH-PPEOsA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Atomvåpen og oljefondet: – Penger viktigere enn etikk</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_55b61f4c-1739-4780-865f-5e5e11ce3903</link>

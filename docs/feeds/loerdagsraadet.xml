@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 17 Oct 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Snuskete bøker og vanskelig far</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_4a5285e0-2718-41e4-844b-6cfa6dd9fd0d</link>
+      <description>To gode tilbakemeldinger!</description>
+      <guid isPermaLink="false">l_4a5285e0-2718-41e4-844b-6cfa6dd9fd0d</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/4a5285e0-2718-41e4-844b-6cfa6dd9fd0d_f78db4ed-97ce-4364-9031-c2eaf82888ba_ID192MP3.mp3" type="audio/mpeg" length="35871020"></enclosure>
+      <itunes:title>Snuskete bøker og vanskelig far</itunes:title>
+      <itunes:summary>To gode tilbakemeldinger!</itunes:summary>
+      <itunes:duration>1494</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Hedda Gullikstad / Jonas Bergland / Kari Slaatsveen</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_2f2874c4-6e31-4ff1-b9ef-2ac6a906e7aa</link>

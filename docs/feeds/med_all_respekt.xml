@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Familiehat i arv</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_90059808-38f9-4a9d-beea-9835caf8f427</link>
+      <description>Hvorfor går familiekonflikter i arv? Hvor syk må en hund være for å bli avlivet? Og vi har fått utegående reportere!</description>
+      <guid isPermaLink="false">l_90059808-38f9-4a9d-beea-9835caf8f427</guid>
+      <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/90059808-38f9-4a9d-beea-9835caf8f427_3a782aaf-f8ca-49b7-80e0-b2535953b817_ID192MP3.mp3" type="audio/mpeg" length="56085740"></enclosure>
+      <itunes:title>Familiehat i arv</itunes:title>
+      <itunes:summary>Hvorfor går familiekonflikter i arv? Hvor syk må en hund være for å bli avlivet? Og vi har fått utegående reportere!</itunes:summary>
+      <itunes:duration>2336</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Profetens fall </title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_23521a4f-976d-4570-9ee4-f425823bf22b</link>

@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Togansatte får kurs i selvforsvar</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_51e7165d-dbfc-41e7-91fc-29bb14e72e53</link>
+      <description>Og sprøytemidler i landbruket kobles til parkinson sykdom.</description>
+      <guid isPermaLink="false">l_51e7165d-dbfc-41e7-91fc-29bb14e72e53</guid>
+      <pubDate>Thu, 22 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/51e7165d-dbfc-41e7-91fc-29bb14e72e53_322547be-4300-40fa-9bc5-0e5621055b1d_ID192MP3.mp3" type="audio/mpeg" length="8445356"></enclosure>
+      <itunes:title>Togansatte får kurs i selvforsvar</itunes:title>
+      <itunes:summary>Og sprøytemidler i landbruket kobles til parkinson sykdom.</itunes:summary>
+      <itunes:duration>351</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fTNt7ocngBM1Q-KA9Ni4KwTew7a4UALiu6dSM1li6ckg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Prosessen mot fred i Ukraina er «back on track»</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_62f1bff6-1b27-48f4-8ffe-ec3dedfe1892</link>

@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 11:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Mia Habib</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_97558362-c8db-4e26-be60-9ed835730f4e</link>
+      <description>– At familien min er fra Israel er noe jeg sjelden sier, forteller den jødiske danseren.</description>
+      <guid isPermaLink="false">l_97558362-c8db-4e26-be60-9ed835730f4e</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/97558362-c8db-4e26-be60-9ed835730f4e_033eb597-6ad9-4362-9339-bec6f4427c82_ID192MP3.mp3" type="audio/mpeg" length="82559852"></enclosure>
+      <itunes:title>Mia Habib</itunes:title>
+      <itunes:summary>– At familien min er fra Israel er noe jeg sjelden sier, forteller den jødiske danseren.</itunes:summary>
+      <itunes:duration>3439</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0q3UvyMkBontjbntla9NagKymPNr5kcfH6E1WUaGB2hw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Dag-Inge Ulstein</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_2885f5c8-6f1c-4a8f-be52-e0bfefd656a3</link>

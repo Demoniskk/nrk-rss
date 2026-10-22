@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Høyre hevder opptøyene i Frankrike skyldes integreringssvikt</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_ba97994f-f376-4b62-89f5-9f80e832a3e1</link>
+      <description>Henrik Asheim peker på innvandring og integrering som årsak til at opptøyene i Frankrike endte i plyndring og bilbrann. - Asheim flørter med Donald Trump, hevder SV.</description>
+      <guid isPermaLink="false">l_ba97994f-f376-4b62-89f5-9f80e832a3e1</guid>
+      <pubDate>Thu, 22 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ba97994f-f376-4b62-89f5-9f80e832a3e1_0e16fefd-304f-4cd6-bcec-e48ee8b6871f_ID192MP3.mp3" type="audio/mpeg" length="21852908"></enclosure>
+      <itunes:title>Høyre hevder opptøyene i Frankrike skyldes integreringssvikt</itunes:title>
+      <itunes:summary>Henrik Asheim peker på innvandring og integrering som årsak til at opptøyene i Frankrike endte i plyndring og bilbrann. - Asheim flørter med Donald Trump, hevder SV.</itunes:summary>
+      <itunes:duration>910</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JbshOdN6ZpimqDylOyH1VgA8nQEp2v3-i2YRmnqHf84w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Politiker og aksjonist</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_710871d0-8738-4cf5-96d3-e7d86d3896b2</link>

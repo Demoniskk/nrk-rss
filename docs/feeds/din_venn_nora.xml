@@ -6,7 +6,7 @@
     <description>Nok en hektisk uke for komiker Nora Svenningsen. Her er hennes verbale dagbok, hvor du er med på å fargelegge sidene. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/din_venn_nora.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Din venn, Nora</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora</link>
     </image>
+    <item>
+      <title>KI-vikinglåter fra hælvete </title>
+      <link>https://radio.nrk.no/podkast/din_venn_nora/l_a18aebb3-3c33-4474-9585-4c7c0a5691c9</link>
+      <description>Irriterende uke. Baki bilen måtte jeg høre ræva KI-vikinglåter i tre timer. Da klikka det for meg.</description>
+      <guid isPermaLink="false">l_a18aebb3-3c33-4474-9585-4c7c0a5691c9</guid>
+      <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/a18aebb3-3c33-4474-9585-4c7c0a5691c9_75a33037-bb58-4ba4-aab3-172e2e40f3a6_ID192MP3.mp3" type="audio/mpeg" length="39856940"></enclosure>
+      <itunes:title>KI-vikinglåter fra hælvete </itunes:title>
+      <itunes:summary>Irriterende uke. Baki bilen måtte jeg høre ræva KI-vikinglåter i tre timer. Da klikka det for meg.</itunes:summary>
+      <itunes:duration>1660</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tvvqXLkNP1MfroE3z7u7bAKk4GRbOYZVOMEOgZiLLU1A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Pupp i friluft på Oslo City</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora/l_52c8aee8-ecf4-480c-88ae-e8ecf4780ced</link>

@@ -6,7 +6,7 @@
     <description>Spøkelser, forbannelser og uforklarlige fenomener – landet vårt er fullt av uløste mysterier.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/mysterier_fra_norge.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Mysterier fra Norge</title>
       <link>https://radio.nrk.no/podkast/mysterier_fra_norge</link>
     </image>
+    <item>
+      <title>Trollmannen fra Porsanger</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_8e203365-ffbc-4c42-a033-65ffbcbc42f3</link>
+      <description>Flere hører og ser merkelige ting rundt en gammel trekiste. En kiste som skal ha tilhørt en mektig og mystisk sjaman.</description>
+      <guid isPermaLink="false">l_8e203365-ffbc-4c42-a033-65ffbcbc42f3</guid>
+      <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/8e203365-ffbc-4c42-a033-65ffbcbc42f3_1_ID192MP3.mp3" type="audio/mpeg" length="40442156"></enclosure>
+      <itunes:title>Trollmannen fra Porsanger</itunes:title>
+      <itunes:summary>Flere hører og ser merkelige ting rundt en gammel trekiste. En kiste som skal ha tilhørt en mektig og mystisk sjaman.</itunes:summary>
+      <itunes:duration>1685</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AdAcwfDkwZbi_QXV5FYmwgwUcKQw2aGsbL6zK0r-EhYQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Blindpassasjeren fra Cuba</title>
       <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_5b0cf79e-fa95-489d-8cf7-9efa95e89d01</link>

@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Carina Dahl: Å forsikre seg</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_5b27d938-251e-406c-9015-96bafa125e19</link>
+      <description>Carina Dahl fikk et ekstra stort behov for å forsikre seg om at hun hadde valgt riktig partner før hun gikk inn i et seriøst forhold.</description>
+      <guid isPermaLink="false">l_5b27d938-251e-406c-9015-96bafa125e19</guid>
+      <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/5b27d938-251e-406c-9015-96bafa125e19_bdd10b5a-273c-4df8-b872-188f3970392d_ID192MP3.mp3" type="audio/mpeg" length="63519596"></enclosure>
+      <itunes:title>Carina Dahl: Å forsikre seg</itunes:title>
+      <itunes:summary>Carina Dahl fikk et ekstra stort behov for å forsikre seg om at hun hadde valgt riktig partner før hun gikk inn i et seriøst forhold.</itunes:summary>
+      <itunes:duration>2646</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qLAFCKtMKGL_nz9i1iw6RwnE0OMKi6H4XsH2Yg-rc5YA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Gard Øksendal: Jobbe med seg selv</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_b3bd2a69-45c8-4243-b320-179dc16f6460</link>

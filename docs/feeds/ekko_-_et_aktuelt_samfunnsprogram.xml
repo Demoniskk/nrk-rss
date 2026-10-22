@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:45:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Lukkede samfunn med sterke ledere</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_444e2253-99e6-4ce9-8f04-11dedc409149</link>
+      <description>TV-serie om livet på en gård i Bærum har skapt oppmerksomhet. Hva trekker folk mot til lukkede miljøer med en sterk leder?&#xA;</description>
+      <guid isPermaLink="false">l_444e2253-99e6-4ce9-8f04-11dedc409149</guid>
+      <pubDate>Wed, 21 Oct 2026 13:45:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/444e2253-99e6-4ce9-8f04-11dedc409149_2bd80fc6-1b6b-4e9f-bb49-273b5e8fd85b_ID192MP3.mp3" type="audio/mpeg" length="34778348"></enclosure>
+      <itunes:title>Lukkede samfunn med sterke ledere</itunes:title>
+      <itunes:summary>TV-serie om livet på en gård i Bærum har skapt oppmerksomhet. Hva trekker folk mot til lukkede miljøer med en sterk leder?&#xA;</itunes:summary>
+      <itunes:duration>1449</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Bsd3bvr5OgIIxy5nb08t2Q_GP0-nhbBTyo7ge1sR1YUg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Regissørar trua etter &#34;NAZA&#34;</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_f04fb879-a4b1-4d2b-9f22-c4767bcd63e3</link>

@@ -6,7 +6,7 @@
     <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sentralbordet på NRK</title>
       <link>https://radio.nrk.no/podkast/sentralbordet</link>
     </image>
+    <item>
+      <title>– Du har en tiss i øret</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_542002bd-e539-49f0-bb13-6f85d8b8112c</link>
+      <description>«Sylvi Listhaug» forhører seg om noen spesielle bildekk, Vegard får en annerledes språkoppgave, lytter Victor vil absolutt ikke tulleringes og Ole Henry stiller Manchester City noen betimelige spørsmål.</description>
+      <guid isPermaLink="false">l_542002bd-e539-49f0-bb13-6f85d8b8112c</guid>
+      <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/542002bd-e539-49f0-bb13-6f85d8b8112c_4d9693fe-7609-4a1a-afd9-83ee0c2c0add_ID192MP3.mp3" type="audio/mpeg" length="34676396"></enclosure>
+      <itunes:title>– Du har en tiss i øret</itunes:title>
+      <itunes:summary>«Sylvi Listhaug» forhører seg om noen spesielle bildekk, Vegard får en annerledes språkoppgave, lytter Victor vil absolutt ikke tulleringes og Ole Henry stiller Manchester City noen betimelige spørsmål.</itunes:summary>
+      <itunes:duration>1444</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Ole Henry cosplayer kriminell</title>
       <link>https://radio.nrk.no/podkast/sentralbordet/l_1de12aee-3b7a-4a14-a12a-ee3b7a8a14a7</link>

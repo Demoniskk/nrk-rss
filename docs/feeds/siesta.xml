@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Markus fikk rotte på skoen </title>
+      <link>https://radio.nrk.no/podkast/siesta/l_3aaaac2e-70af-424e-a522-5a7470ea7bb6</link>
+      <description>Daniel irriterer dritten ut av Anna, man skal alltid hilse på bussjåføren og Markus har hatt ellevilt møte med en rotte. </description>
+      <guid isPermaLink="false">l_3aaaac2e-70af-424e-a522-5a7470ea7bb6</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3aaaac2e-70af-424e-a522-5a7470ea7bb6_8f29514e-173d-404f-be28-05f970d63abf_ID192MP3.mp3" type="audio/mpeg" length="59405804"></enclosure>
+      <itunes:title>Markus fikk rotte på skoen </itunes:title>
+      <itunes:summary>Daniel irriterer dritten ut av Anna, man skal alltid hilse på bussjåføren og Markus har hatt ellevilt møte med en rotte. </itunes:summary>
+      <itunes:duration>2475</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Anna hater motorsykler</title>
       <link>https://radio.nrk.no/podkast/siesta/l_2008ae2e-2a54-4281-88ae-2e2a54a281f9</link>

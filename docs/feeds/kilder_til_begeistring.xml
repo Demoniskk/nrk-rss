@@ -6,7 +6,7 @@
     <description>Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kilder_til_begeistring.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kilder til begeistring</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring</link>
     </image>
+    <item>
+      <title>Fersk gjær</title>
+      <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_4d8e1f7c-3f78-447d-8e1f-7c3f78347dda</link>
+      <description>Skal man smuldre fersk gjær, begynner det hele med oppakkingen.</description>
+      <guid isPermaLink="false">l_4d8e1f7c-3f78-447d-8e1f-7c3f78347dda</guid>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kilder_til_begeistring/4d8e1f7c-3f78-447d-8e1f-7c3f78347dda_1_ID192MP3.mp3" type="audio/mpeg" length="2397356"></enclosure>
+      <itunes:title>Fersk gjær</itunes:title>
+      <itunes:summary>Skal man smuldre fersk gjær, begynner det hele med oppakkingen.</itunes:summary>
+      <itunes:duration>99</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NyL7om6i5b3iDO8qtWu1Bg4m-hgUM9_NQWscoCXf8SCw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Latterkrampe</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_b0fb696f-54b3-453e-bb69-6f54b3053e9d</link>

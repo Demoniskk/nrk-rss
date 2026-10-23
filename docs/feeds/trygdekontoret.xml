@@ -6,7 +6,7 @@
     <description>Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Trygdekontoret</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret</link>
     </image>
+    <item>
+      <title>Bråktober: Milliardærenes mellomvalg</title>
+      <link>https://radio.nrk.no/podkast/trygdekontoret/l_efd61004-a8e9-4480-aa04-eeeb452cb994</link>
+      <description>Er det folkemakta eller pengemakta som avgjør årets mellomvalg? Thomas Seltzer og Hilde Restad om dyrtid, korrupsjon og vår tids røverbaroner.</description>
+      <guid isPermaLink="false">l_efd61004-a8e9-4480-aa04-eeeb452cb994</guid>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/efd61004-a8e9-4480-aa04-eeeb452cb994_ea11e92d-3f9f-48c3-bc6d-dd662155e9a3_ID192MP3.mp3" type="audio/mpeg" length="50323436"></enclosure>
+      <itunes:title>Bråktober: Milliardærenes mellomvalg</itunes:title>
+      <itunes:summary>Er det folkemakta eller pengemakta som avgjør årets mellomvalg? Thomas Seltzer og Hilde Restad om dyrtid, korrupsjon og vår tids røverbaroner.</itunes:summary>
+      <itunes:duration>2096</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I9yY33lJjyDDziljpcvhXwUC-uP_TVu7vVXyxPlbcbQA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Bråktober!</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret/l_b29f670e-9ad9-4da9-9f67-0e9ad93da9bd</link>

@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Janne Stigen Drangsholt</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_1371f54d-2558-4c53-ad0f-cf28dc4961ae</link>
+      <description>– Døden er en dårlig oppfinnelse, mener forfatteren, som også er litteraturprofessor </description>
+      <guid isPermaLink="false">l_1371f54d-2558-4c53-ad0f-cf28dc4961ae</guid>
+      <pubDate>Thu, 22 Oct 2026 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1371f54d-2558-4c53-ad0f-cf28dc4961ae_c9dd673b-aa00-4d48-9451-15ffdf06d83b_ID192MP3.mp3" type="audio/mpeg" length="82537964"></enclosure>
+      <itunes:title>Janne Stigen Drangsholt</itunes:title>
+      <itunes:summary>– Døden er en dårlig oppfinnelse, mener forfatteren, som også er litteraturprofessor </itunes:summary>
+      <itunes:duration>3439</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/c4EBUp2KGwDaD1lk-_lg7QF3UWruvT0SAn9cgsjK5x3A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Mia Habib</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_97558362-c8db-4e26-be60-9ed835730f4e</link>

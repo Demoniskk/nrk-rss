@@ -6,7 +6,7 @@
     <description>Vi oppsummerer kulturuka hver fredag, med faste, friske og freidige paneldeltakere.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 06:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/fredagspanelet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Fredagspanelet</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet</link>
     </image>
+    <item>
+      <title>Norskfaget, dårlige tirsdager - og Norge best i alt</title>
+      <link>https://radio.nrk.no/podkast/fredagspanelet/l_025bd6c2-e829-4cbc-9cea-36b25a695e43</link>
+      <description>Norge er best i Norden i fotball, vi er best på ski, vi er best på oscarpriser og sannelig gjør vi ganske mye for å bli best i fredsmekling også. I tillegg vant Norge denne uken, for første gang i historien, alle de fem prisene til Nordisk Råd i 2026.  &#xA;Bør vi roe oss ned litt nå og slippe de andre nordiske landene til?</description>
+      <guid isPermaLink="false">l_025bd6c2-e829-4cbc-9cea-36b25a695e43</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/025bd6c2-e829-4cbc-9cea-36b25a695e43_08966755-0671-42d6-8be0-cb78396ea96f_ID192MP3.mp3" type="audio/mpeg" length="16870508"></enclosure>
+      <itunes:title>Norskfaget, dårlige tirsdager - og Norge best i alt</itunes:title>
+      <itunes:summary>Norge er best i Norden i fotball, vi er best på ski, vi er best på oscarpriser og sannelig gjør vi ganske mye for å bli best i fredsmekling også. I tillegg vant Norge denne uken, for første gang i historien, alle de fem prisene til Nordisk Råd i 2026.  &#xA;Bør vi roe oss ned litt nå og slippe de andre nordiske landene til?</itunes:summary>
+      <itunes:duration>702</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Fotball, leder lønn og tidlig jul</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet/l_5a3cf346-b832-46e8-bcf3-46b832f6e8d5</link>

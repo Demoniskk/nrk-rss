@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 20:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:02:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Duell-spesial: Seks dueller</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_8cb7f623-d8e5-4d07-90c9-d38d16564074</link>
+      <description>Monarkiets fremtid, innvandring og opptøyer i Frankrike. Det var to av de seks duellene i Debatten i kveld. </description>
+      <guid isPermaLink="false">l_8cb7f623-d8e5-4d07-90c9-d38d16564074</guid>
+      <pubDate>Thu, 22 Oct 2026 22:02:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/8cb7f623-d8e5-4d07-90c9-d38d16564074_942a8567-b51e-4454-beae-b4b075b244a4_ID192MP3.mp3" type="audio/mpeg" length="59372972"></enclosure>
+      <itunes:title>Duell-spesial: Seks dueller</itunes:title>
+      <itunes:summary>Monarkiets fremtid, innvandring og opptøyer i Frankrike. Det var to av de seks duellene i Debatten i kveld. </itunes:summary>
+      <itunes:duration>2473</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/fc326gihxdKvUFN8iDyYdQoMZwbPdwatKrHJl0TudD6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Kan vi stole på USA?</title>
       <link>https://radio.nrk.no/podkast/debatten/l_1e22225f-143f-44ca-9ed4-6b398ba1483d</link>

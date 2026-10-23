@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Jonas er nervøs før familietur</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_de71c0e9-6f3d-4811-b06e-0edc29f3a5ef</link>
+      <description>Olav Svarstad Haugland er supervikar! Jonas er bekymret for at han skal på familietur hvor alle er voksne. Hvordan sørge for at det ikke blir krangler?</description>
+      <guid isPermaLink="false">l_de71c0e9-6f3d-4811-b06e-0edc29f3a5ef</guid>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/de71c0e9-6f3d-4811-b06e-0edc29f3a5ef_a4c55db8-d55e-4f67-909a-eaf4c47feffc_ID192MP3.mp3" type="audio/mpeg" length="60811244"></enclosure>
+      <itunes:title>Jonas er nervøs før familietur</itunes:title>
+      <itunes:summary>Olav Svarstad Haugland er supervikar! Jonas er bekymret for at han skal på familietur hvor alle er voksne. Hvordan sørge for at det ikke blir krangler?</itunes:summary>
+      <itunes:duration>2533</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lszShehf7xFnisj0ik8W0AWB2bdyf2-DaMKZgLZu_b1Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
+    <item>
+      <title>Elsparkesykkel-lureri!</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_974cc4c1-7682-409a-866f-0c6fee551850</link>
+      <description>Oliver Bergset er gjesteprogramleder i dag, han er med i Norges dummeste, og vi skal sjekke om han også er P3morgens dummeste. Han og Jonas føler seg også dumme på elsparkesykkel </description>
+      <guid isPermaLink="false">l_974cc4c1-7682-409a-866f-0c6fee551850</guid>
+      <pubDate>Thu, 22 Oct 2026 10:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/974cc4c1-7682-409a-866f-0c6fee551850_a757ea29-da4c-4313-b020-2b05c41f460c_ID192MP3.mp3" type="audio/mpeg" length="54218924"></enclosure>
+      <itunes:title>Elsparkesykkel-lureri!</itunes:title>
+      <itunes:summary>Oliver Bergset er gjesteprogramleder i dag, han er med i Norges dummeste, og vi skal sjekke om han også er P3morgens dummeste. Han og Jonas føler seg også dumme på elsparkesykkel </itunes:summary>
+      <itunes:duration>2259</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CaAqSqMae5HF4TFigiMRbwLJJgNzKreCCYonTKZPrN4A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Den verste versjonen av bursdagssangen?</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_124593e8-a6f9-4883-9183-008b7e8e6d20</link>

@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 17:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Ungdomsprotester i Europa</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_90f57a6b-0f54-46ec-aafe-1df7a71abcc3</link>
+      <description>I Serbia ventes store demonstrasjoner før søndagens parlamentsvalg. I Albania er de unge ansvarlige for voldsomme protester mot presidenten.</description>
+      <guid isPermaLink="false">l_90f57a6b-0f54-46ec-aafe-1df7a71abcc3</guid>
+      <pubDate>Thu, 22 Oct 2026 19:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/90f57a6b-0f54-46ec-aafe-1df7a71abcc3_360212d8-5e22-4ccb-9a91-9074f25e39ca_ID192MP3.mp3" type="audio/mpeg" length="84967532"></enclosure>
+      <itunes:title>Ungdomsprotester i Europa</itunes:title>
+      <itunes:summary>I Serbia ventes store demonstrasjoner før søndagens parlamentsvalg. I Albania er de unge ansvarlige for voldsomme protester mot presidenten.</itunes:summary>
+      <itunes:duration>3540</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3p903HkYV5kZr3koFErmxgF_OPYmq34mb5_h69JTvX9Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Russland vil gjenoppta forhandlinger</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_d8b8f04e-0019-4961-b613-a7fa619054f3</link>

@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Valg i Israel: Generalen som kan velte Netanyahu</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_e5ae4041-c50a-421a-8b42-df0f0bc2f1d6</link>
+      <description>Han mistet sønnen i Gaza. Kan han endre Israel?</description>
+      <guid isPermaLink="false">l_e5ae4041-c50a-421a-8b42-df0f0bc2f1d6</guid>
+      <pubDate>Fri, 23 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e5ae4041-c50a-421a-8b42-df0f0bc2f1d6_95f82898-efdb-438e-9ebd-940732fa19fe_ID192MP3.mp3" type="audio/mpeg" length="22105196"></enclosure>
+      <itunes:title>Valg i Israel: Generalen som kan velte Netanyahu</itunes:title>
+      <itunes:summary>Han mistet sønnen i Gaza. Kan han endre Israel?</itunes:summary>
+      <itunes:duration>920</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mLxs4NfkNnYgMoShR1y5NAT01AceFSrARMdpE8bd4y6g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Zelenskyj i skvis: Ofrar Trump Ukraina?</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_320a06ea-91c8-4e50-a219-315fba1ca881</link>

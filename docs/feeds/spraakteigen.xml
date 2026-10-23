@@ -6,7 +6,7 @@
     <description>Absolutt alt du kan undre deg over om språk! Jesper Nondal spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/spraakteigen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Språksnakk</title>
       <link>https://radio.nrk.no/podkast/spraakteigen</link>
     </image>
+    <item>
+      <title>Samisk språkuke</title>
+      <link>https://radio.nrk.no/podkast/spraakteigen/l_b96b3595-24c7-45ca-94cb-5285bca387dc</link>
+      <description>Det er den årlige uka hvor det rettes fokus mot de ulike samiske språkene. Det gjør sjølsagt Språksnakk også. Lær mer om samisk!</description>
+      <guid isPermaLink="false">l_b96b3595-24c7-45ca-94cb-5285bca387dc</guid>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/b96b3595-24c7-45ca-94cb-5285bca387dc_9cb72b41-d73d-4903-b7c2-a99e4beac512_ID192MP3.mp3" type="audio/mpeg" length="82541996"></enclosure>
+      <itunes:title>Samisk språkuke</itunes:title>
+      <itunes:summary>Det er den årlige uka hvor det rettes fokus mot de ulike samiske språkene. Det gjør sjølsagt Språksnakk også. Lær mer om samisk!</itunes:summary>
+      <itunes:duration>3439</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2TvOfsrDcr5auT3M1LgFigvBNIkGwBHcYHL4J_JYW50Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Kakepynta rævgevir</title>
       <link>https://radio.nrk.no/podkast/spraakteigen/l_81058325-c032-4b9f-8583-25c032eb9ff6</link>

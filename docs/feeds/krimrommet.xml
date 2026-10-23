@@ -6,7 +6,7 @@
     <description>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 04:40:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Krimrommet</title>
       <link>https://radio.nrk.no/podkast/krimrommet</link>
     </image>
+    <item>
+      <title>Tilsto drap - er han uskyldig?</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_cb29ddf4-a1b8-4499-a8a3-3ff7aee9e0d9</link>
+      <description>Douglas Carter tilsto å ha drept danske Eva på 80-tallet. Men etter 41 år i fengsel gjør nye DNA-funn at han blir løslatt.</description>
+      <guid isPermaLink="false">l_cb29ddf4-a1b8-4499-a8a3-3ff7aee9e0d9</guid>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/cb29ddf4-a1b8-4499-a8a3-3ff7aee9e0d9_621011eb-918a-42c8-b040-a1655bed7fe2_ID192MP3.mp3" type="audio/mpeg" length="40617260"></enclosure>
+      <itunes:title>Tilsto drap - er han uskyldig?</itunes:title>
+      <itunes:summary>Douglas Carter tilsto å ha drept danske Eva på 80-tallet. Men etter 41 år i fengsel gjør nye DNA-funn at han blir løslatt.</itunes:summary>
+      <itunes:duration>1692</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HZvnWSzaP4rcjfwIEVqmswspuC_ffjCsuePwco5Pj71w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Tenåring dømt: Skulle drepe på bestilling</title>
       <link>https://radio.nrk.no/podkast/krimrommet/l_a10328e3-0fae-4216-abec-833aa661281a</link>

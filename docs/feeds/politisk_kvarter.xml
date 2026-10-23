@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>EU sier nei til olje i Arktis</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_3c70a221-4134-4f23-8c62-46cebc2bb851</link>
+      <description>EU vil at olje og gass skal bli liggende under bakken i Arktis.&#xA;Men de dropper å jobbe for et forbud.&#xA;Og alle mener de har vunnet...</description>
+      <guid isPermaLink="false">l_3c70a221-4134-4f23-8c62-46cebc2bb851</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/3c70a221-4134-4f23-8c62-46cebc2bb851_926ed44e-0afa-46be-a4d0-07a00b8cb16d_ID192MP3.mp3" type="audio/mpeg" length="21906476"></enclosure>
+      <itunes:title>EU sier nei til olje i Arktis</itunes:title>
+      <itunes:summary>EU vil at olje og gass skal bli liggende under bakken i Arktis.&#xA;Men de dropper å jobbe for et forbud.&#xA;Og alle mener de har vunnet...</itunes:summary>
+      <itunes:duration>912</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EYjp9_AoyszJBLl44guKnwjHoPQy8MVvs8TdD2-UtHoA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Høyre hevder opptøyene i Frankrike skyldes integreringssvikt</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_ba97994f-f376-4b62-89f5-9f80e832a3e1</link>

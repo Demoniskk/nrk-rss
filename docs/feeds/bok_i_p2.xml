@@ -6,7 +6,7 @@
     <description>Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bok_i_p2.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Åpen bok</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2</link>
     </image>
+    <item>
+      <title>Maria Navarro Skaranger- Emily gjør så godt hun kan</title>
+      <link>https://radio.nrk.no/podkast/bok_i_p2/l_09e4ed01-414d-4ea4-ab5d-c2f17d5c68a6</link>
+      <description>Maria Navarro Skaranger om ubrukelige og fjerne fedre, usikre alenemødre og hvorfor hun nå ser seg ferdig med karakterene i &#34;Jeg kommer hjem&#34;</description>
+      <guid isPermaLink="false">l_09e4ed01-414d-4ea4-ab5d-c2f17d5c68a6</guid>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/09e4ed01-414d-4ea4-ab5d-c2f17d5c68a6_60fdf1ea-b606-429f-ab4f-a4ac365f7408_ID192MP3.mp3" type="audio/mpeg" length="79368812"></enclosure>
+      <itunes:title>Maria Navarro Skaranger- Emily gjør så godt hun kan</itunes:title>
+      <itunes:summary>Maria Navarro Skaranger om ubrukelige og fjerne fedre, usikre alenemødre og hvorfor hun nå ser seg ferdig med karakterene i &#34;Jeg kommer hjem&#34;</itunes:summary>
+      <itunes:duration>3306</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/k5MuJ7Zik1UOSTyrwgLuFwIK4NsaRIc2WdCA9XJ4YTtA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Vetle Lid Larsen: – Vi er fortiden</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2/l_9b449df7-3228-400f-84b9-db2b5b56ee5c</link>

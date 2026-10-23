@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 11:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Trumps USA: Ikke akkurat bestiser</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_39f08a7c-02dc-4a5f-a20f-78ec499ca1ec</link>
+      <description>Den ene er oppgitt, den andre rasende. Og det er ikke konstruktivt for dialog mellom USA og Ukraina.</description>
+      <guid isPermaLink="false">l_39f08a7c-02dc-4a5f-a20f-78ec499ca1ec</guid>
+      <pubDate>Thu, 22 Oct 2026 13:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/39f08a7c-02dc-4a5f-a20f-78ec499ca1ec_5a7d81f3-8124-43f5-970b-51e7db621553_ID192MP3.mp3" type="audio/mpeg" length="79049708"></enclosure>
+      <itunes:title>Trumps USA: Ikke akkurat bestiser</itunes:title>
+      <itunes:summary>Den ene er oppgitt, den andre rasende. Og det er ikke konstruktivt for dialog mellom USA og Ukraina.</itunes:summary>
+      <itunes:duration>3293</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Amskm0fR8vq6OxiJr94MsACuFCfS_bx_Um6RUo98RU2w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Lukkede samfunn med sterke ledere</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_444e2253-99e6-4ce9-8f04-11dedc409149</link>

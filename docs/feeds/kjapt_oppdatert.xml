@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 03:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Venter «krigstilstander» i Frankrike i helga</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_f99b971b-2d1f-493d-bc73-347a3a8efcbe</link>
+      <description>Og husk: på søndag stiller vi klokka (godt med en time ekstra på øyet)</description>
+      <guid isPermaLink="false">l_f99b971b-2d1f-493d-bc73-347a3a8efcbe</guid>
+      <pubDate>Fri, 23 Oct 2026 05:59:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/f99b971b-2d1f-493d-bc73-347a3a8efcbe_262ba7be-e641-49d9-b2f1-2c4b199671f8_ID192MP3.mp3" type="audio/mpeg" length="9148652"></enclosure>
+      <itunes:title>Venter «krigstilstander» i Frankrike i helga</itunes:title>
+      <itunes:summary>Og husk: på søndag stiller vi klokka (godt med en time ekstra på øyet)</itunes:summary>
+      <itunes:duration>381</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Z1H4k738BnJsQNHbit8GVQIjeawx0IsI-W3W9aWfP8JA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Togansatte får kurs i selvforsvar</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_51e7165d-dbfc-41e7-91fc-29bb14e72e53</link>

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-23T08:37:24Z",
-  "latest_episode": "2026-10-23T08:00:00Z",
+  "generated_at": "2026-10-24T08:12:27Z",
+  "latest_episode": "2026-10-24T04:00:00Z",
   "source": "https://radio.nrk.no/",
   "podcast_count": 235,
-  "episode_count": 60010,
+  "episode_count": 60017,
   "podcasts": [
     {
       "id": "22_juli_-_hvordan_kunne_det_skje",
@@ -33,10 +33,10 @@
       "description": "Forum for funfacts, hard forskning og bedrevitenskap ",
       "category": "Kultur og samfunn",
       "image_url": "https://gfx.nrk.no/3jJO7vXNegeaT_tX5k8EdgS2RnwBfqYUM5bzyOaudbVw",
-      "episode_count": 829,
+      "episode_count": 830,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml",
       "nrk_url": "https://radio.nrk.no/podkast/abels_taarn",
-      "latest_episode": "2026-10-21T04:00:00Z"
+      "latest_episode": "2026-10-23T04:00:00Z"
     },
     {
       "id": "andakten",
@@ -99,10 +99,10 @@
       "description": "Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg",
-      "episode_count": 365,
+      "episode_count": 366,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml",
       "nrk_url": "https://radio.nrk.no/podkast/baksnakk",
-      "latest_episode": "2026-10-20T04:00:00Z"
+      "latest_episode": "2026-10-23T10:00:00Z"
     },
     {
       "id": "berrum_beyer_snakker_om_greier",
@@ -264,10 +264,10 @@
       "description": "Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw",
-      "episode_count": 3676,
+      "episode_count": 3677,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml",
       "nrk_url": "https://radio.nrk.no/podkast/dagsnytt_atten",
-      "latest_episode": "2026-10-22T17:00:00Z"
+      "latest_episode": "2026-10-23T17:00:00Z"
     },
     {
       "id": "p060ms2h",
@@ -1034,10 +1034,10 @@
       "description": "De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/_p7EpzN4kJQWcCS-a73YtA1Ig8sP9s6-Afg8zvlNSP7Q",
-      "episode_count": 199,
+      "episode_count": 200,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml",
       "nrk_url": "https://radio.nrk.no/podkast/kommentert",
-      "latest_episode": "2026-10-21T12:41:00Z"
+      "latest_episode": "2026-10-23T13:32:00Z"
     },
     {
       "id": "kompass",
@@ -1595,10 +1595,10 @@
       "description": "Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ",
-      "episode_count": 292,
+      "episode_count": 293,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/norsken_svensken_og_dansken.xml",
       "nrk_url": "https://radio.nrk.no/podkast/norsken_svensken_og_dansken",
-      "latest_episode": "2026-10-17T04:00:00Z"
+      "latest_episode": "2026-10-24T04:00:00Z"
     },
     {
       "id": "nrkscenen",
@@ -1969,10 +1969,10 @@
       "description": "Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
-      "episode_count": 363,
+      "episode_count": 364,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml",
       "nrk_url": "https://radio.nrk.no/podkast/siesta",
-      "latest_episode": "2026-10-22T12:00:00Z"
+      "latest_episode": "2026-10-23T12:00:00Z"
     },
     {
       "id": "sjakksnakk",
@@ -2508,10 +2508,10 @@
       "description": "For folk  som liker å vite litt mer",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw",
-      "episode_count": 1974,
+      "episode_count": 1975,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml",
       "nrk_url": "https://radio.nrk.no/podkast/verdiboersen",
-      "latest_episode": "2026-10-18T04:00:00Z"
+      "latest_episode": "2026-10-23T10:05:00Z"
     },
     {
       "id": "vg3",

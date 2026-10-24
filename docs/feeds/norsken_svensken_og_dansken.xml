@@ -6,7 +6,7 @@
     <description>Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 17 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/norsken_svensken_og_dansken.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Norsken, svensken og dansken</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken</link>
     </image>
+    <item>
+      <title>Nepo-Norge</title>
+      <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_a2083e24-1fc7-4f47-ba35-792bdeb7c5b6</link>
+      <description>Norske milliardærer forarger panelet, Støres sønn er «posterboy» for ny alternativbølge, og kan Lego kurere angst?&#xA;</description>
+      <guid isPermaLink="false">l_a2083e24-1fc7-4f47-ba35-792bdeb7c5b6</guid>
+      <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/a2083e24-1fc7-4f47-ba35-792bdeb7c5b6_0d026e09-b73f-47e1-a051-56ad8b340714_ID192MP3.mp3" type="audio/mpeg" length="82146284"></enclosure>
+      <itunes:title>Nepo-Norge</itunes:title>
+      <itunes:summary>Norske milliardærer forarger panelet, Støres sønn er «posterboy» for ny alternativbølge, og kan Lego kurere angst?&#xA;</itunes:summary>
+      <itunes:duration>3422</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Ubudne gjester</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_522dc027-3caf-4deb-adc0-273caf3deb14</link>

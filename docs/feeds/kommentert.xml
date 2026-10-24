@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 12:41:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:32:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Vold og opptøyer: Hvorfor er Europas unge så sinte?</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_69e64c49-b110-4cfa-8fd1-ab287a66fc7f</link>
+      <description>I flere og flere land i Europa er folk sinte og demonstrerer. Mange av de sinte er unge, og flere steder har det blitt voldelig.&#xA;Hva handler disse demonstrasjonene, denne volden om? Hvor langt vil de gå?&#xA;Og kan det føre til endringer?&#xA;</description>
+      <guid isPermaLink="false">l_69e64c49-b110-4cfa-8fd1-ab287a66fc7f</guid>
+      <pubDate>Fri, 23 Oct 2026 15:32:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/69e64c49-b110-4cfa-8fd1-ab287a66fc7f_36bdab16-1424-479f-b7f1-17fe330efc84_ID192MP3.mp3" type="audio/mpeg" length="42129836"></enclosure>
+      <itunes:title>Vold og opptøyer: Hvorfor er Europas unge så sinte?</itunes:title>
+      <itunes:summary>I flere og flere land i Europa er folk sinte og demonstrerer. Mange av de sinte er unge, og flere steder har det blitt voldelig.&#xA;Hva handler disse demonstrasjonene, denne volden om? Hvor langt vil de gå?&#xA;Og kan det føre til endringer?&#xA;</itunes:summary>
+      <itunes:duration>1755</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/6SYT7nmK7lH_AnqQtGXmoAO45lEHq89A4E8J3JJoW53A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Trump og Zelenskyj: Kan Norge redde forholdet?</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_b119f9bc-9f0e-464f-aef4-43239860b9a1</link>

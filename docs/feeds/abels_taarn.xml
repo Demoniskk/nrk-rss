@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Hvor kjipe virus kan KI lage?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_f20f9cec-f0d8-4a7e-9e9c-a33e209acdd2</link>
+      <description>Ønsket om å ødelegge kan være et tegn på intelligens.&#xA;Går du rundt og lurer på merkelige saker? Få svar fra Abels Tårns eksperter!</description>
+      <guid isPermaLink="false">l_f20f9cec-f0d8-4a7e-9e9c-a33e209acdd2</guid>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f20f9cec-f0d8-4a7e-9e9c-a33e209acdd2_31845ad1-3286-4ec0-8213-58921bc9b0a6_ID192MP3.mp3" type="audio/mpeg" length="82907180"></enclosure>
+      <itunes:title>Hvor kjipe virus kan KI lage?</itunes:title>
+      <itunes:summary>Ønsket om å ødelegge kan være et tegn på intelligens.&#xA;Går du rundt og lurer på merkelige saker? Få svar fra Abels Tårns eksperter!</itunes:summary>
+      <itunes:duration>3454</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Wx2syOvBm-49CjZs_yMQ_gaVids7u85Eu_3Gp1yAWbEg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Vasker du hjemmet ditt feil?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_1a4fb855-4dec-4b1f-8fb8-554dec5b1f10</link>

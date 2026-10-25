@@ -6,7 +6,7 @@
     <description>Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 17 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ukeslutt</title>
       <link>https://radio.nrk.no/podkast/ukeslutt</link>
     </image>
+    <item>
+      <title>Oj, oj, oj - en blå ballong!</title>
+      <link>https://radio.nrk.no/podkast/ukeslutt/l_0f1fb417-ba6e-43df-94c9-9cd7f6e66bea</link>
+      <description>Du har garantert hørt sangene hans. Denne uka ville Arne Bendiksen fylt 100 år.</description>
+      <guid isPermaLink="false">l_0f1fb417-ba6e-43df-94c9-9cd7f6e66bea</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/0f1fb417-ba6e-43df-94c9-9cd7f6e66bea_1b5211fc-fc13-45c8-945a-3b9a2068f7d0_ID192MP3.mp3" type="audio/mpeg" length="99363500"></enclosure>
+      <itunes:title>Oj, oj, oj - en blå ballong!</itunes:title>
+      <itunes:summary>Du har garantert hørt sangene hans. Denne uka ville Arne Bendiksen fylt 100 år.</itunes:summary>
+      <itunes:duration>4140</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/E4NJ0M7RIxpxyTZqR53ZWQN1gTEKtAPtPpm0EamzMLMw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Pent brukt VM-tromme</title>
       <link>https://radio.nrk.no/podkast/ukeslutt/l_c198b48e-ea8b-42c4-98b4-8eea8bb2c438</link>

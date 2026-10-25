@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:10:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Simon Nitsche /  Silje Nordnes / Erik Solbakken</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_fa2a8a51-16f3-46a6-848e-f53e2f8622e6</link>
+      <description>TILBAKEMELDING: Hvordan går det med fråtsinga til Ester? / PROBLEMER: Fortapt mann / Flørteopplevelsen er ulik / Foreldrene våre har aldri møttes / Samtalene jeg kunne vært foruten / Vanskelig å få, begge veier / Jeg har begynt å ta avstand / Svigers pisser med døra åpen / Relasjoner, invitasjoner og selskap</description>
+      <guid isPermaLink="false">l_fa2a8a51-16f3-46a6-848e-f53e2f8622e6</guid>
+      <pubDate>Sat, 24 Oct 2026 13:10:00 +0200</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/fa2a8a51-16f3-46a6-848e-f53e2f8622e6_3cc0e849-187f-460d-8992-02ff29a0ae51_ID192MP3.mp3" type="audio/mpeg" length="186414380"></enclosure>
+      <itunes:title>Simon Nitsche /  Silje Nordnes / Erik Solbakken</itunes:title>
+      <itunes:summary>TILBAKEMELDING: Hvordan går det med fråtsinga til Ester? / PROBLEMER: Fortapt mann / Flørteopplevelsen er ulik / Foreldrene våre har aldri møttes / Samtalene jeg kunne vært foruten / Vanskelig å få, begge veier / Jeg har begynt å ta avstand / Svigers pisser med døra åpen / Relasjoner, invitasjoner og selskap</itunes:summary>
+      <itunes:duration>7767</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SRKr2JVbygI2p1J2RthVjA3hPewOBVE8r6y0Pzk7qhKg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Snuskete bøker og vanskelig far</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_4a5285e0-2718-41e4-844b-6cfa6dd9fd0d</link>

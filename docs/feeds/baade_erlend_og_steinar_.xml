@@ -6,7 +6,7 @@
     <description>En tenketank for folk med lav intelligens.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baade_erlend_og_steinar_.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Både Erlend og Steinar </title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
     </image>
+    <item>
+      <title>Pappa gjør seg klar for apokalypsen</title>
+      <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_4f38853a-cc50-4f21-9ac5-54189c881032</link>
+      <description>En myk trafikant kommer med en urovekkende tilståelse. En sønn stiller spørsmål ved farens våpensyn før apokalypsen, og Erlend forklarer hvorfor kjærlighetssorg er verdifullt.&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_4f38853a-cc50-4f21-9ac5-54189c881032</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/4f38853a-cc50-4f21-9ac5-54189c881032_b437f65d-07ba-44a6-8c18-5f78dd38e25b_ID192MP3.mp3" type="audio/mpeg" length="100755116"></enclosure>
+      <itunes:title>Pappa gjør seg klar for apokalypsen</itunes:title>
+      <itunes:summary>En myk trafikant kommer med en urovekkende tilståelse. En sønn stiller spørsmål ved farens våpensyn før apokalypsen, og Erlend forklarer hvorfor kjærlighetssorg er verdifullt.&#xA;&#xA;</itunes:summary>
+      <itunes:duration>4198</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Kyss, klapp og klem</title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_c62fbdbb-476f-4799-afbd-bb476f87997a</link>

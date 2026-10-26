@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Nok for sjukehusa?</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_3a70ad44-51b6-4b26-8b24-224c15fb169d</link>
+      <description>Sp vil ha betre sjukehusøkonomi og helsereform frå helseminister Vestre</description>
+      <guid isPermaLink="false">l_3a70ad44-51b6-4b26-8b24-224c15fb169d</guid>
+      <pubDate>Mon, 26 Oct 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/3a70ad44-51b6-4b26-8b24-224c15fb169d_0cacc757-c540-478e-b440-92189b24968c_ID192MP3.mp3" type="audio/mpeg" length="21765356"></enclosure>
+      <itunes:title>Nok for sjukehusa?</itunes:title>
+      <itunes:summary>Sp vil ha betre sjukehusøkonomi og helsereform frå helseminister Vestre</itunes:summary>
+      <itunes:duration>906</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Xe5pviBmOfRW2fD_afejDgE5m7pPfiFg9nzqU3NnMyZA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>EU sier nei til olje i Arktis</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_3c70a221-4134-4f23-8c62-46cebc2bb851</link>

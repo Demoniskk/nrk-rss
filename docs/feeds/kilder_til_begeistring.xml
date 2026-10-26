@@ -6,7 +6,7 @@
     <description>Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kilder_til_begeistring.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kilder til begeistring</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring</link>
     </image>
+    <item>
+      <title>Legekontor</title>
+      <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_4dc24799-b905-4738-8a45-b25f0b2644b9</link>
+      <description>Noe fikk deg til å bestille en legetime.</description>
+      <guid isPermaLink="false">l_4dc24799-b905-4738-8a45-b25f0b2644b9</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kilder_til_begeistring/4dc24799-b905-4738-8a45-b25f0b2644b9_c8c07849-b3ba-4cc0-8388-9bbb8c3a43b6_ID192MP3.mp3" type="audio/mpeg" length="2227436"></enclosure>
+      <itunes:title>Legekontor</itunes:title>
+      <itunes:summary>Noe fikk deg til å bestille en legetime.</itunes:summary>
+      <itunes:duration>92</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gWZj9FyrtLAo3z2HcORcaQNKTGGpaFuL356Hd6KqB27w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Fersk gjær</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_4d8e1f7c-3f78-447d-8e1f-7c3f78347dda</link>

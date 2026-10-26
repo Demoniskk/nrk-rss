@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Vitnesbyrd - Thor Haavik</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_ccfd2893-96b8-4a2d-8bc8-5e95933dad41</link>
+      <description>Når man er en ung, har funnet idretten som betyr mest i livet der og da, er det tungt når kroppen sier noe helt annet.</description>
+      <guid isPermaLink="false">l_ccfd2893-96b8-4a2d-8bc8-5e95933dad41</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/ccfd2893-96b8-4a2d-8bc8-5e95933dad41_93809441-a4be-44bf-8642-a600d604f98f_ID192MP3.mp3" type="audio/mpeg" length="5772716"></enclosure>
+      <itunes:title>Vitnesbyrd - Thor Haavik</itunes:title>
+      <itunes:summary>Når man er en ung, har funnet idretten som betyr mest i livet der og da, er det tungt når kroppen sier noe helt annet.</itunes:summary>
+      <itunes:duration>240</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Samvittighet - Kristin N. Mork</title>
       <link>https://radio.nrk.no/podkast/andakten/l_75cb337e-ae60-4833-bb33-9a904b333e74</link>

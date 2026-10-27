@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Mapuche-folkets kamp mot den norske stat</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_ec7d3501-9b66-4d80-bd35-019b66ed80a4</link>
+      <description>Millaray Huichalaf har kjempa i over 15 for å redda heilage område i Chile. No vil ho ha norsk selskap ut av landet.</description>
+      <guid isPermaLink="false">l_ec7d3501-9b66-4d80-bd35-019b66ed80a4</guid>
+      <pubDate>Tue, 27 Oct 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/ec7d3501-9b66-4d80-bd35-019b66ed80a4_682ae86b-12db-4d2d-9816-e585b06e17fd_ID192MP3.mp3" type="audio/mpeg" length="20067884"></enclosure>
+      <itunes:title>Mapuche-folkets kamp mot den norske stat</itunes:title>
+      <itunes:summary>Millaray Huichalaf har kjempa i over 15 for å redda heilage område i Chile. No vil ho ha norsk selskap ut av landet.</itunes:summary>
+      <itunes:duration>836</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iDD9vAyY9wdXi_aToJ6NsgxcM9FxM0LZFnPVG4vORb8w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Trumps helse: Konspirasjonsteorier eller sannhet?</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_392118f2-b612-49dd-b352-5655fb717c83</link>

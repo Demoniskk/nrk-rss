@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Paraply - med Sigrun Loe Sparbo</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_1737fb13-ab45-4dea-a65a-c8527c0e5938</link>
+      <description>Det er med folk som med paraplyer, mener Sigrun Loe Sparboe. Det er fort gjort å glemme av dem.</description>
+      <guid isPermaLink="false">l_1737fb13-ab45-4dea-a65a-c8527c0e5938</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/1737fb13-ab45-4dea-a65a-c8527c0e5938_08ea40fa-8787-40dd-a736-02a8217e32b6_ID192MP3.mp3" type="audio/mpeg" length="4450796"></enclosure>
+      <itunes:title>Paraply - med Sigrun Loe Sparbo</itunes:title>
+      <itunes:summary>Det er med folk som med paraplyer, mener Sigrun Loe Sparboe. Det er fort gjort å glemme av dem.</itunes:summary>
+      <itunes:duration>185</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YKifrZnLK0bkOj4xrHgkjASL_pSlg5mmx7LyQ1xT8a0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Har du fyr - med Ola Bremnes</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_0ec6ff27-ec92-4e00-aec4-7688add3e589</link>

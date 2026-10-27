@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 08:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Det store burgerdilemmaet</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_949705d1-936f-4589-a32f-03a9e7df6d5f</link>
+      <description>Milddelmådig vikar Markus Vangen er med! Arin er tilbake på ferie, og vi har stilt klokken i helgen. Vi får også besøk av Marstein! Klarer han å yappe over alt?</description>
+      <guid isPermaLink="false">l_949705d1-936f-4589-a32f-03a9e7df6d5f</guid>
+      <pubDate>Mon, 26 Oct 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/949705d1-936f-4589-a32f-03a9e7df6d5f_09a07e8f-27ae-49de-aae0-79f7005258a8_ID192MP3.mp3" type="audio/mpeg" length="61815212"></enclosure>
+      <itunes:title>Det store burgerdilemmaet</itunes:title>
+      <itunes:summary>Milddelmådig vikar Markus Vangen er med! Arin er tilbake på ferie, og vi har stilt klokken i helgen. Vi får også besøk av Marstein! Klarer han å yappe over alt?</itunes:summary>
+      <itunes:duration>2575</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/g4MXAwQGMVtnpZB7ISVtFQ4O4uFIjJ3k3bkMa4gxAH2g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Jonas er nervøs før familietur</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_de71c0e9-6f3d-4811-b06e-0edc29f3a5ef</link>

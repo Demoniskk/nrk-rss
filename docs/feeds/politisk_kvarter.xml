@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Diagnose-eksplosjon i norsk skole</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_92b9c05f-da5a-4427-90d0-f28b10375e21</link>
+      <description>Utgiftene til elever med store helseutfordringer er 30 ganger høyere nå enn de var i 2010. Har fellesskolen - ideen om at alle skal i samme klasserom - nådd smertegrensen? </description>
+      <guid isPermaLink="false">l_92b9c05f-da5a-4427-90d0-f28b10375e21</guid>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/92b9c05f-da5a-4427-90d0-f28b10375e21_8050a1c7-e895-47dc-b307-738fbdc391bd_ID192MP3.mp3" type="audio/mpeg" length="21674348"></enclosure>
+      <itunes:title>Diagnose-eksplosjon i norsk skole</itunes:title>
+      <itunes:summary>Utgiftene til elever med store helseutfordringer er 30 ganger høyere nå enn de var i 2010. Har fellesskolen - ideen om at alle skal i samme klasserom - nådd smertegrensen? </itunes:summary>
+      <itunes:duration>903</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tqM_xgPF8GrMiEaH4WN4iQZpX67bLEHNsMBvewMuGNNQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Nok for sjukehusa?</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_3a70ad44-51b6-4b26-8b24-224c15fb169d</link>

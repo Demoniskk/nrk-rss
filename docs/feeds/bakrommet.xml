@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Kåtskap i VM og gullballen-slakt</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_4a802938-9887-4356-a00c-8e9427a1c5c4</link>
+      <description>VM- boka til Hangeland splitter ekspertene og konseptet med &#34;Ballon d&#39;or&#34; får grisejuling. Og hvordan er formen til landslagsspillerne?</description>
+      <guid isPermaLink="false">l_4a802938-9887-4356-a00c-8e9427a1c5c4</guid>
+      <pubDate>Mon, 26 Oct 2026 12:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/4a802938-9887-4356-a00c-8e9427a1c5c4_f106cb17-3e24-498b-b2b1-8a949875101d_ID192MP3.mp3" type="audio/mpeg" length="67138604"></enclosure>
+      <itunes:title>Kåtskap i VM og gullballen-slakt</itunes:title>
+      <itunes:summary>VM- boka til Hangeland splitter ekspertene og konseptet med &#34;Ballon d&#39;or&#34; får grisejuling. Og hvordan er formen til landslagsspillerne?</itunes:summary>
+      <itunes:duration>2797</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Hvor viktig er plasten?</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_a44f88eb-07c6-48cd-8f88-eb07c628cd91</link>

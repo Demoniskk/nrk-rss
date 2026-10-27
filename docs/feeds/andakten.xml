@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Lys i mørke - Thor Haavik</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_37a23797-ec86-4b87-8936-b9d01904a475</link>
+      <description>Dagene er ulike for oss alle, og det hjelper å finne støtte et sted når ting virker å være som aller vanskeligst.</description>
+      <guid isPermaLink="false">l_37a23797-ec86-4b87-8936-b9d01904a475</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/37a23797-ec86-4b87-8936-b9d01904a475_cb18a109-48b6-4913-a04b-07b56b2a86e8_ID192MP3.mp3" type="audio/mpeg" length="5973164"></enclosure>
+      <itunes:title>Lys i mørke - Thor Haavik</itunes:title>
+      <itunes:summary>Dagene er ulike for oss alle, og det hjelper å finne støtte et sted når ting virker å være som aller vanskeligst.</itunes:summary>
+      <itunes:duration>248</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Vitnesbyrd - Thor Haavik</title>
       <link>https://radio.nrk.no/podkast/andakten/l_ccfd2893-96b8-4a2d-8bc8-5e95933dad41</link>

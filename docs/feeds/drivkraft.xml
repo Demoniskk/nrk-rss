@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:20:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Eirik Bergesen</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_623e2e2d-0db0-4394-b09e-ed875f5ba3af</link>
+      <description>– Det kommer til å bli en konstitusjonell krise i USA de neste to årene, mener TV2s USA-ekspert</description>
+      <guid isPermaLink="false">l_623e2e2d-0db0-4394-b09e-ed875f5ba3af</guid>
+      <pubDate>Mon, 26 Oct 2026 14:20:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/623e2e2d-0db0-4394-b09e-ed875f5ba3af_efbcfb68-2bca-479c-9f82-b9e9dab285c0_ID192MP3.mp3" type="audio/mpeg" length="82433132"></enclosure>
+      <itunes:title>Eirik Bergesen</itunes:title>
+      <itunes:summary>– Det kommer til å bli en konstitusjonell krise i USA de neste to årene, mener TV2s USA-ekspert</itunes:summary>
+      <itunes:duration>3434</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EkMy7sOzxzitujOY-94KBg6J1B6WMkcEg2QsmXjIVGqQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Janne Stigen Drangsholt</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_1371f54d-2558-4c53-ad0f-cf28dc4961ae</link>

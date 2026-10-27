@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Venner som møtes ukentlig</title>
+    <link>https://radio.nrk.no/podkast/venner_som_moetes_ukentlig</link>
+    <description>Martha, Karsten og Annika freser gjennom voksenlivets banale oppturer og festlige nedturer. Heldigvis har de hverandre.</description>
+    <language>no</language>
+    <copyright>NRK</copyright>
+    <lastBuildDate>Tue, 27 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <generator>nrk-rss</generator>
+    <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/venner_som_moetes_ukentlig.xml" rel="self" type="application/rss+xml"></atom:link>
+    <itunes:author>NRK</itunes:author>
+    <itunes:summary>Martha, Karsten og Annika freser gjennom voksenlivets banale oppturer og festlige nedturer. Heldigvis har de hverandre.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>NRK</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://gfx.nrk.no/bWkIt0jcqHmn1nU4VHMgPwcCMKj8GBRqjU-HbAL4Uvtw"></itunes:image>
+    <itunes:category text="Comedy"></itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://gfx.nrk.no/bWkIt0jcqHmn1nU4VHMgPwcCMKj8GBRqjU-HbAL4Uvtw</url>
+      <title>Venner som møtes ukentlig</title>
+      <link>https://radio.nrk.no/podkast/venner_som_moetes_ukentlig</link>
+    </image>
+    <item>
+      <title>Smakebit </title>
+      <link>https://radio.nrk.no/podkast/venner_som_moetes_ukentlig/l_b51f772b-70f9-492b-9e8c-b0f28aaa44d7</link>
+      <description>Hvem er vi blitt egentlig? Annika, Karsten og Martha fra 4. etasje er blitt Venner som møtes ukentlig!</description>
+      <guid isPermaLink="false">l_b51f772b-70f9-492b-9e8c-b0f28aaa44d7</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/venner_som_moetes_ukentlig/b51f772b-70f9-492b-9e8c-b0f28aaa44d7_a97a75eb-57d5-4533-81cd-f68058b53fea_ID192MP3.mp3" type="audio/mpeg" length="4119020"></enclosure>
+      <itunes:title>Smakebit </itunes:title>
+      <itunes:summary>Hvem er vi blitt egentlig? Annika, Karsten og Martha fra 4. etasje er blitt Venner som møtes ukentlig!</itunes:summary>
+      <itunes:duration>171</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bWkIt0jcqHmn1nU4VHMgPwcCMKj8GBRqjU-HbAL4Uvtw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
+  </channel>
+</rss>

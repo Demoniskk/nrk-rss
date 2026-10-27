@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Markus vokser rumpa</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_5d0ec4dc-53a3-47e7-b2b2-fc89bd9f15ba</link>
+      <description>Daniel har vært i Serbia, noen ble innelåst på butikken og det blir ubehagelig når Markus får rumpa voksa av profesjonelle. </description>
+      <guid isPermaLink="false">l_5d0ec4dc-53a3-47e7-b2b2-fc89bd9f15ba</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/5d0ec4dc-53a3-47e7-b2b2-fc89bd9f15ba_2504cecc-358a-4823-928b-5b159f9d05bc_ID192MP3.mp3" type="audio/mpeg" length="64671020"></enclosure>
+      <itunes:title>Markus vokser rumpa</itunes:title>
+      <itunes:summary>Daniel har vært i Serbia, noen ble innelåst på butikken og det blir ubehagelig når Markus får rumpa voksa av profesjonelle. </itunes:summary>
+      <itunes:duration>2694</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Daniel intervjuer Iselin Guttormsen </title>
       <link>https://radio.nrk.no/podkast/siesta/l_765ac8eb-0281-461d-91c5-767747aa781d</link>

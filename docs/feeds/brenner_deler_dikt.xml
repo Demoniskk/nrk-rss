@@ -6,7 +6,7 @@
     <description>Hvordan kan noen få ord gi trøst, håp og et lite løft i hverdagen? Hans Olav Brenner og gjester deler sine favorittdikt.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 21 Jun 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/brenner_deler_dikt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Brenner deler dikt</title>
       <link>https://radio.nrk.no/podkast/brenner_deler_dikt</link>
     </image>
+    <item>
+      <title>Nye episoder kommer snart!</title>
+      <link>https://radio.nrk.no/podkast/brenner_deler_dikt/l_e70142d3-9a87-48da-ab46-a3230e6ecd0c</link>
+      <description>Brenner deler dikt er tilbake 28. oktober!</description>
+      <guid isPermaLink="false">l_e70142d3-9a87-48da-ab46-a3230e6ecd0c</guid>
+      <pubDate>Mon, 26 Oct 2026 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/e70142d3-9a87-48da-ab46-a3230e6ecd0c_399f0171-dbc8-4565-adb7-19a7f943a160_ID192MP3.mp3" type="audio/mpeg" length="733292"></enclosure>
+      <itunes:title>Nye episoder kommer snart!</itunes:title>
+      <itunes:summary>Brenner deler dikt er tilbake 28. oktober!</itunes:summary>
+      <itunes:duration>30</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ag1hkXBEHHBR_Hg-ojQ1KwVD3hW5qzJi-SgjndeY57Hw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Thea Sofie Loch Næss: Hva er kjærlighet?</title>
       <link>https://radio.nrk.no/podkast/brenner_deler_dikt/l_07e9e4c9-0a51-432d-a9e4-c90a51e32d6a</link>

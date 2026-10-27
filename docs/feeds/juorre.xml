@@ -6,7 +6,7 @@
     <description>Risstinin li tjielgga vuojno masi ájggu. Le gus A4-iellem buoremus viessomvuohke, jali ij la huoman nav buorre gåk gullu? Se i NRK TV.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/juorre.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Juorre</title>
       <link>https://radio.nrk.no/podkast/juorre</link>
     </image>
+    <item>
+      <title>Hivsikdejvadime</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_ee46159a-664f-454b-8615-9a664ff54be8</link>
+      <description>Le gus hivsik sadje gånnå rádnajt oattjo ållessjattugin? Ja le gus ávkken divna rádnajt bissot?</description>
+      <guid isPermaLink="false">l_ee46159a-664f-454b-8615-9a664ff54be8</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/ee46159a-664f-454b-8615-9a664ff54be8_1_ID192MP3.mp3" type="audio/mpeg" length="24683948"></enclosure>
+      <itunes:title>Hivsikdejvadime</itunes:title>
+      <itunes:summary>Le gus hivsik sadje gånnå rádnajt oattjo ållessjattugin? Ja le gus ávkken divna rádnajt bissot?</itunes:summary>
+      <itunes:duration>1028</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Mij «fávrro» merkaj?</title>
       <link>https://radio.nrk.no/podkast/juorre/l_ed748bec-4128-4c27-b48b-ec41284c27ee</link>

@@ -6,7 +6,7 @@
     <description>En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sportsdesken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sportsdesken brenner</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner</link>
     </image>
+    <item>
+      <title>Gullballen, Hitler-logo og Mia naken på buss</title>
+      <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_3414dbe2-d343-400f-a3c7-358b7110ede1</link>
+      <description>Gullballen er delt ut i London, Marius er Manchester-deppa og Mia forteller om konflikten med Anja Andersen, som endte med naken-øl på spillerbussen. </description>
+      <guid isPermaLink="false">l_3414dbe2-d343-400f-a3c7-358b7110ede1</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/3414dbe2-d343-400f-a3c7-358b7110ede1_e4a19bd4-af95-4850-9428-26cefd415eb2_ID192MP3.mp3" type="audio/mpeg" length="70126316"></enclosure>
+      <itunes:title>Gullballen, Hitler-logo og Mia naken på buss</itunes:title>
+      <itunes:summary>Gullballen er delt ut i London, Marius er Manchester-deppa og Mia forteller om konflikten med Anja Andersen, som endte med naken-øl på spillerbussen. </itunes:summary>
+      <itunes:duration>2921</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZM3QdmUuq6k_AYHKIiMsiASwLPvepyGqru0C1ecdEWCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Et banner må brenne!</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_36f362b6-cd02-4e06-9743-a94b381ec273</link>

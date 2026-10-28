@@ -6,7 +6,7 @@
     <description>Luohti sáhttá govvidit ráhkesvuođa, muhto maiddái unohisvuođaid. Dás guorahallabage luđiid, maiddái olbmuiguin geain leat muitalusat ja vásáhusat.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/luois_luohti.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Luođis luohtái</title>
       <link>https://radio.nrk.no/podkast/luois_luohti</link>
     </image>
+    <item>
+      <title>Várggáid lenne luohtehistorjá</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_e91954ba-4fb6-4968-85a4-54468b0f11c7</link>
+      <description>1600-logu noaideproseassain bolde ja biinnidedje olbmuid. Várggáid lenne -luohti muitala makkár balddonas dat visti lei álbmogii.</description>
+      <guid isPermaLink="false">l_e91954ba-4fb6-4968-85a4-54468b0f11c7</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/e91954ba-4fb6-4968-85a4-54468b0f11c7_32c205eb-536f-4ff3-977b-737cd7036e79_ID192MP3.mp3" type="audio/mpeg" length="75340268"></enclosure>
+      <itunes:title>Várggáid lenne luohtehistorjá</itunes:title>
+      <itunes:summary>1600-logu noaideproseassain bolde ja biinnidedje olbmuid. Várggáid lenne -luohti muitala makkár balddonas dat visti lei álbmogii.</itunes:summary>
+      <itunes:duration>3139</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Luđiin guođoha</title>
       <link>https://radio.nrk.no/podkast/luois_luohti/l_429f3bc4-9822-40f3-990a-713344a413db</link>

@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Norge er et nisseland!</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_a65089c7-7d2f-435f-8742-fc18a072f148</link>
+      <description>Bør vi være strengere med foreldre som ikke kjefter på barn? Arin lurer på om hun er den kjipe etter en lang og slitsom flytur. Markus mener at Norge er et nisseland som får filmer for sent</description>
+      <guid isPermaLink="false">l_a65089c7-7d2f-435f-8742-fc18a072f148</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/a65089c7-7d2f-435f-8742-fc18a072f148_03154532-1dbd-4c90-9bec-a68112e8bbfc_ID192MP3.mp3" type="audio/mpeg" length="63929708"></enclosure>
+      <itunes:title>Norge er et nisseland!</itunes:title>
+      <itunes:summary>Bør vi være strengere med foreldre som ikke kjefter på barn? Arin lurer på om hun er den kjipe etter en lang og slitsom flytur. Markus mener at Norge er et nisseland som får filmer for sent</itunes:summary>
+      <itunes:duration>2663</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PMw-Lnd9ZMN8CgBJyEUn_wAjtWHUQodkTXawycYRTHaA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Det store burgerdilemmaet</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_949705d1-936f-4589-a32f-03a9e7df6d5f</link>

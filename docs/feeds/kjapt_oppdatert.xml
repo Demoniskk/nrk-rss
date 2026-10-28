@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:03:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Flere selskaper må kunne formidle nødsamtaler</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_d451cc7d-163d-4250-b70f-fc7081c23614</link>
+      <description>Og det er et jevnt valg i Israel</description>
+      <guid isPermaLink="false">l_d451cc7d-163d-4250-b70f-fc7081c23614</guid>
+      <pubDate>Wed, 28 Oct 2026 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/d451cc7d-163d-4250-b70f-fc7081c23614_282caf1e-0706-4c1d-8713-39142ca4d591_ID192MP3.mp3" type="audio/mpeg" length="9706220"></enclosure>
+      <itunes:title>Flere selskaper må kunne formidle nødsamtaler</itunes:title>
+      <itunes:summary>Og det er et jevnt valg i Israel</itunes:summary>
+      <itunes:duration>404</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5276l66DvrPq8GHfMK5HIw5n4oeYuahW0CRWOpL0TLCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Skoler merker en vekst i antall elever med spesielle behov</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_bed9dada-7dc9-4f5f-b777-486da752c999</link>

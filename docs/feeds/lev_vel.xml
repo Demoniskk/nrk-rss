@@ -6,7 +6,7 @@
     <description>Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lev_vel.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lev vel</title>
       <link>https://radio.nrk.no/podkast/lev_vel</link>
     </image>
+    <item>
+      <title>Slik hacker du hjernen</title>
+      <link>https://radio.nrk.no/podkast/lev_vel/l_d3ad2757-e6fe-4150-ad27-57e6fec1501c</link>
+      <description>Hvordan ta vare på hjernen i en digital hverdag? Spesialist i nevropsykologi Tomas Myklebust gir oss råd. </description>
+      <guid isPermaLink="false">l_d3ad2757-e6fe-4150-ad27-57e6fec1501c</guid>
+      <pubDate>Wed, 28 Oct 2026 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/d3ad2757-e6fe-4150-ad27-57e6fec1501c_9bb34da7-2d66-48df-b552-1d4d84e4bd98_ID192MP3.mp3" type="audio/mpeg" length="65126636"></enclosure>
+      <itunes:title>Slik hacker du hjernen</itunes:title>
+      <itunes:summary>Hvordan ta vare på hjernen i en digital hverdag? Spesialist i nevropsykologi Tomas Myklebust gir oss råd. </itunes:summary>
+      <itunes:duration>2713</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Er det snobbete å hate på «Verity»?</title>
       <link>https://radio.nrk.no/podkast/lev_vel/l_96a64871-6461-4c79-a648-7164612c7987</link>

@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 13:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:56:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Danskene raser etter Støres Putin-telefon</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_6a5922d0-60fb-4a67-8293-5dd2f49b19f4</link>
+      <description>Jonas Gahr Støre og finske Alexander Stubb har snakket med Vladimir Putin om krigen i Ukraina. Det liker Danmarks statsminister Mette Frederiksen dårlig, og sier Europa bør holde sammen, i stedet for å gå solo.&#xA;&#xA;Kan Stubb og Støre bidra positivt? Eller gir det bare Putin nye muligheter til å splitte Europa?</description>
+      <guid isPermaLink="false">l_6a5922d0-60fb-4a67-8293-5dd2f49b19f4</guid>
+      <pubDate>Tue, 27 Oct 2026 16:56:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/6a5922d0-60fb-4a67-8293-5dd2f49b19f4_250cca22-0edd-4aeb-a62d-7568591de72c_ID192MP3.mp3" type="audio/mpeg" length="30770540"></enclosure>
+      <itunes:title>Danskene raser etter Støres Putin-telefon</itunes:title>
+      <itunes:summary>Jonas Gahr Støre og finske Alexander Stubb har snakket med Vladimir Putin om krigen i Ukraina. Det liker Danmarks statsminister Mette Frederiksen dårlig, og sier Europa bør holde sammen, i stedet for å gå solo.&#xA;&#xA;Kan Stubb og Støre bidra positivt? Eller gir det bare Putin nye muligheter til å splitte Europa?</itunes:summary>
+      <itunes:duration>1282</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aIcO6srxfpBi0rRWgT3BbAEeOeG3zONrTB-93LrPlk2g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Vold og opptøyer: Hvorfor er Europas unge så sinte?</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_69e64c49-b110-4cfa-8fd1-ab287a66fc7f</link>

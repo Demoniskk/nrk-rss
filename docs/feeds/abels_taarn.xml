@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Finnes egentlig tyngdekraften?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_f962e351-8e5b-41b5-8d4b-194e8807ce39</link>
+      <description>Forskere støtter heller Einsteins teori. Dessuten, leggen din reparerer hjernen. Og rar forskjell funnet mellom mennesker og aper&#xA;</description>
+      <guid isPermaLink="false">l_f962e351-8e5b-41b5-8d4b-194e8807ce39</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f962e351-8e5b-41b5-8d4b-194e8807ce39_7e10f97e-ef06-43e2-849e-7e6aa257d8ca_ID192MP3.mp3" type="audio/mpeg" length="40108652"></enclosure>
+      <itunes:title>Finnes egentlig tyngdekraften?</itunes:title>
+      <itunes:summary>Forskere støtter heller Einsteins teori. Dessuten, leggen din reparerer hjernen. Og rar forskjell funnet mellom mennesker og aper&#xA;</itunes:summary>
+      <itunes:duration>1671</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Gen Z som gamle</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_346c8706-573c-4c3c-8c2f-f231cb6d69ef</link>

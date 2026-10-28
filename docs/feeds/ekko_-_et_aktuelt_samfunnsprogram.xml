@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 12:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Tar KI jobben din?</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_2ac8cd24-7005-4362-90af-c77e3bec8ba2</link>
+      <description>KI endrer arbeidslivet, bør vi frykte for jobbene våre? </description>
+      <guid isPermaLink="false">l_2ac8cd24-7005-4362-90af-c77e3bec8ba2</guid>
+      <pubDate>Tue, 27 Oct 2026 13:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/2ac8cd24-7005-4362-90af-c77e3bec8ba2_0812e8b3-18c9-4440-9179-0587dd6cda61_ID192MP3.mp3" type="audio/mpeg" length="33542828"></enclosure>
+      <itunes:title>Tar KI jobben din?</itunes:title>
+      <itunes:summary>KI endrer arbeidslivet, bør vi frykte for jobbene våre? </itunes:summary>
+      <itunes:duration>1397</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hQzG93ZuYdGXZOQbroCa4QMUlW59d753IA19e7-XPQew"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>USA: – It&#39;s complicated </title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_55c071c2-b747-40f7-8b96-de36a6d86429</link>

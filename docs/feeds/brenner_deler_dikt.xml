@@ -6,7 +6,7 @@
     <description>Hvordan kan noen få ord gi trøst, håp og et lite løft i hverdagen? Hans Olav Brenner og gjester deler sine favorittdikt.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/brenner_deler_dikt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Brenner deler dikt</title>
       <link>https://radio.nrk.no/podkast/brenner_deler_dikt</link>
     </image>
+    <item>
+      <title>Herbert Nordrum: Lik meg når jeg er teit</title>
+      <link>https://radio.nrk.no/podkast/brenner_deler_dikt/l_1007617c-0058-4492-9034-4d639de28c16</link>
+      <description>Fra klumsete ungdom til sjarmerende filmstjerne.</description>
+      <guid isPermaLink="false">l_1007617c-0058-4492-9034-4d639de28c16</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/1007617c-0058-4492-9034-4d639de28c16_a59d3448-14fc-4291-bbe2-61e79aa4e185_ID192MP3.mp3" type="audio/mpeg" length="25664300"></enclosure>
+      <itunes:title>Herbert Nordrum: Lik meg når jeg er teit</itunes:title>
+      <itunes:summary>Fra klumsete ungdom til sjarmerende filmstjerne.</itunes:summary>
+      <itunes:duration>1069</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/IZGrKzSsn0_bKkLdGruKbQnZKr4E56mE60I3WYbX72eg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Nye episoder kommer snart!</title>
       <link>https://radio.nrk.no/podkast/brenner_deler_dikt/l_e70142d3-9a87-48da-ab46-a3230e6ecd0c</link>

@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,32 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title>En ny Trump kan komme </title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_ecb8940f-40d0-4412-a1c4-e25a0b4b0672</link>
+      <description>Normalen er borte, sier historiker. Vi snakker om USA og Europa. Hva truer demokratiet og hvorfor?</description>
+      <guid isPermaLink="false">l_ecb8940f-40d0-4412-a1c4-e25a0b4b0672</guid>
+      <pubDate>Wed, 28 Oct 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/ecb8940f-40d0-4412-a1c4-e25a0b4b0672_9f19ffe1-ba60-413b-8e91-a3bc2638e482_ID192MP3.mp3" type="audio/mpeg" length="80765612"></enclosure>
+      <itunes:title>En ny Trump kan komme </itunes:title>
+      <itunes:summary>Normalen er borte, sier historiker. Vi snakker om USA og Europa. Hva truer demokratiet og hvorfor?</itunes:summary>
+      <itunes:duration>3365</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Stadig mer vann og mat i boden</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_cd2517ad-9d65-40eb-8a3d-c89005eac7ca</link>
+      <description>Før skulle vi greie oss selv i 48 timer. Nå er det en uke. Skjer det en ansvarsforskyvning  fra stat til borger? </description>
+      <guid isPermaLink="false">l_cd2517ad-9d65-40eb-8a3d-c89005eac7ca</guid>
+      <pubDate>Tue, 27 Oct 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/cd2517ad-9d65-40eb-8a3d-c89005eac7ca_b28ee8a6-1ea1-4972-8625-92344ed99ab0_ID192MP3.mp3" type="audio/mpeg" length="30366764"></enclosure>
+      <itunes:title>Stadig mer vann og mat i boden</itunes:title>
+      <itunes:summary>Før skulle vi greie oss selv i 48 timer. Nå er det en uke. Skjer det en ansvarsforskyvning  fra stat til borger? </itunes:summary>
+      <itunes:duration>1265</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Lærdommer  fra 8. april 1940</title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_14f4fab9-fdba-4bcf-aa0f-ed7a0415f97b</link>

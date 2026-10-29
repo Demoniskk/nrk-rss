@@ -6,7 +6,7 @@
     <description>Nok en hektisk uke for komiker Nora Svenningsen. Her er hennes verbale dagbok, hvor du er med på å fargelegge sidene. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/din_venn_nora.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Din venn, Nora</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora</link>
     </image>
+    <item>
+      <title>Jeg har blitt «pick me»</title>
+      <link>https://radio.nrk.no/podkast/din_venn_nora/l_50009cc5-a689-4b87-948a-4c4209e0def7</link>
+      <description>En åpenbaring setter selvbildet på prøve, en satanisk introlåt ødelegger stemninga, og livet har egentlig sklidd fullstendig ut.</description>
+      <guid isPermaLink="false">l_50009cc5-a689-4b87-948a-4c4209e0def7</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/50009cc5-a689-4b87-948a-4c4209e0def7_ad8c1b4c-fb22-4bad-a329-1bc438451faa_ID192MP3.mp3" type="audio/mpeg" length="36099116"></enclosure>
+      <itunes:title>Jeg har blitt «pick me»</itunes:title>
+      <itunes:summary>En åpenbaring setter selvbildet på prøve, en satanisk introlåt ødelegger stemninga, og livet har egentlig sklidd fullstendig ut.</itunes:summary>
+      <itunes:duration>1504</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>KI-vikinglåter fra hælvete </title>
       <link>https://radio.nrk.no/podkast/din_venn_nora/l_a18aebb3-3c33-4474-9585-4c7c0a5691c9</link>

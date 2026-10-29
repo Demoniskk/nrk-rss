@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Frida Homlung: Forelsket i en annen</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_58864ca4-e99d-4765-8cc5-5c073b2daf70</link>
+      <description>Komiker Frida Homlung om hvordan hun ble forelsket i faren til sine to barn mens hun var sammen med en annen.</description>
+      <guid isPermaLink="false">l_58864ca4-e99d-4765-8cc5-5c073b2daf70</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/58864ca4-e99d-4765-8cc5-5c073b2daf70_874c4f77-341a-4faa-960c-945bba38cb2a_ID192MP3.mp3" type="audio/mpeg" length="55740716"></enclosure>
+      <itunes:title>Frida Homlung: Forelsket i en annen</itunes:title>
+      <itunes:summary>Komiker Frida Homlung om hvordan hun ble forelsket i faren til sine to barn mens hun var sammen med en annen.</itunes:summary>
+      <itunes:duration>2322</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iYONXMCnstIuAtr3qyzzdQ_0KDfQBm3eb0K05fsHL6dg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Elisabeth Ingebrigtsen: Gift med idretten</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_79f96307-4bcc-4ec0-8aae-00430440d1f5</link>

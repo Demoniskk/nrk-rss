@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 12:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 13:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>En forbanna optimist</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_f9f8b1e6-ac37-4c91-9142-bc0283013db4</link>
+      <description>Professor i sosiologi Gunnar Aakvaag advarer mot svartmaling og tap av fremtidstro. Er optimisme den beste beredskapen?</description>
+      <guid isPermaLink="false">l_f9f8b1e6-ac37-4c91-9142-bc0283013db4</guid>
+      <pubDate>Wed, 28 Oct 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/f9f8b1e6-ac37-4c91-9142-bc0283013db4_b90d25d2-3ef5-4f07-93ae-b47889fc5d30_ID192MP3.mp3" type="audio/mpeg" length="29668076"></enclosure>
+      <itunes:title>En forbanna optimist</itunes:title>
+      <itunes:summary>Professor i sosiologi Gunnar Aakvaag advarer mot svartmaling og tap av fremtidstro. Er optimisme den beste beredskapen?</itunes:summary>
+      <itunes:duration>1236</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2FyCeLV25aXZBFdQYxKz5wKI92ugozjg-2IWniAfhYWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Tar KI jobben din?</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_2ac8cd24-7005-4362-90af-c77e3bec8ba2</link>

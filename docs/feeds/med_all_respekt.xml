@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Vy burde ansette foreldrene våre </title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_50466b6c-ce5f-4897-acb0-dd93f50e41b9</link>
+      <description>Når Vy sender konduktører på kurs for å skape ro og orden på toget, mener gjengen at de heller bør ansette foreldrene deres fra nittitallet.</description>
+      <guid isPermaLink="false">l_50466b6c-ce5f-4897-acb0-dd93f50e41b9</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/50466b6c-ce5f-4897-acb0-dd93f50e41b9_d5e77cba-a19e-49c5-967a-6deea3d8d611_ID192MP3.mp3" type="audio/mpeg" length="39690476"></enclosure>
+      <itunes:title>Vy burde ansette foreldrene våre </itunes:title>
+      <itunes:summary>Når Vy sender konduktører på kurs for å skape ro og orden på toget, mener gjengen at de heller bør ansette foreldrene deres fra nittitallet.</itunes:summary>
+      <itunes:duration>1653</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Baconpølse i helvete</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_96976784-3b4f-450f-a28a-d90f9fbe29d6</link>

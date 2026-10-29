@@ -6,7 +6,7 @@
     <description>Din ukentlige dose vesentlig vrøvl. Med Anne Lindmo, Halvor Haugen og Rune Norum Engelsøy. Tilbake 10. september.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lindmo_og_co.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Lindmo og Co</title>
       <link>https://radio.nrk.no/podkast/lindmo_og_co</link>
     </image>
+    <item>
+      <title>Urinal ulydighet</title>
+      <link>https://radio.nrk.no/podkast/lindmo_og_co/l_57da1b22-8908-4f10-8760-b2914827d17c</link>
+      <description>Anne bruker trassen som livets motor!</description>
+      <guid isPermaLink="false">l_57da1b22-8908-4f10-8760-b2914827d17c</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lindmo_og_co/57da1b22-8908-4f10-8760-b2914827d17c_220258e4-09d0-4786-84c2-9020f3e5d236_ID192MP3.mp3" type="audio/mpeg" length="31421420"></enclosure>
+      <itunes:title>Urinal ulydighet</itunes:title>
+      <itunes:summary>Anne bruker trassen som livets motor!</itunes:summary>
+      <itunes:duration>1309</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EG6MMawo1IMjMxG0If5DkgyeYlc4e_t-ikiJS8qKstFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>På tvers av generasjonskløfta</title>
       <link>https://radio.nrk.no/podkast/lindmo_og_co/l_ef994112-7ad6-43ae-b4c0-00eca5bdd375</link>

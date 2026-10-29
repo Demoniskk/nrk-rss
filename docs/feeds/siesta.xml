@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Tegna sin egen porno </title>
+      <link>https://radio.nrk.no/podkast/siesta/l_4d7d61c4-959a-4755-b642-f9afebca0b92</link>
+      <description>Anna deler rare ting fra barndommen, sendinga blir avbrutt av selger og Markus forteller om sin nyvoksa ræv.</description>
+      <guid isPermaLink="false">l_4d7d61c4-959a-4755-b642-f9afebca0b92</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/4d7d61c4-959a-4755-b642-f9afebca0b92_2b39bc33-8f96-464c-8bc9-544e0ec25ab6_ID192MP3.mp3" type="audio/mpeg" length="65873708"></enclosure>
+      <itunes:title>Tegna sin egen porno </itunes:title>
+      <itunes:summary>Anna deler rare ting fra barndommen, sendinga blir avbrutt av selger og Markus forteller om sin nyvoksa ræv.</itunes:summary>
+      <itunes:duration>2744</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Vi blir hjemsøkt </title>
       <link>https://radio.nrk.no/podkast/siesta/l_ee709c06-9c23-428b-8a66-eb302eae596f</link>

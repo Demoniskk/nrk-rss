@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Herbert Nordrum gjør norske memes posh</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_fae5f87a-942f-4cd0-ac7d-1fd24dbb9709</link>
+      <description>Blir man automatisk diva av å jobbe med utenlandsk film? Skuespiller Herbert Nordrum kommer på besøk for å gi oss fasiten, og fortelle om da han bannet på amerikansk TV (som er veldig fy fy)</description>
+      <guid isPermaLink="false">l_fae5f87a-942f-4cd0-ac7d-1fd24dbb9709</guid>
+      <pubDate>Wed, 28 Oct 2026 11:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/fae5f87a-942f-4cd0-ac7d-1fd24dbb9709_b119ed7f-7a58-4c20-94de-470d464e60e1_ID192MP3.mp3" type="audio/mpeg" length="66173804"></enclosure>
+      <itunes:title>Herbert Nordrum gjør norske memes posh</itunes:title>
+      <itunes:summary>Blir man automatisk diva av å jobbe med utenlandsk film? Skuespiller Herbert Nordrum kommer på besøk for å gi oss fasiten, og fortelle om da han bannet på amerikansk TV (som er veldig fy fy)</itunes:summary>
+      <itunes:duration>2757</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CYp6pIXLc3kh-fBxxyqRsQqwx1GU7KyKUrjG0sB3tjGA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Norge er et nisseland!</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_a65089c7-7d2f-435f-8742-fc18a072f148</link>

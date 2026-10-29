@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Bedre dager - Thor Haavik</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_34df668d-994c-438f-9cb5-a944d5158ee4</link>
+      <description>Dagene kommer i alle farger og fasonger, og det vil alltid komme dager vi kan glede oss over og se fram imot.</description>
+      <guid isPermaLink="false">l_34df668d-994c-438f-9cb5-a944d5158ee4</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/34df668d-994c-438f-9cb5-a944d5158ee4_19031e2a-5828-4ad3-86d3-ad11645f5fa6_ID192MP3.mp3" type="audio/mpeg" length="5685740"></enclosure>
+      <itunes:title>Bedre dager - Thor Haavik</itunes:title>
+      <itunes:summary>Dagene kommer i alle farger og fasonger, og det vil alltid komme dager vi kan glede oss over og se fram imot.</itunes:summary>
+      <itunes:duration>236</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/h2NqBmz_uQZGjLr3L9MbYgTZph_zOlOYb9Z8TJTGAVnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Aldri alene - Thor Haavik</title>
       <link>https://radio.nrk.no/podkast/andakten/l_94282a77-3984-47f2-bc33-fd698986ebaa</link>

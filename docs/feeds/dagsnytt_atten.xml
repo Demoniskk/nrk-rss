@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Valget i Israel er ikke avklart</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_e9888b2d-db56-4033-b73e-d876be4eb8e1</link>
+      <description>Statsminister Netanyahus politiske blokk har flest stemmer, men ikke flertall.</description>
+      <guid isPermaLink="false">l_e9888b2d-db56-4033-b73e-d876be4eb8e1</guid>
+      <pubDate>Wed, 28 Oct 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/e9888b2d-db56-4033-b73e-d876be4eb8e1_4ec5646b-7b22-4121-906a-8c3d19c8ac02_ID192MP3.mp3" type="audio/mpeg" length="85017644"></enclosure>
+      <itunes:title>Valget i Israel er ikke avklart</itunes:title>
+      <itunes:summary>Statsminister Netanyahus politiske blokk har flest stemmer, men ikke flertall.</itunes:summary>
+      <itunes:duration>3542</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/X685sMS2dW0V4wtQXs3OdAl7sBCXYbWqveESVIUopoNg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Støre og Stubb har snakket med Putin</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_04b37e5b-b956-4145-97ca-aeb075da7f7e</link>

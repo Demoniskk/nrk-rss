@@ -6,7 +6,7 @@
     <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sentralbordet på NRK</title>
       <link>https://radio.nrk.no/podkast/sentralbordet</link>
     </image>
+    <item>
+      <title>Emilies afternoon tea-musikal</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_37b87e31-ee28-4cf8-906b-45563fa6bd14</link>
+      <description>Det er snart Halloween, og politiet etterlyser en merkelig dame. Emilie tvinges til å gjøre en ny musikal, Ole Henry fortsetter å finne ut hva Manchester City skjuler, og James Settlement har enda ikke gitt opp håpet om en vannkuker. </description>
+      <guid isPermaLink="false">l_37b87e31-ee28-4cf8-906b-45563fa6bd14</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/37b87e31-ee28-4cf8-906b-45563fa6bd14_19c33a55-403f-493b-93fa-218dc4e4afed_ID192MP3.mp3" type="audio/mpeg" length="32931116"></enclosure>
+      <itunes:title>Emilies afternoon tea-musikal</itunes:title>
+      <itunes:summary>Det er snart Halloween, og politiet etterlyser en merkelig dame. Emilie tvinges til å gjøre en ny musikal, Ole Henry fortsetter å finne ut hva Manchester City skjuler, og James Settlement har enda ikke gitt opp håpet om en vannkuker. </itunes:summary>
+      <itunes:duration>1372</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>– Du har en tiss i øret</title>
       <link>https://radio.nrk.no/podkast/sentralbordet/l_542002bd-e539-49f0-bb13-6f85d8b8112c</link>

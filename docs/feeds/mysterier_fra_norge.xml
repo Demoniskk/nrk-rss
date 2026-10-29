@@ -6,7 +6,7 @@
     <description>Spøkelser, forbannelser og uforklarlige fenomener – landet vårt er fullt av uløste mysterier.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/mysterier_fra_norge.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Mysterier fra Norge</title>
       <link>https://radio.nrk.no/podkast/mysterier_fra_norge</link>
     </image>
+    <item>
+      <title>Dødens hus på Svalbard</title>
+      <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_209cdd76-1a35-4412-9cdd-761a356412ad</link>
+      <description>17 menn blir funnet døde i et hus i ødemarka på Svalbard i 1873. Hva som egentlig skjedde, forblir en gåte i nesten 140 år.</description>
+      <guid isPermaLink="false">l_209cdd76-1a35-4412-9cdd-761a356412ad</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/mysterier_fra_norge/209cdd76-1a35-4412-9cdd-761a356412ad_7b0e7d8b-279f-4589-88b6-bfc77783ca92_ID192MP3.mp3" type="audio/mpeg" length="62228780"></enclosure>
+      <itunes:title>Dødens hus på Svalbard</itunes:title>
+      <itunes:summary>17 menn blir funnet døde i et hus i ødemarka på Svalbard i 1873. Hva som egentlig skjedde, forblir en gåte i nesten 140 år.</itunes:summary>
+      <itunes:duration>2592</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/D5_rGu8_85G_G8IqsMEM0w8A0orpt5GwVvRr9YD47kpA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Trollmannen fra Porsanger</title>
       <link>https://radio.nrk.no/podkast/mysterier_fra_norge/l_8e203365-ffbc-4c42-a033-65ffbcbc42f3</link>

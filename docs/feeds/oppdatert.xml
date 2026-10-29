@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Drap i feeden: Slik gikk journalistene «undercover»</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_c87b1fc7-c9b1-4a79-a966-4deae94da2cc</link>
+      <description>NRK og Faktisk.no ble tilbudt drapsoppdrag av kriminelle nettverk når de undersøkte hvordan unge rekrutteres.</description>
+      <guid isPermaLink="false">l_c87b1fc7-c9b1-4a79-a966-4deae94da2cc</guid>
+      <pubDate>Thu, 29 Oct 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/c87b1fc7-c9b1-4a79-a966-4deae94da2cc_3d315392-d5f7-4254-9f67-4bfa8872c811_ID192MP3.mp3" type="audio/mpeg" length="27355436"></enclosure>
+      <itunes:title>Drap i feeden: Slik gikk journalistene «undercover»</itunes:title>
+      <itunes:summary>NRK og Faktisk.no ble tilbudt drapsoppdrag av kriminelle nettverk når de undersøkte hvordan unge rekrutteres.</itunes:summary>
+      <itunes:duration>1139</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7v-oG4U2T2GmjpDYKzoHBA-nfkcywRytR5pMEeX5g5Qg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
+    <item>
+      <title>Derfor raser Ungarns statsminister mot NRK</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_84f4f22e-755b-4d43-b216-383726d5c9db</link>
+      <description>Plutselig ble en NRK-korrespondent den store nyhetssaken i Ungarn. Hva skjedde?</description>
+      <guid isPermaLink="false">l_84f4f22e-755b-4d43-b216-383726d5c9db</guid>
+      <pubDate>Wed, 28 Oct 2026 15:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/84f4f22e-755b-4d43-b216-383726d5c9db_e98e3bae-8876-4e45-bc7a-a34c4f8c6731_ID192MP3.mp3" type="audio/mpeg" length="21812588"></enclosure>
+      <itunes:title>Derfor raser Ungarns statsminister mot NRK</itunes:title>
+      <itunes:summary>Plutselig ble en NRK-korrespondent den store nyhetssaken i Ungarn. Hva skjedde?</itunes:summary>
+      <itunes:duration>908</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/JNjAdpT0ytbMNiexGEs87QjnZuyfMWNATa0N2VrdweOA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Historisk val: No skal studentane styre Serbia</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_5c86db01-a3d2-46c7-bdbc-f5c2868f4092</link>

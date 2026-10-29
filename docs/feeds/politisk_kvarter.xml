@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Er det for mange små kommuner i Norge?</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_32d9c7a2-5fb7-4c71-bbe6-d6e55647c006</link>
+      <description>Arbeiderpartiet vil ikke svare på om vi har for mange kommuner.&#xA;De svikter innbyggerne i små kommuner, mener Høyre.</description>
+      <guid isPermaLink="false">l_32d9c7a2-5fb7-4c71-bbe6-d6e55647c006</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/32d9c7a2-5fb7-4c71-bbe6-d6e55647c006_f4284db6-51ac-4ce9-b74b-ac511c50aa34_ID192MP3.mp3" type="audio/mpeg" length="21843116"></enclosure>
+      <itunes:title>Er det for mange små kommuner i Norge?</itunes:title>
+      <itunes:summary>Arbeiderpartiet vil ikke svare på om vi har for mange kommuner.&#xA;De svikter innbyggerne i små kommuner, mener Høyre.</itunes:summary>
+      <itunes:duration>910</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/asQgPLn0Nrdg1Fb_En_pQA5zZUqAa3lTZM7DxYBXh3rQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Kva sa Putin, Støre?</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_1782f1b8-00a0-466f-958b-103ecf24e855</link>

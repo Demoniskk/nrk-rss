@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 05:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Minst 68 døde i togulykke i Spania</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_94d8b867-44cc-4c20-9805-66688a967322</link>
+      <description>Og hva betyr norske oljeinntekter for deg?</description>
+      <guid isPermaLink="false">l_94d8b867-44cc-4c20-9805-66688a967322</guid>
+      <pubDate>Thu, 29 Oct 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/94d8b867-44cc-4c20-9805-66688a967322_18c993d0-26a2-4be6-8923-2ac5a3b3884e_ID192MP3.mp3" type="audio/mpeg" length="9873260"></enclosure>
+      <itunes:title>Minst 68 døde i togulykke i Spania</itunes:title>
+      <itunes:summary>Og hva betyr norske oljeinntekter for deg?</itunes:summary>
+      <itunes:duration>411</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NnpuApyMBFxddDXlUEWNIgeFu1ZYZJ6mHK4Bu7pMX9Rw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Flere selskaper må kunne formidle nødsamtaler</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_d451cc7d-163d-4250-b70f-fc7081c23614</link>

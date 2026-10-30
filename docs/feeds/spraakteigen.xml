@@ -6,7 +6,7 @@
     <description>Absolutt alt du kan undre deg over om språk! Jesper Nondal spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/spraakteigen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Språksnakk</title>
       <link>https://radio.nrk.no/podkast/spraakteigen</link>
     </image>
+    <item>
+      <title>Trøndersk vegetarpølse</title>
+      <link>https://radio.nrk.no/podkast/spraakteigen/l_17e78f7d-58b9-4ea6-a78f-7d58b97ea6e5</link>
+      <description>Hva kan vi kalle hamburger og pølse? Sælein og irrimætere - det skal trøndres. Vår språksnakker avslører KI som dårlig på ordtak.</description>
+      <guid isPermaLink="false">l_17e78f7d-58b9-4ea6-a78f-7d58b97ea6e5</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/17e78f7d-58b9-4ea6-a78f-7d58b97ea6e5_1_ID192MP3.mp3" type="audio/mpeg" length="82859372"></enclosure>
+      <itunes:title>Trøndersk vegetarpølse</itunes:title>
+      <itunes:summary>Hva kan vi kalle hamburger og pølse? Sælein og irrimætere - det skal trøndres. Vår språksnakker avslører KI som dårlig på ordtak.</itunes:summary>
+      <itunes:duration>3452</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2TvOfsrDcr5auT3M1LgFigvBNIkGwBHcYHL4J_JYW50Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Samisk språkuke</title>
       <link>https://radio.nrk.no/podkast/spraakteigen/l_b96b3595-24c7-45ca-94cb-5285bca387dc</link>

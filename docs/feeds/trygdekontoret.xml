@@ -6,7 +6,7 @@
     <description>Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Trygdekontoret</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret</link>
     </image>
+    <item>
+      <title>Bråktober: Kulturkrigen</title>
+      <link>https://radio.nrk.no/podkast/trygdekontoret/l_d614f970-8ba9-41f7-baae-467c4cc966d1</link>
+      <description>Er advarsler om jihadister, transpersoner og kommunister nok til å stoppe den demokratiske bølgen? Og når startet egentlig kulturkrigen i USA?</description>
+      <guid isPermaLink="false">l_d614f970-8ba9-41f7-baae-467c4cc966d1</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/d614f970-8ba9-41f7-baae-467c4cc966d1_42777a2b-356a-4351-9fd0-31a4862b62c3_ID192MP3.mp3" type="audio/mpeg" length="53401580"></enclosure>
+      <itunes:title>Bråktober: Kulturkrigen</itunes:title>
+      <itunes:summary>Er advarsler om jihadister, transpersoner og kommunister nok til å stoppe den demokratiske bølgen? Og når startet egentlig kulturkrigen i USA?</itunes:summary>
+      <itunes:duration>2225</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I9yY33lJjyDDziljpcvhXwUC-uP_TVu7vVXyxPlbcbQA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Bråktober: Milliardærenes mellomvalg</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret/l_efd61004-a8e9-4480-aa04-eeeb452cb994</link>

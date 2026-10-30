@@ -6,7 +6,7 @@
     <description>Vi oppsummerer kulturuka hver fredag, med faste, friske og freidige paneldeltakere.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/fredagspanelet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Fredagspanelet</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet</link>
     </image>
+    <item>
+      <title>Shithouses, stygge bokhandler og Mbappé</title>
+      <link>https://radio.nrk.no/podkast/fredagspanelet/l_4748954a-a341-43f6-8ca3-2a5be7ebd0ce</link>
+      <description>Bokhandlene er stygge - og hva gjør det med leselysten?&#xA;Og bør egentlig Mbappé be Kina om unnskyldning?&#xA;Og DNT har tatt tak i Trumps shithouse...&#xA;</description>
+      <guid isPermaLink="false">l_4748954a-a341-43f6-8ca3-2a5be7ebd0ce</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/4748954a-a341-43f6-8ca3-2a5be7ebd0ce_c940508b-9967-4a3f-a040-3e977fe22eee_ID192MP3.mp3" type="audio/mpeg" length="16899884"></enclosure>
+      <itunes:title>Shithouses, stygge bokhandler og Mbappé</itunes:title>
+      <itunes:summary>Bokhandlene er stygge - og hva gjør det med leselysten?&#xA;Og bør egentlig Mbappé be Kina om unnskyldning?&#xA;Og DNT har tatt tak i Trumps shithouse...&#xA;</itunes:summary>
+      <itunes:duration>704</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Norskfaget, dårlige tirsdager - og Norge best i alt</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet/l_025bd6c2-e829-4cbc-9cea-36b25a695e43</link>

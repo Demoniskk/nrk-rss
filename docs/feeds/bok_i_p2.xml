@@ -6,7 +6,7 @@
     <description>Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bok_i_p2.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Åpen bok</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2</link>
     </image>
+    <item>
+      <title>Kjartan Fløgstad-Vender tilbake til en oppvekst i Sauda</title>
+      <link>https://radio.nrk.no/podkast/bok_i_p2/l_851e755f-8a7e-4c19-a79a-33026acf6264</link>
+      <description>I boka  &#34;Livet som innsats&#34; tar Kjartan Fløgstad oss med tilbake til eget liv og oppvekst i den industri-og mangantette byen Sauda. Og det til tross for at han hadde lovet å aldri skrive en selvbiografi.</description>
+      <guid isPermaLink="false">l_851e755f-8a7e-4c19-a79a-33026acf6264</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/851e755f-8a7e-4c19-a79a-33026acf6264_6753f72f-e24f-46b7-8ad0-d521a0a6c28a_ID192MP3.mp3" type="audio/mpeg" length="82184876"></enclosure>
+      <itunes:title>Kjartan Fløgstad-Vender tilbake til en oppvekst i Sauda</itunes:title>
+      <itunes:summary>I boka  &#34;Livet som innsats&#34; tar Kjartan Fløgstad oss med tilbake til eget liv og oppvekst i den industri-og mangantette byen Sauda. Og det til tross for at han hadde lovet å aldri skrive en selvbiografi.</itunes:summary>
+      <itunes:duration>3424</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/xco3oTuufJ0DBfUz-9Cu1QTZLZHKa-_4g9fHufIzafNA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Maria Navarro Skaranger- Emily gjør så godt hun kan</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2/l_09e4ed01-414d-4ea4-ab5d-c2f17d5c68a6</link>

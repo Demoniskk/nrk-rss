@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 20:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 21:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Holder vi på å miste kontrollen over kraften vår - igjen?</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_9e2385db-7614-4e2e-adc6-3905691fb0ef</link>
+      <description>NVE advarer om fremtiden, og er datasentre for kraftkrevende for Norge?</description>
+      <guid isPermaLink="false">l_9e2385db-7614-4e2e-adc6-3905691fb0ef</guid>
+      <pubDate>Thu, 29 Oct 2026 22:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/9e2385db-7614-4e2e-adc6-3905691fb0ef_0ec1b0bd-4a2d-404c-a7e7-41964796d626_ID192MP3.mp3" type="audio/mpeg" length="60381548"></enclosure>
+      <itunes:title>Holder vi på å miste kontrollen over kraften vår - igjen?</itunes:title>
+      <itunes:summary>NVE advarer om fremtiden, og er datasentre for kraftkrevende for Norge?</itunes:summary>
+      <itunes:duration>2515</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tX7BFSv8dW5KLo0lWuyzewSOgThaUtPuSg-TwtSsZ7IQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
+    <item>
+      <title>Er det riktig å strupe innvandringen?</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_d9e37416-e712-4e76-86ff-60da7c9385e7</link>
+      <description>I etterkant av en kontroversiell bok fra Anders Magnus går debatten om norsk integreringspolitikk bør endres.</description>
+      <guid isPermaLink="false">l_d9e37416-e712-4e76-86ff-60da7c9385e7</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/d9e37416-e712-4e76-86ff-60da7c9385e7_d57f8a11-75e3-4a66-b2d9-23499a879b07_ID192MP3.mp3" type="audio/mpeg" length="75972140"></enclosure>
+      <itunes:title>Er det riktig å strupe innvandringen?</itunes:title>
+      <itunes:summary>I etterkant av en kontroversiell bok fra Anders Magnus går debatten om norsk integreringspolitikk bør endres.</itunes:summary>
+      <itunes:duration>3165</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Ri7N6_yH3DmVPsXkJPbARgpyAjip6ir2Oqll7o1oP3eQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Duell-spesial: Seks dueller</title>
       <link>https://radio.nrk.no/podkast/debatten/l_8cb7f623-d8e5-4d07-90c9-d38d16564074</link>

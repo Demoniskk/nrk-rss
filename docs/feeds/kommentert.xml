@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 15:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:26:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>TikTok, KI og beredskap: Hvem skal få strømmen vår?</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_6f544986-47e6-4b71-ae55-e3f49d839f02</link>
+      <description>Internasjonale selskaper kjemper med nebb og klør for å bygge datasentre i Norge. Skal de få lov til det? Vet vi hva vi sier ja til? Og hvorfor er det så mye bråk om datasentre?&#xA;&#xA;Og partiet Rødt er i  konflikt med eget ungdomsparti.</description>
+      <guid isPermaLink="false">l_6f544986-47e6-4b71-ae55-e3f49d839f02</guid>
+      <pubDate>Thu, 29 Oct 2026 16:26:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/6f544986-47e6-4b71-ae55-e3f49d839f02_db6401ab-2273-40bc-b176-608572be62b2_ID192MP3.mp3" type="audio/mpeg" length="42365996"></enclosure>
+      <itunes:title>TikTok, KI og beredskap: Hvem skal få strømmen vår?</itunes:title>
+      <itunes:summary>Internasjonale selskaper kjemper med nebb og klør for å bygge datasentre i Norge. Skal de få lov til det? Vet vi hva vi sier ja til? Og hvorfor er det så mye bråk om datasentre?&#xA;&#xA;Og partiet Rødt er i  konflikt med eget ungdomsparti.</itunes:summary>
+      <itunes:duration>1765</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/24zCLaPhadrgAF3P1ggNoATfFdZaxxIiUGONGbv5zMkw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Danskene raser etter Støres Putin-telefon</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_6a5922d0-60fb-4a67-8293-5dd2f49b19f4</link>

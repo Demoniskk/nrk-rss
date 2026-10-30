@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Norge - et ødelagt land? </title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_f7031518-0a58-4577-8fa1-0947652b598b</link>
+      <description>Misunnelse og Støre har ødelagt Norge, ifølge Sveits-farer og flere investorer.  &#xA;De svartmaler og snakker ned landet sitt, svarer Jens Stoltenberg (Ap) </description>
+      <guid isPermaLink="false">l_f7031518-0a58-4577-8fa1-0947652b598b</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/f7031518-0a58-4577-8fa1-0947652b598b_4e0de3b3-74ec-4bb5-83c6-15b6d4488f55_ID192MP3.mp3" type="audio/mpeg" length="21724460"></enclosure>
+      <itunes:title>Norge - et ødelagt land? </itunes:title>
+      <itunes:summary>Misunnelse og Støre har ødelagt Norge, ifølge Sveits-farer og flere investorer.  &#xA;De svartmaler og snakker ned landet sitt, svarer Jens Stoltenberg (Ap) </itunes:summary>
+      <itunes:duration>905</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/o_Jd3Iq5jemJ1VzDRhb_LAEn2rv9WaMok7WzPfwmaLHw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Er det for mange små kommuner i Norge?</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_32d9c7a2-5fb7-4c71-bbe6-d6e55647c006</link>

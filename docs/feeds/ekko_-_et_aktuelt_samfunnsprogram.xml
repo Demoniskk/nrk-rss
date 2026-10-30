@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:10:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Trumps USA: Obamas comeback</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_97bde2e6-2c38-4b90-8444-de4a6e54ea89</link>
+      <description>Obama mobiliserer veljarar før mellomvalet, men hjelp det? Og korleis vil eigentleg Trump og republikanarane takle eit tap?</description>
+      <guid isPermaLink="false">l_97bde2e6-2c38-4b90-8444-de4a6e54ea89</guid>
+      <pubDate>Thu, 29 Oct 2026 13:10:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/97bde2e6-2c38-4b90-8444-de4a6e54ea89_d4797c19-0847-4050-80c5-5cbda118aed7_ID192MP3.mp3" type="audio/mpeg" length="78348716"></enclosure>
+      <itunes:title>Trumps USA: Obamas comeback</itunes:title>
+      <itunes:summary>Obama mobiliserer veljarar før mellomvalet, men hjelp det? Og korleis vil eigentleg Trump og republikanarane takle eit tap?</itunes:summary>
+      <itunes:duration>3264</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PS6mMyNiv4-G1njqI9Fn5w_GRUVg_mR6smMd2wBLYrRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>En forbanna optimist</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_f9f8b1e6-ac37-4c91-9142-bc0283013db4</link>

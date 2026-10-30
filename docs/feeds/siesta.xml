@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Daniel spruter vann på Anna</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_6316827b-96ae-475a-9aea-b35341bdf85a</link>
+      <description>Det rakner fullstendig for Daniel, Markus har kjøpt seg et instrument og hva er verst av en dårlig klem eller et slapt håndtrykk?</description>
+      <guid isPermaLink="false">l_6316827b-96ae-475a-9aea-b35341bdf85a</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/6316827b-96ae-475a-9aea-b35341bdf85a_453a0a41-a433-4459-8770-8c28e1e14249_ID192MP3.mp3" type="audio/mpeg" length="51147692"></enclosure>
+      <itunes:title>Daniel spruter vann på Anna</itunes:title>
+      <itunes:summary>Det rakner fullstendig for Daniel, Markus har kjøpt seg et instrument og hva er verst av en dårlig klem eller et slapt håndtrykk?</itunes:summary>
+      <itunes:duration>2131</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Tegna sin egen porno </title>
       <link>https://radio.nrk.no/podkast/siesta/l_4d7d61c4-959a-4755-b642-f9afebca0b92</link>

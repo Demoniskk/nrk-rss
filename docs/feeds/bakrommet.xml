@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 11:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:51:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Solbakken: Jobbtilbud, Tripic og tapene i høst.</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_489b889a-7c25-4ebc-9541-cb7a1f399547</link>
+      <description>Ståle Solbakken er vår gjest i denne spesialepisoden. Tapene i høst, keeperplassen, Tripic, lidenskapen for gress og ønsket om en å trene en toppklubb er blant temaene.</description>
+      <guid isPermaLink="false">l_489b889a-7c25-4ebc-9541-cb7a1f399547</guid>
+      <pubDate>Thu, 29 Oct 2026 13:51:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/489b889a-7c25-4ebc-9541-cb7a1f399547_bf457b28-bbd3-40a3-98df-1052ce9efec3_ID192MP3.mp3" type="audio/mpeg" length="80327852"></enclosure>
+      <itunes:title>Solbakken: Jobbtilbud, Tripic og tapene i høst.</itunes:title>
+      <itunes:summary>Ståle Solbakken er vår gjest i denne spesialepisoden. Tapene i høst, keeperplassen, Tripic, lidenskapen for gress og ønsket om en å trene en toppklubb er blant temaene.</itunes:summary>
+      <itunes:duration>3346</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Kåtskap i VM og gullballen-slakt</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_4a802938-9887-4356-a00c-8e9427a1c5c4</link>

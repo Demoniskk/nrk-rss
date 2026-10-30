@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Diaz</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_aa8be35f-c607-4d9e-b49f-4ba02e56f1e7</link>
+      <description>– jeg skulle aldri lage musikk igjen, sier rapperen som brått forsvant fra rampelyset.</description>
+      <guid isPermaLink="false">l_aa8be35f-c607-4d9e-b49f-4ba02e56f1e7</guid>
+      <pubDate>Thu, 29 Oct 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/aa8be35f-c607-4d9e-b49f-4ba02e56f1e7_cf917ad8-47f7-4496-bc29-cd69be089d82_ID192MP3.mp3" type="audio/mpeg" length="82417004"></enclosure>
+      <itunes:title>Diaz</itunes:title>
+      <itunes:summary>– jeg skulle aldri lage musikk igjen, sier rapperen som brått forsvant fra rampelyset.</itunes:summary>
+      <itunes:duration>3433</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gZBGiJkrfVA1XeJhk0BbjweEFszJUjpDRlXC1kB7tFVg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Jon Reichelt </title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_a676e24e-8a3c-4e90-b3d9-187d02ca14d0</link>

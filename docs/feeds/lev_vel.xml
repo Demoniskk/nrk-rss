@@ -6,7 +6,7 @@
     <description>Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lev_vel.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lev vel</title>
       <link>https://radio.nrk.no/podkast/lev_vel</link>
     </image>
+    <item>
+      <title>På hjertet: Monster-sprekk</title>
+      <link>https://radio.nrk.no/podkast/lev_vel/l_78d92949-029c-4d41-b59b-b5d971ef9cac</link>
+      <description>Linnea har oversteget egen energidrikk-kvote og blitt avhengig av smågodt, og er nødt å ta grep. </description>
+      <guid isPermaLink="false">l_78d92949-029c-4d41-b59b-b5d971ef9cac</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/78d92949-029c-4d41-b59b-b5d971ef9cac_ba492361-7d9f-4b31-be9a-5271c0f2a820_ID192MP3.mp3" type="audio/mpeg" length="45035756"></enclosure>
+      <itunes:title>På hjertet: Monster-sprekk</itunes:title>
+      <itunes:summary>Linnea har oversteget egen energidrikk-kvote og blitt avhengig av smågodt, og er nødt å ta grep. </itunes:summary>
+      <itunes:duration>1876</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/RPyy1A2Jk0-GzpcdlrScEgd0MiLbJJHJXlmglZ5KjM1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Slik hacker du hjernen</title>
       <link>https://radio.nrk.no/podkast/lev_vel/l_d3ad2757-e6fe-4150-ad27-57e6fec1501c</link>

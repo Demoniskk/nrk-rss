@@ -6,7 +6,7 @@
     <description>Alt kan skje og ingen er trygge når fire komikere oppsummerer uka!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/desken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Desken brenner</title>
       <link>https://radio.nrk.no/podkast/desken_brenner</link>
     </image>
+    <item>
+      <title>Vive la generell politisk misnøye!</title>
+      <link>https://radio.nrk.no/podkast/desken_brenner/l_43fbac1d-da9f-4c0b-a006-0daf8944c1ce</link>
+      <description>Frankrike preges av utagerende demonstrasjoner. En mann har blitt låst inne i en matbutikk. Det er vanskelig å jobbe på tog.</description>
+      <guid isPermaLink="false">l_43fbac1d-da9f-4c0b-a006-0daf8944c1ce</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/43fbac1d-da9f-4c0b-a006-0daf8944c1ce_b63afb32-8871-4602-bb8d-d52a5f5b80fb_ID192MP3.mp3" type="audio/mpeg" length="61566380"></enclosure>
+      <itunes:title>Vive la generell politisk misnøye!</itunes:title>
+      <itunes:summary>Frankrike preges av utagerende demonstrasjoner. En mann har blitt låst inne i en matbutikk. Det er vanskelig å jobbe på tog.</itunes:summary>
+      <itunes:duration>2565</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Mens vi venter på Putin</title>
       <link>https://radio.nrk.no/podkast/desken_brenner/l_62bbea77-d48f-4e1d-9213-06e6531c3664</link>

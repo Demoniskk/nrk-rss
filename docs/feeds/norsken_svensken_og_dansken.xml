@@ -6,7 +6,7 @@
     <description>Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 24 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/norsken_svensken_og_dansken.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Norsken, svensken og dansken</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken</link>
     </image>
+    <item>
+      <title>Idyllen sprekker</title>
+      <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_a708fdfd-4c35-429d-a251-feb0932db04e</link>
+      <description>Det er full splid i det nordiske samarbeidet etter den famøse Putin-telefonen. &#xA;Her trengs det pan-nordisk familieterapi, med finsk støtte!</description>
+      <guid isPermaLink="false">l_a708fdfd-4c35-429d-a251-feb0932db04e</guid>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/a708fdfd-4c35-429d-a251-feb0932db04e_d302dbc3-253d-4fff-96a4-a9b03dcd35ed_ID192MP3.mp3" type="audio/mpeg" length="82135340"></enclosure>
+      <itunes:title>Idyllen sprekker</itunes:title>
+      <itunes:summary>Det er full splid i det nordiske samarbeidet etter den famøse Putin-telefonen. &#xA;Her trengs det pan-nordisk familieterapi, med finsk støtte!</itunes:summary>
+      <itunes:duration>3422</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Nepo-Norge</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_a2083e24-1fc7-4f47-ba35-792bdeb7c5b6</link>

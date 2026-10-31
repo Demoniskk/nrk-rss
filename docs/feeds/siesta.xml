@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Stem her på Norges beste pub</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_f1d21733-1694-4c09-a61b-bda9463dc714</link>
+      <description>OBS: for å få alle alternativene; trykk play og scroll deg ned. Avstemningen varer til fredag 6. november klokka 11. De to finalistene blir lansert direkte på NRK P3 klokka 11.15, og vinneren blir kåret i slutten av sendinga. Spre episoden, og stem&lt;3</description>
+      <guid isPermaLink="false">l_f1d21733-1694-4c09-a61b-bda9463dc714</guid>
+      <pubDate>Fri, 30 Oct 2026 16:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/f1d21733-1694-4c09-a61b-bda9463dc714_2dd5deea-dac2-4d0a-a632-8d8db3abca84_ID192MP3.mp3" type="audio/mpeg" length="7501292"></enclosure>
+      <itunes:title>Stem her på Norges beste pub</itunes:title>
+      <itunes:summary>OBS: for å få alle alternativene; trykk play og scroll deg ned. Avstemningen varer til fredag 6. november klokka 11. De to finalistene blir lansert direkte på NRK P3 klokka 11.15, og vinneren blir kåret i slutten av sendinga. Spre episoden, og stem&lt;3</itunes:summary>
+      <itunes:duration>312</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
+    <item>
+      <title>Markus intervjuer Desta Beeder</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_27614619-a145-46cc-8125-dd9c80a54a82</link>
+      <description>Det blir halloquizvang, Markus intervjuer Desta Beeder og vi avslører den aller siste kandidaten i jakten etter Norges beste pub!</description>
+      <guid isPermaLink="false">l_27614619-a145-46cc-8125-dd9c80a54a82</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/27614619-a145-46cc-8125-dd9c80a54a82_2081153f-7e2b-4888-ac54-1f8d7cd46786_ID192MP3.mp3" type="audio/mpeg" length="66096620"></enclosure>
+      <itunes:title>Markus intervjuer Desta Beeder</itunes:title>
+      <itunes:summary>Det blir halloquizvang, Markus intervjuer Desta Beeder og vi avslører den aller siste kandidaten i jakten etter Norges beste pub!</itunes:summary>
+      <itunes:duration>2753</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lJmvK3COPy0HA6IcmQ0I5gnctP_896FNVyVURSJ_6Xqw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Daniel spruter vann på Anna</title>
       <link>https://radio.nrk.no/podkast/siesta/l_6316827b-96ae-475a-9aea-b35341bdf85a</link>

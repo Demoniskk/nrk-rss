@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Utestenging, frieri og stein, saks, papir-VM</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_c0d71a1f-6263-4925-bba3-161c547e81bc</link>
+      <description>Er det verdt det å ofre alt for «den populære gjengen»? Og har Sofie blitt fridd til?&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</description>
+      <guid isPermaLink="false">l_c0d71a1f-6263-4925-bba3-161c547e81bc</guid>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/c0d71a1f-6263-4925-bba3-161c547e81bc_329089ce-2b61-4383-98d0-0fddb1318824_ID192MP3.mp3" type="audio/mpeg" length="61986860"></enclosure>
+      <itunes:title>Utestenging, frieri og stein, saks, papir-VM</itunes:title>
+      <itunes:summary>Er det verdt det å ofre alt for «den populære gjengen»? Og har Sofie blitt fridd til?&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</itunes:summary>
+      <itunes:duration>2582</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Crush på stebror, VGS-valg og franske tilstander</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_35628f04-ff77-4829-86bc-21d95adc899f</link>

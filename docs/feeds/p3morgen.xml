@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Vi må etablere noen halloweenregler</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_d3665a99-ad6d-4eb4-a787-d9f4a5f70e5a</link>
+      <description>Markus er redd for å dele bort drittgodteri til unger på halloween. Er det uhygienisk å gi bort smågodt? Vi må etablere noen kjøreregler, sammen med deg!</description>
+      <guid isPermaLink="false">l_d3665a99-ad6d-4eb4-a787-d9f4a5f70e5a</guid>
+      <pubDate>Fri, 30 Oct 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/d3665a99-ad6d-4eb4-a787-d9f4a5f70e5a_ba870fe9-82b7-4f26-9795-32903e41d1d7_ID192MP3.mp3" type="audio/mpeg" length="66350060"></enclosure>
+      <itunes:title>Vi må etablere noen halloweenregler</itunes:title>
+      <itunes:summary>Markus er redd for å dele bort drittgodteri til unger på halloween. Er det uhygienisk å gi bort smågodt? Vi må etablere noen kjøreregler, sammen med deg!</itunes:summary>
+      <itunes:duration>2764</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/PMw-Lnd9ZMN8CgBJyEUn_wAjtWHUQodkTXawycYRTHaA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Vi er lei av KI-plakater!</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_36eca0bd-8162-438d-90f4-48412cf74c83</link>

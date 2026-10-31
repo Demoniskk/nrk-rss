@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,45 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Ikke spis kompisen din!</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_e6514a40-be92-46af-8648-9feac7afdaa6</link>
+      <description>Kannibalisme er en dårlig idé, har forskere funnet ut. Dessuten, DNA&#39;et ditt er fullt av feil, og glasstriks er endelig avslørt</description>
+      <guid isPermaLink="false">l_e6514a40-be92-46af-8648-9feac7afdaa6</guid>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/e6514a40-be92-46af-8648-9feac7afdaa6_b5fd9c0b-6bdc-4084-8299-f20670480060_ID192MP3.mp3" type="audio/mpeg" length="42924140"></enclosure>
+      <itunes:title>Ikke spis kompisen din!</itunes:title>
+      <itunes:summary>Kannibalisme er en dårlig idé, har forskere funnet ut. Dessuten, DNA&#39;et ditt er fullt av feil, og glasstriks er endelig avslørt</itunes:summary>
+      <itunes:duration>1788</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BWmcbAaKjcbCEKU1tt6pEwHEDyOviIeuJOnAmol7wfsw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Vampyrgrav funnet i Polen</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_09d157df-3c80-4d3f-b2a7-0dc450673338</link>
+      <description>Død kvinne stoppes fra å gå igjen. Dessuten, liv under polarisen overrasker. Og har du egentlig kontroll på insulaen din?  </description>
+      <guid isPermaLink="false">l_09d157df-3c80-4d3f-b2a7-0dc450673338</guid>
+      <pubDate>Fri, 30 Oct 2026 22:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/09d157df-3c80-4d3f-b2a7-0dc450673338_b42e8854-3450-4ada-b782-88ccfe2f4197_ID192MP3.mp3" type="audio/mpeg" length="40970924"></enclosure>
+      <itunes:title>Vampyrgrav funnet i Polen</itunes:title>
+      <itunes:summary>Død kvinne stoppes fra å gå igjen. Dessuten, liv under polarisen overrasker. Og har du egentlig kontroll på insulaen din?  </itunes:summary>
+      <itunes:duration>1707</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Døden spesial</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_8ae40133-a647-48f3-9831-ce0e73afa645</link>
+      <description>Hva skjer egentlig når vi dør?&#xA;Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende ekspertpanel!</description>
+      <guid isPermaLink="false">l_8ae40133-a647-48f3-9831-ce0e73afa645</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/8ae40133-a647-48f3-9831-ce0e73afa645_8711e0ea-bfa4-4a2e-ac98-20973c8902c6_ID192MP3.mp3" type="audio/mpeg" length="82893932"></enclosure>
+      <itunes:title>Døden spesial</itunes:title>
+      <itunes:summary>Hva skjer egentlig når vi dør?&#xA;Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende ekspertpanel!</itunes:summary>
+      <itunes:duration>3453</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/u_0hro9rP2BygwYA21PL8gQ9dJ4-egSWUWvro8oiV9Hg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Finnes egentlig tyngdekraften?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_f962e351-8e5b-41b5-8d4b-194e8807ce39</link>

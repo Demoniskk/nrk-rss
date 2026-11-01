@@ -6,7 +6,7 @@
     <description>Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 24 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 13:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ukeslutt</title>
       <link>https://radio.nrk.no/podkast/ukeslutt</link>
     </image>
+    <item>
+      <title>Korleis blei Halloween norsk?</title>
+      <link>https://radio.nrk.no/podkast/ukeslutt/l_741cfd6e-7d60-4a8b-b58d-7d999edce89f</link>
+      <description>Halloween har jobba seg inn på fast plass, også i den norske kalenderen. Kven kan vi skulde på - eller takke - for at i dag er den store skremmedagen?</description>
+      <guid isPermaLink="false">l_741cfd6e-7d60-4a8b-b58d-7d999edce89f</guid>
+      <pubDate>Sat, 31 Oct 2026 14:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/741cfd6e-7d60-4a8b-b58d-7d999edce89f_eb3ee27b-3ce1-4528-8543-5079cbcd9f5a_ID192MP3.mp3" type="audio/mpeg" length="89767340"></enclosure>
+      <itunes:title>Korleis blei Halloween norsk?</itunes:title>
+      <itunes:summary>Halloween har jobba seg inn på fast plass, også i den norske kalenderen. Kven kan vi skulde på - eller takke - for at i dag er den store skremmedagen?</itunes:summary>
+      <itunes:duration>3740</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/zmqAwudZP1dOvctl88NI4A7SltSVqKPWvwyJZP2x3lhA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>Oj, oj, oj - en blå ballong!</title>
       <link>https://radio.nrk.no/podkast/ukeslutt/l_0f1fb417-ba6e-43df-94c9-9cd7f6e66bea</link>

@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 14:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:01:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Arian Engebø / Jo Marstein / Cathrine Frost</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_ad17cabd-c345-4ea6-8cf6-44f4ef25debf</link>
+      <description>TILBAKEMELDING: Har Simen tatt noen valg? / PROBLEMER: Eg er stuck med serviset til ein 12-åring!  / Er jeg for feministisk? / Bittertrist på familien min / Burde jeg gi Kakerlakken en siste sjanse? / Ekskjæreste på TV / Student fanget i medstudenters gass / Oppfattelse av tid / Avholds på julebord med drikkeglad gjeng / Klassiker: Kjærlighetssorg </description>
+      <guid isPermaLink="false">l_ad17cabd-c345-4ea6-8cf6-44f4ef25debf</guid>
+      <pubDate>Sat, 31 Oct 2026 13:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/ad17cabd-c345-4ea6-8cf6-44f4ef25debf_ca8927ba-57be-444e-b9c8-39be942973d8_ID192MP3.mp3" type="audio/mpeg" length="194511788"></enclosure>
+      <itunes:title>Arian Engebø / Jo Marstein / Cathrine Frost</itunes:title>
+      <itunes:summary>TILBAKEMELDING: Har Simen tatt noen valg? / PROBLEMER: Eg er stuck med serviset til ein 12-åring!  / Er jeg for feministisk? / Bittertrist på familien min / Burde jeg gi Kakerlakken en siste sjanse? / Ekskjæreste på TV / Student fanget i medstudenters gass / Oppfattelse av tid / Avholds på julebord med drikkeglad gjeng / Klassiker: Kjærlighetssorg </itunes:summary>
+      <itunes:duration>8104</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/o_MNvVwA7zMPp560krw-qQojxu1jtEQLiJq7GdJkhErQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Oktober 2026">202610</podcast:season>
+    </item>
     <item>
       <title>5-årsplanen er i gang</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_21ff44e6-89f0-4e42-a3c3-355fa2073f3b</link>

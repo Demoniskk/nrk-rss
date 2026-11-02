@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Arin er på detox</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_e73923e0-a133-40bd-99a9-892cceb2c9c9</link>
+      <description>Jonas er tilbake fra ferie! Vi får besøk av den ukjente Disney-stjernen Siri Nilsen, som har lånt stemmen sin til alt fra «High School Musical» til «Phineas og Ferb»</description>
+      <guid isPermaLink="false">l_e73923e0-a133-40bd-99a9-892cceb2c9c9</guid>
+      <pubDate>Mon, 02 Nov 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e73923e0-a133-40bd-99a9-892cceb2c9c9_2f84d398-4e0a-47e1-951d-2e31035090f5_ID192MP3.mp3" type="audio/mpeg" length="65776940"></enclosure>
+      <itunes:title>Arin er på detox</itunes:title>
+      <itunes:summary>Jonas er tilbake fra ferie! Vi får besøk av den ukjente Disney-stjernen Siri Nilsen, som har lånt stemmen sin til alt fra «High School Musical» til «Phineas og Ferb»</itunes:summary>
+      <itunes:duration>2740</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OZsy5LpiTTQHlU-YIZl9TQR6Q311B49lQ6xEXzVfFOlg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Vi må etablere noen halloweenregler</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_d3665a99-ad6d-4eb4-a787-d9f4a5f70e5a</link>

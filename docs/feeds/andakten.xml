@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Strikkhopp - Ingrid Ivo Vatnar</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_03a752f2-dc4f-43aa-84b1-c3096643f6ef</link>
+      <description>Hun har våget mye Ingrid Ivo Vatnar - også nå i det siste. Men det er også ting hun er redd for å våge seg utpå.</description>
+      <guid isPermaLink="false">l_03a752f2-dc4f-43aa-84b1-c3096643f6ef</guid>
+      <pubDate>Mon, 02 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/03a752f2-dc4f-43aa-84b1-c3096643f6ef_5ae2f9b0-7877-450e-8f62-3bccfc528ad6_ID192MP3.mp3" type="audio/mpeg" length="4496300"></enclosure>
+      <itunes:title>Strikkhopp - Ingrid Ivo Vatnar</itunes:title>
+      <itunes:summary>Hun har våget mye Ingrid Ivo Vatnar - også nå i det siste. Men det er også ting hun er redd for å våge seg utpå.</itunes:summary>
+      <itunes:duration>187</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EEWcnfSWZiDyJiy0_F7IPw_xbxTXaVP0SKEyukjvjMlQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Bedre dager - Thor Haavik</title>
       <link>https://radio.nrk.no/podkast/andakten/l_34df668d-994c-438f-9cb5-a944d5158ee4</link>

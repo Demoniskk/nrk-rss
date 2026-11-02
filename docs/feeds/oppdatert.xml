@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>MAGAs far: Oppskriften som endret USA</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_b5a54a22-ef2a-4739-a34d-900ca0257287</link>
+      <description>Lenge før Trump fantes en mann med samme visjon. Hvem står egentlig bak MAGA-bevegelsen som endret USA?</description>
+      <guid isPermaLink="false">l_b5a54a22-ef2a-4739-a34d-900ca0257287</guid>
+      <pubDate>Mon, 02 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/b5a54a22-ef2a-4739-a34d-900ca0257287_cbc010ec-390f-4798-b4db-36c8c818dcac_ID192MP3.mp3" type="audio/mpeg" length="32094188"></enclosure>
+      <itunes:title>MAGAs far: Oppskriften som endret USA</itunes:title>
+      <itunes:summary>Lenge før Trump fantes en mann med samme visjon. Hvem står egentlig bak MAGA-bevegelsen som endret USA?</itunes:summary>
+      <itunes:duration>1337</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ueqMkdo8e6E3yIqMy8iUCw6rpQG5c7sXsYcib4ou7s9A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Transkamp i Kongressen: Slik ble hun historisk</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_f6c97d46-0fe5-49c3-ace2-abada10e881d</link>

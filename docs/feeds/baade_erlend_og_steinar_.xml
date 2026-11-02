@@ -6,7 +6,7 @@
     <description>En tenketank for folk med lav intelligens.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baade_erlend_og_steinar_.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Både Erlend og Steinar </title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
     </image>
+    <item>
+      <title>Helt robot</title>
+      <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_3e4292de-130a-481c-a314-0dc80e72813e</link>
+      <description>Hvor fri er egentlig Erlend i eget hode? Hvor kommer Steinars psykologskepsis fra? Og en lytter står i et musedilemma.</description>
+      <guid isPermaLink="false">l_3e4292de-130a-481c-a314-0dc80e72813e</guid>
+      <pubDate>Mon, 02 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/3e4292de-130a-481c-a314-0dc80e72813e_3540f99b-cf14-429c-b50c-b0c937768e26_ID192MP3.mp3" type="audio/mpeg" length="96409772"></enclosure>
+      <itunes:title>Helt robot</itunes:title>
+      <itunes:summary>Hvor fri er egentlig Erlend i eget hode? Hvor kommer Steinars psykologskepsis fra? Og en lytter står i et musedilemma.</itunes:summary>
+      <itunes:duration>4017</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Pappa gjør seg klar for apokalypsen</title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_4f38853a-cc50-4f21-9ac5-54189c881032</link>

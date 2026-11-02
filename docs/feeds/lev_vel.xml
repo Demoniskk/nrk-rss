@@ -6,7 +6,7 @@
     <description>Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lev_vel.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lev vel</title>
       <link>https://radio.nrk.no/podkast/lev_vel</link>
     </image>
+    <item>
+      <title>Verity: Er filmen bedre enn boka?</title>
+      <link>https://radio.nrk.no/podkast/lev_vel/l_0581c8fa-3dc7-4574-b54c-d2b5fb3873cd</link>
+      <description>Linnéa, Ingrid og Adelina har sett «Verity» på kino, og meningene er mildt sagt ganske delt! </description>
+      <guid isPermaLink="false">l_0581c8fa-3dc7-4574-b54c-d2b5fb3873cd</guid>
+      <pubDate>Mon, 02 Nov 2026 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/0581c8fa-3dc7-4574-b54c-d2b5fb3873cd_0e017972-4d9b-46a8-ae5b-6c08a7884896_ID192MP3.mp3" type="audio/mpeg" length="66891500"></enclosure>
+      <itunes:title>Verity: Er filmen bedre enn boka?</itunes:title>
+      <itunes:summary>Linnéa, Ingrid og Adelina har sett «Verity» på kino, og meningene er mildt sagt ganske delt! </itunes:summary>
+      <itunes:duration>2787</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/RPyy1A2Jk0-GzpcdlrScEgd0MiLbJJHJXlmglZ5KjM1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>På hjertet: Monster-sprekk</title>
       <link>https://radio.nrk.no/podkast/lev_vel/l_78d92949-029c-4d41-b59b-b5d971ef9cac</link>

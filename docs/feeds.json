@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T10:32:26Z",
-  "latest_episode": "2026-11-01T05:00:00Z",
+  "generated_at": "2026-11-02T11:15:19Z",
+  "latest_episode": "2026-11-02T09:00:00Z",
   "source": "https://radio.nrk.no/",
   "podcast_count": 236,
-  "episode_count": 60117,
+  "episode_count": 60124,
   "podcasts": [
     {
       "id": "22_juli_-_hvordan_kunne_det_skje",
@@ -44,10 +44,10 @@
       "description": "Hverdagsfunderinger over tro og liv.",
       "category": "Kultur og samfunn",
       "image_url": "https://gfx.nrk.no/rHwdwEoG4hfzW5QbFJfF2wcsJpClG_9DUQtACoJhhapw",
-      "episode_count": 3122,
+      "episode_count": 3123,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml",
       "nrk_url": "https://radio.nrk.no/podkast/andakten",
-      "latest_episode": "2026-10-29T05:00:00Z"
+      "latest_episode": "2026-11-02T05:00:00Z"
     },
     {
       "id": "andregenerasjonen",
@@ -231,10 +231,10 @@
       "description": "En tenketank for folk med lav intelligens.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA",
-      "episode_count": 149,
+      "episode_count": 150,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/baade_erlend_og_steinar_.xml",
       "nrk_url": "https://radio.nrk.no/podkast/baade_erlend_og_steinar_",
-      "latest_episode": "2026-10-26T05:00:00Z"
+      "latest_episode": "2026-11-02T05:00:00Z"
     },
     {
       "id": "clue",
@@ -957,10 +957,10 @@
       "description": "Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/nMMOGkguWa_jCgf7iLUPzwxpmMTKRc4hnG1l3t8x44HA",
-      "episode_count": 418,
+      "episode_count": 419,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml",
       "nrk_url": "https://radio.nrk.no/podkast/kjapt_oppdatert",
-      "latest_episode": "2026-10-30T04:59:00Z"
+      "latest_episode": "2026-11-02T05:03:00Z"
     },
     {
       "id": "kjente_boeker_paa_4_minutter",
@@ -1210,10 +1210,10 @@
       "description": "Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.",
       "category": "Kultur og samfunn",
       "image_url": "https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q",
-      "episode_count": 116,
+      "episode_count": 117,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/lev_vel.xml",
       "nrk_url": "https://radio.nrk.no/podkast/lev_vel",
-      "latest_episode": "2026-10-30T04:00:00Z"
+      "latest_episode": "2026-11-02T04:00:00Z"
     },
     {
       "id": "lindmo_og_co",
@@ -1672,10 +1672,10 @@
       "description": "Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/W5meJJadmPtMiXo-Sut7LgsIc1DMoGX6ZSmHsdu37sfw",
-      "episode_count": 1368,
+      "episode_count": 1369,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml",
       "nrk_url": "https://radio.nrk.no/podkast/oppdatert",
-      "latest_episode": "2026-10-30T04:59:00Z"
+      "latest_episode": "2026-11-02T04:59:00Z"
     },
     {
       "id": "odaspodda",
@@ -1705,10 +1705,10 @@
       "description": "Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/bves9kUqiqg2krwAadju1wvenvlLJmUI9qqQv4QrB8rA",
-      "episode_count": 3672,
+      "episode_count": 3673,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml",
       "nrk_url": "https://radio.nrk.no/podkast/p3morgen",
-      "latest_episode": "2026-10-30T09:00:00Z"
+      "latest_episode": "2026-11-02T09:00:00Z"
     },
     {
       "id": "politisk_kvarter",
@@ -1716,10 +1716,10 @@
       "description": "Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. \n",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/k2Qj3WP1bIp9rJ7Ruw7J_AjM4xS3AUNipR-3he47nZKg",
-      "episode_count": 3547,
+      "episode_count": 3548,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml",
       "nrk_url": "https://radio.nrk.no/podkast/politisk_kvarter",
-      "latest_episode": "2026-10-30T07:00:00Z"
+      "latest_episode": "2026-11-02T07:00:00Z"
     },
     {
       "id": "popaganda",

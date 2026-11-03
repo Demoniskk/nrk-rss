@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 12:51:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:08:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Koket etter seriefinalen</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_5864b978-4a14-41c7-a567-4ad0cce582f6</link>
+      <description>Bodø-Glimt får kritikk av trenere i andre norske klubber etter trenerbråket i &#34;seriefinalen&#34; og hvem tas ut i Norges tropp?</description>
+      <guid isPermaLink="false">l_5864b978-4a14-41c7-a567-4ad0cce582f6</guid>
+      <pubDate>Mon, 02 Nov 2026 18:08:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/5864b978-4a14-41c7-a567-4ad0cce582f6_dee7d1a9-c4f3-4bee-986d-fb6e6decbebe_ID192MP3.mp3" type="audio/mpeg" length="50502572"></enclosure>
+      <itunes:title>Koket etter seriefinalen</itunes:title>
+      <itunes:summary>Bodø-Glimt får kritikk av trenere i andre norske klubber etter trenerbråket i &#34;seriefinalen&#34; og hvem tas ut i Norges tropp?</itunes:summary>
+      <itunes:duration>2104</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Solbakken: Jobbtilbud, Tripic og tapene i høst.</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_489b889a-7c25-4ebc-9541-cb7a1f399547</link>

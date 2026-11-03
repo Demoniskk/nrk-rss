@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 01 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Silya Nymoen: Fikk tilbake troen</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_ee61516e-d5de-43c4-b954-a579b2393369</link>
+      <description>Silya Nymoen om at hun mistet seg selv i tidligere forhold. Møtet med ektemannen ga henne troen på kjærligheten igjen.&#xA;</description>
+      <guid isPermaLink="false">l_ee61516e-d5de-43c4-b954-a579b2393369</guid>
+      <pubDate>Tue, 03 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/ee61516e-d5de-43c4-b954-a579b2393369_0a072d06-4abb-47f6-aa09-571782e07f1c_ID192MP3.mp3" type="audio/mpeg" length="71350316"></enclosure>
+      <itunes:title>Silya Nymoen: Fikk tilbake troen</itunes:title>
+      <itunes:summary>Silya Nymoen om at hun mistet seg selv i tidligere forhold. Møtet med ektemannen ga henne troen på kjærligheten igjen.&#xA;</itunes:summary>
+      <itunes:duration>2972</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3NX31_us5ssziVQw4CiT7AoWJNqlBvde9wrgJzpRZ7EQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Panelet: Kansellering og BankID-porno</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_1fb0b5e4-1b18-4a27-b196-12875854ffc9</link>

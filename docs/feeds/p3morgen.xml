@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Annika Momrak har møtt en fremmedkriger</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_913b3f65-b47d-47be-ade3-3f9a5aa0287f</link>
+      <description>Hva er egentlig et mellomvalg? Og har Arin klart å skrolle mindre på mobilen? Hva skal til for å reise til Ukraina og kjempe for den ukrainske hæren? Alt dette og mer får du svaret på denne tirsdagen.</description>
+      <guid isPermaLink="false">l_913b3f65-b47d-47be-ade3-3f9a5aa0287f</guid>
+      <pubDate>Tue, 03 Nov 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/913b3f65-b47d-47be-ade3-3f9a5aa0287f_2fcbfe23-2284-4c1b-b6bc-3649e4b14fb1_ID192MP3.mp3" type="audio/mpeg" length="67986476"></enclosure>
+      <itunes:title>Annika Momrak har møtt en fremmedkriger</itunes:title>
+      <itunes:summary>Hva er egentlig et mellomvalg? Og har Arin klart å skrolle mindre på mobilen? Hva skal til for å reise til Ukraina og kjempe for den ukrainske hæren? Alt dette og mer får du svaret på denne tirsdagen.</itunes:summary>
+      <itunes:duration>2832</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KJYaiW85gyhoQzt-00RgBgzgbUlfInT7Y1QMFXMEY5Cw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Arin er på detox</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_e73923e0-a133-40bd-99a9-892cceb2c9c9</link>

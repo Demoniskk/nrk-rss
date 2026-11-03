@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 12:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:15:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>USA og arven fra Romerriket</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_53b2ff57-412e-46ae-a526-71dc0aa78364</link>
+      <description>Da USAs grunnleggere formet nasjonen, hentet de malen over 2000 år tilbake. Har dagens supermakt arvet svakhetene som felte Roma?</description>
+      <guid isPermaLink="false">l_53b2ff57-412e-46ae-a526-71dc0aa78364</guid>
+      <pubDate>Mon, 02 Nov 2026 13:15:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/53b2ff57-412e-46ae-a526-71dc0aa78364_50b2730d-23cb-44db-b6e3-5eee484e300c_ID192MP3.mp3" type="audio/mpeg" length="47058668"></enclosure>
+      <itunes:title>USA og arven fra Romerriket</itunes:title>
+      <itunes:summary>Da USAs grunnleggere formet nasjonen, hentet de malen over 2000 år tilbake. Har dagens supermakt arvet svakhetene som felte Roma?</itunes:summary>
+      <itunes:duration>1960</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8lCjN9QYDiPV2yFdfpJpRQ-bxDYOhYV8fQvWMhnxeaeQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Trumps USA: Obamas comeback</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_97bde2e6-2c38-4b90-8444-de4a6e54ea89</link>

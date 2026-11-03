@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Avgiftskutt eller ingenting!</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_6b0bdcb9-8877-4540-a370-d4d3e6a64fa5</link>
+      <description>Sp brukar ultimatum-ordet før budsjettforhandlinga. Mens Ap åtvarar raudgrøne støtteparti. Kan dette gå? </description>
+      <guid isPermaLink="false">l_6b0bdcb9-8877-4540-a370-d4d3e6a64fa5</guid>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/6b0bdcb9-8877-4540-a370-d4d3e6a64fa5_ab85799f-a8ab-4653-86d7-2049a0410e75_ID192MP3.mp3" type="audio/mpeg" length="21779756"></enclosure>
+      <itunes:title>Avgiftskutt eller ingenting!</itunes:title>
+      <itunes:summary>Sp brukar ultimatum-ordet før budsjettforhandlinga. Mens Ap åtvarar raudgrøne støtteparti. Kan dette gå? </itunes:summary>
+      <itunes:duration>907</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/sGUYxxQzZz7TL-litgjicA9ybQL3mU7Ub9CLukp5SkyA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>SV krever kraftige skatteøkninger</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_8e981e0b-123f-41ec-9290-51a636e3bc61</link>

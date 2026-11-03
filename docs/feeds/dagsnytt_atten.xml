@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 18:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Færre helseforetak og større kommuner</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_fddfabb4-8fbd-4ec4-88f2-25e29b1eaee0</link>
+      <description>Små kommuner må bli større, foreslår Helsereformuvalget i dag.</description>
+      <guid isPermaLink="false">l_fddfabb4-8fbd-4ec4-88f2-25e29b1eaee0</guid>
+      <pubDate>Mon, 02 Nov 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/fddfabb4-8fbd-4ec4-88f2-25e29b1eaee0_6bf16229-72df-4957-9620-ad7cdd281f1d_ID192MP3.mp3" type="audio/mpeg" length="84886892"></enclosure>
+      <itunes:title>Færre helseforetak og større kommuner</itunes:title>
+      <itunes:summary>Små kommuner må bli større, foreslår Helsereformuvalget i dag.</itunes:summary>
+      <itunes:duration>3536</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/O4Rdx6GKscnJA-601yVuwAA81kX0XnD-1uubRmYa6CvQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Sju personer fengslet for fiskerijuks</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_04151bb9-99c9-440e-b65a-1b5cda968372</link>

@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Resident Evil: Slik ble Hollywood hekta på spill</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_ba00618d-4014-4aa0-b095-02f8a5b51bd0</link>
+      <description>Filmer basert på dataspill ble lenge ansett som søppel: Hvem er mannen bak historiens mest kritikerroste gamingfilm? </description>
+      <guid isPermaLink="false">l_ba00618d-4014-4aa0-b095-02f8a5b51bd0</guid>
+      <pubDate>Tue, 03 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/ba00618d-4014-4aa0-b095-02f8a5b51bd0_793d3e7c-914d-4679-858d-9ae8420546c8_ID192MP3.mp3" type="audio/mpeg" length="22984748"></enclosure>
+      <itunes:title>Resident Evil: Slik ble Hollywood hekta på spill</itunes:title>
+      <itunes:summary>Filmer basert på dataspill ble lenge ansett som søppel: Hvem er mannen bak historiens mest kritikerroste gamingfilm? </itunes:summary>
+      <itunes:duration>957</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/eK-HNl359cZCwXUHqIVzRQqpP4W1vLQEcso_5Q39FwAg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>MAGAs far: Oppskriften som endret USA</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_b5a54a22-ef2a-4739-a34d-900ca0257287</link>

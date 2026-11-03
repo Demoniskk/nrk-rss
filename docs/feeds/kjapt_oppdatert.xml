@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 05:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Kritiske til helsereform-forslag</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_b76598fc-0083-44ea-ba54-9edae40f030a</link>
+      <description>Og Frida Kahlo kommer til Norge.</description>
+      <guid isPermaLink="false">l_b76598fc-0083-44ea-ba54-9edae40f030a</guid>
+      <pubDate>Tue, 03 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b76598fc-0083-44ea-ba54-9edae40f030a_470b5025-aa96-4e81-98bd-9dae7588011b_ID192MP3.mp3" type="audio/mpeg" length="10066796"></enclosure>
+      <itunes:title>Kritiske til helsereform-forslag</itunes:title>
+      <itunes:summary>Og Frida Kahlo kommer til Norge.</itunes:summary>
+      <itunes:duration>419</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hXOj5Rfjre8rXoelaa0pugjyMEcEi-YpCPJBRjQW24JA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Dette må du vite om valget i USA</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_e0c0539a-9a84-4287-a62a-c694787ae0a8</link>

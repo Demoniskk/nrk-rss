@@ -6,7 +6,7 @@
     <description>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Krimrommet</title>
       <link>https://radio.nrk.no/podkast/krimrommet</link>
     </image>
+    <item>
+      <title>Halloween-drapet: Flukten</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_86e78589-25f1-4ba0-9259-96d38c62ac25</link>
+      <description>En oktobernatt for 15 år siden opplever Marius (22) noe som skal endre livet hans for alltid.</description>
+      <guid isPermaLink="false">l_86e78589-25f1-4ba0-9259-96d38c62ac25</guid>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/86e78589-25f1-4ba0-9259-96d38c62ac25_1bf18699-a0a6-4c42-8eef-4e273630d68d_ID192MP3.mp3" type="audio/mpeg" length="47822444"></enclosure>
+      <itunes:title>Halloween-drapet: Flukten</itunes:title>
+      <itunes:summary>En oktobernatt for 15 år siden opplever Marius (22) noe som skal endre livet hans for alltid.</itunes:summary>
+      <itunes:duration>1992</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Y500hBxByKqToDgwmX0nLA4_viHNd8_7LovC3rTex1bA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Elizabeth Holmes: Blodig svindel</title>
       <link>https://radio.nrk.no/podkast/krimrommet/l_9189ea40-2667-4b9f-b8c0-ba99371f905e</link>

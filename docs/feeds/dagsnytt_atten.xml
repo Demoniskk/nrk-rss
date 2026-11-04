@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 18:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Valgdag i USA</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_dd79de6d-33a3-40b4-a55c-dd5f13f2cd47</link>
+      <description>Hvordan blir Donald Trumps to siste år som president? Amerikanerne skal velge alle de 432 representantene til Representantenes hus og 35 senatorer.</description>
+      <guid isPermaLink="false">l_dd79de6d-33a3-40b4-a55c-dd5f13f2cd47</guid>
+      <pubDate>Tue, 03 Nov 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/dd79de6d-33a3-40b4-a55c-dd5f13f2cd47_3f9a2f77-dbd7-46d5-88c4-6b6cc4384700_ID192MP3.mp3" type="audio/mpeg" length="85011884"></enclosure>
+      <itunes:title>Valgdag i USA</itunes:title>
+      <itunes:summary>Hvordan blir Donald Trumps to siste år som president? Amerikanerne skal velge alle de 432 representantene til Representantenes hus og 35 senatorer.</itunes:summary>
+      <itunes:duration>3542</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bjW6kdW7idjsGb1ZQlrWdw4-M9pCLIV9WPLtnnvpb2OA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Færre helseforetak og større kommuner</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_fddfabb4-8fbd-4ec4-88f2-25e29b1eaee0</link>

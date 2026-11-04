@@ -6,7 +6,7 @@
     <description>Luohti sáhttá govvidit ráhkesvuođa, muhto maiddái unohisvuođaid. Dás guorahallabage luđiid, maiddái olbmuiguin geain leat muitalusat ja vásáhusat.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/luois_luohti.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Luođis luohtái</title>
       <link>https://radio.nrk.no/podkast/luois_luohti</link>
     </image>
+    <item>
+      <title>Luođit mat rasttildit rájiid</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_62b17b9f-f600-4b72-8058-9f62f117a857</link>
+      <description>Lars Heaika Blind juoigá dološ luđiid ja muitala morraša birra go eiseválddit gilde sin johttimis Romsii, geasseorohahkii.</description>
+      <guid isPermaLink="false">l_62b17b9f-f600-4b72-8058-9f62f117a857</guid>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/62b17b9f-f600-4b72-8058-9f62f117a857_bf123b10-fc98-4abd-a9fe-8c2fbac13ada_ID192MP3.mp3" type="audio/mpeg" length="80091116"></enclosure>
+      <itunes:title>Luođit mat rasttildit rájiid</itunes:title>
+      <itunes:summary>Lars Heaika Blind juoigá dološ luđiid ja muitala morraša birra go eiseválddit gilde sin johttimis Romsii, geasseorohahkii.</itunes:summary>
+      <itunes:duration>3337</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Várggáid lenne luohtehistorjá</title>
       <link>https://radio.nrk.no/podkast/luois_luohti/l_e91954ba-4fb6-4968-85a4-54468b0f11c7</link>

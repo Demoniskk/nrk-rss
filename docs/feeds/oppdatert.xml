@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 03 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Isabel Raad: Slår influenser-imperiet sprekker?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_2ac75ca2-21cf-4483-898c-82946dcab04b</link>
+      <description>Hun er en av Norges mektigste influensere. Nå må hun hanskes med konkurs og skandale.</description>
+      <guid isPermaLink="false">l_2ac75ca2-21cf-4483-898c-82946dcab04b</guid>
+      <pubDate>Wed, 04 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/2ac75ca2-21cf-4483-898c-82946dcab04b_dddbe61e-79a3-4158-a71b-a03b8f8df8b2_ID192MP3.mp3" type="audio/mpeg" length="24666668"></enclosure>
+      <itunes:title>Isabel Raad: Slår influenser-imperiet sprekker?</itunes:title>
+      <itunes:summary>Hun er en av Norges mektigste influensere. Nå må hun hanskes med konkurs og skandale.</itunes:summary>
+      <itunes:duration>1027</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/c6DkD6hQ0IEc8bl8kS1xBA9M1XnZ-LHtVKjcUMbzO7fg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Resident Evil: Slik ble Hollywood hekta på spill</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_ba00618d-4014-4aa0-b095-02f8a5b51bd0</link>

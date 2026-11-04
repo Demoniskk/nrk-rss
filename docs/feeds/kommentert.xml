@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 15:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:16:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Donald Trump: Korrupt pengemaskin eller president?</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_c2cb2433-76c9-424c-95ee-48aec51436fe</link>
+      <description>Donald Trump har tjent milliarder på krypto samtidig som han har vært president. Han mottar dyre gaver, det finnes en egen benådningsindustri og familien hans har tjent seg søkkrike. &#xA;&#xA;Er dette lov? Eller er vi vitne til det mest korrupte presidentskapet i amerikansk historie?</description>
+      <guid isPermaLink="false">l_c2cb2433-76c9-424c-95ee-48aec51436fe</guid>
+      <pubDate>Tue, 03 Nov 2026 17:16:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/c2cb2433-76c9-424c-95ee-48aec51436fe_98e73132-d947-4583-a85b-232d5bfd4ae1_ID192MP3.mp3" type="audio/mpeg" length="39647276"></enclosure>
+      <itunes:title>Donald Trump: Korrupt pengemaskin eller president?</itunes:title>
+      <itunes:summary>Donald Trump har tjent milliarder på krypto samtidig som han har vært president. Han mottar dyre gaver, det finnes en egen benådningsindustri og familien hans har tjent seg søkkrike. &#xA;&#xA;Er dette lov? Eller er vi vitne til det mest korrupte presidentskapet i amerikansk historie?</itunes:summary>
+      <itunes:duration>1651</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/j5sHjnwVqMWg85lA7WHOcgvS805h9KSr4nZ8OYmT6Jvg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>TikTok, KI og beredskap: Hvem skal få strømmen vår?</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_6f544986-47e6-4b71-ae55-e3f49d839f02</link>

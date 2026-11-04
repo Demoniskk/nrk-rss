@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 21:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 21:10:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Vil Maga fortsette uten Trump?</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_9d35d0b5-fb7d-49d8-a1c5-daf58c7f2f9a</link>
+      <description>Hva er Maga-bevegelsen anno 2026 og vil den eksistere den dagen Trump ikke lenger er president?</description>
+      <guid isPermaLink="false">l_9d35d0b5-fb7d-49d8-a1c5-daf58c7f2f9a</guid>
+      <pubDate>Tue, 03 Nov 2026 22:10:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/9d35d0b5-fb7d-49d8-a1c5-daf58c7f2f9a_d4ff51a4-7d16-49e5-8e90-dc9c8cec46f2_ID192MP3.mp3" type="audio/mpeg" length="59938028"></enclosure>
+      <itunes:title>Vil Maga fortsette uten Trump?</itunes:title>
+      <itunes:summary>Hva er Maga-bevegelsen anno 2026 og vil den eksistere den dagen Trump ikke lenger er president?</itunes:summary>
+      <itunes:duration>2497</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/saKKmOkFR-0_Rt2fA_ePWgDnm9WbigYrrXe7YIdRJ0RQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Holder vi på å miste kontrollen over kraften vår - igjen?</title>
       <link>https://radio.nrk.no/podkast/debatten/l_9e2385db-7614-4e2e-adc6-3905691fb0ef</link>

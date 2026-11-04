@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 03 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 05:03:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Demokratene med brakseier i USA</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_365a82ca-05a6-4af1-a0ca-76396ee88ca5</link>
+      <description>Og Black Friday-prisene kan lure deg.</description>
+      <guid isPermaLink="false">l_365a82ca-05a6-4af1-a0ca-76396ee88ca5</guid>
+      <pubDate>Wed, 04 Nov 2026 06:03:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/365a82ca-05a6-4af1-a0ca-76396ee88ca5_0cf45276-a31e-423a-b8a6-3e0d65eb6b4e_ID192MP3.mp3" type="audio/mpeg" length="8732204"></enclosure>
+      <itunes:title>Demokratene med brakseier i USA</itunes:title>
+      <itunes:summary>Og Black Friday-prisene kan lure deg.</itunes:summary>
+      <itunes:duration>363</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/N4MzAHY-TArkJBhxFhQ5dAk1f-L_7FkW21FJSbaLU-Lg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Kritiske til helsereform-forslag</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_b76598fc-0083-44ea-ba54-9edae40f030a</link>

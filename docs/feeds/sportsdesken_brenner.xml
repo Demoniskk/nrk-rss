@@ -6,7 +6,7 @@
     <description>En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sportsdesken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sportsdesken brenner</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner</link>
     </image>
+    <item>
+      <title>– Du rører ikke capsen!</title>
+      <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_1f100cc3-b26c-4c3b-9532-1c2f6ca129f8</link>
+      <description>Vi flirer av den elleville caps-krangelen mellom Bodø/Glimt- og Viking-trenerne. Og vi finner navnet på Bodøs nye storstue. &#xA;&#xA;Du kan fortsatt bli med i vår fantasy-liga med koden: oyuwxr.&#xA;</description>
+      <guid isPermaLink="false">l_1f100cc3-b26c-4c3b-9532-1c2f6ca129f8</guid>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/1f100cc3-b26c-4c3b-9532-1c2f6ca129f8_865047e0-f651-4951-8f9b-b186a79bded8_ID192MP3.mp3" type="audio/mpeg" length="62739692"></enclosure>
+      <itunes:title>– Du rører ikke capsen!</itunes:title>
+      <itunes:summary>Vi flirer av den elleville caps-krangelen mellom Bodø/Glimt- og Viking-trenerne. Og vi finner navnet på Bodøs nye storstue. &#xA;&#xA;Du kan fortsatt bli med i vår fantasy-liga med koden: oyuwxr.&#xA;</itunes:summary>
+      <itunes:duration>2614</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Gullballen, Hitler-logo og Mia naken på buss</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_3414dbe2-d343-400f-a3c7-358b7110ede1</link>

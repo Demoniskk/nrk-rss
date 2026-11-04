@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 12:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Slik tar de tankene dine</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_5002c144-7dcf-4dde-8f85-84ac21d32724</link>
+      <description>Tekgiganter og fremmede makter driver tankekontroll. Slik blir du manipulert, og her er tips til veien ut.</description>
+      <guid isPermaLink="false">l_5002c144-7dcf-4dde-8f85-84ac21d32724</guid>
+      <pubDate>Tue, 03 Nov 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/5002c144-7dcf-4dde-8f85-84ac21d32724_a881f506-611f-4440-8ab6-cf59bb9099c8_ID192MP3.mp3" type="audio/mpeg" length="35641772"></enclosure>
+      <itunes:title>Slik tar de tankene dine</itunes:title>
+      <itunes:summary>Tekgiganter og fremmede makter driver tankekontroll. Slik blir du manipulert, og her er tips til veien ut.</itunes:summary>
+      <itunes:duration>1485</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZqGGGNcArH8bKJVfKeF4wQQFZlft_18qYS-b2RdnEyVQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>USA og arven fra Romerriket</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_53b2ff57-412e-46ae-a526-71dc0aa78364</link>

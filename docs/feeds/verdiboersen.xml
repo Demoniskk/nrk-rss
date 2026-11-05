@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 10:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title>Putin - et førmoderne menneske</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_194cfe36-a77c-4123-bd03-fbf41de85715</link>
+      <description>- Han lever i en verden  der demokratiet, menneskerettene og  det personlige&#xA;ansvaret ikke er funnet opp, sier historiker.</description>
+      <guid isPermaLink="false">l_194cfe36-a77c-4123-bd03-fbf41de85715</guid>
+      <pubDate>Thu, 05 Nov 2026 11:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/194cfe36-a77c-4123-bd03-fbf41de85715_518657e4-72ac-42fb-b34d-1de9ff47a4c6_ID192MP3.mp3" type="audio/mpeg" length="19145132"></enclosure>
+      <itunes:title>Putin - et førmoderne menneske</itunes:title>
+      <itunes:summary>- Han lever i en verden  der demokratiet, menneskerettene og  det personlige&#xA;ansvaret ikke er funnet opp, sier historiker.</itunes:summary>
+      <itunes:duration>797</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>En ny Trump kan komme </title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_ecb8940f-40d0-4412-a1c4-e25a0b4b0672</link>

@@ -6,7 +6,7 @@
     <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sentralbordet på NRK</title>
       <link>https://radio.nrk.no/podkast/sentralbordet</link>
     </image>
+    <item>
+      <title>– Hører du gekkoen?</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_7e58fd22-cff2-4aea-ab7c-ea744b1fa4b5</link>
+      <description>Vegard må bestille kinobilletter på tyrkisk, Oddvar (76) søker jobb som crossfit-instruktør, og en dyrehage ringer en dyrlege. Blant annet.</description>
+      <guid isPermaLink="false">l_7e58fd22-cff2-4aea-ab7c-ea744b1fa4b5</guid>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/7e58fd22-cff2-4aea-ab7c-ea744b1fa4b5_803d208c-777c-41d4-bf73-7a6df0be18fb_ID192MP3.mp3" type="audio/mpeg" length="38483756"></enclosure>
+      <itunes:title>– Hører du gekkoen?</itunes:title>
+      <itunes:summary>Vegard må bestille kinobilletter på tyrkisk, Oddvar (76) søker jobb som crossfit-instruktør, og en dyrehage ringer en dyrlege. Blant annet.</itunes:summary>
+      <itunes:duration>1603</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Emilies afternoon tea-musikal</title>
       <link>https://radio.nrk.no/podkast/sentralbordet/l_37b87e31-ee28-4cf8-906b-45563fa6bd14</link>

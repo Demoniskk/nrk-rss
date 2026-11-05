@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Brevet - Ingrid Ivo Vatnar</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_54bcfa86-157a-458c-be6a-0d3fcf21e5a7</link>
+      <description>Hvor lenge er det siden du sendte noen et håndskrevet brev? Ingrid Ivo Vatnar, skrev et for ikke så lenge siden.</description>
+      <guid isPermaLink="false">l_54bcfa86-157a-458c-be6a-0d3fcf21e5a7</guid>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/54bcfa86-157a-458c-be6a-0d3fcf21e5a7_38ab152a-a0a4-49fd-8d0e-dcf34d19007b_ID192MP3.mp3" type="audio/mpeg" length="4915052"></enclosure>
+      <itunes:title>Brevet - Ingrid Ivo Vatnar</itunes:title>
+      <itunes:summary>Hvor lenge er det siden du sendte noen et håndskrevet brev? Ingrid Ivo Vatnar, skrev et for ikke så lenge siden.</itunes:summary>
+      <itunes:duration>204</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EEWcnfSWZiDyJiy0_F7IPwQvmb10VRj8yKEyukjvjMlQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Golfballen - Ingrid Ivo Vatnar</title>
       <link>https://radio.nrk.no/podkast/andakten/l_edcd7692-f226-4380-adbd-b084ebe0e747</link>

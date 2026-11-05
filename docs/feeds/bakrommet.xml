@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 17:08:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Dette syns vi om Norges tropp</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_7696bd7e-90f2-45ae-9ae8-3c6e8504df14</link>
+      <description>Ståle Solbakken har tatt ut troppen som skal møte Wales og Danmark. Hva overrasker ekspertene og er det noen de savner?</description>
+      <guid isPermaLink="false">l_7696bd7e-90f2-45ae-9ae8-3c6e8504df14</guid>
+      <pubDate>Wed, 04 Nov 2026 17:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/7696bd7e-90f2-45ae-9ae8-3c6e8504df14_f439ac14-64b4-47e1-8492-48b926ab85c2_ID192MP3.mp3" type="audio/mpeg" length="33237548"></enclosure>
+      <itunes:title>Dette syns vi om Norges tropp</itunes:title>
+      <itunes:summary>Ståle Solbakken har tatt ut troppen som skal møte Wales og Danmark. Hva overrasker ekspertene og er det noen de savner?</itunes:summary>
+      <itunes:duration>1384</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Koket etter seriefinalen</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_5864b978-4a14-41c7-a567-4ad0cce582f6</link>

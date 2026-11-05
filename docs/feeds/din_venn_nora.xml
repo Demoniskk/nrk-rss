@@ -6,7 +6,7 @@
     <description>Nok en hektisk uke for komiker Nora Svenningsen. Her er hennes verbale dagbok, hvor du er med på å fargelegge sidene. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/din_venn_nora.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Din venn, Nora</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora</link>
     </image>
+    <item>
+      <title>Rock din lettkledde kropp</title>
+      <link>https://radio.nrk.no/podkast/din_venn_nora/l_88ac4ef4-ef89-49af-a6e0-f932c66587d4</link>
+      <description>Baksnakking som gikk til helvete, en standup kveld for BARN og en oppfordring til å gå med akkurat det du vil&lt;3</description>
+      <guid isPermaLink="false">l_88ac4ef4-ef89-49af-a6e0-f932c66587d4</guid>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/88ac4ef4-ef89-49af-a6e0-f932c66587d4_be09934b-bad5-4d3b-87ab-f99abe4a90a7_ID192MP3.mp3" type="audio/mpeg" length="34724780"></enclosure>
+      <itunes:title>Rock din lettkledde kropp</itunes:title>
+      <itunes:summary>Baksnakking som gikk til helvete, en standup kveld for BARN og en oppfordring til å gå med akkurat det du vil&lt;3</itunes:summary>
+      <itunes:duration>1446</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Jeg har blitt «pick me»</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora/l_50009cc5-a689-4b87-948a-4c4209e0def7</link>

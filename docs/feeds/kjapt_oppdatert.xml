@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 05:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Foxtrot har blitt mer aktive i Norge</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_89bc50a7-12bb-4a4e-a33c-3d842577fc6b</link>
+      <description>Og lege advarer mot fenomenet «looksmaxxing».</description>
+      <guid isPermaLink="false">l_89bc50a7-12bb-4a4e-a33c-3d842577fc6b</guid>
+      <pubDate>Thu, 05 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/89bc50a7-12bb-4a4e-a33c-3d842577fc6b_ec8a7741-9f36-437c-b8a8-da92dcaa7455_ID192MP3.mp3" type="audio/mpeg" length="7787564"></enclosure>
+      <itunes:title>Foxtrot har blitt mer aktive i Norge</itunes:title>
+      <itunes:summary>Og lege advarer mot fenomenet «looksmaxxing».</itunes:summary>
+      <itunes:duration>324</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/E5095YjvR6Qgl0480YIcjwsZpCGeoXPyGVVeuTX-ETnQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Demokratene med brakseier i USA</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_365a82ca-05a6-4af1-a0ca-76396ee88ca5</link>

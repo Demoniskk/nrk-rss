@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 03 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Adrian Sellevoll: Dårlig selvtillit</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_155de8e5-a482-4497-a360-754fb67a2658</link>
+      <description>Adrian Sellevoll om dårlig selvtillit, livet etter at han ble edru og drømmene for fremtiden.</description>
+      <guid isPermaLink="false">l_155de8e5-a482-4497-a360-754fb67a2658</guid>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/155de8e5-a482-4497-a360-754fb67a2658_6259791f-19e7-4c5a-98cd-108a3e98c1f6_ID192MP3.mp3" type="audio/mpeg" length="60016364"></enclosure>
+      <itunes:title>Adrian Sellevoll: Dårlig selvtillit</itunes:title>
+      <itunes:summary>Adrian Sellevoll om dårlig selvtillit, livet etter at han ble edru og drømmene for fremtiden.</itunes:summary>
+      <itunes:duration>2500</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/j43RC5ues26NcC6rTuNdAwDX6UMIIXQT5RCvEVgXkrqQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Silya Nymoen: Fikk tilbake troen</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_ee61516e-d5de-43c4-b954-a579b2393369</link>

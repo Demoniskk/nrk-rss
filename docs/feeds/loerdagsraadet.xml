@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 12:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 15:05:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Foreldre er (bare) mennesker?</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_14c38d17-7459-4da1-a6d3-a017b7ce5727</link>
+      <description>Fin tilbakemelding fra Stefan, som vi prøvde å hjelpe i 2022</description>
+      <guid isPermaLink="false">l_14c38d17-7459-4da1-a6d3-a017b7ce5727</guid>
+      <pubDate>Wed, 04 Nov 2026 16:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/14c38d17-7459-4da1-a6d3-a017b7ce5727_62473f10-7176-4c34-843f-7335f97261ad_ID192MP3.mp3" type="audio/mpeg" length="27081836"></enclosure>
+      <itunes:title>Foreldre er (bare) mennesker?</itunes:title>
+      <itunes:summary>Fin tilbakemelding fra Stefan, som vi prøvde å hjelpe i 2022</itunes:summary>
+      <itunes:duration>1128</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YgOITIo41bXKhdJE4Dh5mQXVFYBKabZzMD5gEbT4CKtA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Arian Engebø / Jo Marstein / Cathrine Frost</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_ad17cabd-c345-4ea6-8cf6-44f4ef25debf</link>

@@ -6,7 +6,7 @@
     <description>Absolutt alt du kan undre deg over om språk! Jesper Nondal spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/spraakteigen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Språksnakk</title>
       <link>https://radio.nrk.no/podkast/spraakteigen</link>
     </image>
+    <item>
+      <title>Politisk tåkeprat</title>
+      <link>https://radio.nrk.no/podkast/spraakteigen/l_4977cfaa-2b64-4ed3-87fa-f962ebd10e36</link>
+      <description>Er vi griser når vi råner? Grisen har gitt oss mange uttrykk. Norsk er vanskelig å lære - bl.a. dette med o og å. Hva er mannskap?</description>
+      <guid isPermaLink="false">l_4977cfaa-2b64-4ed3-87fa-f962ebd10e36</guid>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/4977cfaa-2b64-4ed3-87fa-f962ebd10e36_46b84ebc-b4b9-4cab-b626-8b0041a23db1_ID192MP3.mp3" type="audio/mpeg" length="82430828"></enclosure>
+      <itunes:title>Politisk tåkeprat</itunes:title>
+      <itunes:summary>Er vi griser når vi råner? Grisen har gitt oss mange uttrykk. Norsk er vanskelig å lære - bl.a. dette med o og å. Hva er mannskap?</itunes:summary>
+      <itunes:duration>3434</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2TvOfsrDcr5auT3M1LgFigvBNIkGwBHcYHL4J_JYW50Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Trøndersk vegetarpølse</title>
       <link>https://radio.nrk.no/podkast/spraakteigen/l_17e78f7d-58b9-4ea6-a78f-7d58b97ea6e5</link>

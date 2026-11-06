@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Fanget av «764»: Fra internettsekt til terrorskole</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_2c0dc57a-449d-407a-8dc5-7a449d507a9a</link>
+      <description>Hvordan blir norske barn ned i 10-årsalderen tvunget til å begå ekstrem vold?</description>
+      <guid isPermaLink="false">l_2c0dc57a-449d-407a-8dc5-7a449d507a9a</guid>
+      <pubDate>Fri, 06 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/2c0dc57a-449d-407a-8dc5-7a449d507a9a_b23b0164-8acb-48b1-8253-bd59171c7fef_ID192MP3.mp3" type="audio/mpeg" length="28199276"></enclosure>
+      <itunes:title>Fanget av «764»: Fra internettsekt til terrorskole</itunes:title>
+      <itunes:summary>Hvordan blir norske barn ned i 10-årsalderen tvunget til å begå ekstrem vold?</itunes:summary>
+      <itunes:duration>1174</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/7d_mZTReGkS2ybxKla3InQUto1Orr7BWGlAZmIYBXrsw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Maxxing-skandalen: Inspirert av to helsearbeidere?</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_e938040a-9670-4cd4-b08f-9397fa06723d</link>

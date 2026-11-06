@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Simen Velle hevder demonstrasjoner ikke har noen politisk effekt</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_484f5113-1275-4e25-830a-df20f1acc5b3</link>
+      <description>Simen Velle sa i podkasten Vass &amp; Knepp Show at demonstrasjoner bare er tull og en billig snarvei til politisk påvirkning.&#xA;– En fornærmelse mot demokratiet, hevder MDGs Frøya Skjold Sjursæter.</description>
+      <guid isPermaLink="false">l_484f5113-1275-4e25-830a-df20f1acc5b3</guid>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/484f5113-1275-4e25-830a-df20f1acc5b3_84a51ff6-8b10-4541-8189-1f2b73193e7d_ID192MP3.mp3" type="audio/mpeg" length="21339692"></enclosure>
+      <itunes:title>Simen Velle hevder demonstrasjoner ikke har noen politisk effekt</itunes:title>
+      <itunes:summary>Simen Velle sa i podkasten Vass &amp; Knepp Show at demonstrasjoner bare er tull og en billig snarvei til politisk påvirkning.&#xA;– En fornærmelse mot demokratiet, hevder MDGs Frøya Skjold Sjursæter.</itunes:summary>
+      <itunes:duration>889</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/0Dn8B2-GFY3OsuLdlubXbw1avhDzgDTIo63Vg3goY-ww"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Mer i lomma til folk flest</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_cf2496ed-1519-4ff4-8bd2-c545199c04b6</link>

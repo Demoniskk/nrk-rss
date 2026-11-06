@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Ernas strenge side</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_b5ee680b-c6ae-4114-984f-ff7836ead09e</link>
+      <description>Er konflikten mellom Erna Solberg og Sylvi Listhaug politikerversjonen av en konflikt mellom to rappere? Vi tester om Ernas sitater funker som raptekst.</description>
+      <guid isPermaLink="false">l_b5ee680b-c6ae-4114-984f-ff7836ead09e</guid>
+      <pubDate>Fri, 06 Nov 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b5ee680b-c6ae-4114-984f-ff7836ead09e_8b90c7b3-644b-4574-9394-4fe6a1c33385_ID192MP3.mp3" type="audio/mpeg" length="62083628"></enclosure>
+      <itunes:title>Ernas strenge side</itunes:title>
+      <itunes:summary>Er konflikten mellom Erna Solberg og Sylvi Listhaug politikerversjonen av en konflikt mellom to rappere? Vi tester om Ernas sitater funker som raptekst.</itunes:summary>
+      <itunes:duration>2586</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rDAQRnHgbhyQSKZ6yOBv7g1MerUgjYU3unKi5vsRLvrw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Aslak Maurstads nye catchphrase</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_f3c77f2b-e8a6-48d8-838d-6cb2b36331c6</link>

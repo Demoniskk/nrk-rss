@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 03 Nov 2026 16:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:23:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>JD Vance med Trump-oppgjør: Hvem får skylda?</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_133f1192-5610-4217-b0bd-59752ad8ae22</link>
+      <description>Visepresident JD Vance distanserer seg nå fra Donald Trump. Kampen om presidentvalget 2028 er i full sving. Blir det borgerkrig i partiet?</description>
+      <guid isPermaLink="false">l_133f1192-5610-4217-b0bd-59752ad8ae22</guid>
+      <pubDate>Thu, 05 Nov 2026 17:23:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/133f1192-5610-4217-b0bd-59752ad8ae22_fd835940-8032-46bf-b976-2f0bb4d09cc2_ID192MP3.mp3" type="audio/mpeg" length="42167276"></enclosure>
+      <itunes:title>JD Vance med Trump-oppgjør: Hvem får skylda?</itunes:title>
+      <itunes:summary>Visepresident JD Vance distanserer seg nå fra Donald Trump. Kampen om presidentvalget 2028 er i full sving. Blir det borgerkrig i partiet?</itunes:summary>
+      <itunes:duration>1756</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NOJ0RJG0_6cnIE0eeTOiYAxAcxJ7hUSzEJbYxdoFZvWA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Donald Trump: Korrupt pengemaskin eller president?</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_c2cb2433-76c9-424c-95ee-48aec51436fe</link>

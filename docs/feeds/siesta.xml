@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Hvem er best i å snakke simsk</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_3be737cf-ee8a-4a20-b876-6c5c93201cd5</link>
+      <description>Hvem er best til å snakke simsk, Kristiansund mangler julelys og hvem tømmer oppvaskmaskin-filteret? </description>
+      <guid isPermaLink="false">l_3be737cf-ee8a-4a20-b876-6c5c93201cd5</guid>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3be737cf-ee8a-4a20-b876-6c5c93201cd5_d479146a-c23c-4a6f-b414-c4d02f62b6f3_ID192MP3.mp3" type="audio/mpeg" length="60985196"></enclosure>
+      <itunes:title>Hvem er best i å snakke simsk</itunes:title>
+      <itunes:summary>Hvem er best til å snakke simsk, Kristiansund mangler julelys og hvem tømmer oppvaskmaskin-filteret? </itunes:summary>
+      <itunes:duration>2540</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Finn Glede debriefer valget</title>
       <link>https://radio.nrk.no/podkast/siesta/l_992dade9-c40a-4354-894c-e50b49f8cd55</link>

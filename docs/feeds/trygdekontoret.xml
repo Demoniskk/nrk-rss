@@ -6,7 +6,7 @@
     <description>Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Trygdekontoret</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret</link>
     </image>
+    <item>
+      <title>Bråktober: MAGA-plask</title>
+      <link>https://radio.nrk.no/podkast/trygdekontoret/l_78f0c729-9792-460a-a605-fef90edfc86b</link>
+      <description>Har vi sett starten på slutten for MAGA?  Og hva skal demokratene egentlig gjøre med makta de nå har fått? Vi oppsummerer det historiske mellomvalget!</description>
+      <guid isPermaLink="false">l_78f0c729-9792-460a-a605-fef90edfc86b</guid>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/78f0c729-9792-460a-a605-fef90edfc86b_19d55e73-ea14-41b1-87e3-80b34fa343a5_ID192MP3.mp3" type="audio/mpeg" length="51117164"></enclosure>
+      <itunes:title>Bråktober: MAGA-plask</itunes:title>
+      <itunes:summary>Har vi sett starten på slutten for MAGA?  Og hva skal demokratene egentlig gjøre med makta de nå har fått? Vi oppsummerer det historiske mellomvalget!</itunes:summary>
+      <itunes:duration>2129</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/I9yY33lJjyDDziljpcvhXwUC-uP_TVu7vVXyxPlbcbQA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Bråktober: Kulturkrigen</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret/l_d614f970-8ba9-41f7-baae-467c4cc966d1</link>

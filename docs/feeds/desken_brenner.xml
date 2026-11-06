@@ -6,7 +6,7 @@
     <description>Alt kan skje og ingen er trygge når fire komikere oppsummerer uka!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/desken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Desken brenner</title>
       <link>https://radio.nrk.no/podkast/desken_brenner</link>
     </image>
+    <item>
+      <title>Ingen elsker Rasmus</title>
+      <link>https://radio.nrk.no/podkast/desken_brenner/l_c0cde5d8-1bb3-465d-9a48-17cff1daebd0</link>
+      <description>En dansk komiker har blitt lurt. Et amerikansk mellomvalg har blitt gjennomført. En nordmann har vunnet VM i jeans.</description>
+      <guid isPermaLink="false">l_c0cde5d8-1bb3-465d-9a48-17cff1daebd0</guid>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/c0cde5d8-1bb3-465d-9a48-17cff1daebd0_3ecd320b-8547-4761-afe7-c330379bbe18_ID192MP3.mp3" type="audio/mpeg" length="64001132"></enclosure>
+      <itunes:title>Ingen elsker Rasmus</itunes:title>
+      <itunes:summary>En dansk komiker har blitt lurt. Et amerikansk mellomvalg har blitt gjennomført. En nordmann har vunnet VM i jeans.</itunes:summary>
+      <itunes:duration>2666</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Vive la generell politisk misnøye!</title>
       <link>https://radio.nrk.no/podkast/desken_brenner/l_43fbac1d-da9f-4c0b-a006-0daf8944c1ce</link>

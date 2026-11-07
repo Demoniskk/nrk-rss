@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Anna intervjuer Ole Soo </title>
+      <link>https://radio.nrk.no/podkast/siesta/l_8b318a64-4dc0-4b38-8876-eef9830500a1</link>
+      <description>Det blir en ny runde av halloquizvang, hva betyr egentlig piloereksjon og hvordan blir Annas intervju av Ole Soo?</description>
+      <guid isPermaLink="false">l_8b318a64-4dc0-4b38-8876-eef9830500a1</guid>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/8b318a64-4dc0-4b38-8876-eef9830500a1_937c969f-5ff4-4ed6-b532-4d8d8003db66_ID192MP3.mp3" type="audio/mpeg" length="61782380"></enclosure>
+      <itunes:title>Anna intervjuer Ole Soo </itunes:title>
+      <itunes:summary>Det blir en ny runde av halloquizvang, hva betyr egentlig piloereksjon og hvordan blir Annas intervju av Ole Soo?</itunes:summary>
+      <itunes:duration>2574</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/kIykTWcaj4vZcDNxtcVs7gM-r8-MREwNNbreOq9pxZYQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Hvem er best i å snakke simsk</title>
       <link>https://radio.nrk.no/podkast/siesta/l_3be737cf-ee8a-4a20-b876-6c5c93201cd5</link>

@@ -6,7 +6,7 @@
     <description>Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/norsken_svensken_og_dansken.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Norsken, svensken og dansken</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken</link>
     </image>
+    <item>
+      <title>Absolut svensk</title>
+      <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_3f5414a3-37ac-4638-bf53-1d6743296972</link>
+      <description>Episodebeskrivelse: Sverigedemokraterna i «borgerkrig» om hvem som er svensk, TV2 Danmark anklages for moralsk kollaps, og har statlig ansatte ytringsfrihet?</description>
+      <guid isPermaLink="false">l_3f5414a3-37ac-4638-bf53-1d6743296972</guid>
+      <pubDate>Sat, 07 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/3f5414a3-37ac-4638-bf53-1d6743296972_1013f3e7-d7c9-49f9-8947-f33c88d189ef_ID192MP3.mp3" type="audio/mpeg" length="82162412"></enclosure>
+      <itunes:title>Absolut svensk</itunes:title>
+      <itunes:summary>Episodebeskrivelse: Sverigedemokraterna i «borgerkrig» om hvem som er svensk, TV2 Danmark anklages for moralsk kollaps, og har statlig ansatte ytringsfrihet?</itunes:summary>
+      <itunes:duration>3423</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Idyllen sprekker</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_a708fdfd-4c35-429d-a251-feb0932db04e</link>

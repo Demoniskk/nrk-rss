@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title> Er vi mennesker eller koder?</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_dab75334-8d77-4838-877c-097d9d15b008</link>
+      <description> Simuleringstargumentet er underlig innflytelsesrikt.&#xA;Særlig liker tech-eliten teorien. Men hvorfor det?</description>
+      <guid isPermaLink="false">l_dab75334-8d77-4838-877c-097d9d15b008</guid>
+      <pubDate>Fri, 06 Nov 2026 13:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/dab75334-8d77-4838-877c-097d9d15b008_c01389b0-1c97-41a8-b91d-e9c98839ef05_ID192MP3.mp3" type="audio/mpeg" length="66635180"></enclosure>
+      <itunes:title> Er vi mennesker eller koder?</itunes:title>
+      <itunes:summary> Simuleringstargumentet er underlig innflytelsesrikt.&#xA;Særlig liker tech-eliten teorien. Men hvorfor det?</itunes:summary>
+      <itunes:duration>2776</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Putin - et førmoderne menneske</title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_194cfe36-a77c-4123-bd03-fbf41de85715</link>

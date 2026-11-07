@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 03 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Boktober, eksen har fått dame og julepynt</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_85bc43db-bf52-417f-a175-a69f19e68ff0</link>
+      <description>Baksnakk sin boktober er ferdig og trioen har mye å melde om boka. &#xA;&#xA;Send oss spørsmål i NRK Radio</description>
+      <guid isPermaLink="false">l_85bc43db-bf52-417f-a175-a69f19e68ff0</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/85bc43db-bf52-417f-a175-a69f19e68ff0_1c93e0c4-abe8-4f28-ade9-838269d56ada_ID192MP3.mp3" type="audio/mpeg" length="83738348"></enclosure>
+      <itunes:title>Boktober, eksen har fått dame og julepynt</itunes:title>
+      <itunes:summary>Baksnakk sin boktober er ferdig og trioen har mye å melde om boka. &#xA;&#xA;Send oss spørsmål i NRK Radio</itunes:summary>
+      <itunes:duration>3489</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Julefinger, keratinbehandling og stein i skoen</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_022bf4e9-06ec-4f25-afdf-f55202cde65f</link>

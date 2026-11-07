@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Uro på verdens børser</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_a6f05ccc-9032-4221-bd41-d1360a84ee2a</link>
+      <description>Frykt for at KI-fall og demokratenes valgseier i USA har skapt uro og usikkerhet på verdens børser. Også vårt eget oljefond har falt med 1500 milliarder siden i sommer.</description>
+      <guid isPermaLink="false">l_a6f05ccc-9032-4221-bd41-d1360a84ee2a</guid>
+      <pubDate>Fri, 06 Nov 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a6f05ccc-9032-4221-bd41-d1360a84ee2a_e8dd583d-cab6-4cb5-a97f-e78a8c3e98b2_ID192MP3.mp3" type="audio/mpeg" length="85039532"></enclosure>
+      <itunes:title>Uro på verdens børser</itunes:title>
+      <itunes:summary>Frykt for at KI-fall og demokratenes valgseier i USA har skapt uro og usikkerhet på verdens børser. Også vårt eget oljefond har falt med 1500 milliarder siden i sommer.</itunes:summary>
+      <itunes:duration>3543</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ofUCbpqgSq13FD6DH_8MlAmdDyvXSmilCTyeY_inv7pQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Erna Solbergs nye bok:</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_b354eb15-70b9-43fb-a872-c5003d41d1b9</link>

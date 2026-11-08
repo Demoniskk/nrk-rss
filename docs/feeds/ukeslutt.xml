@@ -6,7 +6,7 @@
     <description>Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 13:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 13:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ukeslutt</title>
       <link>https://radio.nrk.no/podkast/ukeslutt</link>
     </image>
+    <item>
+      <title>Når spøken dras for langt</title>
+      <link>https://radio.nrk.no/podkast/ukeslutt/l_0a4c626d-94b2-4e42-9de6-00a300c7dfda</link>
+      <description>Tidenes medieskandale ryster Danmark. Det som skulle være humor, blir nå kalt psykisk terror og mobbing.</description>
+      <guid isPermaLink="false">l_0a4c626d-94b2-4e42-9de6-00a300c7dfda</guid>
+      <pubDate>Sat, 07 Nov 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/0a4c626d-94b2-4e42-9de6-00a300c7dfda_1f114766-8fff-4ee1-bddc-76334396a12d_ID192MP3.mp3" type="audio/mpeg" length="89282924"></enclosure>
+      <itunes:title>Når spøken dras for langt</itunes:title>
+      <itunes:summary>Tidenes medieskandale ryster Danmark. Det som skulle være humor, blir nå kalt psykisk terror og mobbing.</itunes:summary>
+      <itunes:duration>3720</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hWo8xJB-waTmu6og0kEihQZyXY1fbI4kv4ltOnkBATrQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Korleis blei Halloween norsk?</title>
       <link>https://radio.nrk.no/podkast/ukeslutt/l_741cfd6e-7d60-4a8b-b58d-7d999edce89f</link>

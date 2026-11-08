@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Panelet: Herpes og 40-årsdag</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_6efd07d2-237f-40c7-a33f-3e8ee59d6516</link>
+      <description>Bursdag i Panelet! De feirer med å diskutere: Bør man egentlig lage julekalender til kjæresten, og må man si ifra at man har herpes?</description>
+      <guid isPermaLink="false">l_6efd07d2-237f-40c7-a33f-3e8ee59d6516</guid>
+      <pubDate>Sun, 08 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/6efd07d2-237f-40c7-a33f-3e8ee59d6516_6b1c986a-91f8-432a-bedb-e0c983fbfb7b_ID192MP3.mp3" type="audio/mpeg" length="63259820"></enclosure>
+      <itunes:title>Panelet: Herpes og 40-årsdag</itunes:title>
+      <itunes:summary>Bursdag i Panelet! De feirer med å diskutere: Bør man egentlig lage julekalender til kjæresten, og må man si ifra at man har herpes?</itunes:summary>
+      <itunes:duration>2635</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yJWGnGgnz8jzvPiGxbqKuQ_PjVBl4VqtDjjmQwLlbNQw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Adrian Sellevoll: Dårlig selvtillit</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_155de8e5-a482-4497-a360-754fb67a2658</link>

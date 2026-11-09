@@ -6,7 +6,7 @@
     <description>Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Trygdekontoret</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret</link>
     </image>
+    <item>
+      <title>En amerikansk overgrepshistorie</title>
+      <link>https://radio.nrk.no/podkast/trygdekontoret/l_3e9be1af-4f93-4d79-a153-0d93e0555e94</link>
+      <description>Da marinesoldaten Anneke åpnet døren, sto en rasende kollega foran henne. Så begynte et 18 måneders langt mareritt. </description>
+      <guid isPermaLink="false">l_3e9be1af-4f93-4d79-a153-0d93e0555e94</guid>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/3e9be1af-4f93-4d79-a153-0d93e0555e94_e21865c9-5e96-4d4f-a66f-7d2bc4195fc8_ID192MP3.mp3" type="audio/mpeg" length="68454188"></enclosure>
+      <itunes:title>En amerikansk overgrepshistorie</itunes:title>
+      <itunes:summary>Da marinesoldaten Anneke åpnet døren, sto en rasende kollega foran henne. Så begynte et 18 måneders langt mareritt. </itunes:summary>
+      <itunes:duration>2852</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/b3_m43wGX6T_xX2kbLB6sA7IJwjOO04deGOs_6L5p8lg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Bråktober: MAGA-plask</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret/l_78f0c729-9792-460a-a605-fef90edfc86b</link>

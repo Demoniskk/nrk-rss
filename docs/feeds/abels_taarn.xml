@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Demokrati er en umulighet</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_0258e404-5a58-424c-861d-fc0cbf6f0905</link>
+      <description>Formelen går ikke opp. Dessuten, Hitlers DNA er analysert, og Van Goghs &#34;Stjernenatt&#34;&#xA;</description>
+      <guid isPermaLink="false">l_0258e404-5a58-424c-861d-fc0cbf6f0905</guid>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/0258e404-5a58-424c-861d-fc0cbf6f0905_f9cc13c5-cce9-4f42-8577-ae7106c15fc3_ID192MP3.mp3" type="audio/mpeg" length="45063980"></enclosure>
+      <itunes:title>Demokrati er en umulighet</itunes:title>
+      <itunes:summary>Formelen går ikke opp. Dessuten, Hitlers DNA er analysert, og Van Goghs &#34;Stjernenatt&#34;&#xA;</itunes:summary>
+      <itunes:duration>1877</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Kan straffespark drepe?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_15830a5b-73d1-416c-a9c8-153f4fd5e3fa</link>

@@ -6,7 +6,7 @@
     <description>En tenketank for folk med lav intelligens.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baade_erlend_og_steinar_.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Både Erlend og Steinar </title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_</link>
     </image>
+    <item>
+      <title>Må døden på død og liv være lik?</title>
+      <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_7429d103-606a-45a3-a9dc-d0f5abbd620c</link>
+      <description>Hva er det råeste en mann kan oppleve? Bør vi fjerne pensjon fullstendig? Og er folk interessert i et hull til jordas indre på Alnabru?</description>
+      <guid isPermaLink="false">l_7429d103-606a-45a3-a9dc-d0f5abbd620c</guid>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baade_erlend_og_steinar_/7429d103-606a-45a3-a9dc-d0f5abbd620c_17751f53-5c76-46a7-837d-b1f7e55b25c1_ID192MP3.mp3" type="audio/mpeg" length="88908524"></enclosure>
+      <itunes:title>Må døden på død og liv være lik?</itunes:title>
+      <itunes:summary>Hva er det råeste en mann kan oppleve? Bør vi fjerne pensjon fullstendig? Og er folk interessert i et hull til jordas indre på Alnabru?</itunes:summary>
+      <itunes:duration>3704</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/3WxYncwSqVxuY0BpYXabVg5x2SPyAoBqor20gUhn3UEA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Helt robot</title>
       <link>https://radio.nrk.no/podkast/baade_erlend_og_steinar_/l_3e4292de-130a-481c-a314-0dc80e72813e</link>

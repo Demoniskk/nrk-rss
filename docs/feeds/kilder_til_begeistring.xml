@@ -6,7 +6,7 @@
     <description>Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kilder_til_begeistring.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kilder til begeistring</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring</link>
     </image>
+    <item>
+      <title>Vott</title>
+      <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_b8858661-9e24-43e1-9ae5-1ebbbd431f23</link>
+      <description>Mens du står og venter skjer det noe. Nå ligger det en enslig vott på bakken.</description>
+      <guid isPermaLink="false">l_b8858661-9e24-43e1-9ae5-1ebbbd431f23</guid>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kilder_til_begeistring/b8858661-9e24-43e1-9ae5-1ebbbd431f23_bd496f9c-e20b-47d9-9e67-1fb74326c65f_ID192MP3.mp3" type="audio/mpeg" length="2900204"></enclosure>
+      <itunes:title>Vott</itunes:title>
+      <itunes:summary>Mens du står og venter skjer det noe. Nå ligger det en enslig vott på bakken.</itunes:summary>
+      <itunes:duration>120</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/HeA-WrhMaUCVYBXGwmWkKQSAlLGsIYBmzqHrYYG1CCzg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Pistasjnøtt</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_d17fe6c9-d22a-4be0-9f40-76a35ef76cdb</link>

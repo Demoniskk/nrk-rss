@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Et karakterdrap fra Erna Solberg?</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_80644503-1975-4749-9f9d-7b99e8fcb77d</link>
+      <description>Sylvi Listhaug får passet påskrevet i Erna Solbergs nye bok. Hvordan skal det gå med den borgerlige samlingen Solberg alltid har ønsket seg?  </description>
+      <guid isPermaLink="false">l_80644503-1975-4749-9f9d-7b99e8fcb77d</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/80644503-1975-4749-9f9d-7b99e8fcb77d_c08c0180-c1f6-47d6-90bc-16cf093445c9_ID192MP3.mp3" type="audio/mpeg" length="21869036"></enclosure>
+      <itunes:title>Et karakterdrap fra Erna Solberg?</itunes:title>
+      <itunes:summary>Sylvi Listhaug får passet påskrevet i Erna Solbergs nye bok. Hvordan skal det gå med den borgerlige samlingen Solberg alltid har ønsket seg?  </itunes:summary>
+      <itunes:duration>911</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/41AntrtpwnaTGYlwj0p-9A2Wg28W_3XZPaB-eXn3mG8g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Simen Velle hevder demonstrasjoner ikke har noen politisk effekt</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_484f5113-1275-4e25-830a-df20f1acc5b3</link>

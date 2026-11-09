@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 16:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:33:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Endelig landslagsfotball igjen!</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_d597ce35-173d-489a-9279-4ad8c4db1112</link>
+      <description>Blir det revansje mot Wales og hvem vinner &#34;slaget&#34; om Skandinavia i København?&#xA;I løpet av en drøy uke har vi svaret. Hvor selvsikre kan Norge være etter tre strake tap?</description>
+      <guid isPermaLink="false">l_d597ce35-173d-489a-9279-4ad8c4db1112</guid>
+      <pubDate>Mon, 09 Nov 2026 12:33:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/d597ce35-173d-489a-9279-4ad8c4db1112_bcfaae09-e7e7-44e6-a10c-84a5b03b17e6_ID192MP3.mp3" type="audio/mpeg" length="50963372"></enclosure>
+      <itunes:title>Endelig landslagsfotball igjen!</itunes:title>
+      <itunes:summary>Blir det revansje mot Wales og hvem vinner &#34;slaget&#34; om Skandinavia i København?&#xA;I løpet av en drøy uke har vi svaret. Hvor selvsikre kan Norge være etter tre strake tap?</itunes:summary>
+      <itunes:duration>2123</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Dette syns vi om Norges tropp</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_7696bd7e-90f2-45ae-9ae8-3c6e8504df14</link>

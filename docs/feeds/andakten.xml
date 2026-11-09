@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Kontrakten - Leif I. Skaug</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_31c3e249-50ff-4b98-a525-a9894102d38f</link>
+      <description>Himmelens og verdensrommets uendelighet kan både skremme og fascinere oss. Slik er det også med Leif Ingvald Skaug.</description>
+      <guid isPermaLink="false">l_31c3e249-50ff-4b98-a525-a9894102d38f</guid>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/31c3e249-50ff-4b98-a525-a9894102d38f_9c8d0171-55fa-4ddd-9f6e-6e980f529c8c_ID192MP3.mp3" type="audio/mpeg" length="5285420"></enclosure>
+      <itunes:title>Kontrakten - Leif I. Skaug</itunes:title>
+      <itunes:summary>Himmelens og verdensrommets uendelighet kan både skremme og fascinere oss. Slik er det også med Leif Ingvald Skaug.</itunes:summary>
+      <itunes:duration>220</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NycBkU-uF_DFejnPm_Pd4w_apF1KlbNYpG6YAwNm33Mg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Brevet - Ingrid Ivo Vatnar</title>
       <link>https://radio.nrk.no/podkast/andakten/l_54bcfa86-157a-458c-be6a-0d3fcf21e5a7</link>

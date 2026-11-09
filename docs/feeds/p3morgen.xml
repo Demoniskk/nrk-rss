@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Peder Elias mener du kan hysje på konsert</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_b50620ff-a2b5-4365-abf4-6f3713f4474d</link>
+      <description>Hvor høyt kan man synge på konsert? Skal man synge for full hals under en vakker ballade også? Vi spør en av Norges største musikkeksporter; Peder Elias!</description>
+      <guid isPermaLink="false">l_b50620ff-a2b5-4365-abf4-6f3713f4474d</guid>
+      <pubDate>Mon, 09 Nov 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/b50620ff-a2b5-4365-abf4-6f3713f4474d_353446c5-201e-4baf-8d0f-9d535aabb83c_ID192MP3.mp3" type="audio/mpeg" length="62217836"></enclosure>
+      <itunes:title>Peder Elias mener du kan hysje på konsert</itunes:title>
+      <itunes:summary>Hvor høyt kan man synge på konsert? Skal man synge for full hals under en vakker ballade også? Vi spør en av Norges største musikkeksporter; Peder Elias!</itunes:summary>
+      <itunes:duration>2592</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BuRtaJ5H_5yOQHiOW57XDgGmtlAIB8fYFBsWh4dC3JJw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Ernas strenge side</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_b5ee680b-c6ae-4114-984f-ff7836ead09e</link>

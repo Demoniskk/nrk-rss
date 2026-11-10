@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Vil Putin ha fred?</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_2c5883a1-cfb2-4ec5-9fff-c1299bf0bdbb</link>
+      <description>I dag er det fredsforhandlinger i Abu Dhabi.&#xA;Og hvor mye bør Norge gi til Ukraina?</description>
+      <guid isPermaLink="false">l_2c5883a1-cfb2-4ec5-9fff-c1299bf0bdbb</guid>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/2c5883a1-cfb2-4ec5-9fff-c1299bf0bdbb_d7e35c9c-20d8-4c83-ba8a-cec7261176e8_ID192MP3.mp3" type="audio/mpeg" length="21836780"></enclosure>
+      <itunes:title>Vil Putin ha fred?</itunes:title>
+      <itunes:summary>I dag er det fredsforhandlinger i Abu Dhabi.&#xA;Og hvor mye bør Norge gi til Ukraina?</itunes:summary>
+      <itunes:duration>909</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bfwMjuzVwx1z5ap-fUJdxgTyXd5zdk4D0BEuNrFvOTpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Et karakterdrap fra Erna Solberg?</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_80644503-1975-4749-9f9d-7b99e8fcb77d</link>

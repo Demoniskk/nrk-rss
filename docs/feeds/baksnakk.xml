@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Stalking, innestemme og mensen i svømmehallen</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_5c04799f-bdfe-48d7-9dd0-a42101836b9d</link>
+      <description>Historiene kommer på løpende bånd når Milie og Sofie leker «Who’s Most Likely To».&#xA;&#xA;Send oss spørsmål i NRK Radio :)&#xA;</description>
+      <guid isPermaLink="false">l_5c04799f-bdfe-48d7-9dd0-a42101836b9d</guid>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/5c04799f-bdfe-48d7-9dd0-a42101836b9d_64b48eb0-3ebf-4dd3-b347-142e09a63c15_ID192MP3.mp3" type="audio/mpeg" length="73490732"></enclosure>
+      <itunes:title>Stalking, innestemme og mensen i svømmehallen</itunes:title>
+      <itunes:summary>Historiene kommer på løpende bånd når Milie og Sofie leker «Who’s Most Likely To».&#xA;&#xA;Send oss spørsmål i NRK Radio :)&#xA;</itunes:summary>
+      <itunes:duration>3062</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Boktober, eksen har fått dame og julepynt</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_85bc43db-bf52-417f-a175-a69f19e68ff0</link>

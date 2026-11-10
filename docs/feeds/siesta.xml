@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Kva er det motsette av nynorsk?</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_c78da2e9-dd44-4830-a1bd-8ff91a6fd805</link>
+      <description>Sofie Johansen er vikar for Daniel,  Markus spiser noe han hater og vi diskuterer nynorsk. </description>
+      <guid isPermaLink="false">l_c78da2e9-dd44-4830-a1bd-8ff91a6fd805</guid>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/c78da2e9-dd44-4830-a1bd-8ff91a6fd805_fcd3f18e-0f4b-4e97-8510-6c09a1a1aeb8_ID192MP3.mp3" type="audio/mpeg" length="66441068"></enclosure>
+      <itunes:title>Kva er det motsette av nynorsk?</itunes:title>
+      <itunes:summary>Sofie Johansen er vikar for Daniel,  Markus spiser noe han hater og vi diskuterer nynorsk. </itunes:summary>
+      <itunes:duration>2768</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Anna intervjuer Ole Soo </title>
       <link>https://radio.nrk.no/podkast/siesta/l_8b318a64-4dc0-4b38-8876-eef9830500a1</link>

@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 08 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Ragnhild Margrethe: Å kjempe for kjærligheten</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_e59d52b1-2444-49a1-92d9-fa8d150a91ad</link>
+      <description>Da hun møtte ektemannen, var timingen perfekt for henne, men helt feil for ham. Det tok flere år før de var på samme bølgelengde.</description>
+      <guid isPermaLink="false">l_e59d52b1-2444-49a1-92d9-fa8d150a91ad</guid>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/e59d52b1-2444-49a1-92d9-fa8d150a91ad_a8ab7e6d-8a5b-412f-aeac-0c867a42645f_ID192MP3.mp3" type="audio/mpeg" length="75019436"></enclosure>
+      <itunes:title>Ragnhild Margrethe: Å kjempe for kjærligheten</itunes:title>
+      <itunes:summary>Da hun møtte ektemannen, var timingen perfekt for henne, men helt feil for ham. Det tok flere år før de var på samme bølgelengde.</itunes:summary>
+      <itunes:duration>3125</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YxO0iCgYNvpEUZPqo7jj-gGQ5pNmwmkAkqqYbfUbsAUw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Panelet: Herpes og 40-årsdag</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_6efd07d2-237f-40c7-a33f-3e8ee59d6516</link>

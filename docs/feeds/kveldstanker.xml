@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Godhet - med Lena Lindahl</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_bae21162-0709-4d24-88ab-6351baaab6a5</link>
+      <description>Det er så mye ondskap rundt oss at vi fort kan glemme at det finnes mye godhet også, forteller forfatteren Lena Lindahl.</description>
+      <guid isPermaLink="false">l_bae21162-0709-4d24-88ab-6351baaab6a5</guid>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/bae21162-0709-4d24-88ab-6351baaab6a5_420b7409-e098-404b-8d7d-41e71f35a2e3_ID192MP3.mp3" type="audio/mpeg" length="4585580"></enclosure>
+      <itunes:title>Godhet - med Lena Lindahl</itunes:title>
+      <itunes:summary>Det er så mye ondskap rundt oss at vi fort kan glemme at det finnes mye godhet også, forteller forfatteren Lena Lindahl.</itunes:summary>
+      <itunes:duration>191</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZUzTnffMeIYeVXHPrezMyAIgRhMGO8XXqyTxIEpvuOxA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Tradwives - med Gunn Marit Nisja</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_a3ddb278-9482-453c-ae75-e1438e4b2d0a</link>

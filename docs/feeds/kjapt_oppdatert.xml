@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:01:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Rødt sier nei til «Sexy sosialister»</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_bb6d720a-bf9d-4872-a4f1-42057c634455</link>
+      <description>Og Donald Trump sier FBI skal etterforske Nvidia-sjef Jensen Huang.</description>
+      <guid isPermaLink="false">l_bb6d720a-bf9d-4872-a4f1-42057c634455</guid>
+      <pubDate>Tue, 10 Nov 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/bb6d720a-bf9d-4872-a4f1-42057c634455_3070c401-052c-4239-96b2-a5778506ad13_ID192MP3.mp3" type="audio/mpeg" length="9820268"></enclosure>
+      <itunes:title>Rødt sier nei til «Sexy sosialister»</itunes:title>
+      <itunes:summary>Og Donald Trump sier FBI skal etterforske Nvidia-sjef Jensen Huang.</itunes:summary>
+      <itunes:duration>409</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/u7FNLHoTBZyKjPPtl5PCRAju2d-lo_XcqArg1-JAHihQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Hedda og Solveig ble skutt mot under masseskyting i Krakow </title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_e43d7ebd-9f9e-4996-8d3f-4c6836758f56</link>

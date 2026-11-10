@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Abraham - Leif I. Skaug</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_b663ee59-b283-4a0f-baa9-9319a8cea397</link>
+      <description>Det ligger i den norske folkesjela, at man må jobbe for at man skal ha god samvittighet når man har fått noe eller oppnådd noe.</description>
+      <guid isPermaLink="false">l_b663ee59-b283-4a0f-baa9-9319a8cea397</guid>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/b663ee59-b283-4a0f-baa9-9319a8cea397_ea684b15-e0e1-4ef4-9bad-6ced49a74ccd_ID192MP3.mp3" type="audio/mpeg" length="5439788"></enclosure>
+      <itunes:title>Abraham - Leif I. Skaug</itunes:title>
+      <itunes:summary>Det ligger i den norske folkesjela, at man må jobbe for at man skal ha god samvittighet når man har fått noe eller oppnådd noe.</itunes:summary>
+      <itunes:duration>226</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NycBkU-uF_DFejnPm_Pd4w_apF1KlbNYpG6YAwNm33Mg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Kontrakten - Leif I. Skaug</title>
       <link>https://radio.nrk.no/podkast/andakten/l_31c3e249-50ff-4b98-a525-a9894102d38f</link>

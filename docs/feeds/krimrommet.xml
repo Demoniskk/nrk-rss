@@ -6,7 +6,7 @@
     <description>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Krimrommet</title>
       <link>https://radio.nrk.no/podkast/krimrommet</link>
     </image>
+    <item>
+      <title>Høiby (23): En mann på døra </title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_e18bfcdf-9099-4ab8-8f9d-32d4d097060b</link>
+      <description>Hvordan kunne en mann med trillekoffert komme seg inn i huset til Marius Borg Høiby? </description>
+      <guid isPermaLink="false">l_e18bfcdf-9099-4ab8-8f9d-32d4d097060b</guid>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/e18bfcdf-9099-4ab8-8f9d-32d4d097060b_b49b3f93-e36d-4caa-abed-94973af8425b_ID192MP3.mp3" type="audio/mpeg" length="47733740"></enclosure>
+      <itunes:title>Høiby (23): En mann på døra </itunes:title>
+      <itunes:summary>Hvordan kunne en mann med trillekoffert komme seg inn i huset til Marius Borg Høiby? </itunes:summary>
+      <itunes:duration>1988</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aTWidltKfPVB57NPIDdtiALYnofL6yXbC5ZYgX8sA4cA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Halloween-drapet: Flukten</title>
       <link>https://radio.nrk.no/podkast/krimrommet/l_86e78589-25f1-4ba0-9259-96d38c62ac25</link>

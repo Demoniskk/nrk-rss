@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 11:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 13:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Knut Høibraaten</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_e429b9aa-a1c6-43f5-a0f6-079037b0a713</link>
+      <description>&#xA;_ Bergenspatrioten jukset seg til fotballagent lisens.&#xA;</description>
+      <guid isPermaLink="false">l_e429b9aa-a1c6-43f5-a0f6-079037b0a713</guid>
+      <pubDate>Mon, 09 Nov 2026 14:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/e429b9aa-a1c6-43f5-a0f6-079037b0a713_ecb9c2ba-fe17-4542-80ac-45a05343a9f2_ID192MP3.mp3" type="audio/mpeg" length="82786220"></enclosure>
+      <itunes:title>Knut Høibraaten</itunes:title>
+      <itunes:summary>&#xA;_ Bergenspatrioten jukset seg til fotballagent lisens.&#xA;</itunes:summary>
+      <itunes:duration>3449</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lIvh7O1dXCbNiSScplh3Ig0KUgi17wWyQl9k4lNugVvg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Birgitte Lange</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_1c9b42f8-7ac0-4c09-b145-0d698cd8e5a4</link>

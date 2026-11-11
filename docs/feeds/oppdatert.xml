@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>«Alle» lurte Rasmus: TV-stuntet som ryster Danmark</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_8ba55a63-c079-48dd-9758-2471afad57a3</link>
+      <description>Slik ble skjult kamera til skandale. </description>
+      <guid isPermaLink="false">l_8ba55a63-c079-48dd-9758-2471afad57a3</guid>
+      <pubDate>Wed, 11 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/8ba55a63-c079-48dd-9758-2471afad57a3_34b19abb-88f4-41f2-aa0b-bc6ccb6e8279_ID192MP3.mp3" type="audio/mpeg" length="17662508"></enclosure>
+      <itunes:title>«Alle» lurte Rasmus: TV-stuntet som ryster Danmark</itunes:title>
+      <itunes:summary>Slik ble skjult kamera til skandale. </itunes:summary>
+      <itunes:duration>735</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yHAb5OENBlo0UUDfEOgSTAwStqWecnj0CGqd-zPLiXJQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Flybase-mysteriet: Utenlandsk angrep på England?</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_0008c267-a2f8-4a45-9724-48201e15829e</link>

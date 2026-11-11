@@ -6,7 +6,7 @@
     <description>Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lev_vel.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lev vel</title>
       <link>https://radio.nrk.no/podkast/lev_vel</link>
     </image>
+    <item>
+      <title>Hvordan være en god pårørende? (2:2)</title>
+      <link>https://radio.nrk.no/podkast/lev_vel/l_8ba212c8-1431-4439-b5e7-4aecb38b1371</link>
+      <description>Sykepleier Celine Haaland-Johansen om hvordan det var da pappaen hennes fikk demens, og om hvordan man kan være en god pårørende. </description>
+      <guid isPermaLink="false">l_8ba212c8-1431-4439-b5e7-4aecb38b1371</guid>
+      <pubDate>Wed, 11 Nov 2026 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/8ba212c8-1431-4439-b5e7-4aecb38b1371_bcf840f8-4837-469a-8b29-f5bb3cd20a0a_ID192MP3.mp3" type="audio/mpeg" length="65719340"></enclosure>
+      <itunes:title>Hvordan være en god pårørende? (2:2)</itunes:title>
+      <itunes:summary>Sykepleier Celine Haaland-Johansen om hvordan det var da pappaen hennes fikk demens, og om hvordan man kan være en god pårørende. </itunes:summary>
+      <itunes:duration>2738</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jfu8sSe8SMo3PXHHjDZp4wtRLak8CEf7q1G1LKz94A_Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Fertilitet: Når er det for sent? </title>
       <link>https://radio.nrk.no/podkast/lev_vel/l_d708ffeb-6f40-41b4-b68f-12c05a402d30</link>

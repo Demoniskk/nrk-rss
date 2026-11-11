@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 05:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Forhandlingene mellom Russland og Ukraina fortsetter</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_503806f1-5445-499e-bb82-352818ad8c8d</link>
+      <description>Og i dag avgjøres skjebnen til Manchester Uniteds manager.</description>
+      <guid isPermaLink="false">l_503806f1-5445-499e-bb82-352818ad8c8d</guid>
+      <pubDate>Wed, 11 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/503806f1-5445-499e-bb82-352818ad8c8d_ce47305d-02e4-4296-a2d3-ee832dde739a_ID192MP3.mp3" type="audio/mpeg" length="9523628"></enclosure>
+      <itunes:title>Forhandlingene mellom Russland og Ukraina fortsetter</itunes:title>
+      <itunes:summary>Og i dag avgjøres skjebnen til Manchester Uniteds manager.</itunes:summary>
+      <itunes:duration>396</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/hsneNdAX6t-SNj_ii-gHaQkFgS3jdd2yW0q3tmc3aBTA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Rødt sier nei til «Sexy sosialister»</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_bb6d720a-bf9d-4872-a4f1-42057c634455</link>

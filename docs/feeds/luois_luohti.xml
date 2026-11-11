@@ -6,7 +6,7 @@
     <description>Luohti sáhttá govvidit ráhkesvuođa, muhto maiddái unohisvuođaid. Dás guorahallabage luđiid, maiddái olbmuiguin geain leat muitalusat ja vásáhusat.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/luois_luohti.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Luođis luohtái</title>
       <link>https://radio.nrk.no/podkast/luois_luohti</link>
     </image>
+    <item>
+      <title>Luohteárdna Porsáŋggus</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_bf712b91-30da-4ae7-87a1-2ea594090a1a</link>
+      <description>Lossa bargu, guolásteapmi ja rikkis giella. Ingá Elisá čalmmustahttá Porsáŋggu lávlagiid ja luđiid, mat seilo dáruiduhttimis.</description>
+      <guid isPermaLink="false">l_bf712b91-30da-4ae7-87a1-2ea594090a1a</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/bf712b91-30da-4ae7-87a1-2ea594090a1a_fa70b424-cba2-4277-b047-5ab0bf4b53f2_ID192MP3.mp3" type="audio/mpeg" length="67030316"></enclosure>
+      <itunes:title>Luohteárdna Porsáŋggus</itunes:title>
+      <itunes:summary>Lossa bargu, guolásteapmi ja rikkis giella. Ingá Elisá čalmmustahttá Porsáŋggu lávlagiid ja luđiid, mat seilo dáruiduhttimis.</itunes:summary>
+      <itunes:duration>2792</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Luođit mat rasttildit rájiid</title>
       <link>https://radio.nrk.no/podkast/luois_luohti/l_62b17b9f-f600-4b72-8058-9f62f117a857</link>

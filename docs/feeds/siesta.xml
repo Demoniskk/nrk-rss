@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Kald middag er ekkelt </title>
+      <link>https://radio.nrk.no/podkast/siesta/l_fdd23a66-c5f4-492a-bc29-634e9b4bc523</link>
+      <description>Markus spiser tydeligvis kald lasagne, Anna holder to taler i dag og sammen diskuterer vi sjokoladepudding. </description>
+      <guid isPermaLink="false">l_fdd23a66-c5f4-492a-bc29-634e9b4bc523</guid>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/fdd23a66-c5f4-492a-bc29-634e9b4bc523_95f82448-34c8-4302-aece-6ff12c161183_ID192MP3.mp3" type="audio/mpeg" length="59203628"></enclosure>
+      <itunes:title>Kald middag er ekkelt </itunes:title>
+      <itunes:summary>Markus spiser tydeligvis kald lasagne, Anna holder to taler i dag og sammen diskuterer vi sjokoladepudding. </itunes:summary>
+      <itunes:duration>2466</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Kva er det motsette av nynorsk?</title>
       <link>https://radio.nrk.no/podkast/siesta/l_c78da2e9-dd44-4830-a1bd-8ff91a6fd805</link>

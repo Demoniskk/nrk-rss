@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Vi konfronterer Flytoget</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_66adff93-f7a5-457a-898b-1df465fc996f</link>
+      <description>Gamle CD-er og spill kan være verdt en formue! Er du egentlig klar over hva du har liggende hjemme? Vi sjekker ut dine gamle skatter!</description>
+      <guid isPermaLink="false">l_66adff93-f7a5-457a-898b-1df465fc996f</guid>
+      <pubDate>Wed, 11 Nov 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/66adff93-f7a5-457a-898b-1df465fc996f_2af0287e-cd09-461a-bb36-dea4fcd5154b_ID192MP3.mp3" type="audio/mpeg" length="60317612"></enclosure>
+      <itunes:title>Vi konfronterer Flytoget</itunes:title>
+      <itunes:summary>Gamle CD-er og spill kan være verdt en formue! Er du egentlig klar over hva du har liggende hjemme? Vi sjekker ut dine gamle skatter!</itunes:summary>
+      <itunes:duration>2513</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rDAQRnHgbhyQSKZ6yOBv7g1MerUgjYU3unKi5vsRLvrw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Det er kjempelett å hacke en fryser!</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_07344982-98f7-4b91-a6f7-f30df7361463</link>

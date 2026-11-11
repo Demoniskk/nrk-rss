@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>– Shortskings er litt psykopater</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_c8cb963b-cf2f-4ad0-bd87-976f1001e88c</link>
+      <description>Tara sin sosiolekt har endret seg, med et snev av fylleangst. Rinnan var ikke bare en landsforræder, han var også utro, dobbelt svik!</description>
+      <guid isPermaLink="false">l_c8cb963b-cf2f-4ad0-bd87-976f1001e88c</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/c8cb963b-cf2f-4ad0-bd87-976f1001e88c_38f25410-f140-45f8-9de1-6634d6a8f911_ID192MP3.mp3" type="audio/mpeg" length="54306476"></enclosure>
+      <itunes:title>– Shortskings er litt psykopater</itunes:title>
+      <itunes:summary>Tara sin sosiolekt har endret seg, med et snev av fylleangst. Rinnan var ikke bare en landsforræder, han var også utro, dobbelt svik!</itunes:summary>
+      <itunes:duration>2262</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Mus i hus</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_01dbed29-e596-441c-98af-c430fba0f45e</link>

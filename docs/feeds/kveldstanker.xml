@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Puls - med  Elin Sofye Rabbevåg</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_35fbcd23-6218-4251-958d-f6cde71f5749</link>
+      <description>Musikk er pulsen vår, det er liv og felleskap, forteller musiker og musikkpedagog Elin Sofye Rabbevåg</description>
+      <guid isPermaLink="false">l_35fbcd23-6218-4251-958d-f6cde71f5749</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/35fbcd23-6218-4251-958d-f6cde71f5749_f17ade8e-a6b6-44ff-89d9-999672b47f9b_ID192MP3.mp3" type="audio/mpeg" length="4400684"></enclosure>
+      <itunes:title>Puls - med  Elin Sofye Rabbevåg</itunes:title>
+      <itunes:summary>Musikk er pulsen vår, det er liv og felleskap, forteller musiker og musikkpedagog Elin Sofye Rabbevåg</itunes:summary>
+      <itunes:duration>183</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/u4DEViXCzqxv1l8mOqXoDA68rtOTluhok4gH9z6UxWDw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Godhet - med Lena Lindahl</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_bae21162-0709-4d24-88ab-6351baaab6a5</link>

@@ -6,7 +6,7 @@
     <description>Martha, Karsten og Annika freser gjennom voksenlivets banale oppturer og festlige nedturer. Heldigvis har de hverandre.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/venner_som_moetes_ukentlig.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Venner som møtes ukentlig</title>
       <link>https://radio.nrk.no/podkast/venner_som_moetes_ukentlig</link>
     </image>
+    <item>
+      <title>– Eg les ei knullebok!</title>
+      <link>https://radio.nrk.no/podkast/venner_som_moetes_ukentlig/l_838805fd-9e30-4045-8319-7b6ffaa1d2f8</link>
+      <description>Puling har ødelagt fantasybøker for Karsten, Annika vil rygge fortere med bil, og Martha klarer ikke å snakke med tantebarna sine.</description>
+      <guid isPermaLink="false">l_838805fd-9e30-4045-8319-7b6ffaa1d2f8</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/venner_som_moetes_ukentlig/838805fd-9e30-4045-8319-7b6ffaa1d2f8_f04fea21-1822-43dc-b7a4-d51c67897f6b_ID192MP3.mp3" type="audio/mpeg" length="40781420"></enclosure>
+      <itunes:title>– Eg les ei knullebok!</itunes:title>
+      <itunes:summary>Puling har ødelagt fantasybøker for Karsten, Annika vil rygge fortere med bil, og Martha klarer ikke å snakke med tantebarna sine.</itunes:summary>
+      <itunes:duration>1699</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bWkIt0jcqHmn1nU4VHMgPwcCMKj8GBRqjU-HbAL4Uvtw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Prosjektilspy i oppgangen</title>
       <link>https://radio.nrk.no/podkast/venner_som_moetes_ukentlig/l_4230c6c3-eced-47e4-a6d5-abd9b594d5f8</link>

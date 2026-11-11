@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Frp vil ha ny Parisavtale</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_be988361-9a4c-4cbf-97b7-4ae71e7f5575</link>
+      <description>Parisavtalen funker ikke. La oss starte på nytt, sier Tor Mikkel Wara (Frp). &#xA;Frp vil rasere verdens klimapolitikk, advarer MDG</description>
+      <guid isPermaLink="false">l_be988361-9a4c-4cbf-97b7-4ae71e7f5575</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/be988361-9a4c-4cbf-97b7-4ae71e7f5575_3c33b190-480e-4b2e-9236-676f16e7ba93_ID192MP3.mp3" type="audio/mpeg" length="21882284"></enclosure>
+      <itunes:title>Frp vil ha ny Parisavtale</itunes:title>
+      <itunes:summary>Parisavtalen funker ikke. La oss starte på nytt, sier Tor Mikkel Wara (Frp). &#xA;Frp vil rasere verdens klimapolitikk, advarer MDG</itunes:summary>
+      <itunes:duration>911</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FXQWhwfuYBd0_Kty7s_1sQRAOYQOYDnfOI79oE0ZgcNg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Vil Putin ha fred?</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_2c5883a1-cfb2-4ec5-9fff-c1299bf0bdbb</link>

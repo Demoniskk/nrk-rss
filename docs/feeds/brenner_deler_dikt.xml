@@ -6,7 +6,7 @@
     <description>Hvordan kan noen få ord gi trøst, håp og et lite løft i hverdagen? Hans Olav Brenner og gjester deler sine favorittdikt.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/brenner_deler_dikt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Brenner deler dikt</title>
       <link>https://radio.nrk.no/podkast/brenner_deler_dikt</link>
     </image>
+    <item>
+      <title>Jan Egeland: Til en misantrop</title>
+      <link>https://radio.nrk.no/podkast/brenner_deler_dikt/l_12e94cb6-5d26-4f37-b915-0958716102c5</link>
+      <description>Midt i verdens konflikter leder generalsekretæren diktfremføring på kontoret.</description>
+      <guid isPermaLink="false">l_12e94cb6-5d26-4f37-b915-0958716102c5</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/12e94cb6-5d26-4f37-b915-0958716102c5_b8e0a933-a08d-4a56-9b82-c7114c6b7b3e_ID192MP3.mp3" type="audio/mpeg" length="28591532"></enclosure>
+      <itunes:title>Jan Egeland: Til en misantrop</itunes:title>
+      <itunes:summary>Midt i verdens konflikter leder generalsekretæren diktfremføring på kontoret.</itunes:summary>
+      <itunes:duration>1191</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Y1PYBZgP0MsWmw_rQ6-uyAuDnLblMzasExv7QQbxOCcQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Tara Lina Shahin: Ikke gråt!</title>
       <link>https://radio.nrk.no/podkast/brenner_deler_dikt/l_0f6b50ca-92cd-4ceb-8972-a847404c88ba</link>

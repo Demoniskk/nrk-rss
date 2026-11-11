@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 21:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 21:05:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Viser Ukraina at krig fortsatt lønner seg?</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_f3e209a7-6d16-46b2-9692-6e1fa08cf3b9</link>
+      <description>Har Vladimir Putin egentlig fått det akkurat som han ville?</description>
+      <guid isPermaLink="false">l_f3e209a7-6d16-46b2-9692-6e1fa08cf3b9</guid>
+      <pubDate>Tue, 10 Nov 2026 22:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/f3e209a7-6d16-46b2-9692-6e1fa08cf3b9_5e61ed9d-63e8-44b4-acf3-e3cb021c97cf_ID192MP3.mp3" type="audio/mpeg" length="61528940"></enclosure>
+      <itunes:title>Viser Ukraina at krig fortsatt lønner seg?</itunes:title>
+      <itunes:summary>Har Vladimir Putin egentlig fått det akkurat som han ville?</itunes:summary>
+      <itunes:duration>2563</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YN94To9-JZO33GfL7NyuAApZ-RiWAl8DBJCv7-l-VUJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Er det blitt for lett å få ADHD?</title>
       <link>https://radio.nrk.no/podkast/debatten/l_bd169639-fd54-4b53-be66-7459bf3af897</link>

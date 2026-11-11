@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>I pose og sekk - Leif I. Skaug</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_f223cef5-e5ad-4878-b366-2856db0acb9d</link>
+      <description>Av og til kan man få det man trenger, og mere til. Det kan skje, når du blir sett, og noen rundt deg &#34;tar en for laget&#34;,</description>
+      <guid isPermaLink="false">l_f223cef5-e5ad-4878-b366-2856db0acb9d</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/f223cef5-e5ad-4878-b366-2856db0acb9d_a707c3fe-e3d9-44df-b000-4b04f0bbeadc_ID192MP3.mp3" type="audio/mpeg" length="5806124"></enclosure>
+      <itunes:title>I pose og sekk - Leif I. Skaug</itunes:title>
+      <itunes:summary>Av og til kan man få det man trenger, og mere til. Det kan skje, når du blir sett, og noen rundt deg &#34;tar en for laget&#34;,</itunes:summary>
+      <itunes:duration>241</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NycBkU-uF_DFejnPm_Pd4w_apF1KlbNYpG6YAwNm33Mg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Abraham - Leif I. Skaug</title>
       <link>https://radio.nrk.no/podkast/andakten/l_b663ee59-b283-4a0f-baa9-9319a8cea397</link>

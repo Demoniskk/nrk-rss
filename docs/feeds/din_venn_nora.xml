@@ -6,7 +6,7 @@
     <description>Nok en hektisk uke for komiker Nora Svenningsen. Her er hennes verbale dagbok, hvor du er med på å fargelegge sidene. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/din_venn_nora.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Din venn, Nora</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora</link>
     </image>
+    <item>
+      <title>En ny Mariah Carey er født</title>
+      <link>https://radio.nrk.no/podkast/din_venn_nora/l_5cf19b05-6c3c-488f-a1b4-dceb2355abea</link>
+      <description>Jeg har oppdaget et nytt talent, mistet lukta som gjør meg til meg, og pakket kofferten for en romantisk tur til Afrika.</description>
+      <guid isPermaLink="false">l_5cf19b05-6c3c-488f-a1b4-dceb2355abea</guid>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/5cf19b05-6c3c-488f-a1b4-dceb2355abea_c34b2ffe-902d-47b5-8462-3e69b849f927_ID192MP3.mp3" type="audio/mpeg" length="45557036"></enclosure>
+      <itunes:title>En ny Mariah Carey er født</itunes:title>
+      <itunes:summary>Jeg har oppdaget et nytt talent, mistet lukta som gjør meg til meg, og pakket kofferten for en romantisk tur til Afrika.</itunes:summary>
+      <itunes:duration>1898</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/iwMfyKldOm1FNBXz-pm-JAV1DunMq1Bwe5kDwuHMWYOg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Rock din lettkledde kropp</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora/l_88ac4ef4-ef89-49af-a6e0-f932c66587d4</link>

@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Vendela Kirsebom: Uventet kjærlighet</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_58f88e42-56ca-43f4-a8dc-94da332296d8</link>
+      <description>Hun hadde funnet roen alene og lagt kjærligheten på hylla. Så møtte hun Petter Pilgaard. Var aldersforskjellen en hindring for å satse?</description>
+      <guid isPermaLink="false">l_58f88e42-56ca-43f4-a8dc-94da332296d8</guid>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/58f88e42-56ca-43f4-a8dc-94da332296d8_0f54072f-64a9-4df3-927b-fce04b711811_ID192MP3.mp3" type="audio/mpeg" length="78080876"></enclosure>
+      <itunes:title>Vendela Kirsebom: Uventet kjærlighet</itunes:title>
+      <itunes:summary>Hun hadde funnet roen alene og lagt kjærligheten på hylla. Så møtte hun Petter Pilgaard. Var aldersforskjellen en hindring for å satse?</itunes:summary>
+      <itunes:duration>3253</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_IzaBAH-BmauQ4RWQxVu4A2AokVFfzJtR4xorFQvy-Yg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Ragnhild Margrethe: Å kjempe for kjærligheten</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_e59d52b1-2444-49a1-92d9-fa8d150a91ad</link>

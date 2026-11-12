@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Fredsforhandlinger i Abu Dhabi</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_d658e0ec-e8cf-457a-93ff-fa23cbe3e29b</link>
+      <description>USA vil ha europeerne ved forhandlingsbordet i Ukraina-forhandlingene.</description>
+      <guid isPermaLink="false">l_d658e0ec-e8cf-457a-93ff-fa23cbe3e29b</guid>
+      <pubDate>Wed, 11 Nov 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/d658e0ec-e8cf-457a-93ff-fa23cbe3e29b_23099da1-b1ff-4194-856c-9b945deef8a0_ID192MP3.mp3" type="audio/mpeg" length="84787244"></enclosure>
+      <itunes:title>Fredsforhandlinger i Abu Dhabi</itunes:title>
+      <itunes:summary>USA vil ha europeerne ved forhandlingsbordet i Ukraina-forhandlingene.</itunes:summary>
+      <itunes:duration>3532</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/inlFim3bb1r4zN4Pvj83yQFnN3AsSW5qc9o3vYjOLZwg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Fredsforhandlinger i Abu Dhabi</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_41ce8c56-dc00-4caa-8df4-0e4f75d0cd30</link>

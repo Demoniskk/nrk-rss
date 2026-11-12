@@ -6,7 +6,7 @@
     <description>Bli med ut i verden. Hør historiene og få forklaringene fra Norges største utenriksredaksjon.&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:50:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verden_paa_loerdag.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Urix</title>
       <link>https://radio.nrk.no/podkast/verden_paa_loerdag</link>
     </image>
+    <item>
+      <title>Nvidia: Verdens dyreste sidesprang</title>
+      <link>https://radio.nrk.no/podkast/verden_paa_loerdag/l_68f9f339-68f2-46c3-9f0e-fef723f6af8c</link>
+      <description>Aksjeverdiene i kunstig intelligens stuper. Og grunnen?  En kinesisk kvinne ser ut til å ha lurt en amerikansk toppsjef til sengs.</description>
+      <guid isPermaLink="false">l_68f9f339-68f2-46c3-9f0e-fef723f6af8c</guid>
+      <pubDate>Thu, 12 Nov 2026 07:50:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verden_paa_loerdag/68f9f339-68f2-46c3-9f0e-fef723f6af8c_b7c76c12-3df1-4b13-8754-257a98881e82_ID192MP3.mp3" type="audio/mpeg" length="25918892"></enclosure>
+      <itunes:title>Nvidia: Verdens dyreste sidesprang</itunes:title>
+      <itunes:summary>Aksjeverdiene i kunstig intelligens stuper. Og grunnen?  En kinesisk kvinne ser ut til å ha lurt en amerikansk toppsjef til sengs.</itunes:summary>
+      <itunes:duration>1079</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AG4ZOE1SK27JOl709AW4eg9cKl-C9xGJbJ9bDygqVQtA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>USA: En seier for demokratiet</title>
       <link>https://radio.nrk.no/podkast/verden_paa_loerdag/l_7ecfe003-962c-4ad6-b3a4-15df3009a457</link>

@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Tilsynelatende muslim</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_4a9df39c-7cd0-4322-990c-6aa73e71fdb0</link>
+      <description>Men Abu måtte allikevel selge baconpølse. Kan kokker nekte å legge ananas på pizza? Vi elsker 90-tallet! Hva er Taras nye oppheng?</description>
+      <guid isPermaLink="false">l_4a9df39c-7cd0-4322-990c-6aa73e71fdb0</guid>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/4a9df39c-7cd0-4322-990c-6aa73e71fdb0_af6d9ad3-d395-41dc-98c1-23bb43e09271_ID192MP3.mp3" type="audio/mpeg" length="50251436"></enclosure>
+      <itunes:title>Tilsynelatende muslim</itunes:title>
+      <itunes:summary>Men Abu måtte allikevel selge baconpølse. Kan kokker nekte å legge ananas på pizza? Vi elsker 90-tallet! Hva er Taras nye oppheng?</itunes:summary>
+      <itunes:duration>2093</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>– Shortskings er litt psykopater</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_c8cb963b-cf2f-4ad0-bd87-976f1001e88c</link>

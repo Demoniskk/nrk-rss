@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:01:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>– Har du sommerdekk må du la bilen stå</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_64ef940b-4787-475a-9fe7-cce1a25b21ca</link>
+      <description>Nå kommer snøen til Østlandet.</description>
+      <guid isPermaLink="false">l_64ef940b-4787-475a-9fe7-cce1a25b21ca</guid>
+      <pubDate>Thu, 12 Nov 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/64ef940b-4787-475a-9fe7-cce1a25b21ca_c36ac4ef-94cc-4f60-bc1e-6993497646a9_ID192MP3.mp3" type="audio/mpeg" length="9354284"></enclosure>
+      <itunes:title>– Har du sommerdekk må du la bilen stå</itunes:title>
+      <itunes:summary>Nå kommer snøen til Østlandet.</itunes:summary>
+      <itunes:duration>389</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GJVv52ypTAEck1X9bw9ERgp0iOViDSq1z8syEADA9_Jw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Forhandlingene mellom Russland og Ukraina fortsetter</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_503806f1-5445-499e-bb82-352818ad8c8d</link>

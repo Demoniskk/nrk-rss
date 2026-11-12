@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 12:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:15:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Når spøk blir alvor</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_6d349582-f40c-4542-9f3e-e97edf1e8603</link>
+      <description>Dansk TV2 måtte trekke realityserien Alle elsker Rasmus. Hvor går grensen når man lurer folk for humorens skyld?</description>
+      <guid isPermaLink="false">l_6d349582-f40c-4542-9f3e-e97edf1e8603</guid>
+      <pubDate>Wed, 11 Nov 2026 13:15:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/6d349582-f40c-4542-9f3e-e97edf1e8603_0e729e3d-0bff-445b-ae51-5bd8c3958679_ID192MP3.mp3" type="audio/mpeg" length="35371052"></enclosure>
+      <itunes:title>Når spøk blir alvor</itunes:title>
+      <itunes:summary>Dansk TV2 måtte trekke realityserien Alle elsker Rasmus. Hvor går grensen når man lurer folk for humorens skyld?</itunes:summary>
+      <itunes:duration>1473</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/wFlkLIfhVuz7o9SzdX-tLw0hnqNf9xIRLGLwwtE0bUNA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Franske tilstandar i Noreg?</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_7d71da4b-2863-4635-a0e5-d5aaf96ac7c9</link>

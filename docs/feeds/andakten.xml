@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Selvforsvar - Leif I. Skaug</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_ba4ea7ce-5b56-4d91-abee-1945f8ff3edf</link>
+      <description>De av oss som kan ses på som svake, kan ofte være de sterkeste. I dag deler Leif Ingvald Skaug et dikt med oss.</description>
+      <guid isPermaLink="false">l_ba4ea7ce-5b56-4d91-abee-1945f8ff3edf</guid>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/ba4ea7ce-5b56-4d91-abee-1945f8ff3edf_02afd617-549a-4c5b-a345-5d92e77b5e75_ID192MP3.mp3" type="audio/mpeg" length="6035948"></enclosure>
+      <itunes:title>Selvforsvar - Leif I. Skaug</itunes:title>
+      <itunes:summary>De av oss som kan ses på som svake, kan ofte være de sterkeste. I dag deler Leif Ingvald Skaug et dikt med oss.</itunes:summary>
+      <itunes:duration>251</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NycBkU-uF_DFejnPm_Pd4w_apF1KlbNYpG6YAwNm33Mg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>I pose og sekk - Leif I. Skaug</title>
       <link>https://radio.nrk.no/podkast/andakten/l_f223cef5-e5ad-4878-b366-2856db0acb9d</link>

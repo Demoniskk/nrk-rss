@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 13:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:45:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Izabella Dantas Løvstad</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_05b11937-ccfa-4baf-be57-496077cd4735</link>
+      <description>Influenseren vokste opp med deprimert mor og far i fengsel  </description>
+      <guid isPermaLink="false">l_05b11937-ccfa-4baf-be57-496077cd4735</guid>
+      <pubDate>Wed, 11 Nov 2026 13:45:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/05b11937-ccfa-4baf-be57-496077cd4735_cd792e88-6b44-4e1b-8536-d6d0d02a8f4e_ID192MP3.mp3" type="audio/mpeg" length="82017260"></enclosure>
+      <itunes:title>Izabella Dantas Løvstad</itunes:title>
+      <itunes:summary>Influenseren vokste opp med deprimert mor og far i fengsel  </itunes:summary>
+      <itunes:duration>3417</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/K41gH8OUl7qMieqiqdFtJQEDTZfMxkZi97iK-ik6irqQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Knut Høibraaten</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_e429b9aa-a1c6-43f5-a0f6-079037b0a713</link>

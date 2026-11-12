@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 14:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:02:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Julekalendertilbudet vårt + halvbrornytt</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_da7acd97-3a65-4e3f-ac33-dea25d4003fb</link>
+      <description>Info om hvor du kan laste ned Juliekalenderen til LR (p3.no) og har Nils møtt halvbroren sin?</description>
+      <guid isPermaLink="false">l_da7acd97-3a65-4e3f-ac33-dea25d4003fb</guid>
+      <pubDate>Wed, 11 Nov 2026 17:02:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/da7acd97-3a65-4e3f-ac33-dea25d4003fb_f12cf35d-ca00-409d-9925-c59744f0e06e_ID192MP3.mp3" type="audio/mpeg" length="25991468"></enclosure>
+      <itunes:title>Julekalendertilbudet vårt + halvbrornytt</itunes:title>
+      <itunes:summary>Info om hvor du kan laste ned Juliekalenderen til LR (p3.no) og har Nils møtt halvbroren sin?</itunes:summary>
+      <itunes:duration>1082</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SAbwoo7p6A48tLpNp7IIagU5P8QsQc23jK06nv_zDisg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Sigrid Sollund / Henrik Farley / Helle Ryg Eia</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_5dc91ef6-1705-486c-a44a-e1e2816931ee</link>

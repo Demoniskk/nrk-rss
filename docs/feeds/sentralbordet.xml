@@ -6,7 +6,7 @@
     <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sentralbordet på NRK</title>
       <link>https://radio.nrk.no/podkast/sentralbordet</link>
     </image>
+    <item>
+      <title>Lives musikaldebut</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_d8237534-fd2e-412f-97bb-76b970532e85</link>
+      <description>Gud er bekymret for sikkerheten til Holy Riders, Pippi lurer på om hun har ADHD, en mystisk kjendis får en telefon fra PST, og det er Lives tur til å improvisere fram en helt unik musikal.</description>
+      <guid isPermaLink="false">l_d8237534-fd2e-412f-97bb-76b970532e85</guid>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/d8237534-fd2e-412f-97bb-76b970532e85_6f39be6a-ccb6-4cd7-aa21-4cae927123ef_ID192MP3.mp3" type="audio/mpeg" length="35643500"></enclosure>
+      <itunes:title>Lives musikaldebut</itunes:title>
+      <itunes:summary>Gud er bekymret for sikkerheten til Holy Riders, Pippi lurer på om hun har ADHD, en mystisk kjendis får en telefon fra PST, og det er Lives tur til å improvisere fram en helt unik musikal.</itunes:summary>
+      <itunes:duration>1485</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>– Hører du gekkoen?</title>
       <link>https://radio.nrk.no/podkast/sentralbordet/l_7e58fd22-cff2-4aea-ab7c-ea744b1fa4b5</link>

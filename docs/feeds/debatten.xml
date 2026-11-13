@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 21:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 21:05:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Sexy sosialister</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_3a3693c0-1671-48e1-8dd5-c586840dbb2b</link>
+      <description>En kalender vil støtte Rødt og SV, men splitter venstresida. Hvor går grensa mellom frigjøring og objektivisering?</description>
+      <guid isPermaLink="false">l_3a3693c0-1671-48e1-8dd5-c586840dbb2b</guid>
+      <pubDate>Thu, 12 Nov 2026 22:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/3a3693c0-1671-48e1-8dd5-c586840dbb2b_59bf4b0c-9f66-46eb-87aa-bb8fcc8ec76b_ID192MP3.mp3" type="audio/mpeg" length="60410924"></enclosure>
+      <itunes:title>Sexy sosialister</itunes:title>
+      <itunes:summary>En kalender vil støtte Rødt og SV, men splitter venstresida. Hvor går grensa mellom frigjøring og objektivisering?</itunes:summary>
+      <itunes:duration>2517</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1t5J6JKPmrMTkMq-HDfhVA8ApXLRvP06jhVq5UDbZi9w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Viser Ukraina at krig fortsatt lønner seg?</title>
       <link>https://radio.nrk.no/podkast/debatten/l_f3e209a7-6d16-46b2-9692-6e1fa08cf3b9</link>

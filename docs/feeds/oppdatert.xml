@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Angrepsbølge: Slik hackes blodbanker og kjøleskap</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_48aa5a14-9b6c-427d-adc7-8c00e310757b</link>
+      <description>Smarte hjem, sårbare systemer. Har cyberangrepene avslørt hvor utsatt teknologien har gjort oss?</description>
+      <guid isPermaLink="false">l_48aa5a14-9b6c-427d-adc7-8c00e310757b</guid>
+      <pubDate>Fri, 13 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/48aa5a14-9b6c-427d-adc7-8c00e310757b_8cf36dbb-aac5-4527-842b-0e1e2adaaf76_ID192MP3.mp3" type="audio/mpeg" length="22374764"></enclosure>
+      <itunes:title>Angrepsbølge: Slik hackes blodbanker og kjøleskap</itunes:title>
+      <itunes:summary>Smarte hjem, sårbare systemer. Har cyberangrepene avslørt hvor utsatt teknologien har gjort oss?</itunes:summary>
+      <itunes:duration>932</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oeeI9hwAbNU1QjhiT6RhbAiwY4AwOW8AUi3S61FrPTCg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Ørjan Håskjold Nyland: Fra helt til syndebukk?</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_8110c368-d5ad-4aea-805e-9d14c41218bf</link>

@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Høgre på skattejakt</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_c1d18eee-5b99-4e28-8e78-ae9aef9b03d1</link>
+      <description>Gir det fleire veljarar å lokke med meir i skattelette?</description>
+      <guid isPermaLink="false">l_c1d18eee-5b99-4e28-8e78-ae9aef9b03d1</guid>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/c1d18eee-5b99-4e28-8e78-ae9aef9b03d1_939f3260-17e2-4bba-8739-96ac4775caad_ID192MP3.mp3" type="audio/mpeg" length="21627692"></enclosure>
+      <itunes:title>Høgre på skattejakt</itunes:title>
+      <itunes:summary>Gir det fleire veljarar å lokke med meir i skattelette?</itunes:summary>
+      <itunes:duration>901</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/O320BShU0LRa9HwvOLrZDA1tlWxSB75osXvyC5qfA7aw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Strid om fremtidens nasjonale prøver</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_4c023b88-5758-4977-bfa0-aefecfc50cf3</link>

@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Anna og Daniel krangler </title>
+      <link>https://radio.nrk.no/podkast/siesta/l_40fbc74e-51c6-46bb-a42e-f50ac065bead</link>
+      <description>Hvor har det blitt av kjeks, vi spiller på slurva og Anna har med sak om godt arbeidsmiljø på Europris i Larvik. </description>
+      <guid isPermaLink="false">l_40fbc74e-51c6-46bb-a42e-f50ac065bead</guid>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/40fbc74e-51c6-46bb-a42e-f50ac065bead_5ce37d65-42ff-4cf1-ba71-0a844de7154a_ID192MP3.mp3" type="audio/mpeg" length="63734444"></enclosure>
+      <itunes:title>Anna og Daniel krangler </itunes:title>
+      <itunes:summary>Hvor har det blitt av kjeks, vi spiller på slurva og Anna har med sak om godt arbeidsmiljø på Europris i Larvik. </itunes:summary>
+      <itunes:duration>2655</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Daniel er frisk!</title>
       <link>https://radio.nrk.no/podkast/siesta/l_2cbf5134-6cc4-4477-8220-5bec32dbb9b3</link>

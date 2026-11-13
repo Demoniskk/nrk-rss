@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Dyskalkuli, lommepenger og KI-loggen</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_6eeb3721-f012-437d-a92e-c7637da65c01</link>
+      <description>Sofie sin kalkulator-logg er kriminell, derfor vil Milie teste om hun har dyskalkuli. &#xA;&#xA;Send oss spørsmål i NRK Radio :)</description>
+      <guid isPermaLink="false">l_6eeb3721-f012-437d-a92e-c7637da65c01</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/6eeb3721-f012-437d-a92e-c7637da65c01_e2d149c5-2ed3-4601-a2b4-5351b25fe0d4_ID192MP3.mp3" type="audio/mpeg" length="65823020"></enclosure>
+      <itunes:title>Dyskalkuli, lommepenger og KI-loggen</itunes:title>
+      <itunes:summary>Sofie sin kalkulator-logg er kriminell, derfor vil Milie teste om hun har dyskalkuli. &#xA;&#xA;Send oss spørsmål i NRK Radio :)</itunes:summary>
+      <itunes:duration>2742</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Stalking, innestemme og mensen i svømmehallen</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_5c04799f-bdfe-48d7-9dd0-a42101836b9d</link>

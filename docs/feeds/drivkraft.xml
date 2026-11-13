@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 12:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:10:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Itonje Søimer Guttormsen</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_29c30a0f-c5ea-4015-beaf-05002f42f4ab</link>
+      <description>Filmskaperen var i en gangsterkultur på ungdomsskolen, og så balla det på seg.</description>
+      <guid isPermaLink="false">l_29c30a0f-c5ea-4015-beaf-05002f42f4ab</guid>
+      <pubDate>Thu, 12 Nov 2026 13:10:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/29c30a0f-c5ea-4015-beaf-05002f42f4ab_5b80eb9f-8e84-4f94-aa4e-42a292a4f77e_ID192MP3.mp3" type="audio/mpeg" length="82457900"></enclosure>
+      <itunes:title>Itonje Søimer Guttormsen</itunes:title>
+      <itunes:summary>Filmskaperen var i en gangsterkultur på ungdomsskolen, og så balla det på seg.</itunes:summary>
+      <itunes:duration>3435</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VbtaY1Tj7XMF9MDKzT_2NwC5rAeT6R5oWULhuBc55fPQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Izabella Dantas Løvstad</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_05b11937-ccfa-4baf-be57-496077cd4735</link>

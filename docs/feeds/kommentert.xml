@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 15:54:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Droner, trusler og fryserhacking: Europa under angrep</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_6b0c87ea-d07b-4c55-8e2f-5ec8a84b84d9</link>
+      <description>Denne høsten har Europa opplevd flere store hackerangrep. Mange hundre frysere og kjøleskap har blitt angrepet i ulike land, deler av Europas flytrafikk har blitt lammet på grunn av bombetrusler og her i Norge blir vi også rammet av disse angrepene. &#xA;&#xA;Hvem står bak? Og hvorfor gjør de det?</description>
+      <guid isPermaLink="false">l_6b0c87ea-d07b-4c55-8e2f-5ec8a84b84d9</guid>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/6b0c87ea-d07b-4c55-8e2f-5ec8a84b84d9_b35559c4-332e-461f-8475-606d71faa7a8_ID192MP3.mp3" type="audio/mpeg" length="34370540"></enclosure>
+      <itunes:title>Droner, trusler og fryserhacking: Europa under angrep</itunes:title>
+      <itunes:summary>Denne høsten har Europa opplevd flere store hackerangrep. Mange hundre frysere og kjøleskap har blitt angrepet i ulike land, deler av Europas flytrafikk har blitt lammet på grunn av bombetrusler og her i Norge blir vi også rammet av disse angrepene. &#xA;&#xA;Hvem står bak? Og hvorfor gjør de det?</itunes:summary>
+      <itunes:duration>1432</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/TGejpF-PUW62yPVAHv1llwZBBIA0OLYJGP_LmWwP_RPg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Sex, spioner og Nvidia: Jensen Huang-skandalen</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_61711414-7f52-43be-bea7-db56095099b4</link>

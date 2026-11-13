@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 05:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Full stans i togtrafikken på Oslo S</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_28b2375e-2d4d-446e-8289-40070bf99043</link>
+      <description>Og dette betyr Jensen Huangs avgang for Norge.&#xA;&#xA;//&#xA;Oppdatert 13.11.26 klokka 07.05 med at det er full stans i togtrafikken ved Oslo S.</description>
+      <guid isPermaLink="false">l_28b2375e-2d4d-446e-8289-40070bf99043</guid>
+      <pubDate>Fri, 13 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/28b2375e-2d4d-446e-8289-40070bf99043_303b3dfb-887b-4c41-83e2-1cf59339c822_ID192MP3.mp3" type="audio/mpeg" length="8828396"></enclosure>
+      <itunes:title>Full stans i togtrafikken på Oslo S</itunes:title>
+      <itunes:summary>Og dette betyr Jensen Huangs avgang for Norge.&#xA;&#xA;//&#xA;Oppdatert 13.11.26 klokka 07.05 med at det er full stans i togtrafikken ved Oslo S.</itunes:summary>
+      <itunes:duration>367</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/lCtoQoIB8M-EhpAT0vFi9AuYGaRFOaCtwD1yxIr9YfIA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>– Har du sommerdekk må du la bilen stå</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_64ef940b-4787-475a-9fe7-cce1a25b21ca</link>

@@ -6,7 +6,7 @@
     <description>Absolutt alt du kan undre deg over om språk! Jesper Nondal spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/spraakteigen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Språksnakk</title>
       <link>https://radio.nrk.no/podkast/spraakteigen</link>
     </image>
+    <item>
+      <title>Saliggjort gangfelt</title>
+      <link>https://radio.nrk.no/podkast/spraakteigen/l_ecccbb30-187c-48e5-b678-6c56ceb0e279</link>
+      <description>Vi snakker om snusfornuft, bro! Vi finner ut om opphøyde gangfelt er hellige, og snakker om ord du bare finner i rutetabellen.</description>
+      <guid isPermaLink="false">l_ecccbb30-187c-48e5-b678-6c56ceb0e279</guid>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/ecccbb30-187c-48e5-b678-6c56ceb0e279_7e165a47-f6d3-438f-a0b3-38976b3d06f8_ID192MP3.mp3" type="audio/mpeg" length="81214892"></enclosure>
+      <itunes:title>Saliggjort gangfelt</itunes:title>
+      <itunes:summary>Vi snakker om snusfornuft, bro! Vi finner ut om opphøyde gangfelt er hellige, og snakker om ord du bare finner i rutetabellen.</itunes:summary>
+      <itunes:duration>3383</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2TvOfsrDcr5auT3M1LgFigvBNIkGwBHcYHL4J_JYW50Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Politisk tåkeprat</title>
       <link>https://radio.nrk.no/podkast/spraakteigen/l_4977cfaa-2b64-4ed3-87fa-f962ebd10e36</link>

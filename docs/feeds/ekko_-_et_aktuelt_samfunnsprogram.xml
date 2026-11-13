@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 12:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Trumps USA: Vil ikke snakke miljø</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_b0b66c77-a242-4f00-9f93-140192a32b76</link>
+      <description>Nå samles alle ledende land i verden til miljøtoppmøte. Men USA synes klimamøtene er noe stort tøv, og kommer ikke.</description>
+      <guid isPermaLink="false">l_b0b66c77-a242-4f00-9f93-140192a32b76</guid>
+      <pubDate>Thu, 12 Nov 2026 13:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/b0b66c77-a242-4f00-9f93-140192a32b76_c8c7a1ff-7710-47e4-857a-1252ec71ee31_ID192MP3.mp3" type="audio/mpeg" length="78155756"></enclosure>
+      <itunes:title>Trumps USA: Vil ikke snakke miljø</itunes:title>
+      <itunes:summary>Nå samles alle ledende land i verden til miljøtoppmøte. Men USA synes klimamøtene er noe stort tøv, og kommer ikke.</itunes:summary>
+      <itunes:duration>3256</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qsBOMB4Hu_xmnwjeLWYC1gQWRJRkOI_3lBDZ5mTcyniQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Når spøk blir alvor</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_6d349582-f40c-4542-9f3e-e97edf1e8603</link>

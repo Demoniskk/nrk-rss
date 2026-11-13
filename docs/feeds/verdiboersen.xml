@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:50:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title>Et demokrati på prøve</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_1bf8cb50-f19d-424f-b94c-042bfa6c843e</link>
+      <description>Et valg mot Trump - men var det et valg for demokratiet?</description>
+      <guid isPermaLink="false">l_1bf8cb50-f19d-424f-b94c-042bfa6c843e</guid>
+      <pubDate>Fri, 13 Nov 2026 11:50:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/1bf8cb50-f19d-424f-b94c-042bfa6c843e_e7382b9a-b622-471c-8a11-5dd8625377de_ID192MP3.mp3" type="audio/mpeg" length="80031212"></enclosure>
+      <itunes:title>Et demokrati på prøve</itunes:title>
+      <itunes:summary>Et valg mot Trump - men var det et valg for demokratiet?</itunes:summary>
+      <itunes:duration>3334</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title> Er vi mennesker eller koder?</title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_dab75334-8d77-4838-877c-097d9d15b008</link>

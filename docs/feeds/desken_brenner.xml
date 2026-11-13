@@ -6,7 +6,7 @@
     <description>Alt kan skje og ingen er trygge når fire komikere oppsummerer uka!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/desken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Desken brenner</title>
       <link>https://radio.nrk.no/podkast/desken_brenner</link>
     </image>
+    <item>
+      <title>Livin’ La Nvidia Loca</title>
+      <link>https://radio.nrk.no/podkast/desken_brenner/l_f3951ee1-e4c0-4685-a905-49e8d48f5179</link>
+      <description>En amerikansk toppsjef har vært utro med en kinesisk spion. En sexy kalender skaper bråk. Pornofortiden til en kommunedirektør innhenter ham.</description>
+      <guid isPermaLink="false">l_f3951ee1-e4c0-4685-a905-49e8d48f5179</guid>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/f3951ee1-e4c0-4685-a905-49e8d48f5179_79762f23-e406-47c5-8931-6b3f99475cda_ID192MP3.mp3" type="audio/mpeg" length="63983852"></enclosure>
+      <itunes:title>Livin’ La Nvidia Loca</itunes:title>
+      <itunes:summary>En amerikansk toppsjef har vært utro med en kinesisk spion. En sexy kalender skaper bråk. Pornofortiden til en kommunedirektør innhenter ham.</itunes:summary>
+      <itunes:duration>2665</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Ingen elsker Rasmus</title>
       <link>https://radio.nrk.no/podkast/desken_brenner/l_c0cde5d8-1bb3-465d-9a48-17cff1daebd0</link>

@@ -6,7 +6,7 @@
     <description>Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bok_i_p2.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Åpen bok</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2</link>
     </image>
+    <item>
+      <title>Erlend O.Nødtvedt-Denne historien om Bergen måtte fortelles</title>
+      <link>https://radio.nrk.no/podkast/bok_i_p2/l_0917768b-2782-4d78-8a30-8eb7d24db916</link>
+      <description>Erlend O. Nødtvedt skriver i romanen Borgen om et Bergen i kaos på randen av en revolusjon. Menneskene er preget av fattigdom og desperasjon, men også av kampvilje og kløkt.</description>
+      <guid isPermaLink="false">l_0917768b-2782-4d78-8a30-8eb7d24db916</guid>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/0917768b-2782-4d78-8a30-8eb7d24db916_6d3d4c8b-ccd3-4bdd-b84a-1854053aea67_ID192MP3.mp3" type="audio/mpeg" length="82079468"></enclosure>
+      <itunes:title>Erlend O.Nødtvedt-Denne historien om Bergen måtte fortelles</itunes:title>
+      <itunes:summary>Erlend O. Nødtvedt skriver i romanen Borgen om et Bergen i kaos på randen av en revolusjon. Menneskene er preget av fattigdom og desperasjon, men også av kampvilje og kløkt.</itunes:summary>
+      <itunes:duration>3419</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/rEVQ-rKFf7IJt20frzS-OQDL4fzU_GoE94M810EbjHgg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Herbjørg Wassmo- Det handler først og fremst om overlevelse..</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2/l_c6142804-7711-4ea3-a59f-804baeead13e</link>

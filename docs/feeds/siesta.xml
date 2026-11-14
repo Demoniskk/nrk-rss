@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Daniel intervjuer Alex Rosén</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_59408f46-fdc8-49b6-bb84-78e8615f0429</link>
+      <description>Vi kårer Norges beste pub, det er fredag den trettende i Quizvang og Daniel intervjuer Alex Rosén.</description>
+      <guid isPermaLink="false">l_59408f46-fdc8-49b6-bb84-78e8615f0429</guid>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/59408f46-fdc8-49b6-bb84-78e8615f0429_9b895ab3-b895-427e-b7ad-5841720ad5c3_ID192MP3.mp3" type="audio/mpeg" length="60139052"></enclosure>
+      <itunes:title>Daniel intervjuer Alex Rosén</itunes:title>
+      <itunes:summary>Vi kårer Norges beste pub, det er fredag den trettende i Quizvang og Daniel intervjuer Alex Rosén.</itunes:summary>
+      <itunes:duration>2505</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tgx9px3lKXxL-MHbbXVoEQSg1gvGjj6fAfsWzwzooeaw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Anna og Daniel krangler </title>
       <link>https://radio.nrk.no/podkast/siesta/l_40fbc74e-51c6-46bb-a42e-f50ac065bead</link>

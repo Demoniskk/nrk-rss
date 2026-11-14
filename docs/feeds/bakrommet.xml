@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 15:33:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:10:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Mener Haaland må stille opp</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_3bcca6e1-650f-44ec-95e0-5751c5095e6e</link>
+      <description>Ekspertene mener det er en plikt for spillerne å stille opp for pressen og folket. Men Haaland forblir taus fram mot Wales-kampen. Dagen før dagen var det endelig klart for trening på gress og Ødegaard åpner opp for en ny rolle på laget.</description>
+      <guid isPermaLink="false">l_3bcca6e1-650f-44ec-95e0-5751c5095e6e</guid>
+      <pubDate>Fri, 13 Nov 2026 15:10:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/3bcca6e1-650f-44ec-95e0-5751c5095e6e_b11e78c0-3ce2-42fe-94e7-c7a9ba71ab47_ID192MP3.mp3" type="audio/mpeg" length="57202028"></enclosure>
+      <itunes:title>Mener Haaland må stille opp</itunes:title>
+      <itunes:summary>Ekspertene mener det er en plikt for spillerne å stille opp for pressen og folket. Men Haaland forblir taus fram mot Wales-kampen. Dagen før dagen var det endelig klart for trening på gress og Ødegaard åpner opp for en ny rolle på laget.</itunes:summary>
+      <itunes:duration>2383</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Kritiske til avlyst trening. Visste at snøen kom!</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_f8fc0b7b-c057-4511-9daf-1f60240c0337</link>

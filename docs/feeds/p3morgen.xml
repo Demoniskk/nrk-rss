@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Aftur Nerdrum har flyttet til storbyen</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_e8683dd4-b583-4624-845d-02c32ba1c432</link>
+      <description>Husker du Aftur fra «Familien Nerdrum»? Hun har flyttet til Oslo, men har hun blitt ordentlig storbyjente? Det må vi grave mer i når hun kommer på besøk.</description>
+      <guid isPermaLink="false">l_e8683dd4-b583-4624-845d-02c32ba1c432</guid>
+      <pubDate>Fri, 13 Nov 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/e8683dd4-b583-4624-845d-02c32ba1c432_033d9ed9-400c-43fb-8d5a-b03d6af67c02_ID192MP3.mp3" type="audio/mpeg" length="69523244"></enclosure>
+      <itunes:title>Aftur Nerdrum har flyttet til storbyen</itunes:title>
+      <itunes:summary>Husker du Aftur fra «Familien Nerdrum»? Hun har flyttet til Oslo, men har hun blitt ordentlig storbyjente? Det må vi grave mer i når hun kommer på besøk.</itunes:summary>
+      <itunes:duration>2896</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BkY0y8p0idYMuAG_XeLMGAnFuKUPdxO9X1hOsS4P10NA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Denne kjendisen må ikke kanselleres!</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_33ce1638-0730-4d17-b4b1-998f50924335</link>

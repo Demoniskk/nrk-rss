@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Staten tapte klimasøksmål</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_c580d9e7-eeea-41e6-ae39-f0c84002a65e</link>
+      <description>Høyesterett slo fast at statens godkjennelse av planer for utbygging og drift av tre oljefelt er ugyldig.</description>
+      <guid isPermaLink="false">l_c580d9e7-eeea-41e6-ae39-f0c84002a65e</guid>
+      <pubDate>Fri, 13 Nov 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/c580d9e7-eeea-41e6-ae39-f0c84002a65e_5ee72e46-0352-4f47-a3a5-a2318ab0d858_ID192MP3.mp3" type="audio/mpeg" length="84983660"></enclosure>
+      <itunes:title>Staten tapte klimasøksmål</itunes:title>
+      <itunes:summary>Høyesterett slo fast at statens godkjennelse av planer for utbygging og drift av tre oljefelt er ugyldig.</itunes:summary>
+      <itunes:duration>3540</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qn3orksAxRJKYFO5641DSAyWUteHKlrlorf336aDqEAw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>PST: Sabotasjetrusselen i Norge er skjerpet</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_f28f740b-12e6-42f1-84c8-bcb780f56873</link>

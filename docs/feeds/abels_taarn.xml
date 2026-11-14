@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:01:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,32 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>KI-spørretime 2:2 - Dommedag</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_f151d565-52d0-4eb5-8054-e98bf0ba8b3e</link>
+      <description>Kremen av norsk KI-kompetanse er samlet i TO timer for å besvare lytternes spørsmål om den samfunnsomveltende, nye teknologien.</description>
+      <guid isPermaLink="false">l_f151d565-52d0-4eb5-8054-e98bf0ba8b3e</guid>
+      <pubDate>Fri, 13 Nov 2026 06:01:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/f151d565-52d0-4eb5-8054-e98bf0ba8b3e_e98c94fc-2bef-44a8-bec1-0936906df422_ID192MP3.mp3" type="audio/mpeg" length="82751084"></enclosure>
+      <itunes:title>KI-spørretime 2:2 - Dommedag</itunes:title>
+      <itunes:summary>Kremen av norsk KI-kompetanse er samlet i TO timer for å besvare lytternes spørsmål om den samfunnsomveltende, nye teknologien.</itunes:summary>
+      <itunes:duration>3447</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ss-3OrQElyfFRJ5HZCCPEQNaX4mhJ9qt47rwNCUwycDg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>KI-spørretime 1:2 - Skapelsen</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_22e3d97f-1486-4fb1-b399-b5fefad1a571</link>
+      <description>Kremen av norsk KI-kompetanse er samlet i TO timer for å besvare lytternes spørsmål om den samfunnsomveltende, nye teknologien.</description>
+      <guid isPermaLink="false">l_22e3d97f-1486-4fb1-b399-b5fefad1a571</guid>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/22e3d97f-1486-4fb1-b399-b5fefad1a571_72805d47-725b-4e0b-afcb-80dbeac5fe78_ID192MP3.mp3" type="audio/mpeg" length="82584620"></enclosure>
+      <itunes:title>KI-spørretime 1:2 - Skapelsen</itunes:title>
+      <itunes:summary>Kremen av norsk KI-kompetanse er samlet i TO timer for å besvare lytternes spørsmål om den samfunnsomveltende, nye teknologien.</itunes:summary>
+      <itunes:duration>3440</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/AtHLis9dbE8oXykpzf9drAH71d9MRcXFxVQ0r601YIAA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Kjipt med jetlag?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_fd39fb7f-aa41-47d8-9df6-22f178e840ad</link>

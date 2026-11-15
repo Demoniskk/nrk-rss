@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Panelet: &#34;Dickmatized&#34; og aldersforskjell </title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_96441d3c-f024-45f7-83d6-67a447e413b3</link>
+      <description>Er det greit at partneren betaler for OnlyFans, og hva gjør man når man er lei av å snakke om venninnens kjærlighetssorg?</description>
+      <guid isPermaLink="false">l_96441d3c-f024-45f7-83d6-67a447e413b3</guid>
+      <pubDate>Sun, 15 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/96441d3c-f024-45f7-83d6-67a447e413b3_cd5101d8-0b3a-4c71-a34a-ab1be8f5752e_ID192MP3.mp3" type="audio/mpeg" length="46325420"></enclosure>
+      <itunes:title>Panelet: &#34;Dickmatized&#34; og aldersforskjell </itunes:title>
+      <itunes:summary>Er det greit at partneren betaler for OnlyFans, og hva gjør man når man er lei av å snakke om venninnens kjærlighetssorg?</itunes:summary>
+      <itunes:duration>1930</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yJWGnGgnz8jzvPiGxbqKuQ_PjVBl4VqtDjjmQwLlbNQw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Vendela Kirsebom: Uventet kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_58f88e42-56ca-43f4-a8dc-94da332296d8</link>

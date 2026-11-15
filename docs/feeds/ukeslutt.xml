@@ -6,7 +6,7 @@
     <description>Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ukeslutt</title>
       <link>https://radio.nrk.no/podkast/ukeslutt</link>
     </image>
+    <item>
+      <title>Var tidenes dyreste sidesprang en honningfelle?</title>
+      <link>https://radio.nrk.no/podkast/ukeslutt/l_d3ddd892-e727-43e9-9920-2b2e242c09dd</link>
+      <description>- Sånne honningfeller er ganske vanlige i etterretning, sier eks-spionsjef.</description>
+      <guid isPermaLink="false">l_d3ddd892-e727-43e9-9920-2b2e242c09dd</guid>
+      <pubDate>Sat, 14 Nov 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/d3ddd892-e727-43e9-9920-2b2e242c09dd_4008102d-e49f-4573-bcf7-9b3b604791fa_ID192MP3.mp3" type="audio/mpeg" length="104919596"></enclosure>
+      <itunes:title>Var tidenes dyreste sidesprang en honningfelle?</itunes:title>
+      <itunes:summary>- Sånne honningfeller er ganske vanlige i etterretning, sier eks-spionsjef.</itunes:summary>
+      <itunes:duration>4371</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pMjffhgKqo2DKy0uqBHgowX-fv-6AixsLwi8vTod6tPg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Når spøken dras for langt</title>
       <link>https://radio.nrk.no/podkast/ukeslutt/l_0a4c626d-94b2-4e42-9de6-00a300c7dfda</link>

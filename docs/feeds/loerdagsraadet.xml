@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 16:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Ingrid Gjessing Linhave / Tete Lidbom / Hilde Skaar</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_dc14ad4b-fa7e-4d32-871f-4657b87922e4</link>
+      <description>TILBAKEMELDING: Tanker om vennegjengen fra Molly! / PROBLEMER: Han er MIN! Nei, MIN! / Kan dere hjelpe meg å knekke en julenøtt / Kan dere lære meg å krangle? / Vil ikke virke som desperat eiendomsmegler / Bursdag på samme dag som kjæresten / Bør jeg sladre om en utro kollega på julebord? / You get a car, and you get a car, and you get a car  / Bryllupet vårt invaderes av USA!</description>
+      <guid isPermaLink="false">l_dc14ad4b-fa7e-4d32-871f-4657b87922e4</guid>
+      <pubDate>Sat, 14 Nov 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/dc14ad4b-fa7e-4d32-871f-4657b87922e4_a548ccff-1fe1-4af5-8ad0-30786682e12b_ID192MP3.mp3" type="audio/mpeg" length="199820204"></enclosure>
+      <itunes:title>Ingrid Gjessing Linhave / Tete Lidbom / Hilde Skaar</itunes:title>
+      <itunes:summary>TILBAKEMELDING: Tanker om vennegjengen fra Molly! / PROBLEMER: Han er MIN! Nei, MIN! / Kan dere hjelpe meg å knekke en julenøtt / Kan dere lære meg å krangle? / Vil ikke virke som desperat eiendomsmegler / Bursdag på samme dag som kjæresten / Bør jeg sladre om en utro kollega på julebord? / You get a car, and you get a car, and you get a car  / Bryllupet vårt invaderes av USA!</itunes:summary>
+      <itunes:duration>8325</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/LPbHj6Y_qn82EXTBiScgbQVwEzKo1LviUjH3QFxifB7Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Julekalendertilbudet vårt + halvbrornytt</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_da7acd97-3a65-4e3f-ac33-dea25d4003fb</link>

@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Protest mot post-kutt</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_541804a1-0a24-48d5-8d18-f3092fa42a4f</link>
+      <description>LO går ut i politisk streik mot Ap-regjeringa på grunn av kutt i posten. Hjelper det?</description>
+      <guid isPermaLink="false">l_541804a1-0a24-48d5-8d18-f3092fa42a4f</guid>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/541804a1-0a24-48d5-8d18-f3092fa42a4f_8d34c981-711a-45da-b20d-680adb42d249_ID192MP3.mp3" type="audio/mpeg" length="21903596"></enclosure>
+      <itunes:title>Protest mot post-kutt</itunes:title>
+      <itunes:summary>LO går ut i politisk streik mot Ap-regjeringa på grunn av kutt i posten. Hjelper det?</itunes:summary>
+      <itunes:duration>912</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/l-KN2guI44fz33Ih6GL7vwwBMIt84DJwiaMvc9WTrezQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Høgre på skattejakt</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_c1d18eee-5b99-4e28-8e78-ae9aef9b03d1</link>

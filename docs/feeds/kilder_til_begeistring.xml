@@ -6,7 +6,7 @@
     <description>Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kilder_til_begeistring.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kilder til begeistring</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring</link>
     </image>
+    <item>
+      <title>Å gå kveldstur under en landskamp</title>
+      <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_c3dd91bc-39b3-48cc-bc53-eccd8c877bb7</link>
+      <description>Som regel kan man se at alle strømmer hver sin episode av hver sin TV-serie</description>
+      <guid isPermaLink="false">l_c3dd91bc-39b3-48cc-bc53-eccd8c877bb7</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kilder_til_begeistring/c3dd91bc-39b3-48cc-bc53-eccd8c877bb7_b72cadde-6904-4437-b192-46c6ace214b3_ID192MP3.mp3" type="audio/mpeg" length="1858220"></enclosure>
+      <itunes:title>Å gå kveldstur under en landskamp</itunes:title>
+      <itunes:summary>Som regel kan man se at alle strømmer hver sin episode av hver sin TV-serie</itunes:summary>
+      <itunes:duration>77</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/gKMAlvd0JJRAHhltWGIChA-wLTiBtPfXmf-un4kMZX4g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Vott</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_b8858661-9e24-43e1-9ae5-1ebbbd431f23</link>

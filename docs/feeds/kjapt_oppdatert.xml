@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>I dag streikes det for Posten</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_c1f4b2ea-238e-4534-934c-0ed0ccf67922</link>
+      <description>Og bør Erling Braut Haaland benkes?</description>
+      <guid isPermaLink="false">l_c1f4b2ea-238e-4534-934c-0ed0ccf67922</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/c1f4b2ea-238e-4534-934c-0ed0ccf67922_e9d6c2ba-3383-43be-a19d-2d21883d3c37_ID192MP3.mp3" type="audio/mpeg" length="10141100"></enclosure>
+      <itunes:title>I dag streikes det for Posten</itunes:title>
+      <itunes:summary>Og bør Erling Braut Haaland benkes?</itunes:summary>
+      <itunes:duration>422</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/dbl50LICZ2VCXqvaF0XhYAz2Z1_qmR9qjH5kWjPlQ7Cw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Full stans i togtrafikken på Oslo S</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_28b2375e-2d4d-446e-8289-40070bf99043</link>

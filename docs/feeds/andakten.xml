@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Skam - Ragnhild B.Opsahl</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_88236ae1-888a-4883-87ea-72389b902a7c</link>
+      <description>Alle har vi noe vi skammer oss over. Noe med oss sjøl, eller en situasjon vi ikke kan minnes uten at skamfølelsen kommer snikende.</description>
+      <guid isPermaLink="false">l_88236ae1-888a-4883-87ea-72389b902a7c</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/88236ae1-888a-4883-87ea-72389b902a7c_25d7cc92-80c6-48bc-b14a-9963c2a3e20a_ID192MP3.mp3" type="audio/mpeg" length="5302124"></enclosure>
+      <itunes:title>Skam - Ragnhild B.Opsahl</itunes:title>
+      <itunes:summary>Alle har vi noe vi skammer oss over. Noe med oss sjøl, eller en situasjon vi ikke kan minnes uten at skamfølelsen kommer snikende.</itunes:summary>
+      <itunes:duration>220</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EJcoAnB0N4OEjKttZLKATATr8j6EdImeRTJm2zhV3Nnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Selvforsvar - Leif I. Skaug</title>
       <link>https://radio.nrk.no/podkast/andakten/l_ba4ea7ce-5b56-4d91-abee-1945f8ff3edf</link>

@@ -6,7 +6,7 @@
     <description>Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Trygdekontoret</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret</link>
     </image>
+    <item>
+      <title>Nyrike nordmenn</title>
+      <link>https://radio.nrk.no/podkast/trygdekontoret/l_7b1c257f-1f20-464f-9bdc-d3740553a848</link>
+      <description>Hvordan ble Norge verdens mest nyrike land? Og hva har milliardene gjort med folkesjela vår? Med journalist og økonom Lars Backe Madsen.  </description>
+      <guid isPermaLink="false">l_7b1c257f-1f20-464f-9bdc-d3740553a848</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/7b1c257f-1f20-464f-9bdc-d3740553a848_3430fab8-61d9-4b83-9b38-e2e53b06f850_ID192MP3.mp3" type="audio/mpeg" length="82928492"></enclosure>
+      <itunes:title>Nyrike nordmenn</itunes:title>
+      <itunes:summary>Hvordan ble Norge verdens mest nyrike land? Og hva har milliardene gjort med folkesjela vår? Med journalist og økonom Lars Backe Madsen.  </itunes:summary>
+      <itunes:duration>3455</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MvRPxiTOj9QQLYVJJc4qUABuZmjR45tfDx_EW2qaYXQw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>En amerikansk overgrepshistorie</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret/l_3e9be1af-4f93-4d79-a153-0d93e0555e94</link>

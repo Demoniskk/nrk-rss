@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Odd-Magnus typecastet som nazi</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_3cfd9a8f-38d9-4791-b6b0-8a19b87b1184</link>
+      <description>Er det et kompliment å blir castet til å spille nazi? Det må vi spørre Odd-Magnus Williamson om, som kommer for å snakke om den nye serien «Vikinger vs. nazister»</description>
+      <guid isPermaLink="false">l_3cfd9a8f-38d9-4791-b6b0-8a19b87b1184</guid>
+      <pubDate>Mon, 16 Nov 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/3cfd9a8f-38d9-4791-b6b0-8a19b87b1184_d0954dd1-12b6-4c49-adb1-150aa3cbcc44_ID192MP3.mp3" type="audio/mpeg" length="67507244"></enclosure>
+      <itunes:title>Odd-Magnus typecastet som nazi</itunes:title>
+      <itunes:summary>Er det et kompliment å blir castet til å spille nazi? Det må vi spørre Odd-Magnus Williamson om, som kommer for å snakke om den nye serien «Vikinger vs. nazister»</itunes:summary>
+      <itunes:duration>2812</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/FWLB7eNy6643aZyICMhILAji69Q4HDzI5ki_ups1O7UA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Aftur Nerdrum har flyttet til storbyen</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_e8683dd4-b583-4624-845d-02c32ba1c432</link>

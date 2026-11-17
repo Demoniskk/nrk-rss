@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:04:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Får Nvidia-sjefen jobben tilbake?</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_507d4c0d-56ff-4da5-93df-86abc93d2305</link>
+      <description>Og derfor er PS5 så dyrt nå.</description>
+      <guid isPermaLink="false">l_507d4c0d-56ff-4da5-93df-86abc93d2305</guid>
+      <pubDate>Tue, 17 Nov 2026 06:04:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/507d4c0d-56ff-4da5-93df-86abc93d2305_4a15c1e7-3b41-4bb6-b4bd-c1666eaedd77_ID192MP3.mp3" type="audio/mpeg" length="10482092"></enclosure>
+      <itunes:title>Får Nvidia-sjefen jobben tilbake?</itunes:title>
+      <itunes:summary>Og derfor er PS5 så dyrt nå.</itunes:summary>
+      <itunes:duration>436</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/syvaPHCeS3P91lCgSK5gIQP3I4qaN1zni1Mds3h7RQ5A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>I dag streikes det for Posten</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_c1f4b2ea-238e-4534-934c-0ed0ccf67922</link>

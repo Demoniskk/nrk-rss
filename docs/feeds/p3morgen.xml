@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Vi har fått GTA-dilla</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_cea163f4-8991-4dbf-b2c8-258e681b6003</link>
+      <description>Alt vi tenker på er GTA! Det finnes variant av Norge i rollespillet GTA Norge, der finnes kriminalitet i GTA stil, men også ekte mennesker som driver et lite bilverksted, vi må høre mer!</description>
+      <guid isPermaLink="false">l_cea163f4-8991-4dbf-b2c8-258e681b6003</guid>
+      <pubDate>Tue, 17 Nov 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/cea163f4-8991-4dbf-b2c8-258e681b6003_cc474bb6-48f9-49c2-8d5f-46ae7694345f_ID192MP3.mp3" type="audio/mpeg" length="62603756"></enclosure>
+      <itunes:title>Vi har fått GTA-dilla</itunes:title>
+      <itunes:summary>Alt vi tenker på er GTA! Det finnes variant av Norge i rollespillet GTA Norge, der finnes kriminalitet i GTA stil, men også ekte mennesker som driver et lite bilverksted, vi må høre mer!</itunes:summary>
+      <itunes:duration>2608</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GBIi36Iplk1Htq4TJlhZRAClX3UB7tCguETndL-JEf0A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Odd-Magnus typecastet som nazi</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_3cfd9a8f-38d9-4791-b6b0-8a19b87b1184</link>

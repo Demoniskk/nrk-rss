@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Kampen mot utsendelse: Derfor angrer støttegruppen</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_80f75423-2eb7-4336-8ef3-134838af9a33</link>
+      <description>Neda (12) ble ansiktet for tvangsutsendte asylbarn. Nå lurer støttegruppen på om de tok det for langt.</description>
+      <guid isPermaLink="false">l_80f75423-2eb7-4336-8ef3-134838af9a33</guid>
+      <pubDate>Tue, 17 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/80f75423-2eb7-4336-8ef3-134838af9a33_9e0e2d9e-9225-4506-be12-89aa5ab705fa_ID192MP3.mp3" type="audio/mpeg" length="20249324"></enclosure>
+      <itunes:title>Kampen mot utsendelse: Derfor angrer støttegruppen</itunes:title>
+      <itunes:summary>Neda (12) ble ansiktet for tvangsutsendte asylbarn. Nå lurer støttegruppen på om de tok det for langt.</itunes:summary>
+      <itunes:duration>843</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ndtM4nqax8umi6uk9CbIiQMytHqcKOcD3P-9r6tCxMgQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Datasenter-bråket: Fra norsk boom til bråstopp</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_b8a95a68-279b-4b64-b4d6-49b90ee18285</link>

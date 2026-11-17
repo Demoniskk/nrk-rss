@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 12:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:25:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Are Sende Osen</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_1de89088-7e7b-4769-bac9-c17082c6b468</link>
+      <description>– Vi har vært grinete i generasjoner,  sier radioprofilen om familien sin.</description>
+      <guid isPermaLink="false">l_1de89088-7e7b-4769-bac9-c17082c6b468</guid>
+      <pubDate>Mon, 16 Nov 2026 13:25:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1de89088-7e7b-4769-bac9-c17082c6b468_4a625f28-c89e-4761-b7c0-bdf7bdb8a96e_ID192MP3.mp3" type="audio/mpeg" length="82436588"></enclosure>
+      <itunes:title>Are Sende Osen</itunes:title>
+      <itunes:summary>– Vi har vært grinete i generasjoner,  sier radioprofilen om familien sin.</itunes:summary>
+      <itunes:duration>3434</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8VPPVB381KHIwxTSdng39wMs-dqnq1WE6UYuvDUfSpNw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Itonje Søimer Guttormsen</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_29c30a0f-c5ea-4015-beaf-05002f42f4ab</link>

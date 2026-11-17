@@ -6,7 +6,7 @@
     <description>Risstinin li tjielgga vuojno masi ájggu. Le gus A4-iellem buoremus viessomvuohke, jali ij la huoman nav buorre gåk gullu? Se i NRK TV.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/juorre.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Juorre</title>
       <link>https://radio.nrk.no/podkast/juorre</link>
     </image>
+    <item>
+      <title>Dån gatjáda –  mij vásstedip!</title>
+      <link>https://radio.nrk.no/podkast/juorre/l_a84ee9b2-471d-4340-8ee9-b2471db34027</link>
+      <description>Risstin, Ailo aktan Johannajn vásstedi gatjálvisájt gulldaliddjijs dán sierra gávdán.</description>
+      <guid isPermaLink="false">l_a84ee9b2-471d-4340-8ee9-b2471db34027</guid>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/juorre/a84ee9b2-471d-4340-8ee9-b2471db34027_1_ID192MP3.mp3" type="audio/mpeg" length="27721196"></enclosure>
+      <itunes:title>Dån gatjáda –  mij vásstedip!</itunes:title>
+      <itunes:summary>Risstin, Ailo aktan Johannajn vásstedi gatjálvisájt gulldaliddjijs dán sierra gávdán.</itunes:summary>
+      <itunes:duration>1155</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aH3TL2yGw09vT1w8uDJAxQp1QMB2yw5jcc2n-SN6SKwQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Hazara, låjes sábme ja sjæjkka</title>
       <link>https://radio.nrk.no/podkast/juorre/l_6a09a482-5286-4a99-89a4-825286ca9969</link>

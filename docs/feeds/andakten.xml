@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Bot - Ragnhild B. Opsahl</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_34a3428c-148b-40b2-bf6c-bd33462a7ff1</link>
+      <description>Hvis du har juksa med noe, noe som er litt viktig. Hva er verst da? Å bli tatt i juks, eller å ikke bli tatt i juks?</description>
+      <guid isPermaLink="false">l_34a3428c-148b-40b2-bf6c-bd33462a7ff1</guid>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/34a3428c-148b-40b2-bf6c-bd33462a7ff1_67a4453e-1490-4222-b2f0-4566af7a820a_ID192MP3.mp3" type="audio/mpeg" length="5423084"></enclosure>
+      <itunes:title>Bot - Ragnhild B. Opsahl</itunes:title>
+      <itunes:summary>Hvis du har juksa med noe, noe som er litt viktig. Hva er verst da? Å bli tatt i juks, eller å ikke bli tatt i juks?</itunes:summary>
+      <itunes:duration>225</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EJcoAnB0N4OEjKttZLKATATr8j6EdImeRTJm2zhV3Nnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Skam - Ragnhild B.Opsahl</title>
       <link>https://radio.nrk.no/podkast/andakten/l_88236ae1-888a-4883-87ea-72389b902a7c</link>

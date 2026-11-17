@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Bifobi, pranking og aldersangst</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_252f5c27-f283-470d-a1be-550a3e0be34a</link>
+      <description>Milie er fascinert av True Crime, Sofie har aldersangst og Spøtta leverer som alltid. &#xA;&#xA;Send oss en melding i NRK Radio :)</description>
+      <guid isPermaLink="false">l_252f5c27-f283-470d-a1be-550a3e0be34a</guid>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/252f5c27-f283-470d-a1be-550a3e0be34a_ffd1111e-ec94-4190-ac5e-fd90b014043e_ID192MP3.mp3" type="audio/mpeg" length="78073388"></enclosure>
+      <itunes:title>Bifobi, pranking og aldersangst</itunes:title>
+      <itunes:summary>Milie er fascinert av True Crime, Sofie har aldersangst og Spøtta leverer som alltid. &#xA;&#xA;Send oss en melding i NRK Radio :)</itunes:summary>
+      <itunes:duration>3253</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Dyskalkuli, lommepenger og KI-loggen</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_6eeb3721-f012-437d-a92e-c7637da65c01</link>

@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 23:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 21:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Kampen om Skandinavia: Slik slår vi danskene</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_ee370068-0ce1-4ba6-b90a-e487fc59a562</link>
+      <description>Det norske landslaget har vært konger av Skandinavia i år. Men danskene har ny selvtillit etter å ha knust Portugal på bortebane.&#xA;Hvordan skal vi vinne over danskene igjen, og var alt snakket om Haalands manglende motivasjon en storm i et vannglass?&#xA; Vi forbereder oss på &#34;Slaget i Parken&#34;. Dette blir utrolig gøy!</description>
+      <guid isPermaLink="false">l_ee370068-0ce1-4ba6-b90a-e487fc59a562</guid>
+      <pubDate>Mon, 16 Nov 2026 22:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/ee370068-0ce1-4ba6-b90a-e487fc59a562_d80c2c43-925d-4dc7-bd94-d25bdb3c6b8e_ID192MP3.mp3" type="audio/mpeg" length="56729708"></enclosure>
+      <itunes:title>Kampen om Skandinavia: Slik slår vi danskene</itunes:title>
+      <itunes:summary>Det norske landslaget har vært konger av Skandinavia i år. Men danskene har ny selvtillit etter å ha knust Portugal på bortebane.&#xA;Hvordan skal vi vinne over danskene igjen, og var alt snakket om Haalands manglende motivasjon en storm i et vannglass?&#xA; Vi forbereder oss på &#34;Slaget i Parken&#34;. Dette blir utrolig gøy!</itunes:summary>
+      <itunes:duration>2363</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Wales-sjefen hyller Nusa: – Verdensklasse!</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_21439db0-d3be-4198-9343-b3fc0dc3cb0a</link>

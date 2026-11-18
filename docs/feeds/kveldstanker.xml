@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Skole - med Terje Torkildsen</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_06e7734f-960e-4295-bb2d-8f3665e91571</link>
+      <description>Hvorfor har vi begynt å gjemme bort skolene våre, spør forfatteren Terje Torkildsen.</description>
+      <guid isPermaLink="false">l_06e7734f-960e-4295-bb2d-8f3665e91571</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/06e7734f-960e-4295-bb2d-8f3665e91571_c0a33dd9-f7b4-4c5c-9af9-fa7d6fa33b38_ID192MP3.mp3" type="audio/mpeg" length="3706604"></enclosure>
+      <itunes:title>Skole - med Terje Torkildsen</itunes:title>
+      <itunes:summary>Hvorfor har vi begynt å gjemme bort skolene våre, spør forfatteren Terje Torkildsen.</itunes:summary>
+      <itunes:duration>154</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/MIaaiCXe_AzVkp3CFJ-YoA41qjANNIq2JqgQomYQq87Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Dagbok - med Ingelin Røssland</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_4bbe58d3-2478-4384-824b-3287680a3d44</link>

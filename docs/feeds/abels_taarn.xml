@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Vil du til månen?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_1d0a3d6a-52ac-4d08-a03c-be0af08ce3f6</link>
+      <description>Nasa trenger flere astronauter. Dessuten, endelig er dinosaurblod funnet. Og urskogen er ikke sånn vi trodde&#xA;</description>
+      <guid isPermaLink="false">l_1d0a3d6a-52ac-4d08-a03c-be0af08ce3f6</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1d0a3d6a-52ac-4d08-a03c-be0af08ce3f6_07d66d80-d870-4700-9c03-61df1fe52ed2_ID192MP3.mp3" type="audio/mpeg" length="40567724"></enclosure>
+      <itunes:title>Vil du til månen?</itunes:title>
+      <itunes:summary>Nasa trenger flere astronauter. Dessuten, endelig er dinosaurblod funnet. Og urskogen er ikke sånn vi trodde&#xA;</itunes:summary>
+      <itunes:duration>1690</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GnT5ffC93gdUfxrE4znrmw0FWeVoJnBIGqKU3ZZed22A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Slik nailer du smalltalk</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_6aa63b4c-36bf-476b-846c-e30f6b172e90</link>

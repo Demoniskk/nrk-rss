@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>KI-boble for oljefondet?</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_5dcdbc7e-77f8-4d19-ab6e-bf7ff5cf766d</link>
+      <description>Oljefondet er truga av ei KI-boble,  meiner SV-leiaren som ber Jens Stoltenberg investere annleis.</description>
+      <guid isPermaLink="false">l_5dcdbc7e-77f8-4d19-ab6e-bf7ff5cf766d</guid>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/5dcdbc7e-77f8-4d19-ab6e-bf7ff5cf766d_451e7b6a-30dd-42fb-ace0-97a6f76d7efa_ID192MP3.mp3" type="audio/mpeg" length="21657644"></enclosure>
+      <itunes:title>KI-boble for oljefondet?</itunes:title>
+      <itunes:summary>Oljefondet er truga av ei KI-boble,  meiner SV-leiaren som ber Jens Stoltenberg investere annleis.</itunes:summary>
+      <itunes:duration>902</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SeO5c8dd6Fl97iyhqmXNRgFOgKxbIRZ-XVa5JKZY9ccw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Nato-medlemskap til Ukraina?</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_4d644485-5ee3-4bb7-af3c-6cc32964e303</link>

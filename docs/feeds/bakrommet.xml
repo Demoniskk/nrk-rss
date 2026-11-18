@@ -6,7 +6,7 @@
     <description>VM er over, men det er mye å glede seg til fremover. Vi følger landslagsfotballen og norske spillere ute i Europa.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 21:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:38:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bakrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Bakrommet</title>
       <link>https://radio.nrk.no/podkast/bakrommet</link>
     </image>
+    <item>
+      <title>Norge til kvartfinalen i Nasjonsligaen</title>
+      <link>https://radio.nrk.no/podkast/bakrommet/l_16e61c13-7aa9-414f-860f-9b740044edd2</link>
+      <description>En vanvittig snuoperasjon og et avgjørende straffespark i siste minutt av overtiden. Kaptein Ødegaard og en toppmotivert Haaland dro laget fram til seieren som gir Norge en kvartfinale mot et av Europas topplag.</description>
+      <guid isPermaLink="false">l_16e61c13-7aa9-414f-860f-9b740044edd2</guid>
+      <pubDate>Wed, 18 Nov 2026 03:38:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bakrommet/16e61c13-7aa9-414f-860f-9b740044edd2_10e30ccd-fe46-4cbf-8391-5382edcc9313_ID192MP3.mp3" type="audio/mpeg" length="66278636"></enclosure>
+      <itunes:title>Norge til kvartfinalen i Nasjonsligaen</itunes:title>
+      <itunes:summary>En vanvittig snuoperasjon og et avgjørende straffespark i siste minutt av overtiden. Kaptein Ødegaard og en toppmotivert Haaland dro laget fram til seieren som gir Norge en kvartfinale mot et av Europas topplag.</itunes:summary>
+      <itunes:duration>2761</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qv4rsAQ2_3U2fxnPCkH--gw7p-hjAvMGGav-I4R0j25A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Kampen om Skandinavia: Slik slår vi danskene</title>
       <link>https://radio.nrk.no/podkast/bakrommet/l_ee370068-0ce1-4ba6-b90a-e487fc59a562</link>

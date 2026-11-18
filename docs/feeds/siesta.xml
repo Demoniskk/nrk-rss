@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Kjøleskapsdøra knakk </title>
+      <link>https://radio.nrk.no/podkast/siesta/l_bbe111c5-9148-4460-8b40-72ca61f2ca15</link>
+      <description>Anna er forbanna på folk som nyser i hendene sine, Finn Glede vil være James Bond og Markus knakk kjøleskapet.</description>
+      <guid isPermaLink="false">l_bbe111c5-9148-4460-8b40-72ca61f2ca15</guid>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/bbe111c5-9148-4460-8b40-72ca61f2ca15_d6de6938-2956-415d-8dcf-0cd85548da5d_ID192MP3.mp3" type="audio/mpeg" length="62014508"></enclosure>
+      <itunes:title>Kjøleskapsdøra knakk </itunes:title>
+      <itunes:summary>Anna er forbanna på folk som nyser i hendene sine, Finn Glede vil være James Bond og Markus knakk kjøleskapet.</itunes:summary>
+      <itunes:duration>2583</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Daniel kjører bil i Oslo sentrum</title>
       <link>https://radio.nrk.no/podkast/siesta/l_0c2048bd-838f-4385-8c28-1e54c00ba430</link>

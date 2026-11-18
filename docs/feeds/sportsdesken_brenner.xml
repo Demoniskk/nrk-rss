@@ -6,7 +6,7 @@
     <description>En gjeng komikere gir deg det morsomste fra sportens verden akkurat nå.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sportsdesken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sportsdesken brenner</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner</link>
     </image>
+    <item>
+      <title>Haaland vil ha ribbe. Nå! </title>
+      <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_bba05cf7-6052-4c0b-b76c-c5b9b4883e31</link>
+      <description>Alle tester urinen sin i studio, akkurat som landslaget. Og vi hører en svært utålmodig Erling Braut Haaland som bare vil rekke bussen til juleribba.</description>
+      <guid isPermaLink="false">l_bba05cf7-6052-4c0b-b76c-c5b9b4883e31</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sportsdesken_brenner/bba05cf7-6052-4c0b-b76c-c5b9b4883e31_0bd4fd0e-d03f-4c6f-b006-bf2327b23729_ID192MP3.mp3" type="audio/mpeg" length="51304364"></enclosure>
+      <itunes:title>Haaland vil ha ribbe. Nå! </itunes:title>
+      <itunes:summary>Alle tester urinen sin i studio, akkurat som landslaget. Og vi hører en svært utålmodig Erling Braut Haaland som bare vil rekke bussen til juleribba.</itunes:summary>
+      <itunes:duration>2137</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/aAsmlAkvcoY2RTYmfdd4hw7kX_jBjXf6NZcY-lrmV2kw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Tribunequiz: Hvem har falt i hullet?</title>
       <link>https://radio.nrk.no/podkast/sportsdesken_brenner/l_9c3dae9a-7ecb-435a-bd11-8227f53ced72</link>

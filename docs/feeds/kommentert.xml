@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 15:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 16:55:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Sylvi Listhaug: Fra lik og del til statsminister?</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_12065254-0883-494c-9900-486767ebad56</link>
+      <description>Frp har i lang tid vært landets største parti på målinger. Kvinnen bak det hele? Sylvi Listhaug. &#xA;Hva slags parti har Frp blitt med Listhaug som leder? Og kan hun bli statsminister?</description>
+      <guid isPermaLink="false">l_12065254-0883-494c-9900-486767ebad56</guid>
+      <pubDate>Tue, 17 Nov 2026 17:55:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/12065254-0883-494c-9900-486767ebad56_31ac3a5d-9c69-4759-a8ff-ada2c84871e7_ID192MP3.mp3" type="audio/mpeg" length="39394988"></enclosure>
+      <itunes:title>Sylvi Listhaug: Fra lik og del til statsminister?</itunes:title>
+      <itunes:summary>Frp har i lang tid vært landets største parti på målinger. Kvinnen bak det hele? Sylvi Listhaug. &#xA;Hva slags parti har Frp blitt med Listhaug som leder? Og kan hun bli statsminister?</itunes:summary>
+      <itunes:duration>1641</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nOwy3-Q2kWgNg8mbvG-qrgBEbXN_dcMzKrBw0R7mc0cQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Droner, trusler og fryserhacking: Europa under angrep</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_6b0c87ea-d07b-4c55-8e2f-5ec8a84b84d9</link>

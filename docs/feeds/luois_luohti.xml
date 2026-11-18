@@ -6,7 +6,7 @@
     <description>Luohti sáhttá govvidit ráhkesvuođa, muhto maiddái unohisvuođaid. Dás guorahallabage luđiid, maiddái olbmuiguin geain leat muitalusat ja vásáhusat.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/luois_luohti.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Luođis luohtái</title>
       <link>https://radio.nrk.no/podkast/luois_luohti</link>
     </image>
+    <item>
+      <title>500 luođi guovtti beaivvis</title>
+      <link>https://radio.nrk.no/podkast/luois_luohti/l_875592f1-f628-4db2-a8c5-691b8aa8243a</link>
+      <description>Bojen Ánte lea ealli luohtearkiiva. Dán oasis beassá Ole Máhtte viimmat gullat ádjáidis luđiid, maid lea ohcan máŋga jagi</description>
+      <guid isPermaLink="false">l_875592f1-f628-4db2-a8c5-691b8aa8243a</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/luois_luohti/875592f1-f628-4db2-a8c5-691b8aa8243a_cfda32fa-8d32-4f50-a904-f3d481701aa4_ID192MP3.mp3" type="audio/mpeg" length="89517932"></enclosure>
+      <itunes:title>500 luođi guovtti beaivvis</itunes:title>
+      <itunes:summary>Bojen Ánte lea ealli luohtearkiiva. Dán oasis beassá Ole Máhtte viimmat gullat ádjáidis luđiid, maid lea ohcan máŋga jagi</itunes:summary>
+      <itunes:duration>3729</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pMm9qRo1jB976p2xfwhvfQ46CX07E_AWD5zPhTUnBUaA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Luohteárdna Porsáŋggus</title>
       <link>https://radio.nrk.no/podkast/luois_luohti/l_bf712b91-30da-4ae7-87a1-2ea594090a1a</link>

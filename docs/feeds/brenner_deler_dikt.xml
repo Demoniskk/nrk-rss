@@ -6,7 +6,7 @@
     <description>Hvordan kan noen få ord gi trøst, håp og et lite løft i hverdagen? Hans Olav Brenner og gjester deler sine favorittdikt.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/brenner_deler_dikt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Brenner deler dikt</title>
       <link>https://radio.nrk.no/podkast/brenner_deler_dikt</link>
     </image>
+    <item>
+      <title>Anne Marie Ottersen: Gi meg vann!</title>
+      <link>https://radio.nrk.no/podkast/brenner_deler_dikt/l_476ede74-c4d1-489a-bdbe-a42bc65a133b</link>
+      <description>Da skuespilleren fremførte diktet første gang, ble det helt stille.</description>
+      <guid isPermaLink="false">l_476ede74-c4d1-489a-bdbe-a42bc65a133b</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/476ede74-c4d1-489a-bdbe-a42bc65a133b_5b351eeb-3ec4-48a9-a55b-93c5e6cca83a_ID192MP3.mp3" type="audio/mpeg" length="28445228"></enclosure>
+      <itunes:title>Anne Marie Ottersen: Gi meg vann!</itunes:title>
+      <itunes:summary>Da skuespilleren fremførte diktet første gang, ble det helt stille.</itunes:summary>
+      <itunes:duration>1185</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/nI0pndsPb6cFmx8z7IVpxQVwIVlL0ztUn5EduwDAjsHA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Jan Egeland: Til en misantrop</title>
       <link>https://radio.nrk.no/podkast/brenner_deler_dikt/l_12e94cb6-5d26-4f37-b915-0958716102c5</link>

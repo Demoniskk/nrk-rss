@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 12:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:35:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Julie Brodtkorb</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_1f9b40ad-2801-4934-aa08-1297a57d945f</link>
+      <description>–Jeg trodde det var min feil at han slo, sier eks-politikeren, som fikk opp vonde minner i Kompani Lauritzen</description>
+      <guid isPermaLink="false">l_1f9b40ad-2801-4934-aa08-1297a57d945f</guid>
+      <pubDate>Tue, 17 Nov 2026 13:35:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/1f9b40ad-2801-4934-aa08-1297a57d945f_1e707882-cdeb-47b7-afa4-42209d5df824_ID192MP3.mp3" type="audio/mpeg" length="82236716"></enclosure>
+      <itunes:title>Julie Brodtkorb</itunes:title>
+      <itunes:summary>–Jeg trodde det var min feil at han slo, sier eks-politikeren, som fikk opp vonde minner i Kompani Lauritzen</itunes:summary>
+      <itunes:duration>3426</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VHMhBv-eyJaS3X65DJ9raAFY6gFbcfWrZA_T6ZRC_2fQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Are Sende Osen</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_1de89088-7e7b-4769-bac9-c17082c6b468</link>

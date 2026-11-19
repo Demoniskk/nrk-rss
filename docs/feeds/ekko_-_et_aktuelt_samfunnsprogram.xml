@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Spillenes konge 6.0</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_38ab882f-e8b5-4bc5-b75e-a2f714010edf</link>
+      <description>Nye GTA 6 slippes denne uka, og kan bli årets største populærkulturelle begivenhet. Men det koster å være del av fellesskapet.</description>
+      <guid isPermaLink="false">l_38ab882f-e8b5-4bc5-b75e-a2f714010edf</guid>
+      <pubDate>Wed, 18 Nov 2026 13:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/38ab882f-e8b5-4bc5-b75e-a2f714010edf_33f027b6-c933-4f02-97bc-81b782e512b6_ID192MP3.mp3" type="audio/mpeg" length="34129772"></enclosure>
+      <itunes:title>Spillenes konge 6.0</itunes:title>
+      <itunes:summary>Nye GTA 6 slippes denne uka, og kan bli årets største populærkulturelle begivenhet. Men det koster å være del av fellesskapet.</itunes:summary>
+      <itunes:duration>1422</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/pA58IC0dmphUbdsS97nVgAeNDdijVkWRdiNNujJZ0l0w"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Europa vs. Elon Musk</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_cd5f8d30-44f5-40ca-ae2c-c49e2b84fe34</link>

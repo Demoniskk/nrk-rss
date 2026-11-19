@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Sorg - Ragnhild B. Opsahl</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_7bc45c1e-100f-48a5-96ea-dfe3ae52df00</link>
+      <description>Av og til må vi stole på at vi holdes oppe, at vi flyter, selv om vi ikke vet hva som bærer oss.</description>
+      <guid isPermaLink="false">l_7bc45c1e-100f-48a5-96ea-dfe3ae52df00</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/7bc45c1e-100f-48a5-96ea-dfe3ae52df00_45b4ede2-8ead-4e76-86b2-165f239b46c1_ID192MP3.mp3" type="audio/mpeg" length="5136812"></enclosure>
+      <itunes:title>Sorg - Ragnhild B. Opsahl</itunes:title>
+      <itunes:summary>Av og til må vi stole på at vi holdes oppe, at vi flyter, selv om vi ikke vet hva som bærer oss.</itunes:summary>
+      <itunes:duration>213</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EJcoAnB0N4OEjKttZLKATATr8j6EdImeRTJm2zhV3Nnw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Overload - Ragnhild B. Opsahl</title>
       <link>https://radio.nrk.no/podkast/andakten/l_88ffe0c4-ed26-4b4f-9d75-e0b308aea06a</link>

@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,34 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Sexy kalender: Fra bildekk til politikk</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_212f5023-14c2-4403-b8b8-e04c393cefd6</link>
+      <description>«Sexy sosialister» har skapt debatt, men hvordan ble kalendere med lettkledde kvinner egentlig til?</description>
+      <guid isPermaLink="false">l_212f5023-14c2-4403-b8b8-e04c393cefd6</guid>
+      <pubDate>Thu, 19 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/212f5023-14c2-4403-b8b8-e04c393cefd6_f402d896-774c-4ab5-adb1-a0359c728e94_ID192MP3.mp3" type="audio/mpeg" length="21674924"></enclosure>
+      <itunes:title>Sexy kalender: Fra bildekk til politikk</itunes:title>
+      <itunes:summary>«Sexy sosialister» har skapt debatt, men hvordan ble kalendere med lettkledde kvinner egentlig til?</itunes:summary>
+      <itunes:duration>903</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WU3my7r8C8wMhCjS0kr3bQC8TY4JzQhBqjmJQ7MpIRtw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
+    <item>
+      <title>GTA: Dette er historien og kontroversene</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_987b3d0d-2988-4960-b436-52af0c589cf0</link>
+      <description>Bilran, sex, vold og drap: Hvordan ble GTA et så stort fenomen?</description>
+      <guid isPermaLink="false">l_987b3d0d-2988-4960-b436-52af0c589cf0</guid>
+      <pubDate>Wed, 18 Nov 2026 17:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/987b3d0d-2988-4960-b436-52af0c589cf0_883003c3-2cb0-483f-a490-de98af6d7d98_ID192MP3.mp3" type="audio/mpeg" length="24636140"></enclosure>
+      <itunes:title>GTA: Dette er historien og kontroversene</itunes:title>
+      <itunes:summary>Bilran, sex, vold og drap: Hvordan ble GTA et så stort fenomen?</itunes:summary>
+      <itunes:duration>1026</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Iaq66q_7xqWG2RELlvECrQgE3gCni9ea5G_AB_Al9sxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Tekmilliardærens fall: Sex, spionanklage og børsras</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_bbddbb98-d84e-474c-a55c-d0d10edee634</link>

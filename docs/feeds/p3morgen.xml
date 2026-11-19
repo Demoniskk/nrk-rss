@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Fød en baby, få GTA 6 gratis!</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_302493e8-c171-4033-99ce-9f5b5bf86ecc</link>
+      <description>Gratulerer med GTA 6-dagen! Vi skal dele ut billetter til vår musikkfrokost 1. desember, og snakke med de som allerede har rukket å spille GTA 6. Lever det opp til forventningene?</description>
+      <guid isPermaLink="false">l_302493e8-c171-4033-99ce-9f5b5bf86ecc</guid>
+      <pubDate>Thu, 19 Nov 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/302493e8-c171-4033-99ce-9f5b5bf86ecc_54633946-4648-49cf-b4cc-97c6292be148_ID192MP3.mp3" type="audio/mpeg" length="62868140"></enclosure>
+      <itunes:title>Fød en baby, få GTA 6 gratis!</itunes:title>
+      <itunes:summary>Gratulerer med GTA 6-dagen! Vi skal dele ut billetter til vår musikkfrokost 1. desember, og snakke med de som allerede har rukket å spille GTA 6. Lever det opp til forventningene?</itunes:summary>
+      <itunes:duration>2619</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/DGQ6qIsHCjqmWQ1CN8TC5QOfKFSrrL0Ii4AyIjFe4UTw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>2013-spesial!</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_4a3ee344-8dda-443a-a62f-5bcbe0f42487</link>

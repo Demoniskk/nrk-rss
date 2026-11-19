@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Look to Denmark?</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_2bf3695f-5f49-492c-9b36-ce5e4e24ba94</link>
+      <description>Danmark og fire andre europeiske land vil sende avviste asylsøkere til Rwanda.&#xA;Bør Norge følge etter?</description>
+      <guid isPermaLink="false">l_2bf3695f-5f49-492c-9b36-ce5e4e24ba94</guid>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/2bf3695f-5f49-492c-9b36-ce5e4e24ba94_95da6e97-06aa-4d9e-aa33-8841fe5bc5e6_ID192MP3.mp3" type="audio/mpeg" length="21736556"></enclosure>
+      <itunes:title>Look to Denmark?</itunes:title>
+      <itunes:summary>Danmark og fire andre europeiske land vil sende avviste asylsøkere til Rwanda.&#xA;Bør Norge følge etter?</itunes:summary>
+      <itunes:duration>905</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/sienR2zaZk8AMi6nOyDWnw8d6KJ8yDK7O-l4cd8Tf-0A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>KI-boble for oljefondet?</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_5dcdbc7e-77f8-4d19-ab6e-bf7ff5cf766d</link>

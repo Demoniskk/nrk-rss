@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Historisk møte</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_ef2798f2-b363-4744-ab4c-5bf631e29320</link>
+      <description>Toppmøtet mellom Donald Trump, Vladimir Putin og Xi Jinping har startet i Shnezhen i Kina i dag.</description>
+      <guid isPermaLink="false">l_ef2798f2-b363-4744-ab4c-5bf631e29320</guid>
+      <pubDate>Wed, 18 Nov 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/ef2798f2-b363-4744-ab4c-5bf631e29320_5b5f091b-a189-47cd-8f42-bb6377bd2a85_ID192MP3.mp3" type="audio/mpeg" length="84991148"></enclosure>
+      <itunes:title>Historisk møte</itunes:title>
+      <itunes:summary>Toppmøtet mellom Donald Trump, Vladimir Putin og Xi Jinping har startet i Shnezhen i Kina i dag.</itunes:summary>
+      <itunes:duration>3541</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/74G7UVdekVFxlEEbuzm0bQtnIprlHZEjsujZtdEQVxqA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Ny meningsmåling</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_1aa274b6-424c-4592-a443-b00bb4d59271</link>

@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Dum toer!</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_9c91f901-a3c4-4876-9e36-b9d92bbe53e0</link>
+      <description>Tara har blitt anmeldt. Anders har fått nok av internett. Vi elsker Nikolai Ramm! Ikke ta imot økonomi-råd fra denne gjengen. </description>
+      <guid isPermaLink="false">l_9c91f901-a3c4-4876-9e36-b9d92bbe53e0</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/9c91f901-a3c4-4876-9e36-b9d92bbe53e0_fc31d425-7385-44f2-8385-c118fff31cb4_ID192MP3.mp3" type="audio/mpeg" length="59942636"></enclosure>
+      <itunes:title>Dum toer!</itunes:title>
+      <itunes:summary>Tara har blitt anmeldt. Anders har fått nok av internett. Vi elsker Nikolai Ramm! Ikke ta imot økonomi-råd fra denne gjengen. </itunes:summary>
+      <itunes:duration>2497</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Et retro ran</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_74eb189d-f7b6-4d6d-9b4c-1e51796788fa</link>

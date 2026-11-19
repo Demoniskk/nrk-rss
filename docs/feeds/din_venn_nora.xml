@@ -6,7 +6,7 @@
     <description>Nok en hektisk uke for komiker Nora Svenningsen. Her er hennes verbale dagbok, hvor du er med på å fargelegge sidene. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/din_venn_nora.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Din venn, Nora</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora</link>
     </image>
+    <item>
+      <title>Mitt første møte med Afrika</title>
+      <link>https://radio.nrk.no/podkast/din_venn_nora/l_e123b15d-cc78-4c15-8af2-b894de823f54</link>
+      <description>Debrief av en innholdsrik tur til Marokko&lt;3</description>
+      <guid isPermaLink="false">l_e123b15d-cc78-4c15-8af2-b894de823f54</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/e123b15d-cc78-4c15-8af2-b894de823f54_89e668c6-531b-4cd9-9251-2c854607b3f5_ID192MP3.mp3" type="audio/mpeg" length="39387500"></enclosure>
+      <itunes:title>Mitt første møte med Afrika</itunes:title>
+      <itunes:summary>Debrief av en innholdsrik tur til Marokko&lt;3</itunes:summary>
+      <itunes:duration>1641</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tvvqXLkNP1MfroE3z7u7bAKk4GRbOYZVOMEOgZiLLU1A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>En ny Mariah Carey er født</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora/l_5cf19b05-6c3c-488f-a1b4-dceb2355abea</link>

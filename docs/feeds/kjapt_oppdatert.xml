@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>GTA VI hylles</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_b4e6a33d-8005-40f8-8d9b-9327288f9790</link>
+      <description>Og i dag markeres mannsdagen&#xA;</description>
+      <guid isPermaLink="false">l_b4e6a33d-8005-40f8-8d9b-9327288f9790</guid>
+      <pubDate>Thu, 19 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/b4e6a33d-8005-40f8-8d9b-9327288f9790_6afcb1e1-cc5d-4cca-8e82-f7e4fd8bbcc5_ID192MP3.mp3" type="audio/mpeg" length="10027052"></enclosure>
+      <itunes:title>GTA VI hylles</itunes:title>
+      <itunes:summary>Og i dag markeres mannsdagen&#xA;</itunes:summary>
+      <itunes:duration>417</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/8shgqh9nZiDH7Lb683HfnwBOCJMbIw2hQXjIeiLC6ehQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Fra og med i dag jobber kvinner «gratis»</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_6e9137c4-641d-43ae-bf65-e1f1b04b6194</link>

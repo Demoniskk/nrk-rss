@@ -6,7 +6,7 @@
     <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sentralbordet på NRK</title>
       <link>https://radio.nrk.no/podkast/sentralbordet</link>
     </image>
+    <item>
+      <title>Rap og Country-spesial</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_cf154088-ec31-4ddb-99f3-972360faf95e</link>
+      <description>Vegard prøver å få bestilt hamburgerdressing i Finland, Catrin Sagen ringer feil igjen, Emilie testes i ny musikksjanger og Ole Henry utfordrer til duell.</description>
+      <guid isPermaLink="false">l_cf154088-ec31-4ddb-99f3-972360faf95e</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/cf154088-ec31-4ddb-99f3-972360faf95e_58ebd49e-b41e-47eb-bd6a-354d134fc10a_ID192MP3.mp3" type="audio/mpeg" length="28566188"></enclosure>
+      <itunes:title>Rap og Country-spesial</itunes:title>
+      <itunes:summary>Vegard prøver å få bestilt hamburgerdressing i Finland, Catrin Sagen ringer feil igjen, Emilie testes i ny musikksjanger og Ole Henry utfordrer til duell.</itunes:summary>
+      <itunes:duration>1190</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Lives musikaldebut</title>
       <link>https://radio.nrk.no/podkast/sentralbordet/l_d8237534-fd2e-412f-97bb-76b970532e85</link>

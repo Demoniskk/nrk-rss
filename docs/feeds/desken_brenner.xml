@@ -6,7 +6,7 @@
     <description>Alt kan skje og ingen er trygge når fire komikere oppsummerer uka!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/desken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Desken brenner</title>
       <link>https://radio.nrk.no/podkast/desken_brenner</link>
     </image>
+    <item>
+      <title>Urix x GTA</title>
+      <link>https://radio.nrk.no/podkast/desken_brenner/l_db5ccdae-a19c-4073-812c-1616118a6a04</link>
+      <description>GTA VI er endelig ute – men ikke alle gleder seg på ungdommens vegne. Annika Momrak får kjeft for våpenbruk. VGS-elever får betalt for å ikke bryte loven.</description>
+      <guid isPermaLink="false">l_db5ccdae-a19c-4073-812c-1616118a6a04</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/db5ccdae-a19c-4073-812c-1616118a6a04_9f6a5709-46e9-4f1d-9d5f-75205a1cfac5_ID192MP3.mp3" type="audio/mpeg" length="59913836"></enclosure>
+      <itunes:title>Urix x GTA</itunes:title>
+      <itunes:summary>GTA VI er endelig ute – men ikke alle gleder seg på ungdommens vegne. Annika Momrak får kjeft for våpenbruk. VGS-elever får betalt for å ikke bryte loven.</itunes:summary>
+      <itunes:duration>2496</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Livin’ La Nvidia Loca</title>
       <link>https://radio.nrk.no/podkast/desken_brenner/l_f3951ee1-e4c0-4685-a905-49e8d48f5179</link>

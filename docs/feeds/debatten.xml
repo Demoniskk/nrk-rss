@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 21:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Er det skamfullt å ha dialekt?</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_617649ac-552b-45e4-a230-b9f3117a2dd3</link>
+      <description>Dialektskam, sexy dialekter og fremtiden til det norske språk er tema i Debatten denne torsdagen. </description>
+      <guid isPermaLink="false">l_617649ac-552b-45e4-a230-b9f3117a2dd3</guid>
+      <pubDate>Thu, 19 Nov 2026 22:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/617649ac-552b-45e4-a230-b9f3117a2dd3_6d10dc24-3610-458e-a959-8bb70d936ae1_ID192MP3.mp3" type="audio/mpeg" length="60163244"></enclosure>
+      <itunes:title>Er det skamfullt å ha dialekt?</itunes:title>
+      <itunes:summary>Dialektskam, sexy dialekter og fremtiden til det norske språk er tema i Debatten denne torsdagen. </itunes:summary>
+      <itunes:duration>2506</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ObUUuyxgMOEbWl_WdwiaeAu2MnVQ-RCqQTweCc8NKSjg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>2000 kan miste jobben i Posten</title>
       <link>https://radio.nrk.no/podkast/debatten/l_f2004801-5f53-492a-ab8a-fb320ae5ba91</link>

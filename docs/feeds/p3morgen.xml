@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>P3morgen taxiservice</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_af12f033-91f2-47bd-b805-34d51d97e130</link>
+      <description>400 000 kollektivreisende står uten et alternativ når t-banen er stengt i hovedstaden. Vi tar saken, og har sendt Hedda ut i en bil for å plukke opp deg som trenger skyss! Send oss en melding om du trenger å bli plukket opp!</description>
+      <guid isPermaLink="false">l_af12f033-91f2-47bd-b805-34d51d97e130</guid>
+      <pubDate>Fri, 20 Nov 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/af12f033-91f2-47bd-b805-34d51d97e130_8a06a76b-bff9-475e-8fc1-38f5f60fbc97_ID192MP3.mp3" type="audio/mpeg" length="62003564"></enclosure>
+      <itunes:title>P3morgen taxiservice</itunes:title>
+      <itunes:summary>400 000 kollektivreisende står uten et alternativ når t-banen er stengt i hovedstaden. Vi tar saken, og har sendt Hedda ut i en bil for å plukke opp deg som trenger skyss! Send oss en melding om du trenger å bli plukket opp!</itunes:summary>
+      <itunes:duration>2583</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/GBIi36Iplk1Htq4TJlhZRAClX3UB7tCguETndL-JEf0A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Fød en baby, få GTA 6 gratis!</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_302493e8-c171-4033-99ce-9f5b5bf86ecc</link>

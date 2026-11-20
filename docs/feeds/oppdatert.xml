@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Mannen «alle» burde hørt på: Nå spår han ny krise</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_e55d4702-3a68-44f6-92a7-e2a3db3d26d3</link>
+      <description>Forrige gang fikk han rett i spådommene sine om finanskrise. Kan advarslene hans stemme igjen?</description>
+      <guid isPermaLink="false">l_e55d4702-3a68-44f6-92a7-e2a3db3d26d3</guid>
+      <pubDate>Fri, 20 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/e55d4702-3a68-44f6-92a7-e2a3db3d26d3_4df07196-dcf9-423b-8d4b-bd8933443985_ID192MP3.mp3" type="audio/mpeg" length="25472492"></enclosure>
+      <itunes:title>Mannen «alle» burde hørt på: Nå spår han ny krise</itunes:title>
+      <itunes:summary>Forrige gang fikk han rett i spådommene sine om finanskrise. Kan advarslene hans stemme igjen?</itunes:summary>
+      <itunes:duration>1061</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Uz7n0TAFPA-TxQBtWlH27QCgl7CsHumwndObbSaRr2qg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Sexy kalender: Fra bildekk til politikk</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_212f5023-14c2-4403-b8b8-e04c393cefd6</link>

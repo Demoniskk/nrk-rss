@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Hvilket dyr fløy først?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_275b7e90-51fb-4c04-afdc-264cb956f986</link>
+      <description>Bør få tittelen Tidenes Tøffeste!&#xA;Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende ekspertise!</description>
+      <guid isPermaLink="false">l_275b7e90-51fb-4c04-afdc-264cb956f986</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/275b7e90-51fb-4c04-afdc-264cb956f986_35ce5fb9-8dbd-497e-b96b-f50e85043785_ID192MP3.mp3" type="audio/mpeg" length="82906604"></enclosure>
+      <itunes:title>Hvilket dyr fløy først?</itunes:title>
+      <itunes:summary>Bør få tittelen Tidenes Tøffeste!&#xA;Går du rundt og lurer på merkelige saker og ting? Få svar fra Abels Tårns allvitende ekspertise!</itunes:summary>
+      <itunes:duration>3454</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ojYKXrABrHczLlL8p8_lNQ0EpBr76LSMGg-tLAQFDVow"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Vil du til månen?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_1d0a3d6a-52ac-4d08-a03c-be0af08ce3f6</link>

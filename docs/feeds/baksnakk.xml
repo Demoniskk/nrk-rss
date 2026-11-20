@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Svettelukt, sexlyder og date på glattcelle</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_24420bcc-0062-4bec-9205-56b626746ff9</link>
+      <description>Det blir kalas i studio når trioen leker «tenk som en sau»! &#xA;&#xA;Send oss en melding i appen NRK Radio :) </description>
+      <guid isPermaLink="false">l_24420bcc-0062-4bec-9205-56b626746ff9</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/24420bcc-0062-4bec-9205-56b626746ff9_6bb55e63-060f-47cc-84d2-a55afc5aaf5a_ID192MP3.mp3" type="audio/mpeg" length="79106732"></enclosure>
+      <itunes:title>Svettelukt, sexlyder og date på glattcelle</itunes:title>
+      <itunes:summary>Det blir kalas i studio når trioen leker «tenk som en sau»! &#xA;&#xA;Send oss en melding i appen NRK Radio :) </itunes:summary>
+      <itunes:duration>3296</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Bifobi, pranking og aldersangst</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_252f5c27-f283-470d-a1be-550a3e0be34a</link>

@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Trumps USA: Mektige menn samla</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_83516dc4-c80f-43e3-b266-f73014697583</link>
+      <description>Trump, Xi og Putin møttest i Kina, medan podkast-bros og Musk tek avstand frå Trump og Maga. Vi oppsummerer veka med Trumps USA.</description>
+      <guid isPermaLink="false">l_83516dc4-c80f-43e3-b266-f73014697583</guid>
+      <pubDate>Thu, 19 Nov 2026 13:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/83516dc4-c80f-43e3-b266-f73014697583_c972175e-df09-4971-ac36-587dfc160002_ID192MP3.mp3" type="audio/mpeg" length="81345068"></enclosure>
+      <itunes:title>Trumps USA: Mektige menn samla</itunes:title>
+      <itunes:summary>Trump, Xi og Putin møttest i Kina, medan podkast-bros og Musk tek avstand frå Trump og Maga. Vi oppsummerer veka med Trumps USA.</itunes:summary>
+      <itunes:duration>3389</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NjqxY5seYxxsSg_posjVBQBwZ2O5vNxFTAx5ugNlsoiA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Spillenes konge 6.0</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_38ab882f-e8b5-4bc5-b75e-a2f714010edf</link>

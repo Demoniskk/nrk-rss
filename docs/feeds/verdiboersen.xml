@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 10:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title>Norge før &#34;Norge&#34;  1:4</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_0508d620-6927-4cc3-984e-9694475866ea</link>
+      <description>Et land av vann og jern.&#xA;Med historiker Terje Tvedt</description>
+      <guid isPermaLink="false">l_0508d620-6927-4cc3-984e-9694475866ea</guid>
+      <pubDate>Fri, 20 Nov 2026 12:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/0508d620-6927-4cc3-984e-9694475866ea_ba8c711d-1ab7-48c8-b786-86f213140e1b_ID192MP3.mp3" type="audio/mpeg" length="69704684"></enclosure>
+      <itunes:title>Norge før &#34;Norge&#34;  1:4</itunes:title>
+      <itunes:summary>Et land av vann og jern.&#xA;Med historiker Terje Tvedt</itunes:summary>
+      <itunes:duration>2904</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/VR-rKL-iA12fs3-Zhp8nhQdl-KsIpwfe_gWxGA8zo3OA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Et demokrati på prøve</title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_1bf8cb50-f19d-424f-b94c-042bfa6c843e</link>

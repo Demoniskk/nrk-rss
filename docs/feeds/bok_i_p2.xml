@@ -6,7 +6,7 @@
     <description>Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bok_i_p2.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Åpen bok</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2</link>
     </image>
+    <item>
+      <title>Mona Høvring- Vanessa, den lille jenta som vakler, leter og tviler.</title>
+      <link>https://radio.nrk.no/podkast/bok_i_p2/l_39967220-8e1d-48a4-b28a-c0c058b82ee6</link>
+      <description>Forfatter og poet ,Mona Høvring, er en av våre mest lekne forfattere, og få klarer å få mer ut av alfabetet enn henne. &#xA;Men i bånn er det alltid et dypt alvor; og også i hennes nye roman &#34;Som den hellige Teresa av Lisieux&#34; er det den lille jenta som vakler, leter og tviler.</description>
+      <guid isPermaLink="false">l_39967220-8e1d-48a4-b28a-c0c058b82ee6</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/39967220-8e1d-48a4-b28a-c0c058b82ee6_85a4bd6a-82ca-45fe-82bb-82b8b7d84df1_ID192MP3.mp3" type="audio/mpeg" length="82311596"></enclosure>
+      <itunes:title>Mona Høvring- Vanessa, den lille jenta som vakler, leter og tviler.</itunes:title>
+      <itunes:summary>Forfatter og poet ,Mona Høvring, er en av våre mest lekne forfattere, og få klarer å få mer ut av alfabetet enn henne. &#xA;Men i bånn er det alltid et dypt alvor; og også i hennes nye roman &#34;Som den hellige Teresa av Lisieux&#34; er det den lille jenta som vakler, leter og tviler.</itunes:summary>
+      <itunes:duration>3429</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/OM-HeItcwd8nHSQsPMKOpQjgpf26wL1KUfN5kzjfuaCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Erlend O.Nødtvedt-Denne historien om Bergen måtte fortelles</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2/l_0917768b-2782-4d78-8a30-8eb7d24db916</link>

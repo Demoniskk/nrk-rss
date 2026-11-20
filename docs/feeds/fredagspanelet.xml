@@ -6,7 +6,7 @@
     <description>Vi oppsummerer kulturuka hver fredag, med faste, friske og freidige paneldeltakere.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/fredagspanelet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Fredagspanelet</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet</link>
     </image>
+    <item>
+      <title>Årets ord, Jeff Bezos og dialektskam</title>
+      <link>https://radio.nrk.no/podkast/fredagspanelet/l_7e4adc99-a3b4-44dd-8c46-d9b0a75435df</link>
+      <description>Er det bra for James Bond-universet at Jeff Bezos er så involvert? &#xA;Er det en fallitt at Cambridge er nødt til å ty til &#34;HUMAN&#34; som årets ord?&#xA;Er det egentlig et problem at folk legger om dialekten for å tilpasse seg omgivelsene? </description>
+      <guid isPermaLink="false">l_7e4adc99-a3b4-44dd-8c46-d9b0a75435df</guid>
+      <pubDate>Fri, 20 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/7e4adc99-a3b4-44dd-8c46-d9b0a75435df_aa97948b-7235-4d3b-baab-ce7cb4dab6e4_ID192MP3.mp3" type="audio/mpeg" length="17978156"></enclosure>
+      <itunes:title>Årets ord, Jeff Bezos og dialektskam</itunes:title>
+      <itunes:summary>Er det bra for James Bond-universet at Jeff Bezos er så involvert? &#xA;Er det en fallitt at Cambridge er nødt til å ty til &#34;HUMAN&#34; som årets ord?&#xA;Er det egentlig et problem at folk legger om dialekten for å tilpasse seg omgivelsene? </itunes:summary>
+      <itunes:duration>749</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Kroningsvarsel, seiltur og ligging - samt sexy sosialister</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet/l_3845510a-329d-4664-aa92-5dc25f3d3687</link>

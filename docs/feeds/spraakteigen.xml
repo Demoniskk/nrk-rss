@@ -6,7 +6,7 @@
     <description>Absolutt alt du kan undre deg over om språk! Jesper Nondal spør, ekspertene svarer. Send dine spørsmål og tilbakemeldinger i appen eller til snakk@nrk.no.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/spraakteigen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Språksnakk</title>
       <link>https://radio.nrk.no/podkast/spraakteigen</link>
     </image>
+    <item>
+      <title>Gullforgylt kladeis </title>
+      <link>https://radio.nrk.no/podkast/spraakteigen/l_3318be1a-4846-481e-98f8-c8ff9db73993</link>
+      <description>Hvilke lyder lager vi aller først? Hør om opphavet til kladeis og slapbedask. Skrivemåten stedsnavn har - en evig kilde til ufred.</description>
+      <guid isPermaLink="false">l_3318be1a-4846-481e-98f8-c8ff9db73993</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/spraakteigen/3318be1a-4846-481e-98f8-c8ff9db73993_1886b685-2524-4d7d-b49b-3464468bca21_ID192MP3.mp3" type="audio/mpeg" length="82593260"></enclosure>
+      <itunes:title>Gullforgylt kladeis </itunes:title>
+      <itunes:summary>Hvilke lyder lager vi aller først? Hør om opphavet til kladeis og slapbedask. Skrivemåten stedsnavn har - en evig kilde til ufred.</itunes:summary>
+      <itunes:duration>3441</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2TvOfsrDcr5auT3M1LgFigvBNIkGwBHcYHL4J_JYW50Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Saliggjort gangfelt</title>
       <link>https://radio.nrk.no/podkast/spraakteigen/l_ecccbb30-187c-48e5-b678-6c56ceb0e279</link>

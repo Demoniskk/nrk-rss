@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Dialektdebatten - hot or not?</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_fed9e6ca-e821-4974-a063-bde9a6e2f0db</link>
+      <description>Trønderdialekten får gjennomgå om dagen, kjør debatt! Det er spesielt en ting som irriterer når visse folk omtaler seg selv.</description>
+      <guid isPermaLink="false">l_fed9e6ca-e821-4974-a063-bde9a6e2f0db</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/fed9e6ca-e821-4974-a063-bde9a6e2f0db_c2851580-ef37-474a-910e-9758a1f0b33f_ID192MP3.mp3" type="audio/mpeg" length="49007276"></enclosure>
+      <itunes:title>Dialektdebatten - hot or not?</itunes:title>
+      <itunes:summary>Trønderdialekten får gjennomgå om dagen, kjør debatt! Det er spesielt en ting som irriterer når visse folk omtaler seg selv.</itunes:summary>
+      <itunes:duration>2041</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Dum toer!</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_9c91f901-a3c4-4876-9e36-b9d92bbe53e0</link>

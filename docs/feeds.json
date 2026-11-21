@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-20T11:46:08Z",
-  "latest_episode": "2026-11-20T11:30:00Z",
+  "generated_at": "2026-11-21T11:09:42Z",
+  "latest_episode": "2026-11-21T05:00:00Z",
   "source": "https://radio.nrk.no/",
   "podcast_count": 236,
-  "episode_count": 60373,
+  "episode_count": 60377,
   "podcasts": [
     {
       "id": "22_juli_-_hvordan_kunne_det_skje",
@@ -264,10 +264,10 @@
       "description": "Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/DuyAZ-jyQoMEGx5DBKTudwoC9KCbJiip0XEP_t6DBasw",
-      "episode_count": 3696,
+      "episode_count": 3697,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml",
       "nrk_url": "https://radio.nrk.no/podkast/dagsnytt_atten",
-      "latest_episode": "2026-11-19T18:00:00Z"
+      "latest_episode": "2026-11-20T18:00:00Z"
     },
     {
       "id": "p060ms2h",
@@ -910,7 +910,7 @@
     {
       "id": "kaffipraati",
       "title": "Kaffipraatti",
-      "description": "I verdens første kvenske podkast dykker programleder Tomi Vaara ned i kvensk kultur og språk sammen med spennende gjester. Kom og ta en kaffe med oss! ",
+      "description": "Kaffe i koppen og kvensk på øret! Lytt til en varm og uhøytidelig prat om livet, hverdagen og alt imellom.",
       "category": "Kultur og samfunn",
       "image_url": "https://gfx.nrk.no/3UWYhbqDOi-NuTyFWhae_QkSrB-ceQLSg_0eONVeSwNg",
       "episode_count": 6,
@@ -1287,10 +1287,10 @@
       "description": "Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/sMxLsuFaNFBBmKJXuT2L6g6EwwmgKMvBujBOVc4N01pw",
-      "episode_count": 973,
+      "episode_count": 974,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml",
       "nrk_url": "https://radio.nrk.no/podkast/loerdagsraadet",
-      "latest_episode": "2026-11-14T13:00:00Z"
+      "latest_episode": "2026-11-20T13:46:00Z"
     },
     {
       "id": "manin_ja_danin",
@@ -1595,10 +1595,10 @@
       "description": "Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.",
       "category": "Nyheter",
       "image_url": "https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ",
-      "episode_count": 296,
+      "episode_count": 297,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/norsken_svensken_og_dansken.xml",
       "nrk_url": "https://radio.nrk.no/podkast/norsken_svensken_og_dansken",
-      "latest_episode": "2026-11-14T05:00:00Z"
+      "latest_episode": "2026-11-21T05:00:00Z"
     },
     {
       "id": "nrkscenen",
@@ -1969,10 +1969,10 @@
       "description": "Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.",
       "category": "Humor og prateprogram",
       "image_url": "https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA",
-      "episode_count": 385,
+      "episode_count": 386,
       "feed_url": "https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml",
       "nrk_url": "https://radio.nrk.no/podkast/siesta",
-      "latest_episode": "2026-11-19T05:00:00Z"
+      "latest_episode": "2026-11-20T05:00:00Z"
     },
     {
       "id": "sjakksnakk",

@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Markus intervjuer Anders Giæver</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_8e5494a8-23f3-4ef3-bff9-5964871f9c42</link>
+      <description>Selveste Anders Giæver er dagens hemmelige gjest, vi skal til Svalbard og hvem av oss dør først?</description>
+      <guid isPermaLink="false">l_8e5494a8-23f3-4ef3-bff9-5964871f9c42</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/8e5494a8-23f3-4ef3-bff9-5964871f9c42_e96a1233-8dc9-473a-8362-ba1281b37048_ID192MP3.mp3" type="audio/mpeg" length="70520300"></enclosure>
+      <itunes:title>Markus intervjuer Anders Giæver</itunes:title>
+      <itunes:summary>Selveste Anders Giæver er dagens hemmelige gjest, vi skal til Svalbard og hvem av oss dør først?</itunes:summary>
+      <itunes:duration>2938</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/z2il1p-ikZ7XKRs7uMPCmg0Tz_qkX4Ptg4Ol7Q1X4RoA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Anna har en idé (not)</title>
       <link>https://radio.nrk.no/podkast/siesta/l_94f83a58-b3e0-42e8-8d6c-857bbad44939</link>

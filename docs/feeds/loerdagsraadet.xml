@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:46:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Sykepleier Sara har en plan for julaften</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_b143c972-c5ba-4405-82c6-ed04e05bb885</link>
+      <description>Selveste Julie fra Juliekalenderen har sendt mail. Vi får et meagatips til hva man gjøre med ekskjæresters nudes... og vi hilser på Riddleback Joe! OG: Fyllemail! Stappa isj!</description>
+      <guid isPermaLink="false">l_b143c972-c5ba-4405-82c6-ed04e05bb885</guid>
+      <pubDate>Fri, 20 Nov 2026 14:46:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/b143c972-c5ba-4405-82c6-ed04e05bb885_bb21b2e5-1642-4986-99b8-cf0f26f14b47_ID192MP3.mp3" type="audio/mpeg" length="29304044"></enclosure>
+      <itunes:title>Sykepleier Sara har en plan for julaften</itunes:title>
+      <itunes:summary>Selveste Julie fra Juliekalenderen har sendt mail. Vi får et meagatips til hva man gjøre med ekskjæresters nudes... og vi hilser på Riddleback Joe! OG: Fyllemail! Stappa isj!</itunes:summary>
+      <itunes:duration>1220</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SAbwoo7p6A48tLpNp7IIagU5P8QsQc23jK06nv_zDisg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Ingrid Gjessing Linhave / Tete Lidbom / Hilde Skaar</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_dc14ad4b-fa7e-4d32-871f-4657b87922e4</link>

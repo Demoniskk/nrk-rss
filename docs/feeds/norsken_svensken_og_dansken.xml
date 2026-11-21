@@ -6,7 +6,7 @@
     <description>Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/norsken_svensken_og_dansken.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Norsken, svensken og dansken</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken</link>
     </image>
+    <item>
+      <title>Satans verk</title>
+      <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_68d99255-a084-45eb-b548-738052dafaf6</link>
+      <description>Datasentre – snyltegjester eller redningsmenn? &#xA;Hvem er de største Temu-vikingene? &#xA;Og sa Mette Frederiksen virkelig «befolkningsutskiftning»?</description>
+      <guid isPermaLink="false">l_68d99255-a084-45eb-b548-738052dafaf6</guid>
+      <pubDate>Sat, 21 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/68d99255-a084-45eb-b548-738052dafaf6_75207647-aa81-4505-933c-220584b398ea_ID192MP3.mp3" type="audio/mpeg" length="82135916"></enclosure>
+      <itunes:title>Satans verk</itunes:title>
+      <itunes:summary>Datasentre – snyltegjester eller redningsmenn? &#xA;Hvem er de største Temu-vikingene? &#xA;Og sa Mette Frederiksen virkelig «befolkningsutskiftning»?</itunes:summary>
+      <itunes:duration>3422</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Moralsk panikk</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_f965cd5a-1312-4276-903c-ff04f9d4c682</link>

@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Norge møter England</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_a5b7cf88-9fee-4d4a-aa88-fd1a52e27376</link>
+      <description>Det norske herrelandslaget møter England i kampen om en semifinalebillett i Nasjonsligaen.</description>
+      <guid isPermaLink="false">l_a5b7cf88-9fee-4d4a-aa88-fd1a52e27376</guid>
+      <pubDate>Fri, 20 Nov 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/a5b7cf88-9fee-4d4a-aa88-fd1a52e27376_cb23abee-6bb5-40f1-a505-f579d9eaefdd_ID192MP3.mp3" type="audio/mpeg" length="84724460"></enclosure>
+      <itunes:title>Norge møter England</itunes:title>
+      <itunes:summary>Det norske herrelandslaget møter England i kampen om en semifinalebillett i Nasjonsligaen.</itunes:summary>
+      <itunes:duration>3530</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/RO4OWPInJ7Cck_UB085zcQl3Dfx8R4mdDGUlwzc-MfFA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Putin, Xi og Trump på toppmøte</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_ba44a51b-32ad-473c-9ac1-12a9c9eff5db</link>

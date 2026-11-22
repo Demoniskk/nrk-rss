@@ -6,7 +6,7 @@
     <description>Ukeslutt er nyhetsavdelingens lørdagsmagasin. Her får du et skråblikk på nyhetsuka, med friske reportasjer og aktuelle gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ukeslutt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ukeslutt</title>
       <link>https://radio.nrk.no/podkast/ukeslutt</link>
     </image>
+    <item>
+      <title>Fillers eller ikke?</title>
+      <link>https://radio.nrk.no/podkast/ukeslutt/l_308a2235-603e-45e6-aa9e-c287ef2faf09</link>
+      <description>Isabella fikk en fæl første erfaring med fillers, men fortsetter likevel å bruke det. </description>
+      <guid isPermaLink="false">l_308a2235-603e-45e6-aa9e-c287ef2faf09</guid>
+      <pubDate>Sat, 21 Nov 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ukeslutt/308a2235-603e-45e6-aa9e-c287ef2faf09_e895a38b-7ff3-43e0-90d7-b5057088dc3e_ID192MP3.mp3" type="audio/mpeg" length="80919980"></enclosure>
+      <itunes:title>Fillers eller ikke?</itunes:title>
+      <itunes:summary>Isabella fikk en fæl første erfaring med fillers, men fortsetter likevel å bruke det. </itunes:summary>
+      <itunes:duration>3371</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WKjgIDocALVENFP2rog9YARmNhgJw43276YLoc90CcnA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Var tidenes dyreste sidesprang en honningfelle?</title>
       <link>https://radio.nrk.no/podkast/ukeslutt/l_d3ddd892-e727-43e9-9920-2b2e242c09dd</link>

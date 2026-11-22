@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Panelet: Tradwife og danske menn</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_35f40e46-c2d7-495b-98a8-d4877746bfd8</link>
+      <description>Selma snakker om datinglivet, Jonas har vært på julebord, og Kai Thomas er København-frelst. Bør man fortelle partneren at man har faket orgasme?</description>
+      <guid isPermaLink="false">l_35f40e46-c2d7-495b-98a8-d4877746bfd8</guid>
+      <pubDate>Sun, 22 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/35f40e46-c2d7-495b-98a8-d4877746bfd8_0bb01b3c-6129-4446-b924-506998009a87_ID192MP3.mp3" type="audio/mpeg" length="59791724"></enclosure>
+      <itunes:title>Panelet: Tradwife og danske menn</itunes:title>
+      <itunes:summary>Selma snakker om datinglivet, Jonas har vært på julebord, og Kai Thomas er København-frelst. Bør man fortelle partneren at man har faket orgasme?</itunes:summary>
+      <itunes:duration>2491</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/yJWGnGgnz8jzvPiGxbqKuQ_PjVBl4VqtDjjmQwLlbNQw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Julie Bergan: Å tørre å bli avvist</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_58a2318e-9f35-434f-a44d-3ca4637f93ad</link>

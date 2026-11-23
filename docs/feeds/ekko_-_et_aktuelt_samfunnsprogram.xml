@@ -6,7 +6,7 @@
     <description>Vi fordyper oss i aktuelle saker slik at du forstår mer av det som skjer rundt deg. &#xA;&#xA;&#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 12:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:30:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/ekko_-_et_aktuelt_samfunnsprogram.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Ekko</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram</link>
     </image>
+    <item>
+      <title>Terror uten mål og mening?</title>
+      <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_609d3a01-848b-4f0d-8fbe-160b1512952d</link>
+      <description>PST advarer mot nihilistisk ekstremisme: Unge fanges i lukkede nettsamfunn – drevet av dyp meningsløshet og ønske om utslettelse.</description>
+      <guid isPermaLink="false">l_609d3a01-848b-4f0d-8fbe-160b1512952d</guid>
+      <pubDate>Mon, 23 Nov 2026 13:30:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/ekko_-_et_aktuelt_samfunnsprogram/609d3a01-848b-4f0d-8fbe-160b1512952d_de837b03-b688-4f76-9be0-5ceda696d600_ID192MP3.mp3" type="audio/mpeg" length="32806700"></enclosure>
+      <itunes:title>Terror uten mål og mening?</itunes:title>
+      <itunes:summary>PST advarer mot nihilistisk ekstremisme: Unge fanges i lukkede nettsamfunn – drevet av dyp meningsløshet og ønske om utslettelse.</itunes:summary>
+      <itunes:duration>1366</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/_W8ajbbWhdvrz6ZBY8COMQ8TlYkOQyHOPvvTFdf2sU_g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Trumps USA: Mektige menn samla</title>
       <link>https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram/l_83516dc4-c80f-43e3-b266-f73014697583</link>

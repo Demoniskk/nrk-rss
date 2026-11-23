@@ -6,7 +6,7 @@
     <description>Hverdagen er full av ting å bli glad av, det gjelder bare å legge merke til dem. Hver mandag i 52 uker presenterer vi en ny kilde til begeistring.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kilder_til_begeistring.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kilder til begeistring</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring</link>
     </image>
+    <item>
+      <title>Pastilleske</title>
+      <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_59e6126c-b2af-49e4-80ca-96101a897f8a</link>
+      <description>Plutselig ble det veldig kaldt.</description>
+      <guid isPermaLink="false">l_59e6126c-b2af-49e4-80ca-96101a897f8a</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kilder_til_begeistring/59e6126c-b2af-49e4-80ca-96101a897f8a_de65ea53-f132-4e53-82e0-9308714803bf_ID192MP3.mp3" type="audio/mpeg" length="1116908"></enclosure>
+      <itunes:title>Pastilleske</itunes:title>
+      <itunes:summary>Plutselig ble det veldig kaldt.</itunes:summary>
+      <itunes:duration>46</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/roJbvQEYeyfHcWREl5Da1Qm3FwHjt1xEpvTkoimwZP7A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Å gå kveldstur under en landskamp</title>
       <link>https://radio.nrk.no/podkast/kilder_til_begeistring/l_c3dd91bc-39b3-48cc-bc53-eccd8c877bb7</link>

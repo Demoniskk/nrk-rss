@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Vil ha like abortregler i hele landet</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_5a76d534-b5c9-4ac2-af90-991ba0cb86cf</link>
+      <description>Og ni av ti stoler ikke på Black Week tilbud.</description>
+      <guid isPermaLink="false">l_5a76d534-b5c9-4ac2-af90-991ba0cb86cf</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/5a76d534-b5c9-4ac2-af90-991ba0cb86cf_d11f7c5a-c222-4e6a-855d-13002af9380a_ID192MP3.mp3" type="audio/mpeg" length="8358956"></enclosure>
+      <itunes:title>Vil ha like abortregler i hele landet</itunes:title>
+      <itunes:summary>Og ni av ti stoler ikke på Black Week tilbud.</itunes:summary>
+      <itunes:duration>348</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/l9nCQzR_ZHYvmYVI19zoVA4j9wqHNczZZdyDuX3S4zUQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Får vi parkpils neste sommer?</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_f5f0e863-7a14-4135-9455-c776d39ad5ea</link>

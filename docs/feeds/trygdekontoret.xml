@@ -6,7 +6,7 @@
     <description>Thomas Seltzer med gjester gir deg kvalifisert synsing og ren kvasi-idioti som gjør deg opplyst og forvirret.  &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/trygdekontoret.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Trygdekontoret</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret</link>
     </image>
+    <item>
+      <title>Kunsten å leve i villmarka</title>
+      <link>https://radio.nrk.no/podkast/trygdekontoret/l_2bab8fbd-a8fe-4df0-a78d-06dea3677951</link>
+      <description>Ikke som et overlevelsesprosjekt, men for å komme nærmere naturen. Med naturforvalter og lausarbeider Gea Prytz.</description>
+      <guid isPermaLink="false">l_2bab8fbd-a8fe-4df0-a78d-06dea3677951</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/trygdekontoret/2bab8fbd-a8fe-4df0-a78d-06dea3677951_51df7271-8020-477d-9bf2-5d12af0104ed_ID192MP3.mp3" type="audio/mpeg" length="75989996"></enclosure>
+      <itunes:title>Kunsten å leve i villmarka</itunes:title>
+      <itunes:summary>Ikke som et overlevelsesprosjekt, men for å komme nærmere naturen. Med naturforvalter og lausarbeider Gea Prytz.</itunes:summary>
+      <itunes:duration>3166</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/toio-p81rsXW6eH8Svlurgy6kYO97sBBltZU4XL1WK3g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Nyrike nordmenn</title>
       <link>https://radio.nrk.no/podkast/trygdekontoret/l_7b1c257f-1f20-464f-9bdc-d3740553a848</link>

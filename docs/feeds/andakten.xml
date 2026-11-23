@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Naturen - Stig Lægdene</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_1d6331bc-5a6e-4139-9e0d-3f7b8e5ab801</link>
+      <description>Vi mennesker er en del av kretsløpet i naturen. Det er en sammenheng vi har lett for å glemme.</description>
+      <guid isPermaLink="false">l_1d6331bc-5a6e-4139-9e0d-3f7b8e5ab801</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/1d6331bc-5a6e-4139-9e0d-3f7b8e5ab801_83390246-d4be-44b5-8f4c-855b31cc3ac5_ID192MP3.mp3" type="audio/mpeg" length="6417260"></enclosure>
+      <itunes:title>Naturen - Stig Lægdene</itunes:title>
+      <itunes:summary>Vi mennesker er en del av kretsløpet i naturen. Det er en sammenheng vi har lett for å glemme.</itunes:summary>
+      <itunes:duration>267</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fdkz4DHbEhCtpyySQ-kZmQFfghnb6Zz0xAiWS3IeLU6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Sorg - Ragnhild B. Opsahl</title>
       <link>https://radio.nrk.no/podkast/andakten/l_7bc45c1e-100f-48a5-96ea-dfe3ae52df00</link>

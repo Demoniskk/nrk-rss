@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Sliten av å bruke KI?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_dd14940d-0f1d-4ec7-8d58-b4023ec10fd5</link>
+      <description>Du er ikke alene. Dessuten, mystisk mattebok er dekodet. Og elefanter lærer oss noe nytt</description>
+      <guid isPermaLink="false">l_dd14940d-0f1d-4ec7-8d58-b4023ec10fd5</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/dd14940d-0f1d-4ec7-8d58-b4023ec10fd5_2ce40289-f8f2-4e89-b055-4f5fc4fa1a67_ID192MP3.mp3" type="audio/mpeg" length="45164780"></enclosure>
+      <itunes:title>Sliten av å bruke KI?</itunes:title>
+      <itunes:summary>Du er ikke alene. Dessuten, mystisk mattebok er dekodet. Og elefanter lærer oss noe nytt</itunes:summary>
+      <itunes:duration>1881</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/oAAgIxHLnd6aDqN1MVC3Xg5uuhN4_riDeS0EQcUsyJgA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Hvilket dyr fløy først?</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_275b7e90-51fb-4c04-afdc-264cb956f986</link>

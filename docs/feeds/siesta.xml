@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Dynkes i softis</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_3c61ac70-995c-4590-8862-146feb967ecf</link>
+      <description>Ting går ikke helt som planlagt når Markus skal spise 1 kg softis, ukas dumfette kåres og Finn Glede kommer innom. </description>
+      <guid isPermaLink="false">l_3c61ac70-995c-4590-8862-146feb967ecf</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3c61ac70-995c-4590-8862-146feb967ecf_01c86c6a-4297-4fa7-8e73-fdfb71a7dd5c_ID192MP3.mp3" type="audio/mpeg" length="62770220"></enclosure>
+      <itunes:title>Dynkes i softis</itunes:title>
+      <itunes:summary>Ting går ikke helt som planlagt når Markus skal spise 1 kg softis, ukas dumfette kåres og Finn Glede kommer innom. </itunes:summary>
+      <itunes:duration>2615</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Markus intervjuer Anders Giæver</title>
       <link>https://radio.nrk.no/podkast/siesta/l_8e5494a8-23f3-4ef3-bff9-5964871f9c42</link>

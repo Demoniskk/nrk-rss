@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>Politikerenes feil?</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_4190eac9-b4da-400a-845e-3a5729fe17bb</link>
+      <description>Politikerene får mest dritt i kommentarfelt. Er alt deres feil? Vi hjelper morrapulere: Lærer legeassistent å snakke pakistansk. </description>
+      <guid isPermaLink="false">l_4190eac9-b4da-400a-845e-3a5729fe17bb</guid>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/4190eac9-b4da-400a-845e-3a5729fe17bb_21b4c12c-737d-4485-b1d7-5d2ed8cdcb96_ID192MP3.mp3" type="audio/mpeg" length="47791916"></enclosure>
+      <itunes:title>Politikerenes feil?</itunes:title>
+      <itunes:summary>Politikerene får mest dritt i kommentarfelt. Er alt deres feil? Vi hjelper morrapulere: Lærer legeassistent å snakke pakistansk. </itunes:summary>
+      <itunes:duration>1991</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Dialektdebatten - hot or not?</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_fed9e6ca-e821-4974-a063-bde9a6e2f0db</link>

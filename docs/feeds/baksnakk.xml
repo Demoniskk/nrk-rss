@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>OnlyFans, trøndersk og sokker i senga</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_8da3f839-0ad2-47d9-bbaa-1748018dfb10</link>
+      <description>Hva synes egentlig Sade, Sofie og Milie om trøndersk dialekt?&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</description>
+      <guid isPermaLink="false">l_8da3f839-0ad2-47d9-bbaa-1748018dfb10</guid>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/8da3f839-0ad2-47d9-bbaa-1748018dfb10_6799f49f-8ffe-4d51-bf64-00857bbb92fb_ID192MP3.mp3" type="audio/mpeg" length="68924780"></enclosure>
+      <itunes:title>OnlyFans, trøndersk og sokker i senga</itunes:title>
+      <itunes:summary>Hva synes egentlig Sade, Sofie og Milie om trøndersk dialekt?&#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</itunes:summary>
+      <itunes:duration>2871</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Svettelukt, sexlyder og date på glattcelle</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_24420bcc-0062-4bec-9205-56b626746ff9</link>

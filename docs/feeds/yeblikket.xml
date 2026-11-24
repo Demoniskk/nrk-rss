@@ -6,7 +6,7 @@
     <description>Du husker ikke dager, men øyeblikk – gode og vonde. Og noen øyeblikk forandrer livet for alltid.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 16 Dec 2025 05:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/yeblikket.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Øyeblikket</title>
       <link>https://radio.nrk.no/podkast/yeblikket</link>
     </image>
+    <item>
+      <title>Skipet i hagen</title>
+      <link>https://radio.nrk.no/podkast/yeblikket/l_ce5f11d2-6a4e-4196-a9b0-29733289058f</link>
+      <description>Kan et digert lasteskip som går på grunn syv meter fra husveggen din få deg til å ville gifte deg? Ja, faktisk.</description>
+      <guid isPermaLink="false">l_ce5f11d2-6a4e-4196-a9b0-29733289058f</guid>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/yeblikket/ce5f11d2-6a4e-4196-a9b0-29733289058f_64bf6f5f-8a33-4e03-804f-eea97aefcc95_ID192MP3.mp3" type="audio/mpeg" length="41076332"></enclosure>
+      <itunes:title>Skipet i hagen</itunes:title>
+      <itunes:summary>Kan et digert lasteskip som går på grunn syv meter fra husveggen din få deg til å ville gifte deg? Ja, faktisk.</itunes:summary>
+      <itunes:duration>1711</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/KWGl32mGcqtceiOgIKMi_QBw5XTEJzPYqsJ7V8CnUhbg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Marerittet</title>
       <link>https://radio.nrk.no/podkast/yeblikket/l_232cba51-9a69-40af-acba-519a6950af26</link>

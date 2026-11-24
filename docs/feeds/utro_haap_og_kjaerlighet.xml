@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Vegard Harm: Evig singel?</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_bb045b3d-a830-4f2b-812f-ad2fd1df6586</link>
+      <description>Hvordan er det å være «den single» når alle vennene er i etableringsfasen, og har han fortsatt troen på kjærligheten?</description>
+      <guid isPermaLink="false">l_bb045b3d-a830-4f2b-812f-ad2fd1df6586</guid>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/bb045b3d-a830-4f2b-812f-ad2fd1df6586_df70a6b4-1d96-4759-a389-b75475803299_ID192MP3.mp3" type="audio/mpeg" length="73788524"></enclosure>
+      <itunes:title>Vegard Harm: Evig singel?</itunes:title>
+      <itunes:summary>Hvordan er det å være «den single» når alle vennene er i etableringsfasen, og har han fortsatt troen på kjærligheten?</itunes:summary>
+      <itunes:duration>3074</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ZVUTtyha48hZnw8IevCvlQKac_bSr-g-sLBc8ikhTYiw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Panelet: Tradwife og danske menn</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_35f40e46-c2d7-495b-98a8-d4877746bfd8</link>

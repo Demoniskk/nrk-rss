@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Fraråder dronningen å snakke med Epstein-kommisjon</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_be23005b-0518-4bc5-bc86-26c1316527cb</link>
+      <description>Regjeringen mener en forklaring fra dronningen vil stride mot langvarig tradisjon.</description>
+      <guid isPermaLink="false">l_be23005b-0518-4bc5-bc86-26c1316527cb</guid>
+      <pubDate>Mon, 23 Nov 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/be23005b-0518-4bc5-bc86-26c1316527cb_0d73347f-b581-42f6-9d8f-4766b5ae53cb_ID192MP3.mp3" type="audio/mpeg" length="85036652"></enclosure>
+      <itunes:title>Fraråder dronningen å snakke med Epstein-kommisjon</itunes:title>
+      <itunes:summary>Regjeringen mener en forklaring fra dronningen vil stride mot langvarig tradisjon.</itunes:summary>
+      <itunes:duration>3543</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/NNaNDHFEmfl8GuihL--tPwTs0gByyKXShTyCbo6F9L8A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Norge møter England</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_a5b7cf88-9fee-4d4a-aa88-fd1a52e27376</link>

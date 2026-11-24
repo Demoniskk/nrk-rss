@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Norge på feil klimaside?</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_49fbbdca-920c-4f84-a754-e3e88de32c58</link>
+      <description>Frp meiner oljeprodusenten Noreg stilte seg på feil side under klimatoppmøtet </description>
+      <guid isPermaLink="false">l_49fbbdca-920c-4f84-a754-e3e88de32c58</guid>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/49fbbdca-920c-4f84-a754-e3e88de32c58_7b638fe2-c8fc-4801-af9f-33481947a509_ID192MP3.mp3" type="audio/mpeg" length="21823532"></enclosure>
+      <itunes:title>Norge på feil klimaside?</itunes:title>
+      <itunes:summary>Frp meiner oljeprodusenten Noreg stilte seg på feil side under klimatoppmøtet </itunes:summary>
+      <itunes:duration>909</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CG970VrEihA5Hb9_GTUSFAN-8ieW7Nv5wf17OxPMQQDw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>KrF vil doble kontantstøtten</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_28a828c4-bcc4-4ca2-b742-1795140f4002</link>

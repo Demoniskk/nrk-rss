@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Velg deg selv - med Oda Gravdal Ulriksen</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_4e70a2a7-0c74-44b0-b702-55810208a8d4</link>
+      <description>Noen ganger bør vi absolutt velge bort andre, og prioritere oss selv, forteller Oda Gravdal Ulriksen</description>
+      <guid isPermaLink="false">l_4e70a2a7-0c74-44b0-b702-55810208a8d4</guid>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/4e70a2a7-0c74-44b0-b702-55810208a8d4_0f439a86-0fbf-4483-b28d-05cc366fdb96_ID192MP3.mp3" type="audio/mpeg" length="4178348"></enclosure>
+      <itunes:title>Velg deg selv - med Oda Gravdal Ulriksen</itunes:title>
+      <itunes:summary>Noen ganger bør vi absolutt velge bort andre, og prioritere oss selv, forteller Oda Gravdal Ulriksen</itunes:summary>
+      <itunes:duration>174</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/CLSQ55Dq4GHTo0XmrkRCxQYW344iPOztAez2RDKGc1Kw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Skole - med Terje Torkildsen</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_06e7734f-960e-4295-bb2d-8f3665e91571</link>

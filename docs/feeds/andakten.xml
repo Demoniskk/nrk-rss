@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Fellesskapet - Stig Lægdene</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_f7205f54-2453-48e2-b0cd-3255dd7a018d</link>
+      <description>Vi klarer oss ikke uten å være en del av et fellesskap, på ett eller annet vis. Noen gjør det du gjør - akkurat nå.</description>
+      <guid isPermaLink="false">l_f7205f54-2453-48e2-b0cd-3255dd7a018d</guid>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/f7205f54-2453-48e2-b0cd-3255dd7a018d_6e106fb5-646e-4a5b-918b-4896fc841186_ID192MP3.mp3" type="audio/mpeg" length="5789996"></enclosure>
+      <itunes:title>Fellesskapet - Stig Lægdene</itunes:title>
+      <itunes:summary>Vi klarer oss ikke uten å være en del av et fellesskap, på ett eller annet vis. Noen gjør det du gjør - akkurat nå.</itunes:summary>
+      <itunes:duration>241</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fdkz4DHbEhCtpyySQ-kZmQFfghnb6Zz0xAiWS3IeLU6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Naturen - Stig Lægdene</title>
       <link>https://radio.nrk.no/podkast/andakten/l_1d6331bc-5a6e-4139-9e0d-3f7b8e5ab801</link>

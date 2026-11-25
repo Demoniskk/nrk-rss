@@ -6,7 +6,7 @@
     <description>Hvordan kan noen få ord gi trøst, håp og et lite løft i hverdagen? Hans Olav Brenner og gjester deler sine favorittdikt.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/brenner_deler_dikt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Brenner deler dikt</title>
       <link>https://radio.nrk.no/podkast/brenner_deler_dikt</link>
     </image>
+    <item>
+      <title>Tore Renberg: Besatt av barokken</title>
+      <link>https://radio.nrk.no/podkast/brenner_deler_dikt/l_a6bee126-f6e0-40c9-96a3-985979190f9b</link>
+      <description>Forfatteren falt ned i det berømmelige kaninhullet og klatret opp igjen som barokkekspert.&#xA;</description>
+      <guid isPermaLink="false">l_a6bee126-f6e0-40c9-96a3-985979190f9b</guid>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/brenner_deler_dikt/a6bee126-f6e0-40c9-96a3-985979190f9b_859a489d-5220-456e-9456-bf0fff490f74_ID192MP3.mp3" type="audio/mpeg" length="28406636"></enclosure>
+      <itunes:title>Tore Renberg: Besatt av barokken</itunes:title>
+      <itunes:summary>Forfatteren falt ned i det berømmelige kaninhullet og klatret opp igjen som barokkekspert.&#xA;</itunes:summary>
+      <itunes:duration>1183</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/BkrK_vrRV9YhKjZwSnZNyApnVt_v8Yk7uaj9esm_gdgw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Anne Marie Ottersen: Gi meg vann!</title>
       <link>https://radio.nrk.no/podkast/brenner_deler_dikt/l_476ede74-c4d1-489a-bdbe-a42bc65a133b</link>

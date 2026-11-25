@@ -6,7 +6,7 @@
     <description>Hverdagsfunderinger over tro og liv.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/andakten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Andakten</title>
       <link>https://radio.nrk.no/podkast/andakten</link>
     </image>
+    <item>
+      <title>Historien - Stig Lægdene</title>
+      <link>https://radio.nrk.no/podkast/andakten/l_5392646f-7a62-4661-ad3f-d94745a35c41</link>
+      <description>Vi er en del av historien. Den som har vært, og den som kommer.</description>
+      <guid isPermaLink="false">l_5392646f-7a62-4661-ad3f-d94745a35c41</guid>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/andakten/5392646f-7a62-4661-ad3f-d94745a35c41_ed8035c7-81e7-40b6-a684-a373efef6f50_ID192MP3.mp3" type="audio/mpeg" length="6301484"></enclosure>
+      <itunes:title>Historien - Stig Lægdene</itunes:title>
+      <itunes:summary>Vi er en del av historien. Den som har vært, og den som kommer.</itunes:summary>
+      <itunes:duration>262</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Fdkz4DHbEhCtpyySQ-kZmQFfghnb6Zz0xAiWS3IeLU6Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Fellesskapet - Stig Lægdene</title>
       <link>https://radio.nrk.no/podkast/andakten/l_f7205f54-2453-48e2-b0cd-3255dd7a018d</link>

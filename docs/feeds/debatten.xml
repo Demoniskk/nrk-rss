@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 21:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:05:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Milliardsprekk på vei og bane</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_706a27e2-b93c-49ff-9497-75845243f9ee</link>
+      <description>Hvem har ansvaret når prosjekter blir svindyre?</description>
+      <guid isPermaLink="false">l_706a27e2-b93c-49ff-9497-75845243f9ee</guid>
+      <pubDate>Tue, 24 Nov 2026 22:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/706a27e2-b93c-49ff-9497-75845243f9ee_83f5bc81-34fd-4d63-a0ef-7761a56b2a63_ID192MP3.mp3" type="audio/mpeg" length="59757740"></enclosure>
+      <itunes:title>Milliardsprekk på vei og bane</itunes:title>
+      <itunes:summary>Hvem har ansvaret når prosjekter blir svindyre?</itunes:summary>
+      <itunes:duration>2489</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/DTdC7F0k-RLDSCp-2__I5QUscy_o9jvlY52repVMoYLQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Er det skamfullt å ha dialekt?</title>
       <link>https://radio.nrk.no/podkast/debatten/l_617649ac-552b-45e4-a230-b9f3117a2dd3</link>

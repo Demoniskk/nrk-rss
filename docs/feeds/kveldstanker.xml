@@ -6,7 +6,7 @@
     <description>Kjente og ukjente stemmer om opplevelser som har hatt ringvirkninger.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kveldstanker.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kveldstanker</title>
       <link>https://radio.nrk.no/podkast/kveldstanker</link>
     </image>
+    <item>
+      <title>Kvile augo - med Marie Tveiten</title>
+      <link>https://radio.nrk.no/podkast/kveldstanker/l_06a31be2-1a03-4a85-beb9-a25393f855f8</link>
+      <description>- Før lurde eg skikkeleg på kva mi mommo meinte da ho sa  at noko var godt å kvile augo på. No veit eg det, fortel Marie Tveiten.&#xA;</description>
+      <guid isPermaLink="false">l_06a31be2-1a03-4a85-beb9-a25393f855f8</guid>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kveldstanker/06a31be2-1a03-4a85-beb9-a25393f855f8_39d1ef31-ed82-4ffd-9fea-177d1fc4eaa3_ID192MP3.mp3" type="audio/mpeg" length="3932972"></enclosure>
+      <itunes:title>Kvile augo - med Marie Tveiten</itunes:title>
+      <itunes:summary>- Før lurde eg skikkeleg på kva mi mommo meinte da ho sa  at noko var godt å kvile augo på. No veit eg det, fortel Marie Tveiten.&#xA;</itunes:summary>
+      <itunes:duration>163</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/t_oBRSQPU0b_s9PNphNWhg7Bv8PSti4zW1tjvPNj0pCA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Velg deg selv - med Oda Gravdal Ulriksen</title>
       <link>https://radio.nrk.no/podkast/kveldstanker/l_4e70a2a7-0c74-44b0-b702-55810208a8d4</link>

@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 15:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:58:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Atomvåpen-satelitt og Libya-angrep: – Ingen har kontroll</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_af48b050-967d-4573-ab83-4542d65ca640</link>
+      <description>Russiske raketter i Polen, ukrainske angrep på skip i Østersjøen og utenfor Libya. Krigen mellom Russland og Ukraina sprer seg. Nå påstås det også at russerne planlegger atomvåpen i verdensrommet. Hvor langt kan krigen spre seg?</description>
+      <guid isPermaLink="false">l_af48b050-967d-4573-ab83-4542d65ca640</guid>
+      <pubDate>Tue, 24 Nov 2026 17:58:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/af48b050-967d-4573-ab83-4542d65ca640_6c890f04-47ca-4ef8-9799-f3e24a411d82_ID192MP3.mp3" type="audio/mpeg" length="39045356"></enclosure>
+      <itunes:title>Atomvåpen-satelitt og Libya-angrep: – Ingen har kontroll</itunes:title>
+      <itunes:summary>Russiske raketter i Polen, ukrainske angrep på skip i Østersjøen og utenfor Libya. Krigen mellom Russland og Ukraina sprer seg. Nå påstås det også at russerne planlegger atomvåpen i verdensrommet. Hvor langt kan krigen spre seg?</itunes:summary>
+      <itunes:duration>1626</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qQwCvp4ShBN4Ir2jRRxUGgvLY2fW7ASwx2tIsueg8-hw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Trump, Putin og Xi: – Forstår Trump hva som skjer?</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_d0ffba06-e8f3-44a3-92c0-00415da3f2e2</link>

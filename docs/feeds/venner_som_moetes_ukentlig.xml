@@ -6,7 +6,7 @@
     <description>Martha, Karsten og Annika freser gjennom voksenlivets banale oppturer og festlige nedturer. Heldigvis har de hverandre.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/venner_som_moetes_ukentlig.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Venner som møtes ukentlig</title>
       <link>https://radio.nrk.no/podkast/venner_som_moetes_ukentlig</link>
     </image>
+    <item>
+      <title>Martha ber om hjelp</title>
+      <link>https://radio.nrk.no/podkast/venner_som_moetes_ukentlig/l_4d5b93e5-922e-4ba8-abb2-1ce4110f21c8</link>
+      <description>Annika har vært på jakt og løser et stort hverdagsproblem, Karsten har driti på seg og Martha trenger hjelp fra sine to gode venner.</description>
+      <guid isPermaLink="false">l_4d5b93e5-922e-4ba8-abb2-1ce4110f21c8</guid>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/venner_som_moetes_ukentlig/4d5b93e5-922e-4ba8-abb2-1ce4110f21c8_270772f4-84bb-4558-9b82-45f05c5c1919_ID192MP3.mp3" type="audio/mpeg" length="39812588"></enclosure>
+      <itunes:title>Martha ber om hjelp</itunes:title>
+      <itunes:summary>Annika har vært på jakt og løser et stort hverdagsproblem, Karsten har driti på seg og Martha trenger hjelp fra sine to gode venner.</itunes:summary>
+      <itunes:duration>1658</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/bWkIt0jcqHmn1nU4VHMgPwcCMKj8GBRqjU-HbAL4Uvtw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Et sju minutters karaokemareritt</title>
       <link>https://radio.nrk.no/podkast/venner_som_moetes_ukentlig/l_2b8aa8f2-b9ef-46a3-9327-b5238a472a2b</link>

@@ -6,7 +6,7 @@
     <description>Bak overskriftene skjuler det seg detaljer vi vanligvis ikke får vite. Dennis og Valentina gjør et dypdykk i aktuelle krimsaker.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/krimrommet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Krimrommet</title>
       <link>https://radio.nrk.no/podkast/krimrommet</link>
     </image>
+    <item>
+      <title>Babyfabrikken (1): Hemmeligheten</title>
+      <link>https://radio.nrk.no/podkast/krimrommet/l_cb5b165d-6461-4d74-9aa0-7db11005faa7</link>
+      <description>I 2024 er Kayla (26) surrogatmor for første gang. Det hun ikke vet, er at babyens kommende foreldre har en mørk hemmelighet.</description>
+      <guid isPermaLink="false">l_cb5b165d-6461-4d74-9aa0-7db11005faa7</guid>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/krimrommet/cb5b165d-6461-4d74-9aa0-7db11005faa7_61ac9dc0-2a6b-41a2-8f8f-8a904f5b5bbd_ID192MP3.mp3" type="audio/mpeg" length="26794988"></enclosure>
+      <itunes:title>Babyfabrikken (1): Hemmeligheten</itunes:title>
+      <itunes:summary>I 2024 er Kayla (26) surrogatmor for første gang. Det hun ikke vet, er at babyens kommende foreldre har en mørk hemmelighet.</itunes:summary>
+      <itunes:duration>1116</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/etUG9diBvcv_lxww72zLGAR2VPQa1zrKEr39EDKE2uEQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Russell Brand: «Et seksuelt rovdyr»</title>
       <link>https://radio.nrk.no/podkast/krimrommet/l_b16a1240-efeb-4f44-bf66-9632cca7a91b</link>

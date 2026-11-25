@@ -6,7 +6,7 @@
     <description>Det lille du trenger for å henge med på sakene alle snakker om. Kåret til Årets podkast i 2026. Ny episode hver dag, mandag til fredag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Oppdatert</title>
       <link>https://radio.nrk.no/podkast/oppdatert</link>
     </image>
+    <item>
+      <title>Frykter atomkatastrofe: Bør Europa være bekymret?</title>
+      <link>https://radio.nrk.no/podkast/oppdatert/l_fe6a384a-e082-49d0-834f-b286cbb2f22b</link>
+      <description>I flere år har IAEA vært verdens atomkraft-voktere i Ukraina. Nå slår de og flere titalls land alarm.</description>
+      <guid isPermaLink="false">l_fe6a384a-e082-49d0-834f-b286cbb2f22b</guid>
+      <pubDate>Wed, 25 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/oppdatert/fe6a384a-e082-49d0-834f-b286cbb2f22b_4d6db4b7-5530-4baa-a9cc-830347995432_ID192MP3.mp3" type="audio/mpeg" length="25925804"></enclosure>
+      <itunes:title>Frykter atomkatastrofe: Bør Europa være bekymret?</itunes:title>
+      <itunes:summary>I flere år har IAEA vært verdens atomkraft-voktere i Ukraina. Nå slår de og flere titalls land alarm.</itunes:summary>
+      <itunes:duration>1080</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/2ow7uLokDTr7A8XBGF03gwKz9eppmYy-TnfypXipF8mA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Maricarmens kamp: Slik blei bustadkrise til nyval</title>
       <link>https://radio.nrk.no/podkast/oppdatert/l_ecd67010-4f3c-495f-8bdc-ebccff4a4c1d</link>

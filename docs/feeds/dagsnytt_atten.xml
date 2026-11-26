@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Budsjettavtale uten MDG</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_6a4b0b58-1f73-4abc-b67a-880bedad66f9</link>
+      <description>Arbeiderpartiet er enige om budsjettet med Senterpartiet, Rødt  og SV, men må ha med MDG for å få flertall.&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;</description>
+      <guid isPermaLink="false">l_6a4b0b58-1f73-4abc-b67a-880bedad66f9</guid>
+      <pubDate>Wed, 25 Nov 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/6a4b0b58-1f73-4abc-b67a-880bedad66f9_a4c3578c-c50d-4cd0-a574-7fb6547faa72_ID192MP3.mp3" type="audio/mpeg" length="84845996"></enclosure>
+      <itunes:title>Budsjettavtale uten MDG</itunes:title>
+      <itunes:summary>Arbeiderpartiet er enige om budsjettet med Senterpartiet, Rødt  og SV, men må ha med MDG for å få flertall.&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;</itunes:summary>
+      <itunes:duration>3535</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/EzxgDFcsWDvCcryR2SQKqAurB14pSgxTLAzy6ahM-ESg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Regjeringskaos i Sverige</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_e86a954e-dab8-4c04-9a18-d34510ff2d85</link>

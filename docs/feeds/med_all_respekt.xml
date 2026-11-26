@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>- Pakkiser elsker jul!</title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_99aff0fd-df3a-416e-a052-57a8b8e0ee1d</link>
+      <description>Hvorfor tror noen noe annet? Tara skal ha et hvitt år. Anders vedder på at hun ikke klarer det. Er lekeslåssing vanlig?</description>
+      <guid isPermaLink="false">l_99aff0fd-df3a-416e-a052-57a8b8e0ee1d</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/99aff0fd-df3a-416e-a052-57a8b8e0ee1d_adf4bd87-11bf-4ceb-ae7e-9c8c694ce195_ID192MP3.mp3" type="audio/mpeg" length="57267692"></enclosure>
+      <itunes:title>- Pakkiser elsker jul!</itunes:title>
+      <itunes:summary>Hvorfor tror noen noe annet? Tara skal ha et hvitt år. Anders vedder på at hun ikke klarer det. Er lekeslåssing vanlig?</itunes:summary>
+      <itunes:duration>2386</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>GTA 6 er klin likt GTA 5</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_0ff8b535-0599-4712-a36b-c27521350687</link>

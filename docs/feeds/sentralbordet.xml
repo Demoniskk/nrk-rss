@@ -6,7 +6,7 @@
     <description>Live, Vegard, Emilie og Ole Henry utgjør NRKs hemmelige sentralbord, hvor de ansatte må tulleringe til inn- og utland.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/sentralbordet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Sentralbordet på NRK</title>
       <link>https://radio.nrk.no/podkast/sentralbordet</link>
     </image>
+    <item>
+      <title>Fire venner og en telefon på telttur</title>
+      <link>https://radio.nrk.no/podkast/sentralbordet/l_27641633-8d55-4012-bbe8-518d7a193be3</link>
+      <description>Vi har tatt med telefonen på telttur i skogen og spilt inn en lang episode i Vegards oppblåsbare telt! Her må blant annet Ole Henry bryne seg på Stavangersk, en lærer skal lage beredskapssang, Steinar og Kari er på reise i Europa, og Vegard må be en kjent artist om hjelp med en fryser som har konka.</description>
+      <guid isPermaLink="false">l_27641633-8d55-4012-bbe8-518d7a193be3</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/sentralbordet/27641633-8d55-4012-bbe8-518d7a193be3_c6c20440-14e8-440b-ac95-eeba783139a9_ID192MP3.mp3" type="audio/mpeg" length="55875500"></enclosure>
+      <itunes:title>Fire venner og en telefon på telttur</itunes:title>
+      <itunes:summary>Vi har tatt med telefonen på telttur i skogen og spilt inn en lang episode i Vegards oppblåsbare telt! Her må blant annet Ole Henry bryne seg på Stavangersk, en lærer skal lage beredskapssang, Steinar og Kari er på reise i Europa, og Vegard må be en kjent artist om hjelp med en fryser som har konka.</itunes:summary>
+      <itunes:duration>2328</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/okFMCOFmR-WFNLAbmqHa5wjBwbvQmcjaQftnJgTlsNRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Rap og Country-spesial</title>
       <link>https://radio.nrk.no/podkast/sentralbordet/l_cf154088-ec31-4ddb-99f3-972360faf95e</link>

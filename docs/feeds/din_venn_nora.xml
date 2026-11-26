@@ -6,7 +6,7 @@
     <description>Nok en hektisk uke for komiker Nora Svenningsen. Her er hennes verbale dagbok, hvor du er med på å fargelegge sidene. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/din_venn_nora.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Din venn, Nora</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora</link>
     </image>
+    <item>
+      <title>Drømmen om gallamiddag</title>
+      <link>https://radio.nrk.no/podkast/din_venn_nora/l_f449e776-a6eb-4f52-a628-f63b39a08610</link>
+      <description>... men realiteten er åpning av fastfood-sjappe og revna bukse. I tillegg til 60 timer GTA og en høne å plukke med Viaplay. </description>
+      <guid isPermaLink="false">l_f449e776-a6eb-4f52-a628-f63b39a08610</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/din_venn_nora/f449e776-a6eb-4f52-a628-f63b39a08610_72bd4cf4-31a4-4974-bc23-beb0c88fb32e_ID192MP3.mp3" type="audio/mpeg" length="32348204"></enclosure>
+      <itunes:title>Drømmen om gallamiddag</itunes:title>
+      <itunes:summary>... men realiteten er åpning av fastfood-sjappe og revna bukse. I tillegg til 60 timer GTA og en høne å plukke med Viaplay. </itunes:summary>
+      <itunes:duration>1347</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tvvqXLkNP1MfroE3z7u7bAKk4GRbOYZVOMEOgZiLLU1A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Mitt første møte med Afrika</title>
       <link>https://radio.nrk.no/podkast/din_venn_nora/l_e123b15d-cc78-4c15-8af2-b894de823f54</link>

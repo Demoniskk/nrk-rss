@@ -6,7 +6,7 @@
     <description>Kjærligheten er kanskje størst, men også vond og nervepirrende. Heldigvis hjelper det å snakke om det.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/utro_haap_og_kjaerlighet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Utro, håp og kjærlighet</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet</link>
     </image>
+    <item>
+      <title>Cecilie Fjellhøy: Kjærlighetssvindel</title>
+      <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_b6bf906c-1d1a-4af9-b1fe-23a07fe9a692</link>
+      <description>Cecilie fra «Tinder-svindleren» forteller om kjærlighetssvindel og hvordan livet hennes ser ut nå, åtte år senere.</description>
+      <guid isPermaLink="false">l_b6bf906c-1d1a-4af9-b1fe-23a07fe9a692</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/utro_haap_og_kjaerlighet/b6bf906c-1d1a-4af9-b1fe-23a07fe9a692_5ada9ca3-7310-4254-a78c-abf127f37120_ID192MP3.mp3" type="audio/mpeg" length="92895020"></enclosure>
+      <itunes:title>Cecilie Fjellhøy: Kjærlighetssvindel</itunes:title>
+      <itunes:summary>Cecilie fra «Tinder-svindleren» forteller om kjærlighetssvindel og hvordan livet hennes ser ut nå, åtte år senere.</itunes:summary>
+      <itunes:duration>3870</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/652AL2wE02ptm0c5_6JSwAR_cpLcCgALfRhc5PQAZGug"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Vegard Harm: Evig singel?</title>
       <link>https://radio.nrk.no/podkast/utro_haap_og_kjaerlighet/l_bb045b3d-a830-4f2b-812f-ad2fd1df6586</link>

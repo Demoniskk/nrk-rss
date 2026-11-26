@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Kan grenseløse barn stoppes?</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_5c7236de-0096-4c2a-9324-cdc7ac539cf9</link>
+      <description>Slag, spark, trusler og bråk har blitt &#34;normalen&#34; på norske skoler. Hva skal til for å stoppe de grenseløse barna som flere rektorer nå peker på som en årsak til faglig forfall.  </description>
+      <guid isPermaLink="false">l_5c7236de-0096-4c2a-9324-cdc7ac539cf9</guid>
+      <pubDate>Thu, 26 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/5c7236de-0096-4c2a-9324-cdc7ac539cf9_2414da00-8f61-4225-a329-f3eec097acb0_ID192MP3.mp3" type="audio/mpeg" length="21757868"></enclosure>
+      <itunes:title>Kan grenseløse barn stoppes?</itunes:title>
+      <itunes:summary>Slag, spark, trusler og bråk har blitt &#34;normalen&#34; på norske skoler. Hva skal til for å stoppe de grenseløse barna som flere rektorer nå peker på som en årsak til faglig forfall.  </itunes:summary>
+      <itunes:duration>906</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/tmqq4mQXhGlP-duhcae_FAlUIqR8Jds2g4CVCqsW480A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Likelønnsdagen</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_2a15e251-c77a-4df4-a28d-365e33d4b29d</link>

@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Det kom en kråke i studio</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_3335021e-e8b6-4ebc-8265-5c971e5315fc</link>
+      <description>Vi får en litt spesiell gjest i Siesta, Daniel skal finne Norges første statsminister og hva tenker vi om å hoppe i strikk?</description>
+      <guid isPermaLink="false">l_3335021e-e8b6-4ebc-8265-5c971e5315fc</guid>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/3335021e-e8b6-4ebc-8265-5c971e5315fc_d3c3218f-1936-482c-9b14-2c496fd1e4fc_ID192MP3.mp3" type="audio/mpeg" length="62759276"></enclosure>
+      <itunes:title>Det kom en kråke i studio</itunes:title>
+      <itunes:summary>Vi får en litt spesiell gjest i Siesta, Daniel skal finne Norges første statsminister og hva tenker vi om å hoppe i strikk?</itunes:summary>
+      <itunes:duration>2614</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Tørr kylling er godt </title>
       <link>https://radio.nrk.no/podkast/siesta/l_13c8cbda-e054-4ef7-b519-0caa69bd07a9</link>

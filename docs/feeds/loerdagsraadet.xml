@@ -6,7 +6,7 @@
     <description>Hver uke blar tre (mer eller mindre) kvalifiserte rådgivere i sitt livserfaringsarkiv for å hjelpe deg. Lurer du på om du skal gjøre det slutt, er naboen din en tyrann eller er du håpløst forelsket? Vi skal prøve å gi deg gode råd.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 12:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:20:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/loerdagsraadet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lørdagsrådet</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet</link>
     </image>
+    <item>
+      <title>Dro Karoline på julebord eller jobb?</title>
+      <link>https://radio.nrk.no/podkast/loerdagsraadet/l_820a02b6-90d3-4f67-8b34-b599a6667755</link>
+      <description>Live er tilbake fra sykdom og vi hører tilbake fra Karoline og Linni som vi hjalp forrige uke!</description>
+      <guid isPermaLink="false">l_820a02b6-90d3-4f67-8b34-b599a6667755</guid>
+      <pubDate>Wed, 25 Nov 2026 16:20:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/loerdagsraadet/820a02b6-90d3-4f67-8b34-b599a6667755_78d9ff42-21c8-40d7-916d-d4c79ccd0fc5_ID192MP3.mp3" type="audio/mpeg" length="27366380"></enclosure>
+      <itunes:title>Dro Karoline på julebord eller jobb?</itunes:title>
+      <itunes:summary>Live er tilbake fra sykdom og vi hører tilbake fra Karoline og Linni som vi hjalp forrige uke!</itunes:summary>
+      <itunes:duration>1140</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/SAbwoo7p6A48tLpNp7IIagU5P8QsQc23jK06nv_zDisg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Mathea Josefsen / Nils-Ingar Aadne / Vivild Falk Berg</title>
       <link>https://radio.nrk.no/podkast/loerdagsraadet/l_bd8de5bd-b65d-43a1-93a1-cb178faec4d4</link>

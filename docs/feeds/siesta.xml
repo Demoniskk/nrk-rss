@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Kjøpte sokker på McDonalds</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_4cfb248e-1b2c-4921-a4b2-596701f747ec</link>
+      <description>Anna har nyheter om Vazelina, Markus vitser om Marius Borg Høiby og Daniel har sprøyte gæren spalten. </description>
+      <guid isPermaLink="false">l_4cfb248e-1b2c-4921-a4b2-596701f747ec</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/4cfb248e-1b2c-4921-a4b2-596701f747ec_405be520-7e4b-403a-8547-e0c6f097947c_ID192MP3.mp3" type="audio/mpeg" length="60129260"></enclosure>
+      <itunes:title>Kjøpte sokker på McDonalds</itunes:title>
+      <itunes:summary>Anna har nyheter om Vazelina, Markus vitser om Marius Borg Høiby og Daniel har sprøyte gæren spalten. </itunes:summary>
+      <itunes:duration>2505</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/WHcgmFTSPa1Vqdp6EwvJuQ2YSzAvdC2zF5-0MGV3ZKJA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Det kom en kråke i studio</title>
       <link>https://radio.nrk.no/podkast/siesta/l_3335021e-e8b6-4ebc-8265-5c971e5315fc</link>

@@ -6,7 +6,7 @@
     <description>For folk  som liker å vite litt mer</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/verdiboersen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Verdibørsen</title>
       <link>https://radio.nrk.no/podkast/verdiboersen</link>
     </image>
+    <item>
+      <title> Vikingtid og dansketid</title>
+      <link>https://radio.nrk.no/podkast/verdiboersen/l_f3356acc-9267-44d2-b646-23e8125ec190</link>
+      <description>Fra imperium til koloni&#xA;Med Terje Tvedt</description>
+      <guid isPermaLink="false">l_f3356acc-9267-44d2-b646-23e8125ec190</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/verdiboersen/f3356acc-9267-44d2-b646-23e8125ec190_e2a9ee76-91ef-430c-a6bf-cf65bc95bcac_ID192MP3.mp3" type="audio/mpeg" length="72055916"></enclosure>
+      <itunes:title> Vikingtid og dansketid</itunes:title>
+      <itunes:summary>Fra imperium til koloni&#xA;Med Terje Tvedt</itunes:summary>
+      <itunes:duration>3002</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/4P4w3p7ohOMDLayIn77pVgJyQOcYjVbpx8E7rdDsVfWw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Norge før &#34;Norge&#34;  1:4</title>
       <link>https://radio.nrk.no/podkast/verdiboersen/l_0508d620-6927-4cc3-984e-9694475866ea</link>

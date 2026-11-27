@@ -6,7 +6,7 @@
     <description>Hva er det som gjør enkelte så proppfulle av visjoner, giv og lidenskap? Vegard Larsen leter etter svar blant mennesker med unik drivkraft. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 13:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/drivkraft.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Drivkraft</title>
       <link>https://radio.nrk.no/podkast/drivkraft</link>
     </image>
+    <item>
+      <title>Tore Renberg</title>
+      <link>https://radio.nrk.no/podkast/drivkraft/l_59d30e66-f36e-474b-98ab-50faa70a3dfe</link>
+      <description>– Verden er en pøl av skrekk. Likevel jubler jeg hver morgen, sier forfatteren.&#xA;</description>
+      <guid isPermaLink="false">l_59d30e66-f36e-474b-98ab-50faa70a3dfe</guid>
+      <pubDate>Thu, 26 Nov 2026 14:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/drivkraft/59d30e66-f36e-474b-98ab-50faa70a3dfe_dc42ecb8-82de-4168-8b59-9298a3bcdf15_ID192MP3.mp3" type="audio/mpeg" length="82683116"></enclosure>
+      <itunes:title>Tore Renberg</itunes:title>
+      <itunes:summary>– Verden er en pøl av skrekk. Likevel jubler jeg hver morgen, sier forfatteren.&#xA;</itunes:summary>
+      <itunes:duration>3445</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/cY5syJj-KuC1ttiE9A27TQ5JhGEnNgPZRcMHk7BSrA6A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Ole Asbjørn Ness</title>
       <link>https://radio.nrk.no/podkast/drivkraft/l_930f41cd-6b57-40ff-92cc-1e1081f4f91e</link>

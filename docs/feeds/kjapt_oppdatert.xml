@@ -6,7 +6,7 @@
     <description>Få full oversikt – kjapt. Kva har skjedd i natt? Og kva skjer vidare i dag? Vi oppdaterer deg kvar måndag til fredag klokka 06.00.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 04:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:59:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kjapt_oppdatert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kjapt oppdatert</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert</link>
     </image>
+    <item>
+      <title>Julebordene endrer seg</title>
+      <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_a022cc46-e938-4d88-85e9-4cfa7495e3c2</link>
+      <description>Og FHI ber folk om å ta influensavaksinen nå.</description>
+      <guid isPermaLink="false">l_a022cc46-e938-4d88-85e9-4cfa7495e3c2</guid>
+      <pubDate>Fri, 27 Nov 2026 05:59:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kjapt_oppdatert/a022cc46-e938-4d88-85e9-4cfa7495e3c2_9f6e27b5-9409-450a-859f-a1e62af5cf0c_ID192MP3.mp3" type="audio/mpeg" length="7453484"></enclosure>
+      <itunes:title>Julebordene endrer seg</itunes:title>
+      <itunes:summary>Og FHI ber folk om å ta influensavaksinen nå.</itunes:summary>
+      <itunes:duration>310</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/1mEFuiv4Mk4LCjxUEJsJKw9313w6mATEijkKrthVf_SA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Mange frykter de ikke har råd til jul</title>
       <link>https://radio.nrk.no/podkast/kjapt_oppdatert/l_f9a16897-1624-4e20-9c2a-1c41fa9d7db8</link>

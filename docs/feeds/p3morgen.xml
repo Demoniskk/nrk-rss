@@ -6,7 +6,7 @@
     <description>Start dagen, formiddagen eller ettermiddagen med vår eksklusive podkast for B-mennesker. Høydepunkter fra radiosendingene hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/p3morgen.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>P3morgen for B-mennesker</title>
       <link>https://radio.nrk.no/podkast/p3morgen</link>
     </image>
+    <item>
+      <title>Arin har aldri skjønt juletreprosessen</title>
+      <link>https://radio.nrk.no/podkast/p3morgen/l_ecf46e19-17fe-48e8-833e-1297a39806e3</link>
+      <description>Tannlege skal bli billigere, vi skal dele ut plasser til P3ekspressen, og Arin skjønner ikke helt greien med juletre. En deilig fredagsmeny med andre ord!</description>
+      <guid isPermaLink="false">l_ecf46e19-17fe-48e8-833e-1297a39806e3</guid>
+      <pubDate>Fri, 27 Nov 2026 10:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/p3morgen/ecf46e19-17fe-48e8-833e-1297a39806e3_938f989d-00f1-48f8-9454-215554f8b724_ID192MP3.mp3" type="audio/mpeg" length="66506156"></enclosure>
+      <itunes:title>Arin har aldri skjønt juletreprosessen</itunes:title>
+      <itunes:summary>Tannlege skal bli billigere, vi skal dele ut plasser til P3ekspressen, og Arin skjønner ikke helt greien med juletre. En deilig fredagsmeny med andre ord!</itunes:summary>
+      <itunes:duration>2771</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Q3rBR54h-HTDbzyqsF1LXw0QfoRECUIr6D6Kr5CBnlDQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Dette er de vanligste passordene i Norge!</title>
       <link>https://radio.nrk.no/podkast/p3morgen/l_9b001ede-1506-41e2-94f1-780660bc259c</link>

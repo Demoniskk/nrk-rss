@@ -6,7 +6,7 @@
     <description>Alt kan skje og ingen er trygge når fire komikere oppsummerer uka!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/desken_brenner.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Desken brenner</title>
       <link>https://radio.nrk.no/podkast/desken_brenner</link>
     </image>
+    <item>
+      <title>Vi må snakke om Epstein (unntatt Mette-Marit)</title>
+      <link>https://radio.nrk.no/podkast/desken_brenner/l_aadc70ca-65f1-4012-8fca-47c41224cdf1</link>
+      <description>Jensen Huang er tilbake. Mette-Marit vil ikke snakke om Epstein. Har USA gjort Tiktok tryggere – eller er det bare en bløff?</description>
+      <guid isPermaLink="false">l_aadc70ca-65f1-4012-8fca-47c41224cdf1</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/desken_brenner/aadc70ca-65f1-4012-8fca-47c41224cdf1_7f2b4711-988e-4eb7-b26d-545b86e77a72_ID192MP3.mp3" type="audio/mpeg" length="60756524"></enclosure>
+      <itunes:title>Vi må snakke om Epstein (unntatt Mette-Marit)</itunes:title>
+      <itunes:summary>Jensen Huang er tilbake. Mette-Marit vil ikke snakke om Epstein. Har USA gjort Tiktok tryggere – eller er det bare en bløff?</itunes:summary>
+      <itunes:duration>2531</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/ePgojhPhmuymvlmaevKlsQAodV-L_n5VDpyCjSU-Th2Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 2026">2026</podcast:season>
+    </item>
     <item>
       <title>Urix x GTA</title>
       <link>https://radio.nrk.no/podkast/desken_brenner/l_db5ccdae-a19c-4073-812c-1616118a6a04</link>

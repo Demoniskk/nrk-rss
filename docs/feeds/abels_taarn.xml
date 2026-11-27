@@ -6,7 +6,7 @@
     <description>Forum for funfacts, hard forskning og bedrevitenskap </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/abels_taarn.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Abels tårn</title>
       <link>https://radio.nrk.no/podkast/abels_taarn</link>
     </image>
+    <item>
+      <title>Kan vin lukte kun drue?</title>
+      <link>https://radio.nrk.no/podkast/abels_taarn/l_1e29cc05-9628-4d75-9fbd-1726fd455975</link>
+      <description>Artig at drue er et anagram for edru, da...&#xA;Lurer du på de merkeligste ting og tang? Få svar fra Abels Tårns allvitende eksperter!</description>
+      <guid isPermaLink="false">l_1e29cc05-9628-4d75-9fbd-1726fd455975</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/abels_taarn/1e29cc05-9628-4d75-9fbd-1726fd455975_54c8ea58-c43c-496c-b70a-8045165490a4_ID192MP3.mp3" type="audio/mpeg" length="82953836"></enclosure>
+      <itunes:title>Kan vin lukte kun drue?</itunes:title>
+      <itunes:summary>Artig at drue er et anagram for edru, da...&#xA;Lurer du på de merkeligste ting og tang? Få svar fra Abels Tårns allvitende eksperter!</itunes:summary>
+      <itunes:duration>3456</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/luDQ4VMJ1FAD4h2V3Pt_0QmKh9ocqbP9vWyzqPMCOopw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Billig strøm til deg</title>
       <link>https://radio.nrk.no/podkast/abels_taarn/l_c6bce591-ab54-4f19-b720-eb544a281b7f</link>

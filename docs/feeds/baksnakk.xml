@@ -6,7 +6,7 @@
     <description>Sofie, Milie og Sade ler og gråter sammen med deg hver uke. Bli med i gjengen!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/baksnakk.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Baksnakk</title>
       <link>https://radio.nrk.no/podkast/baksnakk</link>
     </image>
+    <item>
+      <title>Baksnakk live fra Demokratifestivalen</title>
+      <link>https://radio.nrk.no/podkast/baksnakk/l_7f2bd98b-13dc-4e4c-9a7d-53fdcba48e04</link>
+      <description>Hva hadde skjedd hvis ungdom styrte verden? Det finner Baksnakk svaret på live! &#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</description>
+      <guid isPermaLink="false">l_7f2bd98b-13dc-4e4c-9a7d-53fdcba48e04</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/baksnakk/7f2bd98b-13dc-4e4c-9a7d-53fdcba48e04_d18017b7-4c13-4f9a-bf33-440336c34433_ID192MP3.mp3" type="audio/mpeg" length="73161260"></enclosure>
+      <itunes:title>Baksnakk live fra Demokratifestivalen</itunes:title>
+      <itunes:summary>Hva hadde skjedd hvis ungdom styrte verden? Det finner Baksnakk svaret på live! &#xA;&#xA;Send oss spørsmål i appen NRK Radio! :)</itunes:summary>
+      <itunes:duration>3048</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qnD0tyHJ3QSEgVud2Vx_HwqgbgCwQskfopvSylVsaFxg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>OnlyFans, trøndersk og sokker i senga</title>
       <link>https://radio.nrk.no/podkast/baksnakk/l_8da3f839-0ad2-47d9-bbaa-1748018dfb10</link>

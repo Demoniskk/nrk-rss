@@ -6,7 +6,7 @@
     <description>Bli politisk oppdatert på ett kvarter. Her må politikerne svare for seg i de store sakene der mest står på spill. &#xA;</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/politisk_kvarter.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Politisk kvarter</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter</link>
     </image>
+    <item>
+      <title>Eit grønt nei og eit grønt ja</title>
+      <link>https://radio.nrk.no/podkast/politisk_kvarter/l_ff01d147-f31c-4664-bc30-27f9f2014d70</link>
+      <description>Kvifor seier MDG nei til statsbudsjettet som SV aksepterer?</description>
+      <guid isPermaLink="false">l_ff01d147-f31c-4664-bc30-27f9f2014d70</guid>
+      <pubDate>Fri, 27 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/politisk_kvarter/ff01d147-f31c-4664-bc30-27f9f2014d70_15d7c478-0c8b-4b80-a20f-86dd19df3676_ID192MP3.mp3" type="audio/mpeg" length="21711788"></enclosure>
+      <itunes:title>Eit grønt nei og eit grønt ja</itunes:title>
+      <itunes:summary>Kvifor seier MDG nei til statsbudsjettet som SV aksepterer?</itunes:summary>
+      <itunes:duration>904</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/vpcVxU6GJ1N4edYO-h409wT4HJD6vGQf_QheqRxHLelw"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Kan grenseløse barn stoppes?</title>
       <link>https://radio.nrk.no/podkast/politisk_kvarter/l_5c7236de-0096-4c2a-9324-cdc7ac539cf9</link>

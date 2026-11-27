@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Skattelette til de høytlønnede</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_77d69b10-1c21-4fd6-9757-b11724aba582</link>
+      <description>Professor mener det lønner seg å gi de som tjener mest mindre skatt.</description>
+      <guid isPermaLink="false">l_77d69b10-1c21-4fd6-9757-b11724aba582</guid>
+      <pubDate>Thu, 26 Nov 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/77d69b10-1c21-4fd6-9757-b11724aba582_db75a7df-ced0-45c7-a437-ff1d37e46248_ID192MP3.mp3" type="audio/mpeg" length="85026860"></enclosure>
+      <itunes:title>Skattelette til de høytlønnede</itunes:title>
+      <itunes:summary>Professor mener det lønner seg å gi de som tjener mest mindre skatt.</itunes:summary>
+      <itunes:duration>3542</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/XlQE-x9-8z28nAlbyX8ANAFxv2hJD2b4eRd1wyYk1Wvg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Budsjettavtale uten MDG</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_6a4b0b58-1f73-4abc-b67a-880bedad66f9</link>

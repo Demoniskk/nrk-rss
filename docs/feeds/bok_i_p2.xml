@@ -6,7 +6,7 @@
     <description>Møt aktuelle forfattere, hør dem fortelle om den nye boken sin, forfatterskapet og hvordan bøkene blir til. Ny episode hver fredag!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/bok_i_p2.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Åpen bok</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2</link>
     </image>
+    <item>
+      <title>Karl Ove Knausgård - Livet kan være uforsonlig</title>
+      <link>https://radio.nrk.no/podkast/bok_i_p2/l_e0bc3b0c-3388-4372-8b70-67b344bdfabc</link>
+      <description>Karl Ove Knausgård er både lettet og litt tom etter å ha gitt ut romanen &#34;Underjordisk&#34;, som er avsluttende og syvende bind i serien om &#34;Morgenstjernen&#34; I dette intervjuet forteller han om hvordan han velger ut karakterer i bøkene sine, og avslører at han veldig ofte kan kjenne på en skam når han leser det han selv har skrevet.</description>
+      <guid isPermaLink="false">l_e0bc3b0c-3388-4372-8b70-67b344bdfabc</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/bok_i_p2/e0bc3b0c-3388-4372-8b70-67b344bdfabc_320bd243-e9a8-40ce-8335-4e42606c2383_ID192MP3.mp3" type="audio/mpeg" length="82239020"></enclosure>
+      <itunes:title>Karl Ove Knausgård - Livet kan være uforsonlig</itunes:title>
+      <itunes:summary>Karl Ove Knausgård er både lettet og litt tom etter å ha gitt ut romanen &#34;Underjordisk&#34;, som er avsluttende og syvende bind i serien om &#34;Morgenstjernen&#34; I dette intervjuet forteller han om hvordan han velger ut karakterer i bøkene sine, og avslører at han veldig ofte kan kjenne på en skam når han leser det han selv har skrevet.</itunes:summary>
+      <itunes:duration>3426</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/mgc_HvvlKdQcZvfIOxKFeQfw56JDfbCm4PcRJyaXB3YA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Mona Høvring- Vanessa, den lille jenta som vakler, leter og tviler.</title>
       <link>https://radio.nrk.no/podkast/bok_i_p2/l_39967220-8e1d-48a4-b28a-c0c058b82ee6</link>

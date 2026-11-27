@@ -6,7 +6,7 @@
     <description>Hør NRK Super sine beste sanger!</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/musikk_fra_nrk_super.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,32 @@
       <title>Musikk fra NRK Super</title>
       <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super</link>
     </image>
+    <item>
+      <title>Julas magi</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_46ff22ad-d147-45fd-8ba2-0dd97de96cba</link>
+      <description>Bli med og syng jula inn sammen med Dyredilla!</description>
+      <guid isPermaLink="false">l_46ff22ad-d147-45fd-8ba2-0dd97de96cba</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/46ff22ad-d147-45fd-8ba2-0dd97de96cba_0e394ec9-8a81-44a2-896f-8937646c55e4_ID192MP3.mp3" type="audio/mpeg" length="5039468"></enclosure>
+      <itunes:title>Julas magi</itunes:title>
+      <itunes:summary>Bli med og syng jula inn sammen med Dyredilla!</itunes:summary>
+      <itunes:duration>209</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/uXgpWmiLuNzZyWwwfRoiNA4ADlluvfkWP-tZBYHAelnQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Solsnu (musikkvideo)</title>
+      <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_6c9d7ff0-2ba6-494a-9620-e37c096289a9</link>
+      <description>Gled deg til årets julekalender. Her er en smakebit.</description>
+      <guid isPermaLink="false">l_6c9d7ff0-2ba6-494a-9620-e37c096289a9</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/musikk_fra_nrk_super/6c9d7ff0-2ba6-494a-9620-e37c096289a9_e9b40f1d-f42e-4e9b-a309-1813b7ab1a7c_ID192MP3.mp3" type="audio/mpeg" length="5586668"></enclosure>
+      <itunes:title>Solsnu (musikkvideo)</itunes:title>
+      <itunes:summary>Gled deg til årets julekalender. Her er en smakebit.</itunes:summary>
+      <itunes:duration>232</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/V8ahM7jBtSUiQKshNTVjCwR1lNa8uaDnhMYfLufIBIfQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Dyredilla</title>
       <link>https://radio.nrk.no/podkast/musikk_fra_nrk_super/l_67c5ba4a-348f-47f3-85ba-4a348f07f38c</link>

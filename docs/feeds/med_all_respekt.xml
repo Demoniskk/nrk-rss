@@ -6,7 +6,7 @@
     <description>Galskap, korrupsjon og andre lættis temaer får du av MAR-gjengen. Abu, Anders, Galvan, Sandeep og Tara blikker verden og diskuterer helt usensurert.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/med_all_respekt.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Med all respekt</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt</link>
     </image>
+    <item>
+      <title>–Om du dør, jeg graver deg opp! </title>
+      <link>https://radio.nrk.no/podkast/med_all_respekt/l_1c127ed8-6acd-4bae-aefd-2e4e925511bb</link>
+      <description>Abu utvider et uskyldig billån til svenskehandel hele helga. Tara svarer med å gi juling i graven hvis han krasjer.</description>
+      <guid isPermaLink="false">l_1c127ed8-6acd-4bae-aefd-2e4e925511bb</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/med_all_respekt/1c127ed8-6acd-4bae-aefd-2e4e925511bb_ab606d3e-70d8-4a18-886e-50bb10ef4d68_ID192MP3.mp3" type="audio/mpeg" length="39632300"></enclosure>
+      <itunes:title>–Om du dør, jeg graver deg opp! </itunes:title>
+      <itunes:summary>Abu utvider et uskyldig billån til svenskehandel hele helga. Tara svarer med å gi juling i graven hvis han krasjer.</itunes:summary>
+      <itunes:duration>1651</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/qMx1_yDlELuvhrcDWRMmEgmO5vJy9IaOQUmd5I26Q0qA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>- Pakkiser elsker jul!</title>
       <link>https://radio.nrk.no/podkast/med_all_respekt/l_99aff0fd-df3a-416e-a052-57a8b8e0ee1d</link>

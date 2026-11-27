@@ -6,7 +6,7 @@
     <description>Vi oppsummerer kulturuka hver fredag, med faste, friske og freidige paneldeltakere.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 07:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/fredagspanelet.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,19 @@
       <title>Fredagspanelet</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet</link>
     </image>
+    <item>
+      <title>Vikingtidsmuseet, julefeiring og arkitekturopprør</title>
+      <link>https://radio.nrk.no/podkast/fredagspanelet/l_72c99f29-61f4-4a0a-bca9-eef7b805af4a</link>
+      <description>&#xA;Er det riktig å utsette åpningen av vikingtidsmuseet NOK en gang, &#xA;for så å sende folk inn i det gamle huset for å kjøpe brus og vafler? &#xA;Blir det bedre arkitektur av å ha arkitekturopprøret eller grøssprisen? &#xA;Og bør vi feire julen mer slik de gjorde på 40-tallet? </description>
+      <guid isPermaLink="false">l_72c99f29-61f4-4a0a-bca9-eef7b805af4a</guid>
+      <pubDate>Fri, 27 Nov 2026 08:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/fredagspanelet/72c99f29-61f4-4a0a-bca9-eef7b805af4a_31819ae5-9e1e-41d2-a085-092e67e905af_ID192MP3.mp3" type="audio/mpeg" length="16812332"></enclosure>
+      <itunes:title>Vikingtidsmuseet, julefeiring og arkitekturopprør</itunes:title>
+      <itunes:summary>&#xA;Er det riktig å utsette åpningen av vikingtidsmuseet NOK en gang, &#xA;for så å sende folk inn i det gamle huset for å kjøpe brus og vafler? &#xA;Blir det bedre arkitektur av å ha arkitekturopprøret eller grøssprisen? &#xA;Og bør vi feire julen mer slik de gjorde på 40-tallet? </itunes:summary>
+      <itunes:duration>700</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/Gun5LrjTEsNW7IcMjL6TDQW5cW8D-lVmhxPf-acKktAg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Årets ord, Jeff Bezos og dialektskam</title>
       <link>https://radio.nrk.no/podkast/fredagspanelet/l_7e4adc99-a3b4-44dd-8c46-d9b0a75435df</link>

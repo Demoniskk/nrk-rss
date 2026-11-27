@@ -6,7 +6,7 @@
     <description>Hør sendingen med programleder Steinar Suvatne, som også forklarer hvilke valg redaksjonen har gjort og oppsummerer sendingen. </description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 21:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:05:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/debatten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Debatten</title>
       <link>https://radio.nrk.no/podkast/debatten</link>
     </image>
+    <item>
+      <title>Politisk toppmøte</title>
+      <link>https://radio.nrk.no/podkast/debatten/l_a18b475e-ef6c-4aad-aaff-130c70bd4382</link>
+      <description>Jonas Gahr Støre møter Sylvi Listhaug til duell, og Listhaug møter Ine Eriksen Søreide.</description>
+      <guid isPermaLink="false">l_a18b475e-ef6c-4aad-aaff-130c70bd4382</guid>
+      <pubDate>Thu, 26 Nov 2026 22:05:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/debatten/a18b475e-ef6c-4aad-aaff-130c70bd4382_bcd0b474-5cfc-4646-b565-1a32fef8a99c_ID192MP3.mp3" type="audio/mpeg" length="65082860"></enclosure>
+      <itunes:title>Politisk toppmøte</itunes:title>
+      <itunes:summary>Jonas Gahr Støre møter Sylvi Listhaug til duell, og Listhaug møter Ine Eriksen Søreide.</itunes:summary>
+      <itunes:duration>2711</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/R4JONA__ilCEpa1CjiFTMw0VuQHomBHafUy_M6UIU97A"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Milliardsprekk på vei og bane</title>
       <link>https://radio.nrk.no/podkast/debatten/l_706a27e2-b93c-49ff-9497-75845243f9ee</link>

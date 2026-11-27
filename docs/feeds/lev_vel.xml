@@ -6,7 +6,7 @@
     <description>Hva kan du gjøre for å leve litt smartere? Linnéa Myhre guider deg gjennom jungelen av helse- og livsstilsråd, med kunnskapsrike gjester.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 04:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/lev_vel.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Lev vel</title>
       <link>https://radio.nrk.no/podkast/lev_vel</link>
     </image>
+    <item>
+      <title>På hjertet: Matfokuset i julen</title>
+      <link>https://radio.nrk.no/podkast/lev_vel/l_e9bc0727-e68d-44b8-8f59-baa843bc09a4</link>
+      <description>Hvordan er det å ha et anstrengt forhold til mat når det nærmer seg jul? Linnéa deler sine erfaringer.</description>
+      <guid isPermaLink="false">l_e9bc0727-e68d-44b8-8f59-baa843bc09a4</guid>
+      <pubDate>Fri, 27 Nov 2026 05:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/lev_vel/e9bc0727-e68d-44b8-8f59-baa843bc09a4_e2e572d4-1b58-4371-8ac8-7f3d8fbb3104_ID192MP3.mp3" type="audio/mpeg" length="22999148"></enclosure>
+      <itunes:title>På hjertet: Matfokuset i julen</itunes:title>
+      <itunes:summary>Hvordan er det å ha et anstrengt forhold til mat når det nærmer seg jul? Linnéa deler sine erfaringer.</itunes:summary>
+      <itunes:duration>958</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/RPyy1A2Jk0-GzpcdlrScEgd0MiLbJJHJXlmglZ5KjM1g"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Julestress: De beste rådene</title>
       <link>https://radio.nrk.no/podkast/lev_vel/l_b25229b2-9962-4b7d-baa7-5b345ddfc313</link>

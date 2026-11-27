@@ -6,7 +6,7 @@
     <description>De store sakene fra nyhetsbildet forklart av NRKs kommentatorer. Programleder er Eivind Waage.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 16:58:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:56:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/kommentert.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Kommentert</title>
       <link>https://radio.nrk.no/podkast/kommentert</link>
     </image>
+    <item>
+      <title>Vold og våpen i skolen: Hvordan får vi kontroll?</title>
+      <link>https://radio.nrk.no/podkast/kommentert/l_2429daa7-137c-4772-8117-c72b1bd81554</link>
+      <description>Nå er omfanget av elever som utøver vold og trusler mot lærere og elever i grunnskolen, blitt så stort, at mange skoleansatte roper om hjelp. Hvordan havnet vi her? &#xA;&#xA;Og ny Brennpunkt-dokumentar avdekker hvordan skjønnhetsbransjen, med botox og fillers, er full av feilbehandlede pasienter, ulovlige behandlere og forhold som ligner ville vesten.&#xA;</description>
+      <guid isPermaLink="false">l_2429daa7-137c-4772-8117-c72b1bd81554</guid>
+      <pubDate>Thu, 26 Nov 2026 16:56:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/kommentert/2429daa7-137c-4772-8117-c72b1bd81554_80d37824-e983-4fdb-becb-78f10aab6514_ID192MP3.mp3" type="audio/mpeg" length="50346476"></enclosure>
+      <itunes:title>Vold og våpen i skolen: Hvordan får vi kontroll?</itunes:title>
+      <itunes:summary>Nå er omfanget av elever som utøver vold og trusler mot lærere og elever i grunnskolen, blitt så stort, at mange skoleansatte roper om hjelp. Hvordan havnet vi her? &#xA;&#xA;Og ny Brennpunkt-dokumentar avdekker hvordan skjønnhetsbransjen, med botox og fillers, er full av feilbehandlede pasienter, ulovlige behandlere og forhold som ligner ville vesten.&#xA;</itunes:summary>
+      <itunes:duration>2097</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/5KZz71iEwnvJopNak1-2PQBEye_jG51hnVRItECYKRRA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="Sesong 1">1</podcast:season>
+    </item>
     <item>
       <title>Atomvåpen-satelitt og Libya-angrep: – Ingen har kontroll</title>
       <link>https://radio.nrk.no/podkast/kommentert/l_af48b050-967d-4573-ab83-4542d65ca640</link>

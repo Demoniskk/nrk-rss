@@ -6,7 +6,7 @@
     <description>Daglig aktualitets- og debattprogram med det viktigste fra nyhetsbildet. Programledere er Espen Aas og Anne Katrine Førli.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/dagsnytt_atten.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Dagsnytt 18</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten</link>
     </image>
+    <item>
+      <title>Frps alternative budsjett</title>
+      <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_766f4932-c6f4-4dee-9a04-2ea45857e851</link>
+      <description>Vil kutte statens utgifter med 63 milliarder kroner.</description>
+      <guid isPermaLink="false">l_766f4932-c6f4-4dee-9a04-2ea45857e851</guid>
+      <pubDate>Fri, 27 Nov 2026 19:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/dagsnytt_atten/766f4932-c6f4-4dee-9a04-2ea45857e851_471c39c3-1743-41b3-9bf2-6e76e85a5f18_ID192MP3.mp3" type="audio/mpeg" length="84958892"></enclosure>
+      <itunes:title>Frps alternative budsjett</itunes:title>
+      <itunes:summary>Vil kutte statens utgifter med 63 milliarder kroner.</itunes:summary>
+      <itunes:duration>3539</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/jCmx5RcLN8tvKIx65QAr-AsZcebTSoq8Jq1Us4xEbs1Q"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Skattelette til de høytlønnede</title>
       <link>https://radio.nrk.no/podkast/dagsnytt_atten/l_77d69b10-1c21-4fd6-9757-b11724aba582</link>

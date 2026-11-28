@@ -6,7 +6,7 @@
     <description>Svensken Åsa Linderborg, dansken Hassan Preisler og norsken Hilde Sandvik gir deg pan-skandinavisk familieterapi hver lørdag.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/norsken_svensken_og_dansken.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Norsken, svensken og dansken</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken</link>
     </image>
+    <item>
+      <title>Woke jul</title>
+      <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_a4b76293-eac4-4336-837c-dc71daf49e25</link>
+      <description>Dansk film om pedofil mann er rystende god, dårlig tannpuss kan sende foreldre i fengsel, og er de antiwoke mest woke av alle?</description>
+      <guid isPermaLink="false">l_a4b76293-eac4-4336-837c-dc71daf49e25</guid>
+      <pubDate>Sat, 28 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/norsken_svensken_og_dansken/a4b76293-eac4-4336-837c-dc71daf49e25_e3a86295-4d28-4786-959e-e19de87bad71_ID192MP3.mp3" type="audio/mpeg" length="82148012"></enclosure>
+      <itunes:title>Woke jul</itunes:title>
+      <itunes:summary>Dansk film om pedofil mann er rystende god, dårlig tannpuss kan sende foreldre i fengsel, og er de antiwoke mest woke av alle?</itunes:summary>
+      <itunes:duration>3422</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/YbP2wjaDUG9OQu-yBtMHAAwdgae701fiRzJ-y-xo1ZQQ"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Satans verk</title>
       <link>https://radio.nrk.no/podkast/norsken_svensken_og_dansken/l_68d99255-a084-45eb-b548-738052dafaf6</link>

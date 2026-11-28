@@ -6,7 +6,7 @@
     <description>Anna, Daniel og Markus gir deg en pause fra alt det kjedelige i livet. Sånt lukter det svidd av.</description>
     <language>no</language>
     <copyright>NRK</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:00:00 +0000</lastBuildDate>
     <generator>nrk-rss</generator>
     <atom:link href="https://Demoniskk.github.io/nrk-rss/feeds/siesta.xml" rel="self" type="application/rss+xml"></atom:link>
     <itunes:author>NRK</itunes:author>
@@ -23,6 +23,20 @@
       <title>Siesta</title>
       <link>https://radio.nrk.no/podkast/siesta</link>
     </image>
+    <item>
+      <title>Anna intervjuer Chris Holsten</title>
+      <link>https://radio.nrk.no/podkast/siesta/l_8e740a61-7a52-4a30-920d-2bae35a0ea42</link>
+      <description>Hva betyr nissetrengt, hvem vinner Quizmasvang og hvordan går det når Anna intervjuer Chris Holsten? </description>
+      <guid isPermaLink="false">l_8e740a61-7a52-4a30-920d-2bae35a0ea42</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0100</pubDate>
+      <enclosure url="https://podkast.nrk.no/fil/siesta/8e740a61-7a52-4a30-920d-2bae35a0ea42_4c035d25-1626-4793-886e-75aeece3e6e7_ID192MP3.mp3" type="audio/mpeg" length="69351020"></enclosure>
+      <itunes:title>Anna intervjuer Chris Holsten</itunes:title>
+      <itunes:summary>Hva betyr nissetrengt, hvem vinner Quizmasvang og hvordan går det når Anna intervjuer Chris Holsten? </itunes:summary>
+      <itunes:duration>2889</itunes:duration>
+      <itunes:image href="https://gfx.nrk.no/u958vjVwmKcDxAOkFfOEYwgX5w7f-T7D2Z8dvD9t03uA"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <podcast:season name="November 2026">202611</podcast:season>
+    </item>
     <item>
       <title>Kjøpte sokker på McDonalds</title>
       <link>https://radio.nrk.no/podkast/siesta/l_4cfb248e-1b2c-4921-a4b2-596701f747ec</link>
